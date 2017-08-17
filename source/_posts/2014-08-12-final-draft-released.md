@@ -39,7 +39,7 @@ In addition, tools to aid in the creation and testing of conforming applications
 
 Reference implementations of the Image API and collections of fixture Manifests for the Presentation API:
 
- * [2.0 Reference Implementation]({{ page.webprefix }}/api/image/2.0/example/reference/67352ccc-d1b0-11e1-89ae-279075081939/)
+ <!-- * [2.0 Reference Implementation]({{ page.webprefix }}/api/image/2.0/example/reference/67352ccc-d1b0-11e1-89ae-279075081939/) -->
  * [Valid Manifest Collection]({{ page.webprefix }}/api/presentation/2.0/example/fixtures/collection.json)
  * [Invalid Manifest Collection]({{ page.webprefix }}/api/presentation/2.0/example/fixtures/collection.json)
 
