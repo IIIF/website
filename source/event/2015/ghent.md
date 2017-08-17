@@ -130,17 +130,17 @@ Some possible additions to security around the events:
 We continue to look forwards to the discussions in Ghent, and hope that we'll see you there.
 
 
-[home-page]: http://iiif.io/
+[home-page]: {{ page.webprefix }}
 [event-brite]: http://iiif-ghent-2015.eventbrite.com/
 [event-brite-wg]: https://iiif-winter-2015.eventbrite.com/
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [logistics]: #logistics
-[iiif-c]: http://iiif.io/news/2015/06/17/iiif-consortium/
-[tech-details]: http://iiif.io/technical-details/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
+[tech-details]: {{ site.url }}{{ site.baseurl }}/technical-details/
 [ghent-lib]: http://lib.ugent.be/
 [visit-gent]: http://www.visitgent.be/en/
-[ghent-hotels]: /event/2015/ghent-hotels/
-[ghent-restaurants]: /event/2015/ghent-restaurants/
+[ghent-hotels]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent-hotels/
+[ghent-restaurants]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent-restaurants/
 [universal-viewer]: https://github.com/UniversalViewer/universalviewer
 [manifesto]: https://github.com/UniversalViewer/manifesto
 [sched]: http://iiifghent2015.sched.org/

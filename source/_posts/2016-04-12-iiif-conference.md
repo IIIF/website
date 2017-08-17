@@ -14,6 +14,6 @@ IIIF provides an open framework for organizations to publish their image-based r
 
 This event will be valuable for organizational decision makers, repository and collection managers, software engineers; for cultural heritage or STEM (science / technology / engineering / medicine) institutions; or for anyone engaged with image-based resources on the Web. It is intended for people who have not been involved with IIIF in the past to quickly get up to speed and understand the community and its benefits. Attendance is free, and widespread dissemination of the event is encouraged. Registration is required in order to ensure that we do not exceed the capacity of the venue
 
-[nyc2016]: /event/2016/newyork/ "Access to the World's Images - New York 2016"
-[register]: /event/2016/newyork/#logistics "Logistics for Access to the World’s Images: The Advantages of IIIF"
+[nyc2016]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/ "Access to the World's Images - New York 2016"
+[register]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/#logistics "Logistics for Access to the World’s Images: The Advantages of IIIF"
 

@@ -19,7 +19,7 @@ The IIIF community calls alternate between a technical and community focus, prov
   [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
   [comm-notes]: https://drive.google.com/drive/u/0/folders/0B9EeoRu2zWerNkktNVp5bDhleE0
   [https://stanford.zoom.us/j/356715389]: https://stanford.zoom.us/j/356715389
-  [iiif-calendar]: http://iiif.io/community/groups/
+  [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
   [international-zoom]: https://zoom.us/zoomconference
 
 

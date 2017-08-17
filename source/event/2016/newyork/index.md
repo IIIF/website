@@ -14,7 +14,7 @@ tags: [event ]
 
 On Tuesday, 10th of May 2016, the International Image Interoperability Framework ([IIIF][home-page]) community and the New York Museum of Modern Art ([MOMA][moma]) are hosting a one day event describing the power and potential of interoperable image delivery over the Web. Embraced by a growing number of the world’s leading research and cultural heritage organizations, IIIF provides an open framework for organizations to publish their image-based resources, to be viewed, cited, annotated, and more by any compatible image-viewing application. The day will showcase how institutions are leveraging IIIF to reduce total cost and time to deploy image delivery solutions, while simultaneously improving end user experience with a new host of rich and dynamic features. It will also highlight how to participate in this growing movement to take advantage of the common framework.
 
-This event will be valuable for organizational decision makers, repository and collection managers, software engineers; for cultural heritage or STEM (science / technology /  engineering / medicine) institutions; or for anyone engaged with image-based resources on the Web.  It is intended for people who have not been involved with IIIF in the past to quickly get up to speed and understand the community and its benefits. Attendance is free, and widespread dissemination of the event is encouraged. [Registration][eventbrite] is required in order to ensure that we do not exceed the capacity of the venue. 
+This event will be valuable for organizational decision makers, repository and collection managers, software engineers; for cultural heritage or STEM (science / technology /  engineering / medicine) institutions; or for anyone engaged with image-based resources on the Web.  It is intended for people who have not been involved with IIIF in the past to quickly get up to speed and understand the community and its benefits. Attendance is free, and widespread dissemination of the event is encouraged. [Registration][eventbrite] is required in order to ensure that we do not exceed the capacity of the venue.
 
 ### Logistics
 
@@ -46,13 +46,13 @@ A [sched][sched] site with the details will be available.
 | 3:00 - 3:30   | _Break_              | |
 | 3:30 - 4:10   | Open Access Panel  | Will Noel (University of Pennsylvania), Merete Sanderhoff (National Gallery of Denmark), Simon Tanner (King's College London) |
 | 4:10 - 4:25   | Discovery          | Michael Stocking (Armadillo Systems) |
-| 4:25 - 4:45   | Q&A                | Simeon Warner (Cornell) | 
+| 4:25 - 4:45   | Q&A                | Simeon Warner (Cornell) |
 | 4:45 - 5:00   | Close              | Tom Cramer (Stanford) |
 {: .api-table .sched-table}
 
 ## Access to the World's Images: The IIIF Conference
 
-Following the introductory event, from Wednesday 11th through Friday 13th of May, the IIIF community will hold its first annual conference in New York City and welcomes submissions for presentations, panels, lightning talks, and facilitated "birds-of-a-feather" conversations.   The first day will be a plenary single tracked event, and the following two days will be parallel tracked sessions intended for collaborative action to advance the community. Submissions relevant to all aspects of the IIIF community, the IIIF specifications, software that implements these specifications, and the provision of access to image content are solicited across all three days. Submissions related to working groups within the IIIF community are also particularly welcomed, as are demonstrations of IIIF being used in novel and interesting ways. 
+Following the introductory event, from Wednesday 11th through Friday 13th of May, the IIIF community will hold its first annual conference in New York City and welcomes submissions for presentations, panels, lightning talks, and facilitated "birds-of-a-feather" conversations.   The first day will be a plenary single tracked event, and the following two days will be parallel tracked sessions intended for collaborative action to advance the community. Submissions relevant to all aspects of the IIIF community, the IIIF specifications, software that implements these specifications, and the provision of access to image content are solicited across all three days. Submissions related to working groups within the IIIF community are also particularly welcomed, as are demonstrations of IIIF being used in novel and interesting ways.
 
 ### Logistics
 
@@ -83,7 +83,7 @@ A [sched][sched] site with the details will be available.
 |               | Mirador for Maps | G. Salim Mohammed (David Rumsey Map Center, Stanford) |
 |  9:45 - 10:30 | Trends in IIIF (panel) | Claire Knowles (Edinburgh), Rashmi Singhal (Harvard), Stu Snydman (Stanford), Simeon Warner (Cornell)  |
 | 10:30 - 11:00 | _Break_ | -- |
-| 11:00 - 12:00 | IIIF API Walkthrough: Image, Presentation, Search and Authentication | Mike Appleby (Yale), Tom Crane (Digirati), Rob Sanderson (Getty), Jon Stroop (Princeton) | 
+| 11:00 - 12:00 | IIIF API Walkthrough: Image, Presentation, Search and Authentication | Mike Appleby (Yale), Tom Crane (Digirati), Rob Sanderson (Getty), Jon Stroop (Princeton) |
 | 12:00 -  1:45 | _Lunch_ | _On Your Own_  |
 |  1:45 -  2:20 | Lightning Talks 2: |  |
 |               | IIIF as an Enabler to Interoperability within a Single Institution | Randy Stern (Harvard) |
@@ -91,7 +91,7 @@ A [sched][sched] site with the details will be available.
 |               | Metadata Search | Mark Patton (JHU)|
 |  2:20 -  2:40 | Webmention: A Demonstration of IIIF Collaboration between Scholars and Holding Libraries | Jeffrey Witt (Loyola University), Rafael Schwemmer (text & bytes)|
 |  2:40 -  3:00 | Leaflet-IIIF: Plugins and Extensibility with IIIF | Jack Reed (Stanford) |
-|  3:00 -  3:30 | _Break_ | -- | 
+|  3:00 -  3:30 | _Break_ | -- |
 |  3:30 -  4:15 | IIIF and the Wider World: Alignment with Other Specifications (panel) | Mark Matienzo (DPLA), Rob Sanderson (Getty) |
 |  4:15 -  5:00 | Big Projects in the Big Tent: Organizing Large Scale, IIIF-wide Projects in the Emerging IIIF Community Framework (discussion) | Tom Cramer (Stanford, facilitator) |
 {: .api-table .sched-table}
@@ -126,16 +126,16 @@ A [sched][sched] site with the details will be available.
 | 4:15 - 5:00   | Feedback, Next Steps, Close |  | Manuscript WG |
 {: .api-table .msched-table}
 
-[home-page]: http://iiif.io/
+[home-page]: {{ page.webprefix }}
 [eventbrite]: http://iiif-advantages-nyc.eventbrite.com/
 [eventbrite-conf]: http://iiif-conference-nyc.eventbrite.com/
-[conduct]: /event/conduct/
-[iiif-c]: http://iiif.io/news/2015/06/17/iiif-consortium/
-[tech-details]: http://iiif.io/technical-details/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
+[tech-details]: {{ site.url }}{{ site.baseurl }}/technical-details/
 [proposals]: mailto:iiif-proposals@googlegroups.com
 [moma]: http://www.moma.org/
 [moma-map]: https://goo.gl/maps/9wFHb2ZzVE72
 [nyam]: http://www.nyam.org/
 [nyam-map]: https://goo.gl/maps/ffTbs7UmjN42
-[cfp]: /event/2016/newyork/call-for-papers/
+[cfp]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/call-for-papers/
 [sched]: https://sched.org/

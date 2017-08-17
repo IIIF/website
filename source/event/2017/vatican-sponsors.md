@@ -36,4 +36,4 @@ The International Image Interoperability Framework (IIIF) conference offers an e
 
 To indicate your interest in sponsorship, please contact Sheila Rabun, IIIF Community and Communications Officer, at srabun@iiif.io by March 15, 2017, to guarantee your spot in the lightning talk program and/or parallel sessions. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
 
-[iiif-vatican]: http://iiif.io/event/2017/vatican/
+[iiif-vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/

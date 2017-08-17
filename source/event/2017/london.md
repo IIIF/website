@@ -37,6 +37,6 @@ The IIIF Technical Workshop, hosted by the Victoria & Albert Museum, will bring 
 * Social Media: Tweets about the event should use #iiif and @iiif_io.
 
 
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [showcase-reg]: https://www.vam.ac.uk/event/dMQwd6OR/iiif-showcase-digital-collections-in-dialogue-2017
 [technical-reg]: https://www.eventbrite.co.uk/e/iiif-workshop-digital-people-in-dialogue-tickets-37039250395

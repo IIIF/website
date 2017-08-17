@@ -82,7 +82,7 @@ The Europeana IIIF Task Force is working to identify the current trends and tend
 ## Technical Work
 
 ### A/V Technical Specification Work
-The [IIIF A/V Technical Specification Group][iiif-av] has been modeling various A/V use cases using IIIF manifests and canvases. Wider discussions about ranges within manifests have informed modeling work for both IIIF A/V and other objects with complex hierarchies. Experiments are currently underway to implement the current [IIIF A/V model][av-fixtures], as the group looks to test the model and address [issues related to syncing multiple video and/or audio files in a single player][av-challenges]. The Avalon Media System team at Indiana University and Northwestern University has been working on a proof of concept for [audio][avalon-a] and [video][avalon-v] towards a [new release][avalon] that will include an audio and video player that works with IIIF manifests. The group is still seeking A/V material to experiment with, unencumbered by rights issues that would prevent reuse, and suitable for all audiences, such as:
+The [IIIF A/V Technical Specification Group][iiif-av] has been modeling various A/V use cases using IIIF manifests and canvases. Wider discussions about ranges within manifests have informed modeling work for both IIIF A/V and other objects with complex hierarchies. Experiments are currently underway to implement the current [IIIF A/V model][av-fixtures], as the group looks to test the model and address [issues related to syncing multiple video and/or audio files in a single player][av-challenges]. The Avalon Media System team at Indiana University and Northwestern University has been working on a proof of concept for audio and video towards a [new release][avalon] that will include an audio and video player that works with IIIF manifests. The group is still seeking A/V material to experiment with, unencumbered by rights issues that would prevent reuse, and suitable for all audiences, such as:
 
 * A variety of single formats in common use today (mp4, webm with common codecs)
 * MPEG-DASH and HLS file sets (no live streaming yet though)
@@ -177,16 +177,16 @@ Sheila Rabun, IIIF Community and Communications Officer
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
-[iiif-c]: /community/consortium/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
 [tech-coordinator]: https://www.clir.org/about/positions/iiif_technology_coordinator
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
-[iiif-events]: /event/
-[iiif-av]: /community/groups/av/
-[iiif-calendar]: /community/groups/
-[manuscripts]: /community/groups/manuscripts/
-[museums]: /community/groups/museums/
-[newspapers]: /community/groups/newspapers
-[devs]: /community/groups/software/
+[iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
+[iiif-av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
+[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/
+[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers
+[devs]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
 [mirador]: http://projectmirador.org
 [survey-basic]: https://goo.gl/forms/47OmXfgXMUNMBVI93
 [survey-extended]: https://goo.gl/forms/wHXWrvIMtUbmJRN52
@@ -195,9 +195,9 @@ Sheila Rabun, IIIF Community and Communications Officer
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [uv]: https://digirati.com/technology/our-solutions/universal-viewer/
-[vatican]: /event/2017/vatican
+[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
 [taskforce]: http://pro.europeana.eu/taskforce/iiif
-[iiif-discovery]: /community/groups/discovery
+[iiif-discovery]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery
 [av-fixtures]: https://github.com/IIIF/iiif-av/tree/master/source/api/av/examples
 [vra]: https://vra34.sched.com/
 [cni]: https://www.cni.org/event/cni-spring-2017-membership-meeting
@@ -207,11 +207,9 @@ Sheila Rabun, IIIF Community and Communications Officer
 [kalamazoo]: https://wmich.edu/sites/default/files/attachments/u434/2017/medieval-congress-program-2017-for-web.pdf
 [tcdl]: https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/TCDL2017
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
-[dams]: /news/2017/05/01/letter-to-dams/
+[dams]: {{ site.url }}{{ site.baseurl }}/news/2017/05/01/letter-to-dams/
 [av-challenges]: https://docs.google.com/document/d/1lcef8tjqfzBqRSmWLkJZ46Pj0pm8nSD11hbCAd7Hqxg/edit?usp=sharing
-[avalon]: https://wiki.dlib.indiana.edu/display/VarVideo/Avalon+7+Road+Map
-[avalon-a]: https://avalonmediasystem.github.io/avalon-poc-standalone/dist/audio.html
-[avalon-v]: https://avalonmediasystem.github.io/avalon-poc-standalone/dist/index.html
+[avalon]: https://wiki.dlib.indiana.edu/display/VarVideo/Avalon+7+Roadmap
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
 [text-charter]: https://docs.google.com/document/d/1wTxgcj-AlAE3KwcxP59mTZhOOQKkDEaqwVK_NHOIRvc/edit
 [text-poll]: http://doodle.com/poll/b92ste87ri7x5ekh
@@ -220,7 +218,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [bsd]: https://github.com/uclouvain/openjpeg/blob/master/LICENSE
 [jpeg-git]: https://github.com/uclouvain/openjpeg/projects/1
 [jpeg-site]: http://www.openjpeg.org/2017/04/27/Faster-OpenJPEG-is-on-track
-[jpeg-news]: http://iiif.io/news/2017/04/27/openjpeg-improvement/
+[jpeg-news]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
 [zegami-news]: https://www.zegami.com/international-image-interoperability-framework-iiif-zegami/
 [ch-demo]: https://collection.cooperhewitt.org/objects/18572345/zoom
 [ch-blog]: https://labs.cooperhewitt.org/2017/parting-gifts/
@@ -259,11 +257,11 @@ Sheila Rabun, IIIF Community and Communications Officer
 [gitbook]: https://iiif.github.io/training/intro-to-iiif/
 [edin]: http://bit.ly/2ngOwfi
 [https]: https://www.jack-reed.com/2017/05/23/the-case-for-serving-your-iiif-content-over-https.html
-[comm]: /community/
+[comm]: {{ site.url }}{{ site.baseurl }}/community/
 [preconf-sched]: https://2017iiifconferencethevatican.sched.com/tag/Pre-conference
 [showcase-sched]: https://2017iiifconferencethevatican.sched.com/tag/Showcase
 [conf-sched]: https://2017iiifconferencethevatican.sched.com/tag/Conference
-[conf-news]: http://iiif.io/news/2017/04/12/vatican-conference/
+[conf-news]: {{ site.url }}{{ site.baseurl }}/news/2017/04/12/vatican-conference/
 [cogapp]: http://www.cogapp.com/iiif
 [oclc]: http://www.oclc.org/en/contentdm.html
 [digirati]: https://digirati.com/
@@ -271,7 +269,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [synaptica]: http://www.synaptica.com/
 [zegami]: https://zegami.com/
 [4science]: http://www.4science.it/en/iiif-image-viewer/
-[search]: /api/search/
-[iiif-faq]: /community/faq/
+[search]: {{ page.webprefix }}/api/search/
+[iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/
 [museums-sched]: https://2017iiifconferencethevatican.sched.com/overview/type/Museums
-[comm-call]: /community/call/
+[comm-call]: {{ site.url }}{{ site.baseurl }}/community/call/

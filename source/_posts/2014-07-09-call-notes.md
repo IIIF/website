@@ -75,5 +75,5 @@ Actions
  * Discuss Presentation API changes on next call
 
 [iiif-discuss]: mailto:iiif-discuss@googlegroups.com
-[news]: /news/
-[image-changelog]: /api/image/2.0/change-log/
+[news]: {{ site.url }}{{ site.baseurl }}/news/
+[image-changelog]: {{ page.webprefix }}/api/image/2.0/change-log/

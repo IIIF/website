@@ -7,10 +7,10 @@ layout: sub-page
     {% for post in site.posts %}
       <div class="short-post">
         <div class="short-post-title">
-          <h2><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date"> ({{ post.date | date_to_string }})</span></h2>
+          <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="post-date"> ({{ post.date | date_to_string }})</span></h2>
         </div>
         <div class="short-post-excerpt">
-          {{ post.excerpt }} [<a href="{{ post.url }}">more</a>]
+          {{ post.excerpt }} [<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">more</a>]
         </div>
       </div>
       <hr/>

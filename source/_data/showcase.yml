@@ -9,7 +9,7 @@
   - >
     An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
   github_url: https://github.com/openseadragon/openseadragon
-  url: http://showcase.iiif.io/showcase/osd-viewer.html
+  url: http://showcase.iiif.io/showcase/osd-viewer/
 
 - name: Mirador Viewer
   id: mirador
@@ -20,8 +20,8 @@
     An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate
     functionality, ability to display/compare simple images, and images with
     annotations.
-  github_url: https://github.com/IIIF/mirador
-  url: http://showcase.iiif.io/showcase/mirador-viewer.html
+  github_url: https://github.com/ProjectMirador/mirador
+  url: http://showcase.iiif.io/showcase/mirador-viewer/
 
 - name: Universal Viewer
   id: uv
@@ -32,7 +32,7 @@
     Initially developed by Digirati for the Wellcome Library, the UV can display most types of digital
     content, including cover-to-cover books, archives, works of art, video, audio and 3D. It also supports the IIIF Auth and Search APIs.
   github_url: https://github.com/UniversalViewer/universalviewer
-  url: http://showcase.iiif.io/showcase/uv.html
+  url: http://showcase.iiif.io/showcase/uv/
 
 - name: Leaflet-IIIF Viewer
   id: leaflet
@@ -45,7 +45,7 @@
     and include great features like accessible keyboard controls and native
     touch/mobile support.
   github_url: https://github.com/mejackreed/Leaflet-IIIF
-  url: http://showcase.iiif.io/showcase/leaflet-iiif-viewer.html
+  url: http://showcase.iiif.io/showcase/leaflet-iiif-viewer/
 
 - name: KlokanTech IIIFViewer
   id: klokantech-iiifviewer
@@ -58,7 +58,7 @@
     Extra features: Rotation on client side, Drawing tools (polygons, lines,
     markers), Color adjustment (saturation, lightness, etc.), WebGL...
   github_url: https://github.com/klokantech/iiifviewer
-  url: http://showcase.iiif.io/showcase/klokantech-iiifviewer.html
+  url: http://showcase.iiif.io/showcase/klokantech-iiifviewer/
 
 ### Servers
 
@@ -71,7 +71,7 @@
     Loris is an open source, Python-based image server that supports the IIIF
     Image API version 2.0. Loris supports JPEG2000 as well as JPEG and TIFF source images.
   github_url: https://github.com/pulibrary/loris
-  url: http://showcase.iiif.io/showcase/loris-server.html
+  url: http://showcase.iiif.io/showcase/loris-server/
 
 - name: IIP Image
   id: iip
@@ -84,7 +84,7 @@
     IIPImage Server is designed to be embedded within a host web server such as Apache, Lighttpd,
     MyServer or Nginx. It supports TIFF and JPEG2000 source images.
   github_url: https://github.com/ruven
-  url: http://showcase.iiif.io/showcase/iipimage-viewer.html
+  url: http://showcase.iiif.io/showcase/iipimage-viewer/
 
 ### Sites/Consumers
 
@@ -96,7 +96,7 @@
   - >
     Turn scans into maps. Georeferencer is an online tool that assigns
     geographical location to any IIIF image.
-  url: http://showcase.iiif.io/showcase/georeferencer.html
+  url: http://showcase.iiif.io/showcase/georeferencer/
 
 - name: Yale Center for British Art
   id: ycba
@@ -106,7 +106,7 @@
   - >
     The Yale Center for British Art uses IIPMooviewer's IIIF Image API support
     to provide access to high-resolution images.
-  url:  http://showcase.iiif.io/showcase/ycba.html
+  url:  http://showcase.iiif.io/showcase/ycba/
 
 - name: e-codices
   id: e-codices
@@ -115,7 +115,7 @@
   desc:
   - >
     e-codices – Virtual Manuscript Library of Switzerland uses the Loris IIIF Image Server, OpenSeadragon and the IIIF Presentation API, providing access to over 450,000 high-resolution images from over 1,200 medieval manuscripts with metadata in four languages.
-  url: http://showcase.iiif.io/showcase/e-codices.html
+  url: http://showcase.iiif.io/showcase/e-codices/
 
 - name: Fractals
   id: fractals
@@ -124,8 +124,8 @@
   desc:
   - >
     IIIF components are used to serve and view dynamically created fractal images up to 1 billion pixels wide and 1 billion pixels high. Fractals exhibit patterns that repeat as you zoom in. A standard IIIF viewer and web server are used, together with a fractal generator that emulates the way tiles are created from JPEG2000 images.
-  url: http://showcase.iiif.io/showcase/fractals.html
-  
+  url: http://showcase.iiif.io/showcase/fractals/
+
 - name: SAT Taishōzō Image DB
   id: satdb
   type: site
@@ -133,7 +133,7 @@
   desc:
   - >
     Buddhist images can be searched not only from the search window but also from the value of the embedded tag on the images by clicking on it. Users can find search terms by English words with clicking "EN" button without inputting Japanese words by hand. This system also provides a function to display several images in parallel easily from a search result via a cart by use of Mirador.
-  url: http://showcase.iiif.io/showcase/satdb.html
+  url: http://showcase.iiif.io/showcase/satdb/
 
 
 ### Other

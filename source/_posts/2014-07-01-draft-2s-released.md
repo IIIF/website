@@ -8,8 +8,8 @@ layout: post
 
 After a month of public testing and feedback, the IIIF Editors are pleased to announce second draft revisions of the International Image Interoperability Framework Image and Presentation (formerly 'Metadata') API specifications.
 
- * [IIIF Image API 2.0.0-draft2](/api/image/2.0/)
- * [IIIF Presentation API 2.0.0-draft2](/api/presentation/2.0/)
+ * [IIIF Image API 2.0.0-draft2]({{ page.webprefix }}/api/image/2.0/)
+ * [IIIF Presentation API 2.0.0-draft2]({{ page.webprefix }}/api/presentation/2.0/)
 
 Since the release of the first drafts. a few significant changes have been made:
 

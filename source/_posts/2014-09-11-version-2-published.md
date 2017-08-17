@@ -29,11 +29,11 @@ Sincerely and on behalf of the community,
   Jon Stroop
   Simeon Warner
 
-[home-page]: http://iiif.io/
-[image-api]: /api/image/2.0/
-[prezi-api]: /api/presentation/2.0/
+[home-page]: {{ page.webprefix }}
+[image-api]: {{ page.webprefix }}/api/image/2.0/
+[prezi-api]: {{ page.webprefix }}/api/presentation/2.0/
 [loris]: https://github.com/pulibrary/loris/
 [iipserver]: https://github.com/ruven/iipsrv
 [osd]: http://openseadragon.github.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[london]: /event/2014/london/
+[london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
