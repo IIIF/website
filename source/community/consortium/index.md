@@ -31,6 +31,6 @@ srabun@iiif.io
 {% endfor %}
 </ul>
 
-[mou]: /community/consortium/mou/
-[news]: /news/2015/06/17/iiif-consortium/
-[iiifc-faq]: /community/consortium/faq
+[mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
+[news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
+[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq

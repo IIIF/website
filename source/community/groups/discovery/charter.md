@@ -149,6 +149,6 @@ __Background work:__
 
 [discovery-slack]: https://iiif.slack.com/messages/discovery/details/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[events]: /event
+[events]: {{ site.url }}{{ site.baseurl }}/event
 
 {% include acronyms.md %}

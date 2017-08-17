@@ -97,9 +97,9 @@ The session schedule is available through [sched][sched].
 {: .api-table .msched-table}
 
 
-[home-page]: http://iiif.io/
-[groups]: http://iiif.io/community/groups/
+[home-page]: {{ page.webprefix }}
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [eventbrite]: https://iiif-wg-2016.eventbrite.com
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [KB]: https://www.kb.nl/en/visitors/address-and-directions
 [sched]: https://iiifthehague2016.sched.org/

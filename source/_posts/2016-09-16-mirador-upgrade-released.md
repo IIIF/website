@@ -15,7 +15,7 @@ In the Mirador 2.1 release [announcement][iiif-announcement] to the IIIF-Discuss
  All interested parties are invited to try the demo, download the code, provide feedback, and get involved. The next open Mirador community call will be Thursday, September 22 at 9am PST, where the team will begin making plans for Mirador 2.2, expected to follow closely on the heels of Mirador 2.1. Details for joining the call will be announced on the [IIIF-Discuss][iiif-discuss] list.  
 
 [project-mirador]: http://projectmirador.org
-[mirador-releases]: http://github.com/ProjectMirador/mirador/releases
+[mirador-releases]: https://github.com/ProjectMirador/mirador/releases
 [conservationspace]: http://conspace.wixsite.com/conservationspace
 [iiif-announcement]: https://groups.google.com/forum/#!topic/iiif-discuss/u_z4hZNvd1c
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss

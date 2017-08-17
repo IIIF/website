@@ -242,8 +242,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Jeffrey Witt (Loyola University Maryland)
 * Petr Zabicka (Moravian Library)
 
-[washington2018]: /event/2018/washington/
-[glen]: /news/2017/08/30/technical-coordinator/
+[washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
+[glen]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator/
 [digirati-search]: http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
@@ -254,11 +254,11 @@ Sheila Rabun, IIIF Community and Communications Officer
 [synaptica]: http://www.synaptica.com/
 [zegami]: https://zegami.com/
 [4science]: http://www.4science.it/en/iiif-image-viewer/
-[london]: /event/2017/london/
+[london]: {{ site.url }}{{ site.baseurl }}/event/2017/london/
 [bruno]: https://kinow.github.io/scico-2017/#/
-[quick-start]: /technical-details/
-[toronto]: /event/2017/toronto/
-[toronto-showcase]: /event/2017/toronto-showcase/
+[quick-start]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[toronto]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto/
+[toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase/
 [submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
 [av-group]: http://iiif.io/community/groups/av/
 [masahide]: http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2017/test/iiifav-bl-fixture-collection.json
@@ -283,10 +283,10 @@ Sheila Rabun, IIIF Community and Communications Officer
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
 [openjpeg]: http://www.openjpeg.org/
 [openjpeg-github]: https://github.com/uclouvain/openjpeg/projects/1
-[museums]: /community/groups/museums/
-[manuscripts]: /community/groups/manuscripts/
-[newspapers]: /community/groups/newspapers/
-[devs-group]: /community/groups/software/
+[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/
+[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
+[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
+[devs-group]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
 [getty-pr]: http://news.getty.edu/article_display.cfm?article_id=6172
 [getty-blog]: http://blogs.getty.edu/iris/30000-getty-museum-images-published-iiif/
 [ycba-news]: https://news.yale.edu/2017/06/02/yale-center-british-art-adds-online-collection-images-international-system-research
@@ -307,10 +307,10 @@ Sheila Rabun, IIIF Community and Communications Officer
 [beyond-words]: http://beyondwords2016.org/
 [3d-survey]: https://goo.gl/2s1fU7
 [software-survey]: https://goo.gl/forms/ejJUIUP9gqOXnvPI2
-[conduct-team]: /event/conduct/#iiif-code-of-conduct-team-selection-process
+[conduct-team]: {{ site.url }}{{ site.baseurl }}/event/conduct/#iiif-code-of-conduct-team-selection-process
 [conduct-form]: https://goo.gl/forms/o79VAMHEAl72fPmV2
-[conduct]: /event/conduct/
-[iiifc-faq]: /community/consortium/faq/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq/
 [georgetown]: https://wiki.duraspace.org/display/DSPACE/IIIF+Experimentation+at+Georgetown+-+June+2017
 [georeferencer]: http://www.georeferencer.com/compare
 [compariscope]: https://vanda.github.io/iiif-features/
@@ -348,10 +348,10 @@ Sheila Rabun, IIIF Community and Communications Officer
 [luca-blog]: http://www.vam.ac.uk/blog/digital-media/easy-image-alignment-with-iiif
 [auto-image]: https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32
 [survey]: https://goo.gl/forms/47OmXfgXMUNMBVI93
-[comm-list]:/community/
+[comm-list]: {{ site.url }}{{ site.baseurl }}/community/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
-[iiif-c]: /community/consortium/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
 [epfl]: https://www.epfl.ch/
 [folger]: http://www.folger.edu/
 [vatican-drive]: https://drive.google.com/drive/folders/0B8biwZuDijgeZ2lnLWNJc2Z0RFU?usp=sharing  

@@ -16,15 +16,15 @@ Since the initial push to provide "search inside" functionality for the Nubian M
 
 Welcome and congratulations to NCSU Libraries!
 
-[image-api]: http://iiif.io/api/image/
-[presentation-api]: http://iiif.io/api/presentation/
-[search-api]: http://iiif.io/api/search/
+[image-api]: {{ page.webprefix }}/api/image/
+[presentation-api]: {{ page.webprefix }}/api/presentation/
+[search-api]: {{ page.webprefix }}/api/search/
 [nubian-issues]: http://d.lib.ncsu.edu/collections/catalog?_=1472754815045&f%5Bispartof_facet%5D%5B%5D=Nubian+Message
 [ncsu-news]: https://www.lib.ncsu.edu/news/the-%22nubian-message%22-goes-digital
 [uv]: http://uvviewsoft.com/uviewer/
-[iiif-apis]: http://iiif.io/technical-details/
+[iiif-apis]: {{ site.url }}{{ site.baseurl }}/technical-details/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[av-group]: http://iiif.io/community/groups/av/
+[av-group]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
 [technician]: http://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=Technician
 [agromeck]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true&f%5Bispartof_facet%5D%5B%5D=Agromeck+Yearbooks
 [pinetum]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true&f%5Bispartof_facet%5D%5B%5D=Pinetum
@@ -32,4 +32,4 @@ Welcome and congratulations to NCSU Libraries!
 [course]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true&f%5Bispartof_facet%5D%5B%5D=Course+Catalogs
 [archival]: http://d.lib.ncsu.edu/collections/catalog?f%5Bformat%5D%5B%5D=Folder&f%5Bfulltext_bs%5D%5B%5D=true
 [others]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true
-[iiif-c]: http://iiif.io/community/consortium/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/

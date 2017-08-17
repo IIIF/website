@@ -62,18 +62,18 @@ layout: spec
 
  * Letters of support from the IIIF-C for IIIF-related grant applications may be requested according to the [IIIF Support for Grant Proposals policy][support-policy].
 
-[support-policy]: /community/policy/support/
-[vatican]: /event/2017/vatican/
-[apps-demos]: /apps-demos
-[specs]: /technical-details/
-[mou]: /community/consortium/mou/
-[news]: /news/2015/06/17/iiif-consortium/
-[iiifc-faq]: /community/consortium/faq
-[iiif-c]: /community/consortium
-[community-list]: /community/
-[auth]: /api/auth/
-[av]: /community/groups/av/
-[iiif-events]: /event/
+[support-policy]: {{ site.url }}{{ site.baseurl }}/community/policy/support/
+[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
+[apps-demos]: {{ site.url }}{{ site.baseurl }}/apps-demos
+[specs]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
+[news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
+[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
+[community-list]: {{ site.url }}{{ site.baseurl }}/community/
+[auth]: {{ page.webprefix }}/api/auth/
+[av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
-[conduct]: /event/conduct/
-[iiif-faq]: /community/faq/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/

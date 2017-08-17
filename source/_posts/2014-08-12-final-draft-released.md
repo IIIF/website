@@ -8,8 +8,8 @@ layout: post
 
 After an additional month of public testing and feedback, the IIIF Editors are pleased to announce final draft revisions of the International Image Interoperability Framework Image and Presentation (formerly 'Metadata') API specifications.
 
- * [IIIF Image API 2.0.0-final-draft](/api/image/2.0/)
- * [IIIF Presentation API 2.0.0-final-draft](/api/presentation/2.0/)
+ * [IIIF Image API 2.0.0-final-draft]({{ page.webprefix }}/api/image/2.0/)
+ * [IIIF Presentation API 2.0.0-final-draft]({{ page.webprefix }}/api/presentation/2.0/)
 
 Since the release of the previous drafts only a small number of changes have been made:
 
@@ -24,7 +24,7 @@ Since the release of the previous drafts only a small number of changes have bee
 
  * Viewing Hints:
    * Changed viewing hints to be URIs, and thus extensions must also be URIs, following the features in the Image API (and just good practice).
-   * Changed the `start` viewing hint to a relationship from the Sequence to the first Canvas to be displayed to avoid issues with  multiple Sequences with different start Canvases. 
+   * Changed the `start` viewing hint to a relationship from the Sequence to the first Canvas to be displayed to avoid issues with  multiple Sequences with different start Canvases.
    * Clarified the `non-paged` viewing hint's usage to be ignored when encountered within a Sequence or Manifest that is _not_ `paged`.
  * Clarified the expectations for http and non-http URIs.
  * Defined the representation for a Layer if it is dereferenced.
@@ -34,14 +34,14 @@ Since the release of the previous drafts only a small number of changes have bee
 
 In addition, tools to aid in the creation and testing of conforming applications and systems are being implemented and added to the iiif.io website.  These include validators for the Image and Presentation APIs:
 
- * [Image API Validator](http://iiif.io/api/image/validator/)
- * [Presentation API Validator](http://iiif.io/api/presentation/validator/)
+ * [Image API Validator]({{ page.webprefix }}/api/image/validator/)
+ * [Presentation API Validator]({{ page.webprefix }}/api/presentation/validator/)
 
 Reference implementations of the Image API and collections of fixture Manifests for the Presentation API:
 
- * [2.0 Reference Implementation](http://iiif.io/api/image/2.0/example/reference/67352ccc-d1b0-11e1-89ae-279075081939/)
- * [Valid Manifest Collection](http://iiif.io/api/presentation/2.0/example/fixtures/collection.json)
- * [Invalid Manifest Collection](http://iiif.io/api/presentation/2.0/example/fixtures/collection.json)
+ * [2.0 Reference Implementation]({{ page.webprefix }}/api/image/2.0/example/reference/67352ccc-d1b0-11e1-89ae-279075081939/)
+ * [Valid Manifest Collection]({{ page.webprefix }}/api/presentation/2.0/example/fixtures/collection.json)
+ * [Invalid Manifest Collection]({{ page.webprefix }}/api/presentation/2.0/example/fixtures/collection.json)
 
 These will continue to be developed, but are ready for testing and comment before the release of the final versions of the specifications.
 
@@ -58,4 +58,3 @@ Robert Sanderson
 Stuart Snydman
 Jon Stroop
 Simeon Warner
-

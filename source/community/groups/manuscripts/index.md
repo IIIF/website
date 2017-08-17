@@ -42,15 +42,15 @@ The IIIF MSS Group seeks to advance aims of the [IIIF­C][iiifc], which are to r
   * Online: [https://stanford.zoom.us/j/674108679][https://stanford.zoom.us/j/674108679]
   * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 674108679, Participant ID: #
 
-[ghent]: /event/2015/ghent/ "IIIF: Access to the World's Images - Ghent 2015"
-[iiifc]: /community/consortium/ "IIIF Consortium"
+[ghent]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent/ "IIIF: Access to the World's Images - Ghent 2015"
+[iiifc]: {{ site.url }}{{ site.baseurl }}/community/consortium/ "IIIF Consortium"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [manuscripts-folder]: https://drive.google.com/open?id=0B1IxI8f59JQkRHpqQUE3S04tSlU "IIIF Manuscripts Group"
 [iiif-manuscripts]: https://groups.google.com/forum/#!forum/iiif-manuscripts "IIIF-Manuscripts Forum"
-[about]: /about/ "About IIIF"
+[about]: {{ site.url }}{{ site.baseurl }}/about/ "About IIIF"
 [manuscripts-slack]: https://iiif.slack.com/messages/manuscripts/details/
 [join-slack]: http://bit.ly/iiif-slack
-[calendar]: http://iiif.io/community/groups/
+[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [https://stanford.zoom.us/j/674108679]: https://stanford.zoom.us/j/674108679
 [international-zoom]: https://zoom.us/zoomconference
 

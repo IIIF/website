@@ -30,4 +30,4 @@ Schedule information and additional details will be made available as soon as po
 
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/

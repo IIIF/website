@@ -144,11 +144,11 @@ srabun@iiif.io
 [hydra-groups]: https://wiki.duraspace.org/pages/viewpage.action?pageId=67241635
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform
-[calendar]: http://iiif.io/community/groups/
+[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [iiif-drive]: https://drive.google.com/drive/folders/0B9EeoRu2zWeraXpHNXpnZThUZVE
 [iiif-slack]: http://iiif.slack.com
-[editors]: http://iiif.io/api/annex/notes/editors/#contents
-[conduct]: http://iiif.io/event/conduct/
+[editors]: {{ page.webprefix }}/api/annex/notes/editors/#contents
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 
 
 

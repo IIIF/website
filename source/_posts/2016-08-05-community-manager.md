@@ -26,4 +26,4 @@ The Community & Communications Officer role is made possible with funding from t
 [oregonnews]: http://oregonnews.uoregon.edu/
 [open-oni]: https://github.com/open-oni/open-oni
 [uoregon]: https://library.uoregon.edu/digitalscholarship/digital-projects
-[iiif-c]: http://iiif.io/news/2015/06/17/iiif-consortium/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/

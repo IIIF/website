@@ -94,12 +94,12 @@ Session descriptions, agendas, and notes are coming soon via Sched - stay tuned 
 | 4:00 - 5:30   | Closing Plenary |  |  |
 {: .api-table .msched-table}
 
-[home-page]: http://iiif.io/
-[groups]: http://iiif.io/community/groups/
-[conduct]: /event/conduct/
+[home-page]: {{ page.webprefix }}
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [UT]: https://onesearch.library.utoronto.ca/library-info/ROBARTS
 [IIIF-Discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [registration]: https://iiif-toronto.eventbrite.com
 [holiday-inn]: https://drive.google.com/file/d/0B8biwZuDijgeeWkzWjcxcF9EZGs/view?usp=sharing
-[toronto-showcase]: /event/2017/toronto-showcase/
+[toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase/
 [showcase-reg]: https://iiifshowcase-toronto.eventbrite.com

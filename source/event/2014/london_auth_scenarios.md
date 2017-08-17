@@ -6,7 +6,7 @@ redirect_from:
 ---
 # Granular IIIF Authorization Scenarios
 
-Notes distributed on iiif-discuss 2014-10-22 and discussed at [IIIF 6 London Working Group](/event/2014/london_notes/).
+Notes distributed on iiif-discuss 2014-10-22 and discussed at [IIIF 6 London Working Group]({{ site.url }}{{ site.baseurl }}/event/2014/london_notes/).
 
 *Assumption 1:* In both the Image API and the Presentation API, a given URI for an Image Information request, an Image request, or a Manifest request will result in the same bytestream if access is granted, irrespective of credentials and user identity.
 

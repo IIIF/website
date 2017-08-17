@@ -52,5 +52,5 @@ Changes to this document will be tracked within and reflected via its [internal 
   | 2017-08-01 | First release |
 
 [iiif-slack]: https://iiif.slack.com
-[iiif-conduct]: /event/conduct/
+[iiif-conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [change-log]: #change-log "Change Log"

@@ -26,8 +26,8 @@ Robert Sanderson,
 Jon Stroop,
 Simeon Warner
 
-[search10]: /api/search/1.0/ "Search API v1.0"
-[image21]: /api/image/2.1/ "Image API v2.1"
-[image21-changes]: /api/image/2.1/change-log/ "Image API v2.1 Change Log"
-[prezi21]: /api/presentation/2.1/ "Presentation API v2.1"
-[prezi21-changes]: /api/presentation/2.1/change-log/ "Presentation API v2.1 Change Log"
+[search10]: {{ page.webprefix }}/api/search/1.0/ "Search API v1.0"
+[image21]: {{ page.webprefix }}/api/image/2.1/ "Image API v2.1"
+[image21-changes]: {{ page.webprefix }}/api/image/2.1/change-log/ "Image API v2.1 Change Log"
+[prezi21]: {{ page.webprefix }}/api/presentation/2.1/ "Presentation API v2.1"
+[prezi21-changes]: {{ page.webprefix }}/api/presentation/2.1/change-log/ "Presentation API v2.1 Change Log"

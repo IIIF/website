@@ -245,7 +245,7 @@
   uri: http://hms.scot/fiddle/copies/
   iiifc:
 - name: University of Hong Kong
-  uri: http://www.hku.hk/
+  uri: http://hku.hk/
   iiifc: 2
 - name: University of Illinois at Urbana-Champaign
   uri: http://illinois.edu/
@@ -266,7 +266,7 @@
   uri: http://www.upenn.edu/
   iiifc: 2
 - name: University of Tokyo
-  uri: http://21dzk.l.u-tokyo.ac.jp/DHI/
+  uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 2
 - name: University of Toronto
   uri: https://library.utoronto.ca
@@ -287,7 +287,7 @@
   uri: https://www.slu.edu/center-for-digital-humanities
   iiifc: 2
 - name: The Walters Art Museum
-  uri: http://thewalters.org
+  uri: https://thewalters.org
   iiifc:
 - name: Wellcome Trust
   uri: http://wellcomelibrary.org

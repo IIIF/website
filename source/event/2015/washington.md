@@ -59,9 +59,9 @@ __Cost:__ Free!
 
 All IIIF Events are covered by the [IIIF Code of Conduct][conduct]. IIIF is commited to an inclusive, friendly and safe collaboration environment both online and in person.
 
-[home-page]: http://iiif.io/
+[home-page]: {{ page.webprefix }}
 [event-brite]: https://www.eventbrite.com/e/sharing-images-of-global-culture-tickets-15546122872
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [logistics]: #logistics
-[image-api]: /api/image/2.0/
-[prezi-api]: /api/presentation/2.0/
+[image-api]: {{ page.webprefix }}/api/image/2.0/
+[prezi-api]: {{ page.webprefix }}/api/presentation/2.0/

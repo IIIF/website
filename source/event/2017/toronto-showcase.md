@@ -62,7 +62,7 @@ Thomas Fisher Rare Book Library
 
 * 6pm-8:00pm - Reception
 
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [UT]: https://onesearch.library.utoronto.ca/library-info/ROBARTS
 [registration]: https://iiifshowcase-toronto.eventbrite.com
 [holiday-inn]: https://drive.google.com/file/d/0B8biwZuDijgeeWkzWjcxcF9EZGs/view?usp=sharing

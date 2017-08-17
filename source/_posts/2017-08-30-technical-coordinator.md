@@ -19,5 +19,5 @@ Glen and Sheila’s roles are made possible by the [IIIF Consortium][iiifc] (III
 [maps]: http://cynefin.archiveswales.org.uk/en/
 [newspapers]: http://newspapers.library.wales/
 [crowdsourcing]: https://www.llgc.org.uk/blog/?p=14496
-[iiifc]: /community/consortium/
-[iiifc-faq]: /community/consortium/faq/
+[iiifc]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq/
