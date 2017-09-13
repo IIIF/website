@@ -234,7 +234,7 @@ Want to restrict by authorization (password, shib, etc) IP Range, geo location. 
 
 ## Authentication Discussion
 
-Went through [authentication scenarios](/event/2014/london_auth_scenarios/)
+Went through [authentication scenarios]({{ site.url }}{{ site.baseurl }}/event/2014/london_auth_scenarios/)
 
 If an authenticated user makes a degraded image/manifest (which will have a different URI), should they be redirected to the higher-quality one? (or simply provide awareness?)
 
@@ -594,7 +594,7 @@ Start validator from info.json URI
  * You must logout before getting prompted to authenticate again
  * The service for authentication must provide the logout and somehow needs to clear it on the client if necessary
 
-![workflow](/event/2014/london-auth-workflow.png) Workflow Strawman
+![workflow]({{ site.url }}{{ site.baseurl }}/event/2014/london-auth-workflow.png) Workflow Strawman
 
 ### Notes to selves
 

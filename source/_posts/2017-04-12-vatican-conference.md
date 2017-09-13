@@ -55,21 +55,21 @@ Please see the [Call for Sponsors][vatican-sponsors] for more information, or to
 
 For more event information, please see the [Vatican event page][vatican]. Questions? Contact Sheila Rabun, IIIF Community and Communications Officer, at srabun@iiif.io.  
 
-[apps-demos]: /apps-demos/
+[apps-demos]: {{ site.url }}{{ site.baseurl }}/apps-demos/
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
-[community]: /community/
+[community]: {{ site.url }}{{ site.baseurl }}/community/
 [showcase-sched]: https://2017iiifconferencethevatican.sched.com/tag/Showcase
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [mirador]: http://projectmirador.org
 [uv]: http://digirati.com/technology/our-solutions/universal-viewer/
 [conf-sched]: https://2017iiifconferencethevatican.sched.com/tag/Conference
-[vatican]: /event/2017/vatican/
+[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
 [cogapp]: http://www.cogapp.com/iiif
 [oclc]: http://www.oclc.org/en/contentdm.html
-[iiif-c]: /community/consortium
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
 [digirati]: https://digirati.com/
 [klokan]: https://www.klokantech.com/
 [synaptica]: http://www.synaptica.com/
 [zegami]: https://zegami.com/
-[vatican-sponsors]: /event/2017/vatican-sponsors
+[vatican-sponsors]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican-sponsors
 [4science]: http://www.4science.it/en/iiif-image-viewer/

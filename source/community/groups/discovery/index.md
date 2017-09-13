@@ -36,14 +36,14 @@ If successful, the work will enable the collaborative development of global or t
   * Online: [https://stanford.zoom.us/j/829945399][https://stanford.zoom.us/j/829945399]
   * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 829945399, Participant ID: #
 
-[charter]: /community/groups/discovery/charter
-[events]: /event "IIIF Events"
+[charter]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/charter
+[events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [discovery-slack]: https://iiif.slack.com/messages/discovery/details/
 [discovery-folder]: https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU
 [slack]: http://bit.ly/iiif-slack
 [https://stanford.zoom.us/j/829945399]: https://stanford.zoom.us/j/829945399
-[iiif-calendar]: http://iiif.io/community/groups/
+[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 
 

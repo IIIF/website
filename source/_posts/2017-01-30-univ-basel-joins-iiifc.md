@@ -16,6 +16,6 @@ Welcome, and congratulations to the University of Basel Digital Humanities Lab!
 
 
 [dhlab-basel]: http://dhlab.unibas.ch/
-[iiif-c]: /community/consortium/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
 [dsch]: http://dh-center.ch/
 [spi]: https://github.com/dhlab-basel/Sipi

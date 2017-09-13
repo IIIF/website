@@ -39,4 +39,4 @@ Any support or endorsement is provided by the IIIF Consortium as an entity, and 
 
 The policy and procedures outlined in this document are subject to change by IIIF-C and the Coordinating Committee over time, and will be reviewed and updated as needed.
 
-[iiif-c]: /community/consortium/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/

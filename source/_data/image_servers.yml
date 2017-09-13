@@ -10,9 +10,9 @@
     CONTENTdm also secures and monitors master files in a cloud-based preservation
     archive so they remain safe for the future.
   - >
-    Digital repositories using CONTENTdm support the IIIF Image API. For more details see the [CONTENTdm IIIF Support page](http://oc.lc/IIIFandCONTENTdm).
+    Digital repositories using CONTENTdm support the IIIF Image API. For more details see the [CONTENTdm IIIF Support page](https://oc.lc/IIIFandCONTENTdm).
 - name: Djatoka
-  uri: http://sourceforge.net/projects/djatoka/
+  uri: https://sourceforge.net/projects/djatoka/
   blurb:
   - >
     Djatoka is an open source, Java-based image server that provides

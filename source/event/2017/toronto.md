@@ -44,9 +44,9 @@ Two hotel blocks with discounted rates are available for October 10-14:
 
 The session schedule is coming soon.
 
-[home-page]: http://iiif.io/
-[groups]: http://iiif.io/community/groups/
-[conduct]: /event/conduct/
+[home-page]: {{ page.webprefix }}
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [UT]: https://onesearch.library.utoronto.ca/library-info/ROBARTS
 [IIIF-Discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [registration]: https://iiif-toronto.eventbrite.com
