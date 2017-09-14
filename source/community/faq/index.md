@@ -63,15 +63,15 @@ IIIF allows for:
 
 * No, the IIIF Consortium and wider community does not have a single aggregation platform for content.  IIIF defines APIs that allow for interoperability between digital image repositories, including aggregators.  Because the IIIF APIs are well documented and understood, use of IIIF can enable aggregators such as Artstor, DPLA, and Europeana to access your images more easily.  
 
-[search]: /api/search/
-[presentation]: /api/presentation/
-[image]: /api/image/
-[apps-demos]: /apps-demos
-[iiifc-faq]: /community/consortium/faq
-[iiif-c]: /community/consortium
-[community-list]: /community/
-[auth]: /api/auth/
+[search]: {{ page.webprefix }}/api/search/
+[presentation]: {{ page.webprefix }}/api/presentation/
+[image]: {{ page.webprefix }}/api/image/
+[apps-demos]: {{ site.url }}{{ site.baseurl }}/apps-demos
+[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
+[community-list]: {{ site.url }}{{ site.baseurl }}/community/
+[auth]: {{ page.webprefix }}/api/auth/
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
-[conduct]: /event/conduct/
-[av]: /community/groups/av/
-[tech-details]: /technical-details/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[tech-details]: {{ site.url }}{{ site.baseurl }}/technical-details/

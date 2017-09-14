@@ -30,5 +30,5 @@ Proposals are now being accepted for presentations and sessions at the second an
 
 The deadline for proposals is February 23, 2017. You will be notified of proposal acceptance no later than March 15, 2017. Please stay tuned for details about conference registration, and feel free to contact Sheila Rabun at srabun@iiif.io with any questions.
 
-[iiif-vatican]: http://iiif.io/event/2017/vatican/
+[iiif-vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
 [cfp-form]: https://goo.gl/forms/IZRhbkTNZCEvOAm62

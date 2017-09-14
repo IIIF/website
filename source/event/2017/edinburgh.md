@@ -34,7 +34,7 @@ The IIIF Technical Workshop unconference, hosted by the University of Edinburgh 
 * Social Media: Tweets about the event should use #iiif and @iiif_io.
 
 
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [showcase-reg]: https://iiifshowcaseedinburgh.eventbrite.co.uk/
 [technical-reg]: https://iiiftechnicaledinburgh.eventbrite.co.uk/
 [nls-map]: http://www.nls.uk/info/locationmap/index.cfm

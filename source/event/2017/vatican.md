@@ -58,12 +58,12 @@ The 2017 IIIF Conference is sponsored by:
 Please see the [Call for Sponsors][vatican-sponsors] for more information, or to become a sponsor.
 
 
-[home-page]: http://iiif.io/
-[conduct]: /event/conduct/
+[home-page]: {{ page.webprefix }}
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [institute]: http://www.patristicum.org/en/conference-center
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[vatican-cfp]: /event/2017/vatican-cfp
-[vatican-sponsors]: /event/2017/vatican-sponsors
+[vatican-cfp]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican-cfp
+[vatican-sponsors]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican-sponsors
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [mirador]: http://projectmirador.org
@@ -72,7 +72,7 @@ Please see the [Call for Sponsors][vatican-sponsors] for more information, or to
 [conf-sched]: https://2017iiifconferencethevatican.sched.com/
 [cogapp]: http://www.cogapp.com/iiif
 [oclc]: http://www.oclc.org/en/contentdm.html
-[iiif-c]: /community/consortium
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
 [digirati]: https://digirati.com/
 [klokan]: https://www.klokantech.com/
 [synaptica]: http://www.synaptica.com/

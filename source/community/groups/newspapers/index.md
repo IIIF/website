@@ -40,13 +40,13 @@ The IIIF Newspapers Community Group welcomes participants with an interest in im
   * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 948530998, Participant ID: #
 
 [newspapers-awesome-iiif]: https://github.com/IIIF/awesome-iiif#newspapers "Newspapers on Awesome-IIIF"
-[events]: /event "IIIF Events"
+[events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [newspapers-folder]: https://goo.gl/jNFfVw "IIIF Newspapers Folder"
 [user-stories]: https://github.com/IIIF/iiif-stories/issues?q=is%3Aopen+is%3Aissue+label%3Anewspapers "Newspapers User Stories"
 [newspapers-slack]: https://iiif.slack.com/messages/newspapers/details/
 [join-slack]: http://bit.ly/iiif-slack
-[calendar]: http://iiif.io/community/groups/
+[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [https://stanford.zoom.us/j/948530998]: https://stanford.zoom.us/j/948530998
 [international-zoom]: https://zoom.us/zoomconference
 

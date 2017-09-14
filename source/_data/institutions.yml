@@ -138,6 +138,8 @@
   iiifc:
 - name: LUNA Imaging
   uri: http://www.lunaimaging.com/blog/2015/12/3/luna-and-iiif-1
+- name: Manuscriptorium - Digital Library of Written Cultural Heritage
+  uri: http://www.manuscriptorium.com/
 - name: Max Planck Institute for European Legal History
   uri: http://www.rg.mpg.de/en
 - name: MIT Libraries
@@ -148,7 +150,7 @@
   iiifc:
 - name: National Gallery of Art
   uri: http://www.nga.gov
-  iiifc:
+  iiifc: 2
 - name: National Library of Austria
   uri: https://www.onb.ac.at/en/
 - name: Nasjonalbiblioteket (National Library of Norway)
@@ -198,6 +200,9 @@
 - name: Sirma Group
   uri: https://sirma.com/
   iiifc:
+- name: Smithsonian Institution
+  uri: https://www.si.edu/
+  iiifc: 2
 - name: "St. Louis University"
   uri: https://www.slu.edu/
 - name: St. Mary's University
@@ -240,7 +245,7 @@
   uri: http://hms.scot/fiddle/copies/
   iiifc:
 - name: University of Hong Kong
-  uri: http://www.hku.hk/
+  uri: http://hku.hk/
   iiifc: 2
 - name: University of Illinois at Urbana-Champaign
   uri: http://illinois.edu/
@@ -261,7 +266,7 @@
   uri: http://www.upenn.edu/
   iiifc: 2
 - name: University of Tokyo
-  uri: http://21dzk.l.u-tokyo.ac.jp/DHI/
+  uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 2
 - name: University of Toronto
   uri: https://library.utoronto.ca
@@ -278,8 +283,11 @@
 - name: Villanova University
   uri: https://digital.library.villanova.edu/
   iiifc:
+- name: Walter J. Ong, S.J. Center for Digital Humanities at Saint Louis University
+  uri: https://www.slu.edu/center-for-digital-humanities
+  iiifc: 2
 - name: The Walters Art Museum
-  uri: http://thewalters.org
+  uri: https://thewalters.org
   iiifc:
 - name: Wellcome Trust
   uri: http://wellcomelibrary.org

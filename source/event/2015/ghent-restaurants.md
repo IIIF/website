@@ -60,8 +60,6 @@ redirect_from:
 
 ## Café Théatre
 
-[http://www.cafetheatre.be/en/contact/](http://www.cafetheatre.be/en/contact/)
-
 * Schouwburgstraat 5-7
   (next to the opera)
   9000 Gent
