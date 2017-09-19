@@ -108,6 +108,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Introduction to IIIF Workshop at [EdUI][edui], September 2017
 * Comité international de paléographie latine (IIIF for medievalists workshop), September 2017
 * Digital Cultures Conference, Warsaw, September 2017
+* IIIF panel at [CIDOC][cidoc], September 2017
 
 ## Technical Work
 
@@ -242,6 +243,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Jeffrey Witt (Loyola University Maryland)
 * Petr Zabicka (Moravian Library)
 
+[cidoc]: http://www.cidoc2017.com/432841850
 [washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
 [glen]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator/
 [digirati-search]: http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html
@@ -266,7 +268,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [open-jpeg]: http://iiif.io/news/2017/04/27/openjpeg-improvement/
 [open-jpeg221]: https://groups.google.com/forum/#!searchin/iiif-discuss/openjpeg%7Csort:relevance/iiif-discuss/LWVEIg0-xOg/zYyxc09cAQAJ
 [groups]: http://iiif.io/community/groups/
-[avalon-poc]: https://github.com/avalonmediasystem/avalon-poc-standalone
+[avalon-poc]: https://github.com/avalonmediasystem/avalon-iiif-player
 [sfmoma]: https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma%7Csort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [stem-poll]: http://doodle.com/poll/89db7nik6edydksk
@@ -276,8 +278,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 [digipalooza]: https://digipalooza.com/
 [mec]: http://music-encoding.org/community/conference/
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
-[slu]: https://www.slu.edu/center-for-digital-humanities
-[avalon-demo]: https://avalonmediasystem.github.io/avalon-poc-standalone/build/
+[slu]: https://github.com/CenterForDigitalHumanities
+[avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/build/
 [presi3]: http://prezi3.iiif.io/api/presentation/3.0
 [discovery-group]: http://iiif.io/community/groups/discovery/
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
