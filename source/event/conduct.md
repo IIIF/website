@@ -105,7 +105,18 @@ The Code of Conduct Team comprises all dedicated IIIF staff, plus a minimum of f
 
 Code of Conduct Team members are expected to actively monitor violation reports and be willing and able to quickly meet to discuss violations, in order to determine a resolution in a timely manner. If a member of the Code of Conduct Team is the cause of a IIIF Code of Conduct complaint, they will be asked to step down from the team, and a replacement will be appointed by IIIF staff.
 
-Code of Conduct Team members include: TBD
+2017-2018 Code of Conduct Team members include:
+
+* Sheila Rabun (IIIF Community and Communications Officer)
+* Glen Robson (IIIF Technical Coordinator)
+* Ruth Bowler (The Walters Art Museum)
+* Karen Estlund (Pennsylvania State University)
+* Yong Liu (Hebei Academy of Social Sciences)
+* Katherine Lynch (University of Pennsylvania)
+* Sarah Lorenzon Ferreira (Universidade de São Paulo, Brasil)
+* Julien A. Raemy (Haute école de gestion de Genève (HEG-GE))
+* Jack Reed (Stanford)
+* Emma Stanford (Bodleian Libraries)
 
 For additional information on addressing conduct issues both virtually and at in-person events, see the [Guidelines for Code of Conduct Team Members][guidelines].
 
