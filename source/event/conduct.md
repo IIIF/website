@@ -134,6 +134,7 @@ The IIIF Code of Conduct has been modeled on the Code of Conduct policies from [
 
   | Date       | Description                                                         |
   | ---------- | ------------------------------------------------------------------- |
+  | 2017-09-28 | Added 2017-2018 IIIF Code of Conduct Team member names |
   | 2017-08-01 | Added community norms and expectations, reporting guidelines, conduct team selection process, appeal process, and acknowledgements |
   | 2015-12-01 | First release |
 
