@@ -3,7 +3,7 @@
 
 # Specifications
 
-Markdown Source of specifications documents
+Markdown Source of iiif.io website. For the IIIF specification see: [iiif.io](https://github.com/IIIF/iiif.io/).
 
 ## To Debug the Site
 
@@ -13,22 +13,20 @@ Markdown Source of specifications documents
 
 ## To Run the Tests
 
-```
-rake ci
-```
+ 1. Install grunt `npm install -g grunt-cli`
+ 2. Install grunt dependencies `npm install`
+ 3. Run ```rake ci```
 
 ## To Publish the Site to iiif.io
 
-We now use Capistrano to deploy the site.
-
-```
-bundle exec cap production deploy
-```
-
-Will deploy to the iiif.io site if you have permission.
+Branches are available at http://preview.iiif.io/root/<branchname>/. The master branch is automatically loaded to the iiif.io website.
 
 ## Some Things to Note
 
  * Much of the site data is in the YAML files in `_data/` (e.g. member institutions, server impls, demos, etc.) make edits there.
  * The latest versions of the APIs are set in `_config.yml`. Change there will get pushed to `.htaccess`, `technical-details/`, and any other links.
- * Always use the \[link text\]\[ref\] method of creating links.  `ref` must consist only of a-zA-Z0-9_- and the first character must be a-zA-Z
+ * The website is now split with the root website living here and the api website living in [iiif/iiif.io](https://github.com/IIIF/iiif.io). Links internal and external should be in the following forms:
+    * Internal relative link inside the root website `[hyperlink text]({{ site.url }}{{ site.baseurl }}/end/point)`
+    * link from the root website to the api website (not relative to this repo) `[hyperlink text]({{ page.webprefix }}/end/point)`
+    * External link `[anchor-text](http://example.com/end/point)`
+    * Reference link `[text][link_name]` where link_name is expanded at the bottom of the page.
