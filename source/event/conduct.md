@@ -113,7 +113,7 @@ Code of Conduct Team members are expected to actively monitor violation reports 
 * Karen Estlund (Pennsylvania State University)
 * Yong Liu (Hebei Academy of Social Sciences)
 * Katherine Lynch (University of Pennsylvania)
-* Sarah Lorenzon Ferreira (Universidade de São Paulo, Brasil)
+* Sarah Lorenzon Ferreira (Universidade de São Paulo, Brazil)
 * Julien A. Raemy (Haute école de gestion de Genève (HEG-GE))
 * Jack Reed (Stanford)
 * Emma Stanford (Bodleian Libraries)
