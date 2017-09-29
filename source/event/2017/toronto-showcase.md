@@ -22,7 +22,7 @@ This event will be conducted in English. Attendance is free, and widespread diss
 
 * Registration: [Registration][registration] is required.
 * Date: October 10, 4pm-8pm
-* Location: [The University of Toronto][UT]
+* Location: [The University of Toronto][UT] - Robarts Library
 * Cost: There is no cost to attend
 * Capacity: 70
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
