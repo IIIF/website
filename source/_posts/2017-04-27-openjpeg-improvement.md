@@ -14,9 +14,12 @@ Led by Antonin Descampe of the Université catholique de Louvain (UCL) in Belgiu
 
 The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Sheila Rabun, IIIF Community and Communications Officer, at <srabun@iiif.io>.
 
+See the [latest update][update] on this project.
+
 [openjpeg]: http://www.openjpeg.org/
 [jpeg2000]: https://jpeg.org/jpeg2000/
 [bsd]: https://github.com/uclouvain/openjpeg/blob/master/LICENSE
 [github]: https://github.com/uclouvain/openjpeg/projects/1
 [openjpeg-news]: http://www.openjpeg.org/2017/04/27/Faster-OpenJPEG-is-on-track
 [intopix]: http://www.intopix.com/
+[update]: {{ site.url }}{{ site.baseurl }}/news/2017/10/06/openjpeg-survey/
