@@ -64,7 +64,7 @@ Session descriptions, agendas, and notes are available via [Sched][sched].
 | 2:40 - 2:45   | IIIF A/V at the British Library | Andy Irving (British Library) |
 | 2:45 - 2:50   | IIIF A/V and Avalon Media System | Maria Whitaker (Indiana University) |
 | 2:50 - 3:00   | IIIF Presentation API 3.0 Update | Rob Sanderson (The J. Paul Getty Trust) |
-| 3:00 - 3:05   | Presentation 3.0 work at Stanford | Benjamin Albritton (Stanford) |
+| 3:00 - 3:05   | Presentation 3.0 work at Stanford | Stu Snydman (Stanford) |
 | 3:05 - 3:15   | IIIF Discovery Update | Matt McGrattan (Digirati) |
 | 3:15 - 3:20   | IIIF Text Granularity Update | Peter Binkley (University of Alberta) |
 | 3:20 - 3:25   | IIIF Authentication API Update | Simeon Warner (Cornell) |
