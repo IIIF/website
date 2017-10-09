@@ -48,7 +48,7 @@ For those who may choose to stay overnight, we have a hotel block with discounte
 | 3:30PM - 4:00   | _Coffee and Registration_|  |
 | 4:00 - 4:10   | Welcome and Logistics | Julia King (University of Toronto) and Sheila Rabun (IIIF) |
 | 4:10 - 4:30   | Introductions |  |
-| 4:30 - 4:45   | Intro to IIIF | Tom Cramer (Stanford) |
+| 4:30 - 4:45   | What is IIIF? | Glen Robson (IIIF) and Sheila Rabun (IIIF) |
 | 4:45 - 5:00   | IIIF at the University of Toronto | Rachel DiCresce (University of Toronto) |
 | 5:00 - 5:10   | IIIF in the Classroom | Alexandra Bolintineanu (University of Toronto) |
 | 5:20 - 5:30   | IIIF at the Folger Shakespeare Library | Eric Johnson (The Folger Shakespeare Library) |
