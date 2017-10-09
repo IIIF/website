@@ -114,7 +114,7 @@ Code of Conduct Team members are expected to actively monitor violation reports 
 * Yong Liu (Hebei Academy of Social Sciences)
 * Katherine Lynch (University of Pennsylvania)
 * Sarah Lorenzon Ferreira (Universidade de São Paulo, Brazil)
-* Julien A. Raemy (Haute école de gestion de Genève (HEG-GE))
+* Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 * Jack Reed (Stanford)
 * Emma Stanford (Bodleian Libraries)
 
