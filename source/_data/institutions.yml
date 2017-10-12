@@ -100,6 +100,8 @@
 - name: Harvard University
   uri: http://iiif.harvard.edu
   iiifc: 2
+- name: HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
+  uri: https://www.hesge.ch/heg/en
 - name: Hill Museum & Manuscript Library (HMML)
   uri: https://www.vhmml.org/
   iiifc:
