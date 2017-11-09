@@ -20,11 +20,11 @@ On behalf of the IIIF Consortium, Tom Cramer Chair of the IIIF Coordinating Comm
 
 The collaboration has created the following outputs for the IIIF community:
 
- * An implementation guide from [Brumfield Labs][Brumfield-Labs] to assist Museums implementing IIIF. This is available as a PDF [acc-guide][here].
- * A questionnaire to help institutions think about the implications and practical issues with providing access to their images through IIIF. Available [acc-quest][here].
- * A two day workshop written by Jason Ronallo available as a GitBook: [http://ronallo.com/iiif-workshop/][iiif-workshop].
+ * An implementation guide from [Brumfield Labs][Brumfield-Labs] to assist Museums implementing IIIF. This is available as a PDF [here][acc-guide].
+ * A questionnaire to help institutions think about the implications and practical issues with providing access to their images through IIIF. Available [here][acc-quest].
+ * A two day workshop written by Jason Ronallo available as a GitBook: [iiif-workshop][http://ronallo.com/iiif-workshop/].
 
-The collaboration in combination with community involvement will also lead to improvements in the [IIIF Quick Start Guide][quick-start].
+The collaboration in combination with community involvement will also lead to improvements in the [quick-start][IIIF Quick Start Guide].
 
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [iiif-workshop]: http://ronallo.com/iiif-workshop/
