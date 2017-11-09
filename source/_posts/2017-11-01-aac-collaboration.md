@@ -1,5 +1,5 @@
 ---
-title: IIIF Consulting: American Art Collaborative
+title: "IIIF Consulting: American Art Collaborative"
 author: Glen Robson
 date: 2017-11-01
 tags: [news, announcements, guides]
