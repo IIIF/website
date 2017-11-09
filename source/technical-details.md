@@ -2,7 +2,6 @@
 title: Technical Details
 title_override: For Implementers - International Image Interoperability Framework™
 id: technical-details
-categories: [pages]
 layout: sub-page
 redirect_from:
   - /technical-details.html
