@@ -313,11 +313,11 @@ Sheila Rabun, IIIF Community and Communications Officer
 [position]: https://www.clir.org/about/positions/iiif
 [oclc]: http://www.oclc.org/en/home.html
 [survey]: https://goo.gl/forms/47OmXfgXMUNMBVI93
-[comm-list]: /community/
+[comm-list]: {{ site.url }}{{ site.baseurl }}/community/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [slack]: http://bit.ly/iiif-slack
 [join-slack]: http://bit.ly/iiif-slack
-[iiif-c]: /community/consortium/
+[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
 [folger]: http://www.folger.edu/
 [nga]: https://www.nga.gov/content/ngaweb.html
 [smithsonian]: https://www.si.edu/
@@ -339,10 +339,10 @@ Sheila Rabun, IIIF Community and Communications Officer
 [mcn]: http://conference.mcn.edu/2017/conference_schedule.cfm
 [community-process]: http://iiif.io/api/annex/notes/editors/#community-process
 [iiif-translations]: https://drive.google.com/drive/folders/0B8biwZuDijgeT1I5bG9BTHJySk0
-[iiif-faq]:/community/faq/
-[discovery-group]: /community/groups/discovery/
-[devs-group]: /community/groups/software/
-[newspapers]: /community/groups/newspapers/
-[museums]: /community/content/museums/
-[manuscripts]: /community/groups/manuscripts/
-[aac]: /news/2017/11/01/aac-collaboration/
+[iiif-faq]:{{ site.url }}{{ site.baseurl }}/community/faq/
+[discovery-group]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/
+[devs-group]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
+[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
+[museums]: {{ site.url }}{{ site.baseurl }}/community/content/museums/
+[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
+[aac]: {{ site.url }}{{ site.baseurl }}/news/2017/11/01/aac-collaboration/
