@@ -344,3 +344,5 @@ Sheila Rabun, IIIF Community and Communications Officer
 [devs-group]: /community/groups/software/
 [newspapers]: /community/groups/newspapers/
 [museums]: /community/content/museums/
+[manuscripts]: /community/groups/manuscripts/
+[aac]: /news/2017/11/01/aac-collaboration/
