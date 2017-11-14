@@ -13,6 +13,8 @@ The IIIF Discovery Technical Specification group will create specifications that
 
 If successful, the work will enable the collaborative development of global or thematic registries, search engines and portal applications that allow developers and end users to easily find and use content available via existing IIIF APIs. The [IIIF Discovery group charter][charter] provides an outline and timeline for anticipated work.
 
+The group has produced a [registry of Activity Stream endpoints for evaluation][ASEndpoints].
+
 ## Organization
 
 **Chairs:**
@@ -45,6 +47,7 @@ If successful, the work will enable the collaborative development of global or t
 [https://stanford.zoom.us/j/829945399]: https://stanford.zoom.us/j/829945399
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
+[ASEndpoints]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/registry
 
 
 {% include acronyms.md %}

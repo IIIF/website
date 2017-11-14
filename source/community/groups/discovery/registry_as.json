@@ -1,0 +1,23 @@
+---
+layout: nil
+---
+{
+
+    "@context": "https://www.w3.org/ns/activitystreams.jsonld",
+    "id": "http://iiif.io/community/groups/discovery/registry_as.json",
+    "type": "CollectionPage",
+    "items": [
+      {% for i in site.data.discovery_registry %}
+        {
+            "type": "Update",
+            "object": {
+                "id": "{{ i.uri }}",
+                "type": "CollectionPage",
+                "name":"{{ i.name }}"
+            },
+            "actor":"{{ i.wikidata }}",
+            "published": "{{ site.time | date_to_xmlschema }}"
+        }{% if forloop.last %}{% else %},{% endif %}
+      {% endfor %}
+  ]
+}

@@ -19,7 +19,8 @@ If institutions or organisations would like to be added to this list please cont
  * {{ i.name }} - [{{ i.uri}}]({{ i.uri }})
 {% endfor %}
 
-This list is also available in [json][RegistryJson].
+This list is also available in [collection json][RegistryJson] and [Activity Stream Json][ASJson].
 
 [ActivityStream]: https://www.w3.org/TR/activitystreams-core/
 [RegistryJson]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/collection.json
+[ASJson]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/registry_as.json
