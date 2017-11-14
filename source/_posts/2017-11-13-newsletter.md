@@ -24,7 +24,7 @@ As of November 17, Sheila Rabun will be [stepping away from her position][sheila
 The 2018 IIIF Conference will be held in Washington, DC, May 21-25, 2018, co-hosted by the [Library of Congress][lc], the [Smithsonian Institution][smithsonian], and the [Folger Shakespeare Library][folger]. Please mark your calendars and stay tuned for more details!
 
 ### IIIF Consulting: American Art Collaborative
-A recent consulting collaboration with Sara Brumfield and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and [Jason Ronallo][ronallo], head of Digital Library Initiatives at NCSU Libraries, to provide IIIF technical consulting for eight institutions from the American Art Collaborative (AAC), has yielded improved documentation for technical implementers, as well as a framework for continued implementation consulting for future prospective adopters. [Read more.][aac]
+A recent consulting collaboration with Sara Brumfield and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and [Jason Ronallo][ronallo], head of Digital Library Initiatives at NCSU Libraries, to provide IIIF technical consulting for eight institutions from the American Art Collaborative (AAC), has yielded improved documentation for technical implementers, as well as a framework for continued implementation consulting for future prospective adopters.
 
 ### JPEG2000 & OpenJPEG Survey
 The first phase of work to improve OpenJPEG, an open source JPEG2000 codec, has drawn to a close, resulting in the latest release of OpenJPEG, [version 2.3.0][oj230]. Please see the [call for feedback][oj-feedback] on the latest release, and complete the [JPEG2000 & OpenJPEG survey][oj-survey].
@@ -188,7 +188,6 @@ BSB TECHNOLOGY:
     * [PDF of the presentation][story-pdf]
     * [Site with some interactive demos][story-demos]
 * [Intro to IIIF workshop materials][edui] from EdUi 2017, by Shaun Ellis
-* Yomiuri Online, a high-selling Japanese newspaper posted this [article including a screenshot of Mirador][yomiuri]
 * Presentation on Discovery work at Europeana with IIIF: ["Metadata Aggregation: Assessing the Application of IIIF and Sitemaps within Cultural Heritage"][disc-slides] by Nuno Freire, Glen Robson, John B. Howard, Hugo Manguinhas, Antoine Isaac.
 * [Article about Mirador][mirador-nagasaki] by Kiyonori Nagasaki
 * Zegami blog post that goes into some detail on how we use [pre-trained machine learning models for feature extraction][zegami-post], see [code][zegami-code].
@@ -296,7 +295,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [oclc-press]: http://www.oclc.org/en/news/releases/2017/201726dublin.html
 [tify-demo]: http://tify.sub.uni-goettingen.de/demo.html?manifestUrl=https://gdzstaging.sub.uni-goettingen.de/iiif/presentation/PPN857449303/manifest
 [tify]: https://github.com/subugoe/tify
-[yomiuri]: http://www.yomiuri.co.jp/local/tokyo23/news/20171102-OYTNT50158.html
 [nga-tool]: https://www.nga.gov/collection-search-result.html?artobj_imagesonly=Images_online&artobj_classification=painting&artobj_oscicatologue=American%20Paintings%2C%201900%E2%80%931945&pageNumber=1&lastFacet=artobj_oscicatologue
 [disc-notes]: https://docs.google.com/document/d/1PVYzT1jRTE2jtwzOwyhOcg6Rf8CCdrJ-kP6sYOpV_j0/edit?usp=sharing
 [av-toronto-notes]: https://docs.google.com/document/d/1zYv4se9c5O2JJ4PV6DEHNoUUK6yboOxhtpBNvcUk3EM/edit?usp=sharing
@@ -343,6 +341,5 @@ Sheila Rabun, IIIF Community and Communications Officer
 [discovery-group]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/
 [devs-group]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
 [newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
-[museums]: {{ site.url }}{{ site.baseurl }}/community/content/museums/
+[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/
 [manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
-[aac]: {{ site.url }}{{ site.baseurl }}/news/2017/11/01/aac-collaboration/
