@@ -238,7 +238,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Sonia Wronkowska (National Library of Poland)
 * Roxanne Wyns (KULeuven)
 
-[bsb-java]: https://github.com/dbmdz/iiif-apis]
+[bsb-java]: https://github.com/dbmdz/iiif-apis
 [hymir]: https://github.com/dbmdz/iiif-server-hymir
 [bsb-plugins]: https://github.com/dbmdz/mirador-plugins
 [bsb-mirador]: https://app.digitale-sammlungen.de/bookshelf/help?language=en
