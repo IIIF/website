@@ -99,7 +99,7 @@ The [IIIF Museums group][museums] is compiling an FAQ for museums interested in 
 The [IIIF Newspapers group][newspapers] has been discussing textual data and IIIF, with a focus on OCR data as IIIF annotations, and distinguishing granularity between words, lines, and paragraphs. Pennsylvania State University is currently migrating their historic digital newspaper collection to  the Open Online Newspaper Initiative ([Open ONI][oni]) software, which complies with the IIIF Image API.
 
 ### Software Developers Community Group
-The [IIIF Software Developers group][devs] meets every other week to share their work and ideas for IIIF-compatible software and re-usable components. Shaun Ellis of Princeton has documented the libraries and components built by members of the group at [https://viewdir.github.io/][viewdir]. The group is currently also planning "getting started with IIIF" training sessions, to be delivered at Code4Lib and the upcoming IIIF Conference.
+The [IIIF Software Developers group][devs] meets every other week to share their work and ideas for IIIF-compatible software and re-usable components. Shaun Ellis of Princeton has documented the libraries and components built by members of the group at [https://iiif-commons.github.io/][iiif-commons]. The group is currently also planning "getting started with IIIF" training sessions, to be delivered at Code4Lib and the upcoming IIIF Conference.
 
 ## Implementations and Adoption
 
@@ -177,7 +177,7 @@ Rashmi Singhal (Harvard)
 [jubilees]: http://jubilees.stmarytx.edu/
 [iiif-navigator]: http://jubilees.stmarytx.edu/iiifp/index.html
 [oni]: https://github.com/open-oni/open-oni
-[viewdir]: https://viewdir.github.io/
+[iiif-commons]: https://iiif-commons.github.io/
 [ontario]: http://boxwood.ago.ca/collection
 [harvard-art]: http://www.harvardartmuseums.org/collections/
 [ftp-news]: {{ site.url }}{{ site.baseurl }}/news/2017/02/17/from-the-page/
