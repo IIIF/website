@@ -1,0 +1,20 @@
+---
+layout: nil
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://iiif.io/community/groups/discovery/collection.json",
+  "@type": "sc:Collection",
+  "label": "Collection of Activity Streams",
+  "members":[
+      {% for i in site.data.discovery_registry %}
+      {
+           "@context": "https://www.w3.org/ns/activitystreams.jsonld",
+           "id":"{{ i.uri }}",
+           "type":"CollectionPage",
+           "label": "{{ i.name }}",
+           "http://www.europeana.eu/schemas/edm/dataProvider":"{{ i.wikidata}}"
+       }{% if forloop.last %}{% else %},{% endif %}
+      {% endfor %}
+  ]
+}

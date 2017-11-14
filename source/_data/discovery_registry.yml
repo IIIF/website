@@ -1,0 +1,3 @@
+- name: NC State University
+  uri:  https://scrc.lib.ncsu.edu/sal_staging/iiif-discovery.json
+  wikidata: https://www.wikidata.org/entity/Q6953248
