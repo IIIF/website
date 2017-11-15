@@ -170,10 +170,9 @@ BSB TECHNOLOGY:
 ### Innovations & Ongoing Work from Across the IIIF Community
 
 * [Demo from Yale Center for British Art][ycba-demo] showing conservation images overlaid on a single canvas/view in Mirador
-* Linked Data Notifications and IIIF:
-      * [LDN with IIIF data sharing draft specification][ldn-draft]
-      * [Rerum Inbox for Linked Data Notifications][rer
-      * [Mirador Linked Data Notifications (LDN) demo][ldn-demo]
+* [LDN with IIIF data sharing draft specification][ldn-draft]
+* [Rerum Inbox for Linked Data Notifications][rerum]
+* [Mirador Linked Data Notifications (LDN) demo][ldn-demo]
 * [Leaflet annotation example][leaflet-ex]
 * UCD video on [how to use Mirador][ucd-vid]
 * [STEM applications][imoutsatsos] of IIIF
