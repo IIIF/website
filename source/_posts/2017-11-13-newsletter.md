@@ -89,10 +89,10 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Museum Computer Group (MCG) Conference, November 2017
 * [Museum Computer Network (MCN) Conference][mcn], November 2017
 * BELSPO-funded INSIGHT project (Intelligent Neural Systems as Integrated Heritage Tools) launch event, November 2017
-* DAM/LA, November 2017
+* DAM LA, November 2017
 * Coalition for Networked Information (CNI), December 2017
 
-## Technical
+## Technical Work
 
 ### Transition from HTTP to HTTPS
 Several institutions in the IIIF community, including University of Heidelberg, [Oxford Digital Bodleian][bod-https], [Harvard Art Museums][harvard-https], the [University of Edinburgh][edin-https], and the [Vatican Library][vat-https], among others, have switched from HTTP to HTTPS for their IIIF collections. Read the compelling [case for serving your IIIF content over HTTPS][jack-https] by Jack Reed (Stanford).
@@ -156,14 +156,13 @@ BSB TECHNOLOGY:
 ### New Releases
 
 * The British Library’s [Endangered Archives Program][eap] (EAP), funded by Arcadia Fund has released 6 million images via IIIF Image API with [Presentation manifests][eap-manifest] displayed via [Universal Viewer][eap-uv]. See [Cogapp case study][eap-cogapp] for more details.
-* The [Clyfford Still Museum][clyfford] has implemented Cogapp’s “slow looking” functionality for their online art collections - view [demo][clyf-demo] and see [blog post][slow].
+* The [Clyfford Still Museum][clyfford] has implemented the IIIF Image API using Cogapp’s “slow looking” functionality for their online art collections - view [demo][clyf-demo], see [blog post][slow], and read the [case study][clyfford-case] from Cogapp that explains the underlying technology (Luna).
+* [TIFY viewer][tify], see [demo][tify-demo]
 * Art Institute of Chicago went live with support for the IIIF Image API v. 2.0, using the Cantaloupe image server, JP2 access files, and a custom content shim which fetches  and caches the JP2 from Fedora, if not already on local disk, and provides the local JP2's location to Cantaloupe for serving.
 * OCLC’s CONTENTdm latest release supports IIIF Image and IIIF Presentation, see [details][oclc-press]
 * [Rosetta (ExLibris) support for IIIF][rosetta]
 * National Gallery of Art is now dynamically generating images using IIIF and IIPImage server, see [example][nga-example], and has also released a IIIF compare tool, see [example][nga-tool]
 * Kyoto University Library Network released [Kyoto University Rare Materials Digital Archive][kyoto] (test version) using IIIF. For more details, please see the [news release][kyoto-news].
-* The [Clyfford Still Museum][clyfford] now supports the IIIF Image API. See the [case study][clyfford-case] from Cogapp that explains the underlying technology (Luna), and also a [blog post about the slow looking feature][story-blog].
-* [TIFY viewer][tify], see [demo][tify-demo]
 * A brand [new Biblissima demo][bib-demo] showcasing an experiment around Mirador and IIIF annotations: “The Ovid’s Metamorphoses in images: gods, crimes and loves with IIIF” (in French)
 * [Beyond Words: Illuminating Manuscripts in Boston Collections][beyond] multi-institutional collaboration using annotated IIIF manifests and Mirador (see [example][beyond-example])
 
@@ -171,13 +170,15 @@ BSB TECHNOLOGY:
 ### Innovations & Ongoing Work from Across the IIIF Community
 
 * [Demo from Yale Center for British Art][ycba-demo] showing conservation images overlaid on a single canvas/view in Mirador
-* [LDN with IIIF data sharing draft specification][ldn-draft]
+* Linked Data Notifications and IIIF:
+      * [LDN with IIIF data sharing draft specification][ldn-draft]
+      * [Rerum Inbox for Linked Data Notifications][rer
+      * [Mirador Linked Data Notifications (LDN) demo][ldn-demo]
 * [Leaflet annotation example][leaflet-ex]
 * UCD video on [how to use Mirador][ucd-vid]
 * [STEM applications][imoutsatsos] of IIIF
-* [Rerum Inbox for Linked Data Notifications][rerum]
 * [IIIF A/V proof of concept demo video][av-demo]
-* [Mirador Linked Data Notifications (LDN) demo][ldn-demo]
+
 
 
 ### Recommended Reading
@@ -254,7 +255,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [rerum]: https://groups.google.com/forum/#!searchin/iiif-discuss/rerum$20inbox%7Csort:relevance/iiif-discuss/cSlclBwpPgQ/SvjKTy2MAAAJ
 [imoutsatsos]: https://github.com/imoutsatsos/osdUseCaseHCS
 [ucd-vid]: https://vimeo.com/229253706?ref=tw-share
-[leaflet-ex]: https://centerfordigitalhumanities.github.io/inbox-docs/#!/specifications
+[leaflet-ex]:  https://gist.github.com/mejackreed/2724146adfe91233c74120b9056fba06
 [ldn-draft]: https://centerfordigitalhumanities.github.io/inbox-docs/#!/specifications
 [clyfford-case]: https://www.cogapp.com/work/#/clyfford-still-museum-online-collection/
 [kyoto-news]: https://rmda.kulib.kyoto-u.ac.jp/en/news/2017-09-07
