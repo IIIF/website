@@ -29,9 +29,9 @@ Symposium at the National Institute of Informatics in Tokyo, featuring an introd
 
 **Wednesday, October 18: [Kyoto University Library IIIF Seminar][kyoto-s]**  
 Seminar at the Kyoto University Library, featuring a keynote by IIIF representatives and talks from:
-* Nagasaki Noriaki (Visiting researcher, Humanities and Information Science Center, Graduate School of Humanities and Social Sciences, the University of Tokyo)
-* Prof. Sayaka Hayashi (Graduate School of Letters, Kyoto University)
-* Chief Nishioka Chief Special Official (Kyoto University Library Research and Development Office)
+* Kiyonori Nagasaki (Visiting researcher, Humanities and Information Science Center, Graduate School of Humanities and Social Sciences, the University of Tokyo)
+* Susumu Hayashi (Graduate School of Letters, Kyoto University)
+* Chifumi Nishioka (Kyoto University Library Research and Development Office)
 
 **Thursday, October 19: IIIF Japan Kyoto Round Table**  
 Meeting at the [Ritsumeikan University Art Research Center][arc] (ARC) in Kyoto, focusing on digital archive and web publishing projects at the ARC in relation to IIIF, concerning collections of photographs, woodcut prints, moving objects, and 3D objects.
