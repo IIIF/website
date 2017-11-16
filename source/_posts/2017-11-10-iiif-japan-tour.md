@@ -30,7 +30,7 @@ Symposium at the National Institute of Informatics in Tokyo, featuring an introd
 **Wednesday, October 18: [Kyoto University Library IIIF Seminar][kyoto-s]**  
 Seminar at the Kyoto University Library, featuring a keynote by IIIF representatives and talks from:
 * Kiyonori Nagasaki (Visiting researcher, Humanities and Information Science Center, Graduate School of Humanities and Social Sciences, the University of Tokyo)
-* Susumu Hayashi (Graduate School of Letters, Kyoto University)
+* Prof. Susumu Hayashi (Graduate School of Letters, Kyoto University)
 * Chifumi Nishioka (Kyoto University Library Research and Development Office)
 
 **Thursday, October 19: IIIF Japan Kyoto Round Table**  
