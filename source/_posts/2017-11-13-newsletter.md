@@ -24,7 +24,7 @@ As of November 17, Sheila Rabun will be [stepping away from her position][sheila
 The 2018 IIIF Conference will be held in Washington, DC, May 21-25, 2018, co-hosted by the [Library of Congress][lc], the [Smithsonian Institution][smithsonian], and the [Folger Shakespeare Library][folger]. Please mark your calendars and stay tuned for more details!
 
 ### IIIF Consulting: American Art Collaborative
-A recent consulting collaboration with Sara Brumfield and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and [Jason Ronallo][ronallo], head of Digital Library Initiatives at NCSU Libraries, to provide IIIF technical consulting for eight institutions from the American Art Collaborative (AAC), has yielded improved documentation for technical implementers, as well as a framework for continued implementation consulting for future prospective adopters.
+A recent consulting collaboration with Sara Brumfield and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and [Jason Ronallo][ronallo], head of Digital Library Initiatives at NCSU Libraries, to provide IIIF technical consulting for eight institutions from the American Art Collaborative (AAC), has yielded [improved documentation for technical implementers][aac], as well as a framework for continued implementation consulting for future prospective adopters. [Read more][aac].
 
 ### JPEG2000 & OpenJPEG Survey
 The first phase of work to improve OpenJPEG, an open source JPEG2000 codec, has drawn to a close, resulting in the latest release of OpenJPEG, [version 2.3.0][oj230]. Please see the [call for feedback][oj-feedback] on the latest release, and complete the [JPEG2000 & OpenJPEG survey][oj-survey].
@@ -224,7 +224,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Richard Palmer (Victoria & Albert Museum)
 * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 * Jack Reed (Stanford University)
-* Régis Robineau‏ (Biblissima)
+* Régis Robineau (Biblissima)
+* Glen Robson (IIIF)
 * Tristan Roddis (Cogapp)
 * Jason Ronallo (NCSU)
 * Emma Stanford (Oxford Digital Bodleian)
@@ -237,6 +238,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Sonia Wronkowska (National Library of Poland)
 * Roxanne Wyns (KULeuven)
 
+[aac]: http://iiif.io/news/2017/11/01/aac-collaboration/
 [bsb-java]: https://github.com/dbmdz/iiif-apis
 [hymir]: https://github.com/dbmdz/iiif-server-hymir
 [bsb-plugins]: https://github.com/dbmdz/mirador-plugins
