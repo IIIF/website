@@ -12,11 +12,7 @@ The IIIF Consortium has partnered with the American Art Collaborative (AAC) to p
 
 On behalf of the American Art Collaborative Rachel M. Allen said:
 
-""
-
-On behalf of the IIIF Consortium, Tom Cramer Chair of the IIIF Coordinating Committee said:
-
-""
+"The American Art Collaborative (AAC), fourteen art museums working together to implement linked open data, got terrific support from the IIIF Consortium.  Art museums come from a strong visual culture so IIIF excited the museums from the first demonstration.  The hands-on workshops that IIIF-C developed for the AAC partners provided exactly the information needed to support the partners, helping them move from enthusiastic interest to implementation."
 
 The collaboration has produced the following outputs for the IIIF community:
 
