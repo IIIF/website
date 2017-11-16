@@ -8,7 +8,7 @@ excerpt: >
   The IIIF consortium has completed its consultancy with the American Art Collaborative and are able to share a guides for implementing IIIF in Museums and other outputs produced by the collaboration.
 ---
 
-The IIIF Consortium has partnered with the American Art Collaborative (AAC) to provide technical consulting for eight AAC museums as part of a grant from the Andrew W. Mellon foundation. In collaboration with Sara and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and Jason Ronallo, head of Digital Library Initiatives at NCSU Libraries, the museums were given a hands-on workshop and specific recommendations for implementing IIIF.
+The IIIF Consortium has partnered with the American Art Collaborative (AAC) to provide technical consulting for eight AAC museums as part of a grant from the Andrew W. Mellon foundation. In collaboration with Sara and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and [Jason Ronallo][ronallo.com], Department Head of Digital Library Initiatives at NCSU Libraries, the museums were given a hands-on workshop and specific recommendations for implementing IIIF.
 
 On behalf of the American Art Collaborative Rachel M. Allen said:
 
@@ -34,6 +34,7 @@ The 8 museums that were part of this project were:
  * Colby College Museum of Art
 
 [Brumfield-Labs]: http://www.brumfieldlabs.com
+[ronallo.com]: https://ronallo.com
 [iiif-workshop]: http://ronallo.com/iiif-workshop/
 [quick-start]: {{ site.url }}{{ site.baseurl }}/technical-details/
 [acc-guide]: {{ site.url }}{{ site.baseurl }}/assets/acc_implementation_guide_011017.pdf
