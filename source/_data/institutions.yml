@@ -105,9 +105,6 @@
 - name: Hill Museum & Manuscript Library (HMML)
   uri: https://www.vhmml.org/
   iiifc:
-- name: Holoscene
-  uri: http://holoscene.io
-  iiifc:
 - name: Huygens ING (KNAW)
   uri: https://www.huygens.knaw.nl/
 - name: Indiana University
@@ -147,6 +144,9 @@
 - name: MIT Libraries
   uri: http://libraries.mit.edu
   iiifc: 2
+- name: Mnemoscene
+  uri: http://mnemoscene.io
+  iiifc:
 - name: Moravian Library (Moravská zemská knihovna)
   uri: https://www.mzk.cz/
   iiifc:
