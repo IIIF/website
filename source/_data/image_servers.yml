@@ -1,4 +1,35 @@
 # Use Markdown in the blurb if necessary for links, etc. Each list entry in the blurb gets a <p>.
+- name: Cantaloupe
+  uri: https://medusa-project.github.io/cantaloupe/
+  blurb:
+  - >
+    High-performance dynamic image server in Java
+  - >
+    Cantaloupe is an open-source image server enabling on-demand generation of derivatives of high-resolution source images.
+    With available operations including cropping, scaling, and rotation, it can support deep-zooming image viewers,
+    as well as on-the-fly thumbnail generation. Project goals include performance, scalability, and extensibility, without sacrificing ease-of-use.
+  - >
+    Canataloupe supports the IIIF Image API version 1 & 2.
+- name: IIPImage Server
+  uri: http://iipimage.sourceforge.net/documentation/server/
+  blurb:
+  - >
+    The IIPImage server is a high performance image server for streaming high
+    resolution images. It supports advanced image features such as 16 and 32
+    bit color depths, floating point data, CIELAB colorimetric images and
+    scientific imagery such as multispectral or hyperspectral images.
+  - >
+    The server  is an Fast CGI module written in C++ that is designed to be
+    embedded within a host web server such as Apache, Lighttpd, MyServer or Nginx.
+  - >
+    IIPImage server is IIIF compatible (
+    [GitHub repo](https://github.com/ruven/iipsrv) of the project).
+- name: Loris
+  uri: https://github.com/pulibrary/loris
+  blurb:
+  - >
+    Loris is an open source, Python-based image server that supports the IIIF
+    Image API ver 1.1. Loris supports JPEG and TIFF sources as well as JPEG2000.
 - name: ContentDM
   uri: http://www.contentdm.org/
   blurb:
@@ -35,26 +66,6 @@
     FSI Server is a popular commercial solution for serving high resolution
     images in multiple formats.&nbsp; It accompanies the Flash-based FSI Viewer
     for zoom and pan.
-- name: IIPImage Server
-  uri: http://iipimage.sourceforge.net/documentation/server/
-  blurb:
-  - >
-    The IIPImage server is a high performance image server for streaming high
-    resolution images. It supports advanced image features such as 16 and 32
-    bit color depths, floating point data, CIELAB colorimetric images and
-    scientific imagery such as multispectral or hyperspectral images.
-  - >
-    The server  is an Fast CGI module written in C++ that is designed to be
-    embedded within a host web server such as Apache, Lighttpd, MyServer or Nginx.
-  - >
-    IIPImage server is IIIF compatible (
-    [GitHub repo](https://github.com/ruven/iipsrv) of the project).
-- name: Loris
-  uri: https://github.com/pulibrary/loris
-  blurb:
-  - >
-    Loris is an open source, Python-based image server that supports the IIIF
-    Image API ver 1.1. Loris supports JPEG and TIFF sources as well as JPEG2000.
 - name: digilib
   uri: http://digilib.sourceforge.net/
   blurb:
