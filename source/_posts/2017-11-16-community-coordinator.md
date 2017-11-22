@@ -1,5 +1,5 @@
 ---
-title: Position Search: IIIF Community & Communications Officer
+title: Position Search - IIIF Community & Communications Officer
 author: Glen Robson
 date: 2017-11-16
 tags: [jobs, announcements]
