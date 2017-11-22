@@ -6,7 +6,7 @@ tags: [event ]
 
 ### Overview
 
-The 2018 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held May 21-25 in Washington, DC, co-hosted by the Library of Congress and the Smithsonian Institution. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
+The 2018 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held May 21-25 in Washington, DC, co-hosted by the Library of Congress, the Smithsonian Institution, and the Folger Shakespeare Library. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
 All event proceedings will be in English.
 
@@ -22,7 +22,7 @@ All event proceedings will be in English.
 
 ### Call for Sponsors
 
-To be a sponsor at the 2018 IIIF Conference, please contact Sheila Rabun, IIIF Community and Communications Officer at <srabun@iiif.io>. Additional sponsorship information will be made available as soon as possible.
+To be a sponsor at the 2018 IIIF Conference, please contact <admin@iiif.io>. Additional sponsorship information will be made available as soon as possible.
 
 ### Schedule
 

@@ -12,13 +12,13 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming Events__
 
-* Fall 2017 IIIF Showcase: Oct. 10 in [Toronto][toronto-showcase], Canada
-* Fall 2017 IIIF Working Meeting: Oct. 11-13 in [Toronto][toronto], Canada
-* Fall 2017 Showcase and Technical Workshop: Nov. 2 in [London][london-va], England
 * Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
 
 __Previous Events__
 
+* Fall 2017 Showcase and Technical Workshop: Nov. 2 in [London][london-va], England
+* Fall 2017 IIIF Working Meeting: Oct. 11-13 in [Toronto][toronto], Canada
+* Fall 2017 IIIF Showcase: Oct. 10 in [Toronto][toronto-showcase], Canada
 * Spring 2017: [The Vatican][vatican]
 * Winter 2017: [Edinburgh][edinburgh], Scotland
 * Fall 2016: [The Hague][hague], Netherlands
