@@ -9,7 +9,7 @@
     With available operations including cropping, scaling, and rotation, it can support deep-zooming image viewers,
     as well as on-the-fly thumbnail generation. Project goals include performance, scalability, and extensibility, without sacrificing ease-of-use.
   - >
-    Canataloupe supports the IIIF Image API version 1 & 2.
+    Cantaloupe supports the IIIF Image API version 1 & 2.
 - name: IIPImage Server
   uri: http://iipimage.sourceforge.net/documentation/server/
   blurb:
