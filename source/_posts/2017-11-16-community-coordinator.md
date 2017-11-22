@@ -1,57 +1,55 @@
 ---
-title: Community Coordinator
+title: Position Search: IIIF Community & Communications Officer
 author: Glen Robson
 date: 2017-11-16
 tags: [jobs, announcements]
 layout: post
 excerpt: >
-  The IIIF Consortium seeks a dedicated staff member to serve as the IIIF Community Coordinator to help facilitate the growing activities of the Consortium and the community it both represents and supports.
+  The IIIF Consortium seeks a dedicated staff member to serve as the IIIF Community and Communications Officer to help facilitate the growing activities of the Consortium and the community it both represents and supports.
 ---
 
-The International Image Interoperability Framework (IIIF) Consortium seeks a dedicated staff member to help facilitate the growing activities of the Consortium and the community it both represents and supports. The person in this role will serve as a coordinator, communicator, and facilitator, working with the experts and adopters of IIIF to help advance the framework and its utility. The role will liaise with IIIF editorial, working and interest groups to ensure consistency and continuous improvement of the community.
+## Position Search: IIIF Community & Communications Officer
 
-Reporting Lines: The incumbent will be an employee of the Council on Library and Information Resources (CLIR). Specifically, week-to-week activities supporting IIIF will be directed by the Chair of the IIIF Coordinating Committee or her/his designate, with high level direction regarding maintaining and expanding the IIIF Consortium and its membership and general oversight coming from the chairperson of IIIF Executive Group. Administrative support and general working conditions will be provided by the Council on Library and Information Resources.
+The International Image Interoperability Framework (IIIF) Consortium seeks a dedicated staff member to help facilitate the growing activities of the Consortium and the community it both represents and supports. The person in this role will serve as a coordinator, communicator, and facilitator, working with the experts and adopters of IIIF to help advance the framework and its utility.  The role will liaise with IIIF editorial and community groups to ensure consistency and continuous improvement.
 
-Specific duties will include:
+Reporting Lines: The incumbent will be an employee of CLIR (the Council on Library and Information Resources), while his or her work supporting IIIF will be directed by the Chair of the IIIF-C Executive Committee or the Chair’s designate, who will provide both high level and week-to-week direction regarding maintaining and expanding the IIIF Consortium and other activities. Administrative support and general working conditions will be provided by the Council on Library and Information Resources.
 
-#### Communication & Community Management
+Specific duties include:
 
+### Community and Communication Management
  * Communication support, including website content management, newsletters, social media, etc.
  * Event planning. Currently 4-6 events of differing sizes are held per year, with the larger ones requiring event management.
- * Liaison & coordination of different IIIF working & interest groups.
+ * Liaison with & coordination of different IIIF community groups.
+ * Establishing and helping maintain communication channels (documentation, presentations, training materials, email lists, ticketing systems, etc.) for community-based activities; support for documentation & knowledge management of IIIF-related artifacts.
+
+### Training and Outreach
  * Outreach and IIIF advocacy: represent IIIF at relevant conferences and meetings.
-
-#### Product & Technical Management
-
- * Training for IIIF adopters (including workshop delivery, development of online resources such as webcasts or doc, and participation in curriculum development) documentation & knowledge management of IIIF-related artifacts.
- * Use case & requirements gathering and maintenance.
- * Issue tracking and management; testing/validation of recent releases.
- * Project management of contract technical work (such as the development or maintenance of the IIIF.io website, validators, utiltiies, etc.).
- * Outreach and communication to industry and trade groups with an IIIF-interest (including possible vendors with products or content that might be made IIIF-compatible).
+ * Training for IIIF adopters (in conjunction with the IIIF Technology Coordinator and community members): help define and deliver training curricula for various stakeholders both online and in person.
  * Consulting on IIIF strategies and standards for grants and projects seeking to become interoperable (including possibly being written into grants and projects).
- * Compiling, maintaining, and providing access to the technical documentation regarding the development of the International Image Interoperability Framework and related applications making use of or interoperating with it, such as the various viewers compliant with IIIF compliant images.
+ * Outreach and communication to industry and trade groups with a IIIF-interest (including possible vendors with products or content that might be made IIIF-compatible).
 
-#### IIIF-C administration
-
+### IIIF-C Administration & Project Management
  * Invoicing & reporting.
  * Marketing & outreach for consortium expansion & maintenance.
  * Member communication.
+ * Project management of IIIF-specific efforts directly supported by the IIIF Consortium (such as the development or maintenance of the IIIF.io website, validators, utiltiies, etc.)
 
-#### Required and Desired Skills & Experience:
+### Required and Desired Skills & Experience
 
-The ideal candidate will
+The ideal candidate:
+ 1. will be self-directed and highly organized
+ 2. will possess well documented, demonstrated, and effective communication skills including oral, written, and presentation capabilities;
+ 3. will have sufficient and demonstrated technical depth to gain a conceptual understanding of the different components in interoperable image delivery, and to  work with IIIF community members of all technical abilities
+ 4. will be able to use or learn GitHub
+ 5. will be familiar with or will be a quick study to learn web technologies and web-based image delivery
+ 6. will have previous experience in libraries, archives or museums (desired)
+ 7. will be comfortable and thrive in an open community
+ 8. will be adept fostering contributions and participation from a growing member and adopter base.
 
- * be self-directed and highly organized;
- * possess well documented, demonstrated, and effective communication skills including oral, written, and presentation capabilities;
- * have sufficient and demonstrated technical depth to gain a conceptual understanding of the different components in interoperable image delivery, and to work with IIIF community members of all technical abilities;
- * be able to use or learn GitHub;
- * be familiar with or will be a quick study to learn web technologies and web-based image delivery;
- * have previous experience in libraries, archives or museums (desired);
- * comfortable and thrive in an open community; and
- * be adept fostering contributions and participation from a growing member and adopter base.
+Travel is required. Candidates may be located anywhere in North America or Western Europe. Salary dependent upon qualifications; benefits included.
 
-Travel required. Location anywhere in North America or Western Europe. Salary dependent upon qualifications; benefits as applicable.
+The posting will be open until filled; the search committee expects to review resumes as early as December, and given a sufficient pool of candidates, progress with interviewing in January of 2018.
 
-If you are interested in applying for this exciting opportunity please see the job advert on the [CLIR website][jobadvert]. If you have questions on the role please contact admin@iiif.io.
+Details on how to apply can be found on the [CLIR website][jobadvert]. If you have questions on the role please contact work@clir.org.
 
 [jobadvert]: https://www.clir.org/about/positions/iiif
