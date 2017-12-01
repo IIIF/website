@@ -13,7 +13,7 @@ excerpt: >
  * [IIIF-Discuss][iiif-discuss] = 641 members  
  * [IIIF Slack][join-slack] = 257 members  
  * [IIIF Consortium][iiif-c]  = Pennsylvania State University and the University of Basel Digital Humanities Lab are the newest additional founding members to join the IIIF Consortium (IIIF-C), bringing total membership to 41 institutions. The IIIF-C continues to welcome founding members. See the [IIIF Consortium][iiif-c] information page for details and how to join.
- * Search process for a [IIIF Technology Coordinator][tech-coordinator] is underway.
+ * Search process for a IIIF Technology Coordinator is underway.
 
 ### IIIF Adopters Survey
  * Are you researching, experimenting with, or fully supporting IIIF at your institution? Please help us scope the IIIF Universe and levels of adoption across the community by completing this quick, 5 minute, [Basic IIIF Adopters Survey][survey-basic].
@@ -141,7 +141,6 @@ Rashmi Singhal (Harvard)
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[tech-coordinator]: https://www.clir.org/about/positions/iiif_technology_coordinator
 [iptc]: https://iptc.org/
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
 [iiif-events]: {{ site.url }}{{ site.baseurl }}/event/

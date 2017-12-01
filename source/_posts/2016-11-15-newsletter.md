@@ -13,7 +13,7 @@ excerpt: >
  * [IIIF-Discuss][iiif-discuss] = 568 members  
  * [IIIF Slack][join-slack] = 202 members  
  * [IIIF Consortium][iiif-c]  = 39 members  
- * IIIF is now seeking a dedicated staff member for the role of [IIIF Technology Coordinator][tech-coordinator]  
+ * IIIF is now seeking a dedicated staff member for the role of IIIF Technology Coordinator.
 
 ## Community Events
 
@@ -109,7 +109,6 @@ Drew Winget (Stanford University Libraries)
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[tech-coordinator]: https://www.clir.org/about/positions/iiif_technology_coordinator
 [hague-notes]: https://drive.google.com/drive/folders/0B8biwZuDijgednFqMG91WDZjdUE
 [hague-slides]: https://drive.google.com/drive/folders/0B8biwZuDijgeWktQSk9pd0pqNTA
 [outreach-slides]: https://drive.google.com/drive/folders/0B8biwZuDijgeUDJLY3hoREVTVEU
