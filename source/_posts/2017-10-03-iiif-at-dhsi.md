@@ -19,7 +19,7 @@ To apply for a tuition fellowship, please complete the [Tuition Fellowship Appli
 
 The deadline for applications is Friday, November 3, 2017. Applicants will be notified of their status no later than November 15, 2017. The fellowship award will cover tuition only. Applicants or their employers are responsible for the costs of travel and lodging.
 
-Please direct any questions to Sheila Rabun, IIIF Community and Communications Officer, at <srabun@iiif.io>.
+Please direct any questions to the IIIF Staff, at <admin@iiif.io>.
 
 ## About the IIIF Workshop at DHSI 2018
 
