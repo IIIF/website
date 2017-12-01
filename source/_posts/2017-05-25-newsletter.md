@@ -178,7 +178,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[tech-coordinator]: https://www.clir.org/about/positions/iiif_technology_coordinator
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
 [iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
 [iiif-av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
