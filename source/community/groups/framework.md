@@ -136,10 +136,7 @@ This community framework is an evolving document, and will be updated by the III
 
 ## IIIF Community and Communications Contact
 
-Sheila Rabun
-IIIF Community and Communications Officer
-srabun@iiif.io
-
+The IIIF Community and Communications Officer is currently out for recruitment see [job advert][job_advert]. In the interim please email <admin@iiif.io>.
 
 [hydra-groups]: https://wiki.duraspace.org/pages/viewpage.action?pageId=67241635
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
@@ -149,6 +146,7 @@ srabun@iiif.io
 [iiif-slack]: http://iiif.slack.com
 [editors]: {{ page.webprefix }}/api/annex/notes/editors/#contents
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[job_advert]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator
 
 
 

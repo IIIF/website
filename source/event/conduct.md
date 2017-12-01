@@ -20,7 +20,7 @@ The IIIF Code of Conduct covers our behavior as members of the IIIF Community in
 * **We are collaborative.** Collaboration is vital to the IIIF community. We work with our own institutional teams, with other teams in the community, and with collaborators outside of our community on related projects. We collaborate to reduce redundancy, to share knowledge, to improve our products, and to perfect our processes. We strive to do our work as transparently as possible and we welcome new collaborators with enthusiasm. We also follow community guidelines for how to collaborate, working with community and technical groups, and including workflows and documented practices for contributing.
 We say thank you and let people know when they have done good work. It is a small thing, but it means a lot. When someone makes a contribution, helps us with a problem, or otherwise goes out of their way to make our work easier, we thank them individually and provide opportunities in the IIIF newsletter for recognition and thanks.
 * **We are respectful of each other’s time.** Much of the work done in this community is by volunteers. The depth of experience in the community is a great resource, but not an infinite one. We make an effort to look for existing resources and work through issues on our own before we take them to the community for help, and when we get help, we try to give back as well. We also recognize that additional time and attention is required to address behavior that does not adhere to our code of conduct.
-* **When we are unsure, we ask for help.** Nobody knows everything, and nobody is expected to be perfect in the IIIF community. Everyone here was new once. Questions are highly encouraged on the [IIIF-Discuss][iiif-discuss] email list, in Slack, and directly to the Community and Communications Officer (<srabun@iiif.io>), who can delegate as necessary. Questions add to the community’s base of knowledge and ability to communicate effectively. Questions will always be treated respectfully.
+* **When we are unsure, we ask for help.** Nobody knows everything, and nobody is expected to be perfect in the IIIF community. Everyone here was new once. Questions are highly encouraged on the [IIIF-Discuss][iiif-discuss] email list, in Slack, and directly to the IIIF Staff (<admin@iiif.io>), who can delegate as necessary. Questions add to the community’s base of knowledge and ability to communicate effectively. Questions will always be treated respectfully.
 * **When we disagree, we consult others and explore perspectives through discussion and healthy debate.** Disagreements, both social and technical, happen all the time and the IIIF community is no exception. IIIF conversations are often information-rich and intended to generate discussion and debate.  We discuss ideas from a standpoint of mutual respect and reasoned argument. It is important that we resolve disagreements and differing views constructively and with the help of the community and community processes. The [IIIF-Discuss][iiif-discuss] email list, [IIIF Community Groups][groups], IIIF Coordinating Committee, the Editorial group, and dedicated IIIF staff can all be consulted on the proper direction to resolve a given conflict. We acknowledge there are different approaches to implementation in specific contexts and the community relies on principles of openness, sharing, and collaboration above specific implementation decisions, as outlined in the [IIIF Editorial Process][ed-process] and [IIIF design patterns][design-patterns].  
 * **We notice, call attention to, and help resolve potential problems.** Community members should feel empowered to be Active Bystanders to call out bad behavior and step in to help resolve issues without waiting to escalate to a higher power. Such resolutions should be reported to the IIIF Code of Conduct Team at <iiif-conduct@googlegroups.com>.
 
@@ -107,7 +107,6 @@ Code of Conduct Team members are expected to actively monitor violation reports 
 
 2017-2018 Code of Conduct Team members include:
 
-* Sheila Rabun (IIIF Community and Communications Officer)
 * Glen Robson (IIIF Technical Coordinator)
 * Ruth Bowler (The Walters Art Museum)
 * Karen Estlund (Pennsylvania State University)
@@ -134,6 +133,7 @@ The IIIF Code of Conduct has been modeled on the Code of Conduct policies from [
 
   | Date       | Description                                                         |
   | ---------- | ------------------------------------------------------------------- |
+  | 2017-12-01 | Removing Sheila from the list of members. |
   | 2017-09-28 | Added 2017-2018 IIIF Code of Conduct Team member names |
   | 2017-08-01 | Added community norms and expectations, reporting guidelines, conduct team selection process, appeal process, and acknowledgements |
   | 2015-12-01 | First release |
