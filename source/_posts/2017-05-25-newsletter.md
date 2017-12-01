@@ -13,7 +13,7 @@ excerpt: >
  * [IIIF-Discuss][iiif-discuss] = 692 members  
  * [IIIF Slack][join-slack] = 362 members  
  * [IIIF Consortium][iiif-c]  = The IIIF-C continues to welcome founding members. See the [IIIF Consortium][iiif-c] information page for details and how to join.
- * Search process for a [IIIF Technology Coordinator][tech-coordinator] is currently underway.
+ * Search process for a IIIF Technology Coordinator is currently underway.
 
 ### IIIF Adopters Survey
 Many thanks to the 70 institutions who have completed the [Basic IIIF Adopters Survey][survey-basic]. The [IIIF Community List][comm] has been updated, and there are over 100 institutions participating in the IIIF community. Survey results indicate that there are currently **over 335 million images** on the web that comply with one or more IIIF APIs. This number is growing on a daily basis as many institutions are continuously adding additional IIIF images to their digital repositories. Survey results, at a glance:
