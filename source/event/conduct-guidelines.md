@@ -43,13 +43,14 @@ Changes to this document will be tracked within and reflected via its [internal 
 
 * How to report an incident or other concerns effectively
     * Send an email to <iiif-conduct@googlegroups.com>
-    * Send a direct message to @srabun via [IIIF Slack][iiif-slack]
+    * Send a direct message to @glen.robson via [IIIF Slack][iiif-slack]
 
 ## Change Log
 
   | Date       | Description                                                         |
   | ---------- | ------------------------------------------------------------------- |
-  | 2017-08-01 | First release |
+  | 2017-08-01 | First release                                                       |
+  | 2017-12-01 | Updating contact details - Glen Robson                              |
 
 [iiif-slack]: https://iiif.slack.com
 [iiif-conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/

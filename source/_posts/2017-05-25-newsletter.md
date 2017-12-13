@@ -13,7 +13,7 @@ excerpt: >
  * [IIIF-Discuss][iiif-discuss] = 692 members  
  * [IIIF Slack][join-slack] = 362 members  
  * [IIIF Consortium][iiif-c]  = The IIIF-C continues to welcome founding members. See the [IIIF Consortium][iiif-c] information page for details and how to join.
- * Search process for a [IIIF Technology Coordinator][tech-coordinator] is currently underway.
+ * Search process for a IIIF Technology Coordinator is currently underway.
 
 ### IIIF Adopters Survey
 Many thanks to the 70 institutions who have completed the [Basic IIIF Adopters Survey][survey-basic]. The [IIIF Community List][comm] has been updated, and there are over 100 institutions participating in the IIIF community. Survey results indicate that there are currently **over 335 million images** on the web that comply with one or more IIIF APIs. This number is growing on a daily basis as many institutions are continuously adding additional IIIF images to their digital repositories. Survey results, at a glance:
@@ -99,7 +99,7 @@ The [IIIF Discovery Technical Specification Group][iiif-discovery] is working to
 As more institutions and vendors are working with annotations and text in the context of IIIF, a need has grown to specify degrees of granularity for text annotations (such as word, sentence, paragraph, etc.) in relation to the [IIIF Search API][search]. The IIIF Text Granularity Technical Specification Group has just formed to begin this work. If you are interested in participating in Text Granularity group discussions, please review the [group charter][text-charter] and indicate your interest. Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for more details.
 
 ### OpenJPEG Improvement Project
-Several institutions in the IIIF community have come together to launch the first phase of a collaborative effort to facilitate improvement of [OpenJPEG][openjpeg], an open source [JPEG 2000][jpeg2000] codec, freely available under a [BSD license][bsd]. A project is currently underway to improve performance, scalability, security, and robustness of OpenJPEG, with the initial phase focused on improving decoding speed, region-of-interest decoding, and memory footprint. Project status can be tracked via [GitHub][jpeg-git], and more details can be found on the [OpenJPEG website][jpeg-site]. The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Sheila Rabun, IIIF Community and Communications Officer, at <srabun@iiif.io>. See more details at [http://iiif.io/news/2017/04/27/openjpeg-improvement/][jpeg-news].
+Several institutions in the IIIF community have come together to launch the first phase of a collaborative effort to facilitate improvement of [OpenJPEG][openjpeg], an open source [JPEG 2000][jpeg2000] codec, freely available under a [BSD license][bsd]. A project is currently underway to improve performance, scalability, security, and robustness of OpenJPEG, with the initial phase focused on improving decoding speed, region-of-interest decoding, and memory footprint. Project status can be tracked via [GitHub][jpeg-git], and more details can be found on the [OpenJPEG website][jpeg-site]. The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Glen Robson, IIIF Technical Coordinator, at <glen.robson@iiif.io>. See more details at [http://iiif.io/news/2017/04/27/openjpeg-improvement/][jpeg-news].
 
 ## Community Groups:
 Please see the [IIIF Community Groups page][iiif-calendar] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Conference][vatican] in June.
@@ -178,7 +178,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[tech-coordinator]: https://www.clir.org/about/positions/iiif_technology_coordinator
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
 [iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
 [iiif-av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
