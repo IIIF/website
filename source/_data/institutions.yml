@@ -178,6 +178,7 @@
   uri: https://www.nb.rs/?change_lang=en
 - name: National Library of Wales
   uri: https://www.llgc.org.uk/
+  iiifc: 2
 - name: Nationalmuseum Sweden
   uri: http://www.nationalmuseum.se
 - name: New York University Libraries
@@ -188,7 +189,6 @@
   iiifc: 2
 - name: OCLC
   uri: http://www.oclc.org/
-  iiifc: 2
 - name: Ohio State University
   uri: https://www.osu.edu/
   iiifc: 2
