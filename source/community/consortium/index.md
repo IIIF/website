@@ -31,4 +31,4 @@ The IIIF Consortium (IIIF-C) was formed in [June 2015][news] in Oxford, England,
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
 [news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
-[job_advert]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator
+[job_advert]: {{ site.url }}{{ site.baseurl }}/news/2017/11/16/community-coordinator/
