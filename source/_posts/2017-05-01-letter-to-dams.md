@@ -24,7 +24,7 @@ In order to realize the full potential of interoperability and optimized image d
 
 We are confident that some of the IIIF viewer clients would be useful as components of your product, and utilizing IIIF could be a cost-reducing effort. IIIF integration provides software vendors with a growing market of repositories and their users looking to utilize IIIF, a guaranteed web- and standards-friendly framework aligned with existing W3C specifications, and the ability to offer your clients innovative new uses and features from native capabilities. Furthermore, providing IIIF-support to your clients will allow them to present more compelling digital interfaces, provide increased interactivity and scholarly research with their images, and publish their images so they can be collocated with other relevant images from other cultural heritage organizations.
 
-We welcome your questions, and we look forward to sharing our successes with the DAM community. Please feel free to reach out to Sheila Rabun, Community and Communications Officer for the IIIF Consortium (<srabun@iiif.io>), and we would be happy to consult with you.
+We welcome your questions, and we look forward to sharing our successes with the DAM community. Please feel free to reach out to the IIIF staff (<admin@iiif.io>), and we would be happy to consult with you.
 
 Thank you for your consideration.
 

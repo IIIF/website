@@ -57,11 +57,7 @@ deploy:
 notifications:
   email:
     recipients:
-      - "azaroth42@gmail.com"
-      - "blalbrit@stanford.edu"
-      - "jpstroop@gmail.com"
-      - "michael.appleby@yale.edu"
-      - "simeon.warner@gmail.com"
-      - "snydman@stanford.edu"
+      - "glen.robson@gmail.com"
+      - "srabun@clir.org"
     on_success: "change"
     on_failure: "change"

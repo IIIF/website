@@ -38,7 +38,7 @@ layout: spec
 
 ## How can my institution join the IIIF Consortium?
 
- * To join the IIIF-C, please send an email expressing interest to Sheila Rabun, IIIF Community and Communications Officer, at srabun@iiif.io. You will be asked to sign and return the IIIF-C [Memorandum of Understanding][mou]. Once a signed MOU has been received, you will receive an invoice for an initial payment of $10,000.
+ * To join the IIIF-C, please send an email expressing interest to the IIIF Staff, at <admin@iiif.io>. You will be asked to sign and return the IIIF-C [Memorandum of Understanding][mou]. Once a signed MOU has been received, you will receive an invoice for an initial payment of $10,000.
 
 ## What institutions are part of the IIIF Consortium?
 

@@ -43,7 +43,7 @@
 - name: Center for Open Data in the Humanities, Research Organization of Information and Systems, Japan
   uri: http://codh.rois.ac.jp/
 - name: Centre de Recherche et de Restauration des Musées de France (C2RMF)
-  uri: http://c2rmf.fr/
+  uri: http://c2rmf.fr
   iiifc:
 - name: Chinese University of Hong Kong
   uri: http://lib.cuhk.edu.hk/
@@ -100,11 +100,10 @@
 - name: Harvard University
   uri: http://iiif.harvard.edu
   iiifc: 2
+- name: HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
+  uri: https://www.hesge.ch/heg/en
 - name: Hill Museum & Manuscript Library (HMML)
   uri: https://www.vhmml.org/
-  iiifc:
-- name: Holoscene
-  uri: http://holoscene.io
   iiifc:
 - name: Huygens ING (KNAW)
   uri: https://www.huygens.knaw.nl/
@@ -145,6 +144,9 @@
 - name: MIT Libraries
   uri: http://libraries.mit.edu
   iiifc: 2
+- name: Mnemoscene
+  uri: http://mnemoscene.io
+  iiifc:
 - name: Moravian Library (Moravská zemská knihovna)
   uri: https://www.mzk.cz/
   iiifc:
@@ -176,6 +178,7 @@
   uri: https://www.nb.rs/?change_lang=en
 - name: National Library of Wales
   uri: https://www.llgc.org.uk/
+  iiifc: 2
 - name: Nationalmuseum Sweden
   uri: http://www.nationalmuseum.se
 - name: New York University Libraries
@@ -186,7 +189,6 @@
   iiifc: 2
 - name: OCLC
   uri: http://www.oclc.org/
-  iiifc: 2
 - name: Ohio State University
   uri: https://www.osu.edu/
   iiifc: 2

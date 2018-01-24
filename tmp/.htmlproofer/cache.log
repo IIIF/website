@@ -1,0 +1,4714 @@
+{
+    "http://iipimage.sourceforge.net/demo": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.georeferencer.com/compare": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!topic/iiif-discuss/k2Lu6INn5KM": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/qtwJDN2tFbI": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://evil-manifests.davidnewbury.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.olasuperconference.ca": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.mzk.cz": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/u/0/folders/0B9EeoRu2zWerNkktNVp5bDhleE0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/call/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.openjpeg.org/2017/04/27/Faster-OpenJPEG-is-on-track": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://odnp.uoregon.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/08/05/community-manager/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/yale-ycba-iipmooviewer.png": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/uv": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/open-oni/open-oni": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.slu.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/saracarl/Pontiiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/17/pontiiif/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.huygens.knaw.nl": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.pakhuis.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://mejackreed.github.io/Leaflet-IIIF/examples/example.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://imoutsatsos.blogspot.com/2017/04/librarians-and-triple-eye-eff-to-rescue.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.lib.ncsu.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://eduiconf.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.0/#choice-of-alternative-resources": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/06/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/satdb.png": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/16_n_CCY9cuIPC_tAdkA-WbsKJpugZKk5GeEajpXA0CQ/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif-av/issues": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/av/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://t.co/1E6dB5yt6G": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/benwbrum/fromthepage/wiki/Documentary-Editing-for-IIIF-using-FromThePage": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://artstor.wordpress.com/2017/05/23/coming-soon-an-improved-artstor": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1sqn61RAYH2fyc2Bh_ERzT8fA-_HwUDio6O1tSpicfyc/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2017/test/iiifav-bl-fixture-collection.json": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.eetkaffee-multatuli.be/contact": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/g1FQkkg23IA": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.courstgeorges.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://collection.cooperhewitt.org/objects/18572345/zoom": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nb.no/English": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-09-28 09:10:51 -0700"
+    }, 
+    "https://youtu.be/unqMDZq_R2Y": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.eventbrite.com/e/sharing-images-of-global-culture-tickets-15546122872": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/washington/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.moma.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/newyork/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://blog.cogapp.com/how-to-create-a-virtual-3d-gallery-using-iiif-and-three-js-ad6766e45d3f": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://goo.gl/jm33wX": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/annex/notes/design_patterns": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://oc.lc/IIIFandCONTENTdm": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/community/groups/discovery": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/validator": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.onb.ac.at/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://labs.cogapp.com/iiif-ml": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif-conference-nyc.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/newyork/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/uclouvain/openjpeg/blob/master/LICENSE": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.diamm.ac.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/leaflet-iiif-viewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://libraries.mit.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif-conference-vatican2017.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/04/12/vatican-conference/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://library.jhu.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/issues/764": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.oclc.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://demos.biblissima-condorcet.fr/chateauroux/demo": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://wiki.dlib.indiana.edu/display/VarVideo/Avalon+7+Roadmap": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/softwaredevs/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/software/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iptc.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.openjpeg.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ithaka.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/641742844": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/software/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/7nWGCGNPl6I": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://demos.biblissima-condorcet.fr/bbmn-1713/mirador": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/moravianlibrary/iOS-IIIF-Presenter": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nga.gov": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/satdb": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.wdl.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/awesome-iiif#image-viewers": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.bodleian.ox.ac.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif-toronto.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/dhlab-basel/Sipi": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/01/30/univ-basel-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://dp.la/info/get-involved/dplafest/april-2017": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.clir.org/about/news/deepening-resolve": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/UniversalViewer/manifesto": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/633505839": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/museums/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://papyrusebers.de": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif-stories/issues": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://blog.cogapp.com/drupal-iiif-image-field-module-ce578c4906ef": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B8biwZuDijgeZ2lnLWNJc2Z0RFU?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!searchin/iiif-discuss/diva.js$205.0|sort:relevance/iiif-discuss/eVJn2qEHUX4/xopzl7pLBgAJ": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/491bK2sv9Fj0Y0Cf2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/10/06/openjpeg-survey/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.kulib.kyoto-u.ac.jp": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/JtfQGpWQfVM": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/loris-server": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://t.co/fSmwR2LZFU": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif-wg-2016.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/thehague/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/2.1#image-information": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1cnkOPm7rC9uKeSxorFpu004ZzJxolVLWex5NdxMKnHY/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.darelkotob.gov.eg/index.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B8biwZuDijgednFqMG91WDZjdUE": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://collections.britishart.yale.edu/vufind/Record/1667701": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://digipress.digitale-sammlungen.de/view/bsb00012484_00382_u001/1": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/altoxml/schema/issues/33": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.visitgent.be/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digirati.com/technology/our-solutions/universal-viewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/04/12/vatican-conference/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.data-futures.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://docs.glamkit.com/en/latest/changelog.html#id1": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/discovery/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/discovery/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://d.lib.ncsu.edu/collections/catalog?f[fulltext_bs][]=true": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/12/ncsu-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.imls.gov/grants/awarded/lg-70-17-0043-17": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://textgrid.de/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://jpeg.org/jpeg2000": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/nw54cBpowzzTPRbp2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/awesome-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!searchin/iiif-discuss/europeana$20discovery|sort:relevance/iiif-discuss/Y42yd2hjkjM/llKIlJZiBwAJ": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://wmich.edu/sites/default/files/attachments/u434/2017/medieval-congress-program-2017-for-web.pdf": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.lunaimaging.com/blog/2015/12/3/luna-and-iiif-1": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.digirati.co.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/jbhoward-dublin/iiif-imageManipulation": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://conspace.wixsite.com/conservationspace": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/16/mirador-upgrade-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.biblissima-condorcet.fr": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.ushmm.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/mirador.jpg": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.4science.it/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nyam.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/newyork/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/fractals.jpg": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://zimeon.github.io/iiif-dragndrop": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://wellcomeplayer-examples.azurewebsites.net/journal.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/23/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.llgc.org.uk/blog/?p=14496": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/technical-coordinator/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/community/consortium": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/01/letter-to-dams/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://bav.bodleian.ox.ac.uk/news/revisiting-the-ars-moriendi": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.library.cornell.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://knowledge.exlibrisgroup.com/Alma/Release_Notes/0099_2017/August_2017/Alma_August_2017_Release_Notes": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B8SS5OUXWs4GZ0ZfbEhIclhzb0k?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/av/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://oregonnews.uoregon.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/08/05/community-manager/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiifshowcaseedinburgh.eventbrite.co.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://resources.digirati.com/iiif/an-introduction-to-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.textandbytes.com/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/15c8445403d8ed72f300f8a3da6de2ce05cc8475": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://digirati.com/technology/our-solutions/universal-viewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/CenterForDigitalHumanities": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.marriottghent.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.harvard.edu/portfolio/atg": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2018/washington/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.eventbrite.com/e/shared-images-of-global-cultural-heritage-tickets-12961304611": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2014/london_wg/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://library.princeton.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://newspapers.library.wales": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/technical-coordinator/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ucsb.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://prezi3.iiif.io/api/presentation/3.0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/manuscripts/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/manuscripts/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/community/groups/framework": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/newspapers/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/newspapers/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://2017iiifconferencethevatican.sched.com/tag/Showcase": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.britishmuseum.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/e-codices": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://21dzk.l.u-tokyo.ac.jp/DHI/index.php?IIIF-C": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1wTxgcj-AlAE3KwcxP59mTZhOOQKkDEaqwVK_NHOIRvc/edit": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://or2017.net": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/universalviewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/b2d6bfe59bd3fdbe3147c88333d2c922f4caf1d6": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://projectmirador.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/01/letter-to-dams/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://bluejeans.com/222002812": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/av/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/mejackreed/Leaflet-IIIF": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://palette.davidnewbury.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/georeferencer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://zegami.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/aUnSCm8SFe8": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/TCDL2017": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.digitale-sammlungen.de": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/klokantech-iiifviewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://summit2017.lodlam.net/2017/04/12/researchspace": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://jubilees.stmarytx.edu/iiifp/index.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.github.io/training/intro-to-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/benwbrum/fromthepage/wiki/IIIF-Linking-Properties-Usage-Survey": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.bedandbreakfast-gent.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/356715389": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/call/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://d.lib.ncsu.edu/collections/catalog?_=1472754815045&f[ispartof_facet][]=Nubian+Message": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.eventbrite.co.uk/e/iiif-workshop-digital-people-in-dialogue-tickets-37039250395": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/london/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.columbia.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/pulibrary/loris": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/09/11/version-2-published/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.rg.mpg.de/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digitalcollections.frick.org/digico/#": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://library.stanford.edu/blogs/digital-library-blog/2016/08/iiif-in-searchworks": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.epfl.ch/index.en.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.bl.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://dh-center.ch": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/01/30/univ-basel-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://dp.la": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://wiki.duraspace.org/display/DSPACE/IIIF+Experimentation+at+Georgetown+-+June+2017": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.bodleian.ox.ac.uk/manifest-editor/#/?_k=g92i8r": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://enable-cors.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!topic/iiif-discuss/AnXBvw_gVI0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://bav.bodleian.ox.ac.uk/news/the-polonsky-project-and-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://universalviewer.io": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://demos.biblissima-condorcet.fr/mirador": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://kinow.github.io/scico-2017/#": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://openseadragon.github.io": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://dfg-viewer.de/demo": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/06/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://europeana.eu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiifghent2015.sched.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.si.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digitalnagasaki.hatenablog.com/entry/2017/07/04/041007": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/93869af7e4fee290c044392e0858d1805cf26e80": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://2017iiifconferencethevatican.sched.com/tag/Conference": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/DMSTech/mirador": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/ejJUIUP9gqOXnvPI2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/klokantechiiifviewer.png": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://oregondigital.org/catalog": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/08/05/community-manager/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://beta.biblissima.fr/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:14:10 +0000"
+    }, 
+    "http://showcase.iiif.io/viewer/mirador": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://elifesciences.org/elife-news/international-image-interoperability-framework-iiif-science-publishers": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/dppRNuGPbb8": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.bnjm.cu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif-advantages-nyc.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/newyork/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.oclc.org/en/contentdm.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.oclc.org/en-US/contentdm.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digilib.sourceforge.net": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/jeffreycwitt/mirador-ldn-plugin": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiiftechnicaledinburgh.eventbrite.co.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://doodle.com/poll/89db7nik6edydksk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.wikipedia.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!forum/iiif-discuss": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.ugent.be/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/RZih8w37moU": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.slq.qld.gov.au": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.patristicum.org/en/conference-center": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/vatican/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif-winter-2015.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://morning-journey-27147.herokuapp.com/#/?_k=agcbor": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/e-codices.png": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/2.1/compliance": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://libisplus.be/libisplus/mirador-iiif-en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://bit.ly/2ngOwfi": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/awesome-iiif#presentation-api-libraries": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/ruven/iipsrv": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/09/11/version-2-published/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/discovery/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.wdl.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/522f1664f244d3a6f35b05db4d66a7833b9b6bd2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/2.1/change-log": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/05/12/new-specifications/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://2017.code4lib.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.contentdm.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.intopix.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/04/27/openjpeg-improvement/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://scienceinthemakingblog.wordpress.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://numishare.blogspot.com/2017/02/harvard-art-museums-coins-reprocessed.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://il-cortile-nl.restofactory.com/contact": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://vra34.sched.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/ycba": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.artic.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.smithsonianmag.com/smart-news/tool-makes-it-easy-compare-art-different-museums-180963584/#JkT36YBGQOZCHDuQ.99": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://dpo.si.edu/2017-smithsonian-digitization-fair-welcome-0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.kulib.kyoto-u.ac.jp/bulletin/1373150": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://d.lib.ncsu.edu/collections/catalog?f[fulltext_bs][]=true&f[ispartof_facet][]=Agromeck+Yearbooks": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/12/ncsu-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.folger.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/ProjectMirador/mirador/releases": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/16/mirador-upgrade-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B8WLA_XCC1koZUF6TEFmQW5Vc0E?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/software/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://music-encoding.org/community/conference": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2016/d16e07a5cec442eeb7cd9dfcb695dce0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/_wTexGTDiAQ": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.nb.rs/?change_lang=en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://codh.rois.ac.jp": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/21/iiif-in-japan/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!forum/iiif-manuscripts": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/manuscripts/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://archive.org/index.php": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:14:10 +0000"
+    }, 
+    "https://github.com/benwbrum/fromthepage": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/17/from-the-page/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/ProjectMirador/mirador": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/search/1.0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.bl.uk/conferencecentre/conference.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2014/london_wg/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://canadiana.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://bibwild.wordpress.com/2017/05/11/memo-on-technical-operational-considerations-for-iiif-in-a-sufiahyrax-app": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.vatlib.it": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://digital.ucd.ie/?q=fitzgerald&fq[]=genre_facet:Photographs&grid": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.harvardartmuseums.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.library.ualberta.ca": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/ProjectMirador/mirador-awesome": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.1": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/09/11/version-2-published/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/_4vai4Ih7z0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.lunaimaging.com/blog/2017/6/5/36-museums-call-for-iiif-adoption": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://holoscene.io": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1X7b7zQGDsiEvAfvb1WboDXe360mz7Zmm0o0LT43nozk/edit": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/av/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.hesge.ch/heg/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://boxwood.ago.ca": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://digitalcommonwealth.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct-guidelines/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.e-codices.unifr.ch": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.synaptica.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B9EeoRu2zWeraXpHNXpnZThUZVE": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/framework/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B8biwZuDijgeUDJLY3hoREVTVEU": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/375412551": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/auth": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/faq/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/text-granularity/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.slack.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/framework/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://ronallo.com/iiif-workshop/presentation/manifest.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/termine-veranstaltungen/sammlungsuebergreifend-forschen": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iipimage.sourceforge.net/documentation/server": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details-old/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/awesome-iiif#image-servers": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/2.0/#image-information": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/23/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/technical-details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/01/letter-to-dams/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/801e9e1628f34c77001d2b151df8efb88e1c688a": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.lib.keio.ac.jp/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!topic/iiif-discuss/u_z4hZNvd1c": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/16/mirador-upgrade-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://ghent-river-hotel.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://pro.europeana.eu/page/issue-6-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.kb.nl/en/visitors/address-and-directions": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/thehague/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/dbmdz/mirador-plugins#physical-document-ruler": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/framework/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.qnl.qa": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/wHXWrvIMtUbmJRN52": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://21dzk.l.u-tokyo.ac.jp/DHI/index.php": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://wellcomelibrary.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/UCLALibrary/mirador-window-zoom-disable": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.4science.it/en/iiif-image-viewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://blog.ub.uni-leipzig.de/grenzenlose-bilderwelt": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://wiki.duraspace.org/pages/viewpage.action?pageId=67241635": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/framework/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/Cases_studies/Heidelbergreport-v0.9.pdf": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://onesearch.library.utoronto.ca/library-info/ROBARTS": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/toronto-showcase/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://developer.mozilla.org/en-US/docs/Web/Security/Mixed_content": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.bsb-muenchen.de": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://dev.filmicweb.org/clients/digirati/iiif-av-bl": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.bnf.fr": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/ruven/iipmooviewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://dfg-viewer.de/show/?tx_dlf[id]=http://dbs.hab.de/oai/wdb?verb=GetRecord&metadataPrefix=mets&identifier=oai:diglib.hab.de:ppn_549837965": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/06/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://hms.scot/fiddle/copies": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/SOUO-2ecHho": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://digipalooza.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/2.0/change-log": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/09/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://demetsiiify.jbaiter.de": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://medium.com/@g.sironi/the-iiif-elife-implementation-d1f940005517": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/d/forum/iiif-discuss": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/av/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/av/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.openjpeg.org/2017/10/04/OpenJPEG-2.3.0-released": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/10/06/openjpeg-survey/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://natlib.govt.nz": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://illinois.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/pull/297": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/12/final-draft-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.prov.vic.gov.au": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.ub.uni-leipzig.de": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/leaflet.jpg": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://pontiiif.brumfieldlabs.com/api/v0.0/search/Virginia": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/17/pontiiif/index.html"
+        ], 
+        "time": "2017-11-09 17:14:10 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/mirador-viewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://libraries.psu.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.epfl.ch": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif-commons.github.io": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.rijksmuseum.nl/en/2and3dphotography": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.accorhotels.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiifshowcase-toronto.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.restkareldestoute.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nls.uk/info/locationmap/index.cfm": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/edinburgh/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ugent.be/het-pand/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://imagenes.sld.cu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/open?id=0B1IxI8f59JQkRHpqQUE3S04tSlU": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/manuscripts/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://zoom.us/zoomconference": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif-showcase-vatican2017.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.1/change-log": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/05/12/new-specifications/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.novotel.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://britishart.yale.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/osd.jpg": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://mw17.mwconf.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://cynefin.archiveswales.org.uk/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/technical-coordinator/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://lib.cuhk.edu.hk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ucla.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://d.lib.ncsu.edu/collections/catalog?f[format][]=Folder&f[fulltext_bs][]=true": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/12/ncsu-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/2s1fU7": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://2017iiifconferencethevatican.sched.com/overview/type/Museums": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/C5R68LH51/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://blog.cogapp.com/iiif-support-for-the-qatar-digital-library-bc949f0aa343": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.dhii.jp": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/30/univ-tokyo-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/museums/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://bn.org.pl": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/2.1": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://vimeo.com/229253706?ref=tw-share": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/11/13/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.keizershof.net": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://vanda.github.io/iiif-features": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.casadelastapas.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://blogs.getty.edu/iris/30000-getty-museum-images-published-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://fromthepage.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/17/from-the-page/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.cam.ac.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiif.slack.com/messages/museums/details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/museums/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://records.cmoa.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif-stories/issues?q=is:open+is:issue+label:newspapers": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/newspapers/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://avalonmediasystem.github.io/avalon-iiif-player/build": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/fractals": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ucd.ie/library": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://library.stanford.edu/events/mirador-images-and-future-digital-research-web": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.yale.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.0/change-log": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/05/29/drafts-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.youtube.com/watch?v=gPRPfPZnIvU": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.wolseymanuscripts.ac.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.vhmml.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://t.co/4lKIlxqbhu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/maps/9wFHb2ZzVE72": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/newyork/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://repository.dri.ie": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/auth/1.0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://thewalters.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.youtube.com/watch?v=itFJDsxI2xs&feature=youtu.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/IZRhbkTNZCEvOAm62": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/vatican-cfp/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.cogapp.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiifworkingmeetingtoronto2017.sched.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/toronto/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/674108679": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/manuscripts/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://hku.hk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma|sort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://iiifthehague2016.sched.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/thehague/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://mymodernmet.com/iiif-getty-yale-art-collections": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://mirador.scta.info/#/peter-plaoul?_k=4933sr": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/044da46a2eea17374f2604036bd4c066788cf95b": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.0/#content-details": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/06/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://libimages1.princeton.edu/osd-demo/?feedme=pudl0123/8172070/01/00000001.jp2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.dhsi.org/index.php": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://sanddragon.bl.uk/mirador": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://library.nd.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/loris.jpg": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.ifla.org/node/11023": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.leeds.ac.uk/ims/imc/imc2017.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.jack-reed.com/2017/05/23/the-case-for-serving-your-iiif-content-over-https.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nls.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.vam.ac.uk/event/dMQwd6OR/iiif-showcase-digital-collections-in-dialogue-2017": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/london/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.biovirtual.unal.edu.co/en/collections/detail/66509": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.eetkaffee-delieve.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://2017iiifconferencethevatican.sched.com/tag/Pre-conference": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://sourceforge.net/projects/djatoka": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!topic/iiif-discuss/YOAAcALqoAE": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.cni.org/event/cni-spring-2017-membership-meeting": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://lombardpress.org/2017/02/28/datasharing-iiif-and-ldn": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://fonts.googleapis.com/css?family=Raleway:100,300,500": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/validator": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.cooperhewitt.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.ou.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/uclouvain/openjpeg/projects/1": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.airbnb.com/s/Ghent--Belgium?guests=&checkin=12/07/2015&checkout=12/09/2015&ss_id=zfnanfkw&source=bb": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.kulib.kyoto-u.ac.jp/bulletin/1373150?lang=en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/12/29/kyoto-univ-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/uv.png": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1pfArbdTDOoS0ufKKiknyWLnEhi5CNENcakasN2-ugb8/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1X7b7zQGDsiEvAfvb1WboDXe360mz7Zmm0o0LT43nozk/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/q2TBuoYVgjSrW7kk2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/10/03/iiif-at-dhsi/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://code.jquery.com/jquery-2.2.3.min.js": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/osd-viewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://dhlab.unibas.ch": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://medusa-project.github.io/cantaloupe": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/iip.png": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/iVXEFD": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/av/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/img/showcase/georeferencer.jpg": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.w3.org/TR/2017/REC-annotation-model-20170223": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/faq/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif-av/tree/master/source/api/av/examples": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nh-hotels.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://via.hypothes.is/http:/www.nature.com/news/annotating-the-scholarly-web-1.18900": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.nga.gov/content/ngaweb.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/d/msg/iiif-discuss/4rp3OvK0jtI/Gow0pF45bMIJ": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://blog.cogapp.com/funwithiiif-in-edinburgh-436d5e2843fe": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.resourcespace.com/roadmap": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/uclouvain/openjpeg/releases/latest": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/10/06/openjpeg-survey/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.brumfieldlabs.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.diglib.org/about/code-of-conduct": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ed.ac.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/o79VAMHEAl72fPmV2": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://glamkit.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://library.utoronto.ca": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.0/#linking-properties": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/06/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://folgerpedia.folger.edu/Early_Modern_Manuscripts_Online:_New_Directions_in_Teaching_and_Research": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.cidoc2017.com/432841850": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://labs.cooperhewitt.org/2017/parting-gifts": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://boxwood.ago.ca/collection": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/47OmXfgXMUNMBVI93": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.w3.org/blog/2017/02/making-it-easier-to-share-annotations-on-the-web": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/image/2.0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/09/11/version-2-published/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/avalonmediasystem/avalon-iiif-player": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.cafeparti.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://pontiiif.brumfieldlabs.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/17/pontiiif/index.html"
+        ], 
+        "time": "2017-11-09 17:14:10 +0000"
+    }, 
+    "http://omeka.org/add-ons/plugins/csv-export": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/jronallo/djatoka": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.clir.org/about/positions/iiif_technology_coordinator": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/imoutsatsos/osdUseCaseHCS": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.manuscriptorium.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.castelnou.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif-ghent-2015.eventbrite.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://youtu.be/wudps0cMhCk?list=PLYPP1-8uH9c64gvZqPyWDW3P3nU-jFSaj": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/news/2017/04/27/openjpeg-improvement": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://dev.llgc.org.uk/wiki/index.php?title=IIIF_Journals": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!topic/iiif-discuss/J7u9cyKZKU4": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://content.fromthepage.com/text-beyond-annotations-at-iiif-vatican": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/UniversalViewer/universalviewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1rz-Dm_LMguPD_Zi6Z1uf61XaPrdhd3mgK9_SV3EBdlE/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/awesome-iiif#newspapers": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/newspapers/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.harvard.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/issues/295": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/12/final-draft-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.colby.edu/museum/?s=Whistler&obj=Obj183": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://lib.utah.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://library.nyu.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.ed.ac.uk/maps/maps?building=argyle#main-content": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/edinburgh/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.vam.ac.uk/blog/digital-media/easy-image-alignment-with-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B9EeoRu2zWeraXpHNXpnZThUZVE?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://bav.bodleian.ox.ac.uk/news/three-editions-of-cicero-side-by-side": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nationalmuseum.se": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://apexcovantage.com/blog/imagine-interoperable-images": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.cogapp.com/iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.openjpeg.org/2017/08/10/OpenJPEG-2.2.0-released": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/10/06/openjpeg-survey/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1lcef8tjqfzBqRSmWLkJZ46Pj0pm8nSD11hbCAd7Hqxg/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://resources.digirati.com/iiif/an-introduction-to-iiif/wheres-my-model.html": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://scienceinthemakingblog.wordpress.com/2017/05/23/web-pages-and-viewers-meet-things-with-content": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://codh.rois.ac.jp/seminar/iiif-image-access-20170727/index.html.en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/21/iiif-in-japan/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.osu.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.lib.umich.edu/digital-library-platform-services-dlps": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/document/d/1k_q1gCC_CGqE-DavRlxU1FP7TgC70eHVO_UAWgKlX0E/edit?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://ronallo.com/iiif-workshop": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+,t+,rsrs+0,rsps+10,fa+ox:collection^Ephemera,so+ox:sort^asc,scids+,pid+,vi+": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!searchin/iiif-discuss/contentdm|sort:relevance/iiif-discuss/zf5rC1YMI34/F2kdlw0HCQAJ": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.zegami.com/international-image-interoperability-framework-iiif-zegami": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://uvviewsoft.com/uviewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/12/ncsu-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/forms/KCrb3u86W0e4LhC23": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.lunaimaging.com/iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.nli.org.il": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.dhsi.org/courses.php": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.klokantech.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digitalnagasaki.hatenablog.com/search?q=IIIF": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/30/univ-tokyo-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://bit.ly/iiif-slack": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.kb.dk/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://d.lib.ncsu.edu/collections/catalog?f[ispartof_facet][]=Technician": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/12/ncsu-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/community/groups": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://digirati.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://library.stanford.edu/projects/ldcx/2017-conference": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/community/call": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/01/letter-to-dams/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B8biwZuDijgeWktQSk9pd0pqNTA": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/search": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://news.yale.edu/2017/06/02/yale-center-british-art-adds-online-collection-images-international-system-research": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digirati.com/updates/insights/a-crowdsourcing-platform-for-wales": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://showcase.iiif.io/showcase/iipimage-viewer": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/dd54d7dfaf4bd2b5ade8b1ab16b8ada8687eb7bb": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://omeka.org/add-ons/plugins/iiif-toolkit-with-mirador": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.iu.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif-stories/issues/79": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.library.universiteitleiden.nl": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://getty.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/annex/notes/editors/#contents": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/framework/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif-stories/issues/77": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.imls.gov/grants/awarded/lg-70-17-0042-17": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://json-ld.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://repository.library.brown.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://sched.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/newyork/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.upenn.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://aws.passkey.com/go/IIIFMeeting": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/toronto-showcase/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/maps/ffTbs7UmjN42": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2016/newyork/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://conf2016.jadh.org/workshop": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/30/univ-tokyo-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://elifesciences.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.foyerntgent.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/829945399": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/discovery/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://sirma.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://c2rmf.fr": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.fsi-viewer.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.llgc.org.uk": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://journals.library.wales": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:14:10 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.1/#linking-properties": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://groups.google.com/forum/#!searchin/iiif-discuss/openjpeg|sort:relevance/iiif-discuss/LWVEIg0-xOg/zYyxc09cAQAJ": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://jubilees.stmarytx.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/awesome-iiif#image-server-shims": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/30/univ-tokyo-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://news.getty.edu/article_display.cfm?article_id=6172": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/news/2017/08/21/iiif-in-japan": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.library.virginia.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.0/example/fixtures/collection.json": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/12/final-draft-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/community/groups/text-granularity": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://digi.ub.uni-heidelberg.de/diglit/cpg832/0012": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/05/25/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.harvardartmuseums.org/collections": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/auth/0.9": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://wiki.duraspace.org/display/samvera/Code+of+Conduct": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/community/groups/av": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/annex/notes/editors": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/recording/play/zqjDZqxiX2GYTA_K745EjKMRu_Zmz_ympxhjIDupFcBigQ-Osql31sgTxLL-Al8z": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.dur.ac.uk/library/asc": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://gado-gado.gent": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-restaurants/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://drive.google.com/drive/folders/0B8biwZuDijgeVlQxQTBzZXlJck0?usp=sharing": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.lib.ncsu.edu/news/the-\"nubian-message\"-goes-digital": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://lib.ugent.be": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://library.stanford.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://itunes.apple.com/us/app/iiif-presenter/id1174552203?mt=8": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://lab.ndl.go.jp/dhii/kunidecoview": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/09/30/univ-tokyo-joins-iiifc/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/model/shared-canvas/1.0": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/11/15/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/issues/758": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/text-granularity/charter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/538552143": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/av/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://github.com/IIIF/iiif.io/commit/f94fda233731b4140a922ee673f09fd2f04dc053": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/07/01/draft-2s-released/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://ddmal.github.io/diva.js": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://goo.gl/jNFfVw": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/newspapers/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://library.uoregon.edu/digitalscholarship/digital-projects": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2016/08/05/community-manager/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://openseadragon.github.io/examples/tilesource-iiif": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/technical-details/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://beyondwords2016.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://sinaipalimpsests.org": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/02/28/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.sandton.eu/sandton-grand-hotel-reylof/en": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2015/ghent-hotels/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://iiif.io/api/presentation/2.0/#ranges": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2014/08/06/call-notes/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://islandora.ca/codeofconduct": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/conduct/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://digital.library.villanova.edu": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://stanford.zoom.us/j/948530998": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/community/groups/newspapers/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "http://www.europeana.eu/portal/en/search?view=grid&q=sv_dcterms_conformsTo:*iiif*": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/apps-demos/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://2017iiifconferencethevatican.sched.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/event/2017/vatican/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }, 
+    "https://www.klokantech.com": {
+        "status": 200, 
+        "message": "", 
+        "filenames": [
+            "./_site/test/news/2017/08/30/newsletter/index.html"
+        ], 
+        "time": "2017-11-09 17:06:57 +0000"
+    }
+}
