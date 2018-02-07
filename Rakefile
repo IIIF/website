@@ -18,7 +18,8 @@ desc 'Check links and html without caching'
 task :check_html do
   HTMLProofer.check_directory('./_site', check_html: true,
                                          cache: { timeframe: '1w' },
-                                         http_status_ignore: [0, 301, 302]).run
+                                         http_status_ignore: [0, 301, 302],
+                                         url_ignore: ['https://vimeo.com/229253706?ref=tw-share']).run
 end
 
 desc 'Run the site locally on localhost:4000'

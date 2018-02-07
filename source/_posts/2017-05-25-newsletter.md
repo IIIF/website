@@ -207,7 +207,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
 [dams]: {{ site.url }}{{ site.baseurl }}/news/2017/05/01/letter-to-dams/
 [av-challenges]: https://docs.google.com/document/d/1lcef8tjqfzBqRSmWLkJZ46Pj0pm8nSD11hbCAd7Hqxg/edit?usp=sharing
-[avalon]: https://wiki.dlib.indiana.edu/display/VarVideo/Avalon+7+Roadmap
+[avalon]: https://github.com/avalonmediasystem/avalon-iiif-player
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
 [text-charter]: https://docs.google.com/document/d/1wTxgcj-AlAE3KwcxP59mTZhOOQKkDEaqwVK_NHOIRvc/edit
 [text-poll]: http://doodle.com/poll/b92ste87ri7x5ekh
