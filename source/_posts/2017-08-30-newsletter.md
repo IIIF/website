@@ -92,7 +92,7 @@ Many thanks again to our 2017 IIIF Conference sponsors:
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Those planning to present on IIIF at a conference or meeting, please fill out the [IIIF Representation at Conferences and Meetings][outreach-survey] Survey. Recent and upcoming IIIF appearances include:
 
 * National meeting of Directors of Public Libraries in Cuba, May 2017
-* [Music Encoding Conference][mec], May 2017
+* Music Encoding Conference, May 2017
 * Archiving Conference, May 2017
 * [Early Modern Manuscripts Online: New Directions in Teaching and Research][folger-event] at the Folger, May 2017
 * NISO Virtual Conference: Images: Digitization & Preservation of Special Collections in Libraries, Museums and Archives, June 2017
@@ -276,7 +276,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [basel-event]: http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/termine-veranstaltungen/sammlungsuebergreifend-forschen/
 [or]: https://or2017.net/
 [digipalooza]: https://digipalooza.com/
-[mec]: http://music-encoding.org/community/conference/
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
 [slu]: https://github.com/CenterForDigitalHumanities
 [avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/build/
