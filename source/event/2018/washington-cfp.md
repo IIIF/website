@@ -40,7 +40,7 @@ If you have any questions please contact the Washington Program Committee iiif-w
 
 Thank you!
 
-IIIF 2018 Conference program committee:
+IIIF 2018 Conference program committee.
 
 [cfp]: https://easychair.org/cfp/IIIF-2018
 [iiif-conf]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
