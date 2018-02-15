@@ -19,7 +19,7 @@ The Washington Planning committee are looking for proposals for talks in the fol
 
 Please submit an abstract of no longer than 500 words for your presentation or discussion by Friday the **2nd of March** using the conference tool:
 
-[https://easychair.org/cfp/IIIF-2018][cfp]
+* [https://easychair.org/cfp/IIIF-2018][cfp]
 
 Final versions of the accepted abstracts will later be made available on the conference website.
 
@@ -36,7 +36,7 @@ The conference committee has selected the theme of “Utility” for the 2018 co
 * IIIF-compatible software and experimentation
 * Training materials and documentation
 
-If you have any questions please contact the Washington Program Committee iiif-washington [at] googlegroups.com.
+If you have any questions please contact the Washington Program Committee iiif-washington \[at\] googlegroups.com.
 
 Thank you!
 
