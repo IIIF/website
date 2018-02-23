@@ -16,7 +16,7 @@ On March 13, Digital Repository of Ireland, UCD Library, and DARIAH Ireland are 
 
  * [IIIF Showcase and Workshop Opportunities for Innovation in Ireland][Ireland]
 
-## New England
+## Boston
 
 On March 14-15, IIIF-C members Harvard and MIT are facilitating a two one-day events for the  IIIF New England group at Harvard. March 14 will be a showcase and informative meeting covering topics such as,
 
