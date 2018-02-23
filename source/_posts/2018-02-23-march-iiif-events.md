@@ -14,9 +14,9 @@ This year the week of March 15th, the dreaded Ides of March, premonates great ne
 
 On March 13, Digital Repository of Ireland, UCD Library, and DARIAH Ireland are hosting a IIIF Showcase and Workshop event in the Royal Irish Academy in Dublin. This event, which is currently sold out, will introduces attendees to IIIF and its committed community and offer use case showcases from several Irish institutes including Digital Repository of Ireland, University College Dublin, and the National University of Ireland Galway. You can find out more at:
 
- * [IIIF Showcase and Workshop Opportunities for Innovation in Ireland][Ireland]
+* [IIIF Showcase and Workshop Opportunities for Innovation in Ireland][Ireland]
 
-## Boston
+## New England
 
 On March 14-15, IIIF-C members Harvard and MIT are facilitating a two one-day events for the  IIIF New England group at Harvard. March 14 will be a showcase and informative meeting covering topics such as,
 
