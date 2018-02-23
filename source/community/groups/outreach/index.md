@@ -13,7 +13,7 @@ The IIIF Outreach Group is a standing committee with representatives from across
 
 The Group's primary responsibilities are in the following areas:
 
-1. Content and organization of the [IIIF website][iiif-webiste] to ensure clarity of conceptual information and value of IIIF
+1. Content and organization of the [IIIF website][iiif-website] to ensure clarity of conceptual information and value of IIIF
 	* Continuously assess impact audience, objectives, quality of outreach materials
 2. Marketing and promotional materials (deciding upon, designing, and distributing swag materials, including consulting on IIIF event t-shirts)
 3. Support for local events including developing recipes and resources 
