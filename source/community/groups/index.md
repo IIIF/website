@@ -12,6 +12,7 @@ The following is a list of active IIIF community groups and technical specificat
   * [Manuscripts Community Group][manuscripts]
   * [Museums Community Group][museums]
   * [Newspapers Community Group][newspapers]
+  * [Outreach Community Group][outreach]
   * [Software Developers Community Group][software]
   * [Text Granularity Technical Specification Group][text-granularity]
 
@@ -21,6 +22,7 @@ The following is a list of active IIIF community groups and technical specificat
 [newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers "IIIF Newspapers Community Group"
 [software]: {{ site.url }}{{ site.baseurl }}/community/groups/software "Software Developers Community Group"
 [discovery]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery "IIIF Discovery Technical Specification Group"
+[outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach "IIIF Outreach Community Group"
 [groups-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework
 [text-granularity]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
 
