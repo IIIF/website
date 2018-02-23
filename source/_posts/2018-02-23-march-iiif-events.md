@@ -8,11 +8,11 @@ excerpt: >
     During the week of the 15th of March there will be three IIIF regional events held in Dublin, Boston and Paris.
 ---
 
-This year the week of March 15th, the dreaded Ides of March, premonates great news for the IIIF Community. On March 13, 14 and 15, three separate community outreach workshops will occur in Dublin, Boston and Paris. Initiated and organized by IIIF institutes, these three workshops will offer different communities the opportunity to get hands-on and learn about the added value that IIIF can provide the academic and heritage sectors. All events are free.
+This year the week of March 15th, the dreaded Ides of March, premonates great news for the IIIF Community. On March 13, 14 and 15, three separate community outreach workshops will occur in Dublin, Boston and Paris. Initiated and organized by IIIF institutions, these three workshops will offer different communities the opportunity to get hands-on and learn about the added value that IIIF can provide the academic and heritage sectors. All events are free.
 
 ## Ireland
 
-On March 13, Digital Repository of Ireland, UCD Library, and DARIAH Ireland are hosting a IIIF Showcase and Workshop event in the Royal Irish Academy in Dublin. This event, which is currently sold out, will introduces attendees to IIIF and its committed community and offer use case showcases from several Irish institutes including Digital Repository of Ireland, University College Dublin, and the National University of Ireland Galway. You can find out more at:
+On March 13, Digital Repository of Ireland, UCD Library, and DARIAH Ireland are hosting a IIIF Showcase and Workshop event in the Royal Irish Academy in Dublin. This event, which has a few spaces left, will introduce attendees to IIIF and its committed community and offer use case showcases from several Irish institutions including Digital Repository of Ireland, University College Dublin, and the National University of Ireland Galway. You can find out more at:
 
 * [IIIF Showcase and Workshop Opportunities for Innovation in Ireland][Ireland]
 
@@ -29,12 +29,13 @@ The March 15 meeting will be a day of technical discussions for developers and i
 
 March 14:  
  * [IIIF New England Showcase][harvard-showcase]
+
 March 15:
  * [IIIF New England Technical Workshop][harvard-workshop]
 
 ## Paris
 
-On March 15, the Biblissima project is convening the first IIIF outreach event in Paris. This half-day event will include a broad overview of IIIF, followed by a series of lightning talks showcasing various implementations in different contexts. The event will occur in French and provide an enlightening and inspiring introduction as IIIF spreads its wings across France. Speakers and use cases will be given by French institutes already  using IIIF including the National Library of France, Le Louvre, Institut de recherche et d'histoire des textes and more You can see the whole half-day program at:
+On March 15, the Biblissima project is convening the first IIIF outreach event in Paris. This half-day event will include a broad overview of IIIF, followed by a series of lightning talks showcasing various implementations in different contexts. The event will occur in French and provide an enlightening and inspiring introduction as IIIF spreads its wings across France. Speakers and use cases will be given by French institutions already using IIIF including the National Library of France, Le Louvre, Institut de recherche et d'histoire des textes and more. You can see the whole half-day program at:
 
  *  [Biblissima IIIF Event][biblissima]
 
