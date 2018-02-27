@@ -13,31 +13,28 @@ require "date"
 
 MODERATORS = {
     technical: [
-      "Appleby",
-      "Crane",
-      "Ronallo",
-      "Sanderson",
-      "Stroop",
-      "Warner"
-    ].uniq.sort!,
+      "Jon Stroop",
+      "Simeon Warner",
+      "Tom Crane",
+      "Rob Sanderson",
+      "Mike Appleby"
+  ].uniq.shuffle!, # .shuffle! to shuffle
     community: [
-      "Albritton",
-      "Cramer",
-      "Estlund",
-      "Matienzo",
-      "McGrattan",
-      "Rabun",
-      "Robson",
-      "Shaw",
-      "Singhal",
-      "Snydman",
-      "Winget"
-    ].uniq.sort!
+      "Matt McGrattan",
+      "Rashmi Singhal",
+      "Karen Estlund",
+      "Drew Winget",
+      "Ben Albritton",
+      "Tom Cramer",
+      "Mark Matienzo",
+      "Glen Robson",
+      "Stu Snydman"
+    ].uniq.shuffle!
 }
 
 # Make sure this is the date of a call or risk being off by a week.
-PERIOD_START = Date.new(2017,01,18)
-PERIOD_END = Date.new(2017,12,31)
+PERIOD_START = Date.new(2018,02,28)
+PERIOD_END = Date.new(2018,06,06)
 
 class TopicTracker
   def initialize
@@ -69,8 +66,8 @@ calendar = RiCal.Calendar do |cal|
   dates.each do |date|
     topic = topic_tracker.next
     m = next_moderator(topic)
-    labl = "IIIF Bi-Weekly Community Call (#{topic.to_s}; #{m} moderates)"
-    description = "Moderator Link: https://bluejeans.com/273449388/1114/"
+    labl = "IIIF Bi-Weekly Community Call - #{topic.to_s}, #{m} moderates"
+    description = "The IIIF community calls alternate between a technical and community focus, providing a forum for new and existing participants to share their work, learn about activities across the community, and discuss IIIF technology and future directions."
 
     puts "#{date}: #{m} (#{topic.to_s})"
 
@@ -82,6 +79,7 @@ calendar = RiCal.Calendar do |cal|
       event.description = description
       event.dtstart = dt_start
       event.dtend = dt_end
+      event.url = "https://stanford.zoom.us/j/356715389"
     end
   end
 end
