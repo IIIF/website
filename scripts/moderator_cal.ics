@@ -5,169 +5,103 @@ VERSION:2.0
 BEGIN:VTIMEZONE
 TZID;X-RICAL-TZSOURCE=TZINFO:America/New_York
 BEGIN:STANDARD
-DTSTART:20161106T020000
-RDATE:20161106T020000
+DTSTART:20171105T020000
 RDATE:20171105T020000
 TZOFFSETFROM:-0400
 TZOFFSETTO:-0500
 TZNAME:EST
 END:STANDARD
 BEGIN:DAYLIGHT
-DTSTART:20170312T020000
-RDATE:20170312T020000
+DTSTART:20180311T020000
+RDATE:20180311T020000
 TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
 TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170118T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170118T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Appleby moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180228T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180228T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - technical\, Jon Stroop moderates
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170201T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170201T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Albritton moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180314T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180314T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - community\, Matt McGrattan modera
+ tes
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170215T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170215T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Crane moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180328T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180328T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - technical\, Simeon Warner moderat
+ es
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170301T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170301T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Cramer moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180411T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180411T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - community\, Rashmi Singhal modera
+ tes
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170315T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170315T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Ronallo moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180425T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180425T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - technical\, Tom Crane moderates
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170329T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170329T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Estlund moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180509T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180509T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - community\, Karen Estlund moderat
+ es
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170412T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170412T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Sanderson moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180523T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180523T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - technical\, Rob Sanderson moderat
+ es
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170426T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170426T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Matienzo moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170510T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170510T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Stroop moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170524T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170524T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; McGrattan moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170607T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170607T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Warner moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170621T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170621T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Rabun moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170705T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170705T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Appleby moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170719T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170719T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Robson moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170802T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170802T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Crane moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170816T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170816T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Shaw moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170830T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170830T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Ronallo moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170913T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170913T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Singhal moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20170927T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20170927T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Sanderson moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20171011T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20171011T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Snydman moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20171025T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20171025T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Stroop moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20171108T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20171108T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Winget moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20171122T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20171122T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Warner moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20171206T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20171206T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (community\; Albritton moderates)
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20171220T010000
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20171220T120000
-DESCRIPTION:Moderator Link: https://bluejeans.com/273449388/1114/
-SUMMARY:IIIF Bi-Weekly Community Call (technical\; Appleby moderates)
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20180606T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20180606T120000
+DESCRIPTION:The IIIF community calls alternate between a technical and co
+ mmunity focus\, providing a forum for new and existing participants to s
+ hare their work\, learn about activities across the community\, and disc
+ uss IIIF technology and future directions.
+URL:https://stanford.zoom.us/j/356715389
+SUMMARY:IIIF Bi-Weekly Community Call - community\, Drew Winget moderates
 END:VEVENT
 END:VCALENDAR
