@@ -32,6 +32,67 @@ __Previous Events__
 * Spring 2012: The Hague, Netherlands
 * Fall 2011: Cambridge, England
 
+<table id="events" class="api-table"></table>
+<script type="text/javascript">
+window.onload = function(){
+$.ajax({
+      type: 'GET',
+      url: 'https://docs.google.com/document/d/e/2PACX-1vTRJwJCj5r_CnJSuOPgS11gDD-L2ar2Wg5_SwyUqItUPer2obrvRgivbZUP5rYXCyOY-sOn52haRaBS/pub',
+      dataType: 'html',
+      success: function(data) {
+
+        //cross platform xml object creation from w3schools
+        try //Internet Explorer
+          {
+          xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+          xmlDoc.async="false";
+          xmlDoc.loadXML(data);
+          }
+        catch(e)
+          {
+          try // Firefox, Mozilla, Opera, etc.
+            {
+            parser=new DOMParser();
+            xmlDoc=parser.parseFromString(data,"text/html");
+            }
+          catch(e)
+            {
+            alert(e.message);
+            return;
+            }
+          }
+
+        var table = document.getElementById("events");
+        var gtable = xmlDoc.getElementsByTagName("table")[0];
+        var body = document.createElement('tbody');
+        var header = document.createElement('thead');
+        headerRow = document.createElement('tr');
+        for (var i = gtable.rows[0].cells.length - 1; i >= 0; i--) {
+            var th = document.createElement('th');
+            th.innerHTML = gtable.rows[0].cells[i].innerHTML;
+            if (headerRow.firstChild) {
+                headerRow.insertBefore(th, headerRow.firstChild);
+            } else {
+                headerRow.appendChild(th);
+            }    
+        }
+
+        header.appendChild(headerRow); // need to convert td's into th
+
+        table.appendChild(header);
+        for (var i = gtable.rows.length - 1; i > 0; i--) {
+            if (body.firstChild) {
+                body.insertBefore(gtable.rows[i], body.firstChild);
+            } else {
+                body.appendChild(gtable.rows[i])
+            }
+        }
+        table.appendChild(body);
+      }
+});
+}
+</script>
+
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
 [toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase
