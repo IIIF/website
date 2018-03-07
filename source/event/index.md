@@ -10,11 +10,17 @@ cssversion: 2
 
 All IIIF events are subject to the [Code of Conduct][conduct].
 
-__Upcoming Events__
+__Upcoming IIIF Events__
 
 * Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
 
-__Previous Events__
+__IIIF Representation at events__
+
+These are events that have a IIIF presence, presentation, workshop or other tie in. It is meant to help attendees coordinate IIIF-related activities at any given event, and also to help recruit IIIF ambassadors to go to promising events and represent the community.
+
+<table id="events" class="api-table"></table>
+
+__Previous IIIF Events__
 
 * Fall 2017 Showcase and Technical Workshop: Nov. 2 in [London][london-va], England
 * Fall 2017 IIIF Working Meeting: Oct. 11-13 in [Toronto][toronto], Canada
@@ -32,7 +38,6 @@ __Previous Events__
 * Spring 2012: The Hague, Netherlands
 * Fall 2011: Cambridge, England
 
-<table id="events" class="api-table"></table>
 <script type="text/javascript">
 window.onload = function(){
 $.ajax({
