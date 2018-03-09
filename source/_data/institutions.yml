@@ -241,6 +241,7 @@
   iiifc: 2
 - name: University of California, Los Angeles
   uri: http://www.ucla.edu/
+  iiifc: 2
 - name: University of California, Santa Barbara
   uri: http://www.ucsb.edu/
 - name: University of Edinburgh
