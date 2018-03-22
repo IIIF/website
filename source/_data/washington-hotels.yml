@@ -1,0 +1,28 @@
+- name: Capitol Hill Hotel
+  address: 200 C Street SE, Washington, DC 20003
+  tel: +1 202 543 6000
+  url: http://www.capitolhillhotel-dc.com/
+- name: Holiday Inn, Washington-Capitol
+  address: 550 C Street SW, Washington, DC 20024
+  tel: +1 202 479 4000
+  url: https://www.ihg.com/holidayinn/hotels/us/en/washington/wassm/hoteldetail?cm_mmc=GoogleMaps-_- HI-_- USA-_-
+- name: WASSM
+  address: Hyatt Place, Washington DC National Mall, 400 E Street SW Washington, DC 20024
+  tel: +1 202 803 6110
+  url: https://dcnationalmall.place.hyatt.com/en/hotel/home.html
+- name: Hyatt Regency Washington on Capitol Hill
+  address: 400 New Jersey Avenue NW, Washington, DC 20001
+  tel: +1 202 737 1234
+  url: https://washingtondc.regency.hyatt.com/en/hotel/home.html
+- name: JW Marriott, Washington, DC
+  address: 1331 Pennsylvania Avenue NW, Washington, DC 20004
+  tel: +1 202 393 2000
+  url: http://www.marriott.com/hotels/travel/wasjw-jw- marriott-washington- dc/?scid=bb1a189a-fec3- 4d19-a255-54ba596febe2
+- name: Mandarin Oriental, Washington DC
+  address: 1330 Maryland Avenue SW, Washington, DC 20024
+  tel: +1 202 554 8588
+  url: http://www.mandarinoriental.com/washington/
+- name: Residence Inn by Marriott, Washington, DC/Capitol
+  address: 333 E Street SW, Washington, DC 20024
+  tel: +1 202 484 8280
+  url: http://www.marriott.com/hotels/travel/wascp-residence- inn-washington- dc-capitol/
