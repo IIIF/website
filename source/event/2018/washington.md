@@ -21,15 +21,17 @@ This event will be valuable for cultural heritage, STEM institutions, repository
 ## Conference Overview
 The conference will be made up of lightning talks, presentations and discussion sessions. There is also optional pre-conference Workshops on Monday. The general schedule will be as follows:
 
-* Monday May 21st - **Pre Conference workshops** hosted by the Smithsonian Institution
-* Tuesday May 22nd - **IIIF Showcase** hosted by the Library of Congress
-* Wednesday May 23rd - **IIIF Conference plenary** hosted by the Library of Congress
+* Monday May 21st - [**Pre Conference workshops** hosted by the Smithsonian Institution][workshops] - **Program now Available**
+* Tuesday May 22nd - **IIIF Showcase** hosted by the Library of Congress - this will require a separate free registration.
+* Wednesday May 23rd - **IIIF Conference plenary** hosted by the Library of Congress and a conference reception at the Smithsonian Castle.
 * Thursday May 24th - **IIIF Conference parallel sessions** hosted by the Library of Congress
 * Friday May 25th - **IIIF Conference parallel sessions** hosted by the Library of Congress
 
+**[Registration is now available!][washington-registration]**
+
 ## Logistics
 
-* Registration: Coming soon. If you would like to be informed when this opens please complete the following [form][registration-form].
+* Registration: **[Now available][washington-registration]** entry closes on the 4th of May. **Note:** the Tuesday showcase will require a separate free registration.
 * List of [Hotels][hotels]
 * Call for Proposals: is **now closed**.
 * Dates: May 21-25, 2018
@@ -54,3 +56,5 @@ Schedule information and additional details will be made available as soon as po
 [registration-form]: https://goo.gl/forms/18EKOxsZn38Cvs3k2
 [sponsor]: {{ site.url }}{{ site.baseurl }}/event/2018/washington-sponsors
 [hotels]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-hotels
+[workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
+[washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510

@@ -14,7 +14,7 @@ The International Image Interoperability Framework (IIIF) conference offers an e
  * Acknowledgement by name on iiif.io website and included with event information
  * Acknowledgement by name on May 22nd outreach event plenary program
  * Acknowledgment in May 23rd plenary welcome presentations
- * Option to present a lightning talk during May 23rd plenary
+ * Option to present a lightning talk. This may be either on May 23rd plenary or May 22nd Showcase.
  * 1 conference registration
 
 **Gold - $2,500**
@@ -33,6 +33,6 @@ The International Image Interoperability Framework (IIIF) conference offers an e
 
 ## Contact and Logistics
 
-To indicate your interest in sponsorship, please contact Glen Robson, glen.robson@iiif.io by May 1st, 2018, to guarantee your spot in the lightning talk program. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
+To indicate your interest in sponsorship, please contact Glen Robson, glen.robson@iiif.io **by May 13th, 2018**, to guarantee your spot in the lightning talk program. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
 
 [iiif-washington]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
