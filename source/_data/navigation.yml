@@ -11,8 +11,5 @@
   name: Community
   url: /community/
 -
-  name: Events
-  url: {{ site.url }}{{ site.baseurl }}/Event/
--
   name: News
   url: /news/
