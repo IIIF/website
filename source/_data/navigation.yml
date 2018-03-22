@@ -12,7 +12,7 @@
   url: /community/
 -
   name: Events
-  url: /Event/
+  url: {{ site.url }}{{ site.baseurl }}/Event/
 -
   name: News
   url: /news/
