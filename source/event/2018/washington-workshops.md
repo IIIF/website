@@ -7,7 +7,25 @@ tags: [event ]
 
 There are a series of optional Workshops on Monday before the full [Washington Conference][washington] which starts on Wednesday. These are hosted by the Smithsonian Institution and located in the [S. Dillon Ripley Center][ripley-building]. Registration for these workshops will be taken through the [main conference registration][washington-registration].
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1530.5129227191842!2d-77.0280414996332!3d38.88854743804177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b79c17e256ed%3A0xf69961681dfb8a5d!2sS.+Dillon+Ripley+Center!5e0!3m2!1sen!2suk!4v1521720404394" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+## Location of the [S. Dillon Ripley Center][ripley-building]
+
+<div id="map" style="width: 100%; height: 400px; background-color: grey;" ></div>
+<script>
+  function initMap() {
+    var ripley = {lat: 38.888564, lng:-77.026868};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 15,
+      center: ripley
+    });
+    var marker = new google.maps.Marker({
+      position: ripley,
+      title: "S. Dillon Ripley Center",
+      map: map
+    });
+  }
+</script>
+
+## Program
 
 The program for the workshops is as follows:
 
@@ -132,8 +150,34 @@ Topics include:
  * A discussion about the Mirador 3 development and identification of Use cases.
 
 # **Universal Viewer showcase and discussions**
+
+The Universal Viewer has a growing community of adopters, from national libraries and museums to one-person projects. It is made for simple, consistent presentation and sharing of digitised books, artworks, archives, audio, video and 3D objects.
+
+The Universal Viewer is also built from parts that can be assembled to produce different user experiences for other audiences.
+
+This workshop will give a showcase of how people are using the UV and then split into a technical and non technical discussion around future developments and directions.
+
+* Lead: Tom Crane and Ed Silverton
+* Others:
+* Duration:  2:00 - 5:00
+* Intended Audience: People who are new to Mirador and/or IIIF who are interested in learning more.
+
+**Showcase**
+ * Short presentations showing the UV in action. Presenters to be confirmed
+
+**Discussions**
+ * Split into two groups one technical to discuss issues brought by participants and discuss future developments of the UV. 
+
 # **IIIF and Annotations**
 
+Annotations are an exciting part of IIIF and allow things like transcriptions, OCR and crowdsourcing data to be displayed along side images. This workshop will demonstrate how to get started with an annotation store and look at different ways to generate and use annotations.
+
+* Lead: Matt McGrattan
+* Others:
+* Duration:  2:00 - 5:00
+* Intended Audience: People who are interested in learning more about how to create annotations and in particular how to setup an annotation store.
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>
 <!-- Link not working: https://www.si.edu/museums/ripley-center -->
 
 [washington]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
