@@ -51,8 +51,8 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
-        <td>&nbsp;</td>
         <td><a href="#mirador-showcase-and-demos">Mirador showcase and demos</a></td>
+        <td>&nbsp;</td>
         <td><a href="#train-the-trainer-and-iiif-awesome">Train the trainer and IIIF Awesome</a></td>
     </tr>
     <tr>
