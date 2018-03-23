@@ -51,8 +51,8 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
-        <td>&nbsp;</td>
         <td><a href="#mirador-showcase-and-demos">Mirador showcase and demos</a></td>
+        <td>&nbsp;</td>
         <td><a href="#train-the-trainer-and-iiif-awesome">Train the trainer and IIIF Awesome</a></td>
     </tr>
     <tr>
@@ -155,22 +155,22 @@ The Universal Viewer has a growing community of adopters, from national librarie
 
 The Universal Viewer is also built from parts that can be assembled to produce different user experiences for other audiences.
 
-This workshop will give a showcase of how people are using the UV and then split into a technical and non technical discussion around future developments and directions.
+This workshop will give a showcase of how people are using the UV and then go on to more unconference style where discussion can be driven by participants.
 
 * Lead: Tom Crane and Ed Silverton
 * Others:
 * Duration:  2:00 - 5:00
-* Intended Audience: People who are new to Mirador and/or IIIF who are interested in learning more.
+* Intended Audience: People who are new to the Universal Viewer and/or IIIF who are interested in learning more.
 
 **Showcase**
- * Short presentations showing the UV in action. Presenters to be confirmed
+ * Presentations showing the UV in action and demonstrations of the latest developments.
 
 **Discussions**
- * Split into two groups one technical to discuss issues brought by participants and discuss future developments of the UV.
+ * Unconference style sessions lead by the interests of participants.
 
 # **IIIF and Annotations**
 
-Annotations are an exciting part of IIIF and allow things like transcriptions, OCR and crowdsourcing data to be displayed along side images. This workshop will demonstrate how to get started with an annotation store and look at different ways to generate and use annotations.
+Annotations are an exciting part of IIIF and allow things like transcriptions, OCR and crowdsourcing data to be displayed along side images. This workshop will demonstrate how to get started with an annotation store and look at different ways to generate and use annotations. Participants are encouraged to bring examples of annotations or existing work if they have them to demonstrate to the group.
 
 * Lead: Matt McGrattan
 * Others:
