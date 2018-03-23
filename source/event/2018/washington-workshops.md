@@ -120,7 +120,7 @@ The purpose of this working meeting would be to introduce new folks to curation 
 
 This is a workshop to introduce Mirador to people who are new to IIIF and new to the available viewers. It will be a showcase of the Mirador functionality and community.
 
-* Lead: Ben
+* Lead: Ben Albritton
 * Others:
 * Duration:  11:30 - 12:30
 * Intended Audience: People who are new to Mirador and/or IIIF who are interested in learning more.
@@ -166,7 +166,7 @@ This workshop will give a showcase of how people are using the UV and then split
  * Short presentations showing the UV in action. Presenters to be confirmed
 
 **Discussions**
- * Split into two groups one technical to discuss issues brought by participants and discuss future developments of the UV. 
+ * Split into two groups one technical to discuss issues brought by participants and discuss future developments of the UV.
 
 # **IIIF and Annotations**
 
