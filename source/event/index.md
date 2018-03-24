@@ -6,8 +6,6 @@ tags: [events ]
 cssversion: 2
 ---
 
-## IIIF Events
-
 All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming main IIIF Events__
