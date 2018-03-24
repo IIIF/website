@@ -6,15 +6,19 @@ tags: [events ]
 cssversion: 2
 ---
 
-## IIIF Events
-
 All IIIF events are subject to the [Code of Conduct][conduct].
 
-__Upcoming Events__
+__Upcoming main IIIF Events__
 
 * Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
 
-__Previous Events__
+__Other IIIF Events__
+
+These are events that have a IIIF presence, presentation, workshop or other tie in. Please contact the [IIIF Outreach group][outreach] if you know of other meetings or conferences not listed below.
+
+<table id="events" class="api-table"></table>
+
+__Previous IIIF Events__
 
 * Fall 2017 Showcase and Technical Workshop: Nov. 2 in [London][london-va], England
 * Fall 2017 IIIF Working Meeting: Oct. 11-13 in [Toronto][toronto], Canada
@@ -32,6 +36,66 @@ __Previous Events__
 * Spring 2012: The Hague, Netherlands
 * Fall 2011: Cambridge, England
 
+<script type="text/javascript">
+window.onload = function(){
+$.ajax({
+      type: 'GET',
+      url: 'https://docs.google.com/document/d/e/2PACX-1vTRJwJCj5r_CnJSuOPgS11gDD-L2ar2Wg5_SwyUqItUPer2obrvRgivbZUP5rYXCyOY-sOn52haRaBS/pub',
+      dataType: 'html',
+      success: function(data) {
+
+        //cross platform xml object creation from w3schools
+        try //Internet Explorer
+          {
+          xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+          xmlDoc.async="false";
+          xmlDoc.loadXML(data);
+          }
+        catch(e)
+          {
+          try // Firefox, Mozilla, Opera, etc.
+            {
+            parser=new DOMParser();
+            xmlDoc=parser.parseFromString(data,"text/html");
+            }
+          catch(e)
+            {
+            alert(e.message);
+            return;
+            }
+          }
+
+        var table = document.getElementById("events");
+        var gtable = xmlDoc.getElementsByTagName("table")[0];
+        var body = document.createElement('tbody');
+        var header = document.createElement('thead');
+        headerRow = document.createElement('tr');
+        for (var i = gtable.rows[0].cells.length - 1; i >= 0; i--) {
+            var th = document.createElement('th');
+            th.innerHTML = gtable.rows[0].cells[i].innerHTML;
+            if (headerRow.firstChild) {
+                headerRow.insertBefore(th, headerRow.firstChild);
+            } else {
+                headerRow.appendChild(th);
+            }    
+        }
+
+        header.appendChild(headerRow); // need to convert td's into th
+
+        table.appendChild(header);
+        for (var i = gtable.rows.length - 1; i > 0; i--) {
+            if (body.firstChild) {
+                body.insertBefore(gtable.rows[i], body.firstChild);
+            } else {
+                body.appendChild(gtable.rows[i])
+            }
+        }
+        table.appendChild(body);
+      }
+});
+}
+</script>
+
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
 [toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase
@@ -44,3 +108,4 @@ __Previous Events__
 [ghent]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent/
 [dc]: {{ site.url }}{{ site.baseurl }}/event/2015/washington/
 [london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
+[outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach/
