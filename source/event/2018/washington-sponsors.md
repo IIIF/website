@@ -33,6 +33,6 @@ The International Image Interoperability Framework (IIIF) conference offers an e
 
 ## Contact and Logistics
 
-To indicate your interest in sponsorship, please contact Glen Robson, glen.robson@iiif.io **by April 13th, 2018**, to guarantee your spot in the lightning talk program. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
+To indicate your interest in sponsorship, please contact admin@iiif.io **by April 13th, 2018**, to guarantee your spot in the lightning talk program. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
 
 [iiif-washington]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
