@@ -10,13 +10,13 @@ cssversion: 2
 
 All IIIF events are subject to the [Code of Conduct][conduct].
 
-__Upcoming IIIF Events__
+__Upcoming main IIIF Events__
 
 * Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
 
-__Other Events__
+__Other IIIF Events__
 
-These are events that have a IIIF presence, presentation, workshop or other tie in. It is meant to help attendees coordinate IIIF-related activities at any given event, and also to help recruit IIIF ambassadors to go to promising events and represent the community.
+These are events that have a IIIF presence, presentation, workshop or other tie in. Please contact the [IIIF Outreach group][outreach] if you know of other meetings or conferences not listed below.
 
 <table id="events" class="api-table"></table>
 
@@ -110,3 +110,4 @@ $.ajax({
 [ghent]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent/
 [dc]: {{ site.url }}{{ site.baseurl }}/event/2015/washington/
 [london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
+[outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach/
