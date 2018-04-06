@@ -6,7 +6,11 @@ tags: [event ]
 
 The 2018 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held May 21-25 in Washington, DC, co-hosted by the Library of Congress, the Smithsonian Institution, and the Folger Shakespeare Library.
 
-***[Registration is now available!][washington-registration]***
+{: style="text-align:center"}
+***[Conference Registration is now available!][washington-registration]***
+
+{: style="text-align:center"}
+***[Showcase Registration is now available!][showcase-eventbrite]***
 
 ## What is IIIF?
 Embraced by a growing number of the world’s leading research and cultural heritage organizations, IIIF provides an open framework for organizations to publish their image-based resources, to be viewed, cited, annotated and compared by any compatible image-viewing application.
@@ -31,14 +35,16 @@ If you are interested in sponsoring the 2018 IIIF Conference, please see the [sp
 The conference will be made up of lightning talks, presentations and discussion sessions. There is also optional pre-conference Workshops on Monday. The general schedule will be as follows:
 
 * Monday May 21st - [**Pre Conference workshops** hosted by the Smithsonian Institution][workshops] - **Program now Available**
-* Tuesday May 22nd - **IIIF Showcase** hosted by the Library of Congress - this will require a separate free registration.
+* Tuesday May 22nd - **IIIF Showcase** hosted by the Library of Congress - this will require a separate free registration [available here][showcase-eventbrite].
 * Wednesday May 23rd - **IIIF Conference plenary** hosted by the Library of Congress and a conference reception at the Smithsonian Castle.
 * Thursday May 24th - **IIIF Conference parallel sessions** hosted by the Library of Congress
 * Friday May 25th - **IIIF Conference parallel sessions** hosted by the Library of Congress
 
 ## Logistics
 
-* Registration: **[Now available][washington-registration]** entry closes on the 4th of May. **Note:** the Tuesday showcase will require a separate free registration.
+* Registration: there are two registrtions required; one for the Conference and Pre-conference workshops and one for the Showcase. Entry for both closes on the **4th of May**:
+  * **[Conference and pre-conference workshops registration][washington-registration]**
+  * **[Showcase registration][showcase-eventbrite]**
 * List of [Hotels][hotels]
 * Call for Proposals: is **now closed**.
 * Dates: May 21-25, 2018
@@ -64,4 +70,5 @@ Schedule information and additional details will be made available as soon as po
 [hotels]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-hotels
 [workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
+[showcase-eventbrite]: https://www.eventbrite.com/e/iiif-washington-showcase-tickets-44860722629
 [FromThePage]: https://fromthepage.com/
