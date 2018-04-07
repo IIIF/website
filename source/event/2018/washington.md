@@ -28,6 +28,7 @@ This event will be valuable for cultural heritage, STEM institutions, repository
 
 The 2018 conference is generously supported and sponsored by the following:
  * [Brumfield Labs, creators of FromThePage][FromThePage]
+ * [OCLC][oclc]
 
 If you are interested in sponsoring the 2018 IIIF Conference, please see the [sponsorship opportunities][sponsor] and get in touch with admin@iiif.io by the **13th of April 2018**..
 
@@ -72,3 +73,4 @@ Schedule information and additional details will be made available as soon as po
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-washington-showcase-tickets-44860722629
 [FromThePage]: https://fromthepage.com/
+[oclc]: https://www.oclc.org/en/home.html
