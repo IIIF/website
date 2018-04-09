@@ -529,11 +529,6 @@
     lastname: Beaudet
     organization: National Gallery of Art
     web_page: ''
-  - country: United States
-    firstname: John
-    lastname: Gordy
-    organization: National Gallery of Art
-    web_page: ''
   decision: ACCEPT
   id: Paper 20
   index: 20
