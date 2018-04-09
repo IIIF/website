@@ -10,12 +10,13 @@
   <tbody>
     {% for submission in submissions %}
        {% if submission.type == include.type and submission.decision == 'ACCEPT' %}
+       {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id | replace: ' ', '-'}}/{% endcapture %}
         <tr>
-            <td><a href="{{ submission.id | replace: ' ', '-' }}/">{{ submission.id }}</a></td>
-            <td><a href="{{ submission.id | replace: ' ', '-' }}/">{% for author in submission.authors %}
+            <td><a href="{{ dest_url }}">{{ submission.id }}</a></td>
+            <td><a href="{{ dest_url }}">{% for author in submission.authors %}
                     {{ author.firstname }} {{ author.lastname}}{% if forloop.last == false %}, {% endif %}
             {% endfor %}</a></td>
-            <td><a href="{{ submission.id | replace: ' ', '-' }}/">{{ submission.submission_title }}</a></td>
+            <td><a href="{{ dest_url }}">{{ submission.submission_title }}</a></td>
         </tr>
         {% endif %}
     {% endfor %}
