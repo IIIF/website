@@ -1,0 +1,23 @@
+{% assign submissions =  site.data.washington_submissions | sort: 'index' %}
+<table class="api-table">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Authors</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for submission in submissions %}
+       {% if submission.type == include.type %}
+        <tr>
+            <td><a href="{{ submission.id | replace: ' ', '-' }}/">{{ submission.id }}</a></td>
+            <td><a href="{{ submission.id | replace: ' ', '-' }}/">{% for author in submission.authors %}
+                    {{ author.firstname }} {{ author.lastname}}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}</a></td>
+            <td><a href="{{ submission.id | replace: ' ', '-' }}/">{{ submission.submission_title }}</a></td>
+        </tr>
+        {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

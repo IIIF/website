@@ -1,11 +1,22 @@
 markdown: kramdown
 source: source
+plugins_dir: source/_plugins
 safe: false
 permalink: /news/:year/:month/:day/:title/
 
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+
+page_gen-dirs: false
+page_gen:
+  - index_files: false
+    data: 'washington_submissions'
+    template: 'submission'
+    name: 'id'
+    dir: 'event/2018/washington/program'
+    extension: 'html'
+    filter_condition: "record['decision'] == 'ACCEPT'"
 
 kramdown:
   input: GFM
