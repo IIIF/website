@@ -1,0 +1,24 @@
+{% assign submissions =  site.data.washington_submissions | sort: 'index' %}
+<table class="api-table">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Authors</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for submission in submissions %}
+       {% if submission.type == include.type and submission.decision == 'ACCEPT' %}
+       {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id | replace: 'Paper ', 'paper-'}}/{% endcapture %}
+        <tr>
+            <td><a href="{{ dest_url }}">{{ submission.id }}</a></td>
+            <td><a href="{{ dest_url }}">{% for author in submission.authors %}
+                    {{ author.firstname }} {{ author.lastname}}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}</a></td>
+            <td><a href="{{ dest_url }}">{{ submission.submission_title }}</a></td>
+        </tr>
+        {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

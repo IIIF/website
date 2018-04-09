@@ -7,7 +7,7 @@ desc 'Run the Markdown specs and HTML Proofer'
 task :ci do
   sh 'bundle exec jekyll clean'
   sh 'bundle exec jekyll build -d _site/test --baseurl /test'
-
+  
   sh 'grunt test'
   sh 'scripts/check_json.py -v'
   Rake::Task['spec'].invoke
@@ -19,7 +19,7 @@ task :check_html do
   HTMLProofer.check_directory('./_site', check_html: true,
                                          cache: { timeframe: '1w' },
                                          http_status_ignore: [0, 301, 302],
-                                         url_ignore: ['https://vimeo.com/229253706?ref=tw-share']).run
+                                         url_ignore: ['https://vimeo.com/229253706?ref=tw-share', 'http://ksn.io','http://www.irht.cnrs.fr', 'https://www.linkedin.com/in/colin-greenstreet-7434b9/']).run
 end
 
 desc 'Run the site locally on localhost:4000'

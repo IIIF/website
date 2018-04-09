@@ -41,6 +41,8 @@ The conference will be made up of lightning talks, presentations and discussion 
 * Thursday May 24th - **IIIF Conference parallel sessions** hosted by the Library of Congress
 * Friday May 25th - **IIIF Conference parallel sessions** hosted by the Library of Congress
 
+Please see the list of [accepted presentations][program].
+
 ## Logistics
 
 * Registration: there are two registrtions required; one for the Conference and Pre-conference workshops and one for the Showcase. Entry for both closes on the **4th of May**:
@@ -70,6 +72,7 @@ Schedule information and additional details will be made available as soon as po
 [sponsor]: {{ site.url }}{{ site.baseurl }}/event/2018/washington-sponsors
 [hotels]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-hotels
 [workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
+[program]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/program/
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-washington-showcase-tickets-44860722629
 [FromThePage]: https://fromthepage.com/
