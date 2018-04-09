@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     {% for submission in submissions %}
-       {% if submission.type == include.type %}
+       {% if submission.type == include.type and submission.decision == 'ACCEPT' %}
         <tr>
             <td><a href="{{ submission.id | replace: ' ', '-' }}/">{{ submission.id }}</a></td>
             <td><a href="{{ submission.id | replace: ' ', '-' }}/">{% for author in submission.authors %}
