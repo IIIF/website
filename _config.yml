@@ -1,6 +1,5 @@
 markdown: kramdown
 source: source
-plugins_dir: source/_plugins
 safe: false
 permalink: /news/:year/:month/:day/:title/
 
