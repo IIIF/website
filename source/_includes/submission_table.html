@@ -10,7 +10,7 @@
   <tbody>
     {% for submission in submissions %}
        {% if submission.type == include.type and submission.decision == 'ACCEPT' %}
-       {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id | replace: ' ', '-'}}/{% endcapture %}
+       {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id | replace: 'Paper ', 'paper-'}}/{% endcapture %}
         <tr>
             <td><a href="{{ dest_url }}">{{ submission.id }}</a></td>
             <td><a href="{{ dest_url }}">{% for author in submission.authors %}
