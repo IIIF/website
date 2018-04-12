@@ -2833,3 +2833,28 @@
   - Technical Discussion
   - Discovery of IIIF Resources
   type: 60/90 minute discussion
+- abstract: "As the IIIF Community continues to expand and experiment, we need a\
+  \ robust and fair method to advertise the existence of extensions to the\
+  \ specifications. These extensions can add important functionality for specific\
+  \ communities or use cases, and are often valuable to share broadly without\
+  \ needing the full specification process. Extensions that are broadly adopted\
+  \ are more likely to be included in future versions of the specifications.\
+  \ This session is to discuss the best method to manage registration of\
+  \ extensions and the maintenance of the registries."
+  authors:
+  - country: International
+    firstname: IIIF
+    lastname: Editors
+    organization: IIIF
+    web_page: http://prezi3.iiif.io/api/
+  decision: ACCEPT
+  id: Paper 102
+  index: 102
+  keywords:
+  - IIIF APIs
+  - API Extensions
+  submission_title: Discussion of Process to Register IIIF API Extensions
+  topic:
+  - IIIF APIs
+  - Technical Discussion
+  type: 60/90 minute discussion
