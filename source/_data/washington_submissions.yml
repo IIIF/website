@@ -2806,7 +2806,7 @@
   topic:
   - IIIF APIs
   - Technical Discussion
-  type: 90 minute discussion
+  type: 60/90 minute discussion
 - abstract: "The IIIF Discovery group wishes to publish an alpha version of a harvesting and\
   \ crawling specification to seek wider implementation and feedback.  This session will walk\
   \ through the proposed API in order to inform the community and get its approval to move\
@@ -2832,4 +2832,4 @@
   - IIIF APIs
   - Technical Discussion
   - Discovery of IIIF Resources
-  type: 45 minute discussion
+  type: 60/90 minute discussion
