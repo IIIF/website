@@ -30,6 +30,8 @@ The 2018 conference is generously supported and sponsored by the following:
  * [Brumfield Labs, creators of FromThePage][FromThePage]
  * [OCLC][oclc]
  * [Design for Context][designforcontext]
+ * [Luna Imaging Inc][luna]
+ * [Digital Library Cloud Services][digirati]
 
 If you are interested in sponsoring the 2018 IIIF Conference, please see the [sponsorship opportunities][sponsor] and get in touch with admin@iiif.io by the **13th of April 2018**..
 
@@ -79,3 +81,5 @@ Schedule information and additional details will be made available as soon as po
 [FromThePage]: https://fromthepage.com/
 [oclc]: https://www.oclc.org/en/home.html
 [designforcontext]: http://www.designforcontext.com
+[luna]: http://www.lunaimaging.com/
+[digirati]: https://dlcs.info
