@@ -2785,3 +2785,76 @@
   - Emerging use cases for IIIF technical specifications
   - IIIF-compatible software and experimentation
   type: 20 minute presentations (plus 5 mins questions)
+- abstract: "The IIIF community has been working on the next major version for the Image\
+    \ and Presentation APIs over the past 2 years. This was driven initially by the\
+    \ Audio and Video technical group, and has incorporated development experience and\
+    \ best practices that have emerged in the wider community.  This session is to walk\
+    \ through the changes in the new versions and get community approval to move forwards\
+    \ with them."
+  authors:
+  - country: International
+    firstname: IIIF
+    lastname: Editors
+    organization: IIIF
+    web_page: http://prezi3.iiif.io/api/
+  decision: ACCEPT
+  id: Paper 100
+  index: 100
+  keywords:
+  - IIIF APIs
+  submission_title: Discussion and Ratification of Version 3.0 Image and Presentation APIs
+  topic:
+  - IIIF APIs
+  - Technical Discussion
+  type: 60/90 minute discussion
+- abstract: "The IIIF Discovery group wishes to publish an alpha version of a harvesting and\
+  \ crawling specification to seek wider implementation and feedback.  This session will walk\
+  \ through the proposed API in order to inform the community and get its approval to move\
+  \ forwards with it towards a full specification."
+  authors:
+  - country: International
+    firstname: IIIF
+    lastname: Editors
+    organization: IIIF
+    web_page: http://prezi3.iiif.io/api/
+  - country: International
+    firstname: IIIF
+    lastname: Discovery TSG
+    organization: IIIF
+    web_page: http://iiif.io/api/
+  decision: ACCEPT
+  id: Paper 101
+  index: 101
+  keywords:
+  - IIIF Discovery
+  submission_title: Discussion and Ratification of Version 0.1 of IIIF Harvesting API
+  topic:
+  - IIIF APIs
+  - Technical Discussion
+  - Discovery of IIIF Resources
+  type: 60/90 minute discussion
+- abstract: "As the IIIF Community continues to expand and experiment, we need a\
+  \ robust and fair method to advertise the existence of extensions to the\
+  \ specifications. These extensions can add important functionality for specific\
+  \ communities or use cases, and are often valuable to share broadly without\
+  \ needing the full specification process. Extensions that are broadly adopted\
+  \ are more likely to be included in future versions of the specifications.\
+  \ This session is to discuss the best method to manage registration of\
+  \ extensions and the maintenance of the registries."
+  authors:
+  - country: International
+    firstname: IIIF
+    lastname: Editors
+    organization: IIIF
+    web_page: http://prezi3.iiif.io/api/
+  decision: ACCEPT
+  id: Paper 102
+  index: 102
+  keywords:
+  - IIIF APIs
+  - API Extensions
+  submission_title: Discussion of Process to Register IIIF API Extensions
+  topic:
+  - IIIF APIs
+  - Technical Discussion
+  type: 60/90 minute discussion
