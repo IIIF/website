@@ -7,6 +7,7 @@ cssversion: 2
 
 The following is a list of active IIIF community groups and technical specification groups. IIIF  groups are open to participation from all interested parties. New groups may be formed according to the [IIIF Groups Framework][groups-framework].
 
+  * [3D Community Group][3d]
   * [A/V Technical Specification Group][av]
   * [Discovery Technical Specification Group][discovery]
   * [Manuscripts Community Group][manuscripts]
@@ -15,6 +16,7 @@ The following is a list of active IIIF community groups and technical specificat
   * [Software Developers Community Group][software]
   * [Text Granularity Technical Specification Group][text-granularity]
 
+[3d]: {{ site.url }}{{ site.baseurl }}/community/groups/3d "IIIF 3D Community Group"
 [av]: {{ site.url }}{{ site.baseurl }}/community/groups/av "IIIF A/V Technical Specification Group"
 [manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts "IIIF Manuscripts Community Group"
 [museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums "IIIF Museums Community Group"
