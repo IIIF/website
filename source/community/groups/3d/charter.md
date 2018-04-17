@@ -1,7 +1,7 @@
 ---
-title: "IIIF A/V Technical Specification Group Charter"
+title: "IIIF 3D Community Group"
 layout: spec
-tags: []
+tags: [3d]
 cssversion: 2
 ---
 
