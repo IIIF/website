@@ -201,6 +201,9 @@
 - name: Princeton University Library
   uri: http://library.princeton.edu
   iiifc: 1
+- name: Princeton University Art Museum
+  uri: http://artmuseum.princeton.edu/
+  iiifc:
 - name: Public Record Office Victoria
   uri: https://www.prov.vic.gov.au/
 - name: Qatar National Library
