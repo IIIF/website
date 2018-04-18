@@ -1,3 +1,6 @@
 - name: NC State University
   uri: https://d.lib.ncsu.edu/collections/iiif-discovery.json
   wikidata: https://www.wikidata.org/entity/Q6953248
+- name: University of Toronto
+  uri: https://iiif.library.utoronto.ca/presentation/v2/discovery
+  wikidata: https://www.wikidata.org/wiki/Q180865  
