@@ -257,7 +257,7 @@
   uri: http://hms.scot/fiddle/copies/
   iiifc:
 - name: University of Hong Kong
-  uri: http://hku.hk/
+  uri: http://lib.hku.hk
   iiifc: 2
 - name: University of Illinois at Urbana-Champaign
   uri: http://illinois.edu/
