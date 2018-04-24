@@ -2,6 +2,7 @@
 title: "2018 IIIF Conference - Washington, DC"
 layout: washington
 tags: [event ]
+page: overview
 ---
 
 The 2018 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held May 21-25 in Washington, DC, co-hosted by the Library of Congress, the Smithsonian Institution, and the Folger Shakespeare Library.

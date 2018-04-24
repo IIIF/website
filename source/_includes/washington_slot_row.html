@@ -1,6 +1,16 @@
-<tr><td>{{ include.time }}</td>
+<tr>
+{% if include.rowspan %}
+    <td rowspan="{{include.rowspan }}">
+{% else %}
+    <td>
+{% endif %}
+    {{ include.time }}</td>
 {% if include.title %}
-    <td colspan="2">{{ include.title}}</td>
+    {% if include.span %}
+        <td colspan="{{include.span}}">{{ include.title}}</td>
+    {% else %}
+        <td colspan="2">{{ include.title}}</td>
+    {% endif %}
 {% endif %}
 {% if include.paper %}
     {% assign submission_list = site.data.washington_submissions | where: "id",include.paper %}
@@ -10,5 +20,34 @@
     <td>{% for author in submission.authors %}
             {{ author.firstname }} {{ author.lastname}}{% if forloop.last == false %}, {% endif %}
     {% endfor %}</td>
+{% endif %}
+{% if include.track1 or include.track2  or include.track3 %}
+        {% assign track1=include.track1 | split: ','  %}
+        {% assign track11 = track1[0] %}
+        {% assign track12 = track1[1] %}
+        {% assign track13 = track1[2] %}
+        {% assign track2=include.track2 | split: ','  %}
+        {% assign track21 = track2[0] %}
+        {% assign track22 = track2[1] %}
+        {% assign track23 = track2[2] %}
+        {% assign track3=include.track3 | split: ','  %}
+        {% assign track31 = track3[0] %}
+        {% assign track32 = track3[1] %}
+        {% assign track33 = track3[2] %}
+
+        {% include washington_multirow.html paper=track11 %}
+        {% include washington_multirow.html paper=track21 %}
+        {% include washington_multirow.html paper=track31 %}
+            </tr>
+            <tr>
+        {% include washington_multirow.html paper=track12 %}
+        {% include washington_multirow.html paper=track22 %}
+        {% include washington_multirow.html paper=track32 %}
+            </tr>
+            <tr>
+        {% include washington_multirow.html paper=track13 %}
+        {% include washington_multirow.html paper=track23 %}
+        {% include washington_multirow.html paper=track33 %}
+
 {% endif %}
 </tr>

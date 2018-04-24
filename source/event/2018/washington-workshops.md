@@ -2,28 +2,11 @@
 title: "Workshops: 2018 IIIF Conference in Washington - Monday May 21st"
 layout: washington
 tags: [event ]
+page: monday
 ---
 ### hosted by the Smithsonian Institution
 
 There are a series of optional Workshops on Monday before the full [Washington Conference][washington] which starts on Wednesday. These are hosted by the Smithsonian Institution and located in the [S. Dillon Ripley Center][ripley-building]. Registration for these workshops will be taken through the [main conference registration][washington-registration].
-
-## Location of the [S. Dillon Ripley Center][ripley-building]
-
-<div id="map" style="width: 100%; height: 400px; background-color: grey;" ></div>
-<script>
-  function initMap() {
-    var ripley = {lat: 38.888564, lng:-77.026868};
-    var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 15,
-      center: ripley
-    });
-    var marker = new google.maps.Marker({
-      position: ripley,
-      title: "S. Dillon Ripley Center",
-      map: map
-    });
-  }
-</script>
 
 ## Program
 
@@ -79,6 +62,24 @@ The program for the workshops is as follows:
 </table>
 
 Tea and coffee will be provided but lunch will not be.
+
+## Location of the [S. Dillon Ripley Center][ripley-building]
+
+<div id="map" style="width: 100%; height: 400px; background-color: grey;" ></div>
+<script>
+  function initMap() {
+    var ripley = {lat: 38.888564, lng:-77.026868};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 15,
+      center: ripley
+    });
+    var marker = new google.maps.Marker({
+      position: ripley,
+      title: "S. Dillon Ripley Center",
+      map: map
+    });
+  }
+</script>
 
 # **IIIF and Scientific Images**
 
