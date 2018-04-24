@@ -198,7 +198,7 @@ Rashmi Singhal (Harvard)
 [demetsiiify]: https://demetsiiify.jbaiter.de/
 [bodleian-buttons]: http://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+,t+,rsrs+0,rsps+10,fa+ox%3Acollection%5EEphemera,so+ox%3Asort%5Easc,scids+,pid+,vi+
 [4science]: http://www.4science.it/en/iiif-image-viewer/
-[eLife]: https://elifesciences.org/elife-news/international-image-interoperability-framework-iiif-science-publishers
+[eLife]: https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif
 [eLife-anno]: https://via.hypothes.is/http:/www.nature.com/news/annotating-the-scholarly-web-1.18900
 [bbmn]: http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/
 [edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
