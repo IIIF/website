@@ -203,7 +203,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [mirador-symposium]: https://library.stanford.edu/events/mirador-images-and-future-digital-research-web
 [23d]: https://www.rijksmuseum.nl/en/2and3dphotography
 [kalamazoo]: https://wmich.edu/sites/default/files/attachments/u434/2017/medieval-congress-program-2017-for-web.pdf
-[tcdl]: https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/TCDL2017
+[tcdl]: https://www.tdl.org/tcdl/2017-tcdl/
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
 [dams]: {{ site.url }}{{ site.baseurl }}/news/2017/05/01/letter-to-dams/
 [av-challenges]: https://docs.google.com/document/d/1lcef8tjqfzBqRSmWLkJZ46Pj0pm8nSD11hbCAd7Hqxg/edit?usp=sharing
