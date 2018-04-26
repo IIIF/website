@@ -75,10 +75,10 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 [sponsor]: {{ site.url }}{{ site.baseurl }}/event/2018/washington-sponsors
 [hotels]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-hotels
 [workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
-[tuesday]:{{ site.url }}{{ site.baseurl }}/event/2018/tuesday/
-[wednesday]:{{ site.url }}{{ site.baseurl }}/event/2018/wednesday/
-[thursday]:{{ site.url }}{{ site.baseurl }}/event/2018/thursday/
-[friday]:{{ site.url }}{{ site.baseurl }}/event/2018/friday/
+[tuesday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/tuesday/
+[wednesday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/wednesday/
+[thursday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/thursday/
+[friday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/friday/
 [program]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/program/
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-washington-showcase-tickets-44860722629
