@@ -34,6 +34,7 @@ The 2018 conference is generously supported and sponsored by the following:
  * [Luna Imaging Inc][luna]
  * [Digital Library Cloud Services][digirati]
  * [Quartex][Quartex]
+ * [LYRASIS][lyrasis]
 
 If you are interested in sponsoring the 2018 IIIF Conference, please see the [sponsorship opportunities][sponsor] and get in touch with admin@iiif.io as soon as possible.
 
@@ -88,3 +89,4 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 [luna]: http://www.lunaimaging.com/
 [digirati]: https://dlcs.info
 [Quartex]: http://www.quartexcollections.com/
+[lyrasis]: http://www.lyrasis.org 
