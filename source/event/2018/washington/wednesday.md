@@ -24,7 +24,7 @@ This is the agenda for Wednesday the 23rd of May, the first full day of the conf
         {% include washington_slot_row.html title='IIIF Newspapers Community Group Update' %}
         {% include washington_slot_row.html title='IIIF Software Developers Community Group Update' %}
         {% include washington_slot_row.html title='IIIF 3D Community Group Update' %}
-        {% include washington_slot_row.html title='Outreach Community Group Update' %}
+        {% include washington_slot_row.html title='IIIF Outreach Community Group Update' %}
         {% include washington_slot_row.html time='10:00am - 10:10am' title='Community and Community Groups Q&A' %}
 
         {% include washington_slot_row.html time='10:10am - 10:25am' title='Technical Specification Status Update' %}
