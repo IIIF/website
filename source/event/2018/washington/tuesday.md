@@ -5,7 +5,6 @@ tags: [event ]
 page: tuesday
 ---
 
-
 The IIIF Community is pleased to present a showcase to introduce newcomers to IIIF.
 
 If you are interested in engaging with other museum, library, archive and technical professionals...
@@ -55,7 +54,7 @@ The event is free, but space is limited. Please register to guarantee yourself a
     </tr>
     <tr>
         <td>3:00pm - 3:40pm</td>
-        <td>Break (on your own)</td>
+        <td>Break (on your own)*</td>
     </tr>
     <tr>
         <td>3:40pm - 4:10pm</td>
@@ -76,6 +75,6 @@ The event is free, but space is limited. Please register to guarantee yourself a
   </tbody>
 </table>    
 
-Due to the amount of attendees and available space it is not possible to provide refreshments during breaks.
+\* Due to the amount of attendees and available space we are unable to provide refreshments during breaks.
 
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-washington-showcase-tickets-44860722629

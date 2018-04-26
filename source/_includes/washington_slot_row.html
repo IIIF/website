@@ -1,10 +1,12 @@
 <tr>
-{% if include.rowspan %}
-    <td rowspan="{{include.rowspan }}">
-{% else %}
-    <td>
-{% endif %}
+{% if include.time %}
+    {% if include.rowspan %}
+        <td rowspan="{{include.rowspan }}">
+    {% else %}
+        <td>
+    {% endif %}
     {{ include.time }}</td>
+{% endif %}
 {% if include.title %}
     {% if include.span %}
         <td colspan="{{include.span}}">{{ include.title}}</td>

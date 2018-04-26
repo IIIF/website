@@ -30,7 +30,7 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>11:00 - 11:30</td>
-        <td colspan="3" align="center"><b>Break (30 mins)</b> - tea and coffee provided.</td>
+        <td colspan="3" align="center"><b>Break (30 mins)</b> - coffee and tea provided.</td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
@@ -40,7 +40,7 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>12:30 to 2:00</td>
-        <td colspan="3" align="center"><b>Lunch (1.5 hours)</b> - not provided.</td>
+        <td colspan="3" align="center"><b>Lunch (1.5 hours)</b> - on your own.</td>
     </tr>
     <tr>
         <td>2:00 - 3:30</td>
@@ -50,7 +50,7 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>3:30 - 4:00</td>
-        <td colspan="3" align="center"><b>Break (30 mins)</b> - tea and coffee provided.</td>
+        <td colspan="3" align="center"><b>Break (30 mins)</b> - coffee and tea provided.</td>
     </tr>
     <tr>
         <td>4:00 - 5:00</td>
