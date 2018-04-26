@@ -754,6 +754,28 @@ a.button-turquoise {
     width: 70%;
   }
 
+  .washington-nav a:link,.washington-nav a:visited,.washington-nav a:hover,.washington-nav a:active {
+     // color: white;
+    padding: 10px 10px 10px 4%;
+    margin-right: 5px;
+  }
+
+  .washington-nav {
+      text-align: center;
+      width: 100%;
+      margin: auto;
+      //background-color:#1A3E59;
+      background-color: #21252c;
+  }
+  .washington-links a:link {
+      border-bottom: none;
+  }
+
+  .washington-links li a.is-selected {
+    color: black;
+    background-color:white;
+  }
+
   nav a:link, nav a:visited, nav a:hover, nav a:active {
     padding: 12px 0 12px 4%;
     margin-bottom: 0;

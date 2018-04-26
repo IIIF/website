@@ -69,7 +69,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * [Mirador Symposium][mirador-symposium] (Stanford University), May 2017
 * [2+3D Photography - Practice and Prophecies 2017][23d] (Rijksmuseum, Amsterdam), May 2017
 * [52nd International Congress on Medieval Studies at Kalamazoo][kalamazoo], May 2017
-* [Texas Conference on Digital Libraries][tcdl], May 2017
+* Texas Conference on Digital Libraries, May 2017
 * [Leeds International Medieval Congress][leeds], July 2017
 
 

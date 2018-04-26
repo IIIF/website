@@ -2,6 +2,7 @@
 title: "2018 IIIF Conference - Washington, DC"
 layout: washington
 tags: [event ]
+page: overview
 ---
 
 The 2018 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held May 21-25 in Washington, DC, co-hosted by the Library of Congress, the Smithsonian Institution, and the Folger Shakespeare Library.
@@ -34,18 +35,18 @@ The 2018 conference is generously supported and sponsored by the following:
  * [Digital Library Cloud Services][digirati]
  * [Quartex][Quartex]
 
-If you are interested in sponsoring the 2018 IIIF Conference, please see the [sponsorship opportunities][sponsor] and get in touch with admin@iiif.io by the **13th of April 2018**..
+If you are interested in sponsoring the 2018 IIIF Conference, please see the [sponsorship opportunities][sponsor] and get in touch with admin@iiif.io as soon as possible.
 
 ## Conference Overview
 The conference will be made up of lightning talks, presentations and discussion sessions. There is also optional pre-conference Workshops on Monday. The general schedule will be as follows:
 
 * Monday May 21st - [**Pre Conference workshops** hosted by the Smithsonian Institution][workshops] - **Program now Available**
-* Tuesday May 22nd - **IIIF Showcase** hosted by the Library of Congress - this will require a separate free registration [available here][showcase-eventbrite].
-* Wednesday May 23rd - **IIIF Conference plenary** hosted by the Library of Congress and a conference reception at the Smithsonian Castle.
-* Thursday May 24th - **IIIF Conference parallel sessions** hosted by the Library of Congress
-* Friday May 25th - **IIIF Conference parallel sessions** hosted by the Library of Congress
+* Tuesday May 22nd - [**IIIF Showcase** hosted by the Library of Congress][tuesday] - this will require a separate free registration [available here][showcase-eventbrite].
+* Wednesday May 23rd - [**IIIF Conference plenary** hosted by the Library of Congress and a conference reception at the Smithsonian Castle.][wednesday]
+* Thursday May 24th - [**IIIF Conference parallel sessions** hosted by the Library of Congress][thursday]
+* Friday May 25th - [**IIIF Conference parallel sessions** hosted by the Library of Congress][friday]
 
-Please see the list of [accepted presentations][program].
+Please also see the full list of [accepted presentations][program].
 
 ## Logistics
 
@@ -63,9 +64,7 @@ Please see the list of [accepted presentations][program].
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif or @iiif_io
 
-### Schedule
-
-Schedule information and additional details will be made available as soon as possible. Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
@@ -76,6 +75,10 @@ Schedule information and additional details will be made available as soon as po
 [sponsor]: {{ site.url }}{{ site.baseurl }}/event/2018/washington-sponsors
 [hotels]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-hotels
 [workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
+[tuesday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/tuesday/
+[wednesday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/wednesday/
+[thursday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/thursday/
+[friday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/friday/
 [program]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/program/
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-washington-showcase-tickets-44860722629

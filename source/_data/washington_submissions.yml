@@ -2806,7 +2806,7 @@
   topic:
   - IIIF APIs
   - Technical Discussion
-  type: 60/90 minute discussion
+  type: 90 minute discussion
 - abstract: "The IIIF Discovery group wishes to publish an alpha version of a harvesting and\
   \ crawling specification to seek wider implementation and feedback.  This session will walk\
   \ through the proposed API in order to inform the community and get its approval to move\
@@ -2857,4 +2857,36 @@
   topic:
   - IIIF APIs
   - Technical Discussion
+  type: 60/90 minute discussion
+- abstract: "Newspaper Community Group"
+  authors:
+  - country: International
+    firstname: IIIF
+    lastname: Newspaper Community Group
+    organization: IIIF
+    web_page: http://iiif.io/community/groups/newspapers/
+  decision: ACCEPT
+  id: Paper 103
+  index: 103
+  keywords:
+  - Newspapers
+  submission_title: Newspaper Community Group
+  topic:
+  - IIIF content communities (museums, manuscripts, newspapers, archival content, etc.)
+  type: 60/90 minute discussion
+- abstract: "Manuscript Community Group"
+  authors:
+  - country: International
+    firstname: IIIF
+    lastname: Manuscript Community Group
+    organization: IIIF
+    web_page: http://iiif.io/community/groups/manuscripts/
+  decision: ACCEPT
+  id: Paper 104
+  index: 104
+  keywords:
+  - Manuscripts
+  submission_title: Manuscript Community Group
+  topic:
+  - IIIF content communities (museums, manuscripts, newspapers, archival content, etc.)
   type: 60/90 minute discussion
