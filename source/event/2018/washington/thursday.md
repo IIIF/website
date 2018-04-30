@@ -30,7 +30,7 @@ This is the agenda for Thursday the 24th of May, the second full day of the conf
 
         {% include washington_slot_row.html span='6' time='10:30am - 11:00pm' title='<b>Break - coffee and tea provided</b>' %}
 
-        {% include washington_slot_row.html rowspan='3' time='11:00am - 12:30pm' track1='Paper 47,Paper 32' track2='Paper 61,Paper 52,Paper 62' track3='Paper 101,,Paper 37'%}<!-- Terry presenting in two rooms... -->
+        {% include washington_slot_row.html rowspan='3' time='11:00am - 12:30pm' track1='Paper 47,Paper 32' track2='Paper 61,Paper 52,Paper 62' track3='Paper 101,,Paper 37'%}
 
         {% include washington_slot_row.html span='6' time='12:30pm - 14:00pm' title='<b>Lunch (on your own)</b>' %}
 
@@ -38,7 +38,7 @@ This is the agenda for Thursday the 24th of May, the second full day of the conf
 
         {% include washington_slot_row.html span='6' time='3:30pm - 4:00pm' title='<b>Break - coffee and tea provided</b>' %}
 
-        {% include washington_slot_row.html rowspan='3' time='4:00pm - 5:30pm' track1='Paper 53,Paper 35' track2='Paper 16,Paper 15,Paper 34' track3='Paper 2,Paper 8'%}
+        {% include washington_slot_row.html rowspan='3' time='4:00pm - 5:30pm' track1='Paper 53,Paper 35' track2='Paper 16,Paper 15,Paper 34' track3='Paper 8'%}
   </tbody>
 </table>
 
