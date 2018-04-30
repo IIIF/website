@@ -38,7 +38,7 @@ This is the agenda for Thursday the 24th of May, the second full day of the conf
 
         {% include washington_slot_row.html span='6' time='3:30pm - 4:00pm' title='<b>Break - coffee and tea provided</b>' %}
 
-        {% include washington_slot_row.html rowspan='3' time='4:00pm - 5:30pm' track1='Paper 53,Paper 35' track2='Paper 16,Paper 15,Paper 34' track3='Paper 8'%}
+        {% include washington_slot_row.html rowspan='3' time='4:00pm - 5:30pm' track1='Paper 53,Paper 35' track2='Paper 16,Paper 15,Paper 34' track3='Paper 8,, '%}
   </tbody>
 </table>
 
