@@ -94,7 +94,7 @@ redirect_from:
 
 ## Multatuli
 
-[http://www.eetkaffee-multatuli.be/contact](http://www.eetkaffee-multatuli.be/contact)
+[http://www.eetkaffee-multatuli.be/contact]
 
 * Huidevetterskaai 40
   9000 Gent

@@ -2858,8 +2858,8 @@
   - IIIF APIs
   - Technical Discussion
   type: 60 minute discussion
-- abstract: "<p>This is a discussion session around Newspapers and how they can be modelled in IIIF. Over the last year the Newspaper group has focused on\
-        \ increasing adoption and also starting a OCR correction project. This meeting will discuss a range of topics including:</p>\
+- abstract: "This is a discussion session around Newspapers and how they can be modelled in IIIF. Over the last year the Newspaper group has focused on\
+        \ increasing adoption and also starting a OCR correction project. This meeting will discuss a range of topics including:\
         \ <ul>\
         \ <li>Review of the last years Newspaper Developments</li>\
         \ <li>Discussion on the Newspaper group's OCR correction project</li>\
@@ -2867,7 +2867,7 @@
         \ <li>Discussion on Vendor support</li>\
         \ <li>Discussion on article segmentation, how do people do it?</li>\
         \ </ul>\
-        \ <p>Come join us if you are interested in Newspapers and IIIF!</p>"
+        \ Come join us if you are interested in Newspapers and IIIF!<p>"
   authors:
   - country: International
     firstname: IIIF
@@ -2883,20 +2883,19 @@
   topic:
   - IIIF content communities (museums, manuscripts, newspapers, archival content, etc.)
   type: 60 minute discussion
-- abstract: "<p>This hour-long session devoted to manuscripts and IIIF will focus on five key\
+- abstract: "This hour-long session devoted to manuscripts and IIIF will focus on five key\
             \ areas that we expect to focus on in the year ahead:\
             \ <ul>\
             \ <li>manifest metadata best practices (led by Dot Porter)</li>\
-            \ <ul>\
+            \ <li><ul>\
             \ <li>Four Initiative Areas (led by Jeff Witt and Ben Albritton):</li>\
             \ <li>Webinar (manuscripts-specific)</li>\
             \ <li>Informational pages (for the IIIF website)</li>\
             \ <li>Mentorship (to encourage more uptake in the broader manuscripts community)</li>\
             \ <li>Conference funding (particularly to increase IIIF participation at key events)</li>\
+            \ </ul></li>\
             \ </ul>\
-            \ </ul>\
-
-The hour will be structured as a series of  brief presentation of concrete proposals in each of these areas, followed by discussion, with the goal of ratifying a plan of action for the manuscripts community for the coming year."
+            \ The hour will be structured as a series of  brief presentation of concrete proposals in each of these areas, followed by discussion, with the goal of ratifying a plan of action for the manuscripts community for the coming year.<p>"
   authors:
   - country: International
     firstname: IIIF
@@ -2944,13 +2943,13 @@ The hour will be structured as a series of  brief presentation of concrete propo
             \ <li>Delivering very high resolution images on low bandwidth networks</li>\
             \ <li>Providing access to many internal and external collections</li>\
             \ <li>Searching across collections together while maintaining their own specific metadata standards</li>\
-            \ <ul>\
+            \ </ul>\
             \ <p>These needs are still core to LUNA. With the introduction of IIIF we see\
             \ an expansion and a opportunity to realize a long sought ability to truly\
             \ share content. For too long disparate systems have by their nature created\
             \ walled gardens of image content. We see IIIF as a way to take down some of these barriers.</p>\
             \ <p>We want to share some of the benefits we are seeing by integrating IIIF into our LUNA software.\
-            \ At Luna, we make it easy to build, share and maintain collections.</p>"
+            \ At Luna, we make it easy to build, share and maintain collections.</p><p>"
   authors:
   - country: United States
     firstname: Drake
@@ -2971,7 +2970,7 @@ The hour will be structured as a series of  brief presentation of concrete propo
     \ the overhead and help align staff across responsibilities. Image sourcing across multiple repositories,\
     \ dynamic derivative creation, versioned and figure-level cropping for digital scholarly publishing, archival\
     \ image presentation of complex multi-page objects, and more, are all possible with IIIF. Use cases and a range\
-    \ of IIIF-assisted solutions will be presented to help you reimagine how IIIF can affect your institution – inside and out.</p>"
+    \ of IIIF-assisted solutions will be presented to help you reimagine how IIIF can affect your institution – inside and out.</p><p>"
   authors:
    - country: United States
      firstname: Kate
@@ -2995,7 +2994,7 @@ The hour will be structured as a series of  brief presentation of concrete propo
   \ has unlocked tens of millions of images from thousands of sites all over the\
   \ world. Hear about the impact this is having on the CONTENTdm community and their\
   \ initial innovations with IIIF, find out what OCLC’s been doing to expand IIIF API’s\
-  \ and further community awareness and use of them. </p>"
+  \ and further community awareness and use of them. </p><p>"
   authors:
   - country: United States
     firstname: Taylor
@@ -3026,7 +3025,7 @@ The hour will be structured as a series of  brief presentation of concrete propo
     \ <li>Is this a matter of simply defining 'props' and 'actions' or is there more?</li>\
     \ <li>Do we need to be using 'Atomic Design' or similar Design System approaches?</li>\
     \ </ul>\
-    \ <p>What does 'component utopia' look like, and what do we want to achieve by this time next year?</p>"
+    \ <p>What does 'component utopia' look like, and what do we want to achieve by this time next year?</p><p>"
   authors:
   - country: United States
     firstname: Shaun
