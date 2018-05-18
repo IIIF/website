@@ -57,7 +57,14 @@ Please also see the full list of [accepted presentations][program].
    * $145.00 for [IIIF Consortium members][consortium]
    * $295.00 for non members
 * Capacity: 400
-* Code of Conduct: The IIIF [Code of Conduct][conduct] applies
+* Code of Conduct: The IIIF [Code of Conduct][conduct] applies to the conference. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their blue and white striped badge lanyards and can be contacted individually:
+   * Mark Matienzo (Conduct and Safety Team coordinator) - +1 650 683 5769, [matienzo@stanford.edu][matienzo], or @anarchivist (Twitter and IIIF Slack)
+   * Glen Robson (IIIF Technical Coordinator) - [glen.robson@iiif.io][glen], @glenrobson (Twitter), @glen.robson (IIIF Slack)
+   * Karen Estlund - [kestlund@gmail.com][kestlund], @estlundkm (Twitter), @kestlund (IIIF Slack)
+   * Katherine Lynch - [katherly@upenn.edu][klynch]
+   * Julien Raemy - [julien.raemy@hesge.ch][raemy], @julsraemy (Twitter and IIIF Slack)
+   * Jack Reed - [pjreed@stanford.edu][reed], @mejackreed (Twitter and IIIF Slack)
+   * Emma Stanford - [emmastanfordx@gmail.com][estanford], @e_stanf (Twitter), @emmastanford (IIIF Slack)
 * Social Media: Tweets about the event should use #iiif or @iiif_io
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
@@ -86,3 +93,11 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 [Quartex]: http://www.quartexcollections.com/
 [lyrasis]: http://www.lyrasis.org
 [Picturae]: http://www.picturae.com/
+[conduct-list]: mailto:iiif-conduct@googlegroups.com
+[matienzo]: mailto:matienzo@stanford.edu
+[glen]: mailto:glen.robson@iiif.io
+[kestlund]: mailto:kestlund@gmail.com
+[klynch]: mailto:katherly@upenn.edu
+[raemy]: mailto:julien.raemy@hesge.ch
+[reed]: mailto:pjreed@stanford.edu
+[estanford]: mailto:emmastanfordx@gmail.com
