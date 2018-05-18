@@ -7,12 +7,6 @@ page: overview
 
 The 2018 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held May 21-25 in Washington, DC, co-hosted by the Library of Congress, the Smithsonian Institution, and the Folger Shakespeare Library.
 
-{: style="text-align:center"}
-***[Conference Registration is now available!][washington-registration]***
-
-{: style="text-align:center"}
-***[Showcase Registration is now available!][showcase-eventbrite]***
-
 ## What is IIIF?
 Embraced by a growing number of the world’s leading research and cultural heritage organizations, IIIF provides an open framework for organizations to publish their image-based resources, to be viewed, cited, annotated and compared by any compatible image-viewing application.
 
@@ -43,7 +37,7 @@ If you are interested in sponsoring the 2018 IIIF Conference, please see the [sp
 The conference will be made up of lightning talks, presentations and discussion sessions. There is also optional pre-conference Workshops on Monday. The general schedule will be as follows:
 
 * Monday May 21st - [**Pre Conference workshops** hosted by the Smithsonian Institution][workshops] - **Program now Available**
-* Tuesday May 22nd - [**IIIF Showcase** hosted by the Library of Congress][tuesday] - this will require a separate free registration [available here][showcase-eventbrite].
+* Tuesday May 22nd - [**IIIF Showcase** hosted by the Library of Congress][tuesday] - this requires a separate registration.
 * Wednesday May 23rd - [**IIIF Conference plenary** hosted by the Library of Congress and a conference reception at the Smithsonian Castle.][wednesday]
 * Thursday May 24th - [**IIIF Conference parallel sessions** hosted by the Library of Congress][thursday]
 * Friday May 25th - [**IIIF Conference parallel sessions** hosted by the Library of Congress][friday]
@@ -53,8 +47,8 @@ Please also see the full list of [accepted presentations][program].
 ## Logistics
 
 * Registration: there are two registrtions required; one for the Conference and Pre-conference workshops and one for the Showcase. Entry for both closes on the **4th of May**:
-  * **[Conference and pre-conference workshops registration][washington-registration]**
-  * **[Showcase registration][showcase-eventbrite]**
+  * **[Conference and pre-conference workshops registration][washington-registration]** - now closed.
+  * **[Showcase registration][showcase-eventbrite]** - now closed.
 * List of [Hotels][hotels]
 * Call for Proposals: is **now closed**.
 * Dates: May 21-25, 2018

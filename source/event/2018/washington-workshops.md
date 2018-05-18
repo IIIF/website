@@ -16,9 +16,9 @@ The program for the workshops is as follows:
   <thead>
     <tr>
       <th>Time</th>
-      <th>Workshop 1</th>
-      <th>Workshop 2</th>
-      <th>Workshop 3</th>
+      <th>Ripley Lecture Hall</th>
+      <th>Room 3035</th>
+      <th>Room 3037 (A/B)</th>
     </tr>
   </thead>
   <tbody>
@@ -35,7 +35,7 @@ The program for the workshops is as follows:
     <tr>
         <td>11:30 - 12:30</td>
         <td><a href="#mirador-showcase-and-demos">Mirador showcase and demos</a></td>
-        <td>&nbsp;</td>
+        <td>Mirador Breakout</td>
         <td><a href="#train-the-trainer-and-iiif-awesome">Train the trainer and IIIF Awesome</a></td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ The program for the workshops is as follows:
         <td>4:00 - 5:00</td>
         <td><a href="#universal-viewer-showcase-and-discussions">Universal Viewer showcase and discussions</a></td>
         <td><a href="#iiif-and-annotations">IIIF and Annotations</a></td>
-        <td>&nbsp;</td>
+        <td>UV Breakout</td>
     </tr>
   </tbody>
 </table>
@@ -82,15 +82,22 @@ Tea and coffee will be provided but lunch will not be.
 </script>
 
 # **IIIF and Scientific Images**
+## **Heritage Scientific Data Layers in IIIF Workshop**
+This would be a workshop to be held on the Monday the 21st of May to introduce the potential of including additional imaging, and scientific analytical data layers and annotations into IIIF images in Mirado. This would be for people who are new to IIIF and interested in both humanities and scientific data as it pertains to cultural heritage documents and objects. It would be a showcase of the Mirador functionality for this application, the challenges and the potential developments for other scientific data applications.
 
-This would be a workshop to be held on the Monday the 21st of May to introduce the potential of including additional imaging, and scientific analytical data layers and annotations into IIIF images in Mirador. This would be for people who are new to IIIF and interested in both humanities and scientific data as it pertains to cultural heritage documents and objects. It would be a showcase of the Mirador functionality for this application, the challenges and the potential developments for other scientific data applications.
+ * Lead: Fenella France and Meghan Wilson
+ * Others:
+ * Duration: 9:45 - 11:00
+ * Location: Room 3035
+ * Intended Audience: People who are new to Mirador and IIIF and the potential of integrated heritage scientific data to expand the static object color image, and who are interested in learning more.
 
-* Lead: Fenella France and Meghan Wilson <br/>
-* Others: <br/>
-* Duration: TBC - 9:45 - 11:00 <br/>
-* Intended Audience: People who are new to Mirador and IIIF and the potential of integrated heritage scientific data to expand the static object color image, and who are interested in learning more. <br/>
+An introduction to the types of scientific data that can be included as layers and annotations in IIIF compliant images
 
-An introduction to the types of scientific data that can be included as layers and annotations in IIIF compliant images. Topics include:
+Topics include:
+
+ * Spectral Imaging and data as layers
+ * Data as annotations
+ * Challenges, lessons learned, future developments
 
 # **Train the trainer and IIIF Awesome**
 
@@ -99,6 +106,7 @@ The community has been making a more concerted effort to grow adoption of IIIF a
 * Lead: Jason Ronallo
 * Others:
 * Duration: 9:45 - 12:30 with 30 minute break.
+* Location: Room 3037 (A/B)
 * Intended Audience:
 
 This session will begin with short presentations by those who have experience teaching different aspects of IIIF to various audiences. Following will be a facilitated discussion with all those in attendance with the aim of improving our understanding of how to best teach IIIF and advance our instructional goals. We will explore what still needs to be done to better promote IIIF through workshop events and training materials.
@@ -124,6 +132,7 @@ This is a workshop to introduce Mirador to people who are new to IIIF and new to
 * Lead: Ben Albritton
 * Others:
 * Duration:  11:30 - 12:30
+* Location: Ripley Lecture Hall
 * Intended Audience: People who are new to Mirador and/or IIIF who are interested in learning more.
 
 Topics include:
@@ -161,6 +170,7 @@ This workshop will give a showcase of how people are using the UV and then go on
 * Lead: Tom Crane and Ed Silverton
 * Others:
 * Duration:  2:00 - 5:00
+* Location: Ripley Lecture Hall
 * Intended Audience: People who are new to the Universal Viewer and/or IIIF who are interested in learning more.
 
 **Showcase**
@@ -176,6 +186,7 @@ Annotations are an exciting part of IIIF and allow things like transcriptions, O
 * Lead: Matt McGrattan
 * Others:
 * Duration:  2:00 - 5:00
+* Location: Room 3035
 * Intended Audience: People who are interested in learning more about how to create annotations and in particular how to setup an annotation store.
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>

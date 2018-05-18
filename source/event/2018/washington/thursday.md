@@ -11,9 +11,9 @@ This is the agenda for Thursday the 24th of May, the second full day of the conf
   <thead>
     <tr>
       <th></th>
-      <th colspan="2">Track 1</th>
-      <th colspan="2">Track 2</th>
-      <th colspan="2">Track 3</th>
+      <th colspan="2">Track 1 - Dining Room A</th>
+      <th colspan="2">Track 2 - Montpelier</th>
+      <th colspan="2">Track 3 - Mumford</th>
      </tr>
     <tr>
       <th>Time</th>
@@ -32,13 +32,13 @@ This is the agenda for Thursday the 24th of May, the second full day of the conf
 
         {% include washington_slot_row.html rowspan='3' time='11:00am - 12:30pm' track1='Paper 47,Paper 32' track2='Paper 61,Paper 52,Paper 62' track3='Paper 101,,Paper 37'%}
 
-        {% include washington_slot_row.html span='6' time='12:30pm - 14:00pm' title='<b>Lunch (on your own)</b>' %}
+        {% include washington_slot_row.html span='6' time='12:30pm - 2:00pm' title='<b>Lunch (on your own)</b>' %}
 
         {% include washington_slot_row.html rowspan='3' time='2:00pm - 3:30pm' track1='Paper 49,Paper 58' track2='Paper 1,Paper 57,Paper 9' track3='Paper 100'%}
 
         {% include washington_slot_row.html span='6' time='3:30pm - 4:00pm' title='<b>Break - coffee and tea provided</b>' %}
 
-        {% include washington_slot_row.html rowspan='3' time='4:00pm - 5:30pm' track1='Paper 53,Paper 35' track2='Paper 16,Paper 15,Paper 34' track3='Paper 8,, '%}
+        {% include washington_slot_row.html rowspan='3' time='4:00pm - 5:30pm' track1='Paper 53,Paper 35' track2='Paper 16,Paper 15,Paper 34' track3='Paper 109,Paper 8'%}
   </tbody>
 </table>
 

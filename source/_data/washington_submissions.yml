@@ -74,7 +74,7 @@
   - IIIF synergies with regional and national ongoing digital libraries, museums and
     archives initiatives
   - Discovery of IIIF resources
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            This lightning talk will illustrate several examples from
     the last year in which the Princeton University Art Museum has used IIIF APIs
     and IIIF-adjacent technologies and viewers (Image API, Presentation API, Mirador)
@@ -110,7 +110,7 @@
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            IIIF software development and discussion has focused on the\
     \ \u201Cviewer\u201D as the primary mode of interaction with IIIF content. This\
     \ talk pushes that boundary by using IIIF content in new ways. Discussion will\
@@ -134,7 +134,7 @@
   submission_title: Going beyond the viewer
   topic:
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            The automated generation of IIIF manifests is relatively
     simple for objects with single images, but for paged material the lack of detailed
     structure in the catalogue record prevents us easily creating manifests with the
@@ -171,7 +171,7 @@
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            Four major German libraries have received a grant from the\
     \ German Research Foundation (DFG) to develop a new national web portal for manuscript\
     \ codices dating from the Middle Ages and modern times. Besides the Berlin state\
@@ -211,7 +211,7 @@
   - IIIF enabled collaboration
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            The Avalon Media System is an open source system for managing
     and providing access to large collections of digital audio and video. The project
     team has embraced the IIIF Presentation 3.0 emerging specs and has a first version
@@ -347,7 +347,7 @@
     through IIIF, web annotations, and generous interfaces.'
   topic:
   - IIIF and archival collections
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 10 minute lightning talk
 - abstract: '            CanvasPanel is a user interface component that fills a space
     between deep zoom renderers like OpenSeadragon and Leaflet, and Manifest viewers
     like the Universal Viewer and Mirador. It can be reused in very simple IIIF applications
@@ -379,7 +379,7 @@
   - IIIF enabled collaboration
   - Audio/Video IIIF implementations
   - Emerging use cases for IIIF technical specifications
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            We use the family of IIIF specifications to publish structured\
     \ digital objects on the web. This means we can show objects to site visitors\
     \ using a IIIF viewer, and our visitors can open our objects in other viewers\
@@ -544,7 +544,7 @@
   topic:
   - Discovery of IIIF resources
   - Emerging use cases for IIIF technical specifications
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: "            The field of heritage science is truly multidisciplinary,\
     \ with collaborations and scientific data being captured from diverse fields such\
     \ as; materials science, archaeology, botany, biology, engineering, physics and\
@@ -671,7 +671,7 @@
     etc.)
   - Emerging use cases for IIIF technical specifications
   - IIIF-compatible software and experimentation
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: "            In this presentation, we describe utilities of IIIF contents\
     \ published in the field of Buddhist studies based on our use cases which has\
     \ been released recently or being developed now.             <br/>  <br/>    \
@@ -822,7 +822,7 @@
   topic:
   - IIIF synergies with regional and national ongoing digital libraries, museums and
     archives initiatives
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            The National Library of Wales (NLW) is one of the UK\u2019\
     s five legal deposit Libraries and was one of the early adopters of the IIIF standards.\
     \  It has undertaken a number of ambitious projects which have led to millions\
@@ -863,7 +863,7 @@
   topic:
   - IIIF and archival collections
   - Discovery of IIIF resources
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            JPEG2000 is widely used as a delivery format for IIIF servers
     due to its intelligent decompression, and lossless compression makes it possible
     to use the same file as a long-term preservation format. However, digitisation
@@ -1114,7 +1114,7 @@
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            IIIF adoption opens incredible possibilities for new experiences
     with digitized collections from the GLAM community. Those possibilities are only
     matched by the sometimes daunting decisions and tasks surrounding development
@@ -1164,7 +1164,7 @@
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
   - Emerging use cases for IIIF technical specifications
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: "            \u2018Reformation to Restoration\u2019 is a research project\
     \ at the Yale Center for British Art which investigates the production of art\
     \ in Britain in the early modern period. For many years this has been an unfashionable\
@@ -1292,7 +1292,7 @@
   topic:
   - Emerging use cases for IIIF technical specifications
   - IIIF-compatible software and experimentation
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: "            In 2016, Jeffrey Witt and Rafael Schwemmer presented a possible\
     \ solution to the IIIF conference             <br/>             which suggested\
     \ a standard service block attached to Manifest objects that provided a venue\
@@ -1461,7 +1461,7 @@
     etc.)
   - Emerging use cases for IIIF technical specifications
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            See how we use IIIF and Open Annotation standards, Natural
     Language Processing, community-sourced tags and annotations, and generous interfaces
     to render effectively accessible evidence, stories, and events in the mountains
@@ -1515,7 +1515,7 @@
   - Discovery of IIIF resources
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 15 minute Showcase presentation.
 - abstract: "            One of the great challenges for a center that builds digital\
     \ tools are the base costs of developing any project from the front to back end.\
     \ Building unique silos is not only scholarly self-defeating but financially wasteful.\
@@ -1571,7 +1571,7 @@
     etc.)
   - IIIF-compatible software and experimentation
   - Training materials and documentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            Although it isn''t a national library, nor is it located
     on a major university''s campus, the Folger Shakespeare Library joined the IIIF
     Consortium as a founding member because it sees the benefits of community participation
@@ -1609,7 +1609,7 @@
   topic:
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            IIIF implementation at the Folger Shakespeare Library has\
     \ provided the opportunity to present our diverse digital holdings to a wide range\
     \ of users, from die-hard Shakespeare fans and students just discovering the Bard\
@@ -1765,7 +1765,7 @@
   topic:
   - Discovery of IIIF resources
   - Emerging use cases for IIIF technical specifications
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            The International Image Interoperability Framework (IIIF)
     Presentation API creates an opportunity to present repository content in innovative
     ways.  It is possible to present multiple digital objects to a user in context
@@ -1864,7 +1864,7 @@
   topic:
   - IIIF enabled collaboration
   - Discovery of IIIF resources
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            Princeton has designed our repository ecosystem around IIIF,
     with our Samvera/Valkyrie repository (Figgy) at the center providing IIIF manifests
     that drive viewers embedded in other applications, such as our library catalog
@@ -1962,7 +1962,7 @@
   submission_title: Introduction to Kyoto University Rare Materials Digital Archive
   topic:
   - IIIF implementations from outside Europe and North America
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            This talk will explain the various IIIF-compatabile tools
     developed at the University of Toronto - Omeka + IIIF work, Viscoll and IIIF To
     Go - and their application to research and classroom settings.             <br/>  <br/>             We
@@ -1989,7 +1989,7 @@
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            This paper discusses the \u201Cutility\u201D and possibilities\
     \ that IIIF offers for the automated image analysis of medieval manuscripts. It\
     \ presents several challenges (image analysis, data formats interoperability,\
@@ -2176,7 +2176,7 @@
   - IIIF synergies with regional and national ongoing digital libraries, museums and
     archives initiatives
   - IIIF-compatible software and experimentation
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: '            Access to primary sources of law has been identified by advocates
     of open data as a fundamental right of citizens of a free society. Unfortunately,
     realizing that vision remains a largely unmet goal. Some remaining barriers include:
@@ -2345,7 +2345,7 @@
   - Discovery of IIIF resources
   - IIIF-compatible software and experimentation
   - Training materials and documentation
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: "            I\u2019d like to propose a presentation for the upcoming\
     \ IIIF Conference centred on the rebuilding and relaunch of the Parker Library\
     \ on the Web (hereafter referred to as Parker 2.0). Originally launched in 2008\
@@ -2455,7 +2455,7 @@
   - IIIF content communities (museums, manuscripts, newspapers, archival content,
     etc.)
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            Can a rogue exhibition be interoperable and sustainable?\
     \ In this lightning talk, I'll present Wax, a set of experiments and workflows\
     \ that affirm this possibility by enabling novel, minimal IIIF sites that are\
@@ -2489,7 +2489,7 @@
   - IIIF and archival collections
   - IIIF implementations from outside Europe and North America
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: "            The Text Encoding Initiative (TEI) is a mature standard for\
     \ representing text as XML, with widespread adoption in scholarly editing and\
     \ digital humanities communities.  Since many texts encoded in TEI represent transcriptions\
@@ -2684,7 +2684,7 @@
   submission_title: Visualizing which parts of IIIF images are looked by users
   topic:
   - IIIF-compatible software and experimentation
-  type: 7 to 10 minute lightning talks to be given in a plenary session
+  type: 7 minute lightning talk to be given in a plenary session
 - abstract: '            The Museums Community Group will gather to reflect on the
     community''s progress over the past year and plan for the future.  Discussion
     topics will include:             <br/>  <br/>             - experiences of new
@@ -2727,7 +2727,7 @@
     etc.)
   - Emerging use cases for IIIF technical specifications
   - IIIF-compatible software and experimentation
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: "            How can the library community best promote large-scale access\
     \ to heterogeneous digital records such as the materials found in organizational\
     \ and personal archives? As a springboard to answering that question, this presentation\
@@ -2832,7 +2832,7 @@
   - IIIF APIs
   - Technical Discussion
   - Discovery of IIIF Resources
-  type: 60/90 minute discussion
+  type: 60 minute discussion
 - abstract: "As the IIIF Community continues to expand and experiment, we need a\
   \ robust and fair method to advertise the existence of extensions to the\
   \ specifications. These extensions can add important functionality for specific\
@@ -2857,8 +2857,17 @@
   topic:
   - IIIF APIs
   - Technical Discussion
-  type: 60/90 minute discussion
-- abstract: "Newspaper Community Group"
+  type: 60 minute discussion
+- abstract: "This is a discussion session around Newspapers and how they can be modelled in IIIF. Over the last year the Newspaper group has focused on\
+        \ increasing adoption and also starting a OCR correction project. This meeting will discuss a range of topics including:\
+        \ <ul>\
+        \ <li>Review of the last years Newspaper Developments</li>\
+        \ <li>Discussion on the Newspaper group's OCR correction project</li>\
+        \ <li>Updating the Newspaper guidance documents to fit with Presentation 3.0</li>\
+        \ <li>Discussion on Vendor support</li>\
+        \ <li>Discussion on article segmentation, how do people do it?</li>\
+        \ </ul>\
+        \ Come join us if you are interested in Newspapers and IIIF!<p>"
   authors:
   - country: International
     firstname: IIIF
@@ -2873,8 +2882,20 @@
   submission_title: Newspaper Community Group
   topic:
   - IIIF content communities (museums, manuscripts, newspapers, archival content, etc.)
-  type: 60/90 minute discussion
-- abstract: "Manuscript Community Group"
+  type: 60 minute discussion
+- abstract: "This hour-long session devoted to manuscripts and IIIF will focus on five key\
+            \ areas that we expect to focus on in the year ahead:\
+            \ <ul>\
+            \ <li>manifest metadata best practices (led by Dot Porter)</li>\
+            \ <li><ul>\
+            \ <li>Four Initiative Areas (led by Jeff Witt and Ben Albritton):</li>\
+            \ <li>Webinar (manuscripts-specific)</li>\
+            \ <li>Informational pages (for the IIIF website)</li>\
+            \ <li>Mentorship (to encourage more uptake in the broader manuscripts community)</li>\
+            \ <li>Conference funding (particularly to increase IIIF participation at key events)</li>\
+            \ </ul></li>\
+            \ </ul>\
+            \ The hour will be structured as a series of  brief presentation of concrete proposals in each of these areas, followed by discussion, with the goal of ratifying a plan of action for the manuscripts community for the coming year.<p>"
   authors:
   - country: International
     firstname: IIIF
@@ -2889,4 +2910,135 @@
   submission_title: Manuscript Community Group
   topic:
   - IIIF content communities (museums, manuscripts, newspapers, archival content, etc.)
-  type: 60/90 minute discussion
+  type: 60 minute discussion
+- abstract: "'Simply the finest crowdsourcing manuscript transcription software on the planet' used by institutions as\
+  \ diverse as the Stanford Archive, the Indianapolis Public Library, the Berkeley Museum of Vertebrate Zoology and\
+  \ many individual scholars to collaborative transcribe, translate, and annotate handwritten or hard to OCR documents.\
+  \ <br/>\
+  \ IIIF makes it easy to import images into FromThePage and start a transcription project in minutes.  I'll demonstrate\
+  \ starting a project by importing a IIIF manifest, transcribing the document, and FromThePage's collaborative features\
+  \ that make working with volunteers, collaborators and students easy and fun.  Finally, I'll show how the FromThePage\
+  \ IIIF based API lets you 'roundtrip' user contributions back into your digital asset management system."
+  authors:
+  - country: United States
+    firstname: Sara
+    lastname: Brumfield
+    organization: Brumfield Labs, LLC
+    web_page: https://brumfieldlabs.com/
+  decision: ACCEPT
+  id: Paper 105
+  index: 105
+  keywords:
+  - Archives
+  - Crowd-sourcing
+  submission_title: FromThePage Crowdsourcing Platform
+  topic:
+  - IIIF and archival collections
+  type: 10 minute lightning talk
+- abstract: "<p>As one of very few commercial vendors working in a space dominated by non-profit and\
+            \ open source and highly skilled institutional developers. Luna Imaging has always been\
+            \ focused on what brings the most value to our clients data driven image and media collections.\
+            \ In the past it was:</p> \
+            \ <ul>\
+            \ <li>Delivering very high resolution images on low bandwidth networks</li>\
+            \ <li>Providing access to many internal and external collections</li>\
+            \ <li>Searching across collections together while maintaining their own specific metadata standards</li>\
+            \ </ul>\
+            \ <p>These needs are still core to LUNA. With the introduction of IIIF we see\
+            \ an expansion and a opportunity to realize a long sought ability to truly\
+            \ share content. For too long disparate systems have by their nature created\
+            \ walled gardens of image content. We see IIIF as a way to take down some of these barriers.</p>\
+            \ <p>We want to share some of the benefits we are seeing by integrating IIIF into our LUNA software.\
+            \ At Luna, we make it easy to build, share and maintain collections.</p><p>"
+  authors:
+  - country: United States
+    firstname: Drake
+    lastname: Zabriskie
+    organization: Luna Imaging Inc
+    web_page: http://www.lunaimaging.com/
+  decision: ACCEPT
+  id: Paper 106
+  index: 106
+  keywords:
+  submission_title: The value of adding IIIF to LUNA's software
+  topic:
+  type: 10 minute lightning talk
+- abstract: "<p>It's not just about the deep zoom! IIIF can play a role in many image processing and\
+    \ content delivery workflows – internal, among institutional partners, and to the public. IIIF capabilities\
+    \ can be successfully integrated into internal (e.g. backend) image management as well as public experience\
+    \ delivery. We believe that unifying image management and publishing/delivery around one platform can lower\
+    \ the overhead and help align staff across responsibilities. Image sourcing across multiple repositories,\
+    \ dynamic derivative creation, versioned and figure-level cropping for digital scholarly publishing, archival\
+    \ image presentation of complex multi-page objects, and more, are all possible with IIIF. Use cases and a range\
+    \ of IIIF-assisted solutions will be presented to help you reimagine how IIIF can affect your institution – inside and out.</p><p>"
+  authors:
+   - country: United States
+     firstname: Kate
+     lastname: Blanch
+     organization: Design For Context
+     web_page: http://www.designforcontext.com/
+   - country: United States
+     firstname: Duane
+     lastname: Degler
+     organization: Design For Context
+     web_page: http://www.designforcontext.com/
+  decision: ACCEPT
+  id: Paper 107
+  index: 107
+  keywords:
+  submission_title: End-to-End Digital Publishing with IIIF
+  topic:
+  type: 7 minute lightning talk to be given in a plenary session
+- abstract: "<p>IIIF opens the door for expanded access and innovative uses\
+  \ for digital special collections. By adding IIIF support to CONTENTdm, OCLC\
+  \ has unlocked tens of millions of images from thousands of sites all over the\
+  \ world. Hear about the impact this is having on the CONTENTdm community and their\
+  \ initial innovations with IIIF, find out what OCLC’s been doing to expand IIIF API’s\
+  \ and further community awareness and use of them. </p><p>"
+  authors:
+  - country: United States
+    firstname: Taylor
+    lastname: Surface
+    organization: OCLC
+    web_page: https://www.oclc.org/en/home.html
+  decision: ACCEPT
+  id: Paper 108
+  index: 108
+  keywords:
+  submission_title: IIIF and OCLC
+  topic:
+  type: 7 minute lightning talk to be given in a plenary session
+- abstract: "<p>Over the past few years, there has been much theoretical discussion around shareable and composable components\
+    \ for building IIIF-friendly user interfaces. While individual projects are now moving towards composability,\
+    \ these components have not proven to be shareable in practice. This session will be a focused technical discussion\
+    \ for developers, implementers, and technical stakeholders around the practicality of shareable components, and some\
+    \ of the issues that still need to be addressed. The session leaders will provide a brief overview (5 minutes) of the\
+    \ 'vision', and some of the challenges we have faced. The rest of the session will consist of a discussion intended to\
+    \ answer the following questions:</p>\
+    \ <ul>\
+    \ <li>What has prevented us from reusing components?</li>\
+    \ <li>Where should the limited resources be spent in building IIIF tools that we can all use?</li>\
+    \ <li>What are the limited resources?</li>\
+    \ <li>What is the thin waist?</li>\
+    \ <li>What components should be reusable and useful to others?</li>\
+    \ <li>How do we define the boundaries between components? </li>\
+    \ <li>Is this a matter of simply defining 'props' and 'actions' or is there more?</li>\
+    \ <li>Do we need to be using 'Atomic Design' or similar Design System approaches?</li>\
+    \ </ul>\
+    \ <p>What does 'component utopia' look like, and what do we want to achieve by this time next year?</p><p>"
+  authors:
+  - country: United States
+    firstname: Shaun
+    lastname: Ellis
+    organization: Princeton University
+  - country: United States
+    firstname: Drew
+    lastname: Winget
+    organization: Stanford University
+  decision: ACCEPT
+  id: Paper 109
+  index: 109
+  keywords:
+  submission_title: Software Development Group - Shared Components
+  topic:
+  type: 30 minute discussion session

@@ -117,7 +117,7 @@ The [IIIF Software Developers group][devs] meets every other week to share their
  * University of Toronto developing Mirador and IIIF import plugins for Omeka ([demo][toronto-demo])
  * KU Leuven using Mirador for several projects, including: Lectio, Alamire, Codex Eyckensis and 8th century evangelarium ([demo][leuven-demo])
  * Stanford University Libraries integration of IIIF and Spotlight, using the Leaflet-IIIF cropping tool ([demo][spotlight-demo])
- * The National Library of Wales and Digirati to begin work on a [crowdsourcing platform for Wales][wales-news], supporting [IIIF and Web Annotations][wales-tech].
+ * The National Library of Wales and Digirati to begin work on a [crowdsourcing platform for Wales][wales-news], supporting IIIF and Web Annotations.
  * University of California, Los Angeles, leveraging IIIF and multispectral imaging for the [Sinai Palimpsests Scholar’s site][sanai]
  * [Harvard Art Museums coin images made available via IIIF at nomisma.org][harvard-coins]
  * [The Polonsky Project and IIIF][polonsky] collaboration between the Bodleian Libraries and the Biblioteca Apostolica Vaticana

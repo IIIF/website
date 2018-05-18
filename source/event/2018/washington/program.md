@@ -8,7 +8,7 @@ Program for the 2018 IIIF Washington conference. This is a list of the accepted 
 
 ## Lightning talks
 
-{% include submission_table.html type='7 to 10 minute lightning talks to be given in a plenary session' %}
+{% include submission_table.html type='7 minute lightning talk to be given in a plenary session' %}
 
 ## Presentations
 
@@ -16,6 +16,6 @@ Program for the 2018 IIIF Washington conference. This is a list of the accepted 
 
 ## Panel and discussion sessions
 
-{% include submission_table.html type='60/90 minute discussion' %}
+{% include submission_table.html type='60 minute discussion' %}
 
 [workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
