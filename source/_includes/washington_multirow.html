@@ -3,7 +3,7 @@
     {% assign submission_list = site.data.washington_submissions | where: "id",paper %}
     {% if submission_list[0] %}
         {% assign submission = submission_list[0] %}
-        {% if submission.type == '60/90 minute discussion'%}
+        {% if submission.type == '60 minute discussion'%}
             {% assign rowspan = 2 %}
         {% elsif submission.type == '90 minute discussion'%}
             {% assign rowspan = 3 %}

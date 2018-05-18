@@ -5,7 +5,7 @@ tags: [event ]
 page: wednesday
 ---
 
-This is the agenda for Wednesday the 23rd of May, the first full day of the conference. To register for the conference please see the [main registration page][washington-registration].
+This is the agenda for Wednesday the 23rd of May, the first full day of the conference. It is located in the Coolidge Auditorium in the Jefferson Building, the Library of Congress.
 
 <table class="api-table">
   <thead>
@@ -17,21 +17,21 @@ This is the agenda for Wednesday the 23rd of May, the first full day of the conf
   </thead>
   <tbody>
         <!-- {% include washington_slot_row.html time='? - ?' title='Possible Keynote - if confirmed this will affect the times below' %} -->
-        {% include washington_slot_row.html time='9:00am - 9:30am' title='Welcome and State of the IIIF Universe' %}
+        {% include washington_slot_row.html time='9:00am - 9:30am' title='Welcome and State of the IIIF Universe' authors='Tom Cramer, Stanford University' %}
         {% include washington_slot_row.html time='9:30am - 10:00am' rowspan='7' title='<b>IIIF Community Group Updates</b>' %}
-        {% include washington_slot_row.html title='IIIF Manuscript Community Group Update' %}
-        {% include washington_slot_row.html title='IIIF Museums Community Group Update' %}
-        {% include washington_slot_row.html title='IIIF Newspapers Community Group Update' %}
-        {% include washington_slot_row.html title='IIIF Software Developers Community Group Update' %}
-        {% include washington_slot_row.html title='IIIF 3D Community Group Update' %}
-        {% include washington_slot_row.html title='IIIF Outreach Community Group Update' %}
+        {% include washington_slot_row.html title='IIIF Manuscript Community Group Update' authors='Jeffrey Witt, Loyola University Maryland' %}
+        {% include washington_slot_row.html title='IIIF Museums Community Group Update' authors='Tina Shah, The Art Institute of Chicago' %}
+        {% include washington_slot_row.html title='IIIF Newspapers Community Group Update' authors='Karen Estlund, Penn State University' %}
+        {% include washington_slot_row.html title='IIIF Software Developers Community Group Update' authors='Drew Winget, Stanford University and Shaun Ellis, Princeton University' %}
+        {% include washington_slot_row.html title='IIIF 3D Community Group Update' authors='Stuart Snydman, Stanford University' %}
+        {% include washington_slot_row.html title='IIIF Outreach Community Group Update' authors='Rachel Di Cresce, University of Toronto' %}
         {% include washington_slot_row.html time='10:00am - 10:10am' title='Community and Community Groups Q&A' %}
 
-        {% include washington_slot_row.html time='10:10am - 10:25am' title='Technical Specification Status Update' %}
-        {% include washington_slot_row.html time='10:25am - 10:40am' rowspan='4' title='<b>IIIF Technical Specification Group Updates</b>' %}
-        {% include washington_slot_row.html title='IIIF A/V Technical Specification Group Update' %}
-        {% include washington_slot_row.html title='IIIF Discovery Technical Specification Group Update' %}
-        {% include washington_slot_row.html title='Text Granularity Technical Specification Group Update' %}
+        {% include washington_slot_row.html time='10:10am - 10:40am' rowspan='5' title='Technical Specification Status Update' %}
+        {% include washington_slot_row.html title='IIIF Technical Specification Group Updates' authors='Rob Sanderson, J Paul Getty Trust' %}
+        {% include washington_slot_row.html title='IIIF A/V Technical Specification Group Update' authors='Tom Crane, Digirati and Jon Dunn, Indiana University' %}
+        {% include washington_slot_row.html title='IIIF Discovery Technical Specification Group Update' authors='Matt McGrattan, Digirati' %}
+        {% include washington_slot_row.html title='Text Granularity Technical Specification Group Update' authors='Michael Appleby, Yale Center for British Art' %}
         {% include washington_slot_row.html time='10:40am - 10:50am' title='Technical Updates Q&A' %}
 
         {% include washington_slot_row.html time='10:50am - 11:30am' title='<b>Break (on your own)</b>*' %}
@@ -41,7 +41,7 @@ This is the agenda for Wednesday the 23rd of May, the first full day of the conf
         {% include washington_slot_row.html paper='Paper 11' %}
         {% include washington_slot_row.html paper='Paper 43' %}
         {% include washington_slot_row.html paper='Paper 27' %}
-        {% include washington_slot_row.html title='Sponsor Talk' %}
+        {% include washington_slot_row.html paper='Paper 107' %}
 
         {% include washington_slot_row.html time='12:30pm - 2:00pm' title='<b>Lunch (on your own)</b>' %}
 
@@ -52,7 +52,7 @@ This is the agenda for Wednesday the 23rd of May, the first full day of the conf
         {% include washington_slot_row.html paper='Paper 7' %}
         {% include washington_slot_row.html paper='Paper 10' %}
         {% include washington_slot_row.html paper='Paper 46' %}
-        {% include washington_slot_row.html title='Sponsor Talk' %}
+        {% include washington_slot_row.html paper='Paper 108' %}
 
         {% include washington_slot_row.html time='3:20pm - 4:00pm' title='<b>Break (on your own)</b>*' %}
 

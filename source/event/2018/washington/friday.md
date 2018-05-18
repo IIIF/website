@@ -11,9 +11,9 @@ This is the agenda for Friday the 25th of May, the last day of the conference. T
   <thead>
     <tr>
       <th></th>
-      <th colspan="2">Track 1</th>
-      <th colspan="2">Track 2</th>
-      <th colspan="2">Track 3</th>
+      <th colspan="2">Track 1 - Dining Room A</th>
+      <th colspan="2">Track 2 - Montpelier</th>
+      <th colspan="2">Track 3 - Mumford</th>
      </tr>
     <tr>
       <th>Time</th>
@@ -32,7 +32,7 @@ This is the agenda for Friday the 25th of May, the last day of the conference. T
 
         {% include washington_slot_row.html rowspan='3' time='11:00am - 12:30pm' track1='Paper 59,Paper 104' track2='Paper 44,Paper 55,Paper 19' track3='Paper 22,, '%}
 
-        {% include washington_slot_row.html span='6' time='12:30pm - 1:00pm' title='Closing Plenary' %}
+        {% include washington_slot_row.html span='6' time='12:30pm - 1:00pm' title='Closing Plenary in Montpelier' %}
   </tbody>
 </table>
 
