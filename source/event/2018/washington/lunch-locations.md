@@ -7,8 +7,9 @@ page:
 
 As part of the 2018 IIIF Washington Conference are organising Lunch discussions and on Tuesday we have organised the following:
 
- * Manuscripts & Archives - lead by Ben Albritton and Anna Naruta-Moya in the Folger Elizabethan Garden
- * Software development - lead by Drew Winget in the Folger lawn facing East Capitol
+ * Museums – lead by Tina Shaw in the Folger Park
+ * Audio/Visual – lead by Jon Dunn in the Folger Elizabethan Garden
+ * 3d - lead by Ed Silverton on the Folger lawn, facing East Capitol
 
 The idea is that the lunch leaders will gather in a spot and participants will get some lunch from a nearby location and join them for a discussion. It will be a great chance to meet others with similar interests and also start making contacts within the IIIF community. If you would be interested in leading or us organising a lunch discussion on a different topic to the ones listed please get in touch with glen.robson@iiif.io. A map of the locations are below.
 
@@ -48,7 +49,7 @@ Location of nearby lunch locations can be seen at [Folgerpedia page][lunch]
         CurrentInfoBox = new google.maps.InfoWindow({ content: text});
         CurrentInfoBox.open(map, markers[index]);
     };
-    var text = "Manuscripts & Archives - lead by Ben Albritton and Anna Naruta-Moya in the Folger Elizabethan Garden"
+    var text = "Audio/Visual – lead by Jon Dunn in the Folger Elizabethan Garden"
     var marker = new google.maps.Marker({
       position: {lat: 38.889360069568944, lng:-77.00233273169522},
       title: text,
@@ -57,7 +58,7 @@ Location of nearby lunch locations can be seen at [Folgerpedia page][lunch]
     marker.addListener('click',wrapEventCallback(infoBoxFunction, 0, text));
     markers.push(marker)
 
-    text = "Software development - lead by Drew Winget in the Folger lawn facing East Capitol"
+    text = "3d - lead by Ed Silverton on the Folger lawn, facing East Capitol"
     var marker2 = new google.maps.Marker({
       position: {lat: 38.88957440885658, lng:-77.00289693151296},
       title: text,
@@ -74,6 +75,15 @@ Location of nearby lunch locations can be seen at [Folgerpedia page][lunch]
     });
     marker3.addListener('click',wrapEventCallback(infoBoxFunction, 2, text));
     markers.push(marker3)
+
+    text = "Museums – lead by Tina Shaw in the Folger Park"
+    var marker4 = new google.maps.Marker({
+      position: {lat: 38.8846992,lng:-77.0026464},
+      title: text,
+      map: map
+    });
+    marker4.addListener('click',wrapEventCallback(infoBoxFunction, 3, text));
+    markers.push(marker4)
   }
 </script>
 

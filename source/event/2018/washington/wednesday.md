@@ -43,7 +43,7 @@ This is the agenda for Wednesday the 23rd of May, the first full day of the conf
         {% include washington_slot_row.html paper='Paper 27' %}
         {% include washington_slot_row.html paper='Paper 107' %}
 
-        {% include washington_slot_row.html time='12:30pm - 2:00pm' title='<b>Lunch (on your own)</b>' %}
+        {% include washington_slot_row.html time='12:30pm - 2:00pm' title='<b>Lunch (on your own)</b> ' %}
 
         {% include washington_slot_row.html time='2:00pm - 3:20pm' rowspan='8' paper='Paper 38' %}
         {% include washington_slot_row.html paper='Paper 14' %}
