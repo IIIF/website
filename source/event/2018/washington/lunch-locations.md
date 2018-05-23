@@ -1,11 +1,11 @@
 ---
-title: "Lunch locations - Tuesday May 22nd"
+title: "Lunch locations - Wednesday May 23rd"
 layout: washington
 tags: [event ]
 page:
 ---
 
-As part of the 2018 IIIF Washington Conference are organising Lunch discussions and on Tuesday we have organised the following:
+As part of the 2018 IIIF Washington Conference are organising Lunch discussions and on Wednesday we have organised the following:
 
  * Museums – lead by Tina Shaw in the Folger Park
  * Audio/Visual – lead by Jon Dunn in the Folger Elizabethan Garden
