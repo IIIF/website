@@ -21,7 +21,7 @@ Location of nearby lunch locations can be seen at [Folgerpedia page][lunch]
   function initMap() {
     var lc = {lat: 38.8887,lng:-77.0046};
     var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 16,
+      zoom: 15,
       center: lc
     });
 
