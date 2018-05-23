@@ -317,3 +317,6 @@
   iiifc: 1
 - name: Zegami
   uri: https://zegami.com/
+- name: National Institute of Informatics
+  uri: https://www.nii.ac.jp/
+  iiifc: 2
