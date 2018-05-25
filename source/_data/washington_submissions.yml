@@ -657,6 +657,11 @@
     lastname: Snydman
     organization: Stanford University
     web_page: ''
+  - country: United States
+    firstname: Ed
+    lastname: Silverton
+    organization: holoscene.io
+    web_page: ''
   decision: ACCEPT
   id: Paper 22
   index: 22
