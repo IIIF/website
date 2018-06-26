@@ -10,7 +10,7 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming main IIIF Events__
 
-* Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
+* Fall 2018 IIIF Working Meeting: Dec. 3-6 in [Edinburgh][edinburgh18], Scotland, UK
 
 __Other IIIF Events__
 
@@ -20,6 +20,7 @@ These are events that have a IIIF presence, presentation, workshop or other tie 
 
 __Previous IIIF Events__
 
+* Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
 * Fall 2017 Showcase and Technical Workshop: Nov. 2 in [London][london-va], England
 * Fall 2017 IIIF Working Meeting: Oct. 11-13 in [Toronto][toronto], Canada
 * Fall 2017 IIIF Showcase: Oct. 10 in [Toronto][toronto-showcase], Canada
@@ -97,6 +98,7 @@ $.ajax({
 </script>
 
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[edinburgh18]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/
 [washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
 [toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase
 [london-va]: {{ site.url }}{{ site.baseurl }}/event/2017/london/
