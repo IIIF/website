@@ -25,7 +25,7 @@ The session schedule will be decided at the end of the Summer.
 
 [home-page]: http://iiif.io/
 [groups]: http://iiif.io/community/groups/
-[conduct]: /event/conduct/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [edinburgh]: https://www.ed.ac.uk/
 [nls]: https://www.nls.uk/
 [IIIF-Discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
