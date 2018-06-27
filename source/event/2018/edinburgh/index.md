@@ -4,6 +4,9 @@ layout: spec
 tags: [event ]
 ---
 
+![University of Edinburgh]({{ site.url }}{{ site.baseurl }}/img/uoelogo.gif){:class="img-responsive"}
+![National Library of Scotland]({{ site.url }}{{ site.baseurl }}/img/nls-logo.jpg){:style="float: right;"}
+
 ## IIIF Working Groups Meeting - Edinburgh - 3rd - 6th of December 2018
 
 The International Image Interoperability Framework ([IIIF][home-page]) working group meeting in Edinburgh is hosted jointly by the [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls]. The working group meetings are intended for active IIIF community participants and [working groups][groups]. There will be some form of public event for those that are interested in a introduction to [IIIF][home-page] or to hear the latest developments.
@@ -22,6 +25,33 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 ### Schedule
 
 The session schedule will be decided at the end of the Summer.
+
+<br/>
+
+<div class="container" markdown="0">
+    <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEart~1~1~4637~100429/0,59,4309,2074/,1024/0/default.jpg" data-lightbox="edinburgh-images">
+        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEart~1~1~4637~100429/0,59,4309,2074/,200/0/default.jpg">
+    </a>
+    <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwmm~2~2~56000~103603/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
+        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwmm~2~2~56000~103603/full/,200/0/default.jpg">
+        <img class="big" src="">
+    </a>
+    <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~43414~103145/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
+        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~43414~103145/full/,200/0/default.jpg">
+        <img class="big" src="">
+    </a>
+    <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~167142~162917/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
+        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~167142~162917/full/,200/0/default.jpg">
+        <img class="big" src="">
+    </a>
+    <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~46011~103398/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
+        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~46011~103398/full/,200/0/default.jpg">
+    </a>
+</div>
+
+<br/>
+<br/>
+<br/>
 
 [home-page]: http://iiif.io/
 [groups]: http://iiif.io/community/groups/
