@@ -30,22 +30,19 @@ The session schedule will be decided at the end of the Summer.
 
 <div class="container" markdown="0">
     <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEart~1~1~4637~100429/0,59,4309,2074/,1024/0/default.jpg" data-lightbox="edinburgh-images">
-        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEart~1~1~4637~100429/0,59,4309,2074/,200/0/default.jpg">
+        <img class="thumb" alt="Edinburgh Castle from the south west" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEart~1~1~4637~100429/0,59,4309,2074/,200/0/default.jpg">
     </a>
     <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwmm~2~2~56000~103603/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
-        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwmm~2~2~56000~103603/full/,200/0/default.jpg">
-        <img class="big" src="">
+        <img class="thumb" alt="Laing Archive Photograph 7" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwmm~2~2~56000~103603/full/,200/0/default.jpg">
     </a>
     <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~43414~103145/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
-        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~43414~103145/full/,200/0/default.jpg">
-        <img class="big" src="">
+        <img class="thumb" alt="George Square Edinburgh University Main Library, May 2006" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~43414~103145/full/,200/0/default.jpg">
     </a>
     <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~167142~162917/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
-        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~167142~162917/full/,200/0/default.jpg">
-        <img class="big" src="">
+        <img class="thumb" alt="Old College Quad, October 2013" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~167142~162917/full/,200/0/default.jpg">
     </a>
     <a href="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~46011~103398/full/,1024/0/default.jpg" data-lightbox="edinburgh-images">
-        <img class="thumb" src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~46011~103398/full/,200/0/default.jpg">
+        <img class="thumb" alt="Snow at Edinburgh University Library, January 2010. View from Centre from Research Collections roof terrace." src="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~46011~103398/full/,200/0/default.jpg">
     </a>
 </div>
 
