@@ -58,7 +58,7 @@
     [Ruby on Rails gem](https://github.com/jronallo/djatoka) that does the
     translation).
 - name: FSI Server
-  uri: http://www.fsi-viewer.com/
+  uri: https://www.neptunelabs.com/fsi-server/
   blurb:
   - >
     There is a [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint).

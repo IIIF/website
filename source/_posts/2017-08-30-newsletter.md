@@ -42,7 +42,7 @@ Are you a software developer working with IIIF, or preparing to work with IIIF? 
 Based on recent discussions at the IIIF Conference in the Vatican, a survey is now underway to gauge community-wide interest in forming a IIIF 3D Community Group. If you are working with 3D and/or are interested in participating in such a group, please complete the [IIIF 3D Community Group Expression of Interest][3d-survey] survey.
 
 ### IIIF and STEM (Science, Technology, Engineering, and Medicine)
-As interest in IIIF grows into the STEM community, interested parties are looking to organize a call to scope the current and prospective use cases for STEM and IIIF. If you are interested in joining the call, please complete the [call planning poll][stem-poll].
+As interest in IIIF grows into the STEM community, interested parties are looking to organize a call to scope the current and prospective use cases for STEM and IIIF. If you are interested in joining the call, please complete the call planning poll (now closed).
 
 ### IIIF Adopters Survey
 Are you researching, experimenting with, or fully supporting IIIF at your institution? Please help us scope the IIIF Universe and levels of adoption across the community by completing our 5 minute “[Basic IIIF Adopters Survey][survey]”. Many thanks to the 73 institutions who have completed the survey so far. Survey results indicate that there are currently over 345 million images on the web that comply with one or more IIIF APIs. This number is growing on a daily basis as many institutions are continuously adding additional IIIF images to their digital repositories. The [IIIF Community List][comm-list] has been updated, and there are over 100 institutions participating in the IIIF community.
@@ -271,14 +271,13 @@ Sheila Rabun, IIIF Community and Communications Officer
 [avalon-poc]: https://github.com/avalonmediasystem/avalon-iiif-player
 [sfmoma]: https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma%7Csort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ
 [Brumfield-Labs]: http://www.brumfieldlabs.com
-[stem-poll]: http://doodle.com/poll/89db7nik6edydksk
 [folger-event]: http://folgerpedia.folger.edu/Early_Modern_Manuscripts_Online:_New_Directions_in_Teaching_and_Research
 [basel-event]: http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/termine-veranstaltungen/sammlungsuebergreifend-forschen/
 [or]: https://or2017.net/
 [digipalooza]: https://digipalooza.com/
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
 [slu]: https://github.com/CenterForDigitalHumanities
-[avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/build/
+[avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/
 [presi3]: http://prezi3.iiif.io/api/presentation/3.0
 [discovery-group]: http://iiif.io/community/groups/discovery/
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues

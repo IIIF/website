@@ -162,7 +162,7 @@
 - name: National Library of Austria
   uri: https://www.onb.ac.at/en/
 - name: Nasjonalbiblioteket (National Library of Norway)
-  uri: http://www.nb.no/English
+  uri: https://www.nb.no/en/the-national-library-of-norway/
   iiifc: 1
 - name: National Library of Denmark
   uri: http://www.kb.dk/en/

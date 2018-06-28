@@ -130,7 +130,7 @@ Drew Winget (Stanford University Libraries)
 [devs]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
 [newspaper-guidelines]: https://docs.google.com/document/d/1rz-Dm_LMguPD_Zi6Z1uf61XaPrdhd3mgK9_SV3EBdlE/edit?usp=sharing
 [mirador]: {{ site.url }}{{ site.baseurl }}/news/2016/09/16/mirador-upgrade-released/
-[manifest-editor]: http://morning-journey-27147.herokuapp.com/#/?_k=agcbor
+[manifest-editor]: https://github.com/bodleian/iiif-manifest-editor
 [bodleian-editor]: http://iiif.bodleian.ox.ac.uk/manifest-editor/#/?_k=g92i8r
 [from-the-page]: http://fromthepage.com/
 [from-the-page-iiif]: https://github.com/benwbrum/fromthepage/wiki/Documentary-Editing-for-IIIF-using-FromThePage
