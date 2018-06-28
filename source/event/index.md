@@ -16,7 +16,8 @@ __Other IIIF Events__
 
 These are events that have a IIIF presence, presentation, workshop or other tie in. Please contact the [IIIF Outreach group][outreach] if you know of other meetings or conferences not listed below.
 
-<table id="events" class="api-table"></table>
+<table id="events-2018" class="api-table"></table>
+<table id="events-2019" class="api-table"></table>
 
 __Previous IIIF Events__
 
@@ -65,35 +66,42 @@ $.ajax({
             return;
             }
           }
-
-        var table = document.getElementById("events");
-        var gtable = xmlDoc.getElementsByTagName("table")[0];
-        var body = document.createElement('tbody');
-        var header = document.createElement('thead');
-        headerRow = document.createElement('tr');
-        for (var i = gtable.rows[0].cells.length - 1; i >= 0; i--) {
-            var th = document.createElement('th');
-            th.innerHTML = gtable.rows[0].cells[i].innerHTML;
-            if (headerRow.firstChild) {
-                headerRow.insertBefore(th, headerRow.firstChild);
-            } else {
-                headerRow.appendChild(th);
-            }    
-        }
-
-        header.appendChild(headerRow); // need to convert td's into th
-
-        table.appendChild(header);
-        for (var i = gtable.rows.length - 1; i > 0; i--) {
-            if (body.firstChild) {
-                body.insertBefore(gtable.rows[i], body.firstChild);
-            } else {
-                body.appendChild(gtable.rows[i])
-            }
-        }
-        table.appendChild(body);
+          addTable(document.getElementById("events-2018"), xmlDoc.getElementsByTagName("table")[0]);
+          addTable(document.getElementById("events-2019"), xmlDoc.getElementsByTagName("table")[1]);
       }
 });
+}
+function addTable(destination, gtable) {
+    var body = document.createElement('tbody');
+    var header = document.createElement('thead');
+    headerRow = document.createElement('tr');
+    for (var i = gtable.rows[0].cells.length - 1; i >= 0; i--) {
+        var th = document.createElement('th');
+        th.innerHTML = gtable.rows[0].cells[i].innerHTML;
+        if (headerRow.firstChild) {
+            headerRow.insertBefore(th, headerRow.firstChild);
+        } else {
+            headerRow.appendChild(th);
+        }    
+    }
+
+    header.appendChild(headerRow); // need to convert td's into th
+
+    destination.appendChild(header);
+    for (var i = gtable.rows.length - 1; i > 0; i--) {
+        var row = document.createElement('tr');
+        for (var j = 0; j < gtable.rows[i].cells.length; j++) {
+            var cell = document.createElement('td');
+            cell.innerHTML = gtable.rows[i].cells[j].innerHTML.replace('href="https://www.google.com/url?q=','href="').replace(/\&amp;sa=.*ust=[0-9]*/g,'');
+            row.appendChild(cell);
+        }
+        if (body.firstChild) {
+            body.insertBefore(row, body.firstChild);
+        } else {
+            body.appendChild(row)
+        }
+    }
+    destination.appendChild(body);
 }
 </script>
 
