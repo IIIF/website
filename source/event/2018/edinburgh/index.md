@@ -4,8 +4,8 @@ layout: spec
 tags: [event ]
 ---
 
-![University of Edinburgh]({{ site.url }}{{ site.baseurl }}/img/uoelogo.gif){:class="img-responsive" height="100px"}
-![National Library of Scotland]({{ site.url }}{{ site.baseurl }}/img/nls-logo.jpg){:style="float: right; padding-bottom: 10px;" height="100px"}
+![University of Edinburgh]({{ site.url }}{{ site.baseurl }}/img/uoelogo.gif){:class="img-responsive" height="100"}
+![National Library of Scotland]({{ site.url }}{{ site.baseurl }}/img/nls-logo.jpg){:style="float: right; padding-bottom: 10px;" height="100"}
 
 {:style="clear: right;"}
 ## IIIF Working Groups Meeting - Edinburgh - 3rd - 6th of December 2018
