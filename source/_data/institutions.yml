@@ -227,6 +227,9 @@
 - name: State Library of Queensland
   uri: http://www.slq.qld.gov.au/
   iiifc:
+- name: Stockholm University
+  uri: https://www.su.se/
+  iiifc:
 - name: Synaptica
   uri: http://www.synaptica.com/
 - name: TextGrid
