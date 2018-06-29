@@ -4,9 +4,10 @@ layout: spec
 tags: [event ]
 ---
 
-![University of Edinburgh]({{ site.url }}{{ site.baseurl }}/img/uoelogo.gif){:class="img-responsive"}
-![National Library of Scotland]({{ site.url }}{{ site.baseurl }}/img/nls-logo.jpg){:style="float: right;"}
+![University of Edinburgh]({{ site.url }}{{ site.baseurl }}/img/uoelogo.gif){:class="img-responsive" height="100"}
+![National Library of Scotland]({{ site.url }}{{ site.baseurl }}/img/nls-logo.jpg){:style="float: right; padding-bottom: 10px;" height="100"}
 
+{:style="clear: right;"}
 ## IIIF Working Groups Meeting - Edinburgh - 3rd - 6th of December 2018
 
 The International Image Interoperability Framework ([IIIF][home-page]) working group meeting in Edinburgh is hosted jointly by the [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls]. The working group meetings are intended for active IIIF community participants and [working groups][groups]. There will be some form of public event for those that are interested in a introduction to [IIIF][home-page] or to hear the latest developments.
