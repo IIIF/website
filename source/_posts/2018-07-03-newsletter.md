@@ -10,9 +10,9 @@ excerpt: >
 ---
 
 ## Community Snapshot
-* [IIIF Discuss][iiif-discuss] = 877 members
-* IIIF Slack = 822 members ([Join Slack][slack])
-* [IIIF on Twitter][iiif-twitter] = 1068 followers
+* [IIIF Discuss][iiif-discuss] = 879 members
+* IIIF Slack = 823 members ([Join Slack][slack])
+* [IIIF on Twitter][iiif-twitter] = 1072 followers
 * [IIIF Consortium][iiif-c] = 51 founding members 
 
 ## Announcements and Actions
@@ -92,6 +92,8 @@ The workshop was a fantastic success with several attendees reporting the worksh
 
 ### IIIF Presence at Conferences and Meetings 
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Recent and upcoming IIIF appearances include:
+* On February 22, [Cathryn Goodwin][caa-goodwin] (Princeton University Art Museum), [Charles Butcosk][caa-butcosk] (Colby College Museum of Art), [Jeff Steward][caa-steward] (Harvard Art Museums), and [Emmanuelle Delmas-Glass][caa-glass] (Yale Center for British Art) presented on 
+IIIF Use Cases for Enhanced Research and Collection Engagement on a College Art Association conference panel chaired by Emily Pugh from the Getty Research Institute.
 * On March 27, Julien A. Raemy has been invited to [present his bachelor’s thesis][agbd-prezi] on IIIF to the Geneva Library Association (AGBD).
 * [“Les protocoles IIIF : présentation des potentialités”][himanis-presentation] (in French), presentation by Régis Robineau at the HIMANIS Project Final Day (Paris, Archives Nationales, May 29).
 * Claire Knowles and Terry Brady presented at the [Open Repositories conference][or2018] at Montana State University, 4-7 June, on IIIF and DSpace.
@@ -152,12 +154,14 @@ The Software Developers Community Group has been dedicated to improving the Deve
 * Blog post from Leo Germani: [Conhecendo o IIIF — Padrões e ferramentas para publicação de imagens na web][leo-medium] (in Portuguese) 
 
 #### Edited by:
+The Outreach Community Group Co-Chairs:
 * Rachel Di Cresce (University of Toronto)
 * Claire Knowles (University of Edinburgh)
 * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 
 #### With contributions from: 
 * Benjamin Albritton (Stanford University)
+* Emmanuelle Delmas-Glass (Yale Center for British Art)
 * Shaun Ellis (Princeton University)
 * Antoine Isaac (Europeana)
 * Sarah Lorenzon Ferreira (School of Art and Communication, University of São Paulo)
@@ -182,6 +186,10 @@ The Software Developers Community Group has been dedicated to improving the Deve
 [best-manuscript]: https://docs.google.com/document/d/1BWFpJ0ifaD_iIU00B242NoK4ncZ8Yo73HOU6OAy6rZs/edit 
 [beyond-crane]: https://medium.com/@tom.crane/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34 
 [biblissima-iiif]: http://www.biblissima-condorcet.fr/en/courses-and-events/biblissima-and-iiif-day-innovating-rediscover-written-cultural-heritage-2018 
+[caa-goodwin]: https://www.slideshare.net/EmmanuelleGlass/princeton-university-art-museum-iiif-use-cases-by-cathryn-goodwin-college-art-association-2018-conference
+[caa-butcosk]: https://www.slideshare.net/EmmanuelleGlass/iiif-at-the-colby-college-museum-of-art-by-charles-butcosk-college-art-association-2018-conference
+[caa-steward]: https://www.slideshare.net/EmmanuelleGlass/caa2018-harvard-art-museums-jeff-stewart-iiif
+[caa-glass]: https://www.slideshare.net/EmmanuelleGlass/international-image-interoperability-framework-iiif-supporting-conservation-research-at-the-yale-center-for-british-art-by-emmanuelle-delmasglass-college-art-association-2018-conference
 [change-api]: http://iiif.io/api/discovery/0.1/ 
 [chronicle250]: https://chronicle250.com/ 
 [developers-israel]: http://iiif.nli.org.il 
