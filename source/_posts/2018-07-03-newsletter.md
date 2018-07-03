@@ -6,15 +6,16 @@ tags: [news, newsletter, announcements]
 layout: post
 excerpt: >
   Community Snapshot, Announcements and Actions, Community Events and Outreach, Technical Work, Community Groups, Implementations and Adoption, Recommended Reading
+  
 ---
 
-## Community Snapshot
+## Community Snapshot
 * [IIIF Discuss][iiif-discuss] = 877 members
 * IIIF Slack = 822 members ([Join Slack][slack])
 * [IIIF on Twitter][iiif-twitter] = 1068 followers
 * [IIIF Consortium][iiif-c] = 51 founding members 
 
-## Announcements and Actions
+## Announcements and Actions
 
 ### Save the Date - Fall 2018 IIIF Working Groups Meeting
 The [Fall 2018 IIIF Working Groups Meeting][fall-edinburgh] will be held in Edinburgh, Scotland, December 3-6, 2018. This event will be hosted jointly by the [The University of Edinburgh][uni-edinburgh] and the [National Library of Scotland][nls]. Please mark your calendars and stay tuned for more details!
@@ -99,9 +100,9 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Julien A. Raemy, Leander Seige, and Jeffrey Witt were all invited to give a recap on the 2018 IIIF Conference, to talk about the IIIF ecosystem, as well as providing ideas and best practices on how to generate manifests at the Basel University Library on June 28. Notes and presentations of this internal meeting are available on a [Google Drive directory][basel].
 * ["Mirador for Medievalists" Workshop][mirador-medievalists]: 10-12 July 2018 (Beinecke Rare Book and Manuscript Library, Yale University). Participants in this three-day workshop will be introduced to IIIF and working with Mirador, learning how this technology can facilitate new methodologies in manuscript and art history research.
 
-## Technical Work
+## Technical Work
 
-### Presentation API 3.0 - alpha
+### Presentation API 3.0 - alpha
 The alpha draft of the Presentation API 3.0 was ratified at the Washington conference. This means that it can be taken to beta over the next few months. Work on the [registry of known extensions][spec-registry], and the cookbook accompanying the specification, will need to happen during this period, and contributions are most welcome.
 
 ### Image API 3.0 - alpha
@@ -110,13 +111,13 @@ The alpha draft of the Image API was not ratified at the Washington conference, 
 ### Change Discovery API 0.1
 The [Discovery Technical Specification Group][groups-discovery] has produced a first version of its main deliverable, a [new API to facilitate the discovery and the update of IIIF resources][change-api]. The specification covers the first item of the [group's charter][charter-discovery], namely answering the needs expressed by the IIIF Community for crawling and harvesting IIIF resources. Members of the group (OCLC, NCSU, Digirati, Europeana) have worked on first implementations, and it has been submitted for feedback at the 2018 IIIF Conference in Washington D.C. Work will continue in the TSG in the coming month to cover other aspects of the charter.
 
-##Community Groups
+## Community Groups
 IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <http://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group. 
 
-### [3D Community Group][groups-3d]
+### [3D Community Group][groups-3d]
 The IIIF 3D Community Group had a productive and well-attended meeting at the IIIF Conference in Washington D.C. Please see the [notes][3d-notes] for more information. We also have our first story documented: <https://github.com/IIIF/iiif-3d-stories/issues/1>. 
 
-### [Manuscripts Community Group][groups-manuscripts]
+### [Manuscripts Community Group][groups-manuscripts]
 The Manuscripts Community Group is moving away from monthly calls to quarterly calls. The next teleconference is scheduled to take place on August 8. A small task force of the Manuscripts Group is currently working on [suggested best practices for manuscripts][best-manuscript] (such as basic metadata to be displayed) and some people from the Group have also announced that they will help the Outreach Group on organizing webinars.  
 
 ### [Museums Community Group][groups-museums]
@@ -143,7 +144,7 @@ The Software Developers Community Group has been dedicated to improving the Deve
 * Two new experimental IIIF projects from Cogapp: a Bladerunner-inspired voice-controlled interface at <https://cogapp.github.io/esper/> and OpenCCTVDragon: a way to spy on up to nine people who are innocently viewing IIIF artworks, at <http://opencctvdragon.cogapp.com/>
 * The University of Edinburgh, have launched the Mahabharata online, the scroll is 72 metres long and 13 cm wide and covered in gold leaf. You can read more about the digitisation, conservation, and delivery on the [blog][edinburgh-blog] and view the scroll at <https://librarylabs.ed.ac.uk/iiif/uv/?manifest=https://librarylabs.ed.ac.uk/iiif/manifest/mahabharataFinal.json#?c=0&m=0&s=0&cv=0> (it takes a wee while to load).
 
-## Recommended Reading
+## Recommended Reading
 
 * Article from Julien A. Raemy: [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][hors-texte] (in French)
 * Blog post from Christy Henshaw: [API use cases][api-christy]
@@ -157,13 +158,10 @@ The Software Developers Community Group has been dedicated to improving the Deve
 
 #### With contributions from: 
 * Benjamin Albritton (Stanford University)
-* Rachel Di Cresce (University of Toronto)
 * Shaun Ellis (Princeton University)
 * Antoine Isaac (Europeana)
-* Claire Knowles (University of Edinburgh)
 * Sarah Lorenzon Ferreira (School of Art and Communication, University of São Paulo)
 * Mark Matienzo (Stanford University)
-* Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 * Eyal Reuven (National Library of Israel)
 * Régis Robineau (Biblissima, Campus Condorcet)
 * Glen Robson (IIIF-C)
