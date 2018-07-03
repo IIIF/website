@@ -213,7 +213,7 @@ The Software Developers Community Group has been dedicated to improving the Deve
 [hackathon-israel]: http://blog.nli.org.il/en/hackathon/ 
 [himanis-presentation]: http://www.biblissima-condorcet.fr/en/protocoles-iiif-presentation-potentialites 
 [hors-texte]: http://hesso.tind.io/record/2394 
-[iiif-c]: /community/consortium/
+[iiif-c]: http://iiif.io/community/consortium/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss 
 [iiif-event]: http://iiif.io/event/ 
 [iiif-twitter]: https://twitter.com/iiif_io 
