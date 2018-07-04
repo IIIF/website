@@ -1,11 +1,12 @@
 #!/bin/bash
 
 
-mkdir files
+#mkdir files
+#cd files
+#curl -O https://raw.githubusercontent.com/acdha/phantomjs-mixed-content-scan/master/report-mixed-content.js
 cd files
-curl -O https://raw.githubusercontent.com/acdha/phantomjs-mixed-content-scan/master/report-mixed-content.js
-
-chmod 755 report-mixed-content.js
+phantomjs --help
+chmod 755 ./report-mixed-content.js
 echo "Running mixed content report"
 pwd
 ls ../_site/test/
