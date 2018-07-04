@@ -2,9 +2,5 @@
 
 
 echo "Running mixed content report"
-find _site/text -name "*.html" | while read line;
-do
-    echo "Testing $line"
-    phantomjs files/report-mixed-content.js $line
-done
+find _site/test -name "*.html" | xargs phantomjs scripts/report-mixed-content.js ;
 echo "report finsihed."
