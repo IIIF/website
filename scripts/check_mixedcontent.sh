@@ -7,6 +7,8 @@ curl -O https://raw.githubusercontent.com/acdha/phantomjs-mixed-content-scan/mas
 
 chmod 755 report-mixed-content.js
 echo "Running mixed content report"
+pwd
+ls ../_site/test/
 ./report-mixed-content.js ../_site/test/index.html
 echo "report finsihed."
 rm report-mixed-content.js
