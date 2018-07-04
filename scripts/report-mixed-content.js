@@ -9,7 +9,7 @@ var args = system.args,
 
 args.slice(1).forEach(function(url) {
     if (url.substr(0, 8) !== 'https://') {
-        console.debug('Rewriting HTTP URL to use HTTPS:', url);
+        //console.debug('Rewriting HTTP URL to use HTTPS:', url);
         url = url.replace('http:', 'https:');
     }
 
@@ -29,13 +29,7 @@ function initPage() {
 
         var currentPageURL = page.url || page.originalURL;
 
-        if (originalURL.match(/^http:\/\/cdn\.loc\.gov/)) {
-            currentURL = originalURL.replace('http://cdn.loc.gov', 'https://cdn.loc.gov');
-            console.log('🔸 ', currentPageURL, 'rewrote insecure CDN resource to:', currentURL);
-            networkRequest.changeUrl(newURL);
-        }
-
-        if (currentURL.substr(0, 8) !== 'https://' && currentURL.substr(0, 5) !== 'data:') {
+        if (currentURL.substr(0, 8) !== 'https://' && currentURL.substr(0, 5) !== 'data:' && currentURL.substr(0, 5) !== 'file:') {
             console.log('❗️ ', currentPageURL, 'loaded an insecure resource:', originalURL);
         }
     };
@@ -49,8 +43,8 @@ function initPage() {
 
     page.onConsoleMessage = function(msg) {
         if (msg == 'GOTO_NEXT_PAGE') {
-            page.close();
-            crawlNextPage();
+            //page.close();
+            //crawlNextPage();
         } else if (msg.indexOf('insecure content from') >= 0) {
             // We can format WebKit's native error messages nicely:
             console.log('❕ ', msg.trim().replace('The page at ', ''));
@@ -71,11 +65,10 @@ function crawlNextPage() {
     var url = URLs.shift();
     var page = initPage();
 
-    console.log('Opening', url, '(' + URLs.length + ' remaining)');
+    //console.log('Opening', url, '(' + URLs.length + ' remaining)');
 
-    page.onInitialized = function() {
+    /*page.onInitialized = function() {
         page.evaluate(function(startTime) {
-            /* global window */
 
             // This can happen with things like error pages which have no linked resources to load by the
             // time that our JavaScript starts executing:
@@ -83,16 +76,16 @@ function crawlNextPage() {
                 console.log('GOTO_NEXT_PAGE');
             }
 
-            document.addEventListener('DOMContentLoaded', function() {
-                console.log('DOMContentLoaded', ((Date.now() - startTime) / 1000).toFixed(3) + 's');
-            });
+            //document.addEventListener('DOMContentLoaded', function() {
+            //    console.log('DOMContentLoaded', ((Date.now() - startTime) / 1000).toFixed(3) + 's');
+            //});
 
             window.addEventListener('load', function() {
                 console.log('load', ((Date.now() - startTime) / 1000).toFixed(3) + 's');
 
-                window.setTimeout(function () {
-                    console.log('GOTO_NEXT_PAGE');
-                }, 500);
+            //    window.setTimeout(function () {
+            //    console.log('GOTO_NEXT_PAGE');
+            //    }, 500);
             });
 
             window.setTimeout(function () {
@@ -101,20 +94,18 @@ function crawlNextPage() {
             }, 60 * 1000);
 
         }, Date.now());
-    };
+    };*/
 
     page.originalURL = url;
 
     page.open(url, function (status) {
         if (status === 'success') {
-            console.log('✅ ', url);
-            // Do nothing at this point until the load event fires
+            //console.log('✅ ', url);
         } else {
             console.log('❌ ', url);
-
-            page.close();
-            crawlNext();
         }
+        page.close()
+        crawlNextPage();
     });
 }
 
