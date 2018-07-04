@@ -7,10 +7,11 @@ desc 'Run the Markdown specs and HTML Proofer'
 task :ci do
   sh 'bundle exec jekyll clean'
   sh 'bundle exec jekyll build -d _site/test --baseurl /test'
-  
+
   sh 'grunt test'
   sh 'scripts/check_json.py -v'
-  sh 'scripts/check_mixedcontent.sh'
+  sh 'phantomjs --help'
+  sh 'scripts/check_mixedcontent.py'
   Rake::Task['spec'].invoke
   Rake::Task['check_html'].invoke
 end
