@@ -2,5 +2,9 @@
 
 
 echo "Running mixed content report"
-phantomjs --debug=true files/report-mixed-content.js _site/test/index.html
+find _site/text -name "*.html" | while read line;
+do
+    echo "Testing $line"
+    phantomjs files/report-mixed-content.js $line
+done
 echo "report finsihed."
