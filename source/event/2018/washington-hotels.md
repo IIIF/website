@@ -41,11 +41,11 @@ This is a short list of nearby hotels. There are no special rates and no room bo
     };
     // different colour pins for conference locations
     var pinColor = "cccc00";
-    var pinImage = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|" + pinColor,
+    var pinImage = new google.maps.MarkerImage("https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|" + pinColor,
                         new google.maps.Size(21, 34),
                         new google.maps.Point(0,0),
                         new google.maps.Point(10, 34));
-    var pinShadow = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_shadow",
+    var pinShadow = new google.maps.MarkerImage("https://chart.apis.google.com/chart?chst=d_map_pin_shadow",
                         new google.maps.Size(40, 37),
                         new google.maps.Point(0, 0),
                         new google.maps.Point(12, 35));
