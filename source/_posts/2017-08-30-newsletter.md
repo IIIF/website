@@ -128,7 +128,7 @@ The [OpenJPEG improvement project][open-jpeg] is well underway, with [OpenJPEG v
 The IIIF Consortium is partnering with the American Art Collaborative (AAC) to provide technical consulting for eight AAC museums as part of a grant from the Andrew W. Mellon foundation. In collaboration with Sara and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and Jason Ronallo, head of Digital Library Initiatives at NCSU Libraries, the museums will receive hands-on guidance and specific recommendations for implementing IIIF. The documentation and learnings from this engagement will be used to improve the [IIIF Quick Start Guide][quick-start] as well as launch a service for implementation consulting for future prospective adopters. For more info, contact Glen Robson at <admin@iiif.io>.
 
 ## Community Groups:
-IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <http://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Working Meeting in Toronto][toronto], October 11-13.
+IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <{{ site.url }}{{ site.baseurl }}/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Working Meeting in Toronto][toronto], October 11-13.
 
 ### Manuscripts Community Group
 In addition to a multitude of manuscript-related presentations, the [IIIF Manuscripts Community Group][manuscripts] held a two-hour meeting with over 45 people at the 2017 IIIF Conference in The Vatican. The group plans to focus on metadata and manifest best practices, outreach in the manuscripts community, and follow the work of the IIIF Text Granularity Specification Group. The IIIF Manuscripts group will meet in-person again at the 2017 IIIF Working Meeting in Toronto, October 11-13.
@@ -262,12 +262,12 @@ Sheila Rabun, IIIF Community and Communications Officer
 [toronto]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto/
 [toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase/
 [submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
-[av-group]: http://iiif.io/community/groups/av/
+[av-group]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
 [masahide]: http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2017/test/iiifav-bl-fixture-collection.json
-[textgran]: http://iiif.io/community/groups/text-granularity/
-[open-jpeg]: http://iiif.io/news/2017/04/27/openjpeg-improvement/
+[textgran]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
+[open-jpeg]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
 [open-jpeg221]: https://groups.google.com/forum/#!searchin/iiif-discuss/openjpeg%7Csort:relevance/iiif-discuss/LWVEIg0-xOg/zYyxc09cAQAJ
-[groups]: http://iiif.io/community/groups/
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [avalon-poc]: https://github.com/avalonmediasystem/avalon-iiif-player
 [sfmoma]: https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma%7Csort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ
 [Brumfield-Labs]: http://www.brumfieldlabs.com
@@ -279,7 +279,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [slu]: https://github.com/CenterForDigitalHumanities
 [avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/
 [presi3]: http://prezi3.iiif.io/api/presentation/3.0
-[discovery-group]: http://iiif.io/community/groups/discovery/
+[discovery-group]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
 [openjpeg]: http://www.openjpeg.org/
 [openjpeg-github]: https://github.com/uclouvain/openjpeg/projects/1
@@ -358,4 +358,4 @@ Sheila Rabun, IIIF Community and Communications Officer
 [edui]: http://eduiconf.org/
 [nga]: https://www.nga.gov/content/ngaweb.html
 [smithsonian]: https://www.si.edu/
-[japan]: http://iiif.io/news/2017/08/21/iiif-in-japan/
+[japan]: {{ site.url }}{{ site.baseurl }}/news/2017/08/21/iiif-in-japan/

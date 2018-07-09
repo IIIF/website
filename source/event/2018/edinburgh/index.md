@@ -55,8 +55,8 @@ The session schedule will be decided at the end of the Summer.
       'wrapAround': true
     })
 </script>
-[home-page]: http://iiif.io/
-[groups]: http://iiif.io/community/groups/
+[home-page]: {{ site.url }}{{ site.baseurl }}/
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [edinburgh]: https://www.ed.ac.uk/
 [nls]: https://www.nls.uk/
