@@ -59,4 +59,4 @@ defaults:
     scope:
       path: ""
     values:
-      webprefix: "http://iiif.io"
+      webprefix: "https://iiif.io"
