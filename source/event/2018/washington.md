@@ -69,7 +69,7 @@ Please also see the full list of [accepted presentations][program].
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
-[home-page]: http://iiif.io/
+[home-page]: {{ site.url }}{{ site.baseurl }}/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/

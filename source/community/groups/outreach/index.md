@@ -52,7 +52,7 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
   [outreach-slack]: https://iiif.slack.com/messages/outreach/details
   [outreach-folder]: https://drive.google.com/drive/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw?
   [slack]: http://bit.ly/iiif-slack
-  [iiif-website]: http://iiif.io/
+  [iiif-website]: {{ site.url }}{{ site.baseurl }}/
   [iiif-translation]: https://docs.google.com/document/d/1kfFp1Yg68RdMameghAAdg4DyjqzI0Wk64dboQGsHqtw
   [https://stanford.zoom.us/j/516508535]: https://stanford.zoom.us/j/516508535
   [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/

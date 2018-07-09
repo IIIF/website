@@ -120,7 +120,7 @@ The following is the sequence and anticipated timeline for IIIF technical specif
     * Update with non-breaking improvements in 2019
 
 ## Community Groups:
-IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <http://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group.
+IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <{{ site.url }}{{ site.baseurl }}/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group.
 
 ### Manuscripts Community Group
 Continuing with discussions from the recent in-person meeting in Toronto, the [IIIF Manuscripts Community Group][manuscripts] has been working to identify best practices for manuscript metadata fields in order to provide a consistent user experience for manuscripts researchers.
@@ -238,7 +238,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Sonia Wronkowska (National Library of Poland)
 * Roxanne Wyns (KULeuven)
 
-[aac]: http://iiif.io/news/2017/11/01/aac-collaboration/
+[aac]: {{ site.url }}{{ site.baseurl }}/news/2017/11/01/aac-collaboration/
 [bsb-java]: https://github.com/dbmdz/iiif-apis
 [hymir]: https://github.com/dbmdz/iiif-server-hymir
 [bsb-plugins]: https://github.com/dbmdz/mirador-plugins
@@ -246,7 +246,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [bsb-list]: https://app.digitale-sammlungen.de/bookshelf/iiif-worldwide
 [zedler]: https://app.digitale-sammlungen.de/bookshelf/search?query=universal+lexicon&submit=
 [bsb]: https://iiif.digitale-sammlungen.de
-[iiif-japan-tour]: http://iiif.io/news/2017/11/10/iiif-japan-tour/
+[iiif-japan-tour]: {{ site.url }}{{ site.baseurl }}/news/2017/11/10/iiif-japan-tour/
 [cidoc]: http://www.cidoc2017.com/436605949
 [zegami-code]: https://github.com/zegami/image-similarity-clustering
 [zegami-post]: https://tech.zegami.com/comparing-pre-trained-deep-learning-models-for-feature-extraction-c617da54641
@@ -304,7 +304,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [harvard-notes]: https://docs.google.com/document/d/1lRYQ5Y76a5hFsx3AcfofyGovJc1o9JOC07BgYPyspN8/edit
 [toronto-summary]: https://docs.google.com/document/d/1RKrEHgDArGkD5yyTm9jd5rew5fWaPlCD05wMVJYf3zs/edit?usp=sharing
 [oj-survey]: https://goo.gl/forms/491bK2sv9Fj0Y0Cf2
-[oj-feedback]: http://iiif.io/news/2017/10/06/openjpeg-survey/
+[oj-feedback]: {{ site.url }}{{ site.baseurl }}/news/2017/10/06/openjpeg-survey/
 [oj230]: https://github.com/uclouvain/openjpeg/releases/latest
 [toronto-notes]: https://drive.google.com/open?id=0B8biwZuDijgeVHdPc2hFcEpvWDA
 [v-a-3-d]: https://docs.google.com/document/d/1PNkkxXAWkJDR31NI24R1Jbdxke8QonjYAvjcClomAK0/edit
@@ -321,23 +321,23 @@ Sheila Rabun, IIIF Community and Communications Officer
 [folger]: http://www.folger.edu/
 [nga]: https://www.nga.gov/content/ngaweb.html
 [smithsonian]: https://www.si.edu/
-[japan]: http://iiif.io/news/2017/08/21/iiif-in-japan/
-[london]: http://iiif.io/event/2017/london/
-[quick-start]: http://iiif.io/technical-details/
-[conduct]: http://iiif.io/event/conduct/
-[toronto]: http://iiif.io/event/2017/toronto/
+[japan]: {{ site.url }}{{ site.baseurl }}/news/2017/08/21/iiif-in-japan/
+[london]: {{ site.url }}{{ site.baseurl }}/event/2017/london/
+[quick-start]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[toronto]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto/
 [submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
-[av-group]: http://iiif.io/community/groups/av/
-[textgran]: http://iiif.io/community/groups/text-granularity/
-[open-jpeg]: http://iiif.io/news/2017/04/27/openjpeg-improvement/
-[groups]: http://iiif.io/community/groups/
+[av-group]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[textgran]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
+[open-jpeg]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [3d-survey]: https://goo.gl/2s1fU7
 [software-survey]: https://goo.gl/forms/ejJUIUP9gqOXnvPI2
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [stem-poll]: http://doodle.com/poll/89db7nik6edydksk
-[iiifc-faq]: http://iiif.io/community/consortium/faq
+[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
 [mcn]: http://conference.mcn.edu/2017/conference_schedule.cfm
-[community-process]: http://iiif.io/api/annex/notes/editors/#community-process
+[community-process]: {{ page.webprefix }}/api/annex/notes/editors/#community-process
 [iiif-translations]: https://drive.google.com/drive/folders/0B8biwZuDijgeT1I5bG9BTHJySk0
 [iiif-faq]:{{ site.url }}{{ site.baseurl }}/community/faq/
 [discovery-group]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/

@@ -20,8 +20,8 @@ Many thanks,
 
 The IIIF Editors: Michael Appleby, Tom Crane, Robert Sanderson, Jon Stroop, Simeon Warner
 
-[image-3]: http://iiif.io/api/image/3.0/
-[prezi-3]: http://iiif.io/api/presentation/3.0/
-[iiif-conf]: http://iiif.io/event/2018/washington/
+[image-3]: {{ page.webprefix }}/api/image/3.0/
+[prezi-3]: {{ page.webprefix }}/api/presentation/3.0/
+[iiif-conf]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [api-github]: https://github.com/IIIF/api/issues

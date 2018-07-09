@@ -41,7 +41,7 @@ Minutes
 
 ### Changes to the `info.json` structure
 
-In 1.1 profiles said "I support this set of features" and there was no way to indicate support for features in a profile, plus some others. This ability was requested and a field `supports` was added to the 2.0 `profiles` to allow addition support to be declared (see <http://iiif.io/api/image/2.0/#image-information>). Servers should be able to generate this information automatically/across the board.
+In 1.1 profiles said "I support this set of features" and there was no way to indicate support for features in a profile, plus some others. This ability was requested and a field `supports` was added to the 2.0 `profiles` to allow addition support to be declared (see <{{ page.webprefix }}/api/image/2.0/#image-information>). Servers should be able to generate this information automatically/across the board.
 
   * This feature can be ignore by server or client is not understood/needed
   * Also provides extension mechanism for extension beyond IIIF API using URIs as opposed to reserved terms (which the JSON-LD context maps to URIs in iiif.io namespace).
