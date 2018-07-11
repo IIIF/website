@@ -8,11 +8,11 @@ cssversion: 2
 # IIIF Annual Conference
 # Guidance for hosting an event
 
-The IIIF community runs an annual conference every year in Spring alternating between the US and Europe. The 2019 conference is due to be held in Europe. For a list of previous events please see the following:
+The IIIF community runs an annual conference every year in Spring alternating between the North America and Europe. The 2019 conference is due to be held in Europe. For a list of previous events please see the following:
 
 [http://iiif.io/event/][events]
 
-The conference adheres to the following structure:
+The conference generally adheres to the following structure but may evolve during the planning of the event:
 
  * Exec/Operating committee meeting
    * Roughly 20 to 30 people
@@ -21,20 +21,19 @@ The conference adheres to the following structure:
  * Outreach/Showcase event
    * Between 200 to 300 people and is used to give people an introduction to IIIF and show the latest developments
  * Day 1 - Workshops (~140 people)
-   * Open to the main conference participants and can range from introductions to more focused workshops sessions. Sessions are for between 30 to 40 people although some viewer workshops might work better as a focused set of presentations.
+   * Open to the main conference participants and can range from introductions to more focused workshop sessions. Sessions are for between 30 to 40 people although some viewer workshops might work better as a focused set of presentations in a larger room.
  * Day 2 - Plenary Session (~250 people)
-   * Starts with a update on the community, specifications and working groups.
+   * Starts with an update on the community, specifications and working groups.
    * Ends with lighting talks
- * Day 3 = parallel tracks (~250 people, parallel tracks)
-   * Run three parallel tracks previously
+ * Day 3 and possibly Day 4 = parallel tracks (~250 people, parallel tracks)
+   * Have run three parallel tracks previously
    * Ideally rooms would be close together to allow people to move between sessions
- * Day 4 = parallel tracks (~250 people (although some may leave early), parallel tracks)
-   * The start of day 4 is a continuation of parallel sessions and finishes with a plenary sessions.
+   * Finishes with a plenary sessions.
 
 The IIIF community welcomes and encourages consortium bids from a range of cultural heritage and academic institutions.
 
 # Ticket price and Sponsorship
-The IIIF Consortium look to cover the cost of running the conference through ticket sales to the main conference and through sponsorship. The Showcase event is usually free. In future conferences the IIIF community is looking to offer diversity scholarships to allow a more diverse range of people to attend.
+The IIIF Consortium looks to cover the cost of running the conference through ticket sales to the main conference and through sponsorship. The Showcase event is usually free. In future conferences the IIIF community is looking to offer diversity scholarships to allow a more diverse range of people to attend.
 
 Previously the conference has acknowledged sponsors during the conference but it would be interesting to explore spaces where sponsors could exhibit their systems and solutions.
 

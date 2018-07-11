@@ -12,11 +12,13 @@ The IIIF Community is looking for volunteers to host the 2019 spring IIIF Annual
 
 The IIIF Community welcomes joint bids between institutions which reflect the variety of cultural heritage and academic institutions using IIIF.
 
-If you are interesting in submitting a bid please read [the guidance notes][guidance] on running a IIIF conference and fill in the following form by **Friday the 7th of September 2018**:
+If you are interesting in submitting a bid please fill in the following form by **Friday the 7th of September 2018**:
 
 [https://goo.gl/forms/pzyXE4a57JIzy5SC3 ][form]
 
-For information, details on previous conferences can be found below:
+Detail of the requirements of a IIIF Conference can be found in [these guidance notes][guidance].
+
+Details on previous conferences can be found below:
 
 * [Spring 2018 IIIF Conference: Washington, DC][washington2018], USA
 * [Spring 2017 IIIF Conference: The Vatican][vatican], Italy
