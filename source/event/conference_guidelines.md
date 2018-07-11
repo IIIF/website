@@ -8,7 +8,7 @@ cssversion: 2
 # IIIF Annual Conference
 # Guidance for hosting an event
 
-The IIIF community runs an annual conference every year in Spring alternating between the North America and Europe. The 2019 conference is due to be held in Europe. For a list of previous events please see the following:
+The IIIF community runs an annual conference every year in Spring, alternating between the North America and Europe. The 2019 conference is due to be held in Europe. For a list of previous events please see the following:
 
 [http://iiif.io/event/][events]
 
@@ -26,7 +26,7 @@ The conference generally adheres to the following structure but may evolve durin
    * Starts with an update on the community, specifications and working groups.
    * Ends with lighting talks
  * Day 3 and possibly Day 4 = parallel tracks (~250 people, parallel tracks)
-   * Have run three parallel tracks previously
+   * Generally three parallel tracks 
    * Ideally rooms would be close together to allow people to move between sessions
    * Finishes with a plenary sessions.
 
