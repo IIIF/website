@@ -19,6 +19,12 @@ These are events that have a IIIF presence, presentation, workshop or other tie 
 <table id="events-2018" class="api-table"></table>
 <table id="events-2019" class="api-table"></table>
 
+__IIIF Event Guidance__
+
+Information on hosting a IIIF Event.
+
+ * [Hosting a IIIF Conference][conference]
+
 __Previous IIIF Events__
 
 * Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
@@ -119,3 +125,4 @@ function addTable(destination, gtable) {
 [dc]: {{ site.url }}{{ site.baseurl }}/event/2015/washington/
 [london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
 [outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach/
+[conference]: {{ site.url }}{{ site.baseurl }}/event/conference_guidelines/
