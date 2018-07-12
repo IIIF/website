@@ -10,7 +10,7 @@ cssversion: 2
 
 The IIIF community runs an annual conference every year in Spring, alternating between the North America and Europe. The 2019 conference is due to be held in Europe. For a list of previous events please see the following:
 
-[{{ site.url }}{{ site.baseurl }}/event/][events]
+[https://iiif.io/event/][events]
 
 The conference generally adheres to the following structure but may evolve during the planning of the event:
 
