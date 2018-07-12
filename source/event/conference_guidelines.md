@@ -25,7 +25,7 @@ The conference generally adheres to the following structure but may evolve durin
  * Day 2 - Plenary Session (~250 people)
    * Starts with an update on the community, specifications and working groups.
    * Ends with lighting talks
- * Day 3 and possibly Day 4 = parallel tracks (~250 people, parallel tracks)
+ * Day 3 and possibly Day 4 - parallel tracks (~250 people, parallel tracks)
    * Generally three parallel tracks
    * Ideally rooms would be close together to allow people to move between sessions
    * Finishes with a plenary sessions.
