@@ -14,14 +14,14 @@ The IIIF community runs an annual conference every year in Spring, alternating b
 
 The conference generally adheres to the following structure but may evolve during the planning of the event:
 
- * Exec/Operating committee meeting
-   * Roughly 20 to 30 people
-   * Needs to be scheduled to avoid the outreach event and conference where possible.
-   * Previous meetings have been held during the Workshop sessions.  
+
  * Outreach/Showcase event
    * Between 200 to 300 people and is used to give people an introduction to IIIF and show the latest developments
  * Day 1 - Workshops (~140 people)
    * Open to the main conference participants and can range from introductions to more focused workshop sessions. Sessions are for between 30 to 40 people although some viewer workshops might work better as a focused set of presentations in a larger room.
+ * Exec/Operating committee meeting
+  * A meeting room for 20-30 with A/V at a time concurrent to the workshops
+  * Committee meetings last between 3 to 4 hours.
  * Day 2 - Plenary Session (~250 people)
    * Starts with an update on the community, specifications and working groups.
    * Ends with lighting talks
@@ -44,6 +44,7 @@ The conference is a technical conference where presenters like to demo systems l
  * Provided laptop at the front of the room
  * Projector with a large screen
  * Support for presenters to use their own laptops
+ * Large rooms will require handheld microphones for attendees to ask presenters questions 
 
 Speakers to transmit audio will also be required for the showcase and plenary sessions and by arrangement for some parallel sessions.  
 
