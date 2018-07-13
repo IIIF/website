@@ -16,7 +16,7 @@ If you are interesting in submitting a bid please fill in the following form by 
 
 [https://goo.gl/forms/pzyXE4a57JIzy5SC3 ][form]
 
-Detail of the requirements of a IIIF Conference can be found in [these guidance notes][guidance].
+Details of the requirements for a IIIF Conference can be found in [these guidance notes][guidance].
 
 Details on previous conferences can be found below:
 
