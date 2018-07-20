@@ -63,6 +63,6 @@ Community members and consortium members representing IIIF-C Associate members w
 [groups-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/
 [w3c-good-standing]: https://www.w3.org/2014/Process-20140801/#good-standing
 [tsg-channels]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/#communication-channels
-[editors-process]: {{ site.url }}{{ site.baseurl }}/api/annex/notes/editors/#community-process
+[editors-process]: {{ page.webprefix }}/api/annex/notes/editors/#community-process
 
 {% include acronyms.md %}
