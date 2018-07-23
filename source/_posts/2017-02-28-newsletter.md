@@ -195,7 +195,7 @@ Rashmi Singhal (Harvard)
 [harvard-coins]: http://numishare.blogspot.com/2017/02/harvard-art-museums-coins-reprocessed.html
 [polonsky]: http://bav.bodleian.ox.ac.uk/news/the-polonsky-project-and-iiif
 [Plaoul]: http://mirador.scta.info/#/peter-plaoul?_k=4933sr
-[demetsiiify]: https://demetsiiify.jbaiter.de/
+[demetsiiify]: https://github.com/jbaiter/demetsiiify
 [bodleian-buttons]: http://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+,t+,rsrs+0,rsps+10,fa+ox%3Acollection%5EEphemera,so+ox%3Asort%5Easc,scids+,pid+,vi+
 [4science]: http://www.4science.it/en/iiif-image-viewer/
 [eLife]: https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif
