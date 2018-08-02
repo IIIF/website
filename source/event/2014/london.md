@@ -70,6 +70,6 @@ All IIIF Events are covered by the [IIIF Code of Conduct][conduct]. IIIF is comm
 [event-brite]: https://www.eventbrite.com/e/shared-images-of-global-cultural-heritage-tickets-12961304611
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [logistics]: #logistics
-[bl-cc]: http://www.bl.uk/conferencecentre/conference.html
+[bl-cc]: https://www.bl.uk/venue-hire
 [image-api]: {{ page.webprefix }}/api/image/2.0/
 [prezi-api]: {{ page.webprefix }}/api/presentation/2.0/
