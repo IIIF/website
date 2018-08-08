@@ -1,7 +1,7 @@
 ---
 title: "IIIF Archives Community Group"
 layout: spec
-tags: [3d]
+tags: []
 cssversion: 2
 ---
 
@@ -26,7 +26,9 @@ By participating in the IIIF Archives Community Group, you will help set best pr
 
 **Chairs:**
 
-  * TBD
+  * Rebecca Hirsch (Yale University)
+  * Josh Schneider (Stanford University)
+  * Mark Matienzo (Stanford University)
 
 **Communication Channels:**
 
