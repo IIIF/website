@@ -1,0 +1,30 @@
+- name: S. Dillon Ripley Center, Smithsonian Institution
+  note: Location of the workshpos on Monday 21st of May.
+  address: 1100 Jefferson Dr SW, Washington, DC 20560, USA
+  url: https://www.si.edu/museums/ripley-center
+  lat: 38.888564
+  lng: -77.026868
+- name: Library of Congress, Thomas Jefferson Building
+  note: Location of the Showcase and plenary sessions on Tuesday and Wednesday May 22nd and 23rd.
+  address: 101 Independence Ave SE, Washington, DC 20540, USA
+  url: https://www.loc.gov/visit/maps-and-floor-plans/
+  lat: 38.888695
+  lng: -77.004719
+- name: Folger Shakespeare Library
+  note: Location of reception after the Showcase on Tuesday May 22nd.
+  address: 201 E Capitol St SE, Washington, DC 20003, USA
+  url: https://www.folger.edu/visit
+  lat: 38.889372
+  lng: -77.002755
+- name: Smithsonian Castle
+  note: Location of the conference reception on Wednesday May 23rd
+  address: 1000 Jefferson Dr SW, Washington, DC 20560, USA
+  url: https://www.si.edu/specialevents/smithsoniancastle
+  lat: 38.888795
+  lng: -77.026026
+- name: Library of Congress, James Madison Memorial Building
+  note: Location of conference parallel sessions on Thursday and Friday May 24th and 25th.
+  address:  101-199 Independence Ave SE, Washington, DC 20540, USA
+  url: https://www.loc.gov/visit/maps-and-floor-plans/
+  lat: 38.886772
+  lng: -77.004622

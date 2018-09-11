@@ -13,7 +13,7 @@ With the goal of pursuing additional phases of OpenJPEG improvements, the IIIF c
 
 * [**JPEG2000 and OpenJPEG Survey**][survey]
 
-The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Sheila Rabun, IIIF Community and Communications Officer, at <srabun@iiif.io>, and Glen Robson, IIIF Technical Coordinator, at <glen.robson@iiif.io>.
+The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Glen Robson, IIIF Technical Coordinator, at <glen.robson@iiif.io>.
 
 The [OpenJPEG improvement project][improvement] has been made possible with funding from the Wellcome Library, Stanford University, the Nationale Bibliotheek van Nederland (KBNL), and the University of Michigan, in partnership with the International Image Interoperability Framework (IIIF) Consortium, the Council on Library and Information Resources (CLIR), intoPIX, and the Image and Signal Processing Group (ISPGroup) from University of Louvain (UCL, Belgium) hosting the OpenJPEG project. Many thanks also to developer Even Rouault, and to all contributors.
 

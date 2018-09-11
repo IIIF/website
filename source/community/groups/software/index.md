@@ -23,8 +23,8 @@ To advance the growth and adoption of interoperable software with IIIF, the Soft
 
 **Chairs:**
 
-  * Rashmi Singhal (Harvard University)
   * Drew Winget (Stanford University)
+  * Shaun Ellis (Princeton University)
 
 **Communication Channels:**
 

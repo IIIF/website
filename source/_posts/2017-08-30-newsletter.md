@@ -13,7 +13,7 @@ excerpt: >
  * [IIIF-Discuss][iiif-discuss] = 737 members  
  * [IIIF Slack][join-slack] = 492 members
  * IIIF images online = 345+ million
- * [IIIF Consortium][iiif-c]: 46 institutions. The IIIF Consortium (IIIF-C) continues to welcome founding members through December 2017 (please email <srabun@iiif.io> or see the [IIIF-C FAQ][iiifc-faq] for more information). Welcome to our newest founding members:
+ * [IIIF Consortium][iiif-c]: 46 institutions. The IIIF Consortium (IIIF-C) continues to welcome founding members through December 2017 (please email <admin@iiif.io> or see the [IIIF-C FAQ][iiifc-faq] for more information). Welcome to our newest founding members:
 
     * [École polytechnique fédérale de Lausanne][epfl] (EPFL)
     * [Folger Shakespeare Library][folger]
@@ -42,7 +42,7 @@ Are you a software developer working with IIIF, or preparing to work with IIIF? 
 Based on recent discussions at the IIIF Conference in the Vatican, a survey is now underway to gauge community-wide interest in forming a IIIF 3D Community Group. If you are working with 3D and/or are interested in participating in such a group, please complete the [IIIF 3D Community Group Expression of Interest][3d-survey] survey.
 
 ### IIIF and STEM (Science, Technology, Engineering, and Medicine)
-As interest in IIIF grows into the STEM community, interested parties are looking to organize a call to scope the current and prospective use cases for STEM and IIIF. If you are interested in joining the call, please complete the [call planning poll][stem-poll].
+As interest in IIIF grows into the STEM community, interested parties are looking to organize a call to scope the current and prospective use cases for STEM and IIIF. If you are interested in joining the call, please complete the call planning poll (now closed).
 
 ### IIIF Adopters Survey
 Are you researching, experimenting with, or fully supporting IIIF at your institution? Please help us scope the IIIF Universe and levels of adoption across the community by completing our 5 minute “[Basic IIIF Adopters Survey][survey]”. Many thanks to the 73 institutions who have completed the survey so far. Survey results indicate that there are currently over 345 million images on the web that comply with one or more IIIF APIs. This number is growing on a daily basis as many institutions are continuously adding additional IIIF images to their digital repositories. The [IIIF Community List][comm-list] has been updated, and there are over 100 institutions participating in the IIIF community.
@@ -92,7 +92,7 @@ Many thanks again to our 2017 IIIF Conference sponsors:
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Those planning to present on IIIF at a conference or meeting, please fill out the [IIIF Representation at Conferences and Meetings][outreach-survey] Survey. Recent and upcoming IIIF appearances include:
 
 * National meeting of Directors of Public Libraries in Cuba, May 2017
-* [Music Encoding Conference][mec], May 2017
+* Music Encoding Conference, May 2017
 * Archiving Conference, May 2017
 * [Early Modern Manuscripts Online: New Directions in Teaching and Research][folger-event] at the Folger, May 2017
 * NISO Virtual Conference: Images: Digitization & Preservation of Special Collections in Libraries, Museums and Archives, June 2017
@@ -122,13 +122,13 @@ The [IIIF Discovery Technical Specification Group][discovery-group] recently fin
 The [IIIF Text Granularity Technical Specification Group][textgran], chaired by Peter Binkley (University of Alberta) and Michael Appleby (Yale Center for British Art), has established a bi-weekly call schedule (every other Tuesday at 1pm Eastern, see [group page][textgran] for details) for focused work on specifying levels of granularity for annotations. After comparing the general granularity structure and requirements of various OCR outputs, the group plans to test multiple OCR extraction processes and outputs, map them onto IIIF manifests,  and compare results. The group will meet in person at the [IIIF Working Meeting in Toronto][toronto].
 
 ### OpenJPEG Improvement Project
-The [OpenJPEG improvement project][open-jpeg] is well underway, with [OpenJPEG v. 2.2.1][open-jpeg221] just released on August 9, 2017 as part of the collaborative effort to facilitate improvement of [OpenJPEG][openjpeg]. Project status can be tracked via [GitHub][openjpeg-github]. The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Sheila Rabun, IIIF Community and Communications Officer, at <srabun@iiif.io>.
+The [OpenJPEG improvement project][open-jpeg] is well underway, with [OpenJPEG v. 2.2.1][open-jpeg221] just released on August 9, 2017 as part of the collaborative effort to facilitate improvement of [OpenJPEG][openjpeg]. Project status can be tracked via [GitHub][openjpeg-github]. The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Glen Robson, IIIF Technical Coordinator, at <glen.robson@iiif.io>.
 
 ### IIIF Consulting: American Art Collaborative
-The IIIF Consortium is partnering with the American Art Collaborative (AAC) to provide technical consulting for eight AAC museums as part of a grant from the Andrew W. Mellon foundation. In collaboration with Sara and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and Jason Ronallo, head of Digital Library Initiatives at NCSU Libraries, the museums will receive hands-on guidance and specific recommendations for implementing IIIF. The documentation and learnings from this engagement will be used to improve the [IIIF Quick Start Guide][quick-start] as well as launch a service for implementation consulting for future prospective adopters. For more info, contact Sheila Rabun at <srabun@iiif.io>.
+The IIIF Consortium is partnering with the American Art Collaborative (AAC) to provide technical consulting for eight AAC museums as part of a grant from the Andrew W. Mellon foundation. In collaboration with Sara and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and Jason Ronallo, head of Digital Library Initiatives at NCSU Libraries, the museums will receive hands-on guidance and specific recommendations for implementing IIIF. The documentation and learnings from this engagement will be used to improve the [IIIF Quick Start Guide][quick-start] as well as launch a service for implementation consulting for future prospective adopters. For more info, contact Glen Robson at <admin@iiif.io>.
 
 ## Community Groups:
-IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <http://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Working Meeting in Toronto][toronto], October 11-13.
+IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <{{ site.url }}{{ site.baseurl }}/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Working Meeting in Toronto][toronto], October 11-13.
 
 ### Manuscripts Community Group
 In addition to a multitude of manuscript-related presentations, the [IIIF Manuscripts Community Group][manuscripts] held a two-hour meeting with over 45 people at the 2017 IIIF Conference in The Vatican. The group plans to focus on metadata and manifest best practices, outreach in the manuscripts community, and follow the work of the IIIF Text Granularity Specification Group. The IIIF Manuscripts group will meet in-person again at the 2017 IIIF Working Meeting in Toronto, October 11-13.
@@ -262,26 +262,24 @@ Sheila Rabun, IIIF Community and Communications Officer
 [toronto]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto/
 [toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase/
 [submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
-[av-group]: http://iiif.io/community/groups/av/
+[av-group]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
 [masahide]: http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2017/test/iiifav-bl-fixture-collection.json
-[textgran]: http://iiif.io/community/groups/text-granularity/
-[open-jpeg]: http://iiif.io/news/2017/04/27/openjpeg-improvement/
+[textgran]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
+[open-jpeg]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
 [open-jpeg221]: https://groups.google.com/forum/#!searchin/iiif-discuss/openjpeg%7Csort:relevance/iiif-discuss/LWVEIg0-xOg/zYyxc09cAQAJ
-[groups]: http://iiif.io/community/groups/
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [avalon-poc]: https://github.com/avalonmediasystem/avalon-iiif-player
 [sfmoma]: https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma%7Csort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ
 [Brumfield-Labs]: http://www.brumfieldlabs.com
-[stem-poll]: http://doodle.com/poll/89db7nik6edydksk
 [folger-event]: http://folgerpedia.folger.edu/Early_Modern_Manuscripts_Online:_New_Directions_in_Teaching_and_Research
 [basel-event]: http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/termine-veranstaltungen/sammlungsuebergreifend-forschen/
 [or]: https://or2017.net/
 [digipalooza]: https://digipalooza.com/
-[mec]: http://music-encoding.org/community/conference/
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
 [slu]: https://github.com/CenterForDigitalHumanities
-[avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/build/
+[avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/
 [presi3]: http://prezi3.iiif.io/api/presentation/3.0
-[discovery-group]: http://iiif.io/community/groups/discovery/
+[discovery-group]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
 [openjpeg]: http://www.openjpeg.org/
 [openjpeg-github]: https://github.com/uclouvain/openjpeg/projects/1
@@ -360,4 +358,4 @@ Sheila Rabun, IIIF Community and Communications Officer
 [edui]: http://eduiconf.org/
 [nga]: https://www.nga.gov/content/ngaweb.html
 [smithsonian]: https://www.si.edu/
-[japan]: http://iiif.io/news/2017/08/21/iiif-in-japan/
+[japan]: {{ site.url }}{{ site.baseurl }}/news/2017/08/21/iiif-in-japan/

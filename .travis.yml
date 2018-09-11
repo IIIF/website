@@ -1,8 +1,9 @@
-sudo: false
+sudo: required
+dist: trusty
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - npm install -g grunt-cli
+  - npm install -g grunt-cli 
 
 install:
   - bundle install
@@ -11,10 +12,9 @@ install:
 # environment
 language: ruby
 rvm:
-  - 2.2.3
+  - 2.4.2
 jdk:
   - oraclejdk8
-dist: precise
 
 cache:
   directories:

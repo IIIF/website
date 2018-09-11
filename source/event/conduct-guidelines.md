@@ -12,7 +12,7 @@ Changes to this document will be tracked within and reflected via its [internal 
 
 ## What to do when a report is received
 
-* In-person - when a verbal report is received in-person, the person who received the initial report should take down the information listed above. The person may take immediate action if the situation poses an immediate threat. If a threat is not immediate, the person who received the initial report should locate at least one other team member to share the report and discuss next steps. All members of the team should then be alerted, with a plan to meet and discuss the complaint in question.
+* In-person - when a verbal report is received in-person, the person who received the initial report should take down the information listed in the [Reporting Guidelines][guidelines]. The person may take immediate action if the situation poses an immediate threat. If a threat is not immediate, the person who received the initial report should locate at least one other team member to share the report and discuss next steps. All members of the team should then be alerted, with a plan to meet and discuss the complaint in question.
 * Virtual - when a virtual report is received either through email, chat, or conference call, all members of the team should be alerted and incident information shared immediately if they have not been already. Discussion of the report may take place asynchronously via chat or email, or the team members may schedule a meeting to discuss the situation.
 
 ## Identification of Team members at in-person events
@@ -43,14 +43,17 @@ Changes to this document will be tracked within and reflected via its [internal 
 
 * How to report an incident or other concerns effectively
     * Send an email to <iiif-conduct@googlegroups.com>
-    * Send a direct message to @srabun via [IIIF Slack][iiif-slack]
+    * Send a direct message to @glen.robson via [IIIF Slack][iiif-slack]
 
 ## Change Log
 
   | Date       | Description                                                         |
   | ---------- | ------------------------------------------------------------------- |
-  | 2017-08-01 | First release |
+  | 2017-08-01 | First release                                                       |
+  | 2017-12-01 | Updating contact details - Glen Robson                              |
+  | 2018-05-18 | Inclusion of link to reporting guidelines - Mark Matienzo           |
 
 [iiif-slack]: https://iiif.slack.com
 [iiif-conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [change-log]: #change-log "Change Log"
+[guidelines]: {{ site.url }}{{ site.baseurl }}/event/conduct/#reporting-guidelines

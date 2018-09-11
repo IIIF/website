@@ -11,11 +11,8 @@ The IIIF Consortium (IIIF-C) was formed in [June 2015][news] in Oxford, England,
 
 ## Staff
 
-Sheila Rabun  
-IIIF Community and Communications Officer  
-srabun@iiif.io
-
-
+ * IIIF Managing Director - Currently out for recruitment see [job advert][job_advert].
+ * IIIF Technical coordinator, Glen Robson - <glen.robson@iiif.io>
 
 ## Members
 
@@ -34,3 +31,4 @@ srabun@iiif.io
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
 [news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
+[job_advert]: https://www.clir.org/about/positions/iiif/

@@ -14,7 +14,7 @@ redirect_from:
 
 ## Introduction
 
-The International Image Interoperability Framework community ([http://iiif.io/][home-page]) is hosting a one day information sharing event about the use of images in and across Cultural Heritage institutions.  The day will focus on how museums, galleries, libraries and archives, or any online image service, can take advantage of a powerful technical framework for interoperability between image repositories.   This event will be valuable for organizational decision makers, repository and collection managers, software engineers, and anyone interested in exploring the wide range of use cases that are seamlessly enabled by the framework.  This is the only such event planned, so don't miss it!
+The International Image Interoperability Framework community ([{{ site.url }}{{ site.baseurl }}/][home-page]) is hosting a one day information sharing event about the use of images in and across Cultural Heritage institutions.  The day will focus on how museums, galleries, libraries and archives, or any online image service, can take advantage of a powerful technical framework for interoperability between image repositories.   This event will be valuable for organizational decision makers, repository and collection managers, software engineers, and anyone interested in exploring the wide range of use cases that are seamlessly enabled by the framework.  This is the only such event planned, so don't miss it!
 
 Attendance is free, and widespread dissemination of the event is encouraged.  [Registration][logistics] is required in order to ensure that we do not exceed the capacity of the venue.  The event is hosted by the British Library in London, and will take place on Monday 20th of October, 2014.  The event will be held in the [British Library Conference Center][bl-cc].
 
@@ -70,6 +70,6 @@ All IIIF Events are covered by the [IIIF Code of Conduct][conduct]. IIIF is comm
 [event-brite]: https://www.eventbrite.com/e/shared-images-of-global-cultural-heritage-tickets-12961304611
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [logistics]: #logistics
-[bl-cc]: http://www.bl.uk/conferencecentre/conference.html
+[bl-cc]: https://www.bl.uk/venue-hire
 [image-api]: {{ page.webprefix }}/api/image/2.0/
 [prezi-api]: {{ page.webprefix }}/api/presentation/2.0/

@@ -92,7 +92,7 @@
   uri: https://www.ugent.be/en
   iiifc:
 - name: Gottingen State and University Library
-  uri: https://textgrid.de/en/
+  uri: https://www.sub.uni-goettingen.de
   iiifc: 2
 - name: Harvard Art Museums
   uri: http://www.harvardartmuseums.org/
@@ -105,9 +105,6 @@
 - name: Hill Museum & Manuscript Library (HMML)
   uri: https://www.vhmml.org/
   iiifc:
-- name: Holoscene
-  uri: http://holoscene.io
-  iiifc:
 - name: Huygens ING (KNAW)
   uri: https://www.huygens.knaw.nl/
 - name: Indiana University
@@ -118,6 +115,9 @@
   iiifc:
 - name: Johns Hopkins University
   uri: http://library.jhu.edu
+  iiifc: 2
+- name: Kansai University
+  uri: http://www.kansai-u.ac.jp
   iiifc: 2
 - name: Keio University Libraries
   uri: http://www.lib.keio.ac.jp/en/
@@ -147,22 +147,28 @@
 - name: MIT Libraries
   uri: http://libraries.mit.edu
   iiifc: 2
+- name: Mnemoscene
+  uri: http://mnemoscene.io
+  iiifc:
 - name: Moravian Library (Moravská zemská knihovna)
   uri: https://www.mzk.cz/
   iiifc:
 - name: National Gallery of Art
   uri: http://www.nga.gov
   iiifc: 2
+- name: National Institute of Informatics
+  uri: https://www.nii.ac.jp/
+  iiifc: 2
 - name: National Library of Austria
   uri: https://www.onb.ac.at/en/
 - name: Nasjonalbiblioteket (National Library of Norway)
-  uri: http://www.nb.no/English
+  uri: https://www.nb.no/en/the-national-library-of-norway/
   iiifc: 1
 - name: National Library of Denmark
   uri: http://www.kb.dk/en/
-- name: National Library of Egypt
-  uri: http://www.darelkotob.gov.eg/index.html
-  iiifc:
+#- name: National Library of Egypt
+# uri: http://www.darelkotob.gov.eg/index.html
+#  iiifc:
 - name: National Library of Israel
   uri: http://www.nli.org.il
   iiifc: 2
@@ -178,6 +184,7 @@
   uri: https://www.nb.rs/?change_lang=en
 - name: National Library of Wales
   uri: https://www.llgc.org.uk/
+  iiifc: 2
 - name: Nationalmuseum Sweden
   uri: http://www.nationalmuseum.se
 - name: New York University Libraries
@@ -188,7 +195,6 @@
   iiifc: 2
 - name: OCLC
   uri: http://www.oclc.org/
-  iiifc: 2
 - name: Ohio State University
   uri: https://www.osu.edu/
   iiifc: 2
@@ -198,6 +204,9 @@
 - name: Princeton University Library
   uri: http://library.princeton.edu
   iiifc: 1
+- name: Princeton University Art Museum
+  uri: http://artmuseum.princeton.edu/
+  iiifc:
 - name: Public Record Office Victoria
   uri: https://www.prov.vic.gov.au/
 - name: Qatar National Library
@@ -217,6 +226,9 @@
   iiifc: 1
 - name: State Library of Queensland
   uri: http://www.slq.qld.gov.au/
+  iiifc:
+- name: Stockholm University
+  uri: https://www.su.se/
   iiifc:
 - name: Synaptica
   uri: http://www.synaptica.com/
@@ -241,6 +253,7 @@
   iiifc: 2
 - name: University of California, Los Angeles
   uri: http://www.ucla.edu/
+  iiifc: 2
 - name: University of California, Santa Barbara
   uri: http://www.ucsb.edu/
 - name: University of Edinburgh
@@ -250,7 +263,7 @@
   uri: http://hms.scot/fiddle/copies/
   iiifc:
 - name: University of Hong Kong
-  uri: http://hku.hk/
+  uri: http://lib.hku.hk
   iiifc: 2
 - name: University of Illinois at Urbana-Champaign
   uri: http://illinois.edu/

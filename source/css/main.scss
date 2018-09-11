@@ -398,21 +398,6 @@ a.button-turquoise {
   margin-left: 20px;
 }
 
-.sub-pages-container .image-api {
-  color: #222;
-}
-
-.sub-pages-container .image-api .names {
-  list-style-type: none;
-  margin: 1em 0 0 0;
-  padding-left: 20px;
-}
-
-.sub-pages-container .image-api .names li {
-  line-height: 1.1;
-  padding-left: 0;
-}
-
 .sub-pages-container .toc ol {
   counter-reset: item;
   margin: 0;
@@ -767,6 +752,28 @@ a.button-turquoise {
     float: right;
     text-align: right;
     width: 70%;
+  }
+
+  .washington-nav a:link,.washington-nav a:visited,.washington-nav a:hover,.washington-nav a:active {
+     // color: white;
+    padding: 10px 10px 10px 4%;
+    margin-right: 5px;
+  }
+
+  .washington-nav {
+      text-align: center;
+      width: 100%;
+      margin: auto;
+      //background-color:#1A3E59;
+      background-color: #21252c;
+  }
+  .washington-links a:link {
+      border-bottom: none;
+  }
+
+  .washington-links li a.is-selected {
+    color: black;
+    background-color:white;
   }
 
   nav a:link, nav a:visited, nav a:hover, nav a:active {

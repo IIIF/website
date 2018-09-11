@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://iiif.io/sitemap.xml
+Sitemap: https://iiif.io/sitemap.xml

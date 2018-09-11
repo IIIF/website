@@ -7,6 +7,16 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+page_gen-dirs: false
+page_gen:
+  - index_files: false
+    data: 'washington_submissions'
+    template: 'submission'
+    name: 'id'
+    dir: 'event/2018/washington/program'
+    extension: 'html'
+    filter_condition: "record['decision'] == 'ACCEPT'"
+
 kramdown:
   input: GFM
   parse_block_html: true
@@ -49,4 +59,4 @@ defaults:
     scope:
       path: ""
     values:
-      webprefix: "http://iiif.io"
+      webprefix: "https://iiif.io"

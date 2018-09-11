@@ -13,7 +13,7 @@ excerpt: >
  * [IIIF-Discuss][iiif-discuss] = 641 members  
  * [IIIF Slack][join-slack] = 257 members  
  * [IIIF Consortium][iiif-c]  = Pennsylvania State University and the University of Basel Digital Humanities Lab are the newest additional founding members to join the IIIF Consortium (IIIF-C), bringing total membership to 41 institutions. The IIIF-C continues to welcome founding members. See the [IIIF Consortium][iiif-c] information page for details and how to join.
- * Search process for a [IIIF Technology Coordinator][tech-coordinator] is underway.
+ * Search process for a IIIF Technology Coordinator is underway.
 
 ### IIIF Adopters Survey
  * Are you researching, experimenting with, or fully supporting IIIF at your institution? Please help us scope the IIIF Universe and levels of adoption across the community by completing this quick, 5 minute, [Basic IIIF Adopters Survey][survey-basic].
@@ -49,7 +49,7 @@ June 6, 2017: IIIF Showcase: Unlocking the World’s Digital Images
  * The [Mirador Viewer][mirador] and [Universal Viewer][uv] group meetings will take place on Monday, June 5, prior to the Showcase and Conference. Registration is not required, but if you plan to attend, please RSVP via the [Showcase][showcase-reg] and/or [Conference][conference-reg] registration forms.
 
 ### IIIF and IPTC
-A recent call with representatives from both IIIF and the [International Press Telecommunications Council (IPTC)][iptc], the global standards body for news media, has resulted in plans for exploration of the alignment of IPTC metadata and IIIF models, with a goal of identifying IPTC attributes relevant to IIIF and how IIIF APIs relate to IPTC standards. This work is expected to help all stakeholders (IIIF community, IPTC members, DAMS providers, imaging community) get a sense of how the two frameworks relate to each other. If you would like to help with this effort, please contact Sheila Rabun (IIIF Community and Communications Officer) at srabun@iiif.io.
+A recent call with representatives from both IIIF and the [International Press Telecommunications Council (IPTC)][iptc], the global standards body for news media, has resulted in plans for exploration of the alignment of IPTC metadata and IIIF models, with a goal of identifying IPTC attributes relevant to IIIF and how IIIF APIs relate to IPTC standards. This work is expected to help all stakeholders (IIIF community, IPTC members, DAMS providers, imaging community) get a sense of how the two frameworks relate to each other. If you would like to help with this effort, please contact Sheila Rabun (IIIF Community and Communications Officer) at admin@iiif.io.
 
 ### IIIF Presence at Conferences and Meetings
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Those planning to present on IIIF at a conference or meeting, please fill out the [IIIF Representation at Conferences and Meetings][outreach-survey] Survey. Recent and upcoming IIIF appearances include:
@@ -117,7 +117,7 @@ The [IIIF Software Developers group][devs] meets every other week to share their
  * University of Toronto developing Mirador and IIIF import plugins for Omeka ([demo][toronto-demo])
  * KU Leuven using Mirador for several projects, including: Lectio, Alamire, Codex Eyckensis and 8th century evangelarium ([demo][leuven-demo])
  * Stanford University Libraries integration of IIIF and Spotlight, using the Leaflet-IIIF cropping tool ([demo][spotlight-demo])
- * The National Library of Wales and Digirati to begin work on a [crowdsourcing platform for Wales][wales-news], supporting [IIIF and Web Annotations][wales-tech].
+ * The National Library of Wales and Digirati to begin work on a [crowdsourcing platform for Wales][wales-news], supporting IIIF and Web Annotations.
  * University of California, Los Angeles, leveraging IIIF and multispectral imaging for the [Sinai Palimpsests Scholar’s site][sanai]
  * [Harvard Art Museums coin images made available via IIIF at nomisma.org][harvard-coins]
  * [The Polonsky Project and IIIF][polonsky] collaboration between the Bodleian Libraries and the Biblioteca Apostolica Vaticana
@@ -141,7 +141,6 @@ Rashmi Singhal (Harvard)
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[tech-coordinator]: https://www.clir.org/about/positions/iiif_technology_coordinator
 [iptc]: https://iptc.org/
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
 [iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
@@ -196,10 +195,10 @@ Rashmi Singhal (Harvard)
 [harvard-coins]: http://numishare.blogspot.com/2017/02/harvard-art-museums-coins-reprocessed.html
 [polonsky]: http://bav.bodleian.ox.ac.uk/news/the-polonsky-project-and-iiif
 [Plaoul]: http://mirador.scta.info/#/peter-plaoul?_k=4933sr
-[demetsiiify]: https://demetsiiify.jbaiter.de/
+[demetsiiify]: https://github.com/jbaiter/demetsiiify
 [bodleian-buttons]: http://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+,t+,rsrs+0,rsps+10,fa+ox%3Acollection%5EEphemera,so+ox%3Asort%5Easc,scids+,pid+,vi+
 [4science]: http://www.4science.it/en/iiif-image-viewer/
-[eLife]: https://elifesciences.org/elife-news/international-image-interoperability-framework-iiif-science-publishers
+[eLife]: https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif
 [eLife-anno]: https://via.hypothes.is/http:/www.nature.com/news/annotating-the-scholarly-web-1.18900
 [bbmn]: http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/
 [edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
