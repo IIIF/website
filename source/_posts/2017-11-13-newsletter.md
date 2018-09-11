@@ -72,7 +72,7 @@ A series of IIIF events in Japan the week of October 16-20, 2017 provided forums
 The IIIF community convened in person at the University of Toronto for the annual IIIF Working Meeting. Participants made progress on technical specifications, documentation and training, and community roadmapping - see [notes and slides][toronto-notes], as well as a [summary][toronto-summary] from the meeting.
 
 ### IIIF Workshop at the National Library of Poland, September 2017
-An Innovative Libraries workshop, part of the Digital Cultures Conference organised by the Adam Mickiewicz Institute, featured speakers from across the IIIF community. See the [Conference website][poland-conf] [preliminary programme][poland-program] (scroll down for the agenda in English)
+An Innovative Libraries workshop, part of the Digital Cultures Conference organised by the Adam Mickiewicz Institute, featured speakers from across the IIIF community. See the [Conference website][poland-conf].
 
 ### IIIF New England meet-up at Harvard, September 2017
 The IIIF team at Harvard hosted a regional IIIF meet-up on Friday, September 29 to connect with other institutions who have adopted or are adopting IIIF, to share interests, and to look for areas of potential collaboration. See [notes][harvard-notes] from the event.
