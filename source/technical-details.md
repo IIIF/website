@@ -39,16 +39,16 @@ One thing to consider is reaching out to the vendors of your current systems. Th
 You may also want to gain a greater familiarity with all of the terminology around IIIF. You can go through a [self-guided IIIF workshop][workshop] to gain a better understanding.
 {% endcapture %}
 
-{% include section.html class="step step-1" content=content %}
+{% include section.html class="step" content=content %}
 {% capture content %}
 ## Core APIs
 
 The work of implementing the IIIF APIs can be broken down into the core APIs ([Image][image api] and [Presentation][presentation api]) and additional APIs ([Authentication][auth api] and [Content Search][search api]). The recommendation is to implement the core APIs first, and then the others can be added later depending on your needs. Note that it is possible to iteratively improve your image and presentation implementations over time. You can get started with the Image and Presentation APIs at a simpler level and then return to add more features.
 {% endcapture %}
 
-{% include section.html class="step step-2" content=content %}
+{% include section.html class="step step-1" content=content %}
 {% capture content %}
-## Image API
+### Image API
 
 The [Image API][image api] allows for interoperable delivery of digital images. Simply, the API allows for constructing parameterized URIs for getting a particular region and/or size of an image. This ability to get regions and sizes of the image is what supports delivering thumbnails as well as deep zoom viewing. The image API also specifies a way to get information (info.json) about the image and what image derivatives and image manipulation features are supported for that image. What you need to implement is the server-side piece; later in this guide you can read about viewers for browsers.
 
@@ -61,7 +61,7 @@ The other option is to implement an image server (level 1 or 2). There are [many
 
 {% include section.html class="image-viewers" content=content %}
 {% capture content %}
-## Presentation API
+### Presentation API
 
 While the Image API will allow you to deliver and share images, the Image API alone does not carry any descriptive metadata with it. In order to share your resources and have descriptive metadata travel with the image you will want to implement the [Presentation API][presentation api]. If you have a group of images that together form a single resource, you'll use the Presentation API to sequence those images.
 
@@ -73,7 +73,6 @@ Manifests are highly nested JSON documents and can seem complicated, but once yo
 
 Once you have a basic manifest working in a presentation viewer, you can come back later and implement other presentation features like [linking properties]. These include ways to link out to semantic descriptive metadata and renderings like PDFs.
 
-*** YKK: what else to say here or maybe just point out to the IIIF Implementation Guide Brumfield Labs for examples?***
 {% endcapture %}
 
 {% include section.html class="impl-demos" content=content %}
@@ -82,7 +81,7 @@ Once you have a basic manifest working in a presentation viewer, you can come ba
 
 One choice you'll need to make is what viewer you want to use for your IIIF resources on your own site. The choice breaks down into viewers that support only the Image API and deep zoom and viewers that support the Presentation API for displaying metadata and more than one image. When [looking for a viewer] to use consider whether it is an image viewer or a presentation manifest viewer.
 
-Viewers made to deep zoom an image include [OpenSeadragon][osd] and [Leaflet-IIIF][leaflet]. Only the Image API needs to be implemented for a viewer of this kind to work. This kind of viewer is limited as it can only be used to view an image and cannot display metadata about your resources. This may be all that you need for your own site, though.
+Viewers made to deep zoom an image include [OpenSeadragon][osd] and [Leaflet-IIIF][leaflet]. Only the Image API needs to be implemented for a viewer of this kind to work. This kind of viewer is limited as it can only be used to view a single image and cannot display metadata about your resources. This may be all that you need for your own site, though.
 
 To present a manifest consider viewers like [Mirador][mirador] and [UniversalViewer][uv]. These viewers require both the Image and Presentation APIs be implemented. They can show metadata for the resource as a whole as well as have labels for individual page images and other features like download options. These rich client viewers can also be embedded on other sites. Mirador additionally allows for viewing and creating annotations on top of images in a manifest.
 
@@ -91,7 +90,7 @@ Whichever kind of viewer you implement for your own site you'll want to implemen
 To allow users to view your resources in another viewer you may also want to advertise that the resource has a presentation manifest available. You could link out from a resource page on your site to different viewers you host as well as include a special [drag & drop link][drag and drop] allowing a user to select their own tool.
 {% endcapture %}
 
-{% include section.html class="step step-3" content=content %}
+{% include section.html class="step step-2" content=content %}
 {% capture content %}
 ## Additional APIs
 
@@ -102,7 +101,7 @@ The Authentication API helps to manage a workflow for granting authenticated acc
 The Content Search API allows for searching within a resource. (Note that it does not help to find the resource in the first place, but only helps to search within a resource once a user has discovered it.) Consider implementing the search inside API if you have full text for multi-page resources. The full text could either be from transcription or OCR. Rich client-side viewers like Universal Viewer and Mirador support the content search API.
 {% endcapture %}
 
-{% include section.html class="defined-apis" content=content %}
+{% include section.html class="step step-3" content=content %}
 {% capture content %}
 ## Other Considerations
 
