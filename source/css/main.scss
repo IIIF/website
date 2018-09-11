@@ -384,6 +384,7 @@ a.button-turquoise {
   /*padding-bottom: 30px;*/
   padding: 30px 0 32px 0;
   text-align: center;
+  margin-bottom: 0px;
 }
 
 .sub-pages-container .technical-details a.button-turquoise {
@@ -826,6 +827,8 @@ a.button-turquoise {
   .sub-pages-container section.image-servers,
   .sub-pages-container section.impl-demos,
   .sub-pages-container section.get-involved,
+  .sub-pages-container section.community-driven,
+  .sub-pages-container section.indented,
   .sub-pages-container section.participants {
     box-sizing: border-box;
     padding-left: 110px;
@@ -844,6 +847,8 @@ a.button-turquoise {
   .sub-pages-container section.impl-demos { background: transparent url(../img/text-bg-impl-demos.png) left top no-repeat; }
   .sub-pages-container section.get-involved { background: transparent url(../img/text-bg-get-involved.png) left top no-repeat; }
   .sub-pages-container section.participants { background: transparent url(../img/text-bg-participants.png) left top no-repeat; }
+  .sub-pages-container section.community-driven { background: transparent url(../img/icon-community-driven-60x60.png) left top no-repeat; }
+  .sub-pages-container section.indented { margin-bottom: 0px }
 
   .sub-pages-container .api-table th {
     white-space: nowrap;
