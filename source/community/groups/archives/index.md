@@ -1,7 +1,7 @@
 ---
 title: "IIIF Archives Community Group"
 layout: spec
-tags: [3d]
+tags: []
 cssversion: 2
 ---
 
@@ -26,7 +26,9 @@ By participating in the IIIF Archives Community Group, you will help set best pr
 
 **Chairs:**
 
-  * TBD
+  * Rebecca Hirsch (Yale University)
+  * Josh Schneider (Stanford University)
+  * Mark Matienzo (Stanford University)
 
 **Communication Channels:**
 
@@ -36,7 +38,7 @@ By participating in the IIIF Archives Community Group, you will help set best pr
 
 **Call Notes and Group Documents**
 
-IIIF Archives Community Group Folder (https://goo.gl/H4EL4Q)
+[IIIF Archives Community Group Folder][archives-cg-folder]
 
 **Call Connection Information:**
 
@@ -49,6 +51,6 @@ IIIF Archives Community Group Folder (https://goo.gl/H4EL4Q)
 [https://stanford.zoom.us/j/517976218]: https://stanford.zoom.us/j/517976218
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-
+[archives-cg-folder]: https://goo.gl/H4EL4Q
 
 {% include acronyms.md %}
