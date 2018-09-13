@@ -23,7 +23,7 @@ cache:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
 before_deploy: if [[ ${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH} != master ]]; then
-  bundle exec jekyll clean && bundle exec jekyll build --baseurl /root/${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH} && ./scripts/updatePullRequest.sh;
+  bundle exec jekyll clean && bundle exec jekyll build --baseurl /root/${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH} && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
   else
   bundle exec jekyll clean && bundle exec jekyll build;
   fi
