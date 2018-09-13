@@ -3,11 +3,15 @@ dist: trusty
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - npm install -g grunt-cli 
+  - npm install -g grunt-cli
 
 install:
   - bundle install
+  - bundle info rspec
   - npm install grunt grunt-html --save-dev
+  - pip install --user awscli
+  - chmod 755 $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
+
 
 # environment
 language: ruby
@@ -17,8 +21,10 @@ jdk:
   - oraclejdk8
 
 cache:
+  bundler: true
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+  - $HOME/.local
 
 before_deploy: if [[ ${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH} != master ]]; then
   bundle exec jekyll clean && bundle exec jekyll build --baseurl /root/${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH};
@@ -53,11 +59,15 @@ deploy:
     on:
       all_branches: true
       condition: "$TRAVIS_BRANCH != master"
+after_deploy:
+  - aws configure set preview.cloudfront true
+  - test $TRAVIS_BRANCH = "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_LIVE --paths "/*"
+  - test $TRAVIS_BRANCH != "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_PREVIEW --paths "/root/$TRAVIS_BRANCH/*"
+
 
 notifications:
   email:
     recipients:
       - "glen.robson@gmail.com"
-      - "srabun@clir.org"
     on_success: "change"
     on_failure: "change"
