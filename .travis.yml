@@ -3,7 +3,7 @@ dist: trusty
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - npm install -g grunt-cli 
+  - npm install -g grunt-cli
 
 install:
   - bundle install
@@ -53,11 +53,14 @@ deploy:
     on:
       all_branches: true
       condition: "$TRAVIS_BRANCH != master"
+after_deploy:
+  - aws configure set preview.cloudfront true
+  - test $TRAVIS_BRANCH = "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_LIVE --paths "/*"
+  - test $TRAVIS_BRANCH != "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_PREVIEW --paths "/root/$TRAVIS_BRANCH/*"
 
 notifications:
   email:
     recipients:
       - "glen.robson@gmail.com"
-      - "srabun@clir.org"
     on_success: "change"
     on_failure: "change"
