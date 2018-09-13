@@ -8,7 +8,7 @@ before_install:
 install:
   - bundle install
   - npm install grunt grunt-html --save-dev
-  - pip install --user awscli
+  - pip -v install --user awscli
   - chmod 755 $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh
 
 
@@ -20,11 +20,14 @@ jdk:
   - oraclejdk8
 
 cache:
+  bundler: true
+  pip: true
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
 before_deploy: if [[ ${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH} != master ]]; then
-  bundle exec jekyll clean && bundle exec jekyll build --baseurl /root/${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH} && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
+  bundle exec jekyll clean && bundle exec jekyll build --baseurl /root/${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH};
+  $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
   else
   bundle exec jekyll clean && bundle exec jekyll build;
   fi
