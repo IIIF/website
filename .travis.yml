@@ -60,9 +60,9 @@ after_deploy:
   - test $TRAVIS_BRANCH = "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_LIVE --paths "/*"
   - test $TRAVIS_BRANCH != "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_PREVIEW --paths "/root/$TRAVIS_BRANCH/*"
   - if [ "$TRAVIS_PULL_REQUEST" != "false" ] ; then
-        COMMENT="Test it at https://preview.iiif.io/root/$TRAVIS_BRANCH"
-        curl -H "Authorization: token $GITHUB_TOKEN" -X POST -d "{\"body\": \"$COMMENT\"}" "https://api.github.com/repos/${TRAVIS_REPO_SLUG}/issues/${TRAVIS_PULL_REQUEST}/comments"
-    fi
+  COMMENT="Test it at https://preview.iiif.io/root/$TRAVIS_BRANCH"
+  curl -H "Authorization: token $GITHUB_TOKEN" -X POST -d "{\"body\": \"$COMMENT\"}" "https://api.github.com/repos/${TRAVIS_REPO_SLUG}/issues/${TRAVIS_PULL_REQUEST}/comments"
+  fi
 
 notifications:
   email:
