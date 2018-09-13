@@ -10,7 +10,7 @@ install:
   - bundle info rspec
   - npm install grunt grunt-html --save-dev
   - pip install --user awscli
-  - chmod 755 $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
+  - chmod 755 $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh && export iiifsite=root && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
 
 
 # environment
