@@ -8,6 +8,8 @@ before_install:
 install:
   - bundle install
   - npm install grunt grunt-html --save-dev
+  - pip install --user awscli
+
 
 # environment
 language: ruby
