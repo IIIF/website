@@ -59,6 +59,7 @@ after_deploy:
   - aws configure set preview.cloudfront true
   - test $TRAVIS_BRANCH = "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_LIVE --paths "/*"
   - test $TRAVIS_BRANCH != "master" && aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_PREVIEW --paths "/root/$TRAVIS_BRANCH/*"
+  - scripts/updatePullRequest.sh
 
 
 notifications:
