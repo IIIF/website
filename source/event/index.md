@@ -44,7 +44,7 @@ __Previous IIIF Events__
 * Spring 2012: The Hague, Netherlands
 * Fall 2011: Cambridge, England
 
-<script type="text/javascript">
+<script>
 window.onload = function(){
 $.ajax({
       type: 'GET',
