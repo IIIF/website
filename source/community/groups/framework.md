@@ -130,7 +130,7 @@ Technical Specification Groups are dissolved under the following circumstances:
 
 ## Updates
 
-This document is a Living Document and as such will change over time to accurately reflect the practice of the IIIF Community and Consortium. *Last updated: 17 September 2018*
+This document is a living document and as such will change over time to accurately reflect the practice of the IIIF Community and Consortium. *Last updated: 17 September 2018*
 
 ## IIIF Community and Communications Contact
 
