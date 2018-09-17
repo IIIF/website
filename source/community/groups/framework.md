@@ -77,24 +77,22 @@ Technical Specification Groups are the main working vehicle for adding new APIs 
 
 ### Technical Specification Group Formation and Approval
 
-  * Technical Specification Groups should emerge naturally from discussions and needs within the community, as discussed on the [IIIF-discuss mailing list][iiif-discuss]. If the discussion happens offline or in a smaller group, then summaries must be posted to solicit the input of the wider community.
+  * Technical Specification Groups should emerge naturally from discussions and needs within the community, as discussed on the [IIIF-discuss mailing list][iiif-discuss]. If the discussion happens offline or in a smaller group, then summaries must be posted to solicit the input and engagement of the wider community.
   * Participants in discussions that show promise of inter-institutional convergence on common models or methods should document the shared needs and requirements in a Google document, resulting in a common understanding of:
     1. The overall domain into which the work will fall
     2. The shared needs and requirements within that domain
     3. Use cases that demonstrate these needs and requirements
-    4. A path towards one or more specifications and complementary implementations   that would meet the requirements
+    4. A path towards one or more specifications and complementary implementations that would meet the requirements
     5. The organizations willing to commit resources towards realizing the specifications and implementations
     6. The timeframe in which the specifications and implementations are needed and should be possible
-  * The document outlining the above must be sent to the IIIF Community and Communications Officer for subsequent discussion and initial approval by the IIIF Coordinating Committee, typically within a one week timeframe. (Note: There are two stages of approval: initial approval by the Coordinating Committee, followed by an official approval by the wider community - see CfP process below).
-  * Once initially approved, the group document becomes the group’s charter, providing definition of the group and its deliverables. The charter is not a contract and may be changed with the consensus of the members of the group at any time. However, significant changes such as a 6 month or more delay in timeframes, the abandonment of a deliverable, or the change in the overall scope of the work should be announced to the community via the regular channels.
-  * Once the draft charter is acceptable to the participants in the discussion, a Call for Participation (CfP) is issued to appropriate lists (including [IIIF-Discuss][iiif-discuss] at the least) that announces the document and seeks the engagement of additional participants.
-    * Individuals from organizations across the IIIF community must respond to the CfP indicating that they are willing to take part and commit resources towards the Technical Specification Group's goals.
-    * At least three IIIF participating institutions  must respond positively, and no more than three institutions may respond negatively, for the group to be officially approved by the wider community.
-    * If fewer than three institutions are willing to contribute, then the group's topic is likely too specific and the work should be done outside of the Technical Specification Group process.  If more than three institutions object to the work being done, then there is a significant issue that should be resolved before committing resources.
-    * For Technical Specification Groups where deliverables would involve additions or changes to existing technical specifications, at least two current members of the editorial board must sign up as members of the group to ensure consistency with existing and ongoing work.
-  * At least two calendar weeks must pass between the CfP and official approval of the group.  If only one or two institutions are interested after four calendar weeks, then the CfP is considered closed and the original proposers of the charter should lead continued discussion and modify the charter before re-announcing.
+  * If fewer than three institutions are willing to participate, then the group's topic is likely too specific and the work should be done outside of the Technical Specification Group process.  If more than three institutions object to the work being done, then there is a significant issue that should be resolved before moving forwards.
+  * For Technical Specification Groups where deliverables would involve additions or changes to existing technical specifications, at least two current members of the editorial board must sign up as members of the group to ensure consistency with existing and ongoing work.
+  * The IIIF Technical Coordinator will facilitate the creation of the document and ensuring that the requirements are met and the details are accurate. When the community agrees that it is ready to be proposed, the IIIF Technical Coordinator will take it to the [Technical Review Committee][trc] (TRC) for review.
+  * The TRC will discuss the technical details of the proposed group, such as whether it is feasible to be successful, and will either approve the document to go on for final approval by the Coordinating Committee, or send it back to the community for more work.
+  * If approved by the TRC, the Technical Coordinator will take the document to the Coordinating Committee to be approved or sent back to the community for further work.
   * Once officially approved, the Community and Communications Officer will schedule, announce, and facilitate an initial planning call for the group. During the first call, the group will determine willingness and availability of volunteers to chair the group, agree upon group chairs, and determine a regular call schedule for moving forward.
-  * Technical Specification Groups should be documented on the iiif.io website, noting the following information:
+  * Once approved by the Coordinating Committee, the group document becomes the group’s charter, providing definition of the group and its deliverables. The charter is not a contract and may be changed with the consensus of the members of the group at any time. However, significant changes such as a 6 month or more delay in timeframes, the abandonment of a deliverable, or the change in the overall scope of the work should be announced to the community via the regular channels.
+  * Technical Specification Groups are documented on the iiif.io website, noting the following information:
     1. Statement of the group focus and/or goals, and how the group came to be formed
     2. Link to the group charter
     3. Chair(s) of the group
@@ -132,7 +130,7 @@ Technical Specification Groups are dissolved under the following circumstances:
 
 ## Updates
 
-This community framework is an evolving document, and will be updated by the IIIF Coordinating Committee as required. *Last updated: 13 January 2017*.
+This document is a Living Document and as such will change over time to accurately reflect the practice of the IIIF Community and Consortium. *Last updated: 13 January 2017*
 
 ## IIIF Community and Communications Contact
 
