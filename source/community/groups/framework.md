@@ -78,7 +78,7 @@ Technical Specification Groups are the main working vehicle for adding new APIs 
 ### Technical Specification Group Formation and Approval
 
   * Technical Specification Groups should emerge naturally from discussions and needs within the community, as discussed on the [IIIF-discuss mailing list][iiif-discuss]. If the discussion happens offline or in a smaller group, then summaries must be posted to solicit the input and engagement of the wider community.
-  * Participants in discussions that show promise of inter-institutional convergence on common models or methods should document the shared needs and requirements in a Google document, resulting in a common understanding of:
+  * Participants in discussions that show promise of inter-institutional convergence on common models or methods should document the shared needs and requirements in an initial scoping document, resulting in a common understanding of:
     1. The overall domain into which the work will fall
     2. The shared needs and requirements within that domain
     3. Initial use cases that demonstrate these needs and requirements
@@ -87,7 +87,7 @@ Technical Specification Groups are the main working vehicle for adding new APIs 
     6. The timeframe in which the specifications and implementations are needed and should be possible to come to consensus on
   * If fewer than three institutions are willing to participate, then the group's topic is likely too specific and the work should be done outside of the Technical Specification Group process.  If more than three institutions object to the work being done, then there is a significant issue that should be resolved before moving forwards.
   * For Technical Specification Groups where deliverables would involve additions or changes to existing technical specifications, at least two current members of the editorial board must sign up as members of the group to ensure consistency with existing and ongoing work.
-  * Early engagement with the IIIF Technical Coordinator is encouraged, who will facilitate the creation of the document, ensure that the process requirements are met, and that the details within it are accurate. When the community agrees that it is ready to be proposed for approval, the IIIF Technical Coordinator will take it to the Technical Review Committee (TRC) for review.
+  * The IIIF Technical Coordinator will facilitate the creation of the initial scoping document, ensure that the process requirements are met, and that the details within it are accurate. Early engagement with the Technical Coordinater is encouraged. When the community agrees that it is ready to be proposed for approval, the IIIF Technical Coordinator will take it to the Technical Review Committee (TRC) for review.
   * The TRC will discuss the technical details of the proposed work, including whether or not it is feasible and consistent with existing work, and will either approve the document to go on for final approval by the Coordinating Committee, or send it back to the community for more work.
   * If approved by the TRC, the Technical Coordinator will take the document to the Coordinating Committee to be approved or sent back to the community for further work.
   * Once officially approved, the Technical Coordinator will schedule and facilitate an initial planning call for the group. During the first call, the group will determine willingness and availability of volunteers to chair the group, agree upon group chairs, and determine a regular call schedule for moving forward.
