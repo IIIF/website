@@ -16,7 +16,7 @@ The TRC will be a stepping stone on the path to increased technical engagement -
 The Technical Review Committee (TRC) is representative of the consortium and the community with regards to technical matters. Its primary function is to review and ratify or reject proposals to solve technical issues, in an ongoing fashion. These decisions include:
   1. reviewing new specifications or updates to existing specifications, from either Technical Specification Groups (TSGs) or the Editorial Board;
   2. reviewing specification cookbook entries, technical registry entries, and implementation notes; and
-  3. reviewing proposals for the formation and charters of new TSGs and providing recommendations to the Coordinating Committee.
+  3. reviewing proposals for the formation and charters of new TSGs.
 
 Once approved by the TRC, the next steps depend on other community processes not described in this document.
 
