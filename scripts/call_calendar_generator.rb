@@ -18,28 +18,31 @@ MODERATORS = {
       "Tom Crane",
       "Rob Sanderson",
       "Mike Appleby"
-  ].uniq.shuffle!, # .shuffle! to shuffle
+  ].uniq, # .shuffle! to shuffle
     community: [
-      "Matt McGrattan",
-      "Rashmi Singhal",
-      "Karen Estlund",
-      "Drew Winget",
       "Ben Albritton",
       "Tom Cramer",
+      "Claire Knowles",
       "Mark Matienzo",
       "Glen Robson",
-      "Stu Snydman"
-    ].uniq.shuffle!
+      "Stu Snydman",
+      "Julien A. Raemy",
+      "Karen Estlund",
+      "Drew Winget",
+      "Matt McGrattan",
+      "Rashmi Singhal",
+      "Jason Ronallo"
+    ].uniq
 }
 
 # Make sure this is the date of a call or risk being off by a week.
-PERIOD_START = Date.new(2018,02,28)
-PERIOD_END = Date.new(2018,06,06)
+PERIOD_START = Date.new(2018,07,18)
+PERIOD_END = Date.new(2019,03,13)
 
 class TopicTracker
   def initialize
-    @next = :technical # this will be first
-    @now = :community
+    @next = :community # this will be first
+    @now = :technical 
   end
 
   def next

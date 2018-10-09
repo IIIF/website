@@ -140,7 +140,7 @@ The [IIIF Software Developers group][devs] continues to work on developing and d
 * Introduction of [new features to T-PEN][tpen], the transcription tool from Saint Louis University Center for Digital Humanities
 * [Introduction to RERUM][rerum], the public annotation store from Saint Louis University Center for Digital Humanities
 * Adoption of IIIF for [digital images in Cuba][cuba], a collaboration including the National Library of Cuba, The Central Library of the University of Havana, and the Library of the Cuban History Institute
-* Natural Sciences Institute of the National University of Columbia using IIIF and Loris, see [example][columbia]
+* Natural Sciences Institute of the National University of Columbia using IIIF and Loris.
 * Harvard biology class using Mirador to annotate images of cells, see [example][cell]
 * Chrome tab extension to [view a new map from David Rumsey collection][rumsey] every time a new tab is opened
 * Polonsky Project - [Three editions of Cicero side by side][cicero]
