@@ -16,7 +16,11 @@ The TRC will be a stepping stone on the path to increased technical engagement -
 The Technical Review Committee (TRC) is representative of the consortium and the community with regards to technical matters. Its primary function is to review and ratify or reject proposals to solve technical issues, in an ongoing fashion. These decisions include:
   1. reviewing new specifications or updates to existing specifications, from either Technical Specification Groups (TSGs) or the Editorial Board;
   2. reviewing specification cookbook entries, technical registry entries, and implementation notes; and
+<<<<<<< HEAD
   3. reviewing proposals for the formation and charters of new TSGs.
+=======
+  3. reviewing proposals for the formation and charters of new TSGs and providing recommendations to the Coordinating Committee.
+>>>>>>> master
 
 Once approved by the TRC, the next steps depend on other community processes not described in this document.
 
@@ -43,7 +47,11 @@ To promote regular attendance and engaged discussion, the TRC will follow guidel
 
 The TRC will meet monthly by teleconference for one hour, and in person at the annual IIIF Working Group Meeting. TRC members will be able to actively participate in TRC activities even if they are unable to attend the calls or in person meetings. The TRC meetings will be open only to members. The agendas for these meetings will be set and published openly in advance by the ex officio members. The chairing of the meeting will rotate through the ex officio members per call, and per time section of in person meetings. The notes from these meetings will be published openly after the meetings. 
 
+<<<<<<< HEAD
 TRC members participate by contributing to the discussion of issues and voting on items being reviewed, via the GitHub issue tracker, either synchronously during a meeting or asynchronously. If a consortium or community member of the TRC does not participate over the timeframe of three consecutive meetings (without prior apologies for a prolonged absence), then they are not in "good standing" and their vote will not count on issues until they have participated for three consecutive meetings. Standing will be tracked by analysis of participation on the GitHub issue tracker. This requirement is to ensure continued engagement, rather than dropping in for the occasional issue of interest without understanding the context in which the decision needs to be made.
+=======
+TRC members may participate either by attending TRC meetings, or by engaging asynchronously online before the meeting. Asynchronous participation may involve contributing to the discussion of issues or voting on items being reviewed, and must, at minimum, include giving regrets in advance of meetings the member cannot attend. If a consortium or community member of the TRC does not participate for three consecutive meetings, either by attending or asynchronously, then they are not in "good standing" and cannot vote on issues until they have participated for three consecutive meetings. Standing will be tracked in a view-only spreadsheet. This requirement is ensure continued engagement, rather than dropping in for the occasional issue of interest without understanding the context in which the decision needs to be made. For this reason, TRC members must register their opinions directly and proxies are not allowed.
+>>>>>>> master
 
 ## Process 
 

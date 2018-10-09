@@ -16,7 +16,7 @@ Glen has been an active participant and leader in IIIF before now. Coming from t
 
 Glen and Sheila’s roles are made possible by the [IIIF Consortium][iiifc] (IIIF-C). With 46 founding members, the IIIF-C exists to support and sustain IIIF. If your institution would like to lead the way into the future of interoperable resource delivery and help support IIIF, please consider [joining the IIIF-C][iiifc-faq], and in welcoming Glen to this new role.
 
-[maps]: http://cynefin.archiveswales.org.uk/en/
+[maps]: https://places.library.wales/
 [newspapers]: http://newspapers.library.wales/
 [crowdsourcing]: https://www.llgc.org.uk/blog/?p=14496
 [iiifc]: {{ site.url }}{{ site.baseurl }}/community/consortium/

@@ -1,0 +1,107 @@
+- name: The Mosque Kitchen ££
+  url: http://www.mosquekitchen.com/
+  address: 31-33 Nicolson Square, Edinburgh EH8 9BX
+  tel: 0131 667 4035
+  lat: 55.9458006
+  lng: -3.1851799
+  type: food
+- name: The old Mosque Kitchen ££
+  url: https://www.tripadvisor.co.uk/Restaurant_Review-g186525-d8551725-Reviews-The_Original_Mosque_Kitchen_Cafe-Edinburgh_Scotland.html
+  address: 50 Potterrow, Edinburgh EH8 9BT
+  tel: 0131 629 1630
+  lat: 55.9450172
+  lng: -3.18583319
+  type: food
+- name: The Outsider ££ (lunch) £££ (dinner)
+  url: http://www.theoutsiderrestaurant.com/
+  address: George IV Bridge, Edinburgh EH1 1EE
+  tel: 0131 226 3131
+  lat: 55.94774729
+  lng: -3.1916784
+  type: food
+- name: Blonde ££ (lunch) £££ (dinner)
+  url: https://blonderestaurant.co.uk/
+  address: 71-75 St. Leonard's St, Edinburgh EH8 9QR
+  tel: 0131 668 2917
+  lat: 55.9425503
+  lng: -3.17938979
+  type: food
+- name: The Apiary ££ (lunch) £££ (dinner)
+  url: https://www.apiaryrestaurant.co.uk/
+  address: 33 Newington Rd, Edinburgh EH9 1QR
+  tel: 0131 668 4999
+  lat: 55.93859980
+  lng: -3.17883059
+  type: food
+- name: Pizza Express, North Bridge £££
+  url: https://www.pizzaexpress.com/edinburgh-north-bridge
+  address: 23 North Bridge, Edinburgh EH1 1SB
+  tel: 0131 557 6411
+  lat: 55.9506243
+  lng: -3.187436100
+  type: food
+- name: Pizza Express, George IV Bridge £££
+  url: https://www.pizzaexpress.com/edinburgh-george-iv-bridge
+  address: 1 Victoria St, Edinburgh EH1 2JL
+  tel: 0131 225 9669
+  lat: 55.9487116
+  lng: -3.19226300
+  type: food
+- name: Pizza Hut ££ (lunch) £££ (dinner)
+  url: https://www.pizzahut.co.uk/restaurants/find-a-hut/edinburgh/northe-bridge/
+  address: 46 North Bridge, Edinburgh EH1 1QN
+  tel: 0131 226 3038
+  lat: 55.9504813
+  lng: -3.1880129
+  type: food
+- name: Prezzo £££
+  url: https://www.prezzorestaurants.co.uk/restaurant/edinburgh-north-bridge/
+  address: 7-9 North Bridge, Edinburgh EH1 1SB
+  tel: 0131 557 5346
+  lat: 55.95114170
+  lng: -3.18771849
+  type: food
+- name: Biblos ££
+  url: https://www.biblosedinburgh.co.uk/
+  address: 1 Chambers St, Edinburgh EH1 1HR
+  tel: 0131 226 7177
+  lat: 55.9481198
+  lng: -3.186808499
+  type: food
+- name: Subway (multiple options) £
+  url: https://www.subway.com/en-GB
+  address: 69 Cowgate, Edinburgh EH1 1JW
+  tel: 0131 225 7377
+  lat: 55.948165
+  lng: -3.1916870
+  type: food
+- name: Brew Lab
+  address: 6-8 S College St, Edinburgh EH8 9AA
+  lat: 55.9470189
+  lng: -3.186616599
+  type: coffee
+- name: Black Medicine
+  address: 2 Nicolson St, Edinburgh EH8 9DH
+  lat: 55.947163
+  lng: -3.18586570
+  type: coffee
+- name: Press Cafe
+  address: 30 Buccleuch St, Edinburgh EH8 9LP
+  lat: 55.9430913
+  lng: -3.18460140
+  type: coffee
+- name: Captains Bar
+  address: 4 S College St, Edinburgh EH8 9AA
+  lat: 55.9470579
+  lng: -3.18654909
+  type: bar
+- name: Royal Oak
+  address: 1 Infirmary St, Edinburgh EH1 1LT
+  lat: 55.948045299
+  lng: -3.18616459
+  type: bar
+- name: BrewDog (Cowgate / Lothian Road)
+  address: 143 Cowgate, Edinburgh EH1 1JS
+  lat: 55.948335
+  lng: -3.18968599
+  type: bar
