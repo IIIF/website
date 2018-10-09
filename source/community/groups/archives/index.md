@@ -29,6 +29,7 @@ By participating in the IIIF Archives Community Group, you will help set best pr
   * Rebecca Hirsch (Yale University)
   * Josh Schneider (Stanford University)
   * Mark Matienzo (Stanford University)
+  * Adrian Stevenson (Jisc)
 
 **Communication Channels:**
 
