@@ -193,7 +193,7 @@ For details of childcare in the conference vicinity please see www.childcare.co.
 [nls]: https://www.nls.uk/
 [IIIF-Discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [showcase]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/showcase/
-[workingmeeting]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/showcase/
+[workingmeeting]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/workingmeeting/
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-edinburgh-showcase-tickets-51020491664
 [working-eventbrite]: https://www.eventbrite.com/e/2018-iiif-working-meeting-edinburgh-tickets-50777559046
 [ed-airport]: http://www.edinburghairport.com/
