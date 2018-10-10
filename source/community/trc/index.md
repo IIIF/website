@@ -16,7 +16,7 @@ The TRC will be a stepping stone on the path to increased technical engagement -
 The Technical Review Committee (TRC) is representative of the consortium and the community with regards to technical matters. Its primary function is to review and ratify or reject proposals to solve technical issues, in an ongoing fashion. These decisions include:
   1. reviewing new specifications or updates to existing specifications, from either Technical Specification Groups (TSGs) or the Editorial Board;
   2. reviewing specification cookbook entries, technical registry entries, and implementation notes; and
-  3. reviewing proposals for the formation and charters of new TSGs and providing recommendations to the Coordinating Committee.
+  3. reviewing proposals for the formation and charters of new TSGs.
 
 Once approved by the TRC, the next steps depend on other community processes not described in this document.
 
@@ -31,7 +31,7 @@ The membership will consist of ex officio, consortium and community members:
   * One (non-editor) chair of each current TSG (to be decided by the TSG, if needed, with a preference for increasing organizational and other diversity where possible)
 * Consortium:
   * Each IIIF-C Full member institution may nominate one technical representative to serve on the TRC
-  * Each IIIF-C Associate member institution may nominate a technical representative, a number up to half the total number of associate member institutions (rounding up) may be elected to serve on the TRC. 
+  * Each IIIF-C Associate member institution may nominate a technical representative, a number up to half the total number of associate member institutions (rounding up) may be elected to serve on the TRC.
 * Community:
   * Self-nominated technical participants from the community, to a maximum of 5 slots
 
@@ -41,11 +41,11 @@ The positions from the IIIF-C member institutions must be members of staff for t
 
 To promote regular attendance and engaged discussion, the TRC will follow guidelines for participation based on [those that have been used by the W3C][w3c-good-standing].
 
-The TRC will meet monthly by teleconference for one hour, and in person at the annual IIIF Working Group Meeting. TRC members will be able to actively participate in TRC activities even if they are unable to attend the calls or in person meetings. The TRC meetings will be open only to members. The agendas for these meetings will be set and published openly in advance by the ex officio members. The chairing of the meeting will rotate through the ex officio members per call, and per time section of in person meetings. The notes from these meetings will be published openly after the meetings. 
+The TRC will meet monthly by teleconference for one hour, and in person at the annual IIIF Working Group Meeting. TRC members will be able to actively participate in TRC activities even if they are unable to attend the calls or in person meetings. The TRC meetings will be open only to members. The agendas for these meetings will be set and published openly in advance by the ex officio members. The chairing of the meeting will rotate through the ex officio members per call, and per time section of in person meetings. The notes from these meetings will be published openly after the meetings.
 
-TRC members may participate either by attending TRC meetings, or by engaging asynchronously online before the meeting. Asynchronous participation may involve contributing to the discussion of issues or voting on items being reviewed, and must, at minimum, include giving regrets in advance of meetings the member cannot attend. If a consortium or community member of the TRC does not participate for three consecutive meetings, either by attending or asynchronously, then they are not in "good standing" and cannot vote on issues until they have participated for three consecutive meetings. Standing will be tracked in a view-only spreadsheet. This requirement is ensure continued engagement, rather than dropping in for the occasional issue of interest without understanding the context in which the decision needs to be made. For this reason, TRC members must register their opinions directly and proxies are not allowed.
+TRC members participate by contributing to the discussion of issues and voting on items being reviewed, via the GitHub issue tracker, either synchronously during a meeting or asynchronously. If a consortium or community member of the TRC does not participate over the timeframe of three consecutive meetings (without prior apologies for a prolonged absence), then they are not in "good standing" and their vote will not count on issues until they have participated for three consecutive meetings. Standing will be tracked by analysis of participation on the GitHub issue tracker. This requirement is to ensure continued engagement, rather than dropping in for the occasional issue of interest without understanding the context in which the decision needs to be made.
 
-## Process 
+## Process
 
 The TRC process is designed to encourage input from all community members. Issues for TRC review will come from either TSGs and their [open communication channels][tsg-channels] or from the Editorial Board and its [community process][editors-process]. Pending review items will be publicly announced in advance of TRC meetings by the meeting chair, providing an additional opportunity for community input, and there may be further discussion on community calls or other open meetings.
 
@@ -53,7 +53,7 @@ TRC decisions are made by general consensus, and respectful, passionate, and inf
 
 If the group cannot reach consensus in good faith, then the decision will be made by super-majority vote (2/3rds majority of those voting). If there is no super-majority then the ex officio members will decide whether to delay the decision pending further research, or to accept the simple-majority opinion.
 
-If any member very frequently disagrees (registers a -1 opinion) with the group such that the group does not reach consensus, and in the resulting vote there are less than 5 votes in their favor, they may be asked by the ex officio members to step down from the TRC to ensure that forward progress can be made. 
+If any member very frequently disagrees (registers a -1 opinion) with the group such that the group does not reach consensus, and in the resulting vote there are less than 5 votes in their favor, they may be asked by the ex officio members to step down from the TRC to ensure that forward progress can be made.
 
 ## Membership Rotation
 
