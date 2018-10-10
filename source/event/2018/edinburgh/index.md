@@ -17,6 +17,10 @@ The IIIF Edinburgh showcase will be on the 3rd of December and is open to partip
 ### Working meeting
 The working group meetings are intended for active IIIF community participants and [working groups][groups]. This will be limited to around 80 people and will be held from on Tuesday the 4th to Thursday the 6th of December. See the [Working meeting page][workingmeeting] for information on the schedule.
 
+There is an open call for lightning talks. Submit yours using [this google form][talk]. Lightning talks will be limited to 7 minutes and can be on any subject related to IIIF that you think will be of interest to participants. This could include an update on your latest developments, an innovative use of IIIF or a pitch to open a discussion for a later sessions at the meeting.
+
+Please submit your lightning talk by the end of the **31st of October** and if you have any questions please contact Glen Robson IIIF Technical Coordinator.
+
 ### Logistics
 
 * Registration:
@@ -204,3 +208,4 @@ For details of childcare in the conference vicinity please see www.childcare.co.
 [tram]:https://edinburghtrams.com/
 [nrs]: http://www.nationalrail.co.uk/stations/EDB/details.aspx
 [waverley]: http://www.nationalrail.co.uk/stations/EDB/details.aspx
+[talk]: https://goo.gl/forms/R7RzG54WFRZxRdtk1 

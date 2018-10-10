@@ -13,6 +13,12 @@ The International Image Interoperability Framework (IIIF) Working Meeting in Edi
 
 Attendance is free, but capacity is limited, so registration is required in order to ensure that we do not exceed the capacity of the venue. Please For this event please [register here][working-eventbrite].
 
+## Lightning talks
+
+There is an open call for lightning talks. Submit yours using [this google form][talk]. Lightning talks will be limited to 7 minutes and can be on any subject related to IIIF that you think will be of interest to participants. This could include an update on your latest developments, an innovative use of IIIF or a pitch to open a discussion for a later sessions at the meeting.
+
+Please submit your lightning talk by the end of the **31st of October** and if you have any questions please contact Glen Robson IIIF Technical Coordinator.
+
 ## Draft Schedule
 
 <table class="api-table">
@@ -56,7 +62,7 @@ Attendance is free, but capacity is limited, so registration is required in orde
             <td>Afternoon</td>
             <td>Group discussion on:
                 <ul>
-                    <li>Discover</li>
+                    <li>Discovery</li>
                     <li>Migration Strategy</li>
                 </ul>
             </td>
@@ -72,7 +78,7 @@ Attendance is free, but capacity is limited, so registration is required in orde
                 <ul>
                     <li>Cookbooks</li>
                     <li>Manuscripts</li>
-                    <li>Mirador 3 - TBC</li>
+                    <li>Mirador 3</li>
                 </ul>    
             </td>
     </tr>
@@ -156,3 +162,4 @@ Attendance is free, but capacity is limited, so registration is required in orde
 
 [working-eventbrite]: https://www.eventbrite.com/e/2018-iiif-working-meeting-edinburgh-tickets-50777559046
 [lunch]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh
+[talk]: https://goo.gl/forms/R7RzG54WFRZxRdtk1  
