@@ -38,17 +38,20 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 <br/>
 
 <div class="container" markdown="0">
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
         <img class="thumb-lightbox" alt="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/640px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" height="200">
     </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/755px-Johannisstrasse_Goettingen.jpg" data-lightbox="edinburgh-images" style="border-bottom: none">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/755px-Johannisstrasse_Goettingen.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL">
         <img class="thumb-lightbox" alt="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/442px-Johannisstrasse_Goettingen.jpg" height="200">
     </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Blick auf Goettingen aus der Vogelschau nach Nordwesten, Friedrich Besemann. Public Domain">
         <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" height="200">
     </a>
-    <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none">
-        <img class="thumb-lightbox" alt="Image of the lecture theater" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-thumb.png" height="200">
+    <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-thumb.png" height="200">
+    </a>
+    <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-conference-location-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the Conference location. Photo: Frank Stefan Kimmel">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-conference-location-thumb.png" height="200">
     </a>
 </div>
 
