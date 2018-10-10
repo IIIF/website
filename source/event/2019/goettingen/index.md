@@ -48,7 +48,7 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
         <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" height="200">
     </a>
     <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none">
-        <img class="thumb-lightbox" alt="" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-thumb.png" height="200">
+        <img class="thumb-lightbox" alt="Image of the lecture theater" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-thumb.png" height="200">
     </a>
 </div>
 
