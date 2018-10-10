@@ -35,6 +35,32 @@ Outline schedule below, please note this is subject to change.
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
+<br/>
+
+<div class="container" markdown="0">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none">
+        <img class="thumb-lightbox" alt="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/640px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" height="200px">
+    </a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/755px-Johannisstrasse_Goettingen.jpg" data-lightbox="edinburgh-images" style="border-bottom: none">
+        <img class="thumb-lightbox" alt="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/442px-Johannisstrasse_Goettingen.jpg" height="200px">
+    </a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none">
+        <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" height="200px">
+    </a>
+    <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none">
+        <img class="thumb-lightbox" alt="" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-thumb.png" height="200px">
+    </a>
+</div>
+
+<br/>
+
+<script>
+    lightbox.option({
+      'resizeDuration': 100,
+      'wrapAround': true
+    })
+</script>
+
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
