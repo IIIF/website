@@ -11,6 +11,7 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 __Upcoming main IIIF Events__
 
 * Fall 2018 IIIF Working Meeting: Dec. 3-6 in [Edinburgh][edinburgh18], Scotland, UK
+* Spring 2019 IIIF Conference: June. 24th in [Göttingen][goettingen19], Germany
 
 __Other IIIF Events__
 
@@ -112,6 +113,7 @@ function addTable(destination, gtable) {
 </script>
 
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[goettingen19]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
 [edinburgh18]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/
 [washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
 [toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase
