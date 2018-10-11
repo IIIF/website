@@ -6,14 +6,14 @@ tags: [event ]
 
 ### Overview
 
-The 2019 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held in the week of the 24th of June in Göttingen, hosted by the University of Göttingen. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
+The 2019 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held in the week of the 24th of June in Göttingen, hosted by the University of Göttingen / Göttingen State and University Library. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
 All event proceedings will be in English.
 
 ### Logistics
 
 * Registration: Available early 2019.
-* Dates: 24th to 27th (maybe 28th also) of June 2019.
+* Dates: 24th to 28th of June 2019.
 * Location: Göttingen, Germany
 * Cost: To be decided but there will be a cost to cover the conference costs.
 * Capacity: 300
