@@ -273,7 +273,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [folger-event]: http://folgerpedia.folger.edu/Early_Modern_Manuscripts_Online:_New_Directions_in_Teaching_and_Research
 [basel-event]: http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/termine-veranstaltungen/sammlungsuebergreifend-forschen/
-[or]: https://or2017.net/
+[or]: https://web.archive.org/web/20171119044524/https://or2017.net/
 [digipalooza]: https://digipalooza.com/
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
 [slu]: https://github.com/CenterForDigitalHumanities
