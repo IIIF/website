@@ -140,6 +140,9 @@
   iiifc:
 - name: LUNA Imaging
   uri: http://www.lunaimaging.com/blog/2015/12/3/luna-and-iiif-1
+- name: LYRASIS
+  uri: https://www.lyrasis.org
+  iiifc: 3
 - name: Manuscriptorium - Digital Library of Written Cultural Heritage
   uri: http://www.manuscriptorium.com/
 - name: Max Planck Institute for European Legal History
@@ -158,6 +161,9 @@
   iiifc: 2
 - name: National Institute of Informatics
   uri: https://www.nii.ac.jp/
+  iiifc: 2
+- name: National Institute of Japanese Literature, National Institutes for Humanities, Japan
+  uri: https://www.nijl.ac.jp/en/
   iiifc: 2
 - name: National Library of Austria
   uri: https://www.onb.ac.at/en/
@@ -195,6 +201,7 @@
   iiifc: 2
 - name: OCLC
   uri: http://www.oclc.org/
+  iiifc: 2
 - name: Ohio State University
   uri: https://www.osu.edu/
   iiifc: 2
