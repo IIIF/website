@@ -30,6 +30,21 @@
   - >
     Loris is an open source, Python-based image server that supports the IIIF
     Image API ver 1.1. Loris supports JPEG and TIFF sources as well as JPEG2000.
+- name: Ruby Advanced Image Server (RAIS)
+  uri: https://github.com/uoregon-libraries/rais-image-server/wiki
+  blurb:
+  - >
+    RAIS is a high-performance IIIF Image server written in Go. It supports level 2 
+    of IIIF Image 2.1 as well as some optional features like max image size. It has 
+    direct integration with openjpeg, making its JP2 decoding extremely fast. It 
+    also has ImageMagick bindings for fast decoding of non-JP2 sources. It can 
+    optionally cache tiles to memory using a very intelligent cache (2Q LRU). 
+  - >
+    Plugins are supported to allow operations like pulling from S3 on demand and 
+    adding arbitrary middleware.
+  - >
+    RAIS is IIIF compatible ( 
+    Project [GitHub repo](https://github.com/uoregon-libraries/rais-image-server)  -  [Wiki](https://github.com/uoregon-libraries/rais-image-server/wiki) ).
 - name: ContentDM
   uri: http://www.contentdm.org/
   blurb:
