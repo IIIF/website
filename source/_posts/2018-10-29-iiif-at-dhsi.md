@@ -1,6 +1,6 @@
 ---
 title: Tuition Fellowships Available for IIIF Workshop at DHSI 2019
-author: Sheila Rabun
+author: Glen Robson
 date: 2018-10-29
 tags: [news, announcements]
 layout: post
@@ -24,12 +24,9 @@ Please direct any questions to the IIIF Staff, at <admin@iiif.io>.
 ## About the IIIF Workshop at DHSI 2019
 
 **Introduction to IIIF: Sharing, Consuming, and Annotating the World’s Images**  
-Instructors: Jeffrey C. Witt, Drew Winget, Jack Reed, Sheila Rabun, and Benjamin Albritton  
-June 4-8, 2019
+June 3-7, 2019
 
-Access to image-based resources is fundamental to research, scholarship and the transmission of cultural knowledge. Digital images are a container for much of the information content in the Web-based delivery of images, books, newspapers, manuscripts, maps, scrolls, single sheet collections, and archival materials. Yet much of the Internet’s image-based resources are locked up in silos, with access restricted to bespoke, locally built applications. A growing community of the world’s leading research libraries and image repositories have embarked on an effort to collaboratively produce an interoperable technology and community framework for image delivery. IIIF (International Image Interoperability Framework) has the following goals: To give scholars an unprecedented level of uniform and rich access to image-based resources hosted around the world, To define a set of common application programming interfaces that support interoperability between image repositories, and To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images.” ({{ site.url }}{{ site.baseurl }}). This course will introduce students to the basic concepts and technologies that make IIIF possible, allowing for guided, hands-on experience in installing servers and clients that support IIIF, and utilizing the advanced functionality that IIIF provides for interactive image-based research, such as annotation.
-
-_This is a hands-on course. Consider this offering in complement with, and / or to be built on by: Advanced TEI Concepts / TEI Customization; Digital Documentation and Imaging for Humanists; Conceptualising and Creating a Digital Documentary Edition; A Collaborative Approach to XSLT; Geographical Information Systems in the Digital Humanities; and more!_
+Access to image-based resources is fundamental to research, scholarship and the transmission of cultural knowledge. Digital images are a container for much of the information content in the Web-based delivery of images, books, newspapers, manuscripts, maps, scrolls, single sheet collections, and archival materials. Yet much of the Internet’s image-based resources are locked up in silos, with access restricted to bespoke, locally built applications. A growing community of the world’s leading research libraries and image repositories have embarked on an effort to collaboratively produce an interoperable technology and community framework for image delivery. IIIF (International Image Interoperability Framework) has the following goals: To give scholars an unprecedented level of uniform and rich access to image-based resources hosted around the world, To define a set of common application programming interfaces that support interoperability between image repositories, and To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images.” (https://iiif.io). This course will introduce students to the basic concepts and technologies that make IIIF possible, allowing for guided, hands-on experience in installing servers and clients that support IIIF, and utilizing the advanced functionality that IIIF provides for interactive image-based research, such as annotation.
 
 ## About the International Image Interoperability Framework (IIIF)
 
