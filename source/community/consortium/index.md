@@ -11,7 +11,7 @@ The IIIF Consortium (IIIF-C) was formed in [June 2015][news] in Oxford, England,
 
 ## Staff
 
- * IIIF Managing Director - Currently out for recruitment see [job advert][job_advert].
+ * IIIF Managing Director - Josh Hadro - <josh.hadro@iiif.io>
  * IIIF Technical coordinator, Glen Robson - <glen.robson@iiif.io>
 
 ## Members
