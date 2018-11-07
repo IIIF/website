@@ -18,7 +18,7 @@ excerpt: >
 ## Announcements and Actions
 
 ### Farewell and Thank You
-As of November 17, Sheila Rabun will be [stepping away from her position][sheila-message] as the IIIF Community and Communications Officer. A search is underway to fill the position; see [position description][position]. In the meantime, please direct any emails to <admin@iiif.io>.
+As of November 17, Sheila Rabun will be [stepping away from her position][sheila-message] as the IIIF Community and Communications Officer. A search is underway to fill the position. In the meantime, please direct any emails to <admin@iiif.io>.
 
 ### Save the Date - 2018 IIIF Conference
 The 2018 IIIF Conference will be held in Washington, DC, May 21-25, 2018, co-hosted by the [Library of Congress][lc], the [Smithsonian Institution][smithsonian], and the [Folger Shakespeare Library][folger]. Please mark your calendars and stay tuned for more details!
@@ -310,7 +310,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [v-a-3-d]: https://docs.google.com/document/d/1PNkkxXAWkJDR31NI24R1Jbdxke8QonjYAvjcClomAK0/edit
 [lc]: https://www.loc.gov/
 [sheila-message]: https://groups.google.com/forum/#!topic/iiif-discuss/itQqmxvKvdg
-[position]: https://www.clir.org/about/positions/iiif
 [oclc]: http://www.oclc.org/en/home.html
 [survey]: https://goo.gl/forms/47OmXfgXMUNMBVI93
 [comm-list]: {{ site.url }}{{ site.baseurl }}/community/
