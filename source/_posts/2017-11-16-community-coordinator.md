@@ -49,7 +49,3 @@ The ideal candidate:
 Travel is required. Candidates may be located anywhere in North America or Western Europe. Salary dependent upon qualifications; benefits included.
 
 The posting will be open until filled; the search committee expects to review resumes as early as December, and given a sufficient pool of candidates, progress with interviewing in January of 2018.
-
-Details on how to apply can be found on the [CLIR website][jobadvert]. If you have questions on the role please contact work@clir.org.
-
-[jobadvert]: https://www.clir.org/about/positions/iiif
