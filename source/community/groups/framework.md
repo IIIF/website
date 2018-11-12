@@ -144,11 +144,8 @@ The IIIF Community and Communications Officer is currently out for recruitment s
 [calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [iiif-drive]: https://drive.google.com/drive/folders/0B9EeoRu2zWeraXpHNXpnZThUZVE
 [iiif-slack]: http://iiif.slack.com
-[editors]: {{ page.webprefix }}/api/annex/notes/editors/#contents
+[editors]: {{ site.url }}{{ site.baseurl }}/community/editors/ "IIIF Editorial Committee"
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [job_advert]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator
-
-
-
 
 {% include acronyms.md %}

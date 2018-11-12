@@ -104,7 +104,7 @@ Anticipated Deliverables:
 [av-slack]: https://iiif.slack.com/messages/av/details/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [design-principles]: {{ page.webprefix }}/api/annex/notes/design_patterns/
-[editorial-process]: {{ page.webprefix }}/api/annex/notes/editors/
+[editorial-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/ "IIIF Editorial Process"
 [av-gist]: https://docs.google.com/document/d/1X7b7zQGDsiEvAfvb1WboDXe360mz7Zmm0o0LT43nozk/edit
 [https://bluejeans.com/222002812]: https://bluejeans.com/222002812
 
