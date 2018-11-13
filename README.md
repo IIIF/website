@@ -9,14 +9,14 @@ Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](h
 
  1. `bundle install`
 
- 2. Run `rake dev` to compile the site and run a dev server on [http://localhost:4000](http://localhost:4000).
+ 2. Run `bundle exec rake dev` to compile the site and run a dev server on [http://localhost:4000](http://localhost:4000).
 
 ## To Run the Tests
 
  1. `bundle install`
  2. Install grunt `npm install -g grunt-cli`
  3. Install grunt dependencies `npm install`
- 4. Run ```rake ci```
+ 4. Run ```bundle exec rake ci```
 
 ## To Publish the Site to iiif.io
 
