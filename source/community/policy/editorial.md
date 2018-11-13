@@ -114,11 +114,11 @@ The editors _MUST_ provide a summary of all meetings, and _SHOULD_ provide a sum
 [iiif-github-issues]: https://github.com/IIIF/iiif.io/issues "iiif.io issues"
 [iiif-github]: https://github.com/IIIF/iiif.io "iiif.io on Github"
 [iiif-io]: {{ page.webprefix }} "iiif.io"
-[iiif-semver]: {{ site.url }}{{ site.baseurl }}/api/annex/notes/semver/ "Versioning of APIs"
+[iiif-semver]: {{ page.webprefix }}/api/annex/notes/semver/ "Versioning of APIs"
 [rfc-2119]: https://www.ietf.org/rfc/rfc2119.txt "RFC 2119"
-[mou]: {{page.webprefix}}/community/consortium/mou/ "Memorandum of Understanding covering the establishment of the IIIF Consortium"
-[comm-call]: {{page.webprefix}}/community/call/
-[groups]: {{page.webprefix}}/community/groups/
-[design-patterns]: {{ site.url }}{{ site.baseurl }}/api/annex/notes/design_patterns/
-[image-20-changelog]: {{ site.url }}{{ site.baseurl }}/api/image/2.0/change-log/ "Changes for IIIF Image API Version 2.0"
+[mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/ "Memorandum of Understanding covering the establishment of the IIIF Consortium"
+[comm-call]: {{ site.url }}{{ site.baseurl }}/community/call/
+[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[design-patterns]: {{ page.webprefix }}/api/annex/notes/design_patterns/
+[image-20-changelog]: {{ page.webprefix }}/api/image/2.0/change-log/ "Changes for IIIF Image API Version 2.0"
 {% include acronyms.md %}
