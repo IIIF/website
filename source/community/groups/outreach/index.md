@@ -30,7 +30,7 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
 **Chairs:**
 
   * Rachel Di Cresce (University of Toronto)
-  * Claire Knowles (University of Edinburgh)
+  * Claire Knowles (Leeds University Library)
   * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 
 **Communication Channels:**
