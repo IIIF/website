@@ -1,7 +1,7 @@
 ---
 title: Tuition Fellowships Available for IIIF Workshop at DHSI 2019
 author: Glen Robson
-date: 2018-10-29
+date: 2018-11-15
 tags: [news, announcements]
 layout: post
 ---
@@ -17,7 +17,7 @@ To apply for a tuition fellowship, please complete the [Tuition Fellowship Appli
  * Brief one-paragraph bio
  * A one-paragraph statement describing how attending the IIIF workshop at DHSI might expand your professional horizons, any previous experience with IIIF, what you hope to learn, and how you might contribute back to your community after the workshop
 
-The deadline for applications is Friday, November 16, 2018. Applicants will be notified of their status no later than November 30, 2018. The fellowship award will cover tuition only. Applicants or their employers are responsible for the costs of travel and lodging.
+The deadline for applications is Friday, November 30, 2018. Applicants will be notified of their status no later than December 14, 2018. The fellowship award will cover tuition only. Applicants or their employers are responsible for the costs of travel and lodging.
 
 Please direct any questions to the IIIF Staff, at <admin@iiif.io>.
 
