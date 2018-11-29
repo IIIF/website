@@ -136,8 +136,8 @@ Location: {{ site.data.edinburgh-locations[0].name }}
     </tr>
     <tr>
 		<td>10:06am to 10:15am</td>
-        <td>IIIF AV synchronization with notated music</td>
-        <td>Andrew Hankinson, Bodleian Libraries, University of Oxford</td>
+        <td>A Lengthy Challenge: The Mahabharata Scroll</td>
+        <td>Scott Renton & Susan Pettigrew</td>
     </tr>
     <tr>
 		<td>10:15am to 10:24am</td>
@@ -170,8 +170,8 @@ Location: {{ site.data.edinburgh-locations[0].name }}
     </tr>
     <tr>
 		<td>11:30am to 11:39am</td>
-        <td>A Lengthy Challenge: The Mahabharata Scroll</td>
-        <td>Scott Renton & Susan Pettigrew</td>
+        <td>IIIF AV synchronization with notated music</td>
+        <td>Andrew Hankinson, Bodleian Libraries, University of Oxford</td>
     </tr>
     <tr>
 		<td>11:39am to 11:48am</td>
