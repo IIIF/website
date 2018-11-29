@@ -24,8 +24,18 @@ The working group meetings are intended for active IIIF community participants a
   * 4th to 6th - [Working meeting][workingmeeting]
 * Location: [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls]
 * Cost: All events are free
-* Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif and @iiif_io
+* Code of Conduct: The IIIF [Code of Conduct][conduct] applies to these events to ensure they are inclusive, welcoming, and safe. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their blue and white striped badge lanyards and can be contacted individually:
+
+| Name | Mobile number | E-mail address | IIIF Slack | Twitter |
+| ---- | ------------- | -------------- | ---------- | ------- |
+| Mark Matienzo (Conduct and Safety Team Coordinator)   | +1 650 683 5769  | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
+| Josh Hadro (IIIF Consortium Staff) | +44 (0) 776 065 8344 |  [josh.hadro@iiif.io][hadro] | josh.hadro | Hadro |
+| Claire Knowles   |   | [C.knowles1@leeds.ac.uk][knowles]  | cgknowles | cgknowles  |
+| Jack Reed |   | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
+| Julien Raemy  |   |  [julien.raemy@hesge.ch][raemy] | julsraemy  | julsraemy  |
+| Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
+| Emma Stanford  |   | [emmastanfordx@gmail.com][estanford]  |  emmastanford |  e_stanf |
 
 If you have any questions about the event please contact Glen Robson (glen.robson \[at\] iiif.io).
 
@@ -202,3 +212,13 @@ For details of childcare in the conference vicinity please see www.childcare.co.
 [nrs]: http://www.nationalrail.co.uk/stations/EDB/details.aspx
 [waverley]: http://www.nationalrail.co.uk/stations/EDB/details.aspx
 [talk]: https://goo.gl/forms/R7RzG54WFRZxRdtk1
+
+[conduct-list]: mailto:iiif-conduct@googlegroups.com
+[matienzo]: mailto:matienzo@stanford.edu
+[glen]: mailto:glen.robson@iiif.io
+[raemy]: mailto:julien.raemy@hesge.ch
+[reed]: mailto:pjreed@stanford.edu
+[estanford]: mailto:emmastanfordx@gmail.com
+[hadro]: mailto:josh.hadro@iiif.io
+[knowles]: mailto:C.knowles1@leeds.ac.uk
+
