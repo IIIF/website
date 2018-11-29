@@ -4,9 +4,6 @@ layout: edinburgh
 tags: [event ]
 ---
 
-{: class="alert"}
-Registration available for [Showcase][showcase-eventbrite] and [Working meeting][working-eventbrite]
-
 ## IIIF Working Groups Meeting and Showcase - Edinburgh - 3rd - 6th of December 2018
 
 The International Image Interoperability Framework ([IIIF][home-page]) Showcase and working group meeting in Edinburgh is hosted jointly by the [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls].
@@ -17,15 +14,11 @@ The IIIF Edinburgh showcase will be on the 3rd of December and is open to partip
 ### Working meeting
 The working group meetings are intended for active IIIF community participants and [working groups][groups]. This will be limited to around 80 people and will be held from on Tuesday the 4th to Thursday the 6th of December. See the [Working meeting page][workingmeeting] for information on the schedule.
 
-There is an open call for lightning talks. Submit yours using [this google form][talk]. Lightning talks will be limited to 7 minutes and can be on any subject related to IIIF that you think will be of interest to participants. This could include an update on your latest developments, an innovative use of IIIF or a pitch to open a discussion for a later sessions at the meeting.
-
-Please submit your lightning talk by the end of the **31st of October** and if you have any questions please contact Glen Robson IIIF Technical Coordinator.
-
 ### Logistics
 
 * Registration:
-  * [Showcase registration][showcase-eventbrite]
-  * [Working meeting registration][working-eventbrite]
+  * [Showcase registration][showcase-eventbrite] -- now closed.
+  * [Working meeting registration][working-eventbrite] -- now closed.
 * Dates: December 3rd to the 6th
   * 3rd December - [Showcase][showcase]
   * 4th to 6th - [Working meeting][workingmeeting]
@@ -219,6 +212,7 @@ For details of childcare in the conference vicinity please see www.childcare.co.
 [nrs]: http://www.nationalrail.co.uk/stations/EDB/details.aspx
 [waverley]: http://www.nationalrail.co.uk/stations/EDB/details.aspx
 [talk]: https://goo.gl/forms/R7RzG54WFRZxRdtk1
+
 [conduct-list]: mailto:iiif-conduct@googlegroups.com
 [matienzo]: mailto:matienzo@stanford.edu
 [glen]: mailto:glen.robson@iiif.io
@@ -227,3 +221,4 @@ For details of childcare in the conference vicinity please see www.childcare.co.
 [estanford]: mailto:emmastanfordx@gmail.com
 [hadro]: mailto:josh.hadro@iiif.io
 [knowles]: mailto:C.knowles1@leeds.ac.uk
+

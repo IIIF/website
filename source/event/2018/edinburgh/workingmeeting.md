@@ -4,22 +4,13 @@ layout: edinburgh
 tags: [event ]
 ---
 
-{: class="alert"}
-[Registration available][working-eventbrite]
-
-The 2018 IIIF working meeting is being hosted by the University of Edinburgh and the National Library of Scotland in collaboration with the IIIF Community.
+The 2018 IIIF working meeting is hosted by the University of Edinburgh and the National Library of Scotland in collaboration with the IIIF Community.
 
 The International Image Interoperability Framework (IIIF) Working Meeting in Edinburgh is intended for active IIIF community participants, to make progress on advancing specific aspects of IIIF such as specifications, software, and community development (as opposed to the annual IIIF conference, which is more geared toward sharing knowledge).
 
-Attendance is free, but capacity is limited, so registration is required in order to ensure that we do not exceed the capacity of the venue. Please For this event please [register here][working-eventbrite].
+A brief schedule is below and follow the links to see more details including times.
 
-## Lightning talks
-
-There is an open call for lightning talks. Submit yours using [this google form][talk]. Lightning talks will be limited to 7 minutes and can be on any subject related to IIIF that you think will be of interest to participants. This could include an update on your latest developments, an innovative use of IIIF or a pitch to open a discussion for a later sessions at the meeting.
-
-Please submit your lightning talk by the end of the **31st of October** and if you have any questions please contact Glen Robson IIIF Technical Coordinator.
-
-## Draft Schedule
+## Brief Schedule
 
 <table class="api-table">
   <thead>
@@ -32,55 +23,61 @@ Please submit your lightning talk by the end of the **31st of October** and if y
   </thead>
   <tbody>
     <tr>
-            <td>Morning</td>
-            <td>Broad updates on what's happening across IIIF
+        <td>Morning, 9:00am to 12:00pm</td>
+        <td><a href="#tuesday-4th-december">Broad updates on what's happening across IIIF
+            <ul>
+                <li>Update from the community</li>
+                <li>Tech update</li>
+                <li>Lightning Talks</li>
+            </ul></a>
+        </td>
+        <td><a href="#wednesday-5th-december">Specifications discussions
                 <ul>
-                    <li>Update from the community</li>
-                    <li>Tech update</li>
-                    <li>Lightning Talks</li>
-                </ul>
+                    <li>Specification changes</li>
+                    <li>Search, Auth cross compatibility issues</li>
+                    <li>Other specification issues</li>
+                </ul> </a>  
             </td>
-            <td>Specifications discussions
-                    <ul>
-                        <li>Specification changes</li>
-                        <li>Search, Auth cross compatibility issues</li>
-                        <li>Other specification issues</li>
-                    </ul>   
-                </td>
-                <td><b>Roadmap</b>
-                    <ul>
-                        <li>Input from the community groups</li>
-                        <li>New specifications</li>
-                    </ul>   
-                </td>
+            <td><a href="#thursday-6th-december"><b>Roadmap</b>
+                <ul>
+                    <li>Input from the community groups</li>
+                    <li>New specifications</li>
+                </ul>   </a>
+            </td>
     </tr>
     <tr>
             <td>12:00pm to 1:00pm</td>
             <td colspan="3">Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</td>
     </tr>
     <tr>
-            <td>Afternoon</td>
-            <td>Group discussion on:
+            <td>Afternoon, 1:00pm to 5:00pm</td>
+            <td><a href="#tuesday-4th-december">Group discussion on:
                 <ul>
                     <li>Discovery</li>
                     <li>Migration Strategy</li>
-                </ul>
+                </ul></a>
             </td>
-            <td>User group discussions
+            <td><a href="#wednesday-5th-december">User group discussions
                 <ul>
-                    <li>Software Developers - TBC</li>
-                    <li>A/V - TBC</li>
-                </ul>
-                Outreach discussion, and 2nd round of lightning talks.     
-            </td>
-            <td>
-                <b>Small group working sessions</b>
-                <ul>
-                    <li>Cookbooks</li>
-                    <li>Manuscripts</li>
+                    <li>IIIF A/V</li>
                     <li>Mirador 3</li>
-                </ul>    
+                </ul>
+                Outreach discussion, and 2nd round of lightning talks.  </a>   
             </td>
+            <td><a href="#thursday-6th-december">
+                <b>Small group working sessions in Edinburgh Main University Library</b>
+                <ul>
+                    <li>Cookbooks -  5th floor seminar room.</li>
+                    <li>Manuscripts - 6th floor seminar.</li>
+                    <li>Mirador 3 - Digital scholarship.</li>
+                </ul>   </a>
+            </td>
+    </tr>
+    <tr>
+        <td>5:00pm to 5:45pm</td>
+        <td></td>
+        <td><a href="#wednesday-5th-december">Graeme Hawley: The Joy of Spines performance in the ECCI.</a></td>
+        <td></td>
     </tr>
   </tbody>
 </table>
@@ -88,6 +85,237 @@ Please submit your lightning talk by the end of the **31st of October** and if y
 ## Location
 
 <div id="map" style="width: 100%; height: 400px; background-color: grey;"></div>
+
+## Schedule in detail
+
+### Tuesday 4th December
+Location: {{ site.data.edinburgh-locations[0].name }}
+
+<table class="api-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+      <th>Authors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>8:30am to 9:00am</td>
+        <td colspan="2"><b>Registration</b></td>
+    </tr>
+    <tr>
+        <td>9:00am to 9:10am</td>
+        <td>Welcome</td>
+        <td>Josh Hadro, IIIF Managing Director</td>
+    </tr>
+    <tr>
+        <td>9:10am to 9:30am</td>
+        <td>Community and Tech update</td>
+        <td>Glen Robson, IIIF Technical Coordinator</td>
+    </tr>
+    <tr>
+		<td>9:30am to 9:39am</td>
+        <td>A regional showcase: how Washington, DC does IIIF</td>
+        <td>Stacey Redick, Folger Shakespeare Library</td>
+    </tr>
+    <tr>
+		<td>9:39am to 9:48am</td>
+        <td>A Framework for Annotation Interoperability</td>
+        <td>Mark Patton, Johns Hopkins University</td>
+    </tr>
+    <tr>
+		<td>9:48am to 9:57am</td>
+        <td>Preserving investment in annotation</td>
+        <td>Dan Granville, data futures</td>
+    </tr>
+    <tr>
+		<td>9:57am to 10:06am</td>
+        <td>Eye of the Veholder - AR Extending of Museum Collections</td>
+        <td>Ronald Haynes, University of Cambridge</td>
+    </tr>
+    <tr>
+		<td>10:06am to 10:15am</td>
+        <td>IIIF AV synchronization with notated music</td>
+        <td>Andrew Hankinson, Bodleian Libraries, University of Oxford</td>
+    </tr>
+    <tr>
+		<td>10:15am to 10:24am</td>
+        <td>Canvas panel: bring your own UX</td>
+        <td>Stephen Fraser, Digirati</td>
+    </tr>
+    <tr>
+		<td>10:24am to 10:33am</td>
+        <td>METAscripta project</td>
+        <td>Debra Cashion, Saint Louis University</td>
+    </tr>
+    <tr>
+		<td>10:33am to 11:03am</td>
+        <td colspan="2"><b>Break</b></td>
+    </tr>
+    <tr>
+		<td>11:03am to 11:12am</td>
+        <td>Browse and visualize manuscripts illuminations with IIIF</td>
+        <td>Régis Robineau, Biblissima (Campus Condorcet, EPHE-PSL)</td>
+    </tr>
+    <tr>
+		<td>11:12am to 11:21am</td>
+        <td>Extending Parker on the Web: IIIF, From the Page, and Anglo-Saxon Books</td>
+        <td>Anne McLaughlin, Corpus Christi College, Cambridge</td>
+    </tr>
+    <tr>
+		<td>11:21am to 11:30am</td>
+        <td>Putting A Spotlight on Vatican Library Manuscripts</td>
+        <td>Benjamin Albritton, Stanford University</td>
+    </tr>
+    <tr>
+		<td>11:30am to 11:39am</td>
+        <td>A Lengthy Challenge: The Mahabharata Scroll</td>
+        <td>Scott Renton & Susan Pettigrew</td>
+    </tr>
+    <tr>
+		<td>11:39am to 11:48am</td>
+        <td>Crowdsourcing at NLW - latest developments</td>
+        <td>Sian Thomas, National Library of Wales</td>
+    </tr>
+    <tr>
+		<td>11:48am to 11:57am</td>
+        <td>CONTENTdm Experimental Change Discovery API Endpoint</td>
+        <td>Jeff Mixter, OCLC</td>
+    </tr>
+    <tr>
+        <td>12:00pm to 1:00pm</td>
+        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</b></td>
+    </tr>    
+    <tr>
+        <td>1:00pm to 3:00pm</td>
+        <td colspan="2">Discovery</td>
+    </tr>    
+    <tr>
+        <td>3:00pm to 3:30pm</td>
+        <td colspan="2"><b>Break</b></td>
+    </tr>    
+    <tr>
+        <td>3:30pm to 4:00pm</td>
+        <td colspan="2">Discovery continued</td>
+    </tr>    
+    <tr>
+        <td>4:00pm to 5:00pm</td>
+        <td colspan="2">Migration</td>
+    </tr>    
+  </tbody>
+</table>  
+
+### Wednesday 5th December
+Location: {{ site.data.edinburgh-locations[0].name }}
+
+<table class="api-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+      <th>Author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>9:00am to 10:30am</td>
+        <td colspan="2">Specifications discussions</td>
+    </tr>
+    <tr>
+		<td>10:30am to 11:00am</td>
+        <td colspan="2"><b>Break</b></td>
+    </tr>
+    <tr>
+        <td>11:00am to 12:00pm</td>
+        <td colspan="2">Specifications discussions continued</td>
+    </tr>
+    <tr>
+        <td>12:00pm to 1:00pm</td>
+        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</b></td>
+    </tr>    
+    <tr>
+        <td>1:00pm to 3:00pm</td>
+        <td colspan="2">Parallel sessions:
+            <ul>
+                <li>IIIF A/V</li>
+                <li>Mirador 3</li>
+            </ul>    
+        </td>
+    </tr>        
+    <tr>
+		<td>3:00pm to 3:30am</td>
+        <td colspan="2"><b>Break</b></td>
+    </tr>
+    <tr>
+        <td>3:30pm to 5:00pm</td>
+        <td colspan="2">IIIF Outreach</td>
+    </tr>
+    <tr>
+        <td>5:00pm to 5:45pm</td>
+        <td>The Joy of Spines</td>
+        <td>Graeme Hawley, National Library of Scotland</td>
+    </tr>  
+   </tbody>
+</table>    
+
+### Thursday 6th December
+Location: {{ site.data.edinburgh-locations[0].name }} in the morning and {{ site.data.edinburgh-locations[3].name }} in the afternoon.
+
+<table class="api-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+      <th>Author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>9:00am to 10:30am</td>
+        <td colspan="2">Roadmap Session, in {{ site.data.edinburgh-locations[0].name }}.</td>
+    </tr>
+    <tr>
+		<td>10:15am to 10:45am</td>
+        <td colspan="2"><b>Break</b></td>
+    </tr>
+    <tr>
+        <td>10:45am to 12:00am</td>
+        <td colspan="2">Roadmap Session continued in {{ site.data.edinburgh-locations[0].name }}.</td>
+    </tr>
+    <tr>
+        <td>12:00pm to 2:00pm</td>
+        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>. Also transfer to the {{ site.data.edinburgh-locations[3].name }} for the afternoon sessions.</b></td>
+    </tr>    
+    <tr>
+        <td>2:00pm to 3:30pm</td>
+        <td colspan="2">
+        Small group working sessions in the Edinburgh Main University Library
+        <ul>
+            <li>Cookbooks -  5th floor seminar room.</li>
+            <li>Manuscripts - 6th floor seminar.</li>
+            <li>Mirador 3 - Digital scholarship.</li>
+        </ul>  
+        </td>
+    </tr>    
+    <tr>
+		<td>3:30pm to 4:00pm</td>
+        <td colspan="2"><b>Break</b></td>
+    </tr>
+    <tr>
+        <td>4:00pm to 5:00pm</td>
+        <td colspan="2">
+        Small group working sessions continued.
+        <ul>
+            <li>Cookbooks -  5th floor seminar room.</li>
+            <li>Manuscripts - 6th floor seminar.</li>
+            <li>Mirador 3 - Digital scholarship.</li>
+        </ul>  
+        </td>
+    </tr>
+
+  </tbody>
+</table>
 <script>
   function createIcon(url) {
       return new google.maps.MarkerImage(url,
