@@ -110,76 +110,81 @@ Location: {{ site.data.edinburgh-locations[0].name }}
         <td>Josh Hadro, IIIF Managing Director</td>
     </tr>
     <tr>
-        <td>9:10am to 9:30am</td>
+        <td>9:10am to 9:25am</td>
         <td>Community and Tech update</td>
         <td>Glen Robson, IIIF Technical Coordinator</td>
     </tr>
     <tr>
-		<td>9:30am to 9:39am</td>
+		<td>9:25am to 9:34am</td>
         <td>A regional showcase: how Washington, DC does IIIF</td>
         <td>Stacey Redick, Folger Shakespeare Library</td>
     </tr>
     <tr>
-		<td>9:39am to 9:48am</td>
+		<td>9:34am to 9:43am</td>
         <td>A Framework for Annotation Interoperability</td>
         <td>Mark Patton, Johns Hopkins University</td>
     </tr>
     <tr>
-		<td>9:48am to 9:57am</td>
+		<td>9:43am to 9:52am</td>
         <td>Preserving investment in annotation</td>
         <td>Dan Granville, data futures</td>
     </tr>
     <tr>
-		<td>9:57am to 10:06am</td>
+		<td>9:52am to 10:01am</td>
         <td>Eye of the Veholder - AR Extending of Museum Collections</td>
         <td>Ronald Haynes, University of Cambridge</td>
     </tr>
     <tr>
-		<td>10:06am to 10:15am</td>
+		<td>10:01am to 10:10am</td>
         <td>A Lengthy Challenge: The Mahabharata Scroll</td>
         <td>Scott Renton & Susan Pettigrew</td>
     </tr>
     <tr>
-		<td>10:15am to 10:24am</td>
-        <td>Canvas panel: bring your own UX</td>
-        <td>Stephen Fraser, Digirati</td>
-    </tr>
-    <tr>
-		<td>10:24am to 10:33am</td>
+		<td>10:10am to 10:19am</td>
         <td>METAscripta project</td>
         <td>Debra Cashion, Saint Louis University</td>
     </tr>
     <tr>
-		<td>10:33am to 11:03am</td>
+		<td>10:19am to 10:28am</td>
+        <td>Canvas panel: bring your own UX</td>
+        <td>Stephen Fraser, Digirati</td>
+    </tr>
+    <tr>
+		<td>10:28am to 10:57am</td>
         <td colspan="2"><b>Break</b></td>
     </tr>
     <tr>
-		<td>11:03am to 11:12am</td>
+		<td>10:57am to 11:06am</td>
+        <td>Introducing Mirador 3</td>
+        <td>Jennifer Vine & Jack Reed, Stanford University</td>
+    </tr>
+    <tr>
+		<td>11:06am to 11:15am</td>
         <td>Browse and visualize manuscripts illuminations with IIIF</td>
         <td>Régis Robineau, Biblissima (Campus Condorcet, EPHE-PSL)</td>
     </tr>
     <tr>
-		<td>11:12am to 11:21am</td>
+		<td>11:15am to 11:24am</td>
         <td>Extending Parker on the Web: IIIF, From the Page, and Anglo-Saxon Books</td>
         <td>Anne McLaughlin, Corpus Christi College, Cambridge</td>
     </tr>
     <tr>
-		<td>11:21am to 11:30am</td>
+		<td>11:24am to 11:33am</td>
         <td>Putting A Spotlight on Vatican Library Manuscripts</td>
         <td>Benjamin Albritton, Stanford University</td>
     </tr>
     <tr>
-		<td>11:30am to 11:39am</td>
+		<td>11:33am to 11:42am</td>
         <td>IIIF AV synchronization with notated music</td>
         <td>Andrew Hankinson, Bodleian Libraries, University of Oxford</td>
     </tr>
     <tr>
-		<td>11:39am to 11:48am</td>
+		<td>11:42am to 11:51am</td>
         <td>Crowdsourcing at NLW - latest developments</td>
         <td>Sian Thomas, National Library of Wales</td>
     </tr>
     <tr>
-		<td>11:48am to 11:57am</td>
+		<td>11:51am to 12:00pm</td>
         <td>CONTENTdm Experimental Change Discovery API Endpoint</td>
         <td>Jeff Mixter, OCLC</td>
     </tr>
