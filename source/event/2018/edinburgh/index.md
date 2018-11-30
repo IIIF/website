@@ -32,6 +32,7 @@ The working group meetings are intended for active IIIF community participants a
 | Mark Matienzo (Conduct and Safety Team Coordinator)   | +1 650 683 5769  | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
 | Josh Hadro (IIIF Consortium Staff) | +44 (0) 776 065 8344 |  [josh.hadro@iiif.io][hadro] | josh.hadro | Hadro |
 | Claire Knowles   |   | [C.knowles1@leeds.ac.uk][knowles]  | cgknowles | cgknowles  |
+| Stuart Lewis (Local Arrangements Committee) | +44 (0) 753 175 7575  | [stuart.lewis@nls.uk][lewis]  | stuartlewis  | stuartlewis  |
 | Jack Reed |   | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
 | Julien Raemy  |   |  [julien.raemy@hesge.ch][raemy] | julsraemy  | julsraemy  |
 | Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
@@ -221,4 +222,4 @@ For details of childcare in the conference vicinity please see www.childcare.co.
 [estanford]: mailto:emmastanfordx@gmail.com
 [hadro]: mailto:josh.hadro@iiif.io
 [knowles]: mailto:C.knowles1@leeds.ac.uk
-
+[lewis]: mailto:stuart.lewis@nls.uk
