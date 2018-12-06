@@ -67,9 +67,9 @@ A brief schedule is below and follow the links to see more details including tim
             <td><a href="#thursday-6th-december">
                 <b>Small group working sessions in Edinburgh Main University Library</b>
                 <ul>
-                    <li>Cookbooks -  5th floor seminar room.</li>
+                    <li>Cookbooks - Digital scholarship.</li>
                     <li>Manuscripts - 6th floor seminar.</li>
-                    <li>Mirador 3 - Digital scholarship.</li>
+                    <li>Mirador 3 - 5th floor seminar room. </li>
                 </ul>   </a>
             </td>
     </tr>
