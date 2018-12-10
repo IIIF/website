@@ -231,7 +231,7 @@ The Outreach Community Group Co-Chairs:
 [lovaniensia]: http://lovaniensia.be/ 
 [luna]: http://www.lunaimaging.com/ 
 [lyrasis]: https://www.lyrasis.org/Pages/Main.aspx 
-[magister]: http://heron-net.be/lectio/magister-dixit-project 
+[magister]: http://heron-net.be/lectio/project_summary
 [mirador-medievalists]: https://www.medievalacademy.org/general/custom.asp?page=miradormedievalists 
 [ncsu-rare]: https://d.lib.ncsu.edu/collections 
 [ncsu-million]: https://www.lib.ncsu.edu/news/special-collections/one-million-and-counting 
