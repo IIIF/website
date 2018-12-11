@@ -18,7 +18,7 @@ All event proceedings will be in English.
 * Cost: To be decided but there will be a cost to cover the conference costs.
 * Capacity: 300
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
-* Social Media: Tweets about the event should use #iiif or @iiif_io
+* Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
 
 ### Call for Sponsors
 
@@ -30,7 +30,7 @@ Outline schedule below, please note this is subject to change.
 
 * Monday 24th of June - Showcase
 * Tuesday 25th of June - Workshops
-* Wednesday 26th of June - Plenary session including lightening talks
+* Wednesday 26th of June - Plenary session including lightning talks
 * Thursday 27th and Friday 28th of June - Parallel sessions
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
