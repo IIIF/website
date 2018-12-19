@@ -43,6 +43,9 @@ The IIIF Community Newsletter (the document you are reading right now) is publis
 
 ## Community Events and Outreach
 
+### IIIF-Texas Regional Event 
+On October 9, University of North Texas Libraries and Brumfield Labs hosted IIIF-TX, a regional meeting for IIIF practitioners in Texas and Oklahoma.  The day-long conference attracted forty participants from the region, and alternated between presentations exploring the APIs and lightning talks focusing on specific projects or implementations.  The growing community of institutions adopting IIIF was represented by speakers from Texas State, Texas A&M, the Harry Ransom Center, UT-Austin and the Portal to Texas History (UNT).
+
 ### IIIF Outreach - Handschriftenportal 2018
 In the context of the upcoming project Handschriftenportal, which aims to create a national manuscript portal for Germany, a [IIIF outreach event took place in Leipzig][leipzig-event] on October 15 and 16. The event was was mainly held in German and focused on manuscript holding libraries, museums and archives in Germany. During the event, [presentations][leipzig-prezi]  on various international relevant projects related to IIIF were held by participants from Germany, France, Switzerland and the United States. The background and the conceptual ideas behind the new German manuscript portal were explained by several members of the project and discussed by the audience. Approximately 70 participants attended the event, which was organized by the Leipzig University Library. 
 
