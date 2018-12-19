@@ -31,3 +31,23 @@ Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. 
     * link from the root website to the api website (not relative to this repo) `[hyperlink text]({{ page.webprefix }}/end/point)`
     * External link `[anchor-text](http://example.com/end/point)`
     * Reference link `[text][link_name]` where link_name is expanded at the bottom of the page.
+
+
+## Maintenance
+
+### Updating dependencies:
+
+Updating Ruby dependencies:
+
+```bundle update```
+
+Updating node dependencies (`package.json`):
+
+```
+# install node update program
+npm i -g npm-check-updates
+# run update, this will update the package.json
+ncu -u
+# this will update the installed libraries
+npm install
+```
