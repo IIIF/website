@@ -85,7 +85,9 @@ IIIF Community groups are designed to provide a forum for general discussion, br
 
 ### [3D Community Group][groups-3d]
 The IIIF 3D Community Group has met eight times since its formation in March of 2018. The call regularly attracts around 20 participants, and particularly compelling agendas have attracted over 30 participants from a great diversity of institutions worldwide.  The group has become a locus of collaboration and information sharing among cultural heritage institution who are interested in sharing and interoperability of 3D data.
+
 During the calls the group has seen compelling demonstrations of web-based 3D platforms that are being developed in and for the cultural heritage domain with interoperability in mind. Demonstrations and presentations have included the latest from the [Web3D consortium][web3d], the Visual Computing Lab's [Visual Media Service][vms], [Sketchfab Labs][sketchfab], the next generation of the [Morphosource platform][morphosource], the Smithsonian's forthcoming [open source 3D viewer and production pipeline][smith-3d] and latest IIIF 3D experiments by [Mnemoscene][mnemoscene].  The 3D Community Group has together started documenting a comparison matrix of 3D web viewers used by cultural heritage organizations as well as a [matrix documenting how viewers specifically handle spatial annotations][matrix].  The group is also embarking on an effort to document [3D interoperability use cases][3d-usecases].
+
 Participants in the IIIF 3D Community Group have established productive collaborations with other 3D standards initiatives, including the [CS3DP][cs3dp], [LIB3DVR][lib3dvr] and [ReACH initiatives][reach]. We are also talking more about IIIF at conferences and events with a 3D and VR focus, such as the [2018 Digital Heritage Conference][dhc].
 Creation of 3D data by IIIF institutions is clearly on the rise, as is the appetite for open standards to support the sharing of 3D data.  We are anxious to see what transpires in the year ahead.      
 
@@ -109,14 +111,16 @@ Richard Palmer, Senior Web Developer, Digital Media, V&A, London, will become a 
 IIIF is now an official [Special Interest Group of Museum Computer Network][mcn-sig]. The Chair is Stefano Cossu, Getty Trust, the co-chair is Emmanuelle Delmas-Glass, Yale Center for British Art. This year is the first time that the SIG was created and held a SIG panel at the [MCN conference][mcn-denver], with Stefano Cossu, Getty Trust, Deborah Howes, National Gallery of Art, DC, Emmanuelle Delmas-Glass, Yale Center for British Art, Luca Carnia, V&A, and Rob Sanderson, Getty Trust. The IIIF MCN SIG also held an informal lunch during the conference.
 
 ### [Newspapers Community Group][groups-newspapers]
-IIIF Newspapers Community Group 2018 in Review
+#### IIIF Newspapers Community Group 2018 in Review
 The IIIF Newspaper Community Group had participation from 20 organizations in 2018 and was co-chaired by Karen Estlund from Penn State University and Glen Robson from IIIF. Activities during the year focused on the following efforts:
 Showcasing and discussing implementations of IIIF with newspapers including presentations from the Library of Congress, Europeana and the Newspapers in Samvera project.
-Participation the the [Text Granularity Working Group][groups-text]
-Coordination with the [ALTO][ALTO] board
-Discussion with providers of digital newspaper viewer software on implementing IIIF
-Advisory support for grant projects, such as the [Newspapers in Samvera][news-samvera] [Institute of Museum and Library Services (IMLS) Grant][ILMS]  
-Expansion of rationale for [levels and features][news-guide] of IIIF API implementations with a user-centered question and outcome approach
+
+* Participation the the [Text Granularity Working Group][groups-text]
+* Coordination with the [ALTO][ALTO] board
+* Discussion with providers of digital newspaper viewer software on implementing IIIF
+* Advisory support for grant projects, such as the [Newspapers in Samvera][news-samvera] [Institute of Museum and Library Services (IMLS) Grant][ILMS]  
+* Expansion of rationale for [levels and features][news-guide] of IIIF API implementations with a user-centered question and outcome approach
+
 Moving into 2019, the IIIF Newspaper group will focus on providing the cookbook for the current specifications, continuing to share work and lessons with each other, and lobbying for continued vendor implementations.
 
 ### [Outreach Community Group][groups-outreach]
@@ -174,7 +178,7 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 * Claire Knowles (Leeds University Library)
 * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 
-#### With contributions from: 
+#### With contributions from: 
 * Benjamin Albritton (Stanford University)
 * Tom Cramer (Stanford University)
 * Tom Crane (Digirati)
