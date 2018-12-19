@@ -267,7 +267,6 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [news-samvera]:https://wiki.duraspace.org/display/samvera/Newspapers+in+Samvera+IMLS+Grant 
 [nls]: https://www.nls.uk/ 
 [norway-iiif]: https://www.nb.no/hva-skjer/iiif-conference/ 
-[norway-recording]: https://mediasite.nb.no/Mediasite/Play/978e0127b3664d40bdc40007f044128c1d
 [norway-fantastic]: https://www.nb.no/artikler/fantastic-futures/
 [oclc-discovery]: https://researchworks.oclc.org/digital/discovery-index 
 [oclc-prezi]: https://www.oclc.org/content/dam/research/presentations/mixter/2018-mixter-CONTENTdm-IIIF-Discovery-API.pptx  
