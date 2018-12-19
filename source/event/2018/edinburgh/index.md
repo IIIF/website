@@ -25,7 +25,7 @@ The working group meetings are intended for active IIIF community participants a
 * Location: [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls]
 * Cost: All events are free
 * Social Media: Tweets about the event should use #iiif and @iiif_io
-* Code of Conduct: The IIIF [Code of Conduct][conduct] applies to these events to ensure they are inclusive, welcoming, and safe. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their blue and white striped badge lanyards and can be contacted individually:
+* Code of Conduct: The IIIF [Code of Conduct][conduct] applies to these events to ensure they are inclusive, welcoming, and safe. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their orange badge lanyards and can be contacted individually:
 
 | Name | Mobile number | E-mail address | IIIF Slack | Twitter |
 | ---- | ------------- | -------------- | ---------- | ------- |
@@ -47,7 +47,7 @@ General booking sites:
  * [https://www.booking.com](https://www.booking.com)
  * [https://www.trivago.co.uk](https://www.trivago.co.uk)
  * Hotel review site: [https://www.tripadvisor.co.uk/](https://www.tripadvisor.co.uk/)
- * University Accommodation: [https://www.edinburghfirst.co.uk/for-accommodation/](https://www.edinburghfirst.co.uk/for-accommodation/)
+ * University Accommodation: [https://www.edinburghfirst.co.uk/accommodation/](https://www.edinburghfirst.co.uk/accommodation/)
 
 ## Weather in Edinburgh in December
 December in Edinburgh means long nights as it will be getting dark early, about 4:00pm, the average maximum and minimum temperatures in December are 7C and 1C, there is a possibility of rain. https://www.holiday-weather.com/edinburgh/averages/ . Pack layers and a raincoat, umbrellas are recommended although Edinburgh is a windy city, it is likely to be frosty in the mornings, but snow in December is rare. Hats, scarves and gloves can easily be purchased in Edinburgh if needed.

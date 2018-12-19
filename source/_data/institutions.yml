@@ -113,6 +113,9 @@
 - name: Internet Archive
   uri: https://archive.org/index.php
   iiifc:
+- name: intranda GmbH
+  uri: https://goobi.io
+  iiifc:
 - name: Johns Hopkins University
   uri: http://library.jhu.edu
   iiifc: 2
@@ -142,7 +145,7 @@
   uri: http://www.lunaimaging.com/blog/2015/12/3/luna-and-iiif-1
 - name: LYRASIS
   uri: https://www.lyrasis.org
-  iiifc: 3
+  iiifc: 4
 - name: Manuscriptorium - Digital Library of Written Cultural Heritage
   uri: http://www.manuscriptorium.com/
 - name: Max Planck Institute for European Legal History
@@ -218,6 +221,7 @@
   uri: https://www.prov.vic.gov.au/
 - name: Qatar National Library
   uri: http://www.qnl.qa
+  iiifc: 2
 - name: Sirma Group
   uri: https://sirma.com/
   iiifc:
