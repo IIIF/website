@@ -43,6 +43,9 @@ The IIIF Community Newsletter (the document you are reading right now) is publis
 
 ## Community Events and Outreach
 
+### IIIF-Texas Regional Event 
+On October 9, University of North Texas Libraries and [Brumfield Labs][brumfield] hosted [IIIF-TX][iiif-tx], a regional meeting for IIIF practitioners in Texas and Oklahoma.  The day-long conference attracted forty participants from the region, and alternated between presentations exploring the APIs and lightning talks focusing on specific projects or implementations.  The growing community of institutions adopting IIIF was represented by speakers from Texas State, Texas A&M, the Harry Ransom Center, UT-Austin and the Portal to Texas History (UNT).
+
 ### IIIF Outreach - Handschriftenportal 2018
 In the context of the upcoming project Handschriftenportal, which aims to create a national manuscript portal for Germany, a [IIIF outreach event took place in Leipzig][leipzig-event] on October 15 and 16. The event was was mainly held in German and focused on manuscript holding libraries, museums and archives in Germany. During the event, [presentations][leipzig-prezi]  on various international relevant projects related to IIIF were held by participants from Germany, France, Switzerland and the United States. The background and the conceptual ideas behind the new German manuscript portal were explained by several members of the project and discussed by the audience. Approximately 70 participants attended the event, which was organized by the Leipzig University Library. 
 
@@ -65,10 +68,11 @@ Many thanks again to our hosts and the Program Committee.
 #### Report from the University of Edinburgh:
 As consortial members, it was a good opportunity for both the National Library of Scotland and the University of Edinburgh  to raise their profile within the community, and for delegates from all over the world to see Edinburgh in winter while making the most of face-to-face discussions regarding recent developments and the future direction of the framework.
 The Showcase took place in the Royal Society of Edinburgh, and this reasonably light-touch session offered an introduction to the concepts and tools and for the host institutions to talk about what they’ve produced so far. It was also IIIF’s new managing director Josh Hadro’s first week in the job: a great way for him to see the community in action! The afternoon saw candidates repair to the NLS and Main Library for breakout sessions in key content areas (Archives, Museums, Digital Scholarship) as well as deeply technical and ‘getting started’ sessions. To finish, everyone then made for St Cecilia’s Hall for a round-up of the day; this was an appropriate setting, as we’ve employed IIIF in the museum’s corresponding [collections site][stcecilias].
+
 The Working Meeting ran over the succeeding three days, in the Edinburgh Centre for Carbon Innovation (ECCI) and Main Library. This was a smaller undertaking than the Showcase, but it still attracted 70 delegates. There were some really meaty discussions about the direction of the framework: cookbooks and use cases; updates to the Mirador viewer; enhancing the APIs and registries (including more work on authentication and various types of search), and looking at the amazing potential of 3D and AV. Discussions about the direction of the community and outreach group took place. The first meeting of the Technical Review Committee, that rubber-stamps the specs, took place at the event, in the Teviot Dining Room.
 
 ### IIIF Conference at the National LIbrary of Norway
-Following the Fantastic Futures conference on AI in Libraries, 140 attendees participated in a half day [IIIF Showcase event][norway-iiif] at Oslo, with presentations delving into IIIF’s use in libraries, maps and a national library context. The afternoon was dedicated to 6 parallel track workshops, including new ones focused on IIIF for music, and leveraging IIIF with AI. This was our first large scale event in Scandinavia, but won’t be the last. As one participant remarked: “IIIF seems so elegant and powerful. Why would anyone _not_ use it?”  
+Following the [Fantastic Futures conference on AI in Libraries][norway-fantastic], 140 attendees participated in a half day [IIIF Showcase event][norway-iiif] at Oslo, with presentations delving into IIIF’s use in libraries, maps and a national library context. The afternoon was dedicated to 6 parallel track workshops, including new ones focused on IIIF for music, and leveraging IIIF with AI. This was our first large scale event in Scandinavia, but won’t be the last. As one participant remarked: “IIIF seems so elegant and powerful. Why would anyone _not_ use it?” The video recordings are avaible at: <https://mediasite.nb.no/Mediasite/Play/978e0127b3664d40bdc40007f044128c1d>.  
 
 ### IIIF Presence at Conferences and Meetings 
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Recent and upcoming IIIF appearances include:
@@ -103,6 +107,7 @@ The IIIF Manuscripts Community has been extremely active since the last newslett
 * The Biblioteca Apostolica Vaticana has released a preview of its Mellon-funded project which brings together IIIF images and annotations, the Spotlight exhibit platform (including configurable Mirador widget), and curatorial narratives to tell the many stories of this world-famous collection <https://spotlight.vatlib.it/test-exhibit-for-demonstration>
 
 At the recent IIIF Working Group meeting in Edinburgh, we discussed these projects and many more from participants at Ghent, Oxford, Durham, Edinburgh, the German Manuscripts Portal, and others. The common focus on exposure of, and discovery of, manuscript resources for manuscript audiences will fuel the group’s 2019 goals. We are especially interested in shared solutions around: hosting, aggregation in multiple portals, and specific (and thorny) problems around dates and identifiers. Notes from that meeting are available at <http://bit.ly/2Pm0XjR>. 
+
 We are also looking forward to multiple workshops in the new year, to follow on successful manuscript-focused workshops at Cambridge, Kalamazoo, Yale, Stanford, and the Digital Humanities Summer Institute in 2018. If you want to host a workshop at your institution, or are interested in helping develop a manuscript-focused IIIF teaching curriculum, please let us know!
 The Manuscripts Community Group will continue with quarterly calls in 2019, with the majority of the call time focused on demonstrations and questions from the community.
 
@@ -125,6 +130,7 @@ Moving into 2019, the IIIF Newspaper group will focus on providing the cookbook 
 
 ### [Outreach Community Group][groups-outreach]
 The Outreach Group continue to meet monthly and support those organising local events. In the New Year the group will be focusing on: information for those new to IIIF; the IIIF website; and events both online and in-person. A year on from the formation of group, it will review its charter at the start of the year to ensure it is fit for purpose.
+
 The translation process of the IIIF FAQs is currently on hold and will resume in 2019. For the moment, we have already received unreviewed translations of the [general FAQ][iiif-faq] from members of the IIIF Community in French, Japanese, Spanish and Portuguese. If you are interested in participating in the translation effort, you can follow this [frame request][faq-frame] and contact one of the Outreach Group co-chairs for further details. 
  
 ### [Software Developers Community Group][groups-sw]
@@ -160,7 +166,9 @@ The [Qatar Digital Library][qdl] site has upgraded its support for IIIF: as well
 
 ### Mirador Update
 We are pleased to announce that development of the next version of Mirador - Mirador 3 - will begin in January of 2019. Over the past year the Mirador community has made significant progress on design and proof of concept work to prepare for this next version.  The new version will have many of the same objectives and capabilities as previous versions, but will be rebuilt from the ground up.  Mirador 3 will be a collaborative effort that will include contributions from developers, designers and testers from institutions worldwide, including Leipzig University Library, the Bavarian State Library, Princeton University Libraries, Stanford Libraries, Harvard University, Yale University and others.  
+
 Mirador 3 will bring together years of experience in developing interactive IIIF viewers, with forward looking designs and architectural patterns. Mirador 3 aims to improve the user experience, make customization easier for adopters, and provides a plugin pattern for enhancements and creative new uses.
+
 If you are interested in participating or hearing more, join the conversation on the #mirador Slack channel, join the [Google Group][mirador-ggroup] and find the project on Github at <https://github.com/ProjectMirador/>.  
 
 ### IIIF at Stanford
@@ -179,6 +187,8 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 
 #### With contributions from: 
 * Benjamin Albritton (Stanford University)
+* Ben Brumfield (Brumfield Labs)
+* Sara Brumfield (Brumfield Labs)
 * Tom Cramer (Stanford University)
 * Tom Crane (Digirati)
 * Emmanuelle Delmas-Glass (Yale Center for British Art)
@@ -209,6 +219,7 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [avalon]: https://avalonmediasystem.org/ 
 [biblissima-collections]: https://iiif.biblissima.fr/collections 
 [bn]: https://www.nb.admin.ch/snl/en/home.html 
+[brumfield]: https://www.brumfieldlabs.com/
 [cs3dp]: http://gis.wustl.edu/dgs/cs3dp/ 
 [dhc]: http://www.digitalheritage2018.org
 [drive-edinburgh]: https://drive.google.com/drive/folders/1kQ_X29zswMyD-KFuNBY0yv-9Fqoff8ZW 
@@ -240,6 +251,7 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [iiifc-faq]: https://iiif.io/community/consortium/faq/ 
 [iiif-goettingen]: https://iiif.io/event/2019/goettingen/ 
 [iiif-omnibus]: https://julsraemy.github.io/posts/2018/07/06/iiif-omnibus/  
+[iiif-tx]: https://library.unt.edu/events/2018/10-09-iiif-texas/
 [ILMS]:https://www.imls.gov/ 
 [leipzig-event]: https://www.ub.uni-leipzig.de/index.php?id=1570 
 [leipzig-prezi]: https://drive.google.com/drive/folders/1Ejx6GFL_SUiFQ5roBHsOv87EL2ZWTjS5
@@ -255,6 +267,7 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [news-samvera]:https://wiki.duraspace.org/display/samvera/Newspapers+in+Samvera+IMLS+Grant 
 [nls]: https://www.nls.uk/ 
 [norway-iiif]: https://www.nb.no/hva-skjer/iiif-conference/ 
+[norway-fantastic]: https://www.nb.no/artikler/fantastic-futures/
 [oclc-discovery]: https://researchworks.oclc.org/digital/discovery-index 
 [oclc-prezi]: https://www.oclc.org/content/dam/research/presentations/mixter/2018-mixter-CONTENTdm-IIIF-Discovery-API.pptx  
 [polonsky]: https://manuscrits-france-angleterre.org/polonsky/en/content/bnf-bl-polonsky-project 
