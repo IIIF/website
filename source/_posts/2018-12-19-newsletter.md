@@ -1,6 +1,6 @@
 ---
 title: IIIF Community Newsletter, Volume 2 Issue 3
-editors: Claire Knowles, Julien A. Raemy 
+author: Claire Knowles, Julien A. Raemy 
 date: 2018-12-19
 tags: [news, newsletter, announcements]
 layout: post
@@ -167,7 +167,6 @@ If you are interested in participating or hearing more, join the conversation on
 The Stanford Libraries has made it easier to find and use IIIF-compatible resources by featuring them on the homepage of its online catalog, [SearchWorks][searchworks]. By clicking the “IIIF Resources” link on the SearchWorks homepage, you will be directed to a search result that makes available over 390,000 (and growing) digital resources that contain IIIF-compatible images.  From there you can further refine your search using facets such as date, language, topic, genre, region, and more. The IIIF icon is readily available in search results to support drag and drop into IIIF-compatible viewers. On results pages, IIIF-compatible resources are presented in the Universal Viewer.  
 
 ## Recommended Reading
-
 * Journal article by Nuno Freire, Glen Robson, John B. Howard, Hugo Manguin, and Antoine Isaac: [Cultural heritage metadata aggregation using web technologies: IIIF, Sitemaps and Schema.org][freire-ch]. International Journal on Digital Libraries. DOI 10.1007/s00799-018-0259-5.
 * PhD thesis by Benoît Seguin: [Making large art historical photo archives searchable][seguin-thesis]. Ecole Polytechnique Fédérale de Lausanne (EPFL)  
 * Blog post by Julien A. Raemy: [IIIF Omnibus - looking back at the 2018 IIIF Conference in Washington D.C.][iiif-omnibus]
@@ -274,6 +273,7 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [stcecilias]: https://collections.ed.ac.uk/stcecilias
 [smith-3d]: http://bit.ly/2xGMXLy
 [sub]: https://www.sub.uni-goettingen.de/en/news/ 
+[submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2 
 [timeliner]: https://iiif-timeliner.netlify.com/ 
 [ticks-rg]: https://www.researchgate.net/project/Towards-IIIF-Compliance-Knowledge-in-Switzerland-TICKS
 [timeliner-doc]: https://iiif-timeliner.netlify.com/docs/components-audio-transport-bar-audio-transport-bar
