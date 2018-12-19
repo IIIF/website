@@ -68,6 +68,7 @@ after_deploy:
 notifications:
   email:
     recipients:
-      - "glen.robson@gmail.com"
+      - "glen.robson@iiif.io"
+      - "josh.hadro@iiif.io"
     on_success: "change"
     on_failure: "change"

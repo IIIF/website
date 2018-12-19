@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '> 3.7'
+gem 'jekyll', '>= 3.8.4'
 gem 'kramdown', '> 1.16'
 gem 'jekyll-sitemap', '> 0.10.0'
 gem 'jekyll-redirect-from', '> 0.10.0'
