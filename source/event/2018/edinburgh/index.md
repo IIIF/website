@@ -25,7 +25,7 @@ The working group meetings are intended for active IIIF community participants a
 * Location: [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls]
 * Cost: All events are free
 * Social Media: Tweets about the event should use #iiif and @iiif_io
-* Code of Conduct: The IIIF [Code of Conduct][conduct] applies to these events to ensure they are inclusive, welcoming, and safe. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their blue and white striped badge lanyards and can be contacted individually:
+* Code of Conduct: The IIIF [Code of Conduct][conduct] applies to these events to ensure they are inclusive, welcoming, and safe. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their orange badge lanyards and can be contacted individually:
 
 | Name | Mobile number | E-mail address | IIIF Slack | Twitter |
 | ---- | ------------- | -------------- | ---------- | ------- |
