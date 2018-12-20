@@ -71,8 +71,8 @@ The Showcase took place in the Royal Society of Edinburgh, and this reasonably l
 
 The Working Meeting ran over the succeeding three days, in the Edinburgh Centre for Carbon Innovation (ECCI) and Main Library. This was a smaller undertaking than the Showcase, but it still attracted 70 delegates. There were some really meaty discussions about the direction of the framework: cookbooks and use cases; updates to the Mirador viewer; enhancing the APIs and registries (including more work on authentication and various types of search), and looking at the amazing potential of 3D and AV. Discussions about the direction of the community and outreach group took place. The first meeting of the Technical Review Committee, that rubber-stamps the specs, took place at the event, in the Teviot Dining Room.
 
-### IIIF Conference at the National LIbrary of Norway
-Following the [Fantastic Futures conference on AI in Libraries][norway-fantastic], 140 attendees participated in a half day [IIIF Showcase event][norway-iiif] at Oslo, with presentations delving into IIIF’s use in libraries, maps and a national library context. The afternoon was dedicated to 6 parallel track workshops, including new ones focused on IIIF for music, and leveraging IIIF with AI. This was our first large scale event in Scandinavia, but won’t be the last. As one participant remarked: “IIIF seems so elegant and powerful. Why would anyone _not_ use it?” The video recordings are avaible at: <https://mediasite.nb.no/Mediasite/Play/978e0127b3664d40bdc40007f044128c1d>.  
+### IIIF Conference at the National Library of Norway
+Following the [Fantastic Futures conference on AI in Libraries][norway-fantastic], 140 attendees participated in a half day [IIIF Showcase event][norway-iiif] at Oslo, with presentations delving into IIIF’s use in libraries, maps and a national library context. The afternoon was dedicated to 6 parallel track workshops, including new ones focused on IIIF for music, and leveraging IIIF with AI. This was our first large scale event in Scandinavia, but won’t be the last. As one participant remarked: “IIIF seems so elegant and powerful. Why would anyone _not_ use it?” The video recordings are available at: <https://mediasite.nb.no/Mediasite/Play/978e0127b3664d40bdc40007f044128c1d>.  
 
 ### IIIF Presence at Conferences and Meetings 
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Recent and upcoming IIIF appearances include:
@@ -175,6 +175,7 @@ If you are interested in participating or hearing more, join the conversation on
 The Stanford Libraries has made it easier to find and use IIIF-compatible resources by featuring them on the homepage of its online catalog, [SearchWorks][searchworks]. By clicking the “IIIF Resources” link on the SearchWorks homepage, you will be directed to a search result that makes available over 390,000 (and growing) digital resources that contain IIIF-compatible images.  From there you can further refine your search using facets such as date, language, topic, genre, region, and more. The IIIF icon is readily available in search results to support drag and drop into IIIF-compatible viewers. On results pages, IIIF-compatible resources are presented in the Universal Viewer.  
 
 ## Recommended Reading
+* Journal article by Joris van Zundert: [On Not Writing a Review about Mirador: Mirador, IIIF, and the Epistemological Gains of Distributed Digital Scholarly Resources][zundert]. Digital Medievalist. DOI 10.16995/dm.78/
 * Journal article by Nuno Freire, Glen Robson, John B. Howard, Hugo Manguin, and Antoine Isaac: [Cultural heritage metadata aggregation using web technologies: IIIF, Sitemaps and Schema.org][freire-ch]. International Journal on Digital Libraries. DOI 10.1007/s00799-018-0259-5.
 * PhD thesis by Benoît Seguin: [Making large art historical photo archives searchable][seguin-thesis]. Ecole Polytechnique Fédérale de Lausanne (EPFL)  
 * Blog post by Julien A. Raemy: [IIIF Omnibus - looking back at the 2018 IIIF Conference in Washington D.C.][iiif-omnibus]
@@ -296,3 +297,4 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [web3d]: http://www.web3d.org/ 
 [wikidata]: https://www.wikidata.org 
 [wikidata-tweet]: https://twitter.com/iiif_io/status/1062672130897272832 
+[zundert]: https://journal.digitalmedievalist.org/articles/10.16995/dm.78/
