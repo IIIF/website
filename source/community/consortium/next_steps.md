@@ -63,7 +63,7 @@ The IIIF Consortium (IIIF-C) is the formal entity meant to undertake the busines
   <br>
   All IIIF-C Members since June 2015 have joined as Additional Founding Members. Founding Membership is an honorific designation with no additional perquisites. The Executive Committee agreed in its original MOU that once the total number of Founding Members hit 20, an election to add two new members of the Executive Committee would be held. This election occurred, adding in December 2016 the Getty Trust and Europeana to the Executive Committee, each for a three- year term. It was also agreed that institutions joining IIIF-C until 31 December 2017 would be regarded as Additional Founding Members, after which time the IIIF-C would move to establish new tiers of membership [NB: Considering the desirability of attracting a few more members who had inquired of Founding Membership before the end date of 31 December 2017, we have extended the final date to 20 May 2018, the day before the next face-to-face meeting of the Executive Committee and the following days of IIIF conferences in Washington, DC; we hope to hear from those institutions considering Founding Membership in the IIF Consortium soon.] Because we wish to stimulate participation in IIIF and thereby make even more progress on the fundamental purposes of IIIF and the three foci specified in section 1, above, we propose two tiers of membership in the IIIF Consortium, presented next.
   </li>
-  <li>Tiers of Membership for 2018 and Beyond, associated annual fees coming into force as of the approval of these Next Steps by the Executive Committee</li>
+  <li>Tiers of Membership for 2018 and Beyond, associated annual fees coming into force as of the approval of these Next Steps by the Executive Committee
   <ol type="a">
     <li>Full Members from non-commercial institutions (libraries, archives or museums); possibility of election to one seat of the thirteen member Executive Committee of IIIF-C; the annual fee for Full Members is US$10,000;</li>  
     <li>Associate Members are welcome, but would not be eligible to serve on the Executive Committee; the annual fee for Associate Members is US$2,500;</li>
@@ -125,7 +125,7 @@ IIIF-C Membership Tiers for Commercial Corporations
 ## 3. IIIF-C Organization
 
 <ol type="a">
-  <li>The IIIF-C Executive Committee will be responsible for approving IIIF-C annual budget, authorization of positions, appointment of positions, setting policy, setting strategic direction, determining member benefits and rates, assessment of organizational and staff performance, and empaneling committees (position search, nominations, compensation, etc.).</li>
+  <li>The IIIF-C Executive Committee will be responsible for approving IIIF-C annual budget, authorization of positions, appointment of positions, setting policy, setting strategic direction, determining member benefits and rates, assessment of organizational and staff performance, and empaneling committees (position search, nominations, compensation, etc.).
   <ol type="1">
 <li>The Executive Committee shall meet at least twice a year; once via
     teleconference and once face to face;</li>
@@ -215,7 +215,7 @@ Executive Committee with voice, but without vote;</li></ol></li>
 
 
 
-<li>Committees. As a grassroots initiative, IIIF's coordinated activities are organized and executed by various groups. IIIF Committees are one such type of group. (Others are Community Groups, Technical Specification Groups, and more ephemeral teams, such as the organizing and program groups for events.) IIIF Committees are structural elements of the IIIF Consortium, and charged with one or more critical elements of IIIF business / operational affairs.</li>
+<li>Committees. As a grassroots initiative, IIIF's coordinated activities are organized and executed by various groups. IIIF Committees are one such type of group. (Others are Community Groups, Technical Specification Groups, and more ephemeral teams, such as the organizing and program groups for events.) IIIF Committees are structural elements of the IIIF Consortium, and charged with one or more critical elements of IIIF business / operational affairs.
 <ol type="1">
 <li>Current & prospective IIIF Committees comprise:</li>
 <ol type="i">
@@ -237,7 +237,7 @@ Executive Committee with voice, but without vote;</li></ol></li>
 
 <li>Community Groups, Technical Specification Groups, et al. <br>
 <br>
-IIIF benefits from various community groups that are already established, with new ones being formed as necessary. These are named in Section 1 of this document, and on the <a href="https://iiif.io">IIIF website</a>. These groups serve to coordinate interest and activity around specific aspects of IIIF, such as specific domains (e.g., Manuscripts), functions (e.g. Software Development), sectors (e.g., Museums), or API specifications (e.g. A/V). Groups are also formed to organize and execute on specific events (such as the organizing & program committees for the annual IIIF Conference, or for regional events).</li>
+IIIF benefits from various community groups that are already established, with new ones being formed as necessary. These are named in Section 1 of this document, and on the <a href="https://iiif.io">IIIF website</a>. These groups serve to coordinate interest and activity around specific aspects of IIIF, such as specific domains (e.g., Manuscripts), functions (e.g. Software Development), sectors (e.g., Museums), or API specifications (e.g. A/V). Groups are also formed to organize and execute on specific events (such as the organizing & program committees for the annual IIIF Conference, or for regional events).
 <ol type="1">
 <li>As a fundamental principle, participation in all IIIF community groups shall be inclusive of new and varied perspectives. Leadership of the groups should be drawn from active group members, and should rotate over time as much as possible, ensuring smooth succession and ongoing development of talent. As with IIIF Committees, participation is open to all members of the IIIF community and institutional membership in IIIF-C is not a prerequisite;</li>
 <li>New community groups may be established by the Managing Director, with the approval of the Coordinating Committee and/or the Editorial Committee (in the case of Technical Specification Groups). Community groups shall have a charge, designated Chairs, and defined reporting and communication channels;</li>
@@ -286,7 +286,7 @@ The IIIF-C Executive Committee approves the annual budget.
 <ol type="a">
 <li>As of Janaury 2018, IIIF-C has 4 9 members and annual receipts of fees of US$490,000; minimum expected revenue 2018 through 2020 will be $1,470,000;</li>
 <li>As of 22 January 2018, there is roughly US$434,000 in the IIIF account at CLIR; four invitations to join IIIF-C as Full & Founding Members are outstanding;</li>
-<li>Proposed expenses to be covered by annual membership fees:</li>  
+<li>Proposed expenses to be covered by annual membership fees:
 <ol type="i">
 <li>staff salaries + benefits in aggregate (Managing Director, Technical Coordinator, Community Support and Events Officer proposed January 2018) = US$420,000;</li> 
 <li>additional staff expenses (telecommunications, travel & lodging) = US$100,000;</li>
@@ -342,7 +342,7 @@ The need for and opportunities arising from adding a Managing Director to our st
 Over the near term, as discussed at the IIIF Working Group meeting in Toronto, October
 2017, IIIF's roadmap and priorities must include the following elements:
 <ol type="1">
-<li>API Specifications Development (including discussion among the IIIF Editorial Committee, Technical Specifications Groups, the community at large, and software independent implementations):</li>
+<li>API Specifications Development (including discussion among the IIIF Editorial Committee, Technical Specifications Groups, the community at large, and software independent implementations):
 <ol type="a">
 <li>Presentation API 3.0 (enabling AV and following the W3C web annotation model) </li>
 <li>Image API 3.</li>
@@ -350,7 +350,7 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
 <li>Authentication API 1.</li></ol>
 
 
-<li>Discovery</li>
+<li>Discovery
 <ol type="a">
 <li>Direct participation by metadata experts from the museum, archive, and
        library communities in the development of specifications and requirements as
@@ -367,14 +367,14 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
        current/prospective IIIF adopters;</li></ol>
     
 
-<li>Adoption Aids and Utilities</li>
+<li>Adoption Aids and Utilities
        <ol type="a">
 <li>Update existing validators</li>
 <li>Enhance validators for ongoing specs such as Presi 3 and Discovery</li>
 <li>Development and delivery of IIIF DH Kit for institutions to deliver IIIF
        capabilities to local digital scholarship patrons</li></ol>
 
-<li>Software Development</li>
+<li>Software Development
 <ol type="a">
 <li>Expand the work of the Software Developer community group to improve
        developer-facing documentation and support. organizing and carrying
@@ -386,7 +386,7 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
        examples of code to guide development</li>
 </ol>
 
-<li>Documentation and Training</li>
+<li>Documentation and Training
 <ol type="a">
 <li>Improvements to the iiif.io website</li>
 <li>Ongoing curation and enhancements to Awesome IIIF</li>
@@ -403,7 +403,7 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
 </ol>
 
 
-<li>New frontiers</li>  
+<li>New frontiers
 <ol type="a">
 <li>3D: activation of a 3D community group to gather use cases, enroll current 3D
        experts into IIIF community, identify current software and approaches</li>
@@ -414,7 +414,7 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
        APIs for IIIF resources (manifests, images & annotations)</li>
 <li>Ongoing development with Annotations—creation, discovery, display, reuse</li></ol>
   
-<li>Global Outreach</li>
+<li>Global Outreach
 <ol type="a">
 <li>Organize Japanese IIIF (and similar regional/national IIIF groups) activity
        with an international community group and (given sufficient membership) a
