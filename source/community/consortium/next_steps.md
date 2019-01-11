@@ -18,7 +18,7 @@ IIIF (International Image Interoperability Framework) has the following goals:
 <ul>
   <li>To give scholars an unprecedented level of uniform and rich access to image-based resources hosted around the world.</li>
   <li>To define a set of common application programming interfaces that support interoperability between image repositories.</li>
-  <li>To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images."</li></ul> 
+  <li>To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images."</li></ul>
 
 </blockquote>
 Recent advances have extended the scope of IIIF beyond images (including time-
@@ -30,8 +30,7 @@ beneficiaries for IIIF now include more than scholars, image repositories and re
 There are hundreds of people active in some form of IIIF community participation (participating in working group meetings, serving on IIIF working groups, building compatible software, doing local implementations, etc.). The IIIF-Discuss email list has nearly 800 members; more than 700 people attended various IIIF events in 2017 in the US, Canada, UK, the Vatican, Poland, Japan, and China. There are technical specifications and community groups (A/V Technical Specification Group; Discovery Technical Specification Group; Manuscripts Community Group: Museums Community Group; Newspapers Community Group; Software Developers Community Group; Text Granularity Technical Specification Group; with at least one other group forming at this writing). In addition, the IIIF Community has benefitted
 from the devoted and continuous efforts of 13 people on the Coordinating Committee (aka CoCo) and five on the Editorial Committee (with four of five on the Editorial Committee also serving on CoCo).
 
-There are more than 130 institutions worldwide that have implemented IIIF or in the process of doing so. A community survey in 2017 tallied more than 400 million images made available via IIIF; the true current number is likely near 1 billion. There are dozens of open source and commercial software applications and systems that are IIIF compatible—many with significant existing or growing user bases of their own. There is also a sizeable and growing number of utilities, services and other resources surrounding IIIF and enriching the ecosystem (see Image Servers; Image Server Shims; Image API Libraries; Image Tools; Presentation API Libraries; Presentation
-API Shims; Presentation Manifest Tools; Content Search API Servers; Authentication; Tutorials; Videos and Slide Decks; Discovery; Annotations; CMS Integration; Newspapers; STEM; Experiments and Fun; Community).
+There are more than 130 institutions worldwide that have implemented IIIF or in the process of doing so. A community survey in 2017 tallied more than 400 million images made available via IIIF; the true current number is likely near 1 billion. There are dozens of open source and commercial software applications and systems that are IIIF compatible—many with significant existing or growing user bases of their own. There is also a sizeable and growing number of utilities, services and other resources surrounding IIIF and enriching the ecosystem (see [Image Servers][img-srvs]; [Image Server Shims][img-shims]; [Image API Libraries][img-api-lib]; [Image Tools][img-tools]; [Presentation API Libraries][prezi-lib]; [Presentation API Shims][prezi-shims]; [Presentation Manifest Tool][prezi-manifest-tools]; [Content Search API Servers][search-servers]; [Authentication][auth]; [Tutorials][tutorials]; [Videos and Slide Decks][vids]; [Discovery][discovery]; [Annotations][annos]; [CMS Integration][cms]; [Newspapers][newspapers]; [STEM][stem]; [Experiments and Fun][fun]; [Community][community]).
 
 Since its inception, there have been a dozen working group meetings, and scores of conference presentations, workshops, and regional events devoted to IIIF and its related products. There have been some surprising endorsements for IIIF and its viewers; the Department de Monnaies, Médailles, et Antiques of the Bibliothèque nationale de France has presented IIIF and Mirador to a conference numismatics specialists in November 2017 in Amsterdam, for instance.
 
@@ -62,22 +61,22 @@ The IIIF Consortium (IIIF-C) is the formal entity meant to undertake the busines
 All IIIF-C Members since June 2015 have joined as Additional Founding Members. Founding Membership is an honorific designation with no additional perquisites. The Executive Committee agreed in its original MOU that once the total number of Founding Members hit 20, an election to add two new members of the Executive Committee would be held. This election occurred, adding in December 2016 the Getty Trust and Europeana to the Executive Committee, each for a three- year term. It was also agreed that institutions joining IIIF-C until 31 December 2017 would be regarded as Additional Founding Members, after which time the IIIF-C would move to establish new tiers of membership [NB: Considering the desirability of attracting a few more members who had inquired of Founding Membership before the end date of 31 December 2017, we have extended the final date to 20 May 2018, the day before the next face-to-face meeting of the Executive Committee and the following days of IIIF conferences in Washington, DC; we hope to hear from those institutions considering Founding Membership in the IIF Consortium soon.] Because we wish to stimulate participation in IIIF and thereby make even more progress on the fundamental purposes of IIIF and the three foci specified in section 1, above, we propose two tiers of membership in the IIIF Consortium, presented next.
 
 2. Tiers of Membership for 2018 and Beyond, associated annual fees coming into force as of the approval of these Next Steps by the Executive Committee
-  1. Full Members from non-commercial institutions (libraries, archives or museums); possibility of election to one seat of the thirteen member Executive Committee of IIIF-C; the annual fee for Full Members is US$10,000;
-  2. Associate Members are welcome, but would not be eligible to serve on the Executive Committee; the annual fee for Associate Members is US$2,500;
-  3. Commercial membership (commercial corporations are defined for this organization as those whose existence is dependent upon revenues from the sale of products and/or services); up to three seats of the Executive Committee may be filled by Commercial Full Members; Commercial members of IIIF-C are expected to engage in supportive ways to all members of the IIIF-C, including other Commercial members; individuals from commercial members may serve on committees and working groups of IIIF and participate in other community activities. 
-      4. Tiers of cost for Commercial members:  
-          1. Annual membership fee for Commercial Full Members will be US$10,000;
-          2. Annual membership fee for Commercial Associate Members will be US$2,500;
-  
-  4. Consortia and other membership organizations are welcome and eligible for IIIF-C membership, however in this case only the umbrella organization is a member of IIIF-C and individual consortial members of such consortia will NOT be considered IIIF-C Full or Associate Members; IIIF-C does not offer consortial pricing;
-  5. Only Full Members of the IIIF-C, including Commercial Full Members, may be elected to serve on the Executive Committee;
-  6. All Members of IIIF-C will receive benefits such as discounted registration fees for event participation, and others as they develop;
+    1. Full Members from non-commercial institutions (libraries, archives or museums); possibility of election to one seat of the thirteen member Executive Committee of IIIF-C; the annual fee for Full Members is US$10,000;
+    2. Associate Members are welcome, but would not be eligible to serve on the Executive Committee; the annual fee for Associate Members is US$2,500;
+    3. Commercial membership (commercial corporations are defined for this organization as those whose existence is dependent upon revenues from the sale of products and/or services); up to three seats of the Executive Committee may be filled by Commercial Full Members; Commercial members of IIIF-C are expected to engage in supportive ways to all members of the IIIF-C, including other Commercial members; individuals from commercial members may serve on committees and working groups of IIIF and participate in other community activities.
+        * Tiers of cost for Commercial members:  
+            1. Annual membership fee for Commercial Full Members will be US$10,000;
+            2. Annual membership fee for Commercial Associate Members will be US$2,500;
+
+    4. Consortia and other membership organizations are welcome and eligible for IIIF-C membership, however in this case only the umbrella organization is a member of IIIF-C and individual consortial members of such consortia will NOT be considered IIIF-C Full or Associate Members; IIIF-C does not offer consortial pricing;
+    5. Only Full Members of the IIIF-C, including Commercial Full Members, may be elected to serve on the Executive Committee;
+    6. All Members of IIIF-C will receive benefits such as discounted registration fees for event participation, and others as they develop;
 
 IIIF-C Membership Tiers for Non-Commercial Organizations
 
   | Membership Tier | Annual Membership Fee (US$) |  IIIF-C Executive Committee Seats for this Class of Membership |
   |---|---|---|
-  |Full|$10,000|13*|
+  |Full|$10,000|13|
   |Associate|$2,500|0|
 
   IIIF-C Membership Tiers for Commercial Corporations
@@ -88,7 +87,7 @@ IIIF-C Membership Tiers for Non-Commercial Organizations
     <thead>
       <tr>
         <th scope="col">IIIF-C Corporate Membership Tiers</th>
-        <th colspan="2" scope="colgroup">Commercial Corporations [1]</th>
+        <th colspan="2" scope="colgroup">Commercial Corporations<sup>*</sup></th>
       </tr>
       <tr>
         <th>Annual Revenue (US$)</th>
@@ -98,7 +97,7 @@ IIIF-C Membership Tiers for Non-Commercial Organizations
     </thead>
      <tbody>
        <tr>
-         <td>Full</td><td>$10,000</td><td>Up to 3*</td></tr>
+         <td>Full</td><td>$10,000</td><td>Up to 3</td></tr>
          <tr>
          <td>Associate</td><td>$2,500</td><td>0</td>
        </tr>
@@ -110,9 +109,9 @@ IIIF-C Membership Tiers for Non-Commercial Organizations
 ## 3. IIIF-C Organization
 
 1. The IIIF-C Executive Committee will be responsible for approving IIIF-C annual budget, authorization of positions, appointment of positions, setting policy, setting strategic direction, determining member benefits and rates, assessment of organizational and staff performance, and empaneling committees (position search, nominations, compensation, etc.).
-    
+
     1. The Executive Committee shall meet at least twice a year; once via teleconference and once face to face;
-    
+
     2. Membership on the Executive Committee is held on an institutional basis; institutional members of the Executive Committee will be elected for three year terms in the election of 2021. It is expected that the representative of any institution elected to the Executive Committee will be an officer or senior policy maker of the Full Member institution. Should a representative of an institution become unable to serve, that institution would provide a replacement representative to the Executive Committee;
         1. The MOU agreed in June 2015 by the original 11 members of the Executive Committee remains in force, continuing the institutional membership and stewardship of those original 11 member institution; the election in 2021 for members of the new Executive Committee may replace some or all of those original 11 members; however, those members of the original Executice Committee may be re-elected to the Executive Committee in the 2021 election, provided they are Full Members at that time;
         2. The election of two additional institutional members, Getty and Europeana, of the Executive Committee are and will remain members of the Executive Committee, completing their first three year term at the time of the election 2020; these institutions, provided they are each Full Members, may be re-elected to the Executive Committee;
@@ -124,7 +123,7 @@ IIIF-C Membership Tiers for Non-Commercial Organizations
         4. The Managing Director is an ex-officio member of the IIIF-C Executive Committee with voice, but without vote;
     4. If these next steps are adopted, there shall be an election in May 2018 of officers by members of the IIIF-C Executive Committee; those officers shall be chair, vice chair, secretary, and treasurer, each for a three year term; nominees for these positions shall be made by a nominating committee selected from the IIIF-C Executive Committee members in the weeks after the adoption of these next steps, as modified;
     5. in May of 2021, there shall be a IIIF-C nominating committee consisting of members of the IIIF Consortium, including members of the IIIF-C Executive Committee; this nominating committee shall prepare an election of new members of the IIIF-Executive Committee, agreeing among themselves how to stagger three year terms of those elected to the Executive Committee ; as staggered terms end, there shall be elections of members to the IIIF-C Executive Committee for three year terms; such staggered terms shall apply to those elected from the membership of the Executive Committee to officer roles in the Executive Committee; subsequent elections as staggered terms end will apply to officer roles with three year terms in the Executive Committee;
-    
+
     <div markdown="1">
       <table>
       <thead>
@@ -170,7 +169,7 @@ IIIF-C Membership Tiers for Non-Commercial Organizations
     4. IIIF Committees may be terminated, and members may be removed from a Committee, by the Managing Director with the advice and consent of the Executive Committee;
 3. Community Groups, Technical Specification Groups, et al. <br>
 <br>
-IIIF benefits from various community groups that are already established, with new ones being formed as necessary. These are named in Section 1 of this document, and on the <a href="https://iiif.io">IIIF website</a>. These groups serve to coordinate interest and activity around specific aspects of IIIF, such as specific domains (e.g., Manuscripts), functions (e.g. Software Development), sectors (e.g., Museums), or API specifications (e.g. A/V). Groups are also formed to organize and execute on specific events (such as the organizing & program committees for the annual IIIF Conference, or for regional events).
+IIIF benefits from various community groups that are already established, with new ones being formed as necessary. These are named in Section 1 of this document, and on the <a href="https://iiif.io/community/groups/">IIIF website</a>. These groups serve to coordinate interest and activity around specific aspects of IIIF, such as specific domains (e.g., Manuscripts), functions (e.g. Software Development), sectors (e.g., Museums), or API specifications (e.g. A/V). Groups are also formed to organize and execute on specific events (such as the organizing & program committees for the annual IIIF Conference, or for regional events).
     1. As a fundamental principle, participation in all IIIF community groups shall be inclusive of new and varied perspectives. Leadership of the groups should be drawn from active group members, and should rotate over time as much as possible, ensuring smooth succession and ongoing development of talent. As with IIIF Committees, participation is open to all members of the IIIF community and institutional membership in IIIF-C is not a prerequisite;
     2. New community groups may be established by the Managing Director, with the approval of the Coordinating Committee and/or the Editorial Committee (in the case of Technical Specification Groups). Community groups shall have a charge, designated Chairs, and defined reporting and communication channels;
     3. Community groups may be terminated, and members may be removed from a groups, by the Managing Director with the advice and consent of the Coordinating Committee, Editorial Committee, and/or Code of Conduct committee (as appropriate);
@@ -181,11 +180,11 @@ IIIF benefits from various community groups that are already established, with n
 ## 4. Staffing Plan
 
 1. If these Next Steps are approved, three staff positions are authorized: a Managing Director, a Technical Coordinator, and a Community Support and Events Associate;
-    
+
     1. The Managing Director, who is the senior operating executive of the IIIF-C, will be responsible for the business affairs of IIIF-C, strategic planning, and IIIF-C support of the IIIF community;
     2. The Technology Coordinator (currently in post), reporting to the Managing Director, has responsibilities for provisioning IIIF's technical infrastructure, facilitating technical adoption and integration of IIIF by new adopters, and serving as a general technical resource to the community;
     3. A Community Support and Events Officer, reporting to the Managing Director, will have responsibilities to help organize events, publish information, and support the Managing Director in administering the consortium's business affairs as well as supporting IIIF's community and communications operations.
-  
+
 2. Additional staff may be appointed with the approval of the Executive Committee, provided the Managing Director provides justification for such
 positions and there is adequate revenue to support each. The Executive
 Committee, approves and authorizes staff positions;
@@ -208,10 +207,10 @@ In light of the fundamental importance of having a healthy, inclusive and divers
 
 
 
-## 6. Budget Plan for 2018 and beyond. 
+## 6. Budget Plan for 2018 and beyond.
 
 The IIIF-C Executive Committee approves the annual budget.
-1. As of Janaury 2018, IIIF-C has 4 9 members and annual receipts of fees of US$490,000; minimum expected revenue 2018 through 2020 will be $1,470,000;
+1. As of Janaury 2018, IIIF-C has 49 members and annual receipts of fees of US$490,000; minimum expected revenue 2018 through 2020 will be $1,470,000;
 2. As of 22 January 2018, there is roughly US$434,000 in the IIIF account at CLIR; four invitations to join IIIF-C as Full & Founding Members are outstanding;
 3. Proposed expenses to be covered by annual membership fees:
     1. staff salaries + benefits in aggregate (Managing Director, Technical Coordinator, Community Support and Events Officer proposed January 2018) = US$420,000;
@@ -279,7 +278,7 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
     3. Trial implementations of discovery specifications, to support experimentation and validation of technical discovery mechanisms;
     4. Community-wide discussions, end-user exploration and coalition-building for IIIF discovery, representing user expectations and requirements from diverse stakeholders from LAM sectors;
     5. Concerted, multi-party implementation on enhancing discovery among current/prospective IIIF adopters;
-    
+
 3. Adoption Aids and Utilities
     1. Update existing validators
     2. Enhance validators for ongoing specs such as Presi 3 and Discovery
@@ -296,7 +295,7 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
 5. Documentation and Training
     1. Improvements to the iiif.io website
     2. Ongoing curation and enhancements to Awesome IIIF
-    3. Developing a culture of publishing guides and blog posts – webinars & training videos too... 
+    3. Developing a culture of publishing guides and blog posts – webinars & training videos too...
     4. Stack Overflow presence
     5. Evangelizing to the broader web development and entertainment (Games, A/V) industry
     6. Update and improve presentation of IIIF reference implementations and documentation
@@ -308,7 +307,7 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
     2. STEM: outreach to experts, gathering use cases for image interoperability and web deliver, identify current standards and software, begin structured discussions
     3. Support for full management (create, edit, delete--not just read/view)--via APIs for IIIF resources (manifests, images & annotations)
     4. Ongoing development with Annotations—creation, discovery, display, reuse
-  
+
 7. Global Outreach
     1. Organize Japanese IIIF (and similar regional/national IIIF groups) activity with an international community group and (given sufficient membership) a dedicated community coordinator
     2. Build capacity to self-organize and run regional events globally
@@ -319,3 +318,21 @@ Over the near term, as discussed at the IIIF Working Group meeting in Toronto, O
     2.  Cultivate additional grants and projects from stakeholders to advance IIIF in new frontiers and global outreach
 
 
+[img-srvs]: https://github.com/IIIF/awesome-iiif#image-servers
+[img-shims]: https://github.com/IIIF/awesome-iiif#image-server-shims
+[img-api-lib]: https://github.com/IIIF/awesome-iiif#image-api-libraries
+[img-tools]: https://github.com/IIIF/awesome-iiif#image-tools
+[prezi-lib]: https://github.com/IIIF/awesome-iiif#presentation-api-libraries
+[prezi-shims]: https://github.com/IIIF/awesome-iiif#presentation-api-shims
+[prezi-manifest-tools]: https://github.com/IIIF/awesome-iiif#presentation-manifest-tools
+[search-servers]: https://github.com/IIIF/awesome-iiif#content-search-api
+[auth]: https://github.com/IIIF/awesome-iiif#authentication
+[tutorials]: https://github.com/IIIF/awesome-iiif#tutorials
+[vids]: https://github.com/IIIF/awesome-iiif#videos-and-slide-decks
+[discovery]: https://github.com/IIIF/awesome-iiif#discovery
+[annos]: https://github.com/IIIF/awesome-iiif#annotations
+[cms]: https://github.com/IIIF/awesome-iiif#cms-integration
+[newspapers]: https://github.com/IIIF/awesome-iiif#newspapers
+[stem]: https://github.com/IIIF/awesome-iiif#stem
+[fun]: https://github.com/IIIF/awesome-iiif#experiments-and-fun
+[community]: https://github.com/IIIF/awesome-iiif#community
