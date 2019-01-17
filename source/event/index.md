@@ -10,14 +10,12 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming main IIIF Events__
 
-* Fall 2018 IIIF Working Meeting: Dec. 3-6 in [Edinburgh][edinburgh18], Scotland, UK
 * Spring 2019 IIIF Conference: June. 24th in [Göttingen][goettingen19], Germany
 
 __Other IIIF Events__
 
 These are events that have a IIIF presence, presentation, workshop or other tie in. Please contact the [IIIF Outreach group][outreach] if you know of other meetings or conferences not listed below.
 
-<table id="events-2018" class="api-table"></table>
 <table id="events-2019" class="api-table"></table>
 
 __IIIF Event Guidance__
@@ -28,6 +26,7 @@ Information on hosting a IIIF Event.
 
 __Previous IIIF Events__
 
+* Fall 2018 IIIF Working Meeting: Dec. 3-6 in [Edinburgh][edinburgh18], Scotland, UK
 * Spring 2018 IIIF Conference: May 21-25 in [Washington, DC][washington2018], USA
 * Fall 2017 Showcase and Technical Workshop: Nov. 2 in [London][london-va], England
 * Fall 2017 IIIF Working Meeting: Oct. 11-13 in [Toronto][toronto], Canada
@@ -73,8 +72,8 @@ $.ajax({
             return;
             }
           }
-          addTable(document.getElementById("events-2018"), xmlDoc.getElementsByTagName("table")[0]);
-          addTable(document.getElementById("events-2019"), xmlDoc.getElementsByTagName("table")[1]);
+          addTable(document.getElementById("events-2019"), xmlDoc.getElementsByTagName("table")[0]);
+          //addTable(document.getElementById("events-2019"), xmlDoc.getElementsByTagName("table")[1]);
       }
 });
 }
