@@ -34,13 +34,13 @@ Successful groups:
 
 To facilitate coordination within and across groups, IIIF maintains a common set of communications channels. IIIF Groups make use of these to ensure appropriate access, transparency and retention of discussions. These channels are:
 
-  * **Email lists**: The primary channel of communication for all IIIF Groups is the [IIIF-Discuss][iiif-discuss] email list. When using a shared channel, individual groups should start the subject line with their name in \[\]s, such as \[av\] for the Audio/Visual Technical  Specification group, or \[newspapers\] for the Newspapers Community Group. Keeping email discussions on a common list helps to prevent splintering of communication and allows for cross-pollination of information, building interest for emerging topics. New group-specific lists should be formed only when the traffic is too high for useful discussion in the shared channel. If and when a dedicated email list is needed, the new list should be created as a Google Group using the iiif-(topic)@googlegroups.com name pattern, should be open to any interested subscribers, and should include the IIIF Community and Communications Officer as a manager.
+  * **Email lists**: The primary channel of communication for all IIIF Groups is the [IIIF-Discuss][iiif-discuss] email list. When using a shared channel, individual groups should start the subject line with their name in \[\]s, such as \[av\] for the Audio/Visual Technical  Specification group, or \[newspapers\] for the Newspapers Community Group. Keeping email discussions on a common list helps to prevent splintering of communication and allows for cross-pollination of information, building interest for emerging topics. New group-specific lists should be formed only when the traffic is too high for useful discussion in the shared channel. If and when a dedicated email list is needed, the new list should be created as a Google Group using the iiif-(topic)@googlegroups.com name pattern, should be open to any interested subscribers, and should include at least one IIIF staff member as a manager.
 
   * **Slack**: The IIIF Community uses a [Slack team][iiif-slack] for instant messaging. Any interested person can join slack via [bit.ly/iiif-slack][join-slack]. Groups are encouraged to create channels dedicated to their topic; these channels should be open.
 
-  * **Calls**: The IIIF Community holds bi-weekly open calls on topics of general interest. Group members are encouraged to join these calls to participate in the discussion and to represent the work happening within their groups. IIIF Groups also hold both regular and ad hoc calls as needed. The IIIF Community and Communications Officer can set up calls using the preferred videoconferencing platform (currently BlueJeans) for any interested group.
+  * **Calls**: The IIIF Community holds bi-weekly open calls on topics of general interest. Group members are encouraged to join these calls to participate in the discussion and to represent the work happening within their groups. IIIF Groups also hold both regular and ad hoc calls as needed. A IIIF staff member can set up calls using the preferred videoconferencing platform (currently Zoom) for any interested group.
 
-  * **Calendar**: The IIIF Community maintains a [calendar][calendar] of scheduled calls, meetings and events; Community Groups should reflect their activities on this calendar. Group convener(s) can be granted write access to the calendar; the IIIF Community and Communications Officer owns the maintenance of this calendar overall.
+  * **Calendar**: The IIIF Community maintains a [calendar][calendar] of scheduled calls, meetings and events; Community Groups should reflect their activities on this calendar. Group convener(s) can be granted write access to the calendar; the IIIF staff owns the maintenance of this calendar overall.
 
   * **Documents**: IIIF uses the [IIIF Google Drive][iiif-drive] as a common platform to produce and organize its documents. Each Community Group should use this as a place for collaborative note taking and storing relevant documents.
 
@@ -55,7 +55,7 @@ Community Groups provide interest-specific forums for general discussion, brains
 ### Community Group Formation and Approval
 
   * Community Groups should emerge naturally from discussions and needs within the community. The focus, scope and objectives of the group are ideally identified via open discussion on the [IIIF-Discuss][iiif-discuss] email list.
-  * Community Groups can be formed as needed by sending a lightweight statement of the topic, scope, and objectives of discussion for the proposed Community Group to the IIIF Community and Communications Officer. Proposals will then be assessed by the IIIF Coordinating Committee.
+  * Community Groups can be formed as needed by sending a lightweight statement of the topic, scope, and objectives of discussion for the proposed Community Group to the IIIF staff at <admin@iiif.io>. Proposals will then be assessed by the IIIF Coordinating Committee.
   * Once approved, Community Groups should be documented on the iiif.io website, noting the following information:
     1. Statement of the group focus and/or goals, and how the group came to be formed
     2. Chair(s) of the group
@@ -82,10 +82,10 @@ Technical Specification Groups are the main working vehicle for adding new APIs 
     1. The overall domain into which the work will fall
     2. The shared needs and requirements within that domain
     3. Use cases that demonstrate these needs and requirements
-    4. A path towards one or more specifications and complementary implementations   that would meet the requirements
+    4. A path towards one or more specifications and complementary implementations that would meet the requirements
     5. The organizations willing to commit resources towards realizing the specifications and implementations
     6. The timeframe in which the specifications and implementations are needed and should be possible
-  * The document outlining the above must be sent to the IIIF Community and Communications Officer for subsequent discussion and initial approval by the IIIF Coordinating Committee, typically within a one week timeframe. (Note: There are two stages of approval: initial approval by the Coordinating Committee, followed by an official approval by the wider community - see CfP process below).
+  * The document outlining the above must be sent to the IIIF staff <admin@iiif.io> for subsequent discussion and initial approval by the IIIF Coordinating Committee, typically within a one week timeframe. (Note: There are two stages of approval: initial approval by the Coordinating Committee, followed by an official approval by the wider community - see CfP process below).
   * Once initially approved, the group document becomes the group’s charter, providing definition of the group and its deliverables. The charter is not a contract and may be changed with the consensus of the members of the group at any time. However, significant changes such as a 6 month or more delay in timeframes, the abandonment of a deliverable, or the change in the overall scope of the work should be announced to the community via the regular channels.
   * Once the draft charter is acceptable to the participants in the discussion, a Call for Participation (CfP) is issued to appropriate lists (including [IIIF-Discuss][iiif-discuss] at the least) that announces the document and seeks the engagement of additional participants.
     * Individuals from organizations across the IIIF community must respond to the CfP indicating that they are willing to take part and commit resources towards the Technical Specification Group's goals.
@@ -93,7 +93,7 @@ Technical Specification Groups are the main working vehicle for adding new APIs 
     * If fewer than three institutions are willing to contribute, then the group's topic is likely too specific and the work should be done outside of the Technical Specification Group process.  If more than three institutions object to the work being done, then there is a significant issue that should be resolved before committing resources.
     * For Technical Specification Groups where deliverables would involve additions or changes to existing technical specifications, at least two current members of the editorial board must sign up as members of the group to ensure consistency with existing and ongoing work.
   * At least two calendar weeks must pass between the CfP and official approval of the group.  If only one or two institutions are interested after four calendar weeks, then the CfP is considered closed and the original proposers of the charter should lead continued discussion and modify the charter before re-announcing.
-  * Once officially approved, the Community and Communications Officer will schedule, announce, and facilitate an initial planning call for the group. During the first call, the group will determine willingness and availability of volunteers to chair the group, agree upon group chairs, and determine a regular call schedule for moving forward.
+  * Once officially approved, IIIF staff will schedule, announce, and facilitate an initial planning call for the group. During the first call, the group will determine willingness and availability of volunteers to chair the group, agree upon group chairs, and determine a regular call schedule for moving forward.
   * Technical Specification Groups should be documented on the iiif.io website, noting the following information:
     1. Statement of the group focus and/or goals, and how the group came to be formed
     2. Link to the group charter
@@ -136,7 +136,7 @@ This community framework is an evolving document, and will be updated by the III
 
 ## IIIF Community and Communications Contact
 
-The IIIF Community and Communications Officer is currently out for recruitment see [job advert][job_advert]. In the interim please email <admin@iiif.io>.
+If you have any questions about this document or any of the community groups or communications mechanisms, please email <admin@iiif.io>.
 
 [hydra-groups]: https://wiki.duraspace.org/pages/viewpage.action?pageId=67241635
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
@@ -146,7 +146,6 @@ The IIIF Community and Communications Officer is currently out for recruitment s
 [iiif-slack]: http://iiif.slack.com
 [editors]: {{ page.webprefix }}/api/annex/notes/editors/#contents
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[job_advert]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator
 
 
 
