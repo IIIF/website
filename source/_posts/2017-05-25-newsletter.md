@@ -123,7 +123,7 @@ The [IIIF Software Developers group][devs] continues to work on developing and d
 * Zegami now supports IIIF Image 2.1 and IIIF Presentation 2.1! [Learn more][zegami-news]
 * The Cooper Hewitt Smithsonian Design Museum is now using the IIIF Image API - see [demo][ch-demo] (200,000 images as tiles) and [blog][ch-blog] from Micah Walter, formerly of the Cooper Hewitt, collaborating with Aaron Cope on integrating IIIF/zoomable images for their collection on the web.
 * The Biblissima portal (focused on the history of ancient collections of manuscripts and early printed books) is now online in public beta, using Mirador:
-    * [Live demo][bib-demo]
+    * Live demo
     * [Demo video][bib-vid]
 * New releases from the Bavarian State Library (BSB):
     * First milestone of IIIF 2.0 for [4,000 medieval manuscripts and 8,000 mostly unique incunabulas][bsb]
