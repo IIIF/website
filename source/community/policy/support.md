@@ -31,7 +31,7 @@ The proposed project should:
  * Requests should be made to the IIIF Consortium (IIIF-C) Staff, at <admin@iiif.io> as early as possible, and no later than 2 weeks in advance of the application deadline. Early and frequent discussion with the IIIF Coordinating Committee is encouraged to allow time for iterations and to avoid missed deadlines.
  * The request should contain sufficient supporting information to justify the endorsement of the Consortium according to the guidelines above.
  * The request must include sufficient information to complete the letter of support, such as the contact details for the granting agency, the program under which the application will be submitted, the deadlines for the submission and so forth.
- * The IIIF Coordinating Committee will review the request and provide feedback.  The typical time for this feedback is 2-4 weeks. Once the letter is approved, the IIIF Consortium Community and Communications Officer will issue a signed letter of support on IIIF letterhead. When desirable and appropriate, the letter may also be co-signed by IIIF community members. If a physical copy is required, please allow additional time, otherwise it will be provided as a PDF document.
+ * IIIF staff will review the request and provide feedback.  The typical time for this feedback is 2-4 weeks. Once the letter is approved, the IIIF Managing Director will issue a signed letter of support on IIIF letterhead. When desirable and appropriate, the letter may also be co-signed by IIIF community members. If a physical copy is required, please allow additional time, otherwise it will be provided as a PDF document.
 
  **Limitations of Endorsement**
 

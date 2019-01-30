@@ -143,7 +143,7 @@ The Software Developers Community Group has been dedicated to improving the Deve
 * The ResCarta Foundation has released Version 7 of the ResCarta Toolkit and corresponding web application ResCarta-Web which supports IIIF access to existing user digital archives. A Mirador viewer is also provided. See demonstration site at <http://demos.rescarta.org/ResCarta-Web/mirador/> as well as the [top-level collection manifests][rescarta-collection].
 
 ### Innovations & Ongoing Work from Across the IIIF Community
-* Two new experimental IIIF projects from Cogapp: a Bladerunner-inspired voice-controlled interface at <https://cogapp.github.io/esper/> and OpenCCTVDragon: a way to spy on up to nine people who are innocently viewing IIIF artworks, at <http://opencctvdragon.cogapp.com/>
+* Two new experimental IIIF projects from Cogapp: a Bladerunner-inspired voice-controlled interface at https://cogapp.github.io/esper/ and OpenCCTVDragon: a way to spy on up to nine people who are innocently viewing IIIF artworks, at <http://opencctvdragon.cogapp.com/>
 * The University of Edinburgh, have launched the Mahabharata online, the scroll is 72 metres long and 13 cm wide and covered in gold leaf. You can read more about the digitisation, conservation, and delivery on the [blog][edinburgh-blog] and view the scroll at <https://librarylabs.ed.ac.uk/iiif/uv/?manifest=https://librarylabs.ed.ac.uk/iiif/manifest/mahabharataFinal.json#?c=0&m=0&s=0&cv=0> (it takes a wee while to load).
 
 ## Recommended Reading

@@ -20,7 +20,7 @@ Changes to this document will be tracked within and reflected via its [internal 
 * At all in-person IIIF events, team members and/or local organizers will be identified with a special badge and introduced at the beginning of the event during the welcome so all participants know who they can go to in the event of a code of conduct violation.
 
 ## Identifying Conduct and Safety representatives at locally hosted events
-* There may be in-person events where dedicated team members are not present. In this case, local organizers must designate at least 2 volunteers to serve as conduct and safety representatives for the event. These representatives will be supplied with special badges by the IIIF Community and Communications officer ahead of time. Any reports received at local events should immediately be shared with dedicated team for further investigation.
+* There may be in-person events where dedicated team members are not present. In this case, local organizers must designate at least 2 volunteers to serve as conduct and safety representatives for the event. These representatives will be supplied with special badges by IIIF staff ahead of time. Any reports received at local events should immediately be shared with dedicated team for further investigation.
 
 ## Factors to consider in determining a course of action:
 
@@ -52,6 +52,7 @@ Changes to this document will be tracked within and reflected via its [internal 
   | 2017-08-01 | First release                                                       |
   | 2017-12-01 | Updating contact details - Glen Robson                              |
   | 2018-05-18 | Inclusion of link to reporting guidelines - Mark Matienzo           |
+  | 2019-01-22 | Update IIIF reference to refer to any IIIF staff member             |
 
 [iiif-slack]: https://iiif.slack.com
 [iiif-conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
