@@ -3,10 +3,12 @@ title: "2019 IIIF Conference - Göttingen, Germany"
 layout: spec
 tags: [event ]
 ---
+{: class="alert"}
+Call for proposals now open! [Submit yours here][cfp], before the **1st of March 2019**.
 
 ### Overview
 
-The 2019 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held in the week of the 24th of June in Göttingen, hosted by the University of Göttingen / Göttingen State and University Library. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
+The 2019 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held in the week of the 24th  to 28th of June in Göttingen, hosted by the University of Göttingen / Göttingen State and University Library. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
 All event proceedings will be in English.
 
@@ -19,6 +21,31 @@ All event proceedings will be in English.
 * Capacity: 300
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
+
+### Call for proposals
+
+The Göttingen Planning committee are looking for proposals for talks in the following forms:
+
+* Up to a ½ day workshop
+* 7 to 10 minute lightning talks
+* 20 minute presentations (plus 10 mins questions)
+* 90 minute open block (Could be panel session or grouped presentations)
+
+Please submit an abstract of no longer than 500 words for your presentation or discussion by **Friday the 1st of March** using the conference tool:
+
+[https://goo.gl/forms/qNOT6i2IAW75C6NS2][cfp] 
+
+Final versions of the accepted abstracts will be made available on the conference website and presentations are to be uploaded to google drive. We encourage showcasing developments in IIIF and in particular would welcome presentations in the following areas:
+
+* Annotation, including Full-text or academic use cases
+* Using IIIF material for Machine Learning and AI
+* Discovering IIIF resources
+* IIIF Audio/visual use cases
+* Linked Open Usable Data (LOUD) 
+* IIIF Implementation Spectrum: Large-scale or small-scale projects
+* IIIF and Interoperability
+* Implementations outside of North America/Europe
+* IIIF content communities (archives, museums, manuscripts, newspapers, etc.)
 
 ### Call for Sponsors
 
@@ -33,7 +60,7 @@ Outline schedule below, please note this is subject to change.
 * Wednesday 26th of June - Plenary session including lightning talks
 * Thursday 27th and Friday 28th of June - Parallel sessions
 
-Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+We are aiming to finish around lunch time on the 28th of June. Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
 <br/>
 
@@ -67,3 +94,4 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
