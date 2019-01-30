@@ -16,11 +16,26 @@ In April of 2018, the IIIF Consortium ratified a document titled ["Next Steps fo
  * IIIF Managing Director - Josh Hadro - <josh.hadro@iiif.io>
  * IIIF Technical coordinator, Glen Robson - <glen.robson@iiif.io>
 
-## Members
+## Full Founding Members
 
 <ul>
 {% for i in site.data.institutions %}
-    {% if i.iiifc %}
+    {% if i.iiifc < 4 %}
+  <li>
+      {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
+        {{ i.name }}
+      {% if i.uri %}</a>{% endif %}
+  </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+## Associate Members
+
+
+<ul>
+{% for i in site.data.institutions %}
+    {% if i.iiifc == 4 %}
   <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
         {{ i.name }}
