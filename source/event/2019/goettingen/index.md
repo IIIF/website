@@ -37,15 +37,15 @@ Please submit an abstract of no longer than 500 words for your presentation or d
 
 Final versions of the accepted abstracts will be made available on the conference website and presentations are to be uploaded to google drive. We encourage showcasing developments in IIIF and in particular would welcome presentations in the following areas:
 
-* Annotation, including Full-text or academic use cases
+* Annotation, including full-text or academic use cases
 * Using IIIF material for Machine Learning and AI
 * Discovering IIIF resources
-* IIIF Audio/visual use cases
-* Linked Open Usable Data (LOUD) 
-* IIIF Implementation Spectrum: Large-scale or small-scale projects
-* IIIF and Interoperability
-* Implementations outside of North America/Europe
-* IIIF content communities (archives, museums, manuscripts, newspapers, etc.)
+* Audio/Visual use cases for IIIF
+* Linked Open “Usable” Data (LOUD) and IIIF
+* IIIF Implementation Spectrum: large-scale or small-scale projects
+* Interoperability in IIIF contexts
+* Implementations of IIIF outside of North America/Europe 
+* IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
 
 ### Call for Sponsors
 
