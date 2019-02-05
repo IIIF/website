@@ -29,8 +29,8 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
 
 **Chairs:**
 
-  * Mike Appleby (Yale)
   * Emmanuelle Delmas-Glass (Yale)
+  * Richard Palmer (Victoria & Albert Museum)
   * Tina Shah (Art Institute of Chicago)
 
 **Communication Channels:**
