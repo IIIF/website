@@ -67,7 +67,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * [Coalition for Networked Information (CNI)][cni] Spring Membership Meeting, April 2017
 * [International Federation of Library Associations (IFLA) News Media Conference][ifla], April 2017
 * [Mirador Symposium][mirador-symposium] (Stanford University), May 2017
-* [2+3D Photography - Practice and Prophecies 2017][23d] (Rijksmuseum, Amsterdam), May 2017
+* 2+3D Photography - Practice and Prophecies 2017 (Rijksmuseum, Amsterdam), May 2017
 * 52nd International Congress on Medieval Studies at Kalamazoo, May 2017
 * Texas Conference on Digital Libraries, May 2017
 * [Leeds International Medieval Congress][leeds], July 2017
@@ -201,7 +201,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [cni]: https://www.cni.org/event/cni-spring-2017-membership-meeting
 [ifla]: https://www.ifla.org/node/11023
 [mirador-symposium]: https://library.stanford.edu/events/mirador-images-and-future-digital-research-web
-[23d]: https://www.rijksmuseum.nl/en/2and3dphotography
 [kalamazoo]: https://wmich.edu/sites/default/files/attachments/u434/2017/medieval-congress-program-2017-for-web.pdf
 [tcdl]: https://www.tdl.org/tcdl/2017-tcdl/
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
