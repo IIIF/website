@@ -12,6 +12,10 @@ The 2019 International Image Interoperability Framework ([IIIF][home-page]) Conf
 
 All event proceedings will be in English.
 
+### Call for Sponsors
+
+We are offering sponsorship for the 2019 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>. 
+
 ### Logistics
 
 * Registration: Available early 2019.
@@ -47,9 +51,6 @@ Final versions of the accepted abstracts will be made available on the conferenc
 * Implementations of IIIF outside of North America/Europe 
 * IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
 
-### Call for Sponsors
-
-To be a sponsor at the 2019 IIIF Conference, please contact <admin@iiif.io>. Additional sponsorship information will be made available.
 
 ### Schedule
 
@@ -95,3 +96,4 @@ We are aiming to finish around lunch time on the 28th of June. Stay tuned to the
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
+[sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
