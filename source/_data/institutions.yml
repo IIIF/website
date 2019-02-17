@@ -70,8 +70,8 @@
   uri: http://dp.la/
 - name: Digital Image Archive of Medieval Music (DIAMM)
   uri: http://www.diamm.ac.uk/
-- name: Digirati Ltd
-  uri: http://www.digirati.co.uk/
+- name: Digirati
+  uri: https://digirati.com/
 - name: Durham University Library
   uri: https://www.dur.ac.uk/library/asc/
 - name: e-codices – Virtual Manuscript Library of Switzerland
