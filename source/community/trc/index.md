@@ -59,6 +59,52 @@ If any member very frequently disagrees (registers a -1 opinion) with the group 
 
 Community members and consortium members representing IIIF-C Associate members will rotate on and off every 18 months, with a call for self-nomination two months in advance. This ensures new voices and provides an on-ramp to technical engagement for newcomers. IIIF-C institutions will be invited to change their representative at this same time, but it will not be required.  If more community participants than the number of available slots (5) self-nominate, then the ex officio and consortium members representing IIIF-C Full members will make the selection with a view to maximizing the diversity of representation amongst those who have previously engaged with the specification process. Community participants may continue to participate in additional consecutive rotations so long as there are available slots to fill.
 
+## Current Membership
+
+### Ex Officio
+<ul>
+{% for i in site.data.trc_membership %}
+    {% if i.role == 1 %}
+  <li>
+        {{ i.institution }}: {{ i.name }}
+  </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+### Consortium Full Members 
+<ul>
+{% for i in site.data.trc_membership %}
+    {% if i.role == 2 %}
+  <li>
+        {{ i.institution }}: {{ i.name }}
+  </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+### Consortium Associate Members
+<ul>
+{% for i in site.data.trc_membership %}
+    {% if i.role == 3 %}
+  <li>
+        {{ i.institution }}: {{ i.name }}
+  </li>
+    {% endif %}
+{% endfor %}
+</ul>
+### Community Representatives
+<ul>
+{% for i in site.data.trc_membership %}
+    {% if i.role == 4 %}
+  <li>
+        {{ i.institution }}: {{ i.name }}
+  </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+
 
 [groups-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/
 [w3c-good-standing]: https://www.w3.org/2014/Process-20140801/#good-standing
