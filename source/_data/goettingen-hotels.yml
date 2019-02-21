@@ -1,0 +1,49 @@
+- name: B&B Göttingen
+  url: https://www.hotelbb.de/de/goettingen-city
+  note: 25 rooms pre-reserved until 23 May, use keyword "IIIF2019" (68,50-78,50 EUR w/ breakfast),
+  address: Maschmühlenweg 19-21, 37073 Göttingen
+  lat: 51.540448
+  lng: 9.930207
+  dates: available 23-29 June
+- name: Best Western Hotel am Papenberg
+  url: https://www.bestwestern.com/en_US/book/hotels-in-goettingen/best-western-hotel-am-papenberg/propertyCode.95275.html
+  note: 35 rooms pre-reserved until 24 May, use keyword "IIIF2019" (85,00 EUR w/ breakfast),
+  address: Hermann-Rein-Straße 2, 37075 Göttingen
+  lat: 51.553083
+  lng: 9.939381
+  dates: available 23-29 June
+- name: Eden Hotel
+  url: https://www.eden-hotel.de/
+  note: 20 rooms pre-reserved until 28 April, use keyword "IIIF2019" (80,00 EUR w/ breakfast),
+  address: Reinhäuser Landstraße 22A, 37083 Göttingen
+  lat: 51.526704
+  lng: 9.938306
+  dates: available 23-29 June
+- name: Hotel Astoria
+  url: https://www.astoria-goettingen.de/
+  note: 50 rooms pre-reserved until 24 May, use keyword "IIIF2019" (68,00-88,00 EUR w/ breakfast),
+  address: Hannoversche Straße 51, 37075 Göttingen
+  lat: 51.555013
+  lng: 9.931090
+  dates: available 24-28 June
+- name: Hotel Central
+  url: https://www.hotel-central.com
+  note: 17 rooms pre-reserved until 24 April, use keyword "IIIF2019" (85,00-115,00 EUR w/ breakfast),
+  address: Jüdenstraße 12, 37073 Göttingen
+  lat: 51.533988
+  lng: 9.936648
+  dates: available 23-29 June
+- name: Hotel FREIgeist Göttingen
+  url: https://www.freigeist-goettingen.de/
+  note: 33 rooms pre-reserved until 12 May, use keyword "IIIF2019" (99,00-109,00 EUR w/ breakfast),
+  address: Berliner Straße 30, 37073 Göttingen
+  lat: 51.533820
+  lng: 9.926409
+  dates: available 23-29 June
+- name: Hotel Stadt Hannover
+  url: https://www.hotelstadthannover.de/
+  note: 5-18 rooms pre-reserved until 15 May, use keyword "IIIF2019" (77,00-89,00 EUR w/ breakfast),
+  address: Goethe-Allee 21, 37073 Göttingen
+  lat: 51.534946
+  lng: 9.929441
+  dates: available 23-28 June
