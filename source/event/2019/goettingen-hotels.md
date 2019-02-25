@@ -10,9 +10,9 @@ This is a short list of nearby hotels with which we have been able to negotiate 
 <script>
   function initMap() {
     var CurrentInfoBox = null;
-    var goettingen = {lat: 51.5298802,lng:9.9155245};
+    var goettingen = {lat: 51.5321726,lng:9.915052};
     var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 14,
+      zoom: 13.53,
       center: goettingen,
       clickableIcons: false,
       gestureHandling: "greedy"
