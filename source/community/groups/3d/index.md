@@ -42,8 +42,9 @@ IIIF 3D Community Group Folder (https://goo.gl/LGKc7u)
 
 **Call Connection Information:**
 
- * Online: [https://stanford.zoom.us/j/538552143][https://stanford.zoom.us/j/538552143]
- * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 507749468, Participant ID: #
+ * Online: [https://stanford.zoom.us/j/771519954][https://stanford.zoom.us/j/771519954]
+ * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 
+771519954, Participant ID: #
 
 
 [3d-user-stories]: https://github.com/IIIF/iiif-3d-stories "3D User Stories"
@@ -51,7 +52,7 @@ IIIF 3D Community Group Folder (https://goo.gl/LGKc7u)
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [3d-slack]: https://iiif.slack.com/messages/3d/details/
 [slack]: http://bit.ly/iiif-slack
-[https://stanford.zoom.us/j/507749468]: https://stanford.zoom.us/j/507749468
+[https://stanford.zoom.us/j/771519954]: https://stanford.zoom.us/j/771519954
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [3d-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/3d/charter
