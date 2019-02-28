@@ -64,7 +64,7 @@ This is a short list of nearby hotels with which we have been able to negotiate 
     marker.addListener('click',wrapEventCallback(infoBoxFunction, count, content));
     markers.push(marker)
 {% endfor %}
-//   hotels = count + 1;
+    locations = count + 1;
 
     var pinColor = "0000cc";
     var pinImage = new google.maps.MarkerImage("https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|" + pinColor,
@@ -77,7 +77,7 @@ This is a short list of nearby hotels with which we have been able to negotiate 
                         new google.maps.Point(12, 35));
     var count = 0;
 {% for i in site.data.goettingen-locations %}    
-    count = {{ forloop.index0 }}
+    count = locations + {{ forloop.index0 }}
     marker = new google.maps.Marker({
         position: {lat: {{ i.lat }}, lng: {{ i.lng}} },
         title: "{{ i.name }}",
