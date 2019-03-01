@@ -50,7 +50,7 @@ This is a short list of nearby hotels with which we have been able to negotiate 
         CurrentInfoBox.open(map, markers[index]);
     };
     // different colour pins for conference locations
-    var pinColor = "b55151";
+    var pinColor = "FF6A62";
     var pinImage = createIcon(pinColor);
     var pinShadow = new google.maps.MarkerImage("https://chart.apis.google.com/chart?chst=d_map_pin_shadow",
                         new google.maps.Size(40, 37),
@@ -72,7 +72,7 @@ This is a short list of nearby hotels with which we have been able to negotiate 
 {% endfor %}
     locations = count + 1;
 
-    var pinColor = "0000cc";
+    var pinColor = "5884FC";
     var pinImage = createIcon(pinColor);
     var pinShadow = new google.maps.MarkerImage("https://chart.apis.google.com/chart?chst=d_map_pin_shadow",
                         new google.maps.Size(40, 37),
