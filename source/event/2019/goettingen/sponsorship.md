@@ -24,8 +24,8 @@ For the IIIF Showcase on the 24th of June we expect to attract over 200 attendee
 * Acknowledgement by name on iiif.io website and included with event information
 * Acknowledgement by name on June 24nd showcase event plenary program 
 * Acknowledgment in June 26th plenary welcome presentations
-* Option of a table for the period of the conference
-* Sponsor tables are directly adjacent to area for tea/coffee and lunch
+* Option of a sponsor table for the period of the conference. 
+* Sponsor tables are in a prominent busy location, details will be discussed on application
 * Spaces are available for duration of conference, including Monday Showcase
 * 2x coffee/tea and 1 lunch break per full day
 * Spaces are limited, so table space will be allocated in order of sponsor sign up
