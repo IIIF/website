@@ -6,7 +6,7 @@ tags: [event ]
 
 # Call for Sponsors: 2019 IIIF Conference in Göttingen, Germany
 
-The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products and services and interact with participants from all over the world. The 2019 IIIF Conference will take place between the 24th to 28th of June in Göttingen, Germany. The event is hosted by hosted by the University of Göttingen / Göttingen State and University Library.
+The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products and services and interact with participants from all over the world. The 2019 IIIF Conference will take place between the 24th to 28th of June in Göttingen, Germany. The event is hosted by the University of Göttingen / Göttingen State and University Library.
 
 The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small institutions including Universities, Libraries, Archives and Museums. 
 
@@ -44,4 +44,4 @@ Further sponsorship opportunities are available. If you are interested in any of
 
 ### Contact and Logistics
 
-To indicate your interest in sponsorship, please contact admin@iiif.io as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
+To indicate your interest in sponsorship, please contact <admin@iiif.io> as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
