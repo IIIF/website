@@ -63,7 +63,12 @@ Outline schedule below, please note this is subject to change.
 
 We are aiming to finish around lunch time on the 28th of June. Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
-<br/>
+### Travel
+
+- Registration will open soon
+- List of [hotels][goettingen-hotels]
+- Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June.
+- Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen
 
 <div class="container" markdown="0">
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
@@ -97,3 +102,4 @@ We are aiming to finish around lunch time on the 28th of June. Stay tuned to the
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
+[goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/

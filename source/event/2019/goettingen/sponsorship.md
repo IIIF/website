@@ -6,7 +6,7 @@ tags: [event ]
 
 # Call for Sponsors: 2019 IIIF Conference in Göttingen, Germany
 
-The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products and services and interact with participants from all over the world. The 2019 IIIF Conference will take place between the 24th to 28th of June in Göttingen, Germany. The event is hosted by hosted by the University of Göttingen / Göttingen State and University Library.
+The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products and services and interact with participants from all over the world. The 2019 IIIF Conference will take place between the 24th to 28th of June in Göttingen, Germany. The event is hosted by the University of Göttingen / Göttingen State and University Library.
 
 The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small institutions including Universities, Libraries, Archives and Museums. 
 
@@ -24,8 +24,8 @@ For the IIIF Showcase on the 24th of June we expect to attract over 200 attendee
 * Acknowledgement by name on iiif.io website and included with event information
 * Acknowledgement by name on June 24nd showcase event plenary program 
 * Acknowledgment in June 26th plenary welcome presentations
-* Option of a table for the period of the conference
-* Sponsor tables are directly adjacent to area for tea/coffee and lunch
+* Option of a sponsor table for the period of the conference. 
+* Sponsor tables are in a prominent busy location, details will be discussed on application
 * Spaces are available for duration of conference, including Monday Showcase
 * 2x coffee/tea and 1 lunch break per full day
 * Spaces are limited, so table space will be allocated in order of sponsor sign up
@@ -44,4 +44,4 @@ Further sponsorship opportunities are available. If you are interested in any of
 
 ### Contact and Logistics
 
-To indicate your interest in sponsorship, please contact admin@iiif.io as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
+To indicate your interest in sponsorship, please contact <admin@iiif.io> as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
