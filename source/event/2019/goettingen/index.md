@@ -3,8 +3,6 @@ title: "2019 IIIF Conference - Göttingen, Germany"
 layout: spec
 tags: [event ]
 ---
-{: class="alert"}
-Call for proposals now open! [Submit yours here][cfp], before the **1st of March 2019**.
 
 ### Overview
 
