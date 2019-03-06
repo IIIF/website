@@ -27,7 +27,7 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 ### Travel
 
 - Registration will open soon
-- List of [hotels][goettingen-hotels]
+- List of [hotels and event locations][goettingen-hotels]
 - Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June.
 - Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen
 
