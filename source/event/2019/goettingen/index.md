@@ -28,8 +28,10 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 
 - Registration will open soon
 - List of [hotels and event locations][goettingen-hotels]
-- Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June.
-- Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen
+- Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June. See below for train advice from Frankfurt airport.
+- Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen. Please note, [express trains with Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) from Frankfurt(M)Flughafen (Frankfurt Airport) to Göttingen are less expensive when booked in advance (called “Savings fares” from 29,90 EUR), but are valid only for the connection you choose when buying; standard fares (called "Flexpreis", from 69 EUR) allow you to take any train.
+
+
 
 ### Schedule
 
