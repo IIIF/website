@@ -29,7 +29,7 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 - Registration will open soon
 - List of [hotels and event locations][goettingen-hotels]
 - Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June. See below for train advice from Frankfurt airport.
-- Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen. Please note, [express trains with Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) from Frankfurt(M)Flughafen (Frankfurt Airport) to Göttingen are less expensive when booked in advance (called “Savings fares” from 29,90 EUR), but are valid only for the connection you choose when buying; standard fares (called "Flexpreis", from 69 EUR) allow you to take any train.
+- Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen. Please note, [express trains with Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) from Frankfurt(M)Flughafen (Frankfurt Airport) to Göttingen are less expensive when booked in advance (called “Savings fares” from 29,90 EUR), but are valid only for the connection you choose when buying; standard fares are much more flexible (called "Flexpreis", from 69 EUR) and allow you to take any train.
 
 
 
@@ -42,7 +42,9 @@ Outline schedule below, please note this is subject to change.
 * Wednesday 26th of June - Plenary session including lightning talks
 * Thursday 27th and Friday 28th of June - Parallel sessions
 
-We are aiming to finish around lunch time on the 28th of June. Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+We will wrap up around lunch time on the 28th of June. 
+
+Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
 <div class="container" markdown="0">
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
