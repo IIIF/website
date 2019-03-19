@@ -1,6 +1,6 @@
 ---
 title: "2019 IIIF Conference - Göttingen, Germany"
-layout: spec
+layout: gottingen
 tags: [event ]
 ---
 
@@ -36,7 +36,7 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 Outline schedule below, please note this is subject to change.
 
 * Monday 24th of June - Showcase
-* Tuesday 25th of June - Workshops
+* [Tuesday 25th of June - Workshops][workshops]
 * Wednesday 26th of June - Plenary session including lightning talks
 * Thursday 27th and Friday 28th of June - Parallel sessions
 
@@ -74,4 +74,5 @@ We are aiming to finish around lunch time on the 28th of June. Stay tuned to the
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
+[workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/

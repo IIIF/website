@@ -1,0 +1,14 @@
+{%  assign submission = site.data.2019-conference-submissions[include.item] %}
+{% if include.mode=='full' %}
+
+# **{% if submission.flagged %}(DRAFT) {% endif %}{{ submission.title }}** 
+**{% for author in submission.authors %}{{author.name}}{% if author.company != '' %} ({{ author.company}}){%endif%}{% if forloop.last == false %}, {% endif %}{% endfor %}**
+
+{{ submission.abstract }}
+
+&nbsp;
+
+{% endif %}
+{% if include.mode == 'td' %}
+    <td>{% if submission.flagged %}(DRAFT) {% endif %} <a href="#{{ submission.title |downcase| replace: ' ','-' |replace: '“', '' | replace: '”', ''}}">{{ submission.title }}</a></td>
+{% endif %}
