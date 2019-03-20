@@ -52,7 +52,7 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         
         {% include conference_slot_row.html time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html time='3:30pm - 5:00pm' rowspan='10' paper=4 %}
+        {% include conference_slot_row.html time='3:30pm - 5:10pm' rowspan='11' paper=4 %}
         {% include conference_slot_row.html paper=31 %}
         {% include conference_slot_row.html paper=21 %}
         {% include conference_slot_row.html paper=24 %}
@@ -61,6 +61,7 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         {% include conference_slot_row.html paper=37 %}
         {% include conference_slot_row.html paper=41 %}
         {% include conference_slot_row.html paper=58 %}
+        {% include conference_slot_row.html paper=19  %}
         {% include conference_slot_row.html title='Sponsor presentation' authors='' %}
         
         {% include conference_slot_row.html time='7:00pm - 9:00pm' title='Reception in the Startraum' %}

@@ -23,8 +23,8 @@ The program for the workshops is as follows:
   <tbody>
     <tr>
         <td>9:45 - 11:00</td>
-        {% include conference-submission.html item=52 mode='td' %}
-        {% include conference-submission.html item=76 mode='td' %}
+        {% include conference-submission.html paper=52 mode='td' %}
+        {% include conference-submission.html paper=76 mode='td' %}
         <td>&nbsp;</td>
     </tr>
     <tr>
@@ -33,8 +33,8 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
-        {% include conference-submission.html item=52 mode='td' %}
-        {% include conference-submission.html item=76 mode='td' %}
+        {% include conference-submission.html paper=52 mode='td' %}
+        {% include conference-submission.html paper=76 mode='td' %}
         <td>&nbsp;</td>
     </tr>
     <tr>
@@ -43,9 +43,9 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>2:00 - 3:30</td>
-        {% include conference-submission.html item=9 mode='td' %}
-        {% include conference-submission.html item=51 mode='td' %}
-        {% include conference-submission.html item=62 mode='td' %}
+        {% include conference-submission.html paper=9 mode='td' %}
+        {% include conference-submission.html paper=51 mode='td' %}
+        {% include conference-submission.html paper=62 mode='td' %}
     </tr>
     <tr>
         <td>3:30 - 4:00</td>
@@ -53,9 +53,9 @@ The program for the workshops is as follows:
     </tr>
     <tr>
         <td>4:00 - 5:00</td>
-        {% include conference-submission.html item=9 mode='td' %}
-        {% include conference-submission.html item=51 mode='td' %}
-        {% include conference-submission.html item=62 mode='td' %}
+        {% include conference-submission.html paper=9 mode='td' %}
+        {% include conference-submission.html paper=51 mode='td' %}
+        {% include conference-submission.html paper=62 mode='td' %}
     </tr>
   </tbody>
 </table>
@@ -80,10 +80,10 @@ Tea, coffee and lunch will be be provided.
   }
 </script>
 
-{% include conference-submission.html item=52 mode='full' %}
-{% include conference-submission.html item=76 mode='full' %}
-{% include conference-submission.html item=9 mode='full' %}
-{% include conference-submission.html item=51 mode='full' %}
-{% include conference-submission.html item=62 mode='full' %}
+{% include conference-submission.html paper=52 mode='full' %}
+{% include conference-submission.html paper=76 mode='full' %}
+{% include conference-submission.html paper=9 mode='full' %}
+{% include conference-submission.html paper=51 mode='full' %}
+{% include conference-submission.html paper=62 mode='full' %}
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>
