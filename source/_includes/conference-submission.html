@@ -1,4 +1,5 @@
-{%  assign submission = site.data.2019-conference-submissions[include.item] %}
+{%  assign submission_list = site.data.2019-conference-submissions | where: "id",include.item %}
+{% assign submission = submission_list[0] %}
 {% if include.mode=='full' %}
 
 # **{% if submission.flagged %}(DRAFT) {% endif %}{{ submission.title }}** 
@@ -7,8 +8,8 @@
 {{ submission.abstract }}
 
 &nbsp;
-
+<!-- downcase| replace: ' ','-' |replace: '“', '' | replace: '”', '' -->
 {% endif %}
 {% if include.mode == 'td' %}
-    <td>{% if submission.flagged %}(DRAFT) {% endif %} <a href="#{% if submission.flagged %}draft-{% endif %}{{ submission.title |downcase| replace: ' ','-' |replace: '“', '' | replace: '”', ''}}">{{ submission.title }}</a></td>
+    <td>{% if submission.flagged %}(DRAFT) {% endif %} <a href="#{% if submission.flagged %}draft-{% endif %}{{ submission.title | slugify }}">{{ submission.title }}</a></td>
 {% endif %}

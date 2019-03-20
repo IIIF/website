@@ -1,19 +1,22 @@
 {% assign paper = include.paper %}
-{% if paper  %}
+{% if paper and paper != -1 %}
     {% if paper != 0 %}
-        {% assign submission = site.data.2019-conference-submissions[include.paper] %}
+        {% assign submission_list = site.data.2019-conference-submissions | where: "id",paper %}
+        {% assign submission = submission_list[0] %}
         {% if submission.type == 'Panel'%}
             {% assign rowspan = 3 %}
         {% else %}
             {% assign rowspan = 1 %}
         {% endif %}
-        {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id }}/{% endcapture %}
+        {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2019/goettingen/program/{{submission.id }}/{% endcapture %}
         <td rowspan="{{rowspan}}">{% if submission.flagged %}(DRAFT) {% endif %}<a href="{{ dest_url }}">{{ submission.title}}</a></td>
         <td rowspan="{{rowspan}}">{% for author in submission.authors %}
                 {{ author.name }}{% if forloop.last == false %}, {% endif %}
         {% endfor %}</td>
+    {% else %}
+        <!--<td>-{{ include.position }}-</td>-->
     {% endif %}
 {% else %}
-    <td>{{ paper }}</td>
+    <td></td>
     <td></td>
 {% endif %}
