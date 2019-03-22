@@ -10,6 +10,6 @@
 &nbsp;
 <!-- downcase| replace: ' ','-' |replace: '“', '' | replace: '”', '' -->
 {% endif %}
-{% if include.mode == 'td' %}
+{% if include.mode == 'td' %} 
     <td>{% if submission.flagged %}(DRAFT) {% endif %} <a href="#{% if submission.flagged %}draft-{% endif %}{{ submission.title | slugify }}">{{ submission.title }}</a></td>
 {% endif %}

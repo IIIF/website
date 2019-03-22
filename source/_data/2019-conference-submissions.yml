@@ -1717,21 +1717,21 @@
   - Discovering IIIF resources
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Presentation
-- abstract: "<p>A German-language introduction to IIIF</p><p>The workshop is aimed\
-    \ at German-speaking newbies from cultural heritage institutions with little or\
-    \ no IIIF experience. The aim of the Workshop is to help participants find their\
-    \ way through the IIIF standards and understand the terms used in this context.\
-    \ As part of the workshop we will introduce to the basics of IIIF and give an\
-    \ overview of the standard. We will present use cases to show the possibilities,\
-    \ but also the challenges, of using IIIF. The workshop offers space for questions\
-    \ and discussions.</p><p>Lead: Leander Seige, Michael B\xFCchner, Stefanie R\xFC\
-    hle</p><p>Duration: 2 x 90 minutes,</p><p>Intended Audience: People new to IIIF\
-    \ and interested in learning more.</p><p>Topics include: </p><p>\u2022\tWhat is\
-    \ IIIF?</p><p>\u2022\tUse of IIIF on the example of the UB Leipzig</p><p>\u2022\
-    \tUse of IIIF in the DFG Project Manuscript Portal</p><p>\u2022\tDevelopment status\
-    \ and use of the IIIF viewer Mirador3</p><p>\u2022\tUsage Scenarios for IIIF in\
-    \ the German Digital Library \u2013 the current centralized vs. a distributed\
-    \ architecture based on IIIF </p>"
+- abstract: "<p>(A German-language introduction to IIIF)</p><p>Ziel des Workshops\
+    \ ist es, Kolleginnen und Kollegen aus dem deutschsprachigen Raum den Einstieg\
+    \ in IIIF zu erleichtern. Der Workshop richtet sich vor allem an Teilnehmer aus\
+    \ Einrichtungen des Kulturerbes die wenig oder keine Erfahrung mit IIIF haben.\
+    \ Der Workshop f\xFChrt in die Grundlagen von IIIF ein und gibt einen \xDCberblick\
+    \ \xFCber den Standard. Mit Hilfe von Anwendungsszenarien werden M\xF6glichkeiten\
+    \ und Herausforderungen aufgezeigt. Zudem bietet der Workshop Raum f\xFCr Fragen\
+    \ und Diskussionen.</p><p>Leitung: Leander Seige, Michael B\xFCchner, Stefanie\
+    \ R\xFChle</p><p>Dauer: 2 x 90 Minuten</p><p>Zielgruppe: Kolleginnen und Kollegen\
+    \ aus dem Bereich des Kulturerbes, die an IIIF interessiert sind aber noch nichts\
+    \ oder nur sehr wenig \xFCber den Standard wissen.</p><p>Themen:</p><p> - Was\
+    \ ist IIIF</p><p> - Einsatz von IIIF am Beispiel der UB Leipzig</p><p> - Nutzung\
+    \ von IIIF im DFG Projekt \u201EHandschriftenportal\u201C</p><p> - Entwicklungsstand\
+    \ und Nutzung des IIIF-Viewers Mirador3</p><p> - Zentralisierte vs. verteilte\
+    \ Architektur: Nutzungsszenarien f\xFCr IIIF in der Deutschen Digitalen Bibliothek.</p>"
   authors:
   - company: ''
     location: UB Leipzig
@@ -1742,9 +1742,10 @@
   - company: ''
     location: "SUB G\xF6ttingen"
     name: "Stefanie R\xFChle"
-  flagged: true
+  flagged: false
   id: 76
-  title: A German-language introduction to IIIF
+  title: "IIIF f\xFCr Einsteiger, eine deutschsprachige Einf\xFChrung (A German-language\
+    \ introduction to IIIF)"
   topics:
   - Discovering IIIF resources
   - Audio/Visual use cases for IIIF
@@ -2286,12 +2287,12 @@
   - company: The V&A
     location: UK
     name: Angela Wolff
-  flagged: true
+  flagged: false
   id: 47
   keywords:
   - IIIF
   - Ruby
-  title: Dr
+  title: Assembling an IIIF Cocktail
   topics:
   - Discovering IIIF resources
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
