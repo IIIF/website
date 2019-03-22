@@ -48,7 +48,7 @@ A brief narrative (500 words maximum) that addresses the following elements:
 
 The application deadline is Friday, April 26, 2019.
 
-Applicants will be notified by May 15, 2019.
+Applicants will be notified by Wednesday, May 15, 2019.
 
 
 If you have any questions, please contact <admin@iiif.io>
