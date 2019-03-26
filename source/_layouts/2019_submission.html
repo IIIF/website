@@ -8,9 +8,10 @@ tags: [event ]
 {% if author.link and author.link != '' %}<a href="{{author.link}}"><b>{{ author.name }}</b></a> - {{ author.company|replace: '&','&amp;'}} ({{ author.location}}){% else %}<b>{{ author.name}}</b> - {{ author.company |replace: '&','&amp;'}} ({{ author.location }}){% endif %}{% if forloop.last == false %}, {% endif %}{% endfor %}
 <p><b>Presentation type: </b>{{page.type}}</p>
 
-<b>Abstract: </b>{{ page.abstract |replace: '</p><p>', '
+<b>Abstract: </b>{{ page.abstract |replace: '&','&amp;' | newline_to_br }}
+<!-- |replace: '</p><p>', '
 
-'|replace: '<p>',''|replace:'</p>',''|replace: '&','&amp;' }}
+'|replace: '<p>',''|replace:'</p>',''| -->
 <p><b>Topics: </b></p>
 <ul>
    {% for topic in page.topics %}
