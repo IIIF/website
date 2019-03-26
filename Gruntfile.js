@@ -11,7 +11,8 @@ module.exports = function(grunt) {
             /Attribute “integrity” not allowed on element “script”/,
             /The “align” attribute on the “div” element is obsolete. Use CSS instead/,
             /The “align” attribute on the “td” element is obsolete. Use CSS instead./,
-            /CSS: “align”: Property “align” doesn't exist./
+            /CSS: “align”: Property “align” doesn't exist./,
+            /This document appears to be written in German but the /
           ]
         },
         src : '_site/**/*.html'
