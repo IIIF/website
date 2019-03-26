@@ -29,7 +29,7 @@ This is the agenda for Thursday the 27th of June, the second full day of the con
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='1,3,6' track2='8,11,17' track3='42' track4='-1,-1,-1'%}
+        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='1,3,6' track2='8,11,17' track3='42,,' track4='-1,-1,-1'%}
 
         {% include conference_slot_row.html span='8' time='10:30am - 11:00pm' title='<b>Break</b>' %}
 
