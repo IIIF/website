@@ -29,7 +29,7 @@ This is the agenda for Thursday the 27th of June, the second full day of the con
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='1,3,6' track2='8,11,17' track3='20,22,25' track4='42,,'%}
+        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='1,3,6' track2='8,11,17' track3='42' track4='-1,-1,-1'%}
 
         {% include conference_slot_row.html span='8' time='10:30am - 11:00pm' title='<b>Break</b>' %}
 
@@ -49,7 +49,7 @@ This is the agenda for Thursday the 27th of June, the second full day of the con
   <tbody>
         {% include conference_slot_row.html time='1:30pm - 2:00pm' rowspan='3' paper=63 %}
         {% include conference_slot_row.html paper=18 %}
-        {% include conference_slot_row.html title='Room shuffle or Paper 77' authors='' %} <!-- need to stretch somehow -->
+        {% include conference_slot_row.html paper=77 %} <!-- need to stretch somehow -->
   </tbody>
 </table>
 
@@ -80,7 +80,7 @@ This is the agenda for Thursday the 27th of June, the second full day of the con
 
         {% include conference_slot_row.html span='8' time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='56,,' track2='74,10,16' track3='75,67,70' track4='30,,' %}
+        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='56,,' track2='61,10,16' track3='75,70,-1' track4='30,,' %}
 
   </tbody>
 </table>

@@ -13,6 +13,7 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
       <th></th>
       <th colspan="2">Track 1</th>
       <th colspan="2">Track 2</th>
+      <th colspan="2">Track 3</th>
      </tr>
     <tr>
       <th>Time</th>
@@ -20,14 +21,16 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
       <th>Authors</th>
       <th>Title</th>
       <th>Authors</th>
+      <th>Title</th>
+      <th>Authors</th>
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='61,71,26' track2='65,,' track3=',,,' track4=',,,' %}
+        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='74,71,26' track2='20,22,25' track3='65,,'  track4=',,,' %}
 
-        {% include conference_slot_row.html span='4' time='10:30am - 11:00pm' title='<b>Break</b>' %}
+        {% include conference_slot_row.html span='6' time='10:30am - 11:00pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html span='4' time='11:00am - 12:30pm' title='Closing Plenary' %}
+        {% include conference_slot_row.html span='6' time='11:00am - 12:30pm' title='Closing Plenary' %}
 
   </tbody>
 </table>
