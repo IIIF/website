@@ -2,7 +2,7 @@
 title: "Workshops: 2019 IIIF Conference in Göttingen, Germany - Tuesday 25th of June"
 layout: gottingen
 tags: [event ]
-page: monday
+page: tuesday
 ---
 
 There are a series of optional Workshops on Tuesday before the full Göttingen Conference which starts on Wednesday. These are located in the Alte Mensa Conference and Event Center. Registration for these workshops will be taken through the main conference registration.
