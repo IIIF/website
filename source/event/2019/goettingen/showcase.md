@@ -5,6 +5,9 @@ tags: [event ]
 page: monday
 ---
 
+{: class="alert"}
+[Registration open now!][eventbrite]
+
 On Monday, June 24th, the University of Göttingen, Göttingen State and University Library, and the IIIF Consortium will host a special day-long IIIF Showcase to introduce newcomers to IIIF.
 
 * **If you are interested in engaging with other museum, library, archive and technical professionals...**
@@ -13,11 +16,13 @@ On Monday, June 24th, the University of Göttingen, Göttingen State and Univers
 
 ...then we would love to have you join us at the IIIF Showcase. All are welcome!
 
-Come join us for a day-long free event that will educate, inspire, and reinvent your technical infrastructure. The event is free, but space is limited. Please register early to guarantee yourself a spot! 
+Come join us for a day-long free event that will educate, inspire, and reinvent your technical infrastructure. **The event is free, but space is limited. Please register early to guarantee yourself a spot!** All event proceedings will be in English unless otherwise noted. 
+
+[Showcase registration available on Eventbrite.][eventbrite]
 
 ### Who is it for?
 
-The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event (though it offers something for everyone, so returning attendees are welcome as well!). It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to showcases of the latest developments in the IIIF Community. 
+The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event (though it offers something for everyone, so returning attendees are welcome as well!). It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community. 
  
 ### The Showcase will include:
 
@@ -29,7 +34,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
 * Fun with IIIF
 * Audience discussion
 
-The showcase is a separate event but can be combined with a workshop ticket which would give you access to the sessions on [Tuesday][workshops]. To get the full experience the showcase can be combined with a full conference ticket which will give you access to the workshops, a reception and the main IIIF conference on Wednesday to Friday. 
+The Showcase is a separate event but can be combined with a workshop ticket (€70) which would give you access to the sessions on [Tuesday][workshops]. Or, to get the full experience, the Showcase can be combined with a full conference ticket which will give you access to the [workshops on Tuesday][workshops], and a reception and the main IIIF conference on Wednesday to Friday. 
 
 For accommodation and travel information please see the [logistics page][logistics].
 
@@ -95,3 +100,4 @@ The IIIF Showcase will be held in the Alte Mensa conference venue in Göttingen.
 
 [workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
 [logistics]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/#logistics
+[eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453

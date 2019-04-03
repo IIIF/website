@@ -3,6 +3,8 @@ title: "2019 IIIF Conference - Göttingen, Germany"
 layout: gottingen
 tags: [event ]
 ---
+{: class="alert"}
+Registration available for [Showcase and Conference][eventbrite].
 
 ### Overview
 
@@ -16,7 +18,8 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 
 ### Logistics
 
-* Registration: Available early 2019.
+* Registration: 
+ * [Registration available on Eventbrite.][eventbrite]
 * Dates: 24th to 28th of June 2019.
 * Location: Göttingen, Germany
 * Cost: To be decided but there will be a cost to cover the conference costs.
@@ -37,7 +40,7 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 
 Outline schedule below, please note this is subject to change.
 
-* Monday 24th of June - Showcase
+* [Monday 24th of June - Showcase][showcase]
 * [Tuesday 25th of June - Workshops][workshops]
 * Wednesday 26th of June - Plenary session including lightning talks
 * Thursday 27th and Friday 28th of June - Parallel sessions
@@ -79,4 +82,6 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
 [workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
+[showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
+[eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
