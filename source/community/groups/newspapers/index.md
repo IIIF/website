@@ -42,7 +42,7 @@ The IIIF Newspapers Community Group welcomes participants with an interest in im
 [newspapers-awesome-iiif]: https://github.com/IIIF/awesome-iiif#newspapers "Newspapers on Awesome-IIIF"
 [events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
-[newspapers-folder]: https://goo.gl/jNFfVw "IIIF Newspapers Folder"
+[newspapers-folder]: https://drive.google.com/open?id=0BxETo9Nbsh6wODZYZGVZLXFPR00 "IIIF Newspapers Folder"
 [user-stories]: https://github.com/IIIF/iiif-stories/issues?q=is%3Aopen+is%3Aissue+label%3Anewspapers "Newspapers User Stories"
 [newspapers-slack]: https://iiif.slack.com/messages/newspapers/details/
 [join-slack]: http://bit.ly/iiif-slack

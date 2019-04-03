@@ -9,7 +9,7 @@ cssversion: 2
 
 While IIIF has focused primarily on Image based content, there has always been interest around the community in extending the paradigm to include Video and Audio resources, following the same [design principles][design-principles] as existing IIIF specifications.
 
-The IIIF A/V Technical Specification Group aims to extend to A/V the benefits of interoperability and the growing ecosystem of clients and servers that IIIF provides for images. The A/V specification group was formed following a workshop hosted by the British Library to gather [use cases for extending IIIF to audio and video][bl-workshop-2016-04], and discussion at the [2016 IIIF Conference][iiif-conf-2016] in New York City. At the Fall 2016 working meeting in The Hague, the group focused on determining an initial set of features. The A/V group welcomes contributions to their collection of [audiovisual user stories][av-user-stories] and mockups and prototypes.
+The IIIF A/V Technical Specification Group aims to extend to A/V the benefits of interoperability and the growing ecosystem of clients and servers that IIIF provides for images. The A/V specification group was formed following a workshop hosted by the British Library to gather use cases for extending IIIF to audio and video, and discussion at the [2016 IIIF Conference][iiif-conf-2016] in New York City. At the Fall 2016 working meeting in The Hague, the group focused on determining an initial set of features. The A/V group welcomes contributions to their collection of [audiovisual user stories][av-user-stories] and mockups and prototypes.
 
 The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipated work.
 

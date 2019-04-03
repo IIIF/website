@@ -10,7 +10,7 @@ tags: [event ]
 
 ### Overview
 
-In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the Annual Conference being held this year in Göttingen, Germany.
+In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the [Annual Conference being held this year in Göttingen, Germany][conference].
 
 ### Guidelines
 
@@ -61,3 +61,5 @@ If you have any questions, please contact <admin@iiif.io>
 {% capture content %}
 TKTK
 {% endcapture %}
+
+[conference]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
