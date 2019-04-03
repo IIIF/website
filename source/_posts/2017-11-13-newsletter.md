@@ -48,7 +48,7 @@ The IIIF Community Newsletter is published quarterly to provide an at-a-glance u
 Are you a software developer working with IIIF, or preparing to work with IIIF? Please complete the [IIIF Software Developers Survey][software-survey] to help the IIIF Software Developers Community Group improve documentation and prioritize topics for discussion.
 
 ### Potential for IIIF 3D Community Group
-Discussions about 3D and IIIF have continued across multiple venues over the last several months. If you are working with 3D and/or are interested in participating in such as group, please complete the [IIIF 3D Community Group Expression of Interest][3d-survey].
+Discussions about 3D and IIIF have continued across multiple venues over the last several months. If you are working with 3D and/or are interested in participating in such as group, please complete the IIIF 3D Community Group Expression of Interest.
 
 ### IIIF Adopters Survey
 Are you researching, experimenting with, or fully supporting IIIF at your institution? Please help us scope the IIIF Universe and levels of adoption across the community by completing our 5 minute “[Basic IIIF Adopters Survey][survey]”.
@@ -330,7 +330,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [textgran]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
 [open-jpeg]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[3d-survey]: https://goo.gl/2s1fU7
 [software-survey]: https://goo.gl/forms/ejJUIUP9gqOXnvPI2
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [stem-poll]: http://doodle.com/poll/89db7nik6edydksk

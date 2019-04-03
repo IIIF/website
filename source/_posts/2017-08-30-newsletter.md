@@ -201,7 +201,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 * Blog from Cogapp on [An introduction to the Drupal IIIF Image Field Module][cogapp-embed]
 * Blog from Cogapp on [How to create a virtual 3D gallery using IIIF][virtual-gallery]
 * Blog from eLife on [Dynamically Serving Scientific Images Using IIIF][elife-blog2]
-* First [bachelor's thesis on IIIF and usability of Mirador and Universal Viewer][julien] by Julien A. Raemy
+* First bachelor's thesis on IIIF and usability of Mirador and Universal Viewer by Julien A. Raemy
 * Blog from Luca Carini at the V&A on [Easy Image Alignment with IIIF][luca-blog]
 * Article from Cogapp on [automated image analysis with IIIF][auto-image]
 
@@ -305,7 +305,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [alma-notes]: https://knowledge.exlibrisgroup.com/Alma/Release_Notes/0099_2017/August_2017/Alma_August_2017_Release_Notes
 [reunification]: http://demos.biblissima-condorcet.fr/chateauroux/demo/
 [beyond-words]: http://beyondwords2016.org/
-[3d-survey]: https://goo.gl/2s1fU7
 [software-survey]: https://goo.gl/forms/ejJUIUP9gqOXnvPI2
 [conduct-team]: {{ site.url }}{{ site.baseurl }}/event/conduct/#iiif-code-of-conduct-team-selection-process
 [conduct-form]: https://goo.gl/forms/o79VAMHEAl72fPmV2

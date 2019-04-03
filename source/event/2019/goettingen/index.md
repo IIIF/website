@@ -10,7 +10,7 @@ Registration available for [Showcase and Conference][eventbrite].
 
 The 2019 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held in the week of the 24th  to 28th of June in Göttingen, hosted by the University of Göttingen / Göttingen State and University Library. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
-All event proceedings will be in English.
+All event proceedings will be in English unless otherwise noted.
 
 ### Call for Sponsors
 
@@ -18,18 +18,24 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 
 ### Logistics
 
-* Registration: 
- * [Registration available on Eventbrite.][eventbrite]
+
+* [Registration available on Eventbrite.][eventbrite]
 * Dates: 24th to 28th of June 2019.
 * Location: Göttingen, Germany
-* Cost: To be decided but there will be a cost to cover the conference costs.
+* Cost: 
+    - IIIF Consortium Member €195.00
+    -  Non-IIIF Consortium Member €295.00
 * Capacity: 270
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
 
+### Travel Scholarship
+
+In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the Annual Conference being held this year in Göttingen, Germany. Please see the [2019 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is Friday, May 3, 2019.
+
+
 ### Travel
 
-- Registration will open soon
 - List of [hotels and event locations][goettingen-hotels]
 - Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June. See below for train advice from Frankfurt airport.
 - Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen. Please note, [express trains with Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) from Frankfurt(M)Flughafen (Frankfurt Airport) to Göttingen are less expensive when booked in advance (called “Savings fares” from 29,90 EUR), but are valid only for the connection you choose when buying; standard fares are much more flexible (called "Flexpreis", from 69 EUR) and allow you to take any train.
@@ -38,7 +44,7 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 
 ### Schedule
 
-Outline schedule below, please note this is subject to change.
+Outline schedule below.
 
 * [Monday 24th of June - Showcase][showcase]
 * [Tuesday 25th of June - Workshops][workshops]
@@ -85,3 +91,4 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 [showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
+[scholarship]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/annual_conference_travel_scholarship/
