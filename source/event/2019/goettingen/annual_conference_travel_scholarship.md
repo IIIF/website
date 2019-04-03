@@ -46,9 +46,9 @@ A brief narrative (500 words maximum) that addresses the following elements:
 - A current resume or CV
 
 
-The application deadline is Friday, April 26, 2019.
+The application deadline is Friday, May 3, 2019.
 
-Applicants will be notified by Wednesday, May 15, 2019.
+Applicants will be notified by Friday, May 17, 2019.
 
 
 If you have any questions, please contact <admin@iiif.io>
