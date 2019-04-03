@@ -9,7 +9,7 @@ tags: [event ]
 The International Image Interoperability Framework ([IIIF][home-page]) Showcase and working group meeting in Edinburgh is hosted jointly by the [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls].
 
 ### Showcase
-The IIIF Edinburgh showcase will be on the 3rd of December and is open to partipants with all levels of IIIF knowledge from complete beginners to people who want to find out about the latest developments. For full details see the [Showcase event page][showcase].
+The IIIF Edinburgh showcase will be on the 3rd of December and is open to participants with all levels of IIIF knowledge from complete beginners to people who want to find out about the latest developments. For full details see the [Showcase event page][showcase].
 
 ### Working meeting
 The working group meetings are intended for active IIIF community participants and [working groups][groups]. This will be limited to around 80 people and will be held from on Tuesday the 4th to Thursday the 6th of December. See the [Working meeting page][workingmeeting] for information on the schedule.
