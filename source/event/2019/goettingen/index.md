@@ -103,3 +103,4 @@ We are aiming to finish around lunch time on the 28th of June. Stay tuned to the
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
+[eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
