@@ -3,6 +3,8 @@ title: "2019 IIIF Conference - Göttingen, Germany"
 layout: spec
 tags: [event ]
 ---
+{: class="alert"}
+Registration available for [Showcase and Conference][eventbrite].
 
 ### Overview
 
