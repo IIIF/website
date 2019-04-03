@@ -1,7 +1,24 @@
 - name: Tagungs- und Veranstaltungshaus Alte Mensa
   url: http://www.uni-goettingen.de/de/525947.html
-  note: Location for all of the conference sessions.
+  note: Location for all of the conference sessions
   address: Wilhelmspl. 3, 37073 Göttingen, Germany
   lat: 51.533486
   lng: 9.937732
   dates: Monday 24th to Friday 28th June 2019
+  cat: 1
+- name: Orangery in the Old Botanical Garden 
+  url: https://www.uni-goettingen.de/en/125328.html
+  note: Location for IIIF-Consortium Member Reception
+  address: Untere Karspüle 2, 37073 Göttingen, Germany
+  lat: 51.537778
+  lng: 9.936486
+  dates: Tuesday 25th June 2019
+  cat: 2
+- name: Bullerjahn
+  url: https://www.bullerjahn.info/
+  note: Location for Open Conference Reception
+  address: Markt 9, 37073 Göttingen, Germany
+  lat: 51.5328225
+  lng: 9.9349528
+  dates: Wednesday 26th June 2019
+  cat: 2

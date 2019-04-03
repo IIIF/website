@@ -1,6 +1,6 @@
 ---
 title: "2019 IIIF Conference - Göttingen, Germany"
-layout: spec
+layout: gottingen
 tags: [event ]
 ---
 {: class="alert"}
@@ -18,57 +18,36 @@ We are offering sponsorship for the 2019 IIIF conference and the benefits and co
 
 ### Logistics
 
-* Registration: Available early 2019.
+* Registration: 
+ * [Registration available on Eventbrite.][eventbrite]
 * Dates: 24th to 28th of June 2019.
 * Location: Göttingen, Germany
 * Cost: To be decided but there will be a cost to cover the conference costs.
-* Capacity: 300
+* Capacity: 270
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
 
-### Call for proposals
+### Travel
 
-The Göttingen Planning committee are looking for proposals for talks in the following forms:
+- Registration will open soon
+- List of [hotels and event locations][goettingen-hotels]
+- Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June. See below for train advice from Frankfurt airport.
+- Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen. Please note, [express trains with Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) from Frankfurt(M)Flughafen (Frankfurt Airport) to Göttingen are less expensive when booked in advance (called “Savings fares” from 29,90 EUR), but are valid only for the connection you choose when buying; standard fares are much more flexible (called "Flexpreis", from 69 EUR) and allow you to take any train.
 
-* Up to a ½ day workshop
-* 7 to 10 minute lightning talks
-* 20 minute presentations (plus 10 mins questions)
-* 90 minute open block (Could be panel session or grouped presentations)
-
-Please submit an abstract of no longer than 500 words for your presentation or discussion by **Friday the 1st of March** using the conference tool:
-
-[https://goo.gl/forms/qNOT6i2IAW75C6NS2][cfp] 
-
-Final versions of the accepted abstracts will be made available on the conference website and presentations are to be uploaded to google drive. We encourage showcasing developments in IIIF and in particular would welcome presentations in the following areas:
-
-* Annotation, including full-text or academic use cases
-* Using IIIF material for Machine Learning and AI
-* Discovering IIIF resources
-* Audio/Visual use cases for IIIF
-* Linked Open “Usable” Data (LOUD) and IIIF
-* IIIF Implementation Spectrum: large-scale or small-scale projects
-* Interoperability in IIIF contexts
-* Implementations of IIIF outside of North America/Europe 
-* IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
 
 
 ### Schedule
 
 Outline schedule below, please note this is subject to change.
 
-* Monday 24th of June - Showcase
-* Tuesday 25th of June - Workshops
+* [Monday 24th of June - Showcase][showcase]
+* [Tuesday 25th of June - Workshops][workshops]
 * Wednesday 26th of June - Plenary session including lightning talks
 * Thursday 27th and Friday 28th of June - Parallel sessions
 
-We are aiming to finish around lunch time on the 28th of June. Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+We will wrap up around lunch time on the 28th of June. 
 
-### Travel
-
-- Registration will open soon
-- List of [hotels][goettingen-hotels]
-- Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June.
-- Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen
+Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
 <div class="container" markdown="0">
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
@@ -102,5 +81,7 @@ We are aiming to finish around lunch time on the 28th of June. Stay tuned to the
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
+[workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
+[showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
