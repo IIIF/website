@@ -6,7 +6,7 @@ tags: [news, newsletter, announcements]
 layout: post
 excerpt: >
   Community Snapshot, Announcements and Actions, Community Events and Outreach, Technical Work, Community Groups, Implementations, Adoption, Innovations and Ongoing Work Across the IIIF Community, Recommended Reading
----
+---  
 
 ## Community Snapshot
 * [IIIF Discuss][iiif-discuss] = 996 members
@@ -19,7 +19,7 @@ excerpt: >
 ### Registration for the 2019 IIIF Conference
 Registration for the [Annual Conference][2019-conf], which will take place between June 24 and 28 in Göttingen, is now open: <https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453>. 
 
-### The IIIF Newsletter
+### The IIIF Newsletter
 The IIIF community will attempt to publish its newsletter again on a quarterly basis, i.e. one per season! The newsletter will occasionally be short but published more often.
 
 ### Organising a IIIF event
@@ -124,11 +124,11 @@ Wikidata has released a [tool which shows relative position within image qualifi
 [medieval]: http://www.themedievalacademyblog.org/interoperability-and-medieval-manuscripts-a-digital-humanities-workshop/
 [gh-goobi]: https://github.com/intranda 
 [bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/bern_iiif_showcase_programme.pdf 
-[fair]: https://pro.europeana.eu/post/europeana-and-the-fair-principles-for-research-data 
+[fair-iiiif]: https://pro.europeana.eu/post/europeana-and-the-fair-principles-for-research-data 
 [goobi]: https://community.goobi.io 
 [image-position]: https://tools.wmflabs.org/wd-image-positions/ 
 [poulter]: http://blogs.bodleian.ox.ac.uk/digital/2019/03/13/build-your-own-digital-bodleian-with-iiif-and-sparql/ 
-[synthesis]: http://www.synthesys.info/home.html 
+[synthesys]: http://www.synthesys.info/home.html 
 [awesome]: https://github.com/IIIF/awesome-iiif 
 [hyam-mail]: mailto:r.hyam@rbge.org.uk
 [groups]: https://iiif.io/community/groups/
