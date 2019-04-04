@@ -201,7 +201,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 * Blog from Cogapp on [An introduction to the Drupal IIIF Image Field Module][cogapp-embed]
 * Blog from Cogapp on [How to create a virtual 3D gallery using IIIF][virtual-gallery]
 * Blog from eLife on [Dynamically Serving Scientific Images Using IIIF][elife-blog2]
-* First bachelor's thesis on IIIF and usability of Mirador and Universal Viewer by Julien A. Raemy
+* First bachelor's thesis on [IIIF and usability of Mirador and Universal Viewer][julien] by Julien A. Raemy
 * Blog from Luca Carini at the V&A on [Easy Image Alignment with IIIF][luca-blog]
 * Article from Cogapp on [automated image analysis with IIIF][auto-image]
 
