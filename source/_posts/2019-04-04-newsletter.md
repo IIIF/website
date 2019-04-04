@@ -124,7 +124,7 @@ Wikidata has released a [tool which shows relative position within image qualifi
 [medieval]: http://www.themedievalacademyblog.org/interoperability-and-medieval-manuscripts-a-digital-humanities-workshop/
 [gh-goobi]: https://github.com/intranda 
 [bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/bern_iiif_showcase_programme.pdf 
-[fair-iiiif]: https://pro.europeana.eu/post/europeana-and-the-fair-principles-for-research-data 
+[fair-iiif]: https://pro.europeana.eu/post/europeana-and-the-fair-principles-for-research-data 
 [goobi]: https://community.goobi.io 
 [image-position]: https://tools.wmflabs.org/wd-image-positions/ 
 [poulter]: http://blogs.bodleian.ox.ac.uk/digital/2019/03/13/build-your-own-digital-bodleian-with-iiif-and-sparql/ 
@@ -150,3 +150,5 @@ Wikidata has released a [tool which shows relative position within image qualifi
 [iiif-twitter]: https://twitter.com/iiif_io 
 [iiif-faq]: https://iiif.io/community/faq/ 
 [iiifc-faq]: https://iiif.io/community/consortium/faq/ 
+[slack]: http://bit.ly/iiif-slack
+[submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2 
