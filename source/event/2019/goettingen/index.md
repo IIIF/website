@@ -53,20 +53,20 @@ We will wrap up around lunch time on the 28th of June.
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
-### Sponsors
+## Sponsors
 
 Both the IIIF Göttingen Conference and the IIIF Showcase are generously supported by the following Conference Sponsors:
 
-- **Gold** 
-    + [Phase One][phaseone]
-    + [Cogapp][cogapp]
-- **Silver**
-    + [text & bytes][textbytes]
-- **Bronze** 
-    + [Veridian Software][veridian]
-    + [Gallery Systems][gallerysystems]
+**Gold sponsors**  <br>
+<a href="https://www.phaseone.com/" style="border-bottom: none"><img src="https://www.phaseone.com/~/media/Phase%20One/ASeriesTest/logo.ashx?h=75&la=en&w=120&hash=C7DE7F6657393312DB60AC3E388019D56CB6DAD4" alt='phase one logo' style="width: 300px"></a>
+<a href="https://www.cogapp.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/Cogapp_Logo_lg_black.png" alt='Cogapp logo' style="width: 300px"></a>
 
+**Silver sponsors**  <br>
+<a href="https://www.textandbytes.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/text_and_bytes_logo.png" alt='text and bytes logo' style="width: 300px"></a>
 
+**Bronze sponsors**  <br>
+<a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a>
+<a href="https://www.gallerysystems.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
 
 
 <div class="container" markdown="0">
