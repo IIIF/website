@@ -128,7 +128,7 @@ Wikidata has released a [tool which shows relative position within image qualifi
 [goobi]: https://community.goobi.io 
 [image-position]: https://tools.wmflabs.org/wd-image-positions/ 
 [poulter]: http://blogs.bodleian.ox.ac.uk/digital/2019/03/13/build-your-own-digital-bodleian-with-iiif-and-sparql/ 
-[synthesys]: http://www.synthesys.info/home.html 
+[synthesys]: http://www.synthesys.info/
 [awesome]: https://github.com/IIIF/awesome-iiif 
 [hyam-mail]: mailto:r.hyam@rbge.org.uk
 [groups]: https://iiif.io/community/groups/
@@ -141,7 +141,7 @@ Wikidata has released a [tool which shows relative position within image qualifi
 [groups-newspapers]: https://iiif.io/community/groups/newspapers/
 [groups-outreach]: https://iiif.io/community/groups/outreach/
 [groups-sw]: https://iiif.io/community/groups/software/
-[groups-text]:https://iiif.io/community/groups/text-granularity/ 
+[groups-text]: https://iiif.io/community/groups/text-granularity/ 
 [iiif-c]: https://iiif.io/community/consortium/ 
 [iiif-c-members]: https://iiif.io/community/consortium/#members 
 [iiif-discovery]: https://iiif.io/api/discovery/0.2/ 
