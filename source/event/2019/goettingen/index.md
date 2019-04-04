@@ -55,16 +55,14 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 
 ### Sponsors
 
-Conference Sponsorship
-
 Both the IIIF Göttingen Conference and the IIIF Showcase are generously supported by the following Conference Sponsors:
 
-- Gold: 
+- **Gold** 
     + [Phase One][phaseone]
     + [Cogapp][cogapp]
-- Silver:
+- **Silver**
     + [text & bytes][textbytes]
-- Bronze: 
+- **Bronze** 
     + [Veridian Software][veridian]
     + [Gallery Systems][gallerysystems]
 
