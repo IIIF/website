@@ -40,8 +40,6 @@ In order to foster a conference environment that better reflects the diversity o
 - Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June. See below for train advice from Frankfurt airport.
 - Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen. Please note, [express trains with Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) from Frankfurt(M)Flughafen (Frankfurt Airport) to Göttingen are less expensive when booked in advance (called “Savings fares” from 29,90 EUR), but are valid only for the connection you choose when buying; standard fares are much more flexible (called "Flexpreis", from 69 EUR) and allow you to take any train.
 
-
-
 ### Schedule
 
 Outline schedule below.
@@ -54,6 +52,24 @@ Outline schedule below.
 We will wrap up around lunch time on the 28th of June. 
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+
+### Sponsors
+
+Conference Sponsorship
+
+Both the IIIF Göttingen Conference and the IIIF Showcase are generously supported by the following Conference Sponsors:
+
+- Gold: 
+    + [Phase One][phaseone]
+    + [Cogapp][cogapp]
+- Silver:
+    + [text & bytes][textbytes]
+- Bronze: 
+    + [Veridian Software][veridian]
+    + [Gallery Systems][gallerysystems]
+
+
+
 
 <div class="container" markdown="0">
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
@@ -92,3 +108,8 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
 [scholarship]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/annual_conference_travel_scholarship/
+[phaseone]: https://www.phaseone.com/
+[cogapp]: https://www.cogapp.com/
+[textbytes]: https://www.textandbytes.com/
+[veridian]: https://www.veridiansoftware.com/
+[gallerysystems]: https://www.gallerysystems.com/
