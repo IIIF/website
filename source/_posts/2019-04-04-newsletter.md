@@ -84,7 +84,7 @@ No update at the moment. Follow the Software Developers Community Group's develo
 ## Implementations, Adoption, Innovations and Ongoing Work Across the IIIF Community
 
 ### Veridian Software has implemented the IIIF Image and Presentation APIs
-Veridian Software implements IIIF Image and Presentation APIs Veridian (www.veridiansoftware.com) is presentation software for online search and display of digital collections. It has a particular focus on newspaper collections, and is used extensively by large newspaper digitisation projects at National, State, University, and Public Libraries. Veridian has implemented both the IIIF Image and Presentation APIs, making it possible to access content in a Veridian collection using any IIIF compatible viewer. The new IIIF capability will be rolled out to existing Veridian-based collections over the coming months, eventually resulting in more than 30 million pages of digitised newspapers joining the IIIF eco-system.
+[Veridian Software][veridian] implements IIIF Image and Presentation APIs Veridian is presentation software for online search and display of digital collections. It has a particular focus on newspaper collections, and is used extensively by large newspaper digitisation projects at National, State, University, and Public Libraries. Veridian has implemented both the IIIF Image and Presentation APIs, making it possible to access content in a Veridian collection using any IIIF compatible viewer. The new IIIF capability will be rolled out to existing Veridian-based collections over the coming months, eventually resulting in more than 30 million pages of digitised newspapers joining the IIIF eco-system.
 
 ### Goobi viewer implements IIIF Change Discovery API
 The [Goobi community][goobi] was asked to deliver content from a library, a museum and an archive to a new cultural heritage portal for the state of Thuringia in Germany. At the project planning stage, community members asked which formats and methods offered the most effective solution. The decision to deliver IIIF Presentation manifests and images via the IIIF Image API was easy, but one problem remained: how to notify the portal that a new manifest is available or that an existing one has been changed. The first plan was to use OAI and deliver a simple XML (including a persistent identifier and URL) to the manifest for each record. After posting a quick question on the IIIF Slack channel and reviewing the answers submitted by various members, this option was discarded in favour of the IIIF Change Discovery API. The implementation was completed in January and is now part of the Goobi viewer. You can find the source code for all the components at [Github][gh-goobi].
@@ -113,6 +113,7 @@ Wikidata has released a [tool which shows relative position within image qualifi
 * Jan Vonde (intranda GmbH)
 * Jeffrey Witt (Loyola University Maryland)
 
+[veridian]: https://www.veridiansoftware.com/
 [veholder]: http://veholder.org/ 
 [2019-conf]: https://iiif.io/event/2019/goettingen/ 
 [bern-register]: https://app.hesge.ch/enquetes/index.php/667387 
