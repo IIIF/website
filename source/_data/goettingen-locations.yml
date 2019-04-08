@@ -6,7 +6,7 @@
   lng: 9.937732
   dates: Monday 24th to Friday 28th June 2019
   cat: 1
-- name: Orangery in the Old Botanical Garden 
+- name: Orangery in the Old Botanical Garden
   url: https://www.uni-goettingen.de/en/125328.html
   note: Location for IIIF-Consortium Member Reception
   address: Untere Karspüle 2, 37073 Göttingen, Germany
@@ -14,11 +14,11 @@
   lng: 9.936486
   dates: Tuesday 25th June 2019
   cat: 2
-- name: Bullerjahn
-  url: https://www.bullerjahn.info/
+- name: StartRaum
+  url: https://www.startraum-goettingen.de/
   note: Location for Open Conference Reception
-  address: Markt 9, 37073 Göttingen, Germany
-  lat: 51.5328225
-  lng: 9.9349528
+  address: Friedrichstr. 3/4, 37073 Göttingen, Germany
+  lat: 51.534201
+  lng: 9.939381
   dates: Wednesday 26th June 2019
   cat: 2
