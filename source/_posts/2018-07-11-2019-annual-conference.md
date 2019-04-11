@@ -14,7 +14,7 @@ The IIIF Community welcomes joint bids between institutions which reflect the va
 
 If you are interesting in submitting a bid please fill in the following form by **Friday the 7th of September 2018**:
 
-[https://goo.gl/forms/pzyXE4a57JIzy5SC3 ][form]
+https://goo.gl/forms/pzyXE4a57JIzy5SC3
 
 Details of the requirements for a IIIF Conference can be found in [these guidance notes][guidance].
 
