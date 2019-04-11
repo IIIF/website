@@ -168,7 +168,7 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - Interoperability in IIIF contexts
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Panel
+  type: Presentation
 - abstract: "<p>The need for interoperable platforms to share cultural heritage information\
     \ is an important aspect in the digital realm, especially for cultural heritage\
     \ institutions that are federating collections and reuniting them in the digital\
@@ -318,6 +318,9 @@
     \ Recognition: Transkribus as a Case Study. Journal of Documentation (In press)</p>"
   authors:
   - company: University of Innsbruck
+    location: Austria
+    name: Florian Krull
+  - company: University of Innsbruck
     link: http://uibk.ac.at
     location: Austria
     name: Guenter Muehlberger
@@ -325,8 +328,8 @@
     location: UK
     name: Melissa Terras
   contact:
-    email: guenter.muehlberger@uibk.ac.at
-    name: Guenter Muehlberger
+    email: Florian.Krull@uibk.ac.at
+    name: Florian Krull
   flagged: false
   id: 26
   keywords:
@@ -480,6 +483,33 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Panel
+- abstract: '<p>The Herzog August Bibliothek is a leading European institute for research
+    on the medieval and early modern periods. As such it conducts its own long and
+    short-term research projects, often supported by outside funding. </p><p>In autumn
+    2018 we started a pilot to evaluate the feasibility of publishing our digital
+    collections via IIIF conforming web services. The short-term goal is to implement
+    IIIF Image and Presentation webservices for a collection of medieval manuscripts
+    of collaboration project with the Bodleian Libraries.</p><p>In my lightning talk
+    I would like to present our approach to publish IIIF manifests from an XML-based
+    digization workflow. I will also give a short introduction to two software components
+    we wrote for the pilot: An implementation of the IIIF Presentation API based on
+    METS application profile defined by the german research foundation (Deutsche Forschungs
+    Gemeinschaft, DFG), and an implementation of the IIIF Image API based the programming
+    language PHP''s interface to the GD Graphics Library.</p>'
+  authors:
+  - company: "Herzog August Bibliothek Wolfenb\xFCttel"
+    link: https://dmaus.name
+    location: Germany
+    name: David Maus
+  contact:
+    email: maus@hab.de
+    name: David Maus
+  flagged: true
+  id: 44
+  title: IIIF at the Herzog August Bibliothek (working title)
+  topics:
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  type: Lightning talk
 - abstract: <p>OCLC Research is participating in the IIIF Discovery Working Group's
     on-going effort to develop a "Change Discovery API".  The Change Discovery API
     will provide the information needed to discover and subsequently make use of IIIF
@@ -1944,33 +1974,6 @@
   topics:
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Lightning talk
-- abstract: '<p>The Herzog August Bibliothek is a leading European institute for research
-    on the medieval and early modern periods. As such it conducts its own long and
-    short-term research projects, often supported by outside funding. </p><p>In autumn
-    2018 we started a pilot to evaluate the feasibility of publishing our digital
-    collections via IIIF conforming web services. The short-term goal is to implement
-    IIIF Image and Presentation webservices for a collection of medieval manuscripts
-    of collaboration project with the Bodleian Libraries.</p><p>In my lightning talk
-    I would like to present our approach to publish IIIF manifests from an XML-based
-    digization workflow. I will also give a short introduction to two software components
-    we wrote for the pilot: An implementation of the IIIF Presentation API based on
-    METS application profile defined by the german research foundation (Deutsche Forschungs
-    Gemeinschaft, DFG), and an implementation of the IIIF Image API based the programming
-    language PHP''s interface to the GD Graphics Library.</p>'
-  authors:
-  - company: "Herzog August Bibliothek Wolfenb\xFCttel"
-    link: https://dmaus.name
-    location: Germany
-    name: David Maus
-  contact:
-    email: maus@hab.de
-    name: David Maus
-  flagged: true
-  id: 44
-  title: IIIF at the Herzog August Bibliothek (working title)
-  topics:
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Lightning talk
 - abstract: "<p>Imagine that all scholars, teachers and students interested in medieval\
     \ manuscripts could find them just like that \u2013 in one good catalogue and\

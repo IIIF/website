@@ -27,6 +27,20 @@
     <td>{% for author in submission.authors %}
             {{ author.name }}{% if forloop.last == false %}, {% endif %}
     {% endfor %}</td>
+    {% if include.fill %}
+        <td colspan="{{ include.fill }}">&nbsp;</td>
+    {% endif %}
+{% endif %}
+{% if include.track1Single or include.track2Single  or include.track3Single %}
+        {% assign track1=include.track1Single  %}
+        {% assign track2=include.track2Single  %}
+        {% assign track3=include.track3Single  %}
+        {% assign track4=include.track4Single  %}
+
+        {% include conference_multirow.html paper=track1 position=11 rowSpan=1 %}
+        {% include conference_multirow.html paper=track2 position=21 rowSpan=1 %}
+        {% include conference_multirow.html paper=track3 position=31 rowSpan=1 %}
+        {% include conference_multirow.html paper=track4 position=41 rowSpan=1 %}
 {% endif %}
 {% if include.track1 or include.track2  or include.track3 %}
         {% assign track1=include.track1 | split: ','  %}

@@ -29,59 +29,19 @@ This is the agenda for Thursday the 27th of June, the second full day of the con
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='1,3,6' track2='8,11,17' track3='42,,' track4='-1,-1,-1'%}
+        {% include conference_slot_row.html time='9:00am - 10:30am' track1Single='56' track2Single='65' track3Single='30' track4Single='32'%}
 
         {% include conference_slot_row.html span='8' time='10:30am - 11:00am' title='<b>Break</b>' %}
 
-          </tbody>
-</table>
-<table class="api-table">
-  <thead>
-    <tr>
-      <th>time</th>
-      <th>Title</th>
-      <th>Authors</th>
-    </tr>
-  </thead>
-  <tbody>
-        {% include conference_slot_row.html time='11:00am - 11:30am' rowspan='3' paper=63 %}
-        {% include conference_slot_row.html paper=18 %}
-        {% include conference_slot_row.html paper=77 %} <!-- need to stretch somehow -->
-  </tbody>
-</table>
-
-
-<table class="api-table">
-  <thead>
-    <tr>
-      <th></th>
-      <th colspan="2">Track 1</th>
-      <th colspan="2">Track 2</th>
-      <th colspan="2">Track 3</th>
-      <th colspan="2">Track 4</th>
-     </tr>
-    <tr>
-      <th>Time</th>
-      <th>Title</th>
-      <th>Authors</th>
-      <th>Title</th>
-      <th>Authors</th>
-      <th>Title</th>
-      <th>Authors</th>
-      <th>Title</th>
-      <th>Authors</th>
-    </tr>
-  </thead>
-  <tbody>
-        {% include conference_slot_row.html rowspan='2' time='11:30am - 12:30pm' track1='68,69' track2='72,73' track3='57,60' track4='-1,-1' %} <!-- need to handle not 3 rows -->
+        {% include conference_slot_row.html rowspan='3' time='11:00am - 12:30pm' track1='6,64,26' track2='61,75,1' track3='72,25,17' track4='-1,-1,-1' %} 
 
         {% include conference_slot_row.html span='8' time='12:30pm - 1:30pm' title='<b>Lunch</b>' %}
 
-        {% include conference_slot_row.html rowspan='3' time='1:30pm - 3:00pm' track1='29,34,36' track2='39,46,48' track3='59,64,66' track4='32,,'%}
+        {% include conference_slot_row.html rowspan='3' time='1:30pm - 3:00pm' track1='11,16,78' track2='20,57,69' track3='73,34,59' track4='-1,-1,-1'%}
 
         {% include conference_slot_row.html span='8' time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='56,,' track2='61,10,16' track3='75,70,-1' track4='30,,' %}
+        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='29,48,10' track2='71,39,8' track3='60,68,-1' track4='-1,-1,-1' %}
 
   </tbody>
 </table>
