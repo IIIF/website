@@ -10,7 +10,8 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming main IIIF Events__
 
-* Spring 2019 IIIF Conference: June. 24th in [Göttingen][goettingen19], Germany
+* Spring 2019 IIIF Conference: [June 24-28 in Göttingen, Germany][goettingen19]
+* Fall 2019 IIIF Working Meeting: [November 4-7 in Ann Arbor, Michigan][ann_arbor19]
 
 __Other IIIF Events__
 
@@ -112,6 +113,7 @@ function addTable(destination, gtable) {
 </script>
 
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[ann_arbor19]: {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/
 [goettingen19]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
 [edinburgh18]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/
 [washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/

@@ -12,7 +12,7 @@ The [International Image Interoperability Framework (IIIF)][iiif] Showcase and w
 The IIIF Ann Arbor showcase will be on the 4th of November and will be open to participants with all levels of IIIF knowledge from complete beginners to people who want to find out about the latest developments.
 
 ### Working meeting
-The working group meetings are intended for active IIIF community participants and [working groups][groups]. This will be limited to around 80 people and will be held from on Tuesday the 4th to Thursday the 6th of December. 
+The working group meetings are intended for active IIIF community participants and [working groups][groups]. Space is limited to around 80 people. 
 
 ### Logistics
 
