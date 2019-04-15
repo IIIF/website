@@ -44,7 +44,7 @@ Please note this a draft program and locations and times of presentations may ch
 
         {% include conference_slot_row.html span='8' time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='29,48,10' track2='71,8, -1' track3='60,68,-1' track4='-1,-1,-1' %}
+        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='29,48,10' track2='71,8,-1' track3='60,68,-1' track4='-1,-1,-1' %}
 
   </tbody>
 </table>
