@@ -15,7 +15,7 @@ The IIIF Showcase brings together developers and early adopters to explain the b
 
 * Registration: [Registration][showcase-reg] is free but capacity is limited.
 * Date: Friday, March 17, 2017
-* Location: National Library of Scotland (NLS) Boardroom on George IV Bridge (see [map][nls-map])
+* Location: [The University of Edinburgh][edinburgh] and the [National Library of Scotland][nls]
 * Audience: Individuals and institutional representatives interested in learning more about IIIF
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies to all IIIF events and related activities.
 * Social Media: Tweets about the event should use #iiif and @iiif_io.
@@ -34,6 +34,8 @@ The IIIF Technical Workshop unconference, hosted by the University of Edinburgh 
 * Social Media: Tweets about the event should use #iiif and @iiif_io.
 
 
+[edinburgh]: https://www.ed.ac.uk/
+[nls]: https://www.nls.uk/
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [showcase-reg]: https://iiifshowcaseedinburgh.eventbrite.co.uk/
 [technical-reg]: https://iiiftechnicaledinburgh.eventbrite.co.uk/

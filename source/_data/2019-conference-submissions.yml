@@ -168,7 +168,7 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - Interoperability in IIIF contexts
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Panel
+  type: Presentation
 - abstract: "<p>The need for interoperable platforms to share cultural heritage information\
     \ is an important aspect in the digital realm, especially for cultural heritage\
     \ institutions that are federating collections and reuniting them in the digital\
@@ -251,52 +251,163 @@
   - Interoperability in IIIF contexts
   - Implementations of IIIF outside of North America/Europe
   type: Panel
-- abstract: "<p>This workshop will introduce Mirador 3, its technical underpinnings,\
-    \ and give attendees hands on experience with the project. Mirador 3, is a rewrite\
-    \ and new architecture of the popular comparison and visualization tool, Mirador.</p><p>Workshop\
-    \ attendees will have hands on learning with the following:</p><p> - Installation\
-    \ of Mirador 3</p><p> - Mirador 3 feature tour</p><p> - Mirador 3\u2019s APIs\
-    \ and state management</p><p> - How to customize and theme Mirador 3</p><p> -\
-    \ Build a plugin for Mirador 3</p><p>This workshop will give Mirador adopters\
-    \ the basis to build and adopt on top of Mirador 3 and provide feedback to the\
-    \ core team.</p>"
+- abstract: <p>The presentation will start with the current status of the work at
+    Europeana with respect discovery of IIIF cultural heritage resources. We will
+    present how IIIF resources may be provided by Europeana data providers in the
+    EDM metadata delivered to Europeana. </p><p>IIIF is also recognized by Europeana
+    as a technology with much potential to innovate the process of aggregation of
+    metadata within the Europeana network, and reducing the operational costs of metadata
+    aggregation for all partners. Europeana has already has collections in its dataset
+    that were aggregated via several of the possible IIIF methods. Europeana is interested
+    in the IIIF Change Discovery API for establishing a standard metadata aggregation
+    method based on IIIF, is active in its specification and in the work being carried
+    out in the IIIF Discovery Technical Working Group </p><p>We will conclude by presenting
+    future plans, for example our investigation of the potential uses, for Europeana's
+    services, of the recent IIIF progress at Wikidata. </p>
   authors:
-  - company: Stanford University Libraries
-    location: United States
-    name: Jack Reed
+  - company: INESC-ID
+    link: https://www.researchgate.net/profile/Nuno_Freire
+    location: Portugal
+    name: Nuno Freire
+  - company: Europeana
+    location: Netherlands
+    name: Antoine Isaac
   contact:
-    email: pjreed@stanford.edu
-    name: Jack Reed
+    email: nuno.freire@europeana.eu
+    name: Nuno Freire
   flagged: false
-  id: 51
-  title: Mirador 3 Hands On Technical Workshop
+  id: 61
+  keywords:
+  - Metadata aggregation
+  - discovery
+  title: 'Metadata aggregation of IIIF Resources at Europeana: status and plans'
+  topics:
+  - Discovering IIIF resources
+  type: Presentation
+- abstract: "<p>The Transkribus platform enables scholars to train computer models\
+    \ in order to automatically recognize handwritten and printed documents. There\
+    \ is no restriction regarding the age, style, script or language of the documents.\
+    \ Codices from the Middle Ages can be processed in the same way as modern manuscripts,\
+    \ languages such as ancient Greek, Latin or Hebrew do not impose more challenges\
+    \ than modern English, German or Arabic. Transkribus is designed as an open platform\
+    \ in order to support the collaboration among scholars, computer scientists, archives,\
+    \ libraries and the public. The assumption is that the more data there is in the\
+    \ platform, the higher will be the benefit for all users. In February 2019 more\
+    \ than 20,000 users were registered in the platform, hundreds of them actively\
+    \ transcribing documents. More than seventy institutions, such as universities,\
+    \ research groups, archives, and libraries have concluded collaboration agreements\
+    \ indicating their interest in the platform and the technology. In January 2019\
+    \ more than 220 text recognition models were successfully trained by Transkribus\
+    \ users, indicating their diverse interests and competences. In order to sustain\
+    \ the service platform several universities and institutions around Europe will\
+    \ set up a European Cooperative Society. This legal entity will enable the team\
+    \ to further develop the platform and offer services on a new scale. See M\xFC\
+    hlberger et al (Forthcoming 2019) for an overview. </p><p>One of the new services\
+    \ will be to explore the options to connect the IIIF technology and community\
+    \ with the Transkribus platform. We can think on several scenarios: First of all\
+    \ a simple \u201Cupload\u201D mechanism for transferring images from a IIIF server\
+    \ to the Transkribus platform would enable libraries and archives to enrich their\
+    \ holdings with textual data. The simple delivery of the ID of the manifest would\
+    \ start a job a text recognition job at Transkribus. In return an updated manifest\
+    \ could be either delivered to the hosting institution, or the manifest could\
+    \ also be made available via a IIIF server based within the Transkribus environment.\
+    \ Secondly transcription interfaces \u2013 as they are increasingly developed\
+    \ at several institutions on basis of IIIF technology \u2013 may be connected\
+    \ with the Transkribus API in order to not only request a recognition job, but\
+    \ also to use the transcribed texts as training material for machine learning\
+    \ processes. Other options include the making available of all images within Transkribus\
+    \ (daily upload of users is currently around 5000 images) via IIIF, or to even\
+    \ move specific features, such as training or evaluation functionalities into\
+    \ a IIIF based web-interface.</p><p>The presentation will discuss the several\
+    \ options and invite the audience to come up with their own ideas and suggestions\
+    \ as to how these two communities and frameworks can work together.</p><p>Muehlberger,\
+    \ G. et. al: Transforming Scholarship in the Archives Through Handwritten Text\
+    \ Recognition: Transkribus as a Case Study. Journal of Documentation (In press)</p>"
+  authors:
+  - company: University of Innsbruck
+    location: Austria
+    name: Florian Krull
+  - company: University of Innsbruck
+    link: http://uibk.ac.at
+    location: Austria
+    name: Guenter Muehlberger
+  - company: University of Edinburgh
+    location: UK
+    name: Melissa Terras
+  contact:
+    email: Florian.Krull@uibk.ac.at
+    name: Florian Krull
+  flagged: false
+  id: 26
+  keywords:
+  - OCR
+  - HTR
+  - text recognition
+  - ''
+  title: 'Transkribus and IIIF: beneficial possibilities between image sharing and
+    Handwritten Text Recognition frameworks'
   topics:
   - Annotation, including full-text or academic use cases
-  - Interoperability in IIIF contexts
-  type: Workshop
-- abstract: <p>This workshop will introduce Mirador 3 to end users. The workshop will
-    focus on giving attendees hands on experience with using Mirador 3. Mirador 3,
-    is a rewrite and new architecture of the popular comparison and visualization
-    tool, Mirador.</p><p>Workshop attendees will have hands on learning with the following:</p><p>
-    - An introduction to Mirador 3 </p><p> - Mirador 3 user experience goals</p><p>
-    - Mirador 3 feature tour</p><p>    - Mirador Workspaces</p><p>    - Mirador Companion
-    Windows</p><p> - Mirador 2 vs Mirador 3 comparison</p><p>Part of this workshop
-    will include a feedback session where attendees will be able to provide feedback
-    to the core team.</p>
+  - Using IIIF material for Machine Learning and AI
+  type: Presentation
+- abstract: "<p>MMMONK. Medieval Monastic Manuscripts \u2013 Open \u2013 Network \u2013\
+    \ Knowledge. Crossing institutional boundaries with IIIF.</p><p>The Public Library\
+    \ of Bruges, Ghent University Library, Grand Seminar Bruges, and Diocese of Ghent\
+    \ are collaborating on Mmmonk. The aim of this IIIF project is to digitally reunite\
+    \ the 734 medieval manuscripts of the abolished Cistercian abbeys of Ten Duinen\
+    \ and Ter Doest and the Benedictine abbeys of Saint Bavo and Saint Peter in Flanders.\
+    \ </p><p>For Mmmonk, the PL Bruges and UL Ghent, two active special collections\
+    \ libraries in Flanders, join forces with the Grand Seminar Bruges and the Diocese\
+    \ of Ghent. These two religious institutions hold extremely valuable manuscripts\
+    \ but lack the expertise and resources to disclose them according to international\
+    \ standards. </p><p>In the first phase of the project (March 2019 \u2013 September\
+    \ 2020), recently awarded with a grant by the Flemish Government, all of the manuscripts\
+    \ kept in Ghent and Bruges will be digitised and made available online using IIIF.\
+    \ These building blocks will allow us to develop research and annotation options\
+    \ enabled by IIIF and computer vision, tailored to our unique corpus of coherent\
+    \ medieval monastic libraries. An example includes the use of multi-lingual ontologies\
+    \ to enrich the metadata provided in the IIIF manifest. All manuscripts will be\
+    \ gathered in a virtual library on an online platform, which will also provide\
+    \ context about the collections.</p><p>Although the majority of these manuscripts\
+    \ are now kept at the libraries of the four main partners, some 60 manuscripts\
+    \ from these abbeys have been identified in about 40 institutions in Belgium and\
+    \ abroad. In the following phase of the project, we wish to add these manuscripts\
+    \ to the virtual library as well. Where there are no IIIF compliant images available\
+    \ yet, we hope our project will stimulate and, if possible, support their creation.\
+    \ </p><p>Outreach and education are important aspects of the project. We aim to\
+    \ develop a IIIF manual for special collections libraries that wish to implement\
+    \ this digital innovation. In doing so, we hope to contribute to the development\
+    \ of a general open data culture hub in Flanders, but also to take up an exemplary\
+    \ role in stimulating collaboration between smaller and larger institutions in\
+    \ order to facilitate digital innovation. Last but not least, we will combine\
+    \ our academic, public and religious networks to advocate for the use of IIIF\
+    \ in research, education and public outreach (e.g. by crowdsourcing and teaching\
+    \ initiatives).</p><p>A supportive network of ten partners will provide additional\
+    \ expertise in terms of digital innovation, education, research and outreach,\
+    \ and will ensure a wide reach for our message and results. </p><p>During a lightning\
+    \ talk, we wish to present our goals and methodology in order to stimulate feedback\
+    \ from other participants. </p>"
   authors:
-  - company: Stanford University Libraries
-    location: United States
-    name: Jack Reed
+  - company: Public Library Bruges
+    link: https://www.brugge.be/bibliotheek/erfgoed
+    location: "Belgi\xEB"
+    name: Evelien Hauwaerts
+  - company: Public Library Bruges
+    link: https://www.brugge.be/bibliotheek/erfgoed
+    location: Belgium
+    name: Katrien Deroo
   contact:
-    email: pjreed@stanford.edu
-    name: Jack Reed
+    email: evelien.hauwaerts@brugge.be
+    name: Evelien Hauwaerts
   flagged: false
-  id: 52
-  title: Mirador 3 Hands On User Workshop
+  id: 19
+  title: "MMMONK Medieval Monastic Manuscripts \u2013 Open \u2013 Network \u2013 Knowledge.\
+    \ Crossing institutional boundaries with IIIF"
   topics:
   - Annotation, including full-text or academic use cases
-  - Interoperability in IIIF contexts
-  type: Workshop
+  - Discovering IIIF resources
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Lightning talk
 - abstract: <p>Indiana University, in collaboration with Digirati, is using IIIF specs
     in its implementation of a newer version of the now retired Variations Audio Timeliner,
     an audio annotation and analysis tool for creating and labeling bubble diagrams.
@@ -329,32 +440,6 @@
   - Annotation, including full-text or academic use cases
   - Audio/Visual use cases for IIIF
   type: Lightning talk
-- abstract: <p>The presentation will start with the current status of the work at
-    Europeana in discovery of IIIF cultural heritage resources, with the particular
-    focus of metadata aggregation. It will cover the ongoing research activities and
-    the operational procedures for ingestion of IIIF resources. The presentation will
-    follow with the plans of further activities, also in relation to the IIIF Discovery
-    Technical Specification Group.</p>
-  authors:
-  - company: INESC-ID
-    link: https://www.researchgate.net/profile/Nuno_Freire
-    location: Portugal
-    name: Nuno Freire
-  - company: Europeana
-    location: Netherlands
-    name: Antoine Isaac
-  contact:
-    email: nuno.freire@europeana.eu
-    name: Nuno Freire
-  flagged: true
-  id: 61
-  keywords:
-  - Metadata aggregation
-  - discovery
-  title: 'Metadata aggregation of IIIF Resources at Europeana: status and plans'
-  topics:
-  - Discovering IIIF resources
-  type: Presentation
 - abstract: "<p>Cambridge Digital Library would like to chair a panel discussion.</p><p>Topic:\
     \ </p><p>Building local and international communities around IIIF</p><p>Technique:</p><p>We\
     \ have found that conference attendees value open and honest discussion, particularly\
@@ -405,6 +490,33 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Panel
+- abstract: '<p>The Herzog August Bibliothek is a leading European institute for research
+    on the medieval and early modern periods. As such it conducts its own long and
+    short-term research projects, often supported by outside funding. </p><p>In autumn
+    2018 we started a pilot to evaluate the feasibility of publishing our digital
+    collections via IIIF conforming web services. The short-term goal is to implement
+    IIIF Image and Presentation webservices for a collection of medieval manuscripts
+    of collaboration project with the Bodleian Libraries.</p><p>In my lightning talk
+    I would like to present our approach to publish IIIF manifests from an XML-based
+    digization workflow. I will also give a short introduction to two software components
+    we wrote for the pilot: An implementation of the IIIF Presentation API based on
+    METS application profile defined by the german research foundation (Deutsche Forschungs
+    Gemeinschaft, DFG), and an implementation of the IIIF Image API based the programming
+    language PHP''s interface to the GD Graphics Library.</p>'
+  authors:
+  - company: "Herzog August Bibliothek Wolfenb\xFCttel"
+    link: https://dmaus.name
+    location: Germany
+    name: David Maus
+  contact:
+    email: maus@hab.de
+    name: David Maus
+  flagged: true
+  id: 44
+  title: IIIF at the Herzog August Bibliothek (working title)
+  topics:
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  type: Lightning talk
 - abstract: <p>OCLC Research is participating in the IIIF Discovery Working Group's
     on-going effort to develop a "Change Discovery API".  The Change Discovery API
     will provide the information needed to discover and subsequently make use of IIIF
@@ -436,6 +548,52 @@
   - Discovering IIIF resources
   - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
   type: Presentation
+- abstract: <p>This workshop will introduce Mirador 3 to end users. The workshop will
+    focus on giving attendees hands on experience with using Mirador 3. Mirador 3,
+    is a rewrite and new architecture of the popular comparison and visualization
+    tool, Mirador.</p><p>Workshop attendees will have hands on learning with the following:</p><p>
+    - An introduction to Mirador 3 </p><p> - Mirador 3 user experience goals</p><p>
+    - Mirador 3 feature tour</p><p>    - Mirador Workspaces</p><p>    - Mirador Companion
+    Windows</p><p> - Mirador 2 vs Mirador 3 comparison</p><p>Part of this workshop
+    will include a feedback session where attendees will be able to provide feedback
+    to the core team.</p>
+  authors:
+  - company: Stanford University Libraries
+    location: United States
+    name: Jack Reed
+  contact:
+    email: pjreed@stanford.edu
+    name: Jack Reed
+  flagged: false
+  id: 52
+  title: Mirador 3 Hands On User Workshop
+  topics:
+  - Annotation, including full-text or academic use cases
+  - Interoperability in IIIF contexts
+  type: Workshop
+- abstract: "<p>This workshop will introduce Mirador 3, its technical underpinnings,\
+    \ and give attendees hands on experience with the project. Mirador 3, is a rewrite\
+    \ and new architecture of the popular comparison and visualization tool, Mirador.</p><p>Workshop\
+    \ attendees will have hands on learning with the following:</p><p> - Installation\
+    \ of Mirador 3</p><p> - Mirador 3 feature tour</p><p> - Mirador 3\u2019s APIs\
+    \ and state management</p><p> - How to customize and theme Mirador 3</p><p> -\
+    \ Build a plugin for Mirador 3</p><p>This workshop will give Mirador adopters\
+    \ the basis to build and adopt on top of Mirador 3 and provide feedback to the\
+    \ core team.</p>"
+  authors:
+  - company: Stanford University Libraries
+    location: United States
+    name: Jack Reed
+  contact:
+    email: pjreed@stanford.edu
+    name: Jack Reed
+  flagged: false
+  id: 51
+  title: Mirador 3 Hands On Technical Workshop
+  topics:
+  - Annotation, including full-text or academic use cases
+  - Interoperability in IIIF contexts
+  type: Workshop
 - abstract: <p>At the BSB we are on the way to serve all 2.3 million digitized objects
     by IIIF.  </p><p>In our presentation we will show how services developed at BSB
     starting from serving images via providing IIIF-manifests to linking transcription-annotations.  </p><p>Which
@@ -944,64 +1102,6 @@
   topics:
   - Discovering IIIF resources
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Lightning talk
-- abstract: "<p>MMMONK. Medieval Monastic Manuscripts \u2013 Open \u2013 Network \u2013\
-    \ Knowledge. Crossing institutional boundaries with IIIF.</p><p>The Public Library\
-    \ of Bruges, Ghent University Library, Grand Seminar Bruges, and Diocese of Ghent\
-    \ are collaborating on Mmmonk. The aim of this IIIF project is to digitally reunite\
-    \ the 734 medieval manuscripts of the abolished Cistercian abbeys of Ten Duinen\
-    \ and Ter Doest and the Benedictine abbeys of Saint Bavo and Saint Peter in Flanders.\
-    \ </p><p>For Mmmonk, the PL Bruges and UL Ghent, two active special collections\
-    \ libraries in Flanders, join forces with the Grand Seminar Bruges and the Diocese\
-    \ of Ghent. These two religious institutions hold extremely valuable manuscripts\
-    \ but lack the expertise and resources to disclose them according to international\
-    \ standards. </p><p>In the first phase of the project (March 2019 \u2013 September\
-    \ 2020), recently awarded with a grant by the Flemish Government, all of the manuscripts\
-    \ kept in Ghent and Bruges will be digitised and made available online using IIIF.\
-    \ These building blocks will allow us to develop research and annotation options\
-    \ enabled by IIIF and computer vision, tailored to our unique corpus of coherent\
-    \ medieval monastic libraries. An example includes the use of multi-lingual ontologies\
-    \ to enrich the metadata provided in the IIIF manifest. All manuscripts will be\
-    \ gathered in a virtual library on an online platform, which will also provide\
-    \ context about the collections.</p><p>Although the majority of these manuscripts\
-    \ are now kept at the libraries of the four main partners, some 60 manuscripts\
-    \ from these abbeys have been identified in about 40 institutions in Belgium and\
-    \ abroad. In the following phase of the project, we wish to add these manuscripts\
-    \ to the virtual library as well. Where there are no IIIF compliant images available\
-    \ yet, we hope our project will stimulate and, if possible, support their creation.\
-    \ </p><p>Outreach and education are important aspects of the project. We aim to\
-    \ develop a IIIF manual for special collections libraries that wish to implement\
-    \ this digital innovation. In doing so, we hope to contribute to the development\
-    \ of a general open data culture hub in Flanders, but also to take up an exemplary\
-    \ role in stimulating collaboration between smaller and larger institutions in\
-    \ order to facilitate digital innovation. Last but not least, we will combine\
-    \ our academic, public and religious networks to advocate for the use of IIIF\
-    \ in research, education and public outreach (e.g. by crowdsourcing and teaching\
-    \ initiatives).</p><p>A supportive network of ten partners will provide additional\
-    \ expertise in terms of digital innovation, education, research and outreach,\
-    \ and will ensure a wide reach for our message and results. </p><p>During a lightning\
-    \ talk, we wish to present our goals and methodology in order to stimulate feedback\
-    \ from other participants. </p>"
-  authors:
-  - company: Public Library Bruges
-    link: https://www.brugge.be/bibliotheek/erfgoed
-    location: "Belgi\xEB"
-    name: Evelien Hauwaerts
-  - company: Public Library Bruges
-    link: https://www.brugge.be/bibliotheek/erfgoed
-    location: Belgium
-    name: Katrien Deroo
-  contact:
-    email: evelien.hauwaerts@brugge.be
-    name: Evelien Hauwaerts
-  flagged: false
-  id: 19
-  title: "MMMONK Medieval Monastic Manuscripts \u2013 Open \u2013 Network \u2013 Knowledge.\
-    \ Crossing institutional boundaries with IIIF"
-  topics:
-  - Annotation, including full-text or academic use cases
-  - Discovering IIIF resources
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Lightning talk
 - abstract: <p>The Abnormal Hieratic script was used in Egypt around the 7th century
@@ -1751,7 +1851,7 @@
     \ overall goal is to develop as uniform a way as possible for specimen data and\
     \ images to be published by participating institutions. This will enable the development\
     \ of virtual thematic research portals that run across physical institutions.\
-    \ We hope demonstrate this by the end of the project.</p>"
+    \ We hope to demonstrate this in action by the end of the project.</p>"
   authors:
   - company: Royal Botanic Garden Edinburgh
     link: https://www.rbge.org.uk/
@@ -1882,45 +1982,16 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Lightning talk
-- abstract: '<p>The Herzog August Bibliothek is a leading European institute for research
-    on the medieval and early modern periods. As such it conducts its own long and
-    short-term research projects, often supported by outside funding. </p><p>In autumn
-    2018 we started a pilot to evaluate the feasibility of publishing our digital
-    collections via IIIF conforming web services. The short-term goal is to implement
-    IIIF Image and Presentation webservices for a collection of medieval manuscripts
-    of collaboration project with the Bodleian Libraries.</p><p>In my lightning talk
-    I would like to present our approach to publish IIIF manifests from an XML-based
-    digization workflow. I will also give a short introduction to two software components
-    we wrote for the pilot: An implementation of the IIIF Presentation API based on
-    METS application profile defined by the german research foundation (Deutsche Forschungs
-    Gemeinschaft, DFG), and an implementation of the IIIF Image API based the programming
-    language PHP''s interface to the GD Graphics Library.</p>'
-  authors:
-  - company: "Herzog August Bibliothek Wolfenb\xFCttel"
-    link: https://dmaus.name
-    location: Germany
-    name: David Maus
-  contact:
-    email: maus@hab.de
-    name: David Maus
-  flagged: true
-  id: 44
-  title: IIIF at the Herzog August Bibliothek (working title)
-  topics:
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  type: Lightning talk
-- abstract: "<p>Big Rock Candy Mountain: Can We Take the Medieval Manuscripts to a\
-    \ Digital Wonderland?</p><p>Pauli Assinen & Matti Myllykoski</p><p>Helsinki University\
-    \ Library</p><p>Imagine that all scholars, teachers and students interested in\
-    \ medieval manuscripts could find them just like that \u2013 in one good catalogue\
-    \ and most or all of them digitized. Imagine them having easy, direct and open\
-    \ access to the earliest sources of European culture. Imagine them creating new\
-    \ critical editions and learning more from the texts in the most original form\
-    \ we possess them.</p><p>Some hundred years ago, only some specialized scholars\
-    \ worked on ancient manuscripts. Such a specialist took the train from Berlin\
-    \ to study a manuscript in Rome. In the last decades of the 20th century, he took\
-    \ a plane. The digitization of the manuscripts has changed the situation completely.\
-    \ Now all potentially interested scholars, teachers and students, thanks to Gallica,\
+- abstract: "<p>Imagine that all scholars, teachers and students interested in medieval\
+    \ manuscripts could find them just like that \u2013 in one good catalogue and\
+    \ most or all of them digitized. Imagine them having easy, direct and open access\
+    \ to the earliest sources of European culture. Imagine them creating new critical\
+    \ editions and learning more from the texts in the most original form we possess\
+    \ them.</p><p>Some hundred years ago, only some specialized scholars worked on\
+    \ ancient manuscripts. Such a specialist took the train from Berlin to study a\
+    \ manuscript in Rome. In the last decades of the 20th century, he took a plane.\
+    \ The digitization of the manuscripts has changed the situation completely. Now\
+    \ all potentially interested scholars, teachers and students, thanks to Gallica,\
     \ Manuscripta medievalia, DigiVatLib and other great and small websites, have\
     \ access to incredible amount of digitized manuscripts. </p><p>In the long run,\
     \ this will have a huge impact on creation of critical editions of ancient texts.\
@@ -2653,69 +2724,6 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Workshop
-- abstract: "<p>The Transkribus platform enables scholars to train computer models\
-    \ in order to automatically recognize handwritten and printed documents. There\
-    \ is no restriction regarding the age, style, script or language of the documents.\
-    \ Codices from the Middle Ages can be processed in the same way as modern manuscripts,\
-    \ languages such as ancient Greek, Latin or Hebrew do not impose more challenges\
-    \ than modern English, German or Arabic. Transkribus is designed as an open platform\
-    \ in order to support the collaboration among scholars, computer scientists, archives,\
-    \ libraries and the public. The assumption is that the more data there is in the\
-    \ platform, the higher will be the benefit for all users. In February 2019 more\
-    \ than 20,000 users were registered in the platform, hundreds of them actively\
-    \ transcribing documents. More than seventy institutions, such as universities,\
-    \ research groups, archives, and libraries have concluded collaboration agreements\
-    \ indicating their interest in the platform and the technology. In January 2019\
-    \ more than 220 text recognition models were successfully trained by Transkribus\
-    \ users, indicating their diverse interests and competences. In order to sustain\
-    \ the service platform several universities and institutions around Europe will\
-    \ set up a European Cooperative Society. This legal entity will enable the team\
-    \ to further develop the platform and offer services on a new scale. See M\xFC\
-    hlberger et al (Forthcoming 2019) for an overview. </p><p>One of the new services\
-    \ will be to explore the options to connect the IIIF technology and community\
-    \ with the Transkribus platform. We can think on several scenarios: First of all\
-    \ a simple \u201Cupload\u201D mechanism for transferring images from a IIIF server\
-    \ to the Transkribus platform would enable libraries and archives to enrich their\
-    \ holdings with textual data. The simple delivery of the ID of the manifest would\
-    \ start a job a text recognition job at Transkribus. In return an updated manifest\
-    \ could be either delivered to the hosting institution, or the manifest could\
-    \ also be made available via a IIIF server based within the Transkribus environment.\
-    \ Secondly transcription interfaces \u2013 as they are increasingly developed\
-    \ at several institutions on basis of IIIF technology \u2013 may be connected\
-    \ with the Transkribus API in order to not only request a recognition job, but\
-    \ also to use the transcribed texts as training material for machine learning\
-    \ processes. Other options include the making available of all images within Transkribus\
-    \ (daily upload of users is currently around 5000 images) via IIIF, or to even\
-    \ move specific features, such as training or evaluation functionalities into\
-    \ a IIIF based web-interface.</p><p>The presentation will discuss the several\
-    \ options and invite the audience to come up with their own ideas and suggestions\
-    \ as to how these two communities and frameworks can work together.</p><p>Muehlberger,\
-    \ G. et. al: Transforming Scholarship in the Archives Through Handwritten Text\
-    \ Recognition: Transkribus as a Case Study. Journal of Documentation (In press)</p>"
-  authors:
-  - company: University of Innsbruck
-    link: http://uibk.ac.at
-    location: Austria
-    name: Guenter Muehlberger
-  - company: University of Edinburgh
-    location: UK
-    name: Melissa Terras
-  contact:
-    email: guenter.muehlberger@uibk.ac.at
-    name: Guenter Muehlberger
-  flagged: false
-  id: 26
-  keywords:
-  - OCR
-  - HTR
-  - text recognition
-  - ''
-  title: 'Transkribus and IIIF: beneficial possibilities between image sharing and
-    Handwritten Text Recognition frameworks'
-  topics:
-  - Annotation, including full-text or academic use cases
-  - Using IIIF material for Machine Learning and AI
-  type: Presentation
 - abstract: <p>The IIIF 3D Community includes examples of key projects which present
     2D images and 3D models together using web-based viewers, increasingly using a
     mainstay file format, and aim to establish even greater interoperability in mixed
@@ -2792,43 +2800,6 @@
     \ with the DAMS"
   topics:
   - Interoperability in IIIF contexts
-  type: Presentation
-- abstract: "<p>Building on the University of Notre Dame\u2019s mandate of cloud-first,\
-    \ and after receiving an ambitious grant, the University Libraries looked to leverage\
-    \ AWS for our IIIF implementation while also exploring Continuous Integration\
-    \ / Continuous Delivery processes. Our aim has been to consider not just how code\
-    \ moves through our process, but how people engage in both process and code.</p><p>AWS\
-    \ rapidly iterates on their services. In aligning with their services, we see\
-    \ opportunities to both leapfrog our technology stack and an opportunity to define\
-    \ clearer boundaries of concern. Gone is our thinking of making a monolithic application,\
-    \ and in its place are dialogues, documentation, diagrams, and discrete areas\
-    \ of software responsibility.</p><p>We\u2019ll talk about the IIIF Manifest Pipeline\
-    \ that we\u2019re building, what we\u2019ve learned (and how we\u2019re sharing\
-    \ that), where we saw advantages, our coping mechanisms for change, how we continued\
-    \ to shift our development culture to accommodate cloud-first initiatives and\
-    \ a CI/CD pipeline, and how we work towards an infrastructure as code environment.</p>"
-  authors:
-  - company: University of Notre Dame
-    location: United States
-    name: Jeremy Friesen
-  - company: University of Notre Dame
-    location: United States
-    name: Jon Hartzler
-  contact:
-    email: jfriesen@nd.edu
-    name: Jeremy Friesen
-  flagged: false
-  id: 70
-  keywords:
-  - AWS
-  - Continuous Integration
-  - Continuous Delivery
-  - Lambda
-  - Step Functions
-  - Fargate
-  title: Continuous Delivery of IIIF in AWS via Lambdas and Step Functions
-  topics:
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Presentation
 - abstract: <p>The capabilities of IIIF to crop images, annotate parts, and link to
     text and metadata resources have the potential to turn this framework into a major

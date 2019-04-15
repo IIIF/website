@@ -1,0 +1,85 @@
+<tr>
+{% if include.time %}
+    {% if include.rowspan %}
+        <td rowspan="{{include.rowspan }}">
+    {% else %}
+        <td>
+    {% endif %}
+    {{ include.time }}</td>
+{% endif %}
+{% if include.title %}
+    {% if include.span %}
+        <td colspan="{{include.span}}">{{ include.title}}</td>
+    {% else %}
+        {% if include.authors %}
+            <td>{{ include.title}}</td>
+            <td>{{ include.authors}}</td>
+        {% else %}
+            <td colspan="2">{{ include.title}}</td>
+        {% endif %}
+    {% endif %}
+{% endif %}
+{% if include.paper %}
+    {% assign submission_list = site.data.2019-conference-submissions | where: "id",include.paper %}
+    {% assign submission = submission_list[0] %}
+    {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2019/goettingen/program/{{submission.id }}/{% endcapture %}
+    <td>{% if submission.flagged %}(DRAFT) {% endif %}<a href="{{ dest_url }}">{{ submission.title}}</a></td>
+    <td>{% for author in submission.authors %}
+            {{ author.name }}{% if forloop.last == false %}, {% endif %}
+    {% endfor %}</td>
+    {% if include.fill %}
+        <td colspan="{{ include.fill }}">&nbsp;</td>
+    {% endif %}
+{% endif %}
+{% if include.track1Single or include.track2Single  or include.track3Single %}
+        {% assign track1=include.track1Single  %}
+        {% assign track2=include.track2Single  %}
+        {% assign track3=include.track3Single  %}
+        {% assign track4=include.track4Single  %}
+
+        {% include conference_multirow.html paper=track1 position=11 rowSpan=1 %}
+        {% include conference_multirow.html paper=track2 position=21 rowSpan=1 %}
+        {% include conference_multirow.html paper=track3 position=31 rowSpan=1 %}
+        {% include conference_multirow.html paper=track4 position=41 rowSpan=1 %}
+{% endif %}
+{% if include.track1 or include.track2  or include.track3 %}
+        {% assign track1=include.track1 | split: ','  %}
+        {% assign track11 = track1[0] | plus: 0 %}
+        {% assign track12 = track1[1] | plus: 0 %}
+        {% assign track13 = track1[2] | plus: 0 %}
+        {% assign track2=include.track2 | split: ','  %}
+        {% assign track21 = track2[0] | plus: 0 %}
+        {% assign track22 = track2[1] | plus: 0 %}
+        {% assign track23 = track2[2] | plus: 0 %}
+        {% assign track3=include.track3 | split: ','  %}
+        {% assign track31 = track3[0] | plus: 0 %}
+        {% assign track32 = track3[1] | plus: 0 %}
+        {% assign track33 = track3[2] | plus: 0 %}
+
+        {% assign track4=include.track4 | split: ','  %}
+        {% assign track41 = track4[0] | plus: 0 %}
+        {% assign track42 = track4[1] | plus: 0 %}
+        {% assign track43 = track4[2] | plus: 0 %}
+
+
+        {% include conference_multirow.html paper=track11 position=11 %}
+        {% include conference_multirow.html paper=track21 position=21 %}
+        {% include conference_multirow.html paper=track31 position=31 %}
+        {% include conference_multirow.html paper=track41 position=41 %}
+            </tr>
+            <tr>
+        {% include conference_multirow.html paper=track12 position=12 %}
+        {% include conference_multirow.html paper=track22 position=22 %}
+        {% include conference_multirow.html paper=track32 position=32 %}
+        {% include conference_multirow.html paper=track42 position=42 %}
+        {% if track13 == 0 and  track23 == 0 and track33 == 0 %}
+        {% else %}
+                </tr>
+                <tr>
+            {% include conference_multirow.html paper=track13 position=13 %}
+            {% include conference_multirow.html paper=track23 position=23 %}
+            {% include conference_multirow.html paper=track33 position=33 %}
+            {% include conference_multirow.html paper=track43 position=43 %}
+        {% endif %}
+{% endif %}
+</tr>

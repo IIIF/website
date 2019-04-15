@@ -16,6 +16,12 @@ page_gen:
     dir: 'event/2018/washington/program'
     extension: 'html'
     filter_condition: "record['decision'] == 'ACCEPT'"
+  - index_files: false
+    data: '2019-conference-submissions'
+    template: '2019_submission'
+    name: 'id'
+    dir: 'event/2019/goettingen/program'
+    extension: 'html'
 
 kramdown:
   input: GFM
