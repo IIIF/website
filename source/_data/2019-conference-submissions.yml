@@ -252,11 +252,18 @@
   - Implementations of IIIF outside of North America/Europe
   type: Panel
 - abstract: <p>The presentation will start with the current status of the work at
-    Europeana in discovery of IIIF cultural heritage resources, with the particular
-    focus of metadata aggregation. It will cover the ongoing research activities and
-    the operational procedures for ingestion of IIIF resources. The presentation will
-    follow with the plans of further activities, also in relation to the IIIF Discovery
-    Technical Specification Group.</p>
+    Europeana with respect discovery of IIIF cultural heritage resources. We will
+    present how IIIF resources may be provided by Europeana data providers in the
+    EDM metadata delivered to Europeana. </p><p>IIIF is also recognized by Europeana
+    as a technology with much potential to innovate the process of aggregation of
+    metadata within the Europeana network, and reducing the operational costs of metadata
+    aggregation for all partners. Europeana has already has collections in its dataset
+    that were aggregated via several of the possible IIIF methods. Europeana is interested
+    in the IIIF Change Discovery API for establishing a standard metadata aggregation
+    method based on IIIF, is active in its specification and in the work being carried
+    out in the IIIF Discovery Technical Working Group </p><p>We will conclude by presenting
+    future plans, for example our investigation of the potential uses, for Europeana's
+    services, of the recent IIIF progress at Wikidata. </p>
   authors:
   - company: INESC-ID
     link: https://www.researchgate.net/profile/Nuno_Freire
@@ -1844,7 +1851,7 @@
     \ overall goal is to develop as uniform a way as possible for specimen data and\
     \ images to be published by participating institutions. This will enable the development\
     \ of virtual thematic research portals that run across physical institutions.\
-    \ We hope demonstrate this by the end of the project.</p>"
+    \ We hope to demonstrate this in action by the end of the project.</p>"
   authors:
   - company: Royal Botanic Garden Edinburgh
     link: https://www.rbge.org.uk/
@@ -2793,43 +2800,6 @@
     \ with the DAMS"
   topics:
   - Interoperability in IIIF contexts
-  type: Presentation
-- abstract: "<p>Building on the University of Notre Dame\u2019s mandate of cloud-first,\
-    \ and after receiving an ambitious grant, the University Libraries looked to leverage\
-    \ AWS for our IIIF implementation while also exploring Continuous Integration\
-    \ / Continuous Delivery processes. Our aim has been to consider not just how code\
-    \ moves through our process, but how people engage in both process and code.</p><p>AWS\
-    \ rapidly iterates on their services. In aligning with their services, we see\
-    \ opportunities to both leapfrog our technology stack and an opportunity to define\
-    \ clearer boundaries of concern. Gone is our thinking of making a monolithic application,\
-    \ and in its place are dialogues, documentation, diagrams, and discrete areas\
-    \ of software responsibility.</p><p>We\u2019ll talk about the IIIF Manifest Pipeline\
-    \ that we\u2019re building, what we\u2019ve learned (and how we\u2019re sharing\
-    \ that), where we saw advantages, our coping mechanisms for change, how we continued\
-    \ to shift our development culture to accommodate cloud-first initiatives and\
-    \ a CI/CD pipeline, and how we work towards an infrastructure as code environment.</p>"
-  authors:
-  - company: University of Notre Dame
-    location: United States
-    name: Jeremy Friesen
-  - company: University of Notre Dame
-    location: United States
-    name: Jon Hartzler
-  contact:
-    email: jfriesen@nd.edu
-    name: Jeremy Friesen
-  flagged: false
-  id: 70
-  keywords:
-  - AWS
-  - Continuous Integration
-  - Continuous Delivery
-  - Lambda
-  - Step Functions
-  - Fargate
-  title: Continuous Delivery of IIIF in AWS via Lambdas and Step Functions
-  topics:
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Presentation
 - abstract: <p>The capabilities of IIIF to crop images, annotate parts, and link to
     text and metadata resources have the potential to turn this framework into a major

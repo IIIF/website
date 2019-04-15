@@ -7,6 +7,9 @@ page: friday
 
 This is the agenda for Friday the 28th of June, the last day of the conference. The conference finishes at lunch time on Friday. To register for the conference please see the [main registration page][washington-registration].
 
+{: class="alert"} 
+Please note this a draft program and locations and times of presentations may change.
+
 <table class="api-table">
   <thead>
     <tr>
@@ -26,7 +29,7 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='46,74,22' track2='3,36,70' track3='42,,'  track4=',,,' %}
+        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='46,74,22' track2='39, 3,36' track3='42,,'  track4=',,,' %}
 
         {% include conference_slot_row.html span='6' time='10:30am - 11:00pm' title='<b>Break</b>' %}
 

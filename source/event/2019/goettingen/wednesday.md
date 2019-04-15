@@ -7,6 +7,9 @@ page: wednesday
 
 This is the agenda for Wednesday the 26th of June, the first full day of the conference. 
 
+{: class="alert"} 
+Please note this a draft program and locations and times of presentations may change.
+
 <table class="api-table">
   <thead>
     <tr>

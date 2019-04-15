@@ -7,6 +7,9 @@ page: thursday
 
 This is the agenda for Thursday the 27th of June, the second full day of the conference and is split into three parallel sessions. To register for the conference please see the [main registration page][washington-registration].
 
+{: class="alert"} 
+Please note this a draft program and locations and times of presentations may change.
+
 <table class="api-table">
   <thead>
     <tr>
@@ -37,11 +40,11 @@ This is the agenda for Thursday the 27th of June, the second full day of the con
 
         {% include conference_slot_row.html span='8' time='12:30pm - 1:30pm' title='<b>Lunch</b>' %}
 
-        {% include conference_slot_row.html rowspan='3' time='1:30pm - 3:00pm' track1='11,16,78' track2='20,57,69' track3='73,34,59' track4='-1,-1,-1'%}
+        {% include conference_slot_row.html rowspan='3' time='1:30pm - 3:00pm' track1='11,16,78' track2='59,57,69' track3='73,34,20' track4='-1,-1,-1'%}
 
         {% include conference_slot_row.html span='8' time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='29,48,10' track2='71,39,8' track3='60,68,-1' track4='-1,-1,-1' %}
+        {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='29,48,10' track2='71,8, -1' track3='60,68,-1' track4='-1,-1,-1' %}
 
   </tbody>
 </table>
