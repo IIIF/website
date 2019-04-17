@@ -9,7 +9,7 @@ As the IIIF community grows the process of developing and maintaining the specif
 
 The Technical Review Committee (TRC) will enable the timely review of technical proposals coming from the existing, open, [community-based process][groups-framework] while also supporting broad community input. Ratification of specification text will occur in a structured, ongoing way that allows remote and asynchronous participation to promote the widest diversity of review possible. The TRC will also review proposals to create new Technical Specification Groups (TSGs). The TRC will rely upon engaged consortium member representatives and community members to either attend regular calls, or provide input online, in order to make decisions. All issues slated for discussion will be openly announced ahead of TRC review, and all decisions will also be openly documented.
 
-The TRC will be a stepping stone on the path to increased technical engagement -- from the general community to TSG to TRC to Editorial Board. Representation from consortium members provides an additional incentive for consortium membership.
+The TRC will be a stepping stone on the path to increased technical engagement -- from the general community to TSG to TRC to [Editorial Board][editors]. Representation from consortium members provides an additional incentive for consortium membership.
 
 ## Scope and Purpose
 
@@ -109,6 +109,7 @@ Community members and consortium members representing IIIF-C Associate members w
 [groups-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/
 [w3c-good-standing]: https://www.w3.org/2014/Process-20140801/#good-standing
 [tsg-channels]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/#communication-channels
-[editors-process]: {{ page.webprefix }}/api/annex/notes/editors/#community-process
+[editors]: {{ site.url }}{{ site.baseurl }}/community/editors/
+[editors-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/
 
 {% include acronyms.md %}

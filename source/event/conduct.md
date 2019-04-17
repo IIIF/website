@@ -153,5 +153,5 @@ The IIIF Code of Conduct has been modeled on the Code of Conduct policies from [
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
 [volunteer-form]: https://goo.gl/forms/KCrb3u86W0e4LhC23
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[ed-process]: {{ page.webprefix }}/api/annex/notes/editors/
+[ed-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/
 [design-patterns]: {{ page.webprefix }}/api/annex/notes/design_patterns/

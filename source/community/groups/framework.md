@@ -144,10 +144,7 @@ If you have any questions about this document or any of the community groups or 
 [calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [iiif-drive]: https://drive.google.com/drive/folders/0B9EeoRu2zWeraXpHNXpnZThUZVE
 [iiif-slack]: http://iiif.slack.com
-[editors]: {{ page.webprefix }}/api/annex/notes/editors/#contents
+[editors]: {{ site.url }}{{ site.baseurl }}/community/editors/ "IIIF Editorial Committee"
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-
-
-
 
 {% include acronyms.md %}

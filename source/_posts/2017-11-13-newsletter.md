@@ -335,7 +335,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [stem-poll]: http://doodle.com/poll/89db7nik6edydksk
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
 [mcn]: http://conference.mcn.edu/2017/conference_schedule.cfm
-[community-process]: {{ page.webprefix }}/api/annex/notes/editors/#community-process
+[community-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/#community-process "IIIF Editorial Process"
 [iiif-translations]: https://drive.google.com/drive/folders/0B8biwZuDijgeT1I5bG9BTHJySk0
 [iiif-faq]:{{ site.url }}{{ site.baseurl }}/community/faq/
 [discovery-group]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/
