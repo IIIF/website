@@ -117,7 +117,7 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
 [showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
-[goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
+[goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-hotels/
 [wednesday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/wednesday/
 [thursday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/thursday/
 [friday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/friday/
