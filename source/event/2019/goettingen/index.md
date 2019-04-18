@@ -9,13 +9,13 @@ Registration available for [Showcase and Conference][eventbrite].
 <hr/>
 <div class="row" markdown="0">
 <div class="column left" style="width:15%">
-<img width="100%" src="{{ site.url }}{{ site.baseurl }}/img/IIIF-logo-with-text-500w.png"/>
+<img style="width: 100%" alt="IIIF Logo" src="{{ site.url }}{{ site.baseurl }}/img/IIIF-logo-with-text-500w.png"/>
 </div>
 <div class="column center" style="width:35%">
 &nbsp;
 </div>
 <div class="column right" style="width:50%">
-<a href="https://www.sub.uni-goettingen.de/en" style="border-bottom: none"><img width="100%" src="{{ site.url }}{{ site.baseurl }}/img/event/SUB_right_horizontal.png"/></a>
+<a href="https://www.sub.uni-goettingen.de/en" style="border-bottom: none"><img style="width:100%" alt="University of Göttingen logo" src="{{ site.url }}{{ site.baseurl }}/img/event/SUB_right_horizontal.png"/></a>
 </div>
 </div>
 <hr/>
@@ -117,7 +117,6 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
 [showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
-[showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
 [wednesday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/wednesday/
 [thursday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/thursday/
