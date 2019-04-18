@@ -6,18 +6,38 @@ tags: [event ]
 {: class="alert"}
 Registration available for [Showcase and Conference][eventbrite].
 
+<hr/>
+<div class="row" markdown="0">
+<div class="column left" style="width:15%">
+<img width="100%" src="{{ site.url }}{{ site.baseurl }}/img/IIIF-logo-with-text-500w.png"/>
+</div>
+<div class="column center" style="width:35%">
+&nbsp;
+</div>
+<div class="column right" style="width:50%">
+<a href="https://www.sub.uni-goettingen.de/en" style="border-bottom: none"><img width="100%" src="{{ site.url }}{{ site.baseurl }}/img/event/SUB_right_horizontal.png"/></a>
+</div>
+</div>
+<hr/>
+
 ### Overview
 
 The 2019 International Image Interoperability Framework ([IIIF][home-page]) Conference will be held in the week of the 24th  to 28th of June in Göttingen, hosted by the University of Göttingen / Göttingen State and University Library. The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
 All event proceedings will be in English unless otherwise noted.
 
-### Call for Sponsors
+### Schedule
 
-We are offering sponsorship for the 2019 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>. 
+Draft schedule below, please note this is subject to change.
+
+* [Monday 24th of June - Showcase][showcase]
+* [Tuesday 25th of June - Workshops][workshops]
+* [Wednesday 26th of June - Plenary session including lightning talks][wednesday]
+* [Thursday 27th][thursday] and [Friday 28th of June][friday] - Parallel sessions
+
+We will wrap up at 12:30pm on Friday the 28th of June. 
 
 ### Logistics
-
 
 * [Registration available on Eventbrite.][eventbrite]
 * Dates: 24th to 28th of June 2019.
@@ -40,17 +60,6 @@ In order to foster a conference environment that better reflects the diversity o
 - Flights: The local planning team recommends that attendees traveling by air fly to [Frankfurt International (FRA)](https://www.airport-fra.com/). From there, [take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen (one direct connection every hour; takes about 1hr45mins). If possible, avoid flying into Hannover (HAJ), since the train connection from there will be compromised by railroad construction starting in June. See below for train advice from Frankfurt airport.
 - Domestic travel: [Take a train](https://www.bahn.com/en/view/index.shtml) to Göttingen. Please note, [express trains with Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) from Frankfurt(M)Flughafen (Frankfurt Airport) to Göttingen are less expensive when booked in advance (called “Savings fares” from 29,90 EUR), but are valid only for the connection you choose when buying; standard fares are much more flexible (called "Flexpreis", from 69 EUR) and allow you to take any train.
 
-### Schedule
-
-Outline schedule below.
-
-* [Monday 24th of June - Showcase][showcase]
-* [Tuesday 25th of June - Workshops][workshops]
-* Wednesday 26th of June - Plenary session including lightning talks
-* Thursday 27th and Friday 28th of June - Parallel sessions
-
-We will wrap up around lunch time on the 28th of June. 
-
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
 ## Sponsors
@@ -69,6 +78,10 @@ Both the IIIF Göttingen Conference and the IIIF Showcase are generously support
 <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a>
 <a href="https://www.gallerysystems.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
 
+If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>. 
+
+<br/>
+<hr/>
 
 <div class="container" markdown="0">
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
@@ -102,9 +115,13 @@ Both the IIIF Göttingen Conference and the IIIF Showcase are generously support
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
+[showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
 [showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
 [goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen-hotels/
+[wednesday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/wednesday/
+[thursday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/thursday/
+[friday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/friday/
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
 [scholarship]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/annual_conference_travel_scholarship/
 [phaseone]: https://www.phaseone.com/
