@@ -20,7 +20,7 @@ task :check_html do
   HTMLProofer.check_directory('./_site', check_html: true,
                                          cache: { timeframe: '1w' },
                                          http_status_ignore: [0, 301, 302, 429],
-                                         url_ignore: ['https://vimeo.com/229253706?ref=tw-share', 'http://ksn.io','http://www.irht.cnrs.fr', 'https://www.linkedin.com/in/colin-greenstreet-7434b9/','http://www.darelkotob.gov.eg/index.html','https://natlib.govt.nz/','https://www.ihg.com/holidayinn/hotels/us/en/washington/wassm/hoteldetails','http://www.bnjm.cu/','http://projectmirador.org']).run
+                                         url_ignore: ['https://vimeo.com/229253706?ref=tw-share', 'http://ksn.io','http://www.irht.cnrs.fr', 'https://www.linkedin.com/in/colin-greenstreet-7434b9/','http://www.darelkotob.gov.eg/index.html','https://natlib.govt.nz/','https://www.ihg.com/holidayinn/hotels/us/en/washington/wassm/hoteldetails','http://www.bnjm.cu/','http://projectmirador.org','http://projectmirador.org/']).run
 end
 
 desc 'Run the site locally on localhost:4000'
