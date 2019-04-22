@@ -77,6 +77,7 @@ Both the IIIF Göttingen Conference and the IIIF Showcase are generously support
 **Bronze sponsors**  <br>
 <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a>
 <a href="https://www.gallerysystems.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
+<a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a>
 
 If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>. 
 
