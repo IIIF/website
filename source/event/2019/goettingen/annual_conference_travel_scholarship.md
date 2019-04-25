@@ -58,8 +58,6 @@ If you have any questions, please contact <admin@iiif.io>
 {% endcapture %}
 
 {% include section.html class="step quick-start" content=content %}
-{% capture content %}
-TKTK
-{% endcapture %}
+
 
 [conference]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
