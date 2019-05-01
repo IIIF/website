@@ -59,198 +59,6 @@
   topics:
   - Audio/Visual use cases for IIIF
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-- abstract: <p>How to make biography interesting and captivating while involving students
-    into creating presentations using primary data from Europeana. In this case study
-    we work on the biography of Charles Babbage but the methodology applies to any
-    important person in European history. At first we look at the wikipedia article
-    about Babbage, read it and mark what is important. Decide what to include in the
-    presentation. They make a frame of the presentation. Each team will look at different
-    credible sites which are given above and include facts in their presentations.
-    Then they search the Europeana and use pictures and other material they find.
-    They only use material from the Europeana. All teams share their products using
-    Padlet, so in the end all the teams will have access to all the material. Each
-    team presents and discuss as a class their presentations. The class connects to
-    kahoot and answer as teams of 2 the questions the teacher has prepared for the
-    material presented.</p>
-  authors:
-  - company: PGCE trainer, North Aegean, Lesvos island
-    location: Greece
-    name: Timoleon Theofanellis
-  contact:
-    email: timtheof@gmail.com
-    name: Timoleon Theofanellis
-  flagged: true
-  id: 10
-  title: Learning about Charles Babbage or any other European scientist
-  topics:
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  type: Presentation
-- abstract: "<p>The article finds out the divergence of knowledge and information\
-    \ management standards in a critical-analytical approach. This kind of divergence\
-    \ in developing and using data entities management standards between the World\
-    \ Wide Web consortium and the context of Web search tools with cultural heritage\
-    \ context\u2019s standards will cause a pluralism that can\u2019t solve Web current\
-    \ problems in data controlling and processing, specially, when we are encountering\
-    \ some challenges like big data phenomenon. As two strategic and divergent challenges,\
-    \ linked data method and schema.org are compared and evaluated with the knowledge\
-    \ and information management standards and the reference conceptual patterns developed\
-    \ in cultural heritage context from functionality aspect. The reasons in cultural\
-    \ heritage context making the divergence, with emphasizing Web environment\u2019\
-    s capabilities and the features of data entities available on the web, are analyzed.\
-    \ It seems that the current pluralism approach in designing and constructing the\
-    \ tools and methods for creating the Semantic Web, without regarding the vital\
-    \ processes like the authority control, the appropriate representation of relationship\
-    \ patterns for extracting knowledge and semantics of data contexts, metadata interoperability,\
-    \ the imperfect understanding of Web technologies\u2019 characteristics, and describing\
-    \ special data entities available on the Web, such as commercial products, social\
-    \ networks\u2019 comments, posts, etc., on top of that, not developing of the\
-    \ kinds of standards having complementary role for other standards, like content\
-    \ standards for metadata standards, will repeat previous unsuccessful experiences\
-    \ in Web standards development. Finally, the increase of the interaction and synergy\
-    \ of cultural heritage context\u2019s standards specialists with the standards\
-    \ developers of Web consortium and Web search tools, adapting web standards to\
-    \ conceptual reference models in deferent contexts for comprehensive representation\
-    \ of data contexts, designing and doing some research for improving the standards\
-    \ interoperability, and other strategies to reach convergence will be recommended.</p>"
-  authors:
-  - company: Allameh Tabataba'i University
-    link: http://www.smtaheri.ir
-    location: Iran
-    name: Seyed Mahdi Taheri
-  contact:
-    email: taherismster@gmail.com
-    name: Seyed Mahdi Taheri
-  flagged: true
-  id: 16
-  title: 'Divergence of Knowledge and Information Management Standards: A Pluralism
-    Approach'
-  topics:
-  - Interoperability in IIIF contexts
-  type: Presentation
-- abstract: "<p>With the acceleration of the digital revolution, organisations want\
-    \ to keep\_getting closer to their audience by improving their online experience.\
-    \ The need for robust, standardised and user-friendly data management tools is\
-    \ getting critical to\_maintain data\_and make it accessible for users through\
-    \ in-house and constantly evolving third-content applications.</p><p>We have developed\
-    \ a new tool with the goal of offering an elegant solution for GLAM institutions\
-    \ to\_upgrade their digital collections with modern data standards, and to display\
-    \ them with glorious\_visualisation features\_thanks to all the IIIF goodness.\
-    \ Our solution also enables collections to be\_compliant with the Europeana platform,\
-    \ which ensures enhanced search functionalities to reach your audience even further.</p><p>The\
-    \ solution enables data managers to upload a dataset (XML, CSV, RDF/XML), fetch\
-    \ the original pictures, and use its streamlined data workflow to transform the\
-    \ data into a IIIF collection, with a dedicated public page.</p><p>The tool also\
-    \ offers an automated export feature into EDM/XML, giving collections the opportunity\
-    \ to be\_compliant with the Europeana platform, which is a performant gateway\
-    \ to reach their audience even further.</p><p>We plan to launch this solution\
-    \ within the next months and we are now in contact with pilot institutions for\
-    \ the last testing/refining phase. By May 2019 we plan to have made it official\
-    \ and start to promote it more effectively.</p>"
-  authors:
-  - company: The name of the tool is still not fixed yet ...
-    location: Netherlands
-    name: Pierre-Edouard Barrault
-  contact:
-    email: pe.barrault@gmail.com
-    name: Pierre-Edouard Barrault
-  flagged: true
-  id: 78
-  keywords:
-  - Design thinking
-  - data-driven design
-  - web app
-  - Europeana
-  - LOD
-  - user experience
-  title: Designing a user friendly IIIF based data aggregatio platform
-  topics:
-  - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  - Interoperability in IIIF contexts
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Presentation
-- abstract: "<p>The need for interoperable platforms to share cultural heritage information\
-    \ is an important aspect in the digital realm, especially for cultural heritage\
-    \ institutions that are federating collections and reuniting them in the digital\
-    \ realm. The Council on Library and Information Resources (CLIR) has long promoted\
-    \ interoperability and the need for sustainable open source data practices for\
-    \ digital initiatives.  CLIR is an independent, nonprofit organization that forges\
-    \ strategies to enhance research, teaching, and learning environments in collaboration\
-    \ with libraries, cultural institutions, and communities of higher learning. With\
-    \ many initiatives becoming more globally focused, the need for linked open usable\
-    \ data (LOUD) becomes critical for true collaboration and cooperation. The mission\
-    \ of CLIR is to be \u201Cexplicit in wanting to influence the collective behaviors,\
-    \ politics, and technological advancements that can contribute to a more sustainable\
-    \ intellectual environment. Projects such as the Digitization of Hidden Collections;\
-    \ the postdoctoral fellowships in data curation, which now encompass more than\
-    \ 20 academic disciplines; and the Digital Library of the Middle East all require\
-    \ years of execution in order to help reshape and invigorate our inherited academic\
-    \ milieu\u201D (Charles Henry, President, CLIR).</p><p>The audience for library,\
-    \ archive and museum collections is increasingly diverse, with researchers running\
-    \ the gamut from public, academic, federal and increasingly,  collaborative research\
-    \ groups. One of the recent CLIR international ventures is the Digital Library\
-    \ of the Middle East (DLME), an initiative to federate and connect dispersed collections\
-    \ to make these available for relocated populations from conflict zones, and allow\
-    \ for the digital access and connection of these collections in institutions around\
-    \ the world. Pangia, an international collaborative effort to create a global\
-    \ digital library, is next on CLIR\u2019s horizon.</p><p>Part of the new focus\
-    \ for these and other initiatives is the need for interoperable and open source\
-    \ tools for reuse of data and through these tools, re-engaging users with new\
-    \ ways of using data \u2013 from economic impact to integrated humanities and\
-    \ heritage science data. CLIR has worked not only to create platforms for global\
-    \ initiatives, but also to develop the workforce to we need to make these aspirations\
-    \ into realities, through its CLIR/Mellon dissertation and postdoctoral fellows,\
-    \ its Leading Change Institute (a partnership with EDUCAUSE) and its Postdoctoral\
-    \ Fellows Program that is dedicated to digital curation.</p><p>Research data created\
-    \ from collections and needed for preserving these collections is inherently multi-disciplinary,\
-    \ drawing colleagues from a diverse range of fields \u2013 history, literature,\
-    \ humanities, chemistry, physics, material science, engineering, and archeology,\
-    \ to name a few. The need for authoritative linked open data (LOD) is critical\
-    \ to enable efficient collaboration and accurate sharing of research data between\
-    \ aligned fields. Currently a Data Visualization Project Initiative (DVP) has\
-    \ created a cloud-based integration of scientific data analyses linked to geo-located\
-    \ data on a visual rendering of the heritage object. This initiative uses the\
-    \ International Image Interoperability Framework (IIIF), expanding the framework\
-    \ and open access through the Mirador viewer to include scientific data from a\
-    \ range of disciplines. One of the challenges with including the scientific and\
-    \ humanities data is linking to authoritative sources for instrumentation, methods,\
-    \ and scientific definitions, terminology and vocabulary within the IIIF framework.\
-    \ The initiative is also focused on creating datasets that are reusable and active,\
-    \ rather than static data created for one purpose.</p>"
-  authors:
-  - company: Library of Congress / CLIR
-    link: http://www.loc.gov/preservation/scientists/
-    location: USA
-    name: Fenella G France
-  - company: CLIR
-    link: https://www.clir.org/
-    location: USA
-    name: Wayne Graham
-  - company: CLIR
-    link: https://www.clir.org/
-    location: USA
-    name: Charles Henry
-  - company: CLIR
-    link: https://www.clir.org/
-    location: USA
-    name: Elliott Shore
-  contact:
-    email: frfr@loc.gov
-    name: Fenella G France
-  flagged: true
-  id: 30
-  keywords:
-  - interoperable
-  - library
-  - LOD
-  - collaborative
-  title: 'Interoperable Platforms and CLIR Initiatives: A Global Perspective'
-  topics:
-  - Annotation, including full-text or academic use cases
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  - Interoperability in IIIF contexts
-  - Implementations of IIIF outside of North America/Europe
-  type: Panel
 - abstract: <p>The presentation will start with the current status of the work at
     Europeana with respect discovery of IIIF cultural heritage resources. We will
     present how IIIF resources may be provided by Europeana data providers in the
@@ -408,38 +216,6 @@
   - Discovering IIIF resources
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Lightning talk
-- abstract: <p>Indiana University, in collaboration with Digirati, is using IIIF specs
-    in its implementation of a newer version of the now retired Variations Audio Timeliner,
-    an audio annotation and analysis tool for creating and labeling bubble diagrams.
-    These diagrams, called Timelines, can be used to navigate music or other audio
-    for detailed study.</p><p>The bubbles correspond to musical segments and serve
-    as visual cues that help the quick identification of elements that recur or relate
-    in the large-scale formal structure of a musical piece. Music instructors can
-    provide their analyses to students, helping them develop critical listening skills.
-    Students can also interact with the tool and create their own timeline.</p><p>The
-    new Timeliner is a different type of IIIF client given its music teaching and
-    learning use case. IIIF Presentation API v.3, which incorporated support for A/V
-    content, is well suited for the representation of the Timeliner annotations. </p><p>At
-    Indiana University, the audio content is stored in the Avalon Media System, which
-    also provides the discovery and access to the content. The integration of Avalon
-    and the Timeliner is facilitated by the IIIF Presentation v3 and Auth v1 APIs.
-    For Auth, we implemented the Probe service suggested in https://github.com/IIIF/api/issues/1290.
-    </p><p>This presentation will include a demo of the tool.</p>
-  authors:
-  - company: Indiana University
-    link: https://www.indiana.edu/
-    location: USA
-    name: Maria Whitaker
-  contact:
-    email: mcwhitak@iu.edu
-    name: Maria Whitaker
-  flagged: true
-  id: 28
-  title: 'Timeliner: a Music teaching and learning use case for IIIF'
-  topics:
-  - Annotation, including full-text or academic use cases
-  - Audio/Visual use cases for IIIF
-  type: Lightning talk
 - abstract: "<p>Cambridge Digital Library would like to chair a panel discussion.</p><p>Topic:\
     \ </p><p>Building local and international communities around IIIF</p><p>Technique:</p><p>We\
     \ have found that conference attendees value open and honest discussion, particularly\
@@ -517,36 +293,129 @@
   topics:
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Lightning talk
-- abstract: <p>OCLC Research is participating in the IIIF Discovery Working Group's
-    on-going effort to develop a "Change Discovery API".  The Change Discovery API
-    will provide the information needed to discover and subsequently make use of IIIF
-    resources.  To exercise the developing API, OCLC Research deployed an experimental
-    "Change Discovery Service" in December 2018, which enabled API access to 13 million
-    CONTENTdm IIIF resources and included a demonstration user interface to test the
-    utility of indexes built from the API-accessible IIIF resource data.  This experimental
-    work has confirmed the benefits of standardization around the IIIF Change Discovery
-    API.  It has also highlighted the metadata analysis and synthesis challenges of
-    working with heterogeneous IIIF resource descriptions in a large aggregation,
-    while testing potential search-and-retrieval remedies. This discussion will summarize
-    OCLC Research's development efforts and report our findings from this early experimental
-    work.</p>
+- abstract: "<p>The need for interoperable platforms to share cultural heritage information\
+    \ is an important aspect in the digital realm, especially for cultural heritage\
+    \ institutions that are federating collections and reuniting them in the digital\
+    \ realm. The Council on Library and Information Resources (CLIR) has long promoted\
+    \ interoperability and the need for sustainable open source data practices for\
+    \ digital initiatives.  CLIR is an independent, nonprofit organization that forges\
+    \ strategies to enhance research, teaching, and learning environments in collaboration\
+    \ with libraries, cultural institutions, and communities of higher learning. With\
+    \ many initiatives becoming more globally focused, the need for linked open usable\
+    \ data (LOUD) becomes critical for true collaboration and cooperation. The mission\
+    \ of CLIR is to be \u201Cexplicit in wanting to influence the collective behaviors,\
+    \ politics, and technological advancements that can contribute to a more sustainable\
+    \ intellectual environment. Projects such as the Digitization of Hidden Collections;\
+    \ the postdoctoral fellowships in data curation, which now encompass more than\
+    \ 20 academic disciplines; and the Digital Library of the Middle East all require\
+    \ years of execution in order to help reshape and invigorate our inherited academic\
+    \ milieu\u201D (Charles Henry, President, CLIR).</p><p>The audience for library,\
+    \ archive and museum collections is increasingly diverse, with researchers running\
+    \ the gamut from public, academic, federal and increasingly,  collaborative research\
+    \ groups. One of the recent CLIR international ventures is the Digital Library\
+    \ of the Middle East (DLME), an initiative to federate and connect dispersed collections\
+    \ to make these available for relocated populations from conflict zones, and allow\
+    \ for the digital access and connection of these collections in institutions around\
+    \ the world. Pangia, an international collaborative effort to create a global\
+    \ digital library, is next on CLIR\u2019s horizon.</p><p>Part of the new focus\
+    \ for these and other initiatives is the need for interoperable and open source\
+    \ tools for reuse of data and through these tools, re-engaging users with new\
+    \ ways of using data \u2013 from economic impact to integrated humanities and\
+    \ heritage science data. CLIR has worked not only to create platforms for global\
+    \ initiatives, but also to develop the workforce to we need to make these aspirations\
+    \ into realities, through its CLIR/Mellon dissertation and postdoctoral fellows,\
+    \ its Leading Change Institute (a partnership with EDUCAUSE) and its Postdoctoral\
+    \ Fellows Program that is dedicated to digital curation.</p><p>Research data created\
+    \ from collections and needed for preserving these collections is inherently multi-disciplinary,\
+    \ drawing colleagues from a diverse range of fields \u2013 history, literature,\
+    \ humanities, chemistry, physics, material science, engineering, and archeology,\
+    \ to name a few. The need for authoritative linked open data (LOD) is critical\
+    \ to enable efficient collaboration and accurate sharing of research data between\
+    \ aligned fields. Currently a Data Visualization Project Initiative (DVP) has\
+    \ created a cloud-based integration of scientific data analyses linked to geo-located\
+    \ data on a visual rendering of the heritage object. This initiative uses the\
+    \ International Image Interoperability Framework (IIIF), expanding the framework\
+    \ and open access through the Mirador viewer to include scientific data from a\
+    \ range of disciplines. One of the challenges with including the scientific and\
+    \ humanities data is linking to authoritative sources for instrumentation, methods,\
+    \ and scientific definitions, terminology and vocabulary within the IIIF framework.\
+    \ The initiative is also focused on creating datasets that are reusable and active,\
+    \ rather than static data created for one purpose.</p>"
   authors:
-  - company: OCLC
-    location: United States
-    name: Jeff Mixter
+  - company: Library of Congress / CLIR
+    link: http://www.loc.gov/preservation/scientists/
+    location: USA
+    name: Fenella G France
+  - company: CLIR
+    link: https://www.clir.org/
+    location: USA
+    name: Wayne Graham
+  - company: CLIR
+    link: https://www.clir.org/
+    location: USA
+    name: Charles Henry
+  - company: CLIR
+    link: https://www.clir.org/
+    location: USA
+    name: Elliott Shore
   contact:
-    email: mixterj@oclc.org
-    name: Jeff Mixter
-  flagged: false
-  id: 1
+    email: frfr@loc.gov
+    name: Fenella G France
+  flagged: true
+  id: 30
   keywords:
-  - Discovery API
-  - Metadata aggregation
-  - Metadata management
-  title: 'IIIF Change Discovery in Action: Findings from an OCLC Research experiment'
+  - interoperable
+  - library
+  - LOD
+  - collaborative
+  title: 'Interoperable Platforms and CLIR Initiatives: A Global Perspective'
   topics:
-  - Discovering IIIF resources
-  - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
+  - Annotation, including full-text or academic use cases
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  - Interoperability in IIIF contexts
+  - Implementations of IIIF outside of North America/Europe
+  type: Panel
+- abstract: "<p>The article finds out the divergence of knowledge and information\
+    \ management standards in a critical-analytical approach. This kind of divergence\
+    \ in developing and using data entities management standards between the World\
+    \ Wide Web consortium and the context of Web search tools with cultural heritage\
+    \ context\u2019s standards will cause a pluralism that can\u2019t solve Web current\
+    \ problems in data controlling and processing, specially, when we are encountering\
+    \ some challenges like big data phenomenon. As two strategic and divergent challenges,\
+    \ linked data method and schema.org are compared and evaluated with the knowledge\
+    \ and information management standards and the reference conceptual patterns developed\
+    \ in cultural heritage context from functionality aspect. The reasons in cultural\
+    \ heritage context making the divergence, with emphasizing Web environment\u2019\
+    s capabilities and the features of data entities available on the web, are analyzed.\
+    \ It seems that the current pluralism approach in designing and constructing the\
+    \ tools and methods for creating the Semantic Web, without regarding the vital\
+    \ processes like the authority control, the appropriate representation of relationship\
+    \ patterns for extracting knowledge and semantics of data contexts, metadata interoperability,\
+    \ the imperfect understanding of Web technologies\u2019 characteristics, and describing\
+    \ special data entities available on the Web, such as commercial products, social\
+    \ networks\u2019 comments, posts, etc., on top of that, not developing of the\
+    \ kinds of standards having complementary role for other standards, like content\
+    \ standards for metadata standards, will repeat previous unsuccessful experiences\
+    \ in Web standards development. Finally, the increase of the interaction and synergy\
+    \ of cultural heritage context\u2019s standards specialists with the standards\
+    \ developers of Web consortium and Web search tools, adapting web standards to\
+    \ conceptual reference models in deferent contexts for comprehensive representation\
+    \ of data contexts, designing and doing some research for improving the standards\
+    \ interoperability, and other strategies to reach convergence will be recommended.</p>"
+  authors:
+  - company: Allameh Tabataba'i University
+    link: http://www.smtaheri.ir
+    location: Iran
+    name: Seyed Mahdi Taheri
+  contact:
+    email: taherismster@gmail.com
+    name: Seyed Mahdi Taheri
+  flagged: true
+  id: 16
+  title: 'Divergence of Knowledge and Information Management Standards: A Pluralism
+    Approach'
+  topics:
+  - Interoperability in IIIF contexts
   type: Presentation
 - abstract: <p>This workshop will introduce Mirador 3 to end users. The workshop will
     focus on giving attendees hands on experience with using Mirador 3. Mirador 3,
@@ -594,6 +463,254 @@
   - Annotation, including full-text or academic use cases
   - Interoperability in IIIF contexts
   type: Workshop
+- abstract: "<p>With the acceleration of the digital revolution, organisations want\
+    \ to keep\_getting closer to their audience by improving their online experience.\
+    \ The need for robust, standardised and user-friendly data management tools is\
+    \ getting critical to\_maintain data\_and make it accessible for users through\
+    \ in-house and constantly evolving third-content applications.</p><p>We have developed\
+    \ a new tool with the goal of offering an elegant solution for GLAM institutions\
+    \ to\_upgrade their digital collections with modern data standards, and to display\
+    \ them with glorious\_visualisation features\_thanks to all the IIIF goodness.\
+    \ Our solution also enables collections to be\_compliant with the Europeana platform,\
+    \ which ensures enhanced search functionalities to reach your audience even further.</p><p>The\
+    \ solution enables data managers to upload a dataset (XML, CSV, RDF/XML), fetch\
+    \ the original pictures, and use its streamlined data workflow to transform the\
+    \ data into a IIIF collection, with a dedicated public page.</p><p>The tool also\
+    \ offers an automated export feature into EDM/XML, giving collections the opportunity\
+    \ to be\_compliant with the Europeana platform, which is a performant gateway\
+    \ to reach their audience even further.</p><p>We plan to launch this solution\
+    \ within the next months and we are now in contact with pilot institutions for\
+    \ the last testing/refining phase. By May 2019 we plan to have made it official\
+    \ and start to promote it more effectively.</p>"
+  authors:
+  - company: The Muz Platform
+    link: https://muzz.app
+    location: Netherlands
+    name: Pierre-Edouard Barrault
+  contact:
+    email: pe.barrault@gmail.com
+    name: Pierre-Edouard Barrault
+  flagged: false
+  id: 78
+  keywords:
+  - Design thinking
+  - data-driven design
+  - web app
+  - Europeana
+  - LOD
+  - user experience
+  title: Designing a user friendly IIIF based data aggregation platform
+  topics:
+  - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  - Interoperability in IIIF contexts
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Presentation
+- abstract: <p>Description of the workshop</p><p>Our comprehensive, hands-on Goobi
+    IIIF workshop is designed to give all participants the skills they need to generate
+    valid, standardised metadata from directories containing images using very simple
+    resources in less than 20 minutes and without further help. The metadata can then
+    be exported as METS/MODS (libraries), LIDO (museums) or even in TEI format for
+    digital humanities. At the same time, Goobi-to-go automatically generates valid
+    IIIF Presentation manifests. That means the images are immediately available via
+    the IIIF Image API and can be used straight away in any number of other IIIF consumers
+    (e.g. Mirador). </p><p>In the second part of the workshop, participants will gain
+    an insight into our current developments using IIIF interfaces in combination
+    with machine-learning techniques for various purposes, e.g. to perform image and
+    full text analyses.</p><p>Background</p><p>Goobi is an open-source application.
+    For over 14 years, it has brought together many cultural institutions in currently
+    17 countries as part of a single digitisation community, focusing equally on the
+    coordination of both simple and complex workflows (Goobi workflow) for digitisation
+    projects and on the publication of the digitised results of those projects (Goobi
+    viewer). Alongside standardised interfaces such as OAI-PMH and SRU, IIIF plays
+    a crucial role in ensuring interoperability between published digital collections
+    and different external data consumers. In light of the growing interaction with
+    the burgeoning field of digital humanities, the Goobi community needed to make
+    its numerous portals and the collections of many different cultural institutions
+    available in readily consumable form for research purposes. With this in mind,
+    Goobi already supports the IIIF Image API 2.1, IIIF Presentation API 2.1 and IIIF
+    Change Discovery API in draft status as well as Web Annotations und Open Annotations
+    for use in the context of crowdsourcing.</p><p>Goobi does much more than simply
+    provide a range of data for other systems and consumers. In fact, the whole Goobi
+    community is now increasingly focused on the use of IIIF APIs in new scenarios.
+    In particular, Goobi makes good use of these interfaces in various ongoing development
+    projects that can harness machine-learning processes to identify or generate new
+    data. Machine-learning techniques based on pattern recognition and text analysis
+    have already been used in the past to recognise publication types and segment
+    content indices. However, now that data can be obtained from standardised interfaces,
+    these techniques are no longer dependent solely on locally stored data from the
+    file system. Equally, the Goobi community now benefits enormously from the latest
+    OCR developments in Tesseract, although without further training data those developments
+    cannot yet provide the desired recognition quality. Working without IIIF is no
+    longer a viable option, whether your development project involves using machine-learning
+    techniques to generate ground truth data and extract illustrations or creating
+    synthetic texts with unusual fonts based on text segments and letter coordinates.
+    Over the last two years in particular, it has become clear within the Goobi community
+    that various IIIF interfaces will be needed if newer projects and therefore newer
+    research data are to be viable in the long term.</p>
+  authors:
+  - company: intranda GmbH
+    link: http://www.intranda.com
+    location: Germany
+    name: Steffen Hankiewicz
+  - company: intranda GmbH
+    link: http://www.intranda.com
+    location: Germany
+    name: Jan Vonde
+  contact:
+    email: steffen.hankiewicz@intranda.com
+    name: Steffen Hankiewicz and Jan Vonde
+  flagged: false
+  id: 62
+  keywords:
+  - IIIF generation
+  - End-to-end
+  - Community
+  - Goobi-to-go
+  title: Creating, delivering and consuming IIIF Manifests within the Goobi Community
+  topics:
+  - Annotation, including full-text or academic use cases
+  - Using IIIF material for Machine Learning and AI
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Workshop
+- abstract: "<p>(A German-language introduction to IIIF)</p><p>Ziel des Workshops\
+    \ ist es, Kolleginnen und Kollegen aus dem deutschsprachigen Raum den Einstieg\
+    \ in IIIF zu erleichtern. Der Workshop richtet sich vor allem an Teilnehmer aus\
+    \ Einrichtungen des Kulturerbes die wenig oder keine Erfahrung mit IIIF haben.\
+    \ Der Workshop f\xFChrt in die Grundlagen von IIIF ein und gibt einen \xDCberblick\
+    \ \xFCber den Standard. Mit Hilfe von Anwendungsszenarien werden M\xF6glichkeiten\
+    \ und Herausforderungen aufgezeigt. Zudem bietet der Workshop Raum f\xFCr Fragen\
+    \ und Diskussionen.</p><p>Leitung: Leander Seige, Michael B\xFCchner, Stefanie\
+    \ R\xFChle</p><p>Dauer: 2 x 90 Minuten</p><p>Zielgruppe: Kolleginnen und Kollegen\
+    \ aus dem Bereich des Kulturerbes, die an IIIF interessiert sind aber noch nichts\
+    \ oder nur sehr wenig \xFCber den Standard wissen.</p><p>Themen:</p><p> - Was\
+    \ ist IIIF</p><p> - Einsatz von IIIF am Beispiel der UB Leipzig</p><p> - Nutzung\
+    \ von IIIF im DFG Projekt \u201EHandschriftenportal\u201C</p><p> - Entwicklungsstand\
+    \ und Nutzung des IIIF-Viewers Mirador3</p><p> - Zentralisierte vs. verteilte\
+    \ Architektur: Nutzungsszenarien f\xFCr IIIF in der Deutschen Digitalen Bibliothek.</p>"
+  authors:
+  - company: ''
+    location: UB Leipzig
+    name: Leander Seige
+  - company: ''
+    location: DDB
+    name: "Michael B\xFCchner"
+  - company: ''
+    location: "SUB G\xF6ttingen"
+    name: "Stefanie R\xFChle"
+  contact:
+    email: sruehle@sub.uni-goettingen.de
+    name: Stefanie Ruehle
+  flagged: false
+  id: 76
+  title: "IIIF f\xFCr Einsteiger, eine deutschsprachige Einf\xFChrung (A German-language\
+    \ introduction to IIIF)"
+  topics:
+  - Discovering IIIF resources
+  - Audio/Visual use cases for IIIF
+  - Interoperability in IIIF contexts
+  type: Workshop
+- abstract: <p>The Universal Viewer community would like to continue in the vein of
+    previous conferences by hosting a half-day showcase and workshop.</p><p>The showcase
+    would require a small auditorium and would consist of a general update covering
+    recent advancements for the BL Save our Sounds AV extension, progress on IIIF
+    Commons libraries such as manifesto and manifold, and an exciting new 3D extension
+    built in collaboration with https://morphosource.org We will also discuss ongoing/upcoming
+    work such as the BL "UV 3" project, and National Library of Wales annotations,
+    OCR, and geolocation enhancements.</p><p>We may also have a panel for Q&A - tbc.</p><p>The
+    following workshop would require a single room with a round-table format where
+    Ed will be available (others tbc) to answer technical questions, with an emphasis
+    on exploring the potential for reusable code libraries.</p>
+  authors:
+  - company: Mnemoscene
+    link: http://mnemoscene.io/
+    location: UK
+    name: Edward Silverton
+  - company: Digirati
+    link: https://digirati.com/
+    location: UK
+    name: Tom Crane
+  contact:
+    email: ed@mnemoscene.io
+    name: Edward Silverton
+  flagged: false
+  id: 9
+  keywords:
+  - UV
+  - universal viewer
+  - IIIF
+  - web components
+  - 3D
+  title: UV Half Day Showcase and Workshops
+  topics:
+  - Annotation, including full-text or academic use cases
+  - Audio/Visual use cases for IIIF
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Workshop
+- abstract: <p>Indiana University, in collaboration with Digirati, is using IIIF specs
+    in its implementation of a newer version of the now retired Variations Audio Timeliner,
+    an audio annotation and analysis tool for creating and labeling bubble diagrams.
+    These diagrams, called Timelines, can be used to navigate music or other audio
+    for detailed study.</p><p>The bubbles correspond to musical segments and serve
+    as visual cues that help the quick identification of elements that recur or relate
+    in the large-scale formal structure of a musical piece. Music instructors can
+    provide their analyses to students, helping them develop critical listening skills.
+    Students can also interact with the tool and create their own timeline.</p><p>The
+    new Timeliner is a different type of IIIF client given its music teaching and
+    learning use case. IIIF Presentation API v.3, which incorporated support for A/V
+    content, is well suited for the representation of the Timeliner annotations. </p><p>At
+    Indiana University, the audio content is stored in the Avalon Media System, which
+    also provides the discovery and access to the content. The integration of Avalon
+    and the Timeliner is facilitated by the IIIF Presentation v3 and Auth v1 APIs.
+    For Auth, we implemented the Probe service suggested in https://github.com/IIIF/api/issues/1290.
+    </p><p>This presentation will include a demo of the tool.</p>
+  authors:
+  - company: Indiana University
+    link: https://www.indiana.edu/
+    location: USA
+    name: Maria Whitaker
+  contact:
+    email: mcwhitak@iu.edu
+    name: Maria Whitaker
+  flagged: false
+  id: 28
+  title: 'Timeliner: a Music teaching and learning use case for IIIF'
+  topics:
+  - Annotation, including full-text or academic use cases
+  - Audio/Visual use cases for IIIF
+  type: Lightning talk
+- abstract: <p>OCLC Research is participating in the IIIF Discovery Working Group's
+    on-going effort to develop a "Change Discovery API".  The Change Discovery API
+    will provide the information needed to discover and subsequently make use of IIIF
+    resources.  To exercise the developing API, OCLC Research deployed an experimental
+    "Change Discovery Service" in December 2018, which enabled API access to 13 million
+    CONTENTdm IIIF resources and included a demonstration user interface to test the
+    utility of indexes built from the API-accessible IIIF resource data.  This experimental
+    work has confirmed the benefits of standardization around the IIIF Change Discovery
+    API.  It has also highlighted the metadata analysis and synthesis challenges of
+    working with heterogeneous IIIF resource descriptions in a large aggregation,
+    while testing potential search-and-retrieval remedies. This discussion will summarize
+    OCLC Research's development efforts and report our findings from this early experimental
+    work.</p>
+  authors:
+  - company: OCLC
+    location: United States
+    name: Jeff Mixter
+  contact:
+    email: mixterj@oclc.org
+    name: Jeff Mixter
+  flagged: false
+  id: 1
+  keywords:
+  - Discovery API
+  - Metadata aggregation
+  - Metadata management
+  title: 'IIIF Change Discovery in Action: Findings from an OCLC Research experiment'
+  topics:
+  - Discovering IIIF resources
+  - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
+  type: Presentation
 - abstract: <p>At the BSB we are on the way to serve all 2.3 million digitized objects
     by IIIF.  </p><p>In our presentation we will show how services developed at BSB
     starting from serving images via providing IIIF-manifests to linking transcription-annotations.  </p><p>Which
@@ -698,7 +815,7 @@
     Deep Learning Techniques'
   topics:
   - Using IIIF material for Machine Learning and AI
-  - Discovering IIIF resources
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Presentation
 - abstract: <p>Aging digital collections often mean that there is no longer a one-to-one
     mapping between original object and digital surrogate. At the Bodleian, some of
@@ -936,10 +1053,10 @@
   - Discovering IIIF resources
   type: Lightning talk
 - abstract: <p>Over the past 18 months, Africa Media Online has been working hard
-    to build IIIF capabilities into its MEMAT digital asset management system, making
-    IIIF available to many institutions and organisations in South Africa. This paper
-    looks at what has been achieved up to now, its impact across a range of institutions
-    and what we hope to accomplish next.</p>
+    to build IIIF capabilities into its MEMAT digital asset management system (https://africamediaonline.com/memat/),
+    making IIIF available to many institutions and organisations in South Africa.
+    This paper looks at what has been achieved up to now, its impact across a range
+    of institutions and what we hope to accomplish next. </p>
   authors:
   - company: Africa Media Online
     link: http://www.africamediaonline.com
@@ -1466,31 +1583,6 @@
   topics:
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Panel
-- abstract: "<p>Over the past three years, the Stanford Libraries Digital Library\
-    \ Systems and Services department has developed a full-service 3D imaging program\
-    \ as part of the Digital Production Group labs. Our service includes 3D imaging\
-    \ of materials and post-processing and delivery of files specified by the project\u2019\
-    s stakeholder. We are actively working on our pipeline to accession 3D data into\
-    \ the repository and display them in our catalog with descriptive metadata created\
-    \ by stakeholders. Currently, through a manual process, we are able to display\
-    \ 3D data, in the .obj format, in our viewing and discovery environment using\
-    \ the Universal Viewer: https://purl.stanford.edu/bw651vn9138. This lightning\
-    \ talk will outline the current accessioning process and specifications that enable\
-    \ viewing of 3D objects in the Universal Viewer, as well as further plans to enable\
-    \ automated accessioning of 3D data. </p>"
-  authors:
-  - company: ''
-    location: Stanford Libraries
-    name: Dinah Handel
-  contact:
-    email: dhandel@stanford.edu
-    name: Dinah Handel
-  flagged: false
-  id: 33
-  title: 3D Data Accessioning and Display at Stanford Libraries
-  topics:
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Lightning talk
 - abstract: "<p>As the number of IIIF-compliant images on the Web has been increasing,\
     \ the expectations of Buddhist researchers have also been growing so that they\
     \ can efficiently utilize IIIF images of Buddhist scriptures in any Web site such\
@@ -2656,74 +2748,6 @@
   topics:
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Presentation
-- abstract: <p>Description of the workshop</p><p>Our comprehensive, hands-on Goobi
-    IIIF workshop is designed to give all participants the skills they need to generate
-    valid, standardised metadata from directories containing images using very simple
-    resources in less than 20 minutes and without further help. The metadata can then
-    be exported as METS/MODS (libraries), LIDO (museums) or even in TEI format for
-    digital humanities. At the same time, Goobi-to-go automatically generates valid
-    IIIF Presentation manifests. That means the images are immediately available via
-    the IIIF Image API and can be used straight away in any number of other IIIF consumers
-    (e.g. Mirador). </p><p>In the second part of the workshop, participants will gain
-    an insight into our current developments using IIIF interfaces in combination
-    with machine-learning techniques for various purposes, e.g. to perform image and
-    full text analyses.</p><p>Background</p><p>Goobi is an open-source application.
-    For over 14 years, it has brought together many cultural institutions in currently
-    17 countries as part of a single digitisation community, focusing equally on the
-    coordination of both simple and complex workflows (Goobi workflow) for digitisation
-    projects and on the publication of the digitised results of those projects (Goobi
-    viewer). Alongside standardised interfaces such as OAI-PMH and SRU, IIIF plays
-    a crucial role in ensuring interoperability between published digital collections
-    and different external data consumers. In light of the growing interaction with
-    the burgeoning field of digital humanities, the Goobi community needed to make
-    its numerous portals and the collections of many different cultural institutions
-    available in readily consumable form for research purposes. With this in mind,
-    Goobi already supports the IIIF Image API 2.1, IIIF Presentation API 2.1 and IIIF
-    Change Discovery API in draft status as well as Web Annotations und Open Annotations
-    for use in the context of crowdsourcing.</p><p>Goobi does much more than simply
-    provide a range of data for other systems and consumers. In fact, the whole Goobi
-    community is now increasingly focused on the use of IIIF APIs in new scenarios.
-    In particular, Goobi makes good use of these interfaces in various ongoing development
-    projects that can harness machine-learning processes to identify or generate new
-    data. Machine-learning techniques based on pattern recognition and text analysis
-    have already been used in the past to recognise publication types and segment
-    content indices. However, now that data can be obtained from standardised interfaces,
-    these techniques are no longer dependent solely on locally stored data from the
-    file system. Equally, the Goobi community now benefits enormously from the latest
-    OCR developments in Tesseract, although without further training data those developments
-    cannot yet provide the desired recognition quality. Working without IIIF is no
-    longer a viable option, whether your development project involves using machine-learning
-    techniques to generate ground truth data and extract illustrations or creating
-    synthetic texts with unusual fonts based on text segments and letter coordinates.
-    Over the last two years in particular, it has become clear within the Goobi community
-    that various IIIF interfaces will be needed if newer projects and therefore newer
-    research data are to be viable in the long term.</p>
-  authors:
-  - company: intranda GmbH
-    link: http://www.intranda.com
-    location: Germany
-    name: Steffen Hankiewicz
-  - company: intranda GmbH
-    link: http://www.intranda.com
-    location: Germany
-    name: Jan Vonde
-  contact:
-    email: steffen.hankiewicz@intranda.com
-    name: Steffen Hankiewicz and Jan Vonde
-  flagged: false
-  id: 62
-  keywords:
-  - IIIF generation
-  - End-to-end
-  - Community
-  - Goobi-to-go
-  title: Creating, delivering and consuming IIIF Manifests within the Goobi Community
-  topics:
-  - Annotation, including full-text or academic use cases
-  - Using IIIF material for Machine Learning and AI
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Workshop
 - abstract: <p>The IIIF 3D Community includes examples of key projects which present
     2D images and 3D models together using web-based viewers, increasingly using a
     mainstay file format, and aim to establish even greater interoperability in mixed
@@ -3113,80 +3137,6 @@
   - Discovering IIIF resources
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Presentation
-- abstract: "<p>(A German-language introduction to IIIF)</p><p>Ziel des Workshops\
-    \ ist es, Kolleginnen und Kollegen aus dem deutschsprachigen Raum den Einstieg\
-    \ in IIIF zu erleichtern. Der Workshop richtet sich vor allem an Teilnehmer aus\
-    \ Einrichtungen des Kulturerbes die wenig oder keine Erfahrung mit IIIF haben.\
-    \ Der Workshop f\xFChrt in die Grundlagen von IIIF ein und gibt einen \xDCberblick\
-    \ \xFCber den Standard. Mit Hilfe von Anwendungsszenarien werden M\xF6glichkeiten\
-    \ und Herausforderungen aufgezeigt. Zudem bietet der Workshop Raum f\xFCr Fragen\
-    \ und Diskussionen.</p><p>Leitung: Leander Seige, Michael B\xFCchner, Stefanie\
-    \ R\xFChle</p><p>Dauer: 2 x 90 Minuten</p><p>Zielgruppe: Kolleginnen und Kollegen\
-    \ aus dem Bereich des Kulturerbes, die an IIIF interessiert sind aber noch nichts\
-    \ oder nur sehr wenig \xFCber den Standard wissen.</p><p>Themen:</p><p> - Was\
-    \ ist IIIF</p><p> - Einsatz von IIIF am Beispiel der UB Leipzig</p><p> - Nutzung\
-    \ von IIIF im DFG Projekt \u201EHandschriftenportal\u201C</p><p> - Entwicklungsstand\
-    \ und Nutzung des IIIF-Viewers Mirador3</p><p> - Zentralisierte vs. verteilte\
-    \ Architektur: Nutzungsszenarien f\xFCr IIIF in der Deutschen Digitalen Bibliothek.</p>"
-  authors:
-  - company: ''
-    location: UB Leipzig
-    name: Leander Seige
-  - company: ''
-    location: DDB
-    name: "Michael B\xFCchner"
-  - company: ''
-    location: "SUB G\xF6ttingen"
-    name: "Stefanie R\xFChle"
-  contact:
-    email: sruehle@sub.uni-goettingen.de
-    name: Stefanie Ruehle
-  flagged: false
-  id: 76
-  title: "IIIF f\xFCr Einsteiger, eine deutschsprachige Einf\xFChrung (A German-language\
-    \ introduction to IIIF)"
-  topics:
-  - Discovering IIIF resources
-  - Audio/Visual use cases for IIIF
-  - Interoperability in IIIF contexts
-  type: Workshop
-- abstract: <p>The Universal Viewer community would like to continue in the vein of
-    previous conferences by hosting a half-day showcase and workshop.</p><p>The showcase
-    would require a small auditorium and would consist of a general update covering
-    recent advancements for the BL Save our Sounds AV extension, progress on IIIF
-    Commons libraries such as manifesto and manifold, and an exciting new 3D extension
-    built in collaboration with https://morphosource.org We will also discuss ongoing/upcoming
-    work such as the BL "UV 3" project, and National Library of Wales annotations,
-    OCR, and geolocation enhancements.</p><p>We may also have a panel for Q&A - tbc.</p><p>The
-    following workshop would require a single room with a round-table format where
-    Ed will be available (others tbc) to answer technical questions, with an emphasis
-    on exploring the potential for reusable code libraries.</p>
-  authors:
-  - company: Mnemoscene
-    link: http://mnemoscene.io/
-    location: UK
-    name: Edward Silverton
-  - company: Digirati
-    link: https://digirati.com/
-    location: UK
-    name: Tom Crane
-  contact:
-    email: ed@mnemoscene.io
-    name: Edward Silverton
-  flagged: false
-  id: 9
-  keywords:
-  - UV
-  - universal viewer
-  - IIIF
-  - web components
-  - 3D
-  title: UV Half Day Showcase and Workshops
-  topics:
-  - Annotation, including full-text or academic use cases
-  - Audio/Visual use cases for IIIF
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Workshop
 - abstract: <p>In this lightning talk we would like to introduce our approach in aggregating
     the content of various european content providers into a universal player using
     IIIF Manifests as a standard. Europeana Media, Noterik, and the Netherlands Institute
