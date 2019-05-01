@@ -108,7 +108,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Introduction to IIIF Workshop at [EdUI][edui], September 2017
 * Comité international de paléographie latine (IIIF for medievalists workshop), September 2017
 * Digital Cultures Conference, Warsaw, September 2017
-* IIIF panel at [CIDOC][cidoc], September 2017
+* IIIF panel at CIDOC, September 2017
 
 ## Technical Work
 
@@ -243,7 +243,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Jeffrey Witt (Loyola University Maryland)
 * Petr Zabicka (Moravian Library)
 
-[cidoc]: http://www.cidoc2017.com/432841850
 [washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
 [glen]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator/
 [digirati-search]: http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html
