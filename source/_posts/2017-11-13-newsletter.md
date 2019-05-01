@@ -81,7 +81,7 @@ The IIIF team at Harvard hosted a regional IIIF meet-up on Friday, September 29 
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Those planning to present on IIIF at a conference or meeting, please fill out the [“IIIF Representation at Conferences and Meetings”][outreach-survey] Survey. Recent and upcoming IIIF appearances include:
 * IIIF and Mirador workshop at XXe Colloque international de paléographie latine at the Yale Beinecke Library, September 2017
 * [International Conference on Theory and Practice of Digital Libraries][tpdl], September 2017
-* IIIF Panel at [CIDOC][cidoc], Tbilisi Georgia, September 2017
+* IIIF Panel at CIDOC, Tbilisi Georgia, September 2017
 * [4Science IIIF training session in Italy][4sci-training], September 2017
 * Digital Library Federation (DLF) Forum, October 2017
 * [BIREDIAL-ISTEC International Conference][istec], October 2017
@@ -247,7 +247,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [zedler]: https://app.digitale-sammlungen.de/bookshelf/search?query=universal+lexicon&submit=
 [bsb]: https://iiif.digitale-sammlungen.de
 [iiif-japan-tour]: {{ site.url }}{{ site.baseurl }}/news/2017/11/10/iiif-japan-tour/
-[cidoc]: http://www.cidoc2017.com/436605949
 [zegami-code]: https://github.com/zegami/image-similarity-clustering
 [zegami-post]: https://tech.zegami.com/comparing-pre-trained-deep-learning-models-for-feature-extraction-c617da54641
 [mirador-nagasaki]: http://digitalnagasaki.hatenablog.com/entry/2017/09/18/015104

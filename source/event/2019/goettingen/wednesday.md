@@ -45,9 +45,9 @@ Please note this a draft program and locations and times of presentations may ch
         {% include conference_slot_row.html time='1:30pm - 2:00pm' rowspan='1' title='Technical Specification Status Update' authors='IIIF Editors' %}
         {% include conference_slot_row.html time='2:00pm - 3:00pm' rowspan='7' paper=40 %}
         {% include conference_slot_row.html paper=28 %}
-        {% include conference_slot_row.html paper=63 %}
-        {% include conference_slot_row.html paper=38 %}
-        {% include conference_slot_row.html paper=33 %}
+        {% include conference_slot_row.html paper=21 %}
+        {% include conference_slot_row.html paper=77 %}
+        {% include conference_slot_row.html paper=12 %}
         {% include conference_slot_row.html paper=24 %}
         {% include conference_slot_row.html title='Sponsor presentation OCLC - TBC' authors='' %}
         
