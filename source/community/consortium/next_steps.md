@@ -157,7 +157,7 @@ IIIF-C Membership Tiers for Non-Commercial Organizations
     </table>
 2. Committees. As a grassroots initiative, IIIF's coordinated activities are organized and executed by various groups. IIIF Committees are one such type of group. (Others are Community Groups, Technical Specification Groups, and more ephemeral teams, such as the organizing and program groups for events.) IIIF Committees are structural elements of the IIIF Consortium, and charged with one or more critical elements of IIIF business / operational affairs.
     1. Current & prospective IIIF Committees comprise:
-        1. Editorial Committee, with membership and process defined here: [http://iiif.io/api/annex/notes/editors/,](http://iiif.io/api/annex/notes/editors/) which specifies IIIF APIs;
+        1. Editorial Committee, with [membership](https://iiif.io/community/editors/) and process defined here: [https://iiif.io/community/policy/editorial/](https://iiif.io/community/policy/editorial/), which specifies IIIF APIs;
         2. Coordinating Committee, which will advise and assist the Managing Director and IIIF staff by helping with forming and implementing initiatives, conducting critical functions such as outreach, training and documentation, supporting specification work, soliciting software development, fostering adoption of IIIF, and generally strengthening the community and helping maintain its well-being;
             1. The Coordinating Committee leads IIIF's community-based efforts across different specification efforts, working groups, subject domains, geographic regions and types of participants;
             2. The Managing Director will be an ex officio member with voice and vote on the Coordinating Committee;
