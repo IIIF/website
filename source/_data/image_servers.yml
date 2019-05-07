@@ -1,6 +1,6 @@
 # Use Markdown in the blurb if necessary for links, etc. Each list entry in the blurb gets a <p>.
 - name: Cantaloupe
-  uri: https://medusa-project.github.io/cantaloupe/
+  uri: https://cantaloupe-project.github.io/
   blurb:
   - >
     High-performance dynamic image server in Java
