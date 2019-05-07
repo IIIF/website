@@ -123,7 +123,7 @@ The goal of IIIF is to be interoperable allowing sharing and user choice. To ena
 [questionnaire]: {{ site.url }}{{ site.baseurl }}/assets/acc_implementation_questionnaire_011017.pdf
 [compliance levels]: {{ page.webprefix }}/api/image/2.1/compliance/
 [image servers]: https://github.com/IIIF/awesome-iiif#image-servers
-[Cantaloupe]: https://medusa-project.github.io/cantaloupe/
+[Cantaloupe]: https://cantaloupe-project.github.io/
 [shim]: https://github.com/IIIF/awesome-iiif#image-server-shims
 [presentation API libraries]: https://github.com/IIIF/awesome-iiif#presentation-api-libraries
 [create manifest]: http://ronallo.com/iiif-workshop/presentation/manifest.html
