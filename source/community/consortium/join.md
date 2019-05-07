@@ -26,7 +26,7 @@ IIIF-C Members are:
 
 The potential for the use of IIIF and growth of the IIIF community is endless — wherever digital  image and audio/visual resources are present, there is an opportunity for interoperability via IIIF. Lead the effort to expand the benefits of interoperability for all as part of the IIIF-C.
 
-Why embrace the IIIF Consortium?:
+Why embrace the IIIF Consortium?
 
 - A chance to be at the forefront of digital innovation with a global community of leaders
 - Reap the benefits of driving development and adoption of an open, international standard
