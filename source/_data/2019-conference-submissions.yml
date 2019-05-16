@@ -611,17 +611,21 @@
   - Audio/Visual use cases for IIIF
   - Interoperability in IIIF contexts
   type: Workshop
-- abstract: <p>The Universal Viewer community would like to continue in the vein of
-    previous conferences by hosting a half-day showcase and workshop.</p><p>The showcase
-    would require a small auditorium and would consist of a general update covering
-    recent advancements for the BL Save our Sounds AV extension, progress on IIIF
-    Commons libraries such as manifesto and manifold, and an exciting new 3D extension
-    built in collaboration with https://morphosource.org We will also discuss ongoing/upcoming
-    work such as the BL "UV 3" project, and National Library of Wales annotations,
-    OCR, and geolocation enhancements.</p><p>We may also have a panel for Q&A - tbc.</p><p>The
-    following workshop would require a single room with a round-table format where
-    Ed will be available (others tbc) to answer technical questions, with an emphasis
-    on exploring the potential for reusable code libraries.</p>
+- abstract: <p>The UV Workshop is divided into two sessions. The first will showcase
+   recent developments, including:</p><p> - The establishment of a Steering Committee for 
+   the Universal Viewer</p><p> - The IIIF AV support for the British Library’s Save our 
+   Sounds programme</p><p> - A look at the British Library’s recent user testing 
+   sessions</p><p> - Progress on IIIF-Commons libraries and components</p><p> - An 
+   exciting new 3D extension built in collaboration with https://morphosource.org</p><p>We 
+   will introduce the UV’s possible roadmap for the next 12 months, such as the British 
+   Library’s UV Phase 3 project, support for more display of textual content and other 
+   annotations, OCR, and geolocation enhancements. If you have questions and/or 
+   suggestions for the UV’s directions, bring them along!</p><p>After the break we’ll 
+   split into two parts.</p><p> - One session will continue to look at the user experience 
+   of the Universal Viewer in more depth, and dig into usage scenarios and the 
+   roadmap.</p><p> - The other session will be a round-table developer session, hands-on 
+   at times, for answering technical questions and exploring the potential for reusable 
+   code libraries.</p>
   authors:
   - company: Mnemoscene
     link: http://mnemoscene.io/
