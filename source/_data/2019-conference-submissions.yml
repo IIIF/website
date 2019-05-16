@@ -612,7 +612,20 @@
   - Interoperability in IIIF contexts
   type: Workshop
 - abstract: <p>The UV Workshop is divided into two sessions. The first will showcase
-   recent developments, including:</p><p> - The establishment of a Steering Committee for the Universal Viewer</p><p> - The IIIF AV support for the British Library’s Save our Sounds programme</p><p> - A look at the British Library’s recent user testing sessions</p><p> - Progress on IIIF-Commons libraries and components</p><p> - An exciting new 3D extension built in collaboration with https://morphosource.org</p><p>We will introduce the UV’s possible roadmap for the next 12 months, such as the British Library’s UV Phase 3 project, support for more display of textual content and other annotations, OCR, and geolocation enhancements. If you have questions and/or suggestions for the UV’s directions, bring them along!</p><p>After the break we’ll split into two parts.</p><p> - One session will continue to look at the user experience of the Universal Viewer in more depth, and dig into usage scenarios and the roadmap.</p><p> - The other session will be a round-table developer session, hands-on at times, for answering technical questions and exploring the potential for reusable code libraries.</p>
+   recent developments, including:</p><p> - The establishment of a Steering Committee for 
+   the Universal Viewer</p><p> - The IIIF AV support for the British Library’s Save our 
+   Sounds programme</p><p> - A look at the British Library’s recent user testing 
+   sessions</p><p> - Progress on IIIF-Commons libraries and components</p><p> - An 
+   exciting new 3D extension built in collaboration with https://morphosource.org</p><p>We 
+   will introduce the UV’s possible roadmap for the next 12 months, such as the British 
+   Library’s UV Phase 3 project, support for more display of textual content and other 
+   annotations, OCR, and geolocation enhancements. If you have questions and/or 
+   suggestions for the UV’s directions, bring them along!</p><p>After the break we’ll 
+   split into two parts.</p><p> - One session will continue to look at the user experience 
+   of the Universal Viewer in more depth, and dig into usage scenarios and the 
+   roadmap.</p><p> - The other session will be a round-table developer session, hands-on 
+   at times, for answering technical questions and exploring the potential for reusable 
+   code libraries.</p>
   authors:
   - company: Mnemoscene
     link: http://mnemoscene.io/
