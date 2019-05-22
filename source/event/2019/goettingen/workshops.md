@@ -57,24 +57,35 @@ The program for the workshops is as follows:
         {% include conference-submission.html paper=51 mode='td' %}
         {% include conference-submission.html paper=62 mode='td' %}
     </tr>
+    <tr>
+        <td>7:00 - 9:00</td>
+        <td colspan="3"><b>IIIF Consortium Members reception</b> at the <a href="https://www.uni-goettingen.de/en/125328.html">Orangery</a>. This is open to anyone who works at a IIIF consortium institution, please sign up during registration.</td>
+    </tr>
   </tbody>
 </table>
 
 Tea, coffee and lunch will be be provided.
 
-## Location of Alte Mensa
+## Location of Alte Mensa and Consortium reception
+
+Hover your mouse over the marker to see the name of the location.
 
 <div id="map" style="width: 100%; height: 400px; background-color: grey;" ></div>
 <script>
   function initMap() {
     var alte_mensa = {lat: 51.533486, lng: 9.937732};
     var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 16,
-      center: alte_mensa
+      zoom: 15,
+      center: {lat: 51.535987, lng:9.937933}
     });
     var marker = new google.maps.Marker({
       position: alte_mensa,
       title: "Alte Mensa",
+      map: map
+    });
+    var marker = new google.maps.Marker({
+      position: {lat: 51.538463, lng: 9.938513},
+      title: "Orangery in the Old Botanical Garden, Göttingen University",
       map: map
     });
   }
