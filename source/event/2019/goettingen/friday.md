@@ -5,10 +5,7 @@ tags: [event ]
 page: friday
 ---
 
-This is the agenda for Friday the 28th of June, the last day of the conference. The conference finishes at lunch time on Friday. To register for the conference please see the [main registration page][washington-registration].
-
-{: class="alert"} 
-Please note this a draft program and locations and times of presentations may change.
+This is the agenda for Friday the 28th of June, the last day of the conference. The conference finishes at lunch time on Friday. To register for the conference please see the [main registration page][registration].
 
 <table class="api-table" style="width: 100%; margin: 0px 0px 0px 0px;">
   <thead>
@@ -42,7 +39,7 @@ Please note this a draft program and locations and times of presentations may ch
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html time='11:00am - 12:00am' rowspan='4' title='<b>IIIF, AI and Machine Learning Pleneary Session</b>' %}
+        {% include conference_slot_row.html time='11:00am - 12:00am' rowspan='4' title='<b>IIIF, AI and Machine Learning Plenary Session</b>' %}
         {% include conference_slot_row.html paper=38 %}
         {% include conference_slot_row.html paper=63 %} <!-- need to stretch somehow -->
         {% include conference_slot_row.html title='Panel Discussion' %} <!-- need to stretch somehow -->
@@ -54,4 +51,4 @@ Please note this a draft program and locations and times of presentations may ch
 <br/>
 
 [memorial]: https://en.wikipedia.org/wiki/Memorial_Day
-[washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
+[registration]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
