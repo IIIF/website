@@ -1,35 +1,3 @@
-- abstract: <p>Demonstrated a couple of years ago at the IIIF Vatican event Cogapp
-    has created storiiies.cogapp.com. This platform allows users to create digital
-    stories around a given IIIF image. Advanced use-cases involve interpretation overlaid
-    on a deep-zoom interface.</p><p>Since we last spoke about this platform we have
-    taken it a step further and created an editing interface so that the underlying
-    IIIF magic is essentially invisible. Any user can now create their own story and
-    have it told with no prior knowledge of IIIF.</p><p>In this lightning talk we
-    will demonstrate this interface and offer it up for use by educators and interested
-    parties all over the world in the hope that this tool can further drive uptake
-    of IIIF and demonstrate the types of experience that IIIF makes possible.</p>
-  authors:
-  - company: Cogapp
-    link: http://storiiies.cogapp.com/
-    location: UK
-    name: Andy Cummins
-  - company: Cogapp
-    link: http://storiiies.cogapp.com/
-    location: UK
-    name: Jon White
-  contact:
-    email: andyc@cogapp.com
-    name: Andy Cummins
-  flagged: true
-  id: 50
-  title: Storiiies Editor - Digital Storytelling Powered by IIIF
-  topics:
-  - Annotation, including full-text or academic use cases
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  - Interoperability in IIIF contexts
-  - Implementations of IIIF outside of North America/Europe
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Lightning talk
 - abstract: "<p>This is a bit of an unusual abstract. I'm not proposing a workshop\
     \ or presentation. What I was hoping you might be able to accommodate is our slowlooking\
     \ room.</p><p>This is a contemplative experience built upon IIIF. You can see\
@@ -287,9 +255,9 @@
   contact:
     email: maus@hab.de
     name: David Maus
-  flagged: true
+  flagged: false
   id: 44
-  title: IIIF at the Herzog August Bibliothek (working title)
+  title: IIIF at the Herzog August Bibliothek
   topics:
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   type: Lightning talk
@@ -375,46 +343,34 @@
   - Interoperability in IIIF contexts
   - Implementations of IIIF outside of North America/Europe
   type: Panel
-- abstract: "<p>The article finds out the divergence of knowledge and information\
-    \ management standards in a critical-analytical approach. This kind of divergence\
-    \ in developing and using data entities management standards between the World\
-    \ Wide Web consortium and the context of Web search tools with cultural heritage\
-    \ context\u2019s standards will cause a pluralism that can\u2019t solve Web current\
-    \ problems in data controlling and processing, specially, when we are encountering\
-    \ some challenges like big data phenomenon. As two strategic and divergent challenges,\
-    \ linked data method and schema.org are compared and evaluated with the knowledge\
-    \ and information management standards and the reference conceptual patterns developed\
-    \ in cultural heritage context from functionality aspect. The reasons in cultural\
-    \ heritage context making the divergence, with emphasizing Web environment\u2019\
-    s capabilities and the features of data entities available on the web, are analyzed.\
-    \ It seems that the current pluralism approach in designing and constructing the\
-    \ tools and methods for creating the Semantic Web, without regarding the vital\
-    \ processes like the authority control, the appropriate representation of relationship\
-    \ patterns for extracting knowledge and semantics of data contexts, metadata interoperability,\
-    \ the imperfect understanding of Web technologies\u2019 characteristics, and describing\
-    \ special data entities available on the Web, such as commercial products, social\
-    \ networks\u2019 comments, posts, etc., on top of that, not developing of the\
-    \ kinds of standards having complementary role for other standards, like content\
-    \ standards for metadata standards, will repeat previous unsuccessful experiences\
-    \ in Web standards development. Finally, the increase of the interaction and synergy\
-    \ of cultural heritage context\u2019s standards specialists with the standards\
-    \ developers of Web consortium and Web search tools, adapting web standards to\
-    \ conceptual reference models in deferent contexts for comprehensive representation\
-    \ of data contexts, designing and doing some research for improving the standards\
-    \ interoperability, and other strategies to reach convergence will be recommended.</p>"
+- abstract: <p>Presentation on IIIF and 3D</p>
   authors:
-  - company: Allameh Tabataba'i University
-    link: http://www.smtaheri.ir
-    location: Iran
-    name: Seyed Mahdi Taheri
+  - company: Mnemoscene
+    link: http://mnemoscene.io/
+    location: United Kingdom
+    name: Ed Silverton
   contact:
-    email: taherismster@gmail.com
-    name: Seyed Mahdi Taheri
+    email: e.silverton@gmail.com
+    name: Ed Silverton
   flagged: true
-  id: 16
-  title: 'Divergence of Knowledge and Information Management Standards: A Pluralism
-    Approach'
+  id: 80
+  title: Experiences with IIIF and 3D
   topics:
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Presentation
+- abstract: <p>A presentation on how IIIF has become a national standard in Italy</p>
+  authors:
+  - company: Biblioteca Apostolica Vaticana
+    location: Italy
+    name: Paola Manoni
+  contact:
+    email: manoni@vatlib.it
+    name: Paola Manoni
+  flagged: true
+  id: 79
+  title: IIIF as an Italian Standard
+  topics:
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - Interoperability in IIIF contexts
   type: Presentation
 - abstract: <p>This workshop will introduce Mirador 3 to end users. The workshop will
@@ -453,6 +409,9 @@
   - company: Stanford University Libraries
     location: United States
     name: Jack Reed
+  - company: Stanford University Libraries
+    location: United States
+    name: Gary Geisler
   contact:
     email: pjreed@stanford.edu
     name: Jack Reed
@@ -611,21 +570,22 @@
   - Audio/Visual use cases for IIIF
   - Interoperability in IIIF contexts
   type: Workshop
-- abstract: <p>The UV Workshop is divided into two sessions. The first will showcase
-   recent developments, including:</p><p> - The establishment of a Steering Committee for 
-   the Universal Viewer</p><p> - The IIIF AV support for the British Library’s Save our 
-   Sounds programme</p><p> - A look at the British Library’s recent user testing 
-   sessions</p><p> - Progress on IIIF-Commons libraries and components</p><p> - An 
-   exciting new 3D extension built in collaboration with https://morphosource.org</p><p>We 
-   will introduce the UV’s possible roadmap for the next 12 months, such as the British 
-   Library’s UV Phase 3 project, support for more display of textual content and other 
-   annotations, OCR, and geolocation enhancements. If you have questions and/or 
-   suggestions for the UV’s directions, bring them along!</p><p>After the break we’ll 
-   split into two parts.</p><p> - One session will continue to look at the user experience 
-   of the Universal Viewer in more depth, and dig into usage scenarios and the 
-   roadmap.</p><p> - The other session will be a round-table developer session, hands-on 
-   at times, for answering technical questions and exploring the potential for reusable 
-   code libraries.</p>
+- abstract: "<p>The UV Workshop is divided into two sessions. The first will showcase\
+    \ recent developments, including:</p><p> - The establishment of a Steering Committee\
+    \ for </p><p>   the Universal Viewer</p><p> - The IIIF AV support for the British\
+    \ Library\u2019s Save our </p><p>   Sounds programme</p><p> - A look at the British\
+    \ Library\u2019s recent user testing </p><p>   sessions</p><p> - Progress on IIIF-Commons\
+    \ libraries and components</p><p> - An  exciting new 3D extension built in collaboration\
+    \ with https://morphosource.org</p><p>We will introduce the UV\u2019s possible\
+    \ roadmap for the next 12 months, such as the British Library\u2019s UV Phase\
+    \ 3 project, support for more display of textual content and other annotations,\
+    \ OCR, and geolocation enhancements. If you have questions and/or suggestions\
+    \ for the UV\u2019s directions, bring them along!</p><p>After the break we\u2019\
+    ll split into two parts.</p><p> - One session will continue to look at the user\
+    \ experience of the Universal Viewer in more depth, and dig into usage scenarios\
+    \ and the roadmap.</p><p> - The other session will be a round-table developer\
+    \ session, hands-on at times, for answering technical questions and exploring\
+    \ the potential for reusable code libraries.</p>"
   authors:
   - company: Mnemoscene
     link: http://mnemoscene.io/
@@ -652,6 +612,74 @@
   - Audio/Visual use cases for IIIF
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Workshop
+- abstract: <p>Demonstrated a couple of years ago at the IIIF Vatican event Cogapp
+    has created storiiies.cogapp.com. This platform allows users to create digital
+    stories around a given IIIF image. Advanced use-cases involve interpretation overlaid
+    on a deep-zoom interface.</p><p>Since we last spoke about this platform we have
+    taken it a step further and created an editing interface so that the underlying
+    IIIF magic is essentially invisible. Any user can now create their own story and
+    have it told with no prior knowledge of IIIF.</p><p>In this lightning talk we
+    will demonstrate this interface and offer it up for use by educators and interested
+    parties all over the world in the hope that this tool can further drive uptake
+    of IIIF and demonstrate the types of experience that IIIF makes possible.</p>
+  authors:
+  - company: Cogapp
+    link: http://storiiies.cogapp.com/
+    location: UK
+    name: Andy Cummins
+  - company: Cogapp
+    link: http://storiiies.cogapp.com/
+    location: UK
+    name: Jon White
+  contact:
+    email: andyc@cogapp.com
+    name: Andy Cummins
+  flagged: false
+  id: 50
+  title: Storiiies Editor - Digital Storytelling Powered by IIIF
+  topics:
+  - Annotation, including full-text or academic use cases
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  - Interoperability in IIIF contexts
+  - Implementations of IIIF outside of North America/Europe
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Lightning talk
+- abstract: "<p>The article finds out how to improve the metadata interoperability\
+    \ among the IIIF metadata standards and other metadata standards semantically.\
+    \ There are many metadata standards, such as MODS, MIX, and METS have been developed\
+    \ by different data management institutes, being usable in various data contexts\
+    \ and environments. While the IIIF, instead of reusing existing metadata standards,\
+    \ has provided its own metadata standards (resource properties and structure)\
+    \ at the Presentation API. Developing diverse metadata standards with the same\
+    \ functionality causes divergence. The divergence will lead to pluralism that\
+    \ cannot solve current Web problems in data controlling and processing. Especially,\
+    \ when we are encountering some challenges such as big data phenomenon. In this\
+    \ situation, the interoperability functionality seems to be the most appropriate\
+    \ solution for solving the problems created by divergence. In other words, for\
+    \ integrating data repositories such image repositories, the standards interoperability,\
+    \ here the metadata standard interoperability is necessary, especially in connecting\
+    \ IIIF with existing metadata standards semantically. In the end, the article\
+    \ will focus on suggesting some solutions, such designing comprehensive mappings\
+    \ (or crosswalks), linking devices (attributes and designators) for representing\
+    \ the relationships between image entities intra- and inter- image repositories\
+    \ based on the cultural heritage context\u2019s conceptual reference models, application\
+    \ profiles creation, and so forth, to IIIF how to harmonize and integrate its\
+    \ resource properties and structure with existing metadata standards semantically.</p>"
+  authors:
+  - company: Allameh Tabataba'i University
+    link: http://www.smtaheri.ir
+    location: Iran
+    name: Seyed Mahdi Taheri
+  contact:
+    email: taherismster@gmail.com
+    name: Seyed Mahdi Taheri
+  flagged: false
+  id: 16
+  title: 'Divergence of Knowledge and Information Management Standards: A Pluralism
+    Approach'
+  topics:
+  - Interoperability in IIIF contexts
+  type: Presentation
 - abstract: <p>Indiana University, in collaboration with Digirati, is using IIIF specs
     in its implementation of a newer version of the now retired Variations Audio Timeliner,
     an audio annotation and analysis tool for creating and labeling bubble diagrams.
@@ -2051,13 +2079,16 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - Implementations of IIIF outside of North America/Europe
   type: Lightning talk
-- abstract: "<p>Cambridge Digital Library would like to propose a lightning talk to\
-    \ deliver updates on our progress in implementing IIIF at the University of Cambridge.\
-    \ We would be able to update the IIIF community on developments which have resulted\
-    \ from the \u201CBuilding Sustainable Digital Pedagogy\u201D conference we held\
-    \ in Cambridge in September 2018, as well as discuss any other further developments\
-    \ we might be able to have in place by June 2019, including activities to disseminate\
-    \ IIIF to institutions, staff and students in the University.</p>"
+- abstract: "<p>In September 2018 Cambridge Digital Library convened a conference\
+    \ titled \u201CBuilding Sustainable Digital Pedagogy\u201D in Cambridge (UK).\
+    \ The conference brought together a broad range of stimulating projects and initiatives\
+    \ with a digital focus and pertinence to the process through which we teach and\
+    \ learn. The aim of the conference was to explore opportunities to strengthen\
+    \ the matrix of research, technology and education, and the intrinsic role IIIF\
+    \ could have in that. </p><p>In addition to reviewing the impact of the conference,\
+    \ Cambridge Digital Library will also update the IIIF community on further developments\
+    \ in adoption of IIIF at the University of Cambridge, including activities to\
+    \ disseminate IIIF to institutions, staff and students in the University.</p>"
   authors:
   - company: University of Cambridge
     link: https://cudl.lib.cam.ac.uk/
@@ -2441,7 +2472,7 @@
   - Discovering IIIF resources
   - Interoperability in IIIF contexts
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Panel
+  type: Presentation
 - abstract: "<p>In this talk, we will present Recogito, a Web-based environment for\
     \ collaborative semantic annotation. Recogito is open source software, and provides\
     \ support for working with either text or image documents, including those served\
