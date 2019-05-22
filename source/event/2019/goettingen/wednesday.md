@@ -5,10 +5,7 @@ tags: [event ]
 page: wednesday
 ---
 
-This is the agenda for Wednesday the 26th of June, the first full day of the conference. 
-
-{: class="alert"} 
-Please note this a draft program and locations and times of presentations may change.
+This is the agenda for Wednesday the 26th of June, the first full day of the conference. To register for the conference please see the [main registration page][registration].
 
 <table class="api-table">
   <thead>
@@ -67,10 +64,4 @@ Please note this a draft program and locations and times of presentations may ch
   </tbody>
 </table>
 
-<!-- 
-45 - Manuscripts
-47 Angel Wollf - V&A
-58 numerical sources
-63 colorize
-18 data analysis -->
-
+[registration]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453

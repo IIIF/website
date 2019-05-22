@@ -28,7 +28,7 @@ All event proceedings will be in English unless otherwise noted.
 
 ### Schedule
 
-Draft schedule below, please note this is subject to change.
+The conference schedule is below.
 
 * [Monday 24th of June - Showcase][showcase]
 * [Tuesday 25th of June - Workshops][workshops]
@@ -48,11 +48,8 @@ We will wrap up at 12:30pm on Friday the 28th of June.
 * Capacity: 270
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
-
-### Travel Scholarship
-
-In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the Annual Conference being held this year in Göttingen, Germany. Please see the [2019 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is Friday, May 3, 2019.
-
+* Slack channel: [#göttingen-social][slack-channel] 
+  * This is part of the IIIF Slack and can be used to discuss travel plans and social activities during the conference. You can register for the IIIF slack [here][slack].
 
 ### Travel
 
@@ -94,6 +91,9 @@ If you are interested in becoming a conference sponsor, please see the benefits 
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Blick auf Goettingen aus der Vogelschau nach Nordwesten, Friedrich Besemann. Public Domain">
         <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" height="200">
     </a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg/768px-G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image taken by Daniel Schwen on march 3rd 2006.">
+        <img class="thumb-lightbox" alt="Gänseliesel fountain on the market square in Göttingen. Old townhall in the background. Image taken by Daniel Schwen on march 3rd 2006." src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg/360px-G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg" height="200">
+    </a>
     <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
         <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-thumb.png" height="200">
     </a>
@@ -129,3 +129,5 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [textbytes]: https://www.textandbytes.com/
 [veridian]: https://www.veridiansoftware.com/
 [gallerysystems]: https://www.gallerysystems.com/
+[slack]: http://bit.ly/iiif-slack
+[slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
