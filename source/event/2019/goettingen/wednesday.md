@@ -50,11 +50,12 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         
         {% include conference_slot_row.html time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html time='3:30pm - 5:00pm' rowspan='9' paper=53 %}
+        {% include conference_slot_row.html time='3:30pm - 5:00pm' rowspan='10' paper=53 %}
         {% include conference_slot_row.html paper=2 %}
         {% include conference_slot_row.html paper=37 %}
         {% include conference_slot_row.html paper=43 %}
         {% include conference_slot_row.html paper=58 %}
+        {% include conference_slot_row.html paper=38 %}
         {% include conference_slot_row.html paper=27 %}
         {% include conference_slot_row.html paper=23 %}
         {% include conference_slot_row.html paper=4 %}

@@ -343,7 +343,14 @@
   - Interoperability in IIIF contexts
   - Implementations of IIIF outside of North America/Europe
   type: Panel
-- abstract: <p>Presentation on IIIF and 3D</p>
+- abstract: "<p>The Nomad Project (nomad-project.co.uk) is a Heritage Lottery and\
+    \ Nesta funded initiative to:</p><p> - Engage with heritage through digital processes\
+    \ and social activities</p><p> - Inspire by using new and creative approaches</p><p>\
+    \ - Empower through digital training and literacy</p><p>We would like to present\
+    \ our work to date which uses open source technologies such as the Universal Viewer,\
+    \ Mozilla\u2019s A-Frame, and the Mixed Reality Toolkit for the Microsoft HoloLens,\
+    \ while discussing the social impact of making these technologies more accessible\
+    \ for community and independent led organisations. </p>"
   authors:
   - company: Mnemoscene
     link: http://mnemoscene.io/
@@ -352,13 +359,29 @@
   contact:
     email: e.silverton@gmail.com
     name: Ed Silverton
-  flagged: true
+  flagged: false
   id: 80
-  title: Experiences with IIIF and 3D
+  keywords:
+  - 3D
+  - immersive storytelling
+  - webXR
+  - viewer
+  - community
+  title: The Nomad Project
   topics:
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Presentation
-- abstract: <p>A presentation on how IIIF has become a national standard in Italy</p>
+- abstract: '<p>UNI (Ente Nazionale di Unificazione) is the official Italian Standardization
+    Body entrusted with the development, publication and promotion of standards to
+    improve efficiency and effectiveness of the socioeconomic system.</p><p>UNI represents
+    the Italian interest in European and International standardization in order to:
+    foster standards'' harmonization as well as support the distinguishing features
+    of the Italian production system and turn them into technical documents enhancing
+    national expertise and tradition. Among the initiatives undertaken this year  by
+    the UNI Technical Committee "Documentation and Information" there is the adoption
+    of IIIF. This presentation will focus on the state of the art of the national
+    adoption as well as on the creation of the IIIF Italian community and some other
+    activities.</p>'
   authors:
   - company: Biblioteca Apostolica Vaticana
     location: Italy
@@ -366,9 +389,9 @@
   contact:
     email: manoni@vatlib.it
     name: Paola Manoni
-  flagged: true
+  flagged: false
   id: 79
-  title: IIIF as an Italian Standard
+  title: 'IIIF: an upcoming standard in Italy'
   topics:
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - Interoperability in IIIF contexts
@@ -675,8 +698,7 @@
     name: Seyed Mahdi Taheri
   flagged: false
   id: 16
-  title: 'Divergence of Knowledge and Information Management Standards: A Pluralism
-    Approach'
+  title: How to Improve the Metadata Interoperability at the IIIF Presentation API
   topics:
   - Interoperability in IIIF contexts
   type: Presentation
@@ -2776,7 +2798,7 @@
   contact:
     email: regine.stein@sub.uni-goettingen.de
     name: Regine Stein
-  flagged: false
+  flagged: true
   id: 66
   title: "IIIF at the G\xF6ttingen State and University Library and G\xF6ttingen University\
     \ - state of the art"

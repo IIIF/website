@@ -39,9 +39,8 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html time='11:00am - 12:00am' rowspan='4' title='<b>IIIF, AI and Machine Learning Plenary Session</b>' %}
-        {% include conference_slot_row.html paper=38 %}
-        {% include conference_slot_row.html paper=63 %} <!-- need to stretch somehow -->
+        {% include conference_slot_row.html time='11:00am - 12:00am' rowspan='3' title='<b>IIIF, AI and Machine Learning Plenary Session</b>' %}
+        {% include conference_slot_row.html paper=63 %} 
         {% include conference_slot_row.html title='Panel Discussion' %} <!-- need to stretch somehow -->
 
         {% include conference_slot_row.html time='12:00am - 12:30pm' title='Closing Plenary' %}
@@ -50,5 +49,4 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
 </table>
 <br/>
 
-[memorial]: https://en.wikipedia.org/wiki/Memorial_Day
 [registration]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
