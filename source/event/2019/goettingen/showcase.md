@@ -24,15 +24,125 @@ Come join us for a day-long free event that will educate, inspire, and reinvent 
 
 The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event (though it offers something for everyone, so returning attendees are welcome as well!). It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community. 
  
-### The Showcase will include:
+### Program:
 
-* Introduction to IIIF
-* IIIF Use cases, including Museums, Archives, Manuscripts, Teaching and Research, Audio visual and more
-* Introductions to the IIIF APIs; Image, Presentation, Authentication and Search
-* IIIF Viewers; Mirador and the Universal Viewer
-* The IIIF Community and Consortium
-* Fun with IIIF
-* Audience discussion
+<table class="api-table">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Authors</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10:00am - 10:30am</td>
+            <td colspan="2"><b>Arrival, Registration and Tea/Coffee</b></td>
+        </tr>
+        <tr>
+            <td>10:30am - 10:40am</td>
+            <td>Welcome</td>
+            <td>Wolfram Horstmann, Göttingen State and University Library</td>
+        </tr>
+        <tr>
+            <td>10:40am - 11:00am</td>
+            <td>Introduction to IIIF</td>
+            <td>Josh Hadro, IIIF Consortium</td>
+        </tr>
+        <tr>
+            <td>11:00am - 11:20am</td>
+            <td>IIIF evolution</td>
+            <td>Tom Cramer, Stanford University</td>
+        </tr>
+        <tr>
+            <td rowspan="7">11:20am - 12:30pm</td>
+            <td colspan="2"><b>IIIF community use cases</b></td>
+        </tr>
+        <tr>
+            <td>IIIF and Libraries</td>
+            <td>Mustafa Dogan, Göttingen State and University Library</td>
+        </tr>    
+        <tr>
+            <td>IIIF and Museums</td>
+            <td>Emmanuelle Delmas-Glass, Yale Center for British Art</td>
+        </tr>    
+        <tr>
+            <td>IIIF and Manuscripts</td>
+            <td>Ben Albritton, Stanford University</td>
+        </tr>    
+        <tr>
+            <td>Research and Digital Humanaties</td>
+            <td>Göttingen State and University Library</td>
+        </tr>    
+        <tr>
+            <td>IIIF and Newspapers</td>
+            <td>Karen Estlund, Penn State University</td>
+        </tr>    
+        <tr>
+            <td>Fun with IIIF</td>
+            <td>Cogapp</td>
+        </tr>    
+        <tr>
+            <td>12:30pm - 1:30pm</td>
+            <td colspan="2"><b>Lunch (provided)</b></td>
+        </tr>
+        <tr>
+            <td>1:30pm - 2:00pm</td>
+            <td>Keynote</td>
+            <td>Harry Verwayen, Europeana</td>
+        </tr>
+        <tr>
+            <td rowspan="5">2:00pm - 3:00pm</td>
+            <td colspan="2"><b>Technical and Practical details on how to participate and implement</b></td>
+        </tr>
+        <tr>
+            <td>IIIF Deep Dive</td>
+            <td>Michael Appleby, Yale University Library</td>
+        </tr>    
+        <tr>
+            <td>IIIF A/V</td>
+            <td>Tom Crane, Digirati</td>
+        </tr>    
+        <tr>
+            <td>IIIF Community and Consortium</td>
+            <td>Stacey Redick, Folger Shakespeare Library</td>
+        </tr>    
+        <tr>
+            <td>How to adopt, where do I get started?</td>
+            <td>Glen Robson, IIIF Consortium</td>
+        </tr>    
+        <tr>
+            <td>3:00pm - 3:30pm</td>
+            <td colspan="2"><b>Break</b></td>
+        </tr>
+        <tr>
+            <td rowspan="5">3:30pm - 4:20pm</td>
+            <td colspan="2"><b>Building on implementing and IIIF futures</b></td>
+        </tr>
+        <tr>
+            <td>IIIF and Crowdsourcing</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>IIIF and Crowdsourcing</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>IIIF and AI</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Visualizing which parts of IIIF images are looked by users</td>
+            <td>Kiyonori Nagasaki, University of Tokyo</td>
+        </tr>
+        <tr>
+            <td>4:20pm - 4:30pm</td>
+            <td>Summary and wrap-up</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>    
+
 
 The Showcase is a separate event but can be combined with a workshop ticket (€70) which would give you access to the sessions on [Tuesday][workshops]. Or, to get the full experience, the Showcase can be combined with a full conference ticket which will give you access to the [workshops on Tuesday][workshops], and a reception and the main IIIF conference on Wednesday to Friday. 
 
