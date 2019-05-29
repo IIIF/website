@@ -140,5 +140,5 @@ Drew Winget (Stanford University Libraries)
 [stanford-dnd]: https://library.stanford.edu/blogs/digital-library-blog/2016/08/iiif-in-searchworks
 [ncsu-search]: https://www.youtube.com/watch?v=gPRPfPZnIvU
 [europeana-sitemaps]: https://groups.google.com/forum/#!searchin/iiif-discuss/europeana$20discovery%7Csort:relevance/iiif-discuss/Y42yd2hjkjM/llKIlJZiBwAJ
-[palette-service]: http://palette.davidnewbury.com/
+[palette-service]: https://github.com/workergnome/iiifpal
 [pontiiif]: https://www.youtube.com/watch?v=v2-3hAtidUM
