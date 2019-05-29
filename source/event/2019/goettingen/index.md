@@ -70,6 +70,7 @@ Both the IIIF Göttingen Conference and the IIIF Showcase are generously support
 
 **Silver sponsors**  <br>
 <a href="https://www.textandbytes.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/text_and_bytes_logo.png" alt='text and bytes logo' style="width: 300px"></a>
+<a href="http://www.casalini.it/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/logo_casalini_atcult_300px.png" alt='Casalini logo' style="width: 300px"></a>
 
 **Bronze sponsors**  <br>
 <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a>
