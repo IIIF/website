@@ -27,7 +27,7 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
   </thead>
   <tbody>
         {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='46,74,22' track2='39,3,36' track3='42,,'  track4=',,,' %}
-        {% include conference_slot_row.html span='6' time='10:30am - 11:00pm' title='<b>Break</b>' %}
+        {% include conference_slot_row.html span='6' time='10:30am - 11:00am' title='<b>Break</b>' %}
   </tbody>
 </table>
 <table class="api-table" style="width: 100%; margin: 0px 0px 0px 0px;">
@@ -39,11 +39,11 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html time='11:00am - 12:00am' rowspan='3' title='<b>IIIF, AI and Machine Learning Plenary Session</b>' %}
+        {% include conference_slot_row.html time='11:00am - 12:00pm' rowspan='3' title='<b>IIIF, AI and Machine Learning Plenary Session</b>' %}
         {% include conference_slot_row.html paper=63 %} 
         {% include conference_slot_row.html title='Panel Discussion' %} <!-- need to stretch somehow -->
 
-        {% include conference_slot_row.html time='12:00am - 12:30pm' title='Closing Plenary' %}
+        {% include conference_slot_row.html time='12:00pm - 12:30pm' title='Closing Plenary' %}
 
   </tbody>
 </table>
