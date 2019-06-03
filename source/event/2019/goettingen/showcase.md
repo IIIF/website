@@ -71,7 +71,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td>Ben Albritton, Stanford University</td>
         </tr>    
         <tr>
-            <td>Research and Digital Humanaties</td>
+            <td>Research and Digital Humanities</td>
             <td>Göttingen State and University Library</td>
         </tr>    
         <tr>
