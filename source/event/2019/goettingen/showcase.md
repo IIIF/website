@@ -60,7 +60,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>IIIF and Libraries</td>
-            <td>Mustafa Dogan, Göttingen State and University Library</td>
+            <td>Zeki Mustafa Dogan, Göttingen State and University Library</td>
         </tr>    
         <tr>
             <td>IIIF and Museums</td>
@@ -72,7 +72,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>    
         <tr>
             <td>Research and Digital Humanities</td>
-            <td>Göttingen State and University Library</td>
+            <td>Regine Stein, Göttingen State and University Library</td>
         </tr>    
         <tr>
             <td>IIIF and Newspapers</td>
