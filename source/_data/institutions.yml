@@ -309,6 +309,9 @@
 - name: Vatican Library
   uri: https://www.vatlib.it
   iiifc: 2
+- name: Veridian Software
+  uri: https://www.veridiansoftware.com
+  iiifc:
 - name: Villanova University
   uri: https://digital.library.villanova.edu/
   iiifc:
