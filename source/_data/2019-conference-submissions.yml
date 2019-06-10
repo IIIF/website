@@ -1,32 +1,3 @@
-- abstract: "<p>This is a bit of an unusual abstract. I'm not proposing a workshop\
-    \ or presentation. What I was hoping you might be able to accommodate is our slowlooking\
-    \ room.</p><p>This is a contemplative experience built upon IIIF. You can see\
-    \ for yourself at slowlooking.cogapp.com.</p><p>We recently facilitated a break-out\
-    \ space at the Museum Computer Network in Denver. This Slowlooking Room was intended\
-    \ as a space for people to take a break between sessions and enjoy some beautiful\
-    \ works of art. The idea being that people could recharge before heading back\
-    \ into the conference proper. When we run the room, we project artworks as large\
-    \ as we can onto a wall and have some relaxing music play in the background. The\
-    \ room is dark and people tend to stay for 5-10mins. All we need is a projector\
-    \ and a room that can be made relatively dark.</p><p>We got a great response from\
-    \ the attendees at MCN as well as the conference organisers and seeing as we'll\
-    \ be in G\xF6ttingen we thought we'd see if you thought this might be of benefit\
-    \ to the other delegates.</p><p>Happy to hop on a call to discuss this further.\
-    \ My number is +44 1273 821600.</p>"
-  authors:
-  - company: Cogapp
-    link: https://blog.cogapp.com/four-seasons-of-slow-looking-4b37bc333adf
-    location: UK
-    name: Andy Cummins
-  contact:
-    email: andyc@cogapp.com
-    name: Andy Cummins
-  flagged: true
-  id: 49
-  title: Slowlooking Lounge
-  topics:
-  - Audio/Visual use cases for IIIF
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
 - abstract: <p>The presentation will start with the current status of the work at
     Europeana with respect discovery of IIIF cultural heritage resources. We will
     present how IIIF resources may be provided by Europeana data providers in the
@@ -234,33 +205,6 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Panel
-- abstract: '<p>The Herzog August Bibliothek is a leading European institute for research
-    on the medieval and early modern periods. As such it conducts its own long and
-    short-term research projects, often supported by outside funding. </p><p>In autumn
-    2018 we started a pilot to evaluate the feasibility of publishing our digital
-    collections via IIIF conforming web services. The short-term goal is to implement
-    IIIF Image and Presentation webservices for a collection of medieval manuscripts
-    of collaboration project with the Bodleian Libraries.</p><p>In my lightning talk
-    I would like to present our approach to publish IIIF manifests from an XML-based
-    digization workflow. I will also give a short introduction to two software components
-    we wrote for the pilot: An implementation of the IIIF Presentation API based on
-    METS application profile defined by the german research foundation (Deutsche Forschungs
-    Gemeinschaft, DFG), and an implementation of the IIIF Image API based the programming
-    language PHP''s interface to the GD Graphics Library.</p>'
-  authors:
-  - company: "Herzog August Bibliothek Wolfenb\xFCttel"
-    link: https://dmaus.name
-    location: Germany
-    name: David Maus
-  contact:
-    email: maus@hab.de
-    name: David Maus
-  flagged: false
-  id: 44
-  title: IIIF at the Herzog August Bibliothek
-  topics:
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  type: Lightning talk
 - abstract: "<p>The need for interoperable platforms to share cultural heritage information\
     \ is an important aspect in the digital realm, especially for cultural heritage\
     \ institutions that are federating collections and reuniting them in the digital\
@@ -343,59 +287,6 @@
   - Interoperability in IIIF contexts
   - Implementations of IIIF outside of North America/Europe
   type: Panel
-- abstract: "<p>The Nomad Project (nomad-project.co.uk) is a Heritage Lottery and\
-    \ Nesta funded initiative to:</p><p> - Engage with heritage through digital processes\
-    \ and social activities</p><p> - Inspire by using new and creative approaches</p><p>\
-    \ - Empower through digital training and literacy</p><p>We would like to present\
-    \ our work to date which uses open source technologies such as the Universal Viewer,\
-    \ Mozilla\u2019s A-Frame, and the Mixed Reality Toolkit for the Microsoft HoloLens,\
-    \ while discussing the social impact of making these technologies more accessible\
-    \ for community and independent led organisations. </p>"
-  authors:
-  - company: Mnemoscene
-    link: http://mnemoscene.io/
-    location: United Kingdom
-    name: Ed Silverton
-  contact:
-    email: e.silverton@gmail.com
-    name: Ed Silverton
-  flagged: false
-  id: 80
-  keywords:
-  - 3D
-  - immersive storytelling
-  - webXR
-  - viewer
-  - community
-  title: The Nomad Project
-  topics:
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Presentation
-- abstract: '<p>UNI (Ente Nazionale di Unificazione) is the official Italian Standardization
-    Body entrusted with the development, publication and promotion of standards to
-    improve efficiency and effectiveness of the socioeconomic system.</p><p>UNI represents
-    the Italian interest in European and International standardization in order to:
-    foster standards'' harmonization as well as support the distinguishing features
-    of the Italian production system and turn them into technical documents enhancing
-    national expertise and tradition. Among the initiatives undertaken this year  by
-    the UNI Technical Committee "Documentation and Information" there is the adoption
-    of IIIF. This presentation will focus on the state of the art of the national
-    adoption as well as on the creation of the IIIF Italian community and some other
-    activities.</p>'
-  authors:
-  - company: Biblioteca Apostolica Vaticana
-    location: Italy
-    name: Paola Manoni
-  contact:
-    email: manoni@vatlib.it
-    name: Paola Manoni
-  flagged: false
-  id: 79
-  title: 'IIIF: an upcoming standard in Italy'
-  topics:
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  - Interoperability in IIIF contexts
-  type: Presentation
 - abstract: <p>This workshop will introduce Mirador 3 to end users. The workshop will
     focus on giving attendees hands on experience with using Mirador 3. Mirador 3,
     is a rewrite and new architecture of the popular comparison and visualization
@@ -445,49 +336,6 @@
   - Annotation, including full-text or academic use cases
   - Interoperability in IIIF contexts
   type: Workshop
-- abstract: "<p>With the acceleration of the digital revolution, organisations want\
-    \ to keep\_getting closer to their audience by improving their online experience.\
-    \ The need for robust, standardised and user-friendly data management tools is\
-    \ getting critical to\_maintain data\_and make it accessible for users through\
-    \ in-house and constantly evolving third-content applications.</p><p>We have developed\
-    \ a new tool with the goal of offering an elegant solution for GLAM institutions\
-    \ to\_upgrade their digital collections with modern data standards, and to display\
-    \ them with glorious\_visualisation features\_thanks to all the IIIF goodness.\
-    \ Our solution also enables collections to be\_compliant with the Europeana platform,\
-    \ which ensures enhanced search functionalities to reach your audience even further.</p><p>The\
-    \ solution enables data managers to upload a dataset (XML, CSV, RDF/XML), fetch\
-    \ the original pictures, and use its streamlined data workflow to transform the\
-    \ data into a IIIF collection, with a dedicated public page.</p><p>The tool also\
-    \ offers an automated export feature into EDM/XML, giving collections the opportunity\
-    \ to be\_compliant with the Europeana platform, which is a performant gateway\
-    \ to reach their audience even further.</p><p>We plan to launch this solution\
-    \ within the next months and we are now in contact with pilot institutions for\
-    \ the last testing/refining phase. By May 2019 we plan to have made it official\
-    \ and start to promote it more effectively.</p>"
-  authors:
-  - company: The Muz Platform
-    link: https://muzz.app
-    location: Netherlands
-    name: Pierre-Edouard Barrault
-  contact:
-    email: pe.barrault@gmail.com
-    name: Pierre-Edouard Barrault
-  flagged: false
-  id: 78
-  keywords:
-  - Design thinking
-  - data-driven design
-  - web app
-  - Europeana
-  - LOD
-  - user experience
-  title: Designing a user friendly IIIF based data aggregation platform
-  topics:
-  - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
-  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
-  - Interoperability in IIIF contexts
-  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: Presentation
 - abstract: <p>Description of the workshop</p><p>Our comprehensive, hands-on Goobi
     IIIF workshop is designed to give all participants the skills they need to generate
     valid, standardised metadata from directories containing images using very simple
@@ -635,6 +483,102 @@
   - Audio/Visual use cases for IIIF
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   type: Workshop
+- abstract: "<p>The Nomad Project (nomad-project.co.uk) is a Heritage Lottery and\
+    \ Nesta funded initiative to:</p><p> - Engage with heritage through digital processes\
+    \ and social activities</p><p> - Inspire by using new and creative approaches</p><p>\
+    \ - Empower through digital training and literacy</p><p>We would like to present\
+    \ our work to date which uses open source technologies such as the Universal Viewer,\
+    \ Mozilla\u2019s A-Frame, and the Mixed Reality Toolkit for the Microsoft HoloLens,\
+    \ while discussing the social impact of making these technologies more accessible\
+    \ for community and independent led organisations. </p>"
+  authors:
+  - company: Mnemoscene
+    link: http://mnemoscene.io/
+    location: United Kingdom
+    name: Ed Silverton
+  contact:
+    email: e.silverton@gmail.com
+    name: Ed Silverton
+  flagged: false
+  id: 80
+  keywords:
+  - 3D
+  - immersive storytelling
+  - webXR
+  - viewer
+  - community
+  title: The Nomad Project
+  topics:
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Presentation
+- abstract: '<p>UNI (Ente Nazionale di Unificazione) is the official Italian Standardization
+    Body entrusted with the development, publication and promotion of standards to
+    improve efficiency and effectiveness of the socioeconomic system.</p><p>UNI represents
+    the Italian interest in European and International standardization in order to:
+    foster standards'' harmonization as well as support the distinguishing features
+    of the Italian production system and turn them into technical documents enhancing
+    national expertise and tradition. Among the initiatives undertaken this year  by
+    the UNI Technical Committee "Documentation and Information" there is the adoption
+    of IIIF. This presentation will focus on the state of the art of the national
+    adoption as well as on the creation of the IIIF Italian community and some other
+    activities.</p>'
+  authors:
+  - company: Biblioteca Apostolica Vaticana
+    location: Italy
+    name: Paola Manoni
+  contact:
+    email: manoni@vatlib.it
+    name: Paola Manoni
+  flagged: false
+  id: 79
+  title: 'IIIF: an upcoming standard in Italy'
+  topics:
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  - Interoperability in IIIF contexts
+  type: Presentation
+- abstract: "<p>With the acceleration of the digital revolution, organisations want\
+    \ to keep\_getting closer to their audience by improving their online experience.\
+    \ The need for robust, standardised and user-friendly data management tools is\
+    \ getting critical to\_maintain data\_and make it accessible for users through\
+    \ in-house and constantly evolving third-content applications.</p><p>We have developed\
+    \ a new tool with the goal of offering an elegant solution for GLAM institutions\
+    \ to\_upgrade their digital collections with modern data standards, and to display\
+    \ them with glorious\_visualisation features\_thanks to all the IIIF goodness.\
+    \ Our solution also enables collections to be\_compliant with the Europeana platform,\
+    \ which ensures enhanced search functionalities to reach your audience even further.</p><p>The\
+    \ solution enables data managers to upload a dataset (XML, CSV, RDF/XML), fetch\
+    \ the original pictures, and use its streamlined data workflow to transform the\
+    \ data into a IIIF collection, with a dedicated public page.</p><p>The tool also\
+    \ offers an automated export feature into EDM/XML, giving collections the opportunity\
+    \ to be\_compliant with the Europeana platform, which is a performant gateway\
+    \ to reach their audience even further.</p><p>We plan to launch this solution\
+    \ within the next months and we are now in contact with pilot institutions for\
+    \ the last testing/refining phase. By May 2019 we plan to have made it official\
+    \ and start to promote it more effectively.</p>"
+  authors:
+  - company: The Muz Platform
+    link: https://muzz.app
+    location: Netherlands
+    name: Pierre-Edouard Barrault
+  contact:
+    email: pe.barrault@gmail.com
+    name: Pierre-Edouard Barrault
+  flagged: false
+  id: 78
+  keywords:
+  - Design thinking
+  - data-driven design
+  - web app
+  - Europeana
+  - LOD
+  - user experience
+  title: Designing a user friendly IIIF based data aggregation platform
+  topics:
+  - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
+  - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
+  - Interoperability in IIIF contexts
+  - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
+  type: Presentation
 - abstract: <p>Demonstrated a couple of years ago at the IIIF Vatican event Cogapp
     has created storiiies.cogapp.com. This platform allows users to create digital
     stories around a given IIIF image. Advanced use-cases involve interpretation overlaid
@@ -2466,8 +2410,9 @@
     cross-institution storytelling, crowdsourcing, display of hierarchically described
     digital archival collections, and even enabling researchers to recreate dispersed
     collections and create new collections based on specific research questions. </p><p>This
-    session will showcase work by community group members, then segue into a panel
-    discussion exploring areas for further investigation and development.</p>
+    session will showcase work by community group members, and explore areas for,
+    then segue into a panel discussion exploring areas for further investigation and
+    development.</p>
   authors:
   - company: Stanford University Libraries
     location: USA
@@ -2488,7 +2433,7 @@
   - born-digital
   - collaboration
   - interoperability
-  title: Archives Community Group Showcase and Panel Discussion
+  title: Archives Community Group Showcase
   topics:
   - Annotation, including full-text or academic use cases
   - Discovering IIIF resources
