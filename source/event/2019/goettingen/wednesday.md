@@ -25,9 +25,8 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         {% include conference_slot_row.html paper=13 %}
         {% include conference_slot_row.html paper=50 %}
         {% include conference_slot_row.html time='10:30am - 11:00am' title='<b>Break</b>' %}
-        {% include conference_slot_row.html time='11:00am - 11:30am' rowspan='1' title='IIIF Community Group Updates' authors='Glen Robson, IIIF Technical Coordinator (TBC)' %}
-        {% include conference_slot_row.html time='11:30am - 12:30pm' rowspan='7' paper=41 %} <!-- 9 per slot -->
-        {% include conference_slot_row.html paper=54 %}
+        {% include conference_slot_row.html time='11:00am - 11:35am' rowspan='1' title='IIIF Community Group Updates' authors='Glen Robson, IIIF Technical Coordinator (TBC)' %}
+        {% include conference_slot_row.html time='11:35am - 12:30pm' rowspan='6' paper=41 %} <!-- 9 per slot -->
         {% include conference_slot_row.html paper=15 %}
         {% include conference_slot_row.html paper=47 %}
         {% include conference_slot_row.html paper=7 %}
@@ -49,9 +48,10 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         
         {% include conference_slot_row.html time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html time='3:30pm - 5:00pm' rowspan='10' paper=53 %}
+        {% include conference_slot_row.html time='3:30pm - 5:00pm' rowspan='11' paper=53 %}
         {% include conference_slot_row.html paper=2 %}
         {% include conference_slot_row.html paper=37 %}
+        {% include conference_slot_row.html paper=54 %}
         {% include conference_slot_row.html paper=43 %}
         {% include conference_slot_row.html paper=58 %}
         {% include conference_slot_row.html paper=38 %}
