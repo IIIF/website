@@ -184,7 +184,7 @@ Rashmi Singhal (Harvard)
 [web-anno]: https://www.w3.org/blog/2017/02/making-it-easier-to-share-annotations-on-the-web/
 [leaflet]: https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2
 [dlcs]: https://www.gitbook.com/book/dlcs/book/details
-[harvard-teaching]: http://iiif.harvard.edu/portfolio/atg/
+[harvard-teaching]: https://iiif.harvard.edu/collaborators/fas-academic-technology-group/
 [toronto-demo]: https://youtu.be/wudps0cMhCk?list=PLYPP1-8uH9c64gvZqPyWDW3P3nU-jFSaj
 [leuven-demo]: https://youtu.be/aUnSCm8SFe8
 [spotlight-demo]: https://youtu.be/JtfQGpWQfVM
