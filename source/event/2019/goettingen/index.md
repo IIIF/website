@@ -37,6 +37,10 @@ The conference schedule is below.
 
 We will wrap up at 12:30pm on Friday the 28th of June. 
 
+### Social locations
+
+The local organizers have prepared a [few social activity suggestions][social] for you that you can join after the end of the conference program, including two guided tours (a city tour, and a library tour) as well as some [suggested restaurants and bars][social] to attend near the conference venue.
+
 ### Logistics
 
 * [Registration available on Eventbrite.][eventbrite]
@@ -132,3 +136,4 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [gallerysystems]: https://www.gallerysystems.com/
 [slack]: http://bit.ly/iiif-slack
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
+[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
