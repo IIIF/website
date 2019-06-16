@@ -1,0 +1,42 @@
+- name: Tagungs- und Veranstaltungshaus Alte Mensa
+  note: Location for all of the conference sessions
+  address: Wilhelmspl. 3, 37073 Göttingen, Germany
+  lat: 51.5333783
+  lng: 9.9367553
+  cat: 0
+- name: Trou
+  note: no reservation
+  address: Burgstraße 20 37073 Göttingen
+  lat: 51.53437
+  lng: 9.9373358
+  cat: 1
+- name: Thanners
+  address: Barfüßstraße 1 37073 Göttingen
+  note: reservation IIIF2019 Monday & Thursday at 19:00
+  lat: 51.5338296
+  lng: 9.9373993
+  cat: 1
+- name: Nautibar
+  address: Theaterstraße 8 37073 Göttingen
+  lat: 51.5348394
+  lng: 9.9355346
+  note: Reservation IIIF2019 Monday & Thursday at 19:00
+  cat: 1
+- name: Zum Szültenbürger
+  address: Prinzenstraße 7 37073 Göttingen
+  lat: 51.53437
+  lng: 9.9323413
+  note: No reservation
+  cat: 2
+- name: Kleiner Ratskeller
+  address: Jüdenstraße 30 37073 Göttingen
+  lat: 51.53512
+  lng: 9.9342813
+  note: No reservation
+  cat: 2
+- name: Sambesi
+  address: Wendenstraße 8 37073 Göttingen
+  lat: 51.532989
+  lng: 9.937284
+  note: No reservation
+  cat: 2
