@@ -120,19 +120,19 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td colspan="2"><b>Building on implementing and IIIF futures</b></td>
         </tr>
         <tr>
-            <td>IIIF and Crowdsourcing</td>
-            <td></td>
+            <td>IIIF Crowdsourcing with The Parker Library</td>
+            <td>Anne McLaughlin, The Parker Library, Corpus Christi College, Cambridge</td>
         </tr>
         <tr>
-            <td>IIIF and Crowdsourcing</td>
-            <td></td>
+            <td>IIIF and Crowdsourcing with Madoc</td>
+            <td>Matt McGrattan, Digirati</td>
         </tr>
         <tr>
             <td>IIIF and AI</td>
-            <td></td>
+            <td>Sonia Wronkowska, National Library of Poland</td>
         </tr>
         <tr>
-            <td>Visualizing which parts of IIIF images are looked by users</td>
+            <td>Visualizing which parts of IIIF images are looked at by users</td>
             <td>Kiyonori Nagasaki, University of Tokyo</td>
         </tr>
         <tr>
