@@ -11,8 +11,8 @@
   lng: 9.9373358
   cat: 1
 - name: Thanners
-  address: Barfüßstraße 1 37073 Göttingen
-  note: reservation IIIF2019 Monday & Thursday at 19:00
+  address: Barfüßerstraße 1 37073 Göttingen
+  note: reservation IIIF2019 Thursday at 19:00
   lat: 51.5338296
   lng: 9.9373993
   cat: 1
@@ -20,7 +20,7 @@
   address: Theaterstraße 8 37073 Göttingen
   lat: 51.5348394
   lng: 9.9355346
-  note: Reservation IIIF2019 Monday & Thursday at 19:00
+  note: Reservation IIIF2019 Monday at 19:00
   cat: 1
 - name: Zum Szültenbürger
   address: Prinzenstraße 7 37073 Göttingen
