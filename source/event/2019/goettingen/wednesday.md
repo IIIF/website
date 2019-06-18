@@ -31,7 +31,7 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         {% include conference_slot_row.html paper=47 %}
         {% include conference_slot_row.html paper=7 %}
         {% include conference_slot_row.html paper=19 %}
-        {% include conference_slot_row.html title='Sponsor presentation - Phase 1 TBC' authors='' %}
+        {% include conference_slot_row.html title='About Phase One Cultural Heritage' authors='Yair Shahar, Phase One Cultural Heritage' %}
         <tr>
             <td>12:30pm - 1:30pm</td>
             <td colspan="2"><b>Lunch</b></td>
@@ -44,7 +44,7 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         {% include conference_slot_row.html paper=77 %}
         {% include conference_slot_row.html paper=12 %}
         {% include conference_slot_row.html paper=24 %}
-        {% include conference_slot_row.html title='Sponsor presentation OCLC - TBC' authors='' %}
+        {% include conference_slot_row.html title='OCLC Lightning Talk' authors='Shane Huddleston, OCLC' %}
         
         {% include conference_slot_row.html time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
