@@ -66,6 +66,11 @@ The program for the workshops is as follows:
 
 Tea, coffee and lunch will be be provided.
 
+Following the event, We have prepared a listing of optional [few social activity suggestions][social] for you that you can join after the end of the conference program.
+
+Also check out the [#göttingen-social][slack-channel] on the IIIF Slack for real-time information about where people are what is happening on the social front.
+
+
 ## Location of Alte Mensa and Consortium reception
 
 Hover your mouse over the marker to see the name of the location.
@@ -99,3 +104,5 @@ Hover your mouse over the marker to see the name of the location.
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>
 
+[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social

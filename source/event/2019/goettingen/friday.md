@@ -49,4 +49,11 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
 </table>
 <br/>
 
+Following the event, We have prepared a listing of a few [social activity suggestions][social] for you that you can join after the end of the conference program.
+
+Also check out the [#göttingen-social][slack-channel] on the IIIF Slack for real-time information about where people are what is happening on the social front.
+
+
 [registration]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
+[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
