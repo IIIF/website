@@ -101,7 +101,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>    
         <tr>
             <td>IIIF A/V</td>
-            <td>Tom Crane, Digirati</td>
+            <td>Andy Irving, The British Library</td>
         </tr>    
         <tr>
             <td>IIIF Community and Consortium</td>
