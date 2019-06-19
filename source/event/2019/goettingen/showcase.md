@@ -143,6 +143,13 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
     </tbody>
 </table>    
 
+Following the event, We have prepared a listing of a few [social activity suggestions][social] for you that you can join after the end of the conference program.
+
+Also check out the [#göttingen-social][slack-channel] on the IIIF Slack for real-time information about where people are what is happening on the social front.
+
+
+
+---
 
 The Showcase is a separate event but can be combined with a workshop ticket (€70) which would give you access to the sessions on [Tuesday][workshops]. Or, to get the full experience, the Showcase can be combined with a full conference ticket which will give you access to the [workshops on Tuesday][workshops], and a reception and the main IIIF conference on Wednesday to Friday. 
 
@@ -211,3 +218,5 @@ The IIIF Showcase will be held in the Alte Mensa conference venue in Göttingen.
 [workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
 [logistics]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/#logistics
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
+[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social

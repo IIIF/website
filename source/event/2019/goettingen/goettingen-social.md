@@ -17,6 +17,13 @@ city tour: [https://forms.gle/4t82DtYDaFdzF4Hr7](https://forms.gle/4t82DtYDaFdzF
 
 library tour: [https://forms.gle/Ue9vgBYKZYD8qcrx7](https://forms.gle/Ue9vgBYKZYD8qcrx7)
 
+## Wednesday Run/Walk 
+
+On Wednesday, June 26, at 7:00am, we invite all participants to join us for an intermediate run / walk on Göttingen`s most famous jogging course „Wall“ (German for “rampart”). The mostly flat course around the city center has sections with stairs and during our side trip to the „Schillerwiesen“ we will have around 50m altitute difference to run. To complete the 6.5k (4 mi)  runners will take 35 to 45 minutes. It is possible to omit the side trip and so reducing the distance to approx. 4.5k (2.8 mi). All running and walking paces are welcome.
+
+Meeting point is 7:00am at the monument representing Wilhelm IV next to the conference venue at the Wilhelmsplatz.
+
+Preview the course at [https://www.komoot.de/tour/70704222](https://www.komoot.de/tour/70704222) (where the GPS data is available as well).
 
 
 
