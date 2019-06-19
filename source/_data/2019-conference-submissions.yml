@@ -1427,10 +1427,14 @@
   - company: Digirati
     link: https://digirati.com/
     location: UK
+    name: Matt McGrattan
+  - company: Digirati
+    link: https://digirati.com/
+    location: UK
     name: Tom Crane
   contact:
-    email: tom.crane@digirati.com
-    name: Tom Crane
+    email: matt.mcgrattan@digirati.com
+    name: Matt McGrattan
   flagged: false
   id: 24
   keywords:
