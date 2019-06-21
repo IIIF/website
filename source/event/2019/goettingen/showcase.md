@@ -116,8 +116,12 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td colspan="2"><b>Break</b></td>
         </tr>
         <tr>
-            <td rowspan="5">3:30pm - 4:20pm</td>
+            <td rowspan="6">3:30pm - 4:20pm</td>
             <td colspan="2"><b>Building on implementing and IIIF futures</b></td>
+        </tr>
+        <tr>
+            <td>Non-Scholarly Use Cases</td>
+            <td>Jeff Steward, Harvard Art Museums</td>
         </tr>
         <tr>
             <td>IIIF Crowdsourcing with The Parker Library</td>

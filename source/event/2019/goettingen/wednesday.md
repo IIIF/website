@@ -44,7 +44,7 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         {% include conference_slot_row.html paper=77 %}
         {% include conference_slot_row.html paper=12 %}
         {% include conference_slot_row.html paper=24 %}
-        {% include conference_slot_row.html title='OCLC Lightning Talk' authors='Shane Huddleston, OCLC' %}
+        {% include conference_slot_row.html title='Promoting IIIF through CONTENTdm' authors='Shane Huddleston, OCLC' %}
         
         {% include conference_slot_row.html time='3:00pm - 3:30pm' title='<b>Break</b>' %}
 
