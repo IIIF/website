@@ -120,7 +120,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td colspan="2"><b>Building on implementing and IIIF futures</b></td>
         </tr>
         <tr>
-            <td>Non-Scholarly Use Cases</td>
+            <td>Hacking Art with IIIF</td>
             <td>Jeff Steward, Harvard Art Museums</td>
         </tr>
         <tr>
@@ -132,8 +132,8 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td>Matt McGrattan, Digirati</td>
         </tr>
         <tr>
-            <td>IIIF and AI</td>
-            <td>Sonia Wronkowska, National Library of Poland</td>
+            <td>IIIF and AI: the case of early printed Polish books</td>
+            <td>Sonia Wronkowska and Jacek Tlaga, National Library of Poland</td>
         </tr>
         <tr>
             <td>Visualizing which parts of IIIF images are looked at by users</td>
