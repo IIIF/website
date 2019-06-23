@@ -50,10 +50,22 @@ The local organizers have prepared a [few social activity suggestions][social] f
     - IIIF Consortium Member €195.00
     -  Non-IIIF Consortium Member €295.00
 * Capacity: 270
-* Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
 * Slack channel: [#göttingen-social][slack-channel] 
   * This is part of the IIIF Slack and can be used to discuss travel plans and social activities during the conference. You can register for the IIIF slack [here][slack].
+* Code of Conduct: The IIIF [Code of Conduct][conduct] applies to these events to ensure they are inclusive, welcoming, and safe. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their white badge lanyards and can be contacted individually:
+
+| Name | Mobile number | E-mail address | IIIF Slack | Twitter |
+| ---- | ------------- | -------------- | ---------- | ------- |
+| Josh Hadro (IIIF Consortium Staff) | +1 917 428 4152 |  [josh.hadro@iiif.io][hadro] | josh.hadro | Hadro |
+| Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
+| Rebecca Hirsch | | [rebecca.hirsch@yale.edu][hirsch] |  rhirsch |bibliobeka |
+| Mark Matienzo | | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
+| Jack Reed |   | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
+| Julien Raemy  |   |  [julien.raemy@hesge.ch][raemy] | julsraemy  | julsraemy  |
+
+If you have any questions about the event please contact IIIF staff at [events \[at\] iiif.io][events].
+
 
 ### Travel
 
@@ -137,3 +149,11 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [slack]: http://bit.ly/iiif-slack
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
 [social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[conduct-list]: mailto:iiif-conduct@googlegroups.com
+[hirsch]: mailto:rebecca.hirsch@yale.edu
+[matienzo]: mailto:matienzo@stanford.edu
+[glen]: mailto:glen.robson@iiif.io
+[raemy]: mailto:julien.raemy@hesge.ch
+[reed]: mailto:pjreed@stanford.edu
+[hadro]: mailto:josh.hadro@iiif.io
+[events]: mailto:events@iiif.io
