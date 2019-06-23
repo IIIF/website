@@ -57,12 +57,14 @@ The local organizers have prepared a [few social activity suggestions][social] f
 
 | Name | Mobile number | E-mail address | IIIF Slack | Twitter |
 | ---- | ------------- | -------------- | ---------- | ------- |
-| Josh Hadro (IIIF Consortium Staff) | +1 917 428 4152 |  [josh.hadro@iiif.io][hadro] | josh.hadro | Hadro |
+| Josh Hadro (IIIF Consortium Staff) | +1 917 428 4152 |  [josh.hadro@iiif.io][hadro] | josh.hadro | hadro |
 | Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
+| Aliya Reich (CLIR/DLF Staff) | | [areich@clir.org][reich] | aliya | aliyareich |
 | Rebecca Hirsch | | [rebecca.hirsch@yale.edu][hirsch] |  rhirsch |bibliobeka |
 | Mark Matienzo | | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
 | Jack Reed |   | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
 | Julien Raemy  |   |  [julien.raemy@hesge.ch][raemy] | julsraemy  | julsraemy  |
+
 
 If you have any questions about the event please contact IIIF staff at [events \[at\] iiif.io][events].
 
@@ -157,3 +159,4 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [reed]: mailto:pjreed@stanford.edu
 [hadro]: mailto:josh.hadro@iiif.io
 [events]: mailto:events@iiif.io
+[reich]: mailto:areich@clir.org
