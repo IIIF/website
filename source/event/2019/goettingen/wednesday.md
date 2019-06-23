@@ -7,6 +7,7 @@ page: wednesday
 
 This is the agenda for Wednesday the 26th of June, the first full day of the conference. To register for the conference please see the [main registration page][registration].
 
+# Location: Adam-von-Trott room, Alte Mensa conference venue
 <table class="api-table">
   <thead>
     <tr>
@@ -16,7 +17,11 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html time='9:00am - 9:10am' title='Welcome' authors='' %}
+    <tr>
+        <td>7:00am - 8:00am</td>
+        <td colspan="2">Optional guided run/walk - <a href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/#wednesday-runwalk">more information here.</a></td>
+    </tr>    
+        {% include conference_slot_row.html time='9:00am - 9:10am' title='Welcome' authors='Ulrike Beisiegel, Göttingen State and University Library' %}
         {% include conference_slot_row.html time='9:20am - 9:30am' title='Welcome and State of the IIIF Universe' authors='Josh Hadro, IIIF Managing Director' %}
         {% include conference_slot_row.html time='09:30am - 10:30pm' rowspan='6' paper=45 %} <!-- 9 per slot -->
         {% include conference_slot_row.html paper=55 %}
@@ -60,7 +65,10 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         {% include conference_slot_row.html paper=4 %}
         {% include conference_slot_row.html paper=31 %}
         
-        {% include conference_slot_row.html time='7:00pm - 9:00pm' title='Reception in the Startraum' %}
+        <tr>
+            <td>7:00pm - 9:00pm</td>
+            <td colspan="2">Join us for an evening reception with food and drinks at the Startraum. The Startraum is located at <a href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-hotels/index.html">Friedrichstraße 3-4</a>, just around the corner from the conference venue.' </td>
+        </tr>    
   </tbody>
 </table>
 

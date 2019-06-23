@@ -10,10 +10,15 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
 <table class="api-table" style="width: 100%; margin: 0px 0px 0px 0px;">
   <thead>
     <tr>
-      <th></th>
+      <th rowspan="2"></th>
       <th colspan="2">Track 1</th>
       <th colspan="2">Track 2</th>
       <th colspan="2">Track 3</th>
+     </tr>
+    <tr>
+      <th colspan="2">Location: Hannah-Vogt-Saal</th>
+      <th colspan="2">Location: Emmy-Noether-Saal</th>
+      <th colspan="2">Location: Taberna</th>
      </tr>
     <tr>
       <th>Time</th>
@@ -32,6 +37,9 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
 </table>
 <table class="api-table" style="width: 100%; margin: 0px 0px 0px 0px;">
   <thead>
+    <tr>
+        <th colspan="3"><div style="text-align:center">Location: Emmy-Noether-Saal</div></th>
+    </tr>
     <tr>
       <th>Time</th>
       <th>Title</th>

@@ -193,7 +193,7 @@
   contact:
     email: acc60@cam.ac.uk
     name: Andy Corrigan
-  flagged: true
+  flagged: false
   id: 42
   keywords:
   - Community
@@ -273,7 +273,7 @@
   contact:
     email: frfr@loc.gov
     name: Fenella G France
-  flagged: true
+  flagged: false
   id: 30
   keywords:
   - interoperable
@@ -2747,7 +2747,7 @@
   contact:
     email: regine.stein@sub.uni-goettingen.de
     name: Regine Stein
-  flagged: true
+  flagged: false
   id: 66
   title: "IIIF at the G\xF6ttingen State and University Library and G\xF6ttingen University\
     \ - state of the art"
