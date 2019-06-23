@@ -1,6 +1,6 @@
 ---
-title: "2019 Hotels for the 2019 IIIF Conference - Göttingen, Germany"
-layout: spec
+title: "Hotels for the 2019 IIIF Conference - Göttingen, Germany"
+layout: gottingen
 tags: [event ]
 ---
 

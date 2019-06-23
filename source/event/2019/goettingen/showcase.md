@@ -23,9 +23,8 @@ Come join us for a day-long free event that will educate, inspire, and reinvent 
 ### Who is it for?
 
 The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event (though it offers something for everyone, so returning attendees are welcome as well!). It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community. 
- 
-### Program:
 
+# Location: Adam-von-Trott room, Alte Mensa conference venue
 <table class="api-table">
     <thead>
         <tr>
@@ -143,6 +142,14 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td>4:20pm - 4:30pm</td>
             <td>Summary and wrap-up</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>5:00pm - 6:30pm</td>
+            <td colspan="2">Optional guided city tour - <a href="https://forms.gle/4t82DtYDaFdzF4Hr7">register here</a> (first-come, first-served)</td>
+        </tr>
+        <tr>
+            <td>5:00pm - 6:00pm</td>
+            <td colspan="2">Optional guided library tour - Historical Building and Pauliner Church - <a href="https://forms.gle/Ue9vgBYKZYD8qcrx7">register here</a> (first-come, first-served)</td>
         </tr>
     </tbody>
 </table>    

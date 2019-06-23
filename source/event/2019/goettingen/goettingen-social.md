@@ -1,6 +1,6 @@
 ---
-title: "2019 Social Locations for the 2019 IIIF Conference - Göttingen, Germany"
-layout: spec
+title: "Social Locations for the 2019 IIIF Conference - Göttingen, Germany"
+layout: gottingen
 tags: [event ]
 ---
 
@@ -9,13 +9,22 @@ We have prepared a few social activities for you that you can join after the end
 Also check out the [#göttingen-social channel](https://iiif.slack.com/messages/CJDMEB03X) on the IIIF Slack for real-time information about where people are what is happening on the social front.
 
 
-## Guided city and library tour
-
 Furthermore you can take part in our guided city and library tours. With the links below you can register for these events. 
 
-city tour: [https://forms.gle/4t82DtYDaFdzF4Hr7](https://forms.gle/4t82DtYDaFdzF4Hr7)
+## Guided city tours
+Among other things you will visit the university’s old Assembly Hall and explore the historic city center around the market place with the Gänseliesel (goose girl) fountain. The tours start after the end of the IIIF conference program. The meeting point is at the Wilhelmsplatz, directly in front of the conference venue. Each tour takes approximately 1.5h.
 
-library tour: [https://forms.gle/Ue9vgBYKZYD8qcrx7](https://forms.gle/Ue9vgBYKZYD8qcrx7)
+* City tours: [Register here, first-come, first-served](https://forms.gle/4t82DtYDaFdzF4Hr7)
+   * Monday at 5:00pm
+   * Tuesday at 5:30pm
+   * Thursday at 5:30pm
+
+## Guided library tours
+The meeting point is at the Wilhelmsplatz, directly in front of the conference venue. Each tour takes approximately 1h.
+
+* Library tour: [Register here, first-come, first-served](https://forms.gle/Ue9vgBYKZYD8qcrx7)
+   * Monday at 5:00pm - Historical Building and Pauliner Church (Papendiek 14)
+   * Tuesday at 5:30pm - Central Library (Platz der Göttinger Sieben 1)
 
 ## Wednesday Run/Walk 
 

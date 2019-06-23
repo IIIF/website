@@ -14,51 +14,65 @@ The program for the workshops is as follows:
 <table class="api-table">
   <thead>
     <tr>
-      <th>Time</th>
-      <th>Location 1</th>
-      <th>Location 2</th>
-      <th>Location 3</th>
+      <th rowspan="2">Time</th>
+      <th colspan="1">Track 1</th>
+      <th colspan="1">Track 2</th>
+      <th colspan="1">Track 3</th>
+     </tr>
+
+    <tr>
+      <th>Location: Adam-von-Trott-Saal</th>
+      <th>Location: Emmy-Noether-Saal</th>
+      <th>Location: Hannah-Vogt-Saal</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-        <td>9:45 - 11:00</td>
+        <td>9:45am - 11:00am</td>
         {% include conference-submission.html paper=52 mode='td' %}
         {% include conference-submission.html paper=76 mode='td' %}
         <td>&nbsp;</td>
     </tr>
     <tr>
-        <td>11:00 - 11:30</td>
+        <td>11:00am - 11:30am</td>
         <td colspan="3" align="center"><b>Break (30 mins)</b> - coffee and tea provided.</td>
     </tr>
     <tr>
-        <td>11:30 - 12:30</td>
+        <td>11:30am - 12:30pm</td>
         {% include conference-submission.html paper=52 mode='td' %}
         {% include conference-submission.html paper=76 mode='td' %}
         <td>&nbsp;</td>
     </tr>
     <tr>
-        <td>12:30 to 2:00</td>
+        <td>12:30pm to 2:00pm</td>
         <td colspan="3" align="center"><b>Lunch (1.5 hours)</b> - provided.</td>
     </tr>
     <tr>
-        <td>2:00 - 3:30</td>
+        <td>2:00pm - 3:30pm</td>
         {% include conference-submission.html paper=9 mode='td' %}
         {% include conference-submission.html paper=51 mode='td' %}
         {% include conference-submission.html paper=62 mode='td' %}
     </tr>
     <tr>
-        <td>3:30 - 4:00</td>
+        <td>3:30pm - 4:00pm</td>
         <td colspan="3" align="center"><b>Break (30 mins)</b> - coffee and tea provided.</td>
     </tr>
     <tr>
-        <td>4:00 - 5:00</td>
+        <td>4:00pm - 5:00pm</td>
         {% include conference-submission.html paper=9 mode='td' %}
         {% include conference-submission.html paper=51 mode='td' %}
         {% include conference-submission.html paper=62 mode='td' %}
     </tr>
     <tr>
-        <td>7:00 - 9:00</td>
+        <td>5:30pm - 7:00pm</td>
+        <td colspan="3">Optional guided city tour - <a href="https://forms.gle/4t82DtYDaFdzF4Hr7">register here</a> (first-come, first-served)</td>
+    </tr>
+    <tr>
+        <td>5:30pm - 6:30pm</td>
+        <td colspan="3">Optional guided library tour - Central Library - <a href="https://forms.gle/Ue9vgBYKZYD8qcrx7">register here</a> (first-come, first-served)</td>
+    </tr>
+    <tr>
+        <td>7:00pm - 9:00pm</td>
         <td colspan="3"><b>IIIF Consortium Members reception</b> at the <a href="https://www.uni-goettingen.de/en/125328.html">Orangery</a>. This is open to anyone who works at a IIIF consortium institution, please sign up during registration.</td>
     </tr>
   </tbody>
