@@ -31,7 +31,7 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='46,74,22' track2='39,3,36' track3='42,,'  track4=',,,' %}
+        {% include conference_slot_row.html rowspan='3' time='9:00am - 10:30am' track1='42,,' track2='39,3,36' track3='46,74,22' track4=',,,' %}
         {% include conference_slot_row.html span='6' time='10:30am - 11:00am' title='<b>Break</b>' %}
   </tbody>
 </table>
