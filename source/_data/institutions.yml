@@ -337,3 +337,9 @@
   iiifc: 1
 - name: Zegami
   uri: https://zegami.com/
+- name: Kakadu Software
+  uri: https://kakadusoftware.com/
+  iiifc: 3
+- name: Blavatnik Foundation Archive
+  uri: https://www.blavatnikarchive.org/
+  iiifc: 4
