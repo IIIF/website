@@ -79,7 +79,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>    
         <tr>
             <td>Fun with IIIF</td>
-            <td>Cogapp</td>
+            <td>Ben Rubinstein, Cogapp</td>
         </tr>    
         <tr>
             <td>12:30pm - 1:30pm</td>
