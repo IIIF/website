@@ -21,7 +21,7 @@ This is the agenda for Wednesday the 26th of June, the first full day of the con
         <td>7:00am - 8:00am</td>
         <td colspan="2">Optional guided run/walk - <a href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/#wednesday-runwalk">more information here.</a></td>
     </tr>    
-        {% include conference_slot_row.html time='9:00am - 9:10am' title='Welcome' authors='Ulrike Beisiegel, Göttingen State and University Library' %}
+        {% include conference_slot_row.html time='9:00am - 9:10am' title='Welcome' authors='Ulrike Beisiegel, Georg-August-Universität Göttingen' %}
         {% include conference_slot_row.html time='9:20am - 9:30am' title='Welcome and State of the IIIF Universe' authors='Josh Hadro, IIIF Managing Director' %}
         {% include conference_slot_row.html time='09:30am - 10:30pm' rowspan='6' paper=45 %} <!-- 9 per slot -->
         {% include conference_slot_row.html paper=55 %}
