@@ -89,7 +89,7 @@ Hover your mouse over the marker to see the name of the location.
       map: map
     });
     var marker = new google.maps.Marker({
-      position: {lat: 51.538463, lng: 9.938513},
+      position: {lat: 51.537709, lng: 9.937347},
       title: "Orangery in the Old Botanical Garden, Göttingen University",
       map: map
     });
