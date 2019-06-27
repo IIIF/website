@@ -45,6 +45,12 @@ This is the agenda for Thursday the 27th of June, the second full day of the con
 
         {% include conference_slot_row.html rowspan='3' time='3:30pm - 5:00pm' track1='71,8,79' track2='56,29,48' track3='60,68,80'  %}
     <tr>
+        <td>5:00pm - 6:00pm</td>
+        <td colspan="2">&nbsp;</td>
+        <td colspan="2">&nbsp;</td>
+        <td colspan="2">3D breakout session</td>
+    </tr>
+    <tr>
         <td>5:30pm - 7:00pm</td>
         <td colspan="6">Optional guided city tour - <a href="https://forms.gle/4t82DtYDaFdzF4Hr7">register here</a> (first-come, first-served)</td>
     </tr>
