@@ -3,8 +3,6 @@ title: "2019 IIIF Conference - Göttingen, Germany"
 layout: gottingen
 tags: [event ]
 ---
-{: class="alert"}
-Registration available for [Showcase and Conference][eventbrite].
 
 <hr/>
 <div class="row" markdown="0">
@@ -43,7 +41,7 @@ The local organizers have prepared a [few social activity suggestions][social] f
 
 ### Logistics
 
-* [Registration available on Eventbrite.][eventbrite]
+* [Registration now closed.][eventbrite]
 * Dates: 24th to 28th of June 2019.
 * Location: Göttingen, Germany
 * Cost: 
