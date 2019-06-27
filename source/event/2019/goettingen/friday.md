@@ -47,12 +47,20 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
     </tr>
   </thead>
   <tbody>
-        {% include conference_slot_row.html time='11:00am - 12:00pm' rowspan='3' title='<b>IIIF, AI and Machine Learning Plenary Session</b>' %}
-        {% include conference_slot_row.html paper=63 %} 
-        {% include conference_slot_row.html title='Panel Discussion' %} <!-- need to stretch somehow -->
-
+        {% include conference_slot_row.html time='11:00am - 12:00pm' rowspan='3' title='<b>IIIF, AI and Machine Learning panel session</b>' %}
+        {% include conference_slot_row.html title='Chaired by Tom Cramer, Stanford University' %} 
+        <tr>
+            <td colspan="2">
+                Panel members:
+                <ul>
+                    <li>Andrew Walsøe, National Library of Norway</li>
+                    <li>Sonia Wronkowska, National Library of Poland</li>
+                    <li><a href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/program/63/">Jens Dobberthin - Museum für Naturkunde Berlin</a></li>
+                    <li>Hannah Busch - Huygens ING</li>
+               </ul>
+           </td>
+        </tr>   
         {% include conference_slot_row.html time='12:00pm - 12:30pm' title='Closing Plenary' %}
-
   </tbody>
 </table>
 <br/>
