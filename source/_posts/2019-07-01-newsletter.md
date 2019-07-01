@@ -301,3 +301,5 @@ Régis Robineau (BiblissimaCampus Condorcet - EPHE-PSL)
 [iiif-faq]: https://iiif.io/community/faq/ 
 [iiifc-faq]: https://iiif.io/community/consortium/faq/ 
 [iiif-trc]: https://iiif.io/community/trc/ 
+[slack]: http://bit.ly/iiif-slack 
+[submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2  
