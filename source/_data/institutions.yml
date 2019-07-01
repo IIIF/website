@@ -19,6 +19,9 @@
 - name: Biblissima
   uri: http://www.biblissima-condorcet.fr/
   iiifc:
+- name: Blavatnik Foundation Archive
+  uri: https://www.blavatnikarchive.org/
+  iiifc: 4
 - name: Boston Public Library
   uri: https://digitalcommonwealth.org
   iiifc:
@@ -119,6 +122,9 @@
 - name: Johns Hopkins University
   uri: http://library.jhu.edu
   iiifc: 2
+- name: Kakadu Software
+  uri: https://kakadusoftware.com/
+  iiifc: 3
 - name: Kansai University
   uri: http://www.kansai-u.ac.jp
   iiifc: 2
@@ -337,9 +343,3 @@
   iiifc: 1
 - name: Zegami
   uri: https://zegami.com/
-- name: Kakadu Software
-  uri: https://kakadusoftware.com/
-  iiifc: 3
-- name: Blavatnik Foundation Archive
-  uri: https://www.blavatnikarchive.org/
-  iiifc: 4
