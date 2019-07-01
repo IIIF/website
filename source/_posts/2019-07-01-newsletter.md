@@ -27,7 +27,7 @@ Many thanks to the Program Committee, the Local Planning Committee, the Safety a
 
 ### IIIF Consortium Annual Conference Travel Scholarship Winner
 
-Congratulations to Sarah Lorenzon Ferreira from the Universidade de São Paulo, the recipient of the IIIF Consortium's first ever Travel Scholarship! Sarah joined us at the Annual Conference in Göttingen, Germany, and [participated in the Conference Mentor program](https://twitter.com/LorenzonSarah/status/1143270471976325121) as well. In São Paulo, Sarah helped organize the IIIF event in May at the Congresso Internacional em Tecnologia e Organização da Informação, and has served remotely in previous years on the IIIF Code of Conduct Team. We were lucky to have Sarah join us at the conference.
+Congratulations to Sarah Lorenzon Ferreira from the School of Communication and Arts of the University of São Paulo, the recipient of the IIIF Consortium's first ever Travel Scholarship! Sarah joined us at the Annual Conference in Göttingen, Germany, and [participated in the Conference Mentor program](https://twitter.com/LorenzonSarah/status/1143270471976325121) as well. In São Paulo, Sarah helped organize the IIIF event in May at the Congresso Internacional em Tecnologia e Organização da Informação, and has served remotely in previous years on the IIIF Code of Conduct Team. We were lucky to have Sarah join us at the conference.
 
 Please see the [Annual Conference Travel Scholarship page](https://iiif.io/event/2019/goettingen/annual_conference_travel_scholarship/) for more information about the scholarship, and please get in touch via <admin@iiif.io> if your institution is interesting in potentially funding similar scholarships for future conferences! 
 
