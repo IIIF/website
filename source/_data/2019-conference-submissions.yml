@@ -557,7 +557,7 @@
     \ and start to promote it more effectively.</p>"
   authors:
   - company: The Muz Platform
-    link: 
+    link: https://muzz.app
     location: Netherlands
     name: Pierre-Edouard Barrault
   contact:
@@ -2869,6 +2869,10 @@
     link: https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/ubbo-veentjer/
     location: Germany
     name: Ubbo Veentjer
+  - company: "G\xF6ttingen State and University Library"
+    link: https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/uwe-sikora/
+    location: Germany
+    name: Uwe Sikora
   contact:
     email: goebel@sub.uni-goettingen.de
     name: "Mathias G\xF6bel"
@@ -3089,6 +3093,10 @@
     link: http://www.library.ucla.edu/
     location: USA
     name: Sharon Shafer
+  - company: UCLA
+    link: http://www.library.ucla.edu/
+    location: USA
+    name: Tinuola Awopetu
   contact:
     email: joshuagomez@library.ucla.edu
     name: Joshua Gomez
