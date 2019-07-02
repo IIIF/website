@@ -58,10 +58,10 @@ On June 4th, 2019, Yale hosted a daylong program entitled “The Future of Image
 The morning session included a set of presentations from IIIF experts from Yale, Harvard University, Stanford University, and North Carolina State University.  They provided a broad context for how IIIF has been integrated at peer institutions, as well as showcasing some of the most interesting issues and projects that they’ve seen.  They also spoke to future developments coming soon to IIIF and the IIIF viewer tools.
 
 Presentations:
-* [The Future of Images at Yale: An Introduction to IIIF][yale-1]Michael Appleby, Director of Software Engineering, Yale University Library
-* [An Institutional IIIF Roadmap for Scholarly Research and Collaboration][yale-2]Rashmi Singhal, Director of Arts & Humanities Research Computing, Harvard University
-* [IIIF at Stanford][yale-3]Jack Reed, Geospatial Web Engineer,Stanford University
-* [IIIF at NC State University][yale-4]Jason Ronallo, Head of Digital Library Initiatives, North Carolina State University
+* [The Future of Images at Yale: An Introduction to IIIF][yale-1] Michael Appleby, Director of Software Engineering, Yale University Library
+* [An Institutional IIIF Roadmap for Scholarly Research and Collaboration][yale-2] Rashmi Singhal, Director of Arts & Humanities Research Computing, Harvard University
+* [IIIF at Stanford][yale-3] Jack Reed, Geospatial Web Engineer,Stanford University
+* [IIIF at NC State University][yale-4] Jason Ronallo, Head of Digital Library Initiatives, North Carolina State University
 
 The afternoon sessions began with a panel discussion featuring the morning speakers that was moderated by Edward Town and Emmanuelle Delmas-Glass from the Yale Center for British Art.  The audience had a lively set of questions that raised interesting conversations about implementation, adoption, use, features, and challenges.  The remainder of the afternoon’s programming consisted of scholarship Use Cases built with IIIF-enabled images.  These projects each demonstrated new aspects of scholarly inquiry that would not have been otherwise possible. 
  
@@ -70,8 +70,8 @@ Professor Andrew Quintman from Wesleyan University shared his [Life of the Buddh
 This session wrapped up with an interesting Q & A about how projects like Life of the Buddha fit into the traditional scholarly monograph, peer reviewed publishing model.  The speakers also addressed issues related to device screen size limitations and long-term preservation solutions.
  
 Presentations:
-* [Digital Reflections of the Buddha: A Life in Text and Many Images][yale-5]Andrew Quintman, Associate Professor of Religion, East Asian Studies, Wesleyan University
-* [Ten Thousand Rooms Project][yale-6]Nicholas Frisch, Project Coordinator and Ph.D. Candidate in East Asian Languages and Literature, Yale University
+* [Digital Reflections of the Buddha: A Life in Text and Many Images][yale-5] Andrew Quintman, Associate Professor of Religion, East Asian Studies, Wesleyan University
+* [Ten Thousand Rooms Project][yale-6] Nicholas Frisch, Project Coordinator and Ph.D. Candidate in East Asian Languages and Literature, Yale University
 
 The afternoon continued with a second session devoted to IIIF-enabled scholarship.  Lisa Fagin Davis from The Medieval Academy in Boston discussed her work reconstructing dismembered manuscripts and other kinds of dispersed virtual reconstruction.  She also provided a live demonstration of how scholars can easily create a custom manifest to compare images for analysis and study.  Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art presented his ambitious project to collection 4000 images of Tudor and Jacobean paintings and conservation images for study and identification.  By using IIIF to draw together images from disparate collections around the world, the Yale Center for British Art was able to use advanced technologies such as infrared-reflectography, x-ray, macro x-ray fluorescence, dendrochronology and spectrometry, as well as deep zoom brushstroke analysis and primary source research to begin stitching together clues to identify painters and make attributions.   Nelson Rios, Head of Biodiversity Informatics and Data Science at the Peabody Museum closed out the afternoon sessions with a forward thinking case study of how IIIF might be integrated into the work of scholars in natural history.  Peabody has a large and growing collection of diverse digitized objects that is not yet IIIF enabled.  He present a wide set of potential uses that used IIIF’s broad feature set, including: pan, zoom, annotations, multi-image comparison, sequencing of data, potential for modelling and measurements, cross-collections comparison, and data sharing.  He further explored some possible future scenarios in which machine learning and training and 3d visualizations might bring new depth to IIIF-enabled image sets.
  
@@ -79,8 +79,8 @@ Presentations:
 * Lisa Fagin Davis, Executive Director, Medieval Academy of America
 * [Beauvais Missal Reconstruction][yale-7]
 * [Reconstruction using Fragmentarium][yale-8] 
-[Aims and Ambitions for collaborative IIIF-enabled research on Tudor and Jacobean paintings][yale-9]Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art
-[Natural History Collections: A Case for IIIF][yale-10]Nelson Rios, Head of Biodiversity Informatics and Data Science at the Yale Peabody Museum
+[Aims and Ambitions for collaborative IIIF-enabled research on Tudor and Jacobean paintings][yale-9] Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art
+[Natural History Collections: A Case for IIIF][yale-10] Nelson Rios, Head of Biodiversity Informatics and Data Science at the Yale Peabody Museum
 
 The program wrapped up with a brief recap and observations from E.C. Schroeder, Director of the Beinecke Rare Book and Manuscript Library at Yale.  Yale is in the early stages of bringing IIIF technology to campus and he captured the delight expressed by many about the broad interest across campus, as well as the commitment at Yale for collaboration and breaking down the silos that currently isolate collections.  IIIF enables new kinds of research, teaching, learning, conservation and he recognized the challenges and opportunities offered by Yale’s cultural heritage IT collaboration across the museums and libraries for making Yale’s extensive collections widely and easily available to scholars, students and visitors on campus and around the world.
 
@@ -240,7 +240,7 @@ With contributions from:
 * Ruven Pillay (IIPImage) 
 * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 * Jack Reed (Stanford University Libraries)
-Régis Robineau (BiblissimaCampus Condorcet - EPHE-PSL)
+* Régis Robineau (Biblissima - Campus Condorcet - EPHE-PSL)
 * Glen Robson (IIIF Consortium)
 * Miriam Shaw (Veridian Software)
 * Jan Vonde (intranda GmbH)
