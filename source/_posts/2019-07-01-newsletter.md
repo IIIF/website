@@ -13,7 +13,7 @@ excerpt: >
 * IIIF Slack = 1,107 members ([Join Slack][slack])
 * [IIIF on Twitter][iiif-twitter] = 1,703 followers
 * [IIIF Consortium][iiif-c] = 52 founding members, 1 full member, 2 associate members. 
-    * Newest members: Kakadu Software, Blavatnik Foundation Archive
+    * Newest members: [Kakadu Software](https://kakadusoftware.com/), [Blavatnik Foundation Archive](http://www.blavatnikarchive.org/)
 
 ## Announcements and Actions
 
@@ -58,10 +58,10 @@ On June 4th, 2019, Yale hosted a daylong program entitled “The Future of Image
 The morning session included a set of presentations from IIIF experts from Yale, Harvard University, Stanford University, and North Carolina State University.  They provided a broad context for how IIIF has been integrated at peer institutions, as well as showcasing some of the most interesting issues and projects that they’ve seen.  They also spoke to future developments coming soon to IIIF and the IIIF viewer tools.
 
 Presentations:
-* [The Future of Images at Yale: An Introduction to IIIF][yale-1]Michael Appleby, Director of Software Engineering, Yale University Library
-* [An Institutional IIIF Roadmap for Scholarly Research and Collaboration][yale-2]Rashmi Singhal, Director of Arts & Humanities Research Computing, Harvard University
-* [IIIF at Stanford][yale-3]Jack Reed, Geospatial Web Engineer,Stanford University
-* [IIIF at NC State University][yale-4]Jason Ronallo, Head of Digital Library Initiatives, North Carolina State University
+* [The Future of Images at Yale: An Introduction to IIIF][yale-1] - Michael Appleby, Director of Software Engineering, Yale University Library
+* [An Institutional IIIF Roadmap for Scholarly Research and Collaboration][yale-2] - Rashmi Singhal, Director of Arts & Humanities Research Computing, Harvard University
+* [IIIF at Stanford][yale-3] - Jack Reed, Geospatial Web Engineer,Stanford University
+* [IIIF at NC State University][yale-4] - Jason Ronallo, Head of Digital Library Initiatives, North Carolina State University
 
 The afternoon sessions began with a panel discussion featuring the morning speakers that was moderated by Edward Town and Emmanuelle Delmas-Glass from the Yale Center for British Art.  The audience had a lively set of questions that raised interesting conversations about implementation, adoption, use, features, and challenges.  The remainder of the afternoon’s programming consisted of scholarship Use Cases built with IIIF-enabled images.  These projects each demonstrated new aspects of scholarly inquiry that would not have been otherwise possible. 
  
@@ -70,17 +70,17 @@ Professor Andrew Quintman from Wesleyan University shared his [Life of the Buddh
 This session wrapped up with an interesting Q & A about how projects like Life of the Buddha fit into the traditional scholarly monograph, peer reviewed publishing model.  The speakers also addressed issues related to device screen size limitations and long-term preservation solutions.
  
 Presentations:
-* [Digital Reflections of the Buddha: A Life in Text and Many Images][yale-5]Andrew Quintman, Associate Professor of Religion, East Asian Studies, Wesleyan University
-* [Ten Thousand Rooms Project][yale-6]Nicholas Frisch, Project Coordinator and Ph.D. Candidate in East Asian Languages and Literature, Yale University
+* [Digital Reflections of the Buddha: A Life in Text and Many Images][yale-5] - Andrew Quintman, Associate Professor of Religion, East Asian Studies, Wesleyan University
+* [Ten Thousand Rooms Project][yale-6] - Nicholas Frisch, Project Coordinator and Ph.D. Candidate in East Asian Languages and Literature, Yale University
 
 The afternoon continued with a second session devoted to IIIF-enabled scholarship.  Lisa Fagin Davis from The Medieval Academy in Boston discussed her work reconstructing dismembered manuscripts and other kinds of dispersed virtual reconstruction.  She also provided a live demonstration of how scholars can easily create a custom manifest to compare images for analysis and study.  Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art presented his ambitious project to collection 4000 images of Tudor and Jacobean paintings and conservation images for study and identification.  By using IIIF to draw together images from disparate collections around the world, the Yale Center for British Art was able to use advanced technologies such as infrared-reflectography, x-ray, macro x-ray fluorescence, dendrochronology and spectrometry, as well as deep zoom brushstroke analysis and primary source research to begin stitching together clues to identify painters and make attributions.   Nelson Rios, Head of Biodiversity Informatics and Data Science at the Peabody Museum closed out the afternoon sessions with a forward thinking case study of how IIIF might be integrated into the work of scholars in natural history.  Peabody has a large and growing collection of diverse digitized objects that is not yet IIIF enabled.  He present a wide set of potential uses that used IIIF’s broad feature set, including: pan, zoom, annotations, multi-image comparison, sequencing of data, potential for modelling and measurements, cross-collections comparison, and data sharing.  He further explored some possible future scenarios in which machine learning and training and 3d visualizations might bring new depth to IIIF-enabled image sets.
  
 Presentations:
 * Lisa Fagin Davis, Executive Director, Medieval Academy of America
-* [Beauvais Missal Reconstruction][yale-7]
-* [Reconstruction using Fragmentarium][yale-8] 
-[Aims and Ambitions for collaborative IIIF-enabled research on Tudor and Jacobean paintings][yale-9]Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art
-[Natural History Collections: A Case for IIIF][yale-10]Nelson Rios, Head of Biodiversity Informatics and Data Science at the Yale Peabody Museum
+  * [Beauvais Missal Reconstruction][yale-7]
+  * [Reconstruction using Fragmentarium][yale-8] 
+* [Aims and Ambitions for collaborative IIIF-enabled research on Tudor and Jacobean paintings][yale-9] - Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art
+* [Natural History Collections: A Case for IIIF][yale-10] - Nelson Rios, Head of Biodiversity Informatics and Data Science at the Yale Peabody Museum
 
 The program wrapped up with a brief recap and observations from E.C. Schroeder, Director of the Beinecke Rare Book and Manuscript Library at Yale.  Yale is in the early stages of bringing IIIF technology to campus and he captured the delight expressed by many about the broad interest across campus, as well as the commitment at Yale for collaboration and breaking down the silos that currently isolate collections.  IIIF enables new kinds of research, teaching, learning, conservation and he recognized the challenges and opportunities offered by Yale’s cultural heritage IT collaboration across the museums and libraries for making Yale’s extensive collections widely and easily available to scholars, students and visitors on campus and around the world.
 
@@ -124,7 +124,7 @@ The recent activities of the 3D Community Group can be summarized as follows:
 reaching for to wider 3D and online industry involvement input (e.g. Mozilla)
 * after several community calls based on viewer demos, a move towards 'deeper dives’ into specific topics.
 * continued work comparing approaches and implementation of annotations, which seem to be a core functionality requirement for many user stories
-* a 3D breakout session during IIIF conference
+* a 3D breakout session during the 2019 IIIF conference
    
 ### [Archives Community Group][groups-archives]
 
@@ -194,6 +194,7 @@ For more information about Mirador, please visit <http://projectmirador.org> or 
 
 Angela Wolff (Victoria & Albert Museum) presented a IIIF manifest to pdf conversion tool at the 2019 IIIF Conference in Göttingen. The tool is a standalone command line utility written in Ruby. It works with Presentation 2 and 3 manifests, extracting images from the url to create a pdf. At the moment it performs an image only extract with options for whole document orientation and assorted other customisations. 
 The repo is available here: <https://github.com/vanda/cocktail>  
+
 There is an example pdf along with the original manifest in UV shown on the V&A website: <https://www.vam.ac.uk/articles/piccolpassos-treatise-on-maiolica> 
 
 ### OpenLayers 6 will support IIIF Image API 
@@ -215,6 +216,9 @@ We are pleased to announce the first public release of a new Java library to rea
 ### List of IIIF-enabled Goobi viewer installations
 
 The Goobi community has recently put a lot of effort into implementing and supporting different IIIF APIs. There is a new list of Goobi viewer installations and their IIIF support. Please find it at the following URL: <https://goobi.io/viewer/installations/>. 
+
+### IIIF-Annotation Library - new features
+The IIIF-Annotation Library, developed by the North Carolina State University (NCSU) Libraries, now allows [for layers to be viewable](https://ncsu-libraries.github.io/iiif-annotation/storyboard/#manifests-with-layers) and [for multiple annotations to be displayed in the same viewer](https://ncsu-libraries.github.io/iiif-annotation/multistoryboard/).
 
 ## Recommended reading
 
