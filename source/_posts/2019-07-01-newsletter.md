@@ -77,10 +77,10 @@ The afternoon continued with a second session devoted to IIIF-enabled scholarshi
  
 Presentations:
 * Lisa Fagin Davis, Executive Director, Medieval Academy of America
- * [Beauvais Missal Reconstruction][yale-7]
- * [Reconstruction using Fragmentarium][yale-8] 
-[Aims and Ambitions for collaborative IIIF-enabled research on Tudor and Jacobean paintings][yale-9] - Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art
-[Natural History Collections: A Case for IIIF][yale-10] - Nelson Rios, Head of Biodiversity Informatics and Data Science at the Yale Peabody Museum
+  * [Beauvais Missal Reconstruction][yale-7]
+  * [Reconstruction using Fragmentarium][yale-8] 
+* [Aims and Ambitions for collaborative IIIF-enabled research on Tudor and Jacobean paintings][yale-9] - Edward Town, Head of Collections Information and Access, and Assistant Curator for Early Modern Art at the Yale Center for British Art
+* [Natural History Collections: A Case for IIIF][yale-10] - Nelson Rios, Head of Biodiversity Informatics and Data Science at the Yale Peabody Museum
 
 The program wrapped up with a brief recap and observations from E.C. Schroeder, Director of the Beinecke Rare Book and Manuscript Library at Yale.  Yale is in the early stages of bringing IIIF technology to campus and he captured the delight expressed by many about the broad interest across campus, as well as the commitment at Yale for collaboration and breaking down the silos that currently isolate collections.  IIIF enables new kinds of research, teaching, learning, conservation and he recognized the challenges and opportunities offered by Yale’s cultural heritage IT collaboration across the museums and libraries for making Yale’s extensive collections widely and easily available to scholars, students and visitors on campus and around the world.
 
@@ -219,6 +219,9 @@ We are pleased to announce the first public release of a new Java library to rea
 ### List of IIIF-enabled Goobi viewer installations
 
 The Goobi community has recently put a lot of effort into implementing and supporting different IIIF APIs. There is a new list of Goobi viewer installations and their IIIF support. Please find it at the following URL: <https://goobi.io/viewer/installations/>. 
+
+### IIIF-Annotation Library - new features
+The IIIF-Annotation Library, developed by the North Carolina State University (NCSU) Libraries, now allows [for layers to be viewable](https://ncsu-libraries.github.io/iiif-annotation/storyboard/#manifests-with-layers) and [for multiple annotations to be displayed in the same viewer](https://ncsu-libraries.github.io/iiif-annotation/multistoryboard/).
 
 ## Recommended reading
 
