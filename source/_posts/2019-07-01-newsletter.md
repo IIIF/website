@@ -244,7 +244,7 @@ With contributions from:
 * Ruven Pillay (IIPImage) 
 * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 * Jack Reed (Stanford University Libraries)
-Régis Robineau (BiblissimaCampus Condorcet - EPHE-PSL)
+* Régis Robineau (Biblissima - Campus Condorcet - EPHE-PSL)
 * Glen Robson (IIIF Consortium)
 * Miriam Shaw (Veridian Software)
 * Jan Vonde (intranda GmbH)
