@@ -201,9 +201,6 @@ There is an example pdf along with the original manifest in UV shown on the V&A 
 
 OpenLayers 6 will support IIIF Image API services OpenLayers (https://openlayers.org) is a JavaScript library for building feature rich map and geo data web applications. Upcoming version 6 will allow the usage of IIIF Image API services as map tile sources. An example from the OpenLayers master branch that utilizes both the IIIF image tile source and the built-in IIIF image information response parsing can be found at <https://openlayers.org/en/master/examples/iiif.html>. 
 
-### IIIF-Annotation Library - new features
-The IIIF-Annotation Library, developed by the North Carolina State University (NCSU) Libraries, now allows [for layers to be viewable](https://ncsu-libraries.github.io/iiif-annotation/storyboard/#manifests-with-layers) and [for multiple annotations to be displayed in the same viewer](https://ncsu-libraries.github.io/iiif-annotation/multistoryboard/).
-
 ### Parker Library On the Web resources added to the Biblissima Discovery Platform
 
 Since its launch last December, several updates have been made to the [Biblissima "IIIF Collections of Manuscripts & Rare Books" Discovery Platform][biblissima-discovery]. A few datasets have since been added: Parker Library On the Web (manuscripts from the Parker Library at Corpus Christi College, Cambridge), manuscripts from Ghent University Library, Durham Cathedral and University Library, and Cambridge University. The data of the other datasets have been updated too. The reconciled data is feeding the Biblissima authorities' platform that is openly available at <https://data.biblissima.fr/>. The search engine has also been improved significantly.
