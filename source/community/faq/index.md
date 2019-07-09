@@ -49,7 +49,6 @@ IIIF allows for:
  * [Presentation API][presentation]
  * [Content Search API][search]
  * [Authentication API][auth]
- * In Progress: [IIIF for Audio/Visual materials][av]
 
 ##  How do the IIIF APIs relate to my current, internal interoperability layer?
 
