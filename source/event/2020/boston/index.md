@@ -30,7 +30,7 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 To be a sponsor at the 2020 IIIF Conference, please contact <admin@iiif.io>. Additional sponsorship information will be made available when ready.
 
 
-{% include ann_arbor-images.html %}
+{% include boston-images.html %}
 
 [iiif]: https://iiif.io/
 [harvard]: https://www.harvard.edu/
