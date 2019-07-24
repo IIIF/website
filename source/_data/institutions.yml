@@ -94,7 +94,7 @@
 - name: Ghent University
   uri: https://www.ugent.be/en
   iiifc:
-- name: Gottingen State and University Library
+- name: Göttingen State and University Library
   uri: https://www.sub.uni-goettingen.de
   iiifc: 2
 - name: Harvard Art Museums
