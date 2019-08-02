@@ -1,12 +1,17 @@
 <section class="{{include.class}} wrapper">
             <h2>{{include.head_text}}</h2>
-            <ul>
+            
               <!-- not ideal, but we can't seem to pass data ids through -->
               {% if include.class == 'image-viewers' %}
+                <ul>
                 {% assign data = site.data.image_clients %}
               {% elsif include.class == 'image-servers' %}
+                <ul>
                 {% assign data = site.data.image_servers %}
               {% elsif include.class == 'impl-demos' %}
+                
+                <p>For a more complete and up-to-date list of implementations, please see the <a href="https://github.com/IIIF/awesome-iiif/blob/master/implementations.md">IIIF Awesome Implementations list</a>.</p>
+                <ul>
                 {% assign data = site.data.impl_demos %}
               {% endif %}
 

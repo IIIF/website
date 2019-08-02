@@ -1,26 +1,15 @@
 # Use Markdown in the blurb if necessary for links, etc. Each list entry in the blurb gets a <p>.
 - name: Stanford University Libraries - Mirador demo
-  uri: http://showcase.iiif.io/viewer/mirador/
+  uri: https://library.stanford.edu/blogs/stanford-libraries-blog/2019/05/introducing-mirador-3-next-generation-image-comparison-viewer
   blurb:
   - >
-    This demo of Mirador, developed by the Stanford University Libraries, allows
-    the user to compare images from several different image repositories,
-    including the Stanford Digital Repository, Yale University and Los Alamos
-    National Labs.
+    At Stanford, Mirador is being used by a range of library staff, scholars and instructors, and has been implemented as a viewer option within the Spotlight exhibits platform.  The cultural, educational and research potential of Mirador is vast, but the codebase and user interface of Mirador 2 had reached the point where it is prohibitively difficult to extend in a sustainable and maintainable way.  The current Mirador 3 effort is intended to rebuild and re-architect Mirador to fully realize its potential for Stanford and beyond.
 - name: Princeton University Libraries
   uri: https://libimages1.princeton.edu/osd-demo/?feedme=pudl0123/8172070/01/00000001.jp2
   blurb:
   - >
     This demonstration, hosted by the Princeton University Libraries, shows an
     image being served by Loris and viewed using OpenSeadragon.
-- name: The British Library
-  uri: http://sanddragon.bl.uk/mirador/
-  blurb:
-  - >
-    The British Library deployed a demonstration of Mirador that allows the user
-    to compare images from the British Library, Yale University and Stanford
-    University. The BL adapted Mirador to display a YouTube video within the
-    viewer that can be played while inspecting images.
 - name: Biblissima - Mirador Demo
   uri: http://demos.biblissima-condorcet.fr/mirador/
   blurb:
