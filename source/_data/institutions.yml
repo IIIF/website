@@ -83,7 +83,7 @@
   uri: https://www.epfl.ch/index.en.html
   iiifc: 2
 - name: Europeana
-  uri: http://europeana.eu/
+  uri: https://www.europeana.eu
   iiifc: 2
 - name: Folger Shakespeare Library
   uri: http://www.folger.edu/
