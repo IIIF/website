@@ -25,11 +25,11 @@
     IIPImage server is IIIF compatible (
     [GitHub repo](https://github.com/ruven/iipsrv) of the project).
 - name: Loris
-  uri: https://github.com/pulibrary/loris
+  uri: https://github.com/loris-imageserver/loris
   blurb:
   - >
     Loris is an open source, Python-based image server that supports the IIIF
-    Image API ver 1.1. Loris supports JPEG and TIFF sources as well as JPEG2000.
+    Image API ver 2.0. Loris supports JPEG and TIFF sources as well as JPEG2000.
 - name: Ruby Advanced Image Server (RAIS)
   uri: https://github.com/uoregon-libraries/rais-image-server/wiki
   blurb:
@@ -92,3 +92,19 @@
     digilib supports JPEG, TIFF, PNG, JPEG2000 and other image formats via Java
     ImageIO. digilib also has a web client that offers continuous zoom,
     referenceable views, image annotations and other features for scholarly work.
+
+- name: Riiif
+  uri: https://github.com/curationexperts/riiif
+  blurb:
+  - >
+    A Ruby IIIF image server as a rails engine. Note that RIIIF is meant for development convenience and will not scale to the needs of most production-level applications.
+- name: Hymir IIIF Server
+  uri: https://github.com/dbmdz/iiif-server-hymir
+  blurb:
+  - >
+    Hymir is a Java based IIIF Server. It is based on "IIIF Image API Java Libraries" and "IIIF Presentation API Java Libraries" projects (see [https://github.com/dbmdz](https://github.com/dbmdz))
+- name: go-iiif
+  uri: https://github.com/go-iiif/go-iiif
+  blurb:
+  - >
+    This is a fork of @greut's iiif package that moves all of the processing logic for the IIIF Image API in to discrete Go packages and defines source, derivative and graphics details in a JSON config file. There is an additional caching layer for both source images and derivatives. [https://go-iiif.github.io/go-iiif/](https://go-iiif.github.io/go-iiif/)
