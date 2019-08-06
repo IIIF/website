@@ -20,7 +20,7 @@
     of Mirador that currently shows content hosted at multiple institutions and
     will, increasingly, provide access to French content.
 - name: Europeana
-  uri: http://europeana.eu
+  uri: https://www.europeana.eu
   blurb:
   - >
     [Europeana](http://europeana.eu), Europe's platform for digital cultural heritage,
@@ -28,4 +28,4 @@
     to high-quality content. They have started to encourage data providers to adopt IIIF,
     and have adapted their infrastructure so that it can handle IIIF resources. The first
     IIIF datasets following the agreed Europeana guidelines for IIIF can be accessed on the
-    [Europeana Collections portal](http://www.europeana.eu/portal/en/search?view=grid&q=sv_dcterms_conformsTo%3A*iiif*).
+    [Europeana Collections portal](https://www.europeana.eu/portal/en/search?view=grid&q=sv_dcterms_conformsTo%3A*iiif*).
