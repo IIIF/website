@@ -25,9 +25,9 @@ The working group meetings are intended for active IIIF community participants a
 
 - Location: [The University of Michigan Campus][umich]
 - Cost: All events are free
+- Accomodations: [List of hotel reservations][hotels]
 - Social Media: Tweets about the event should use #iiif and @iiif_io
 - Code of Conduct: The IIIF Code of Conduct applies to these events to ensure they are inclusive, welcoming, and safe.
-- Accomodations: COMING SOON
 - Travel: COMING SOON
 - Locations: COMING SOON
 - Places to Eat: COMING SOON
@@ -38,3 +38,4 @@ The working group meetings are intended for active IIIF community participants a
 [umich]: https://www.lib.umich.edu
 [ithaka]: https://www.ithaka.org/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/ann-arbor-hotels/

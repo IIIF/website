@@ -34,7 +34,7 @@ Seminar at the Kyoto University Library, featuring a keynote by IIIF representat
 * Chifumi Nishioka (Kyoto University Library Research and Development Office)
 
 **Thursday, October 19: IIIF Japan Kyoto Round Table**  
-Meeting at the [Ritsumeikan University Art Research Center][arc] (ARC) in Kyoto, focusing on digital archive and web publishing projects at the ARC in relation to IIIF, concerning collections of photographs, woodcut prints, moving objects, and 3D objects.
+Meeting at the Ritsumeikan University Art Research Center (ARC) in Kyoto, focusing on digital archive and web publishing projects at the ARC in relation to IIIF, concerning collections of photographs, woodcut prints, moving objects, and 3D objects.
 
 **Friday, October 20: IIIF Workshop**  
 Workshop for librarians and graduate students at the [Kyushu University Library][kyushu] in Fukuoka, featuring an introduction to IIIF followed by a hands-on IIIF workshop led by Dr. Kiyonori Nagasaki, where participants were introduced to the [IIIF Curation Viewer][curation] and Omeka IIIF Toolkit with Mirador and Neatline. These tools were then used to create a collaborative map of interesting IIIF content.
@@ -56,5 +56,4 @@ Workshop for librarians and graduate students at the [Kyushu University Library]
 [tokyo-rt]: http://iiif.jp/20171016roundtable
 [tokyo-s]: http://iiif.jp/2017tokyo_sympo
 [kyoto-s]: https://www.kulib.kyoto-u.ac.jp/kenshu/?p=4117
-[arc]: http://www.arc.ritsumei.ac.jp/en/index.html
 [kyushu]: https://www.lib.kyushu-u.ac.jp/en/libraries/central
