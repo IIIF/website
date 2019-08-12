@@ -1,0 +1,18 @@
+- name: The Graduate Ann Arbor
+  url: https://gc.synxis.com/rez.aspx?Hotel=68631&Chain=21643&arrive=11/3/2019&depart=11/7/2019&adult=1&child=0&group=191103UMLI
+  note: $184/night, 20 rooms pre-reserved.
+  address: 615 E Huron St, Ann Arbor, MI 48104
+  lat: 42.2813459
+  lng: -83.7417522
+- name: Bell Tower Hotel
+  url: https://www.belltowerhotel.com/ 
+  note: "$193/night, 20 rooms pre-reserved. Our reservation code is 351831; To book a room in our room block: Click “Book Now” in the Make a Reservation window; On the next screen, under Rates, there will be a small check box for 'Group Code'"
+  address: 300 S Thayer St, Ann Arbor, MI 48104
+  lat: 42.2792509
+  lng: -83.7401186
+- name: The Residence Inn Downtown Ann Arbor
+  url: https://urldefense.proofpoint.com/v2/url?u=http-3A__www.marriott.com_meeting-2Devent-2Dhotels_group-2Dcorporate-2Dtravel_groupCorp.mi-3FresLinkData-3DIIIF-2520Fall-2520Working-2520Meeting-255Earbdt-2560IIIIIIA-2560189-2560USD-2560false-25602-256011_3_19-256011_7_19-256010_3_19-26app-3Dresvlink-26stop-5Fmobi-3Dyes&d=DwMCAg&c=RT4HKhjUY4tSq0SeTyHpvQ&r=oj5UMh-uwcw4l9CkGztZ5Nm5DlfwIYY7as_QbPw2LZ8&m=qTbMiGyauBcbPbsqBrlc3pXRKO-520jmhmK7mVbrdz4&s=c14dXANQA1GxDOdD66kINsFX8bTRrpN69PM2J5QVYGk&e=
+  note: $189/night, 30 rooms pre-reserved.
+  address: 120 W Huron St, Ann Arbor, MI 48104
+  lat: 42.2816399
+  lng: -83.7496067

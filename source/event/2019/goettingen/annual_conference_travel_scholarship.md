@@ -4,8 +4,6 @@ layout: sub-page
 tags: [event ]
 ---
 
-<!-- {% include section.html class="step community-driven" content=content %} -->
-
 {% capture content %}
 
 ### Overview
