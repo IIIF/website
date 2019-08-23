@@ -14,6 +14,22 @@ The IIIF Ann Arbor showcase will be on the 4th of November and will be open to p
 ### Working meeting
 The working group meetings are intended for active IIIF community participants and [working groups][groups]. Space is limited to around 80 people. 
 
+As part of this meeting we are looking for a number of lightning talks to provoke discussion and to highlight the exciting work on going in the IIIF Community. Lightning talks will be around 10mins but may be shorter depending on scheduling and demand.
+
+If you are interested in speaking at the event please submit your lighting talk using the following link by the __4th of October 2019__:
+
+* [Call for lightning talks][cfp] 
+
+We welcome any talk that would be of interest to the working group attendees but would like to highlight the following themes:
+
+ * IIIF 3.0 implementation experience
+ * Demonstrations of interoperability between institutions
+ * Outreach event report backs
+ * Community group related presentations (3D, Archives, Manuscripts, Museums or Newspapers)
+ * Preference will be given to presentation that cover new ground
+
+If you have any questions about this call please contact events@iiif.io.
+
 ### Logistics
 
 - Registration:
@@ -57,3 +73,4 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [rackham]: https://rackham.umich.edu/about/rackham-building/available-facilities/amphitheatre/
 [travel]: https://campusinfo.umich.edu/article/and-airport
 [airride]: https://www.theride.org/Services/Airport-Service
+[cfp]: https://forms.gle/HDcUKWH8JdedKUgs9
