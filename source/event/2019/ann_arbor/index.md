@@ -28,13 +28,13 @@ We welcome any talk that would be of interest to the working group attendees but
  * Community group related presentations (3D, Archives, Manuscripts, Museums or Newspapers)
  * Preference will be given to presentation that cover new ground
 
-If you have any questions about this call please contact events@iiif.io.
+If you have any questions about this call please contact [events@iiif.io][events].
 
 ### Logistics
 
 - Registration:
-    + Showcase registration – Coming soon
-    + Working meeting registration – Coming soon
+    + [Showcase registration][showcase]
+    + [Working meeting registration][working-meeting]
 - Dates: November 4-7, 2019
     + November 4 - Showcase
     + November 5-7 - Working meeting
@@ -74,3 +74,6 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [travel]: https://campusinfo.umich.edu/article/and-airport
 [airride]: https://www.theride.org/Services/Airport-Service
 [cfp]: https://forms.gle/HDcUKWH8JdedKUgs9
+[events]: mailto:events@iiif.io
+[working-meeting]: https://www.eventbrite.co.uk/e/2019-iiif-working-meeting-ann-arbor-tickets-70170260137
+[showcase]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
