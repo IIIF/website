@@ -24,7 +24,7 @@ Come join us for a day-long free event that will educate, inspire, and reinvent 
 
 The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event (though it offers something for everyone, so returning attendees are welcome as well!). It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community. 
 
-# Location: Adam-von-Trott room, Alte Mensa conference venue
+# Location: Rackham Amphitheatre, Rackham Graduate School, 4th floor
 <table class="api-table">
     <thead>
         <tr>
@@ -95,7 +95,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>Indigenous Digital Archive project</td>
-            <td>Anna Naruto Moya</td>
+            <td>Anna Naruto Moya, Indigenous Digital Archive</td>
         </tr>
         <tr>
             <td>AI-driven Annotation Project</td>
@@ -107,7 +107,8 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>5:00pm - 7:00pm</td>
-            <td colspan="2">Reception</td>
+            <td colspan="2">Reception at <a href="https://www.zingermansgreyline.com/">The Greyline</a><br>
+            100 N. Ashley St., Ann Arbor, MI 48104</td>
         </tr>
     </tbody>
 </table>    
