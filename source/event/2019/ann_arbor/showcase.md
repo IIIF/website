@@ -54,11 +54,11 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>IIIF and University of Michigan Libraries</td>
-            <td></td>
+            <td>University of Michigan Libraries staff</td>
         </tr>
         <tr>
             <td>IIIF and Artstor</td>
-            <td></td>
+            <td>Artstor staff</td>
         </tr>    
         <tr>
             <td>IIIF and Museums</td>
@@ -67,6 +67,10 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
          <tr>
             <td>IIIF A/V</td>
             <td>Tom Crane, Digirati</td>
+        </tr>
+        <tr>
+            <td>Teaching and Learning with IIIF</td>
+            <td>Mario Einaudi, Henry E. Huntington Library and Art Gallery</td>
         </tr>    
         <tr>
             <td>12:00pm - 1:30pm</td>
@@ -79,7 +83,8 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>Panelists<br>Discussion<br>Q&A</td>
-            <td>Chair: Rebecca Hirsch, Interim Head, Information Technology at Beinecke Rare Book & Manuscript Library</td>
+            <td>Chair: Rebecca Hirsch,Beinecke Rare Book & Manuscript Library, Yale University<br>
+            Stefano Cossu, J. Paul Getty Trust</td>
         </tr>
         <tr>
             <td rowspan="1">3:00pm - 3:30pm</td>
@@ -91,7 +96,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>IIIF APIs and State of Affairs, and Affordances IIIF offers (including AI/ML, etc.)</td>
-            <td>IIIF Spec Editors </td>
+            <td>IIIF Specification Editors </td>
         </tr>
         <tr>
             <td>Indigenous Digital Archive project</td>
