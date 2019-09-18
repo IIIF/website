@@ -49,7 +49,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td>Josh Hadro, IIIF Consortium</td>
         </tr>
         <tr>
-            <td rowspan="5">10:40am - 12:00pm</td>
+            <td rowspan="6">10:40am - 12:00pm</td>
             <td colspan="2"><b>IIIF community use cases</b></td>
         </tr>
         <tr>
