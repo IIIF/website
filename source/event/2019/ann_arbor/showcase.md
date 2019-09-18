@@ -84,7 +84,8 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         <tr>
             <td>Panelists<br>Discussion<br>Q&A</td>
             <td>Chair: Rebecca Hirsch,Beinecke Rare Book & Manuscript Library, Yale University<br>
-            Stefano Cossu, J. Paul Getty Trust</td>
+            Stefano Cossu, J. Paul Getty Trust<br>
+            Rashmi Singhal, Harvard University</td>
         </tr>
         <tr>
             <td rowspan="1">3:00pm - 3:30pm</td>
