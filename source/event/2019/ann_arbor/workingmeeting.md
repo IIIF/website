@@ -70,6 +70,16 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
         <td>Lightning talks / Recipe work</td>
         <td>Wrapup</td>
     </tr>
+    <tr>
+        <td>5:00pm - 7:30pm</td>
+        <td>
+<strong>Reception</strong> @ University of Michigan Museum of Art, Forum Hall<br> hosted by University of Michigan Library<br>
+Museum galleries will be open!
+</td>
+<td></td>
+<td></td>
+    </tr>
+
   </tbody>
 </table>
 
