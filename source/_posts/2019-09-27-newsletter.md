@@ -108,7 +108,7 @@ With contributions from:
 [awesome-iiif]: https://github.com/IIIF/awesome-iiif
 [goobi-forum]: https://community.goobi.io
 [albert]: https://albert.rct.uk
-[royal]: www.rct.uk/collection
+[royal]: https://www.rct.uk/collection
 [groups]: https://iiif.io/community/groups/
 [groups-3d]: https://iiif.io/community/groups/3d/
 [groups-archives]: https://iiif.io/community/groups/archives/
