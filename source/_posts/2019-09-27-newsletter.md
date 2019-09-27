@@ -30,8 +30,8 @@ The [IIIF Showcase and Working Meeting in Ann Arbor][2019-ann], which is hosted 
 
 Here are the links to register for this exciting and free event:
 
-[IIIF Showcase][ann-showcase] (November 4)
-[IIIF Working Meeting][ann-wm] (November 5 - 7)
+* [IIIF Showcase][ann-showcase] (November 4)
+* [IIIF Working Meeting][ann-wm] (November 5 - 7)
 
 ### 2020 Annual IIIF Conference in Boston, MA, USA
 
