@@ -49,7 +49,16 @@ The IIIF Community Newsletter (the document you are reading right now) is publis
 
 IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <https://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group.
 
-_Below are only the updates obtained by the respective co-chairs of the Museums and Outreach Groups. To follow the latest developments of the other groups, have a look at their dedicated channels on Slack and through their monthly or quarterly calls._
+_Below are only the updates obtained by the respective co-chairs of the 3D, Museums and Outreach Groups. To follow the latest developments of the other groups, have a look at their dedicated channels on Slack and through their monthly or quarterly calls._
+
+### [3D Community Group][groups-3d]
+A summary of the IIIF 3D Community Group's activities since the last newsletter:
+
+* Handover of Group Chair from Stuart Snydman underway, including a refresh of group goals and monthly meeting focus.
+* A successful and thought provoking 3D breakout session at the 2019 IIIF Conference in Göttingen.
+* Continuing demonstrations of existing 3D viewers and their updates from Universal viewer, Smithsonian Voyager 3D, Sketchfab, X3dom and Xcite (X3D).
+* Publication and review of Sketchfab Cultural Heritage survey results.
+* Actively moving to link up with existing '3D for cultural heritage' initiatives including Europeana's 3D task force.
 
 ### [Museums Community Group][groups-museums]
 The Museums Community Group’s recent calls have had a focus on DAMS. Many institutions are looking to implement a DAMS and are wondering how IIIF fits into this, while at the same time many DAMS providers are interested in IIIF and asking for use cases to inform IIIF integration into their software. September’s call featured a demo by Dylan Freking from NetX. Dylan talked in detail about their manifest generation feature in addition to future features on the docket like creating manifests for a collection of images. Stay tuned for news about more guests from the DAMS community joining our calls.
@@ -85,18 +94,27 @@ All successfully answered and reviewed responses are automatically added to the 
 
 The Goobi viewer is available for free on Github at <https://github.com/intranda>. An updated "Goobi to go" target to try out for yourself as well as a further release notes with screenshots will be available in the coming days in the monthly Goobi viewer Digest and the [Community Forum][goobi-forum].
 
+### OpenLayers 6.0 with IIIF support has been released
+
+[OpenLayers 6.0][openlayers] has finally been released. It's the first OpenLayers version to support IIIF Image API services. It supports Image API versions 1.1 and 2.1 as well as 3.0 beta.
+
 Edited by:
 * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 
 With contributions from:
 * Andrew Davis (Royal Collection Trust)
 * Claire DeMarco (Harvard Library)
+* Thomas Flynn (Sketchfab)
+* Josh Hadro (IIIF-C)
+* Lutz Helm (Leipzig University Library)
 * Claire Knowles (University of Leeds)
+* Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
 * Andrija Sagic (Head of Digital Development Department in "Milutin Bojic" Library, Belgrade, Serbia)
 * Tina Shah (Art Institute of Chicago)
 * Erwin Verbruggen (Netherlands Institute for Sound and Vision)
 * Jan Vonde (intranda GmbH)
 
+[openlayers]: https://openlayers.org/en/latest/apidoc/
 [2019-ann]: https://iiif.io/event/2019/ann_arbor/
 [2020-boston]: https://iiif.io/event/2020/boston/
 [ann-showcase]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
