@@ -1,7 +1,7 @@
 ---
 title: IIIF Community Newsletter, Volume 3 Issue 3
 author:  Julien A. Raemy
-date: 2019-07-30
+date: 2019-10-02
 tags: [news, newsletter, announcements]
 layout: post
 excerpt: >
@@ -18,7 +18,7 @@ excerpt: >
 
 ### IIIF is currently looking for a Community and Event Coordinator
 
-There is now a job listing posted for a [Community and Event Coordinator][cec-job] to join Josh Hadro, Managing Director, and Glen Robson, Technical Coordinator, on the IIIF Consortium staff. Fo all questions regarding the position, please contact <admin@iiif.io>. 
+There is now a job listing posted for a [Community and Event Coordinator][cec-job] to join Josh Hadro, Managing Director, and Glen Robson, Technical Coordinator, on the IIIF Consortium staff. Fo all questions regarding the position, please contact <admin@iiif.io>.
 
 ### Videos from the 2019 IIIF Conference 
 
