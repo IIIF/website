@@ -145,6 +145,15 @@ Rackham Graduate School, 4th floor
 Ann Arbor, MI 48109 USA 
 
 
+#### Parking
+
+[This map][parking-map] is designed as a guide to locate suggested parking for the IIIF Showcase. The Maynard Parking Structure is city owned, and the Palmer Structure is university owned. Access to the Palmer Structure is off of Washtenaw Avenue. All spaces are on a first come basis. The rate is $1.80/hour for both lots.
+
+#### Disability Parking
+
+Accessible parking is available in both lots. A state-issued disability placard/license plate must be displayed. Payment of the regular hourly parking fee is required, unless the individual’s state-issued disability permit has an official FREE PARKING designation.
+
+
 
 <script>
     lightbox.option({
@@ -157,3 +166,4 @@ Ann Arbor, MI 48109 USA
 [eventbrite]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
 [social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
+[parking-map]: {{ site.url }}{{ site.baseurl }}/img/event/UM_parking_map.pdf
