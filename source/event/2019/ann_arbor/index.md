@@ -49,7 +49,7 @@ If you have any questions about this call please contact [events@iiif.io][events
 - Places to Eat: See map below
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZcXnECf1ksFkaNGdmE986bvjVFa8xNqt" width="80%" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZcXnECf1ksFkaNGdmE986bvjVFa8xNqt" style="width: 80%; height: 600px"></iframe>
 
 
 ### Accessibility notes
