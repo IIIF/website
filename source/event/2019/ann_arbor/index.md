@@ -45,8 +45,11 @@ If you have any questions about this call please contact [events@iiif.io][events
 - Travel: According to the [UMich travel page][travel], "Detroit Metropolitan International Airport (DTW) is only 20 miles from Ann Arbor, about a 45 minute drive (at the most)." The [AirRide shuttle service][airride] provides transportation between the airport ann Ann Arbor, $12 if booked in advance, $15 walk-on fares.
 - Social Media: Tweets about the event should use #iiif and @iiif_io
 - Code of Conduct: The IIIF Code of Conduct applies to these events to ensure they are inclusive, welcoming, and safe.
-- Locations: Coming soon
-- Places to Eat: Coming soon
+- Locations: See map below
+- Places to Eat: See map below
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZcXnECf1ksFkaNGdmE986bvjVFa8xNqt" width="80%" height="600"></iframe>
 
 
 ### Accessibility notes
