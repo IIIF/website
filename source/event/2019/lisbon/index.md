@@ -27,7 +27,7 @@ Attendees will learn about the purpose and benefits of IIIF for web-based image 
 | 10:45 - 11:00 | National Library of Portugal digital collections | Helen Patrício, National Library of Portugal |
 | 11:00 - 11:15 | IIIF at Scale | Tristan Roddis, Cogapp |
 | 11:15 - 11:30 | Simple Access to Cultural Heritage Assets via ONB Labs | Can Özgür Yilmaz, Österreichische Nationalbibliothek |
-| 11:30 - 11:45 | Europeana + IIIF | Antoine Issac, Europeana |
+| 11:30 - 11:45 | Europeana + IIIF | Antoine Isaac, Europeana |
 | 11:45 - 12:00 | **Break** | (provided) |
 | 12:00 - 12:15 | IIIF and Crowdsourcing | Dafydd Tudur, National Library of Wales |
 | 12:15 - 12:30 | How IIIF helps academic libraries | Zeki Mustafa Dogan, University of Göttingen / Göttingen State and University Library |
