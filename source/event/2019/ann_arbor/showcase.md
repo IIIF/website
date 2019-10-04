@@ -49,7 +49,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td>Josh Hadro, IIIF Consortium</td>
         </tr>
         <tr>
-            <td rowspan="6">10:40am - 12:00pm</td>
+            <td rowspan="5">10:40am - 12:00pm</td>
             <td colspan="2"><b>IIIF community use cases</b></td>
         </tr>
         <tr>
@@ -67,11 +67,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
          <tr>
             <td>IIIF A/V</td>
             <td>Tom Crane, Digirati</td>
-        </tr>
-        <tr>
-            <td>Teaching and Learning with IIIF</td>
-            <td>Mario Einaudi, Henry E. Huntington Library and Art Gallery</td>
-        </tr>    
+        </tr>  
         <tr>
             <td>12:00pm - 1:30pm</td>
             <td colspan="2"><b>Lunch (on your own)</b></td>
@@ -103,12 +99,12 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>Indigenous Digital Archive project</td>
-            <td>Anna Naruto Moya, Indigenous Digital Archive</td>
+            <td>Anna Naruta-Moya, Indigenous Digital Archive</td>
         </tr>
         <tr>
-            <td>AI-driven Annotation Project</td>
-            <td></td>
-        </tr>
+            <td>Teaching and Learning with IIIF</td>
+            <td>Mario Einaudi, Henry E. Huntington Library and Art Gallery</td>
+        </tr>  
         <tr>
             <td>Fun with IIIF</td>
             <td>Jack Reed, Stanford University</td>
