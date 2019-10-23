@@ -49,7 +49,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td>Josh Hadro, IIIF Consortium</td>
         </tr>
         <tr>
-            <td rowspan="6">10:40am - 12:00pm</td>
+            <td rowspan="5">10:40am - 12:00pm</td>
             <td colspan="2"><b>IIIF community use cases</b></td>
         </tr>
         <tr>
@@ -67,11 +67,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
          <tr>
             <td>IIIF A/V</td>
             <td>Tom Crane, Digirati</td>
-        </tr>
-        <tr>
-            <td>Teaching and Learning with IIIF</td>
-            <td>Mario Einaudi, Henry E. Huntington Library and Art Gallery</td>
-        </tr>    
+        </tr>  
         <tr>
             <td>12:00pm - 1:30pm</td>
             <td colspan="2"><b>Lunch (on your own)</b></td>
@@ -103,12 +99,12 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>Indigenous Digital Archive project</td>
-            <td>Anna Naruto Moya, Indigenous Digital Archive</td>
+            <td>Anna Naruta-Moya, Indigenous Digital Archive</td>
         </tr>
         <tr>
-            <td>AI-driven Annotation Project</td>
-            <td></td>
-        </tr>
+            <td>Teaching and Learning with IIIF</td>
+            <td>Mario Einaudi, Henry E. Huntington Library and Art Gallery</td>
+        </tr>  
         <tr>
             <td>Fun with IIIF</td>
             <td>Jack Reed, Stanford University</td>
@@ -145,6 +141,15 @@ Rackham Graduate School, 4th floor
 Ann Arbor, MI 48109 USA 
 
 
+#### Parking
+
+[This map][parking-map] is designed as a guide to locate suggested parking for the IIIF Showcase. The Maynard Parking Structure is city owned, and the Palmer Structure is university owned. Access to the Palmer Structure is off of Washtenaw Avenue. All spaces are on a first come basis. The rate is $1.80/hour for both lots.
+
+#### Disability Parking
+
+Accessible parking is available in both lots. A state-issued disability placard/license plate must be displayed. Payment of the regular hourly parking fee is required, unless the individual’s state-issued disability permit has an official FREE PARKING designation.
+
+
 
 <script>
     lightbox.option({
@@ -157,3 +162,4 @@ Ann Arbor, MI 48109 USA
 [eventbrite]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
 [social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
+[parking-map]: {{ site.url }}{{ site.baseurl }}/img/event/UM_parking_map.pdf

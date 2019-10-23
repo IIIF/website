@@ -27,8 +27,9 @@ Please add examples and use cases at https://github.com/IIIF/iiif-3d-stories/iss
 
 **Chairs:**
 
-  * Stu Snydman (Stanford Libraries)
-  * Ed Silverton (Mnemoscene)
+  * Ed Silverton ([Mnemoscene][mnemoscene])
+  * Tom Flynn ([Sketchfab][sketchfab])
+  * Ronald Haynes ([Cambridge University][ronald])
 
 **Communication Channels:**
 
@@ -38,7 +39,7 @@ Please add examples and use cases at https://github.com/IIIF/iiif-3d-stories/iss
 
 **Call Notes and Group Documents**
 
-IIIF 3D Community Group Folder (https://goo.gl/LGKc7u)
+IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 
 **Call Connection Information:**
 
@@ -56,6 +57,8 @@ IIIF 3D Community Group Folder (https://goo.gl/LGKc7u)
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [3d-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/3d/charter
-
+[mnemoscene]: https://mnemoscene.io/
+[sketchfab]: https://sketchfab.com/nebulousflynn
+[ronald]: https://www.uis.cam.ac.uk/about-us/rms/ronald-haynes
 
 {% include acronyms.md %}
