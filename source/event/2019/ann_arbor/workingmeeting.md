@@ -37,7 +37,12 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
     <tr>
         <td>9:00am - 10:30am</td>
         <td>IIIF state of affairs and community updates</td>
-        <td>Community development</td>
+        <td>Community development
+            <ul>
+                <li><b>Hosting a local IIIF Events</b><br/> Chair: Josh Hadro (IIIF), Stacey Redick (Folger Shakespeare Library) Sara Brumfield (FromthePage)</li>
+                <li><b>How to be an effective community group</b><br/> Chair: Rebecca Hirsch (Yale University), Mark A. Matienzo (Stanford University Libraries), Jon Dunn (Indiana University)</li>
+            </ul>
+        </td>
         <td>Roadmapping</td>
     </tr>
     <tr>    
@@ -46,8 +51,10 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
     </tr>
     <tr>
         <td>11:00am - 12:30pm</td>
-        <td>Walkthrough on how to create a IIIF recipe</td>
-        <td>Panel: 3.0 migration experiences</td>
+        <td>Walkthrough on how to create a IIIF recipe, Tom Crane, Digirati</td>
+        <td><b>Panel: 3.0 migration experiences</b><br/>
+                Chair: Glen Robson (IIIF), Jack Reed (Stanford University Libraries), Maria Whitaker (Indiana University), Mark Patton (Johns Hopkins University)
+        </td>
         <td>Discovery Technical Specification Group meeting</td>
     </tr>
     <tr>
@@ -66,8 +73,33 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
     </tr>
     <tr>
         <td>4:00pm to 5:00pm</td>
-        <td>Lightning talks</td>
-        <td>Lightning talks / Recipe work</td>
+        <td style="padding: 0px 0px 0px 0px;">
+            <table style="margin: 0px 0px 0px 0px; border: 0">
+                <tr style="border: 0">
+                    <td colspan="2" style="border: 0">Recipe Report back</td>
+                </tr>
+                <tr style="border: 0">
+                    <td colspan="2" style="border: 0"><b>Lightning talks</b></td>
+                </tr>
+                <tr style="border: 0">
+                    <td>Lighting the Way: A National Forum on Archival Discovery and Delivery</td>
+                    <td>Mark A. Matienzo, Stanford University Libraries</td>
+                </tr>
+                <tr style="border: 0">
+                    <td>Teaching and Learning with IIIF</td>
+                    <td>TBC</td>
+                </tr>
+                <tr style="border: 0">
+                    <td>Sharing IIIF resources using token services</td>
+                    <td>Chip Goines, Harvard University</td>
+                </tr>
+                <tr style="border: 0">
+                    <td>Mirador 3 and IIIF Presentation 3.0</td>
+                    <td>Jack Reed, Stanford University Libraries</td>
+                </tr>
+            </table>
+        </td>
+        <td>Unconference block</td>
         <td>Wrapup</td>
     </tr>
     <tr>
