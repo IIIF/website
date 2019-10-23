@@ -18,7 +18,7 @@ excerpt: >
 
 ### IIIF is currently looking for a Community and Event Coordinator
 
-There is now a job listing posted for a [Community and Event Coordinator][cec-job] to join Josh Hadro, Managing Director, and Glen Robson, Technical Coordinator, on the IIIF Consortium staff. Fo all questions regarding the position, please contact <admin@iiif.io>. Please help us spread the word!
+There is now a job listing posted for a Community and Event Coordinator to join Josh Hadro, Managing Director, and Glen Robson, Technical Coordinator, on the IIIF Consortium staff. For all questions regarding the position, please contact <admin@iiif.io>. Please help us spread the word!
 
 ### Videos from the 2019 IIIF Conference 
 
