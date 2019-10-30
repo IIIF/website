@@ -5,9 +5,6 @@ tags: [event ]
 page: workingmeeting
 ---
 
-{: class="alert"}
-[Registration open now!][eventbrite]
-
 The 2019 IIIF working meeting is hosted by the [The University of Michigan Library][umich] and [ITHAKA][ithaka] in collaboration with the IIIF Community.
 
 The working group meetings are intended for active IIIF community participants and [working groups][groups]. Space is limited to around 80 people. 
@@ -18,6 +15,8 @@ The schedule below will be updated as details of the program are confirmed.
 
 For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes which are guides on creating IIIF artifacts that fulfill certain use cases. For a list of recipes that are under development please see the [Cookbook github repository][cookbook]. Participants will find these sessions useful to learn what is required to implement version 3.0 of the IIIF specifications. Once completed the recipes will provide a template for others to use to either create their own version 3.0 Manifests or to develop software to consume them.
  
+**Note:** Daylight Saving Time ends on Sunday, November 3, so make sure your watch and/or devices are set to the right time (you can always check [time.is][time] if you need to check or compare two places).
+
 <table class="api-table">
   <thead>
     <tr>
@@ -29,33 +28,33 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
   </thead>
   <tbody>
     <tr>
-        <td>8:30am - 9:00am</td>
-        <td>Registration</td>
+        <td>8:00am - 9:00am</td>
+        <td>Registration<br/> <i>(Hatcher Gallery)</i></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>9:00am - 10:30am</td>
-        <td>IIIF state of affairs and community updates</td>
-        <td>Community development
+        <td>IIIF state of affairs and community updates<br/> <i>(Hatcher Gallery)</i></td>
+        <td>Community development<br/> <i>(Hatcher Gallery)</i>
             <ul>
                 <li><b>Hosting a local IIIF Events</b><br/> Chair: Josh Hadro (IIIF), Stacey Redick (Folger Shakespeare Library) Sara Brumfield (FromthePage)</li>
                 <li><b>How to be an effective community group</b><br/> Chair: Rebecca Hirsch (Yale University), Mark A. Matienzo (Stanford University Libraries), Jon Dunn (Indiana University)</li>
             </ul>
         </td>
-        <td>Roadmapping</td>
+        <td>Roadmapping<br/> <i>(Hatcher Gallery)</i></td>
     </tr>
     <tr>    
         <td>10:30am - 11:00am</td>
-        <td colspan="3" align="center"><b>Break</b> (refreshments provided)</td>
+        <td colspan="3" align="center"><b>Break</b> <br/>(refreshments provided outside Hatcher Gallery)</td>
     </tr>
     <tr>
         <td>11:00am - 12:30pm</td>
-        <td>Walkthrough on how to create a IIIF recipe, Tom Crane, Digirati</td>
-        <td><b>Panel: 3.0 migration experiences</b><br/>
+        <td>Walkthrough on how to create a IIIF recipe, Tom Crane, Digirati <br/><i>(Hatcher Gallery)</i></td>
+        <td><b>Panel: 3.0 migration experiences</b><br/> <i>(Hatcher Gallery)</i><br/>
                 Chair: Glen Robson (IIIF), Jack Reed (Stanford University Libraries), Maria Whitaker (Indiana University), Mark Patton (Johns Hopkins University)
         </td>
-        <td>Discovery Technical Specification Group meeting</td>
+        <td>Discovery Technical Specification Group meeting<br/> <i>(Hatcher Gallery)</i></td>
     </tr>
     <tr>
         <td>12:30pm - 2:00pm</td>
@@ -63,23 +62,46 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
     </tr>
     <tr>
         <td>2:00pm - 3:30pm</td>
-        <td>Recipe workshops</td>
-        <td>Unconference block</td>
-        <td>Unconference block</td>
+        <td>Recipe workshops <br/><i>
+            <ul>
+                <li>Clements Library Seminar Room</li>
+                <li>UMMA Multi-Purpose Room</li>
+                <li>Trotter House Large Meeting Room</li>
+                <li>Hatcher Gallery Lab</li>
+                <li>Hatcher Gallery</li>
+            </ul></i>
+        </td>
+        <td>Unconference block
+            <i><ul>
+                <li>Clements Library Seminar Room</li>
+                <li>UMMA Seminar Room, Hatcher Gallery Lab</li>
+                <li>Michigan League - Henderson Room</li>
+                <li>Michigan League - Koessler</li>
+                <li>Michigan League - Room D</li>
+                <li>Hatcher Gallery Lab</li>
+            </ul></i>
+        </td>
+        <td>Unconference block
+            <i><ul>
+                <li>Hatcher Gallery Lab</li>
+                <li>Hatcher South Room 806</li>
+                <li>Shapiro Room 4004/TAFR</li>
+                <li>Hatcher Gallery</li>
+            </ul></i>
+        </td>
     </tr>
     <tr>    
         <td>3:30pm - 4:00pm</td>
-        <td colspan="3" align="center"><b>Break</b> (refreshments provided)</td>
+        <td align="center"><b>Break</b> <br/>(refreshments provided outside Hatcher Gallery)</td>
+        <td align="center"><b>Break</b> <br/>(refreshments not provided)</td>
+        <td align="center"><b>Break</b> <br/>(refreshments provided outside Hatcher Gallery)</td>
     </tr>
     <tr>
         <td>4:00pm to 5:00pm</td>
         <td style="padding: 0px 0px 0px 0px;">
             <table style="margin: 0px 0px 0px 0px; border: 0">
                 <tr style="border: 0">
-                    <td colspan="2" style="border: 0">Recipe Report back</td>
-                </tr>
-                <tr style="border: 0">
-                    <td colspan="2" style="border: 0"><b>Lightning talks</b></td>
+                    <td colspan="2" style="border: 0"><b>Recipe Report back & Lightning talks</b> <br/> <i>(Hatcher Gallery)</i></td>
                 </tr>
                 <tr style="border: 0">
                     <td>Lighting the Way: A National Forum on Archival Discovery and Delivery</td>
@@ -87,7 +109,7 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
                 </tr>
                 <tr style="border: 0">
                     <td>Teaching and Learning with IIIF</td>
-                    <td>TBC</td>
+                    <td>Luis Duarte, HarvardX</td>
                 </tr>
                 <tr style="border: 0">
                     <td>Sharing IIIF resources using token services</td>
@@ -99,8 +121,17 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
                 </tr>
             </table>
         </td>
-        <td>Unconference block</td>
-        <td>Wrapup</td>
+        <td>Unconference block
+            <i><ul>
+                <li>Clements Library Seminar Room</li>
+                <li>UMMA Seminar Room, Hatcher Gallery Lab</li>
+                <li>Michigan League - Henderson Room</li>
+                <li>Michigan League - Koessler</li>
+                <li>Michigan League - Room D</li>
+                <li>Hatcher Gallery Lab</li>
+            </ul></i>
+        </td>
+        <td>Wrapup<br/> <i>(Hatcher Gallery)</i></td>
     </tr>
     <tr>
         <td>5:00pm - 7:30pm</td>
@@ -196,3 +227,4 @@ Museum galleries will be open!
 [ithaka]: https://www.ithaka.org/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [cookbook]: https://github.com/IIIF/cookbook-recipes/issues
+[time]: https://time.is/

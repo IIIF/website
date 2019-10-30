@@ -14,20 +14,6 @@ The IIIF Ann Arbor showcase will be on the 4th of November and will be open to p
 ### Working meeting
 The working group meetings are intended for active IIIF community participants and [working groups][groups]. Space is limited to around 80 people. 
 
-As part of this meeting we are looking for a number of lightning talks to provoke discussion and to highlight the exciting work on going in the IIIF Community. Lightning talks will be around 10mins but may be shorter depending on scheduling and demand.
-
-If you are interested in speaking at the event please submit your lighting talk using the following link by the __4th of October 2019__:
-
-* [Call for lightning talks][cfp] 
-
-We welcome any talk that would be of interest to the working group attendees but would like to highlight the following themes:
-
- * IIIF 3.0 implementation experience
- * Demonstrations of interoperability between institutions
- * Outreach event report backs
- * Community group related presentations (3D, Archives, Manuscripts, Museums or Newspapers)
- * Preference will be given to presentation that cover new ground
-
 If you have any questions about this call please contact [events@iiif.io][events].
 
 ### Logistics
@@ -48,6 +34,7 @@ If you have any questions about this call please contact [events@iiif.io][events
 - Locations: See map below
 - Places to Eat: See map below
 
+**Note:** Daylight Saving Time ends on Sunday, November 3, so make sure your watch and/or devices are set to the right time (you can always check [time.is][time] if you need to check or compare two places).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZcXnECf1ksFkaNGdmE986bvjVFa8xNqt" style="width: 80%; height: 600px"></iframe>
 
@@ -80,3 +67,4 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [events]: mailto:events@iiif.io
 [working-meeting]: https://www.eventbrite.co.uk/e/2019-iiif-working-meeting-ann-arbor-tickets-70170260137
 [showcase]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
+[time]: https://time.is/
