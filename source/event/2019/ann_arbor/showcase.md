@@ -53,11 +53,11 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>IIIF and University of Michigan Libraries</td>
-            <td>University of Michigan Libraries staff</td>
+            <td>Chris Powell and Roger Espinosa, University of Michigan Libraries</td>
         </tr>
         <tr>
             <td>IIIF and Artstor</td>
-            <td>Artstor staff</td>
+            <td>Will Gropp, Artstor</td>
         </tr>    
         <tr>
             <td>IIIF and Museums</td>
@@ -94,7 +94,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>IIIF APIs and State of Affairs, and Affordances IIIF offers (including AI/ML, etc.)</td>
-            <td>IIIF Specification Editors </td>
+            <td>Rob Sanderson, Getty</td>
         </tr>
         <tr>
             <td>Indigenous Digital Archive project</td>
