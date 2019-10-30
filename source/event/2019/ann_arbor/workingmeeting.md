@@ -62,32 +62,32 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
     </tr>
     <tr>
         <td>2:00pm - 3:30pm</td>
-        <td>Recipe workshops <br/><i>
+        <td>Recipe workshops <br/>
             <ul>
-                <li>Clements Library Seminar Room</li>
-                <li>UMMA Multi-Purpose Room</li>
-                <li>Trotter House Large Meeting Room</li>
-                <li>Hatcher Gallery Lab</li>
-                <li>Hatcher Gallery</li>
-            </ul></i>
+                <li><i>Clements Library Seminar Room</i></li>
+                <li><i>UMMA Multi-Purpose Room</i></li>
+                <li><i>Trotter House Large Meeting Room</i></li>
+                <li><i>Hatcher Gallery Lab</i></li>
+                <li><i>Hatcher Gallery</i></li>
+            </ul>
         </td>
         <td>Unconference block
-            <i><ul>
-                <li>Clements Library Seminar Room</li>
-                <li>UMMA Seminar Room, Hatcher Gallery Lab</li>
-                <li>Michigan League - Henderson Room</li>
-                <li>Michigan League - Koessler</li>
-                <li>Michigan League - Room D</li>
-                <li>Hatcher Gallery Lab</li>
-            </ul></i>
+            <ul>
+                <li><i>Clements Library Seminar Room</i></li>
+                <li><i>UMMA Seminar Room, Hatcher Gallery Lab</i></li>
+                <li><i>Michigan League - Henderson Room</i></li>
+                <li><i>Michigan League - Koessler</i></li>
+                <li><i>Michigan League - Room D</i></li>
+                <li><i>Hatcher Gallery Lab</i></li>
+            </ul>
         </td>
         <td>Unconference block
-            <i><ul>
-                <li>Hatcher Gallery Lab</li>
-                <li>Hatcher South Room 806</li>
-                <li>Shapiro Room 4004/TAFR</li>
-                <li>Hatcher Gallery</li>
-            </ul></i>
+            <ul>
+                <li><i>Hatcher Gallery Lab</i></li>
+                <li><i>Hatcher South Room 806</i></li>
+                <li><i>Shapiro Room 4004/TAFR</i></li>
+                <li><i>Hatcher Gallery</i></li>
+            </ul>
         </td>
     </tr>
     <tr>    
@@ -122,14 +122,14 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
             </table>
         </td>
         <td>Unconference block
-            <i><ul>
-                <li>Clements Library Seminar Room</li>
-                <li>UMMA Seminar Room, Hatcher Gallery Lab</li>
-                <li>Michigan League - Henderson Room</li>
-                <li>Michigan League - Koessler</li>
-                <li>Michigan League - Room D</li>
-                <li>Hatcher Gallery Lab</li>
-            </ul></i>
+            <ul>
+                <li><i>Clements Library Seminar Room</i></li>
+                <li><i>UMMA Seminar Room, Hatcher Gallery Lab</i></li>
+                <li><i>Michigan League - Henderson Room</i></li>
+                <li><i>Michigan League - Koessler</i></li>
+                <li><i>Michigan League - Room D</i></li>
+                <li><i>Hatcher Gallery Lab</i></li>
+            </ul>
         </td>
         <td>Wrapup<br/> <i>(Hatcher Gallery)</i></td>
     </tr>
