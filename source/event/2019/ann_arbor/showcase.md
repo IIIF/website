@@ -5,9 +5,6 @@ tags: [event ]
 page: monday
 ---
 
-{: class="alert"}
-[Registration open now!][eventbrite]
-
 On Monday, November 4th, the University of Michigan Library, Artstor, and the IIIF Consortium will host a special day-long IIIF Showcase to introduce newcomers to IIIF.
 
 * **If you are interested in engaging with other museum, library, archive and technical professionals...**
@@ -25,6 +22,8 @@ Come join us for a day-long free event that will educate, inspire, and reinvent 
 The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event (though it offers something for everyone, so returning attendees are welcome as well!). It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community. 
 
 # Location: Rackham Amphitheatre, Rackham Graduate School, 4th floor
+**Note:** Daylight Saving Time ends on Sunday, November 3, so make sure your watch and/or devices are set to the right time (you can always check [time.is][time] if you need to check or compare two places).
+
 <table class="api-table">
     <thead>
         <tr>
@@ -163,3 +162,4 @@ Accessible parking is available in both lots. A state-issued disability placard/
 [social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
 [parking-map]: {{ site.url }}{{ site.baseurl }}/img/event/UM_parking_map.pdf
+[time]: https://time.is/
