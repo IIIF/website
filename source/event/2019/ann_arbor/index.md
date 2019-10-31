@@ -85,5 +85,4 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [glen]: mailto:glen.robson@iiif.io
 [reed]: mailto:pjreed@stanford.edu
 [hadro]: mailto:josh.hadro@iiif.io
-[events]: mailto:events@iiif.io
 [reich]: mailto:areich@clir.org
