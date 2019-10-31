@@ -30,9 +30,21 @@ If you have any questions about this call please contact [events@iiif.io][events
 - Accomodations: [List of hotel reservations][hotels]
 - Travel: According to the [UMich travel page][travel], "Detroit Metropolitan International Airport (DTW) is only 20 miles from Ann Arbor, about a 45 minute drive (at the most)." The [AirRide shuttle service][airride] provides transportation between the airport ann Ann Arbor, $12 if booked in advance, $15 walk-on fares.
 - Social Media: Tweets about the event should use #iiif and @iiif_io
-- Code of Conduct: The IIIF Code of Conduct applies to these events to ensure they are inclusive, welcoming, and safe.
 - Locations: See map below
 - Places to Eat: See map below
+- Code of Conduct: The IIIF Code of Conduct applies to these events to ensure they are inclusive, welcoming, and safe. Individual members of the Conduct and Safety team can be recognized by their white badge lanyards and can be contacted individually:
+
+
+| Name | Mobile number | E-mail address | IIIF Slack | Twitter |
+| ---- | ------------- | -------------- | ---------- | ------- |
+| Josh Hadro (IIIF Consortium Staff) | +1 917 428 4152 |  [josh.hadro@iiif.io][hadro] | josh.hadro | hadro |
+| Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
+| Aliya Reich (CLIR/DLF Staff) | | [areich@clir.org][reich] | aliya | aliyareich |
+| Rebecca Hirsch | | [rebecca.hirsch@yale.edu][hirsch] |  rhirsch |bibliobeka |
+| Mark Matienzo | | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
+| Jack Reed |   | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
+
+
 
 **Note:** Daylight Saving Time ends on Sunday, November 3, so make sure your watch and/or devices are set to the right time (you can always check [time.is][time] if you need to check or compare two places).
 
@@ -68,3 +80,9 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [working-meeting]: https://www.eventbrite.co.uk/e/2019-iiif-working-meeting-ann-arbor-tickets-70170260137
 [showcase]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
 [time]: https://time.is/
+[hirsch]: mailto:rebecca.hirsch@yale.edu
+[matienzo]: mailto:matienzo@stanford.edu
+[glen]: mailto:glen.robson@iiif.io
+[reed]: mailto:pjreed@stanford.edu
+[hadro]: mailto:josh.hadro@iiif.io
+[reich]: mailto:areich@clir.org
