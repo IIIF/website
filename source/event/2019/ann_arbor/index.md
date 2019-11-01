@@ -68,7 +68,7 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 {% include ann_arbor-images.html %}
 
 [iiif]: https://iiif.io/
-[umich]: https://www.lib.umich.edu
+[umich]: https://drive.google.com/open?id=0B8BKX2ayzQsUejAyMi1UNUtDQ0Q3R3k3YU1aUmZwa2kyUkhj
 [ithaka]: https://www.ithaka.org/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/ann-arbor-hotels/
