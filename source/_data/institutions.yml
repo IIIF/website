@@ -315,6 +315,9 @@
 - name: Vatican Library
   uri: https://www.vatlib.it
   iiifc: 2
+- name: Veneranda Biblioteca Ambrosiana (Milan, Italy)
+  uri: https://www.ambrosiana.it/
+  iiifc:
 - name: Veridian Software
   uri: https://www.veridiansoftware.com
   iiifc:
