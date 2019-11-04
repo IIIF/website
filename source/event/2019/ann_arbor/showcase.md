@@ -34,7 +34,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
     </thead>
     <tbody>
         <tr>
-            <td>09:00am - 10:00am</td>
+            <td>08:30am - 10:00am</td>
             <td colspan="2"><b>Arrival, Registration and Tea/Coffee</b></td>
         </tr>
         <tr>

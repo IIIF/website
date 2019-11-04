@@ -61,7 +61,13 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
         <td colspan="3" align="center"><b>Lunch</b> (Not provided)</td>
     </tr>
     <tr>
-        <td>2:00pm - 3:30pm</td>
+        <td>2:00pm - 2:10pm</td>
+        <td>Meetup in Hatcher gallery to be shown where the next sessions are.</td>
+        <td>Meetup in Hatcher gallery to be shown where the next sessions are.</td>
+        <td>Meetup in Hatcher gallery to be shown where the next sessions are.</td>
+    </tr>
+    <tr>
+        <td>2:10pm - 3:30pm</td>
         <td>Recipe workshops <br/>
             <ul>
                 <li><i>Clements Library Seminar Room</i></li>
