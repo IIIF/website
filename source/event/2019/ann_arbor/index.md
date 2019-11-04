@@ -19,8 +19,9 @@ If you have any questions about this call please contact [events@iiif.io][events
 ### Logistics
 
 - Registration:
-    + [Showcase registration][showcase]
+    + [Showcase registration][showcase] 
     + [Working meeting registration][working-meeting]
+    * **Note** onsite registration is also available. 
 - Dates: November 4-7, 2019
     + November 4 - Showcase
     + November 5-7 - Working meeting

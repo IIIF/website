@@ -9,6 +9,8 @@ The 2019 IIIF working meeting is hosted by the [The University of Michigan Libra
 
 The working group meetings are intended for active IIIF community participants and [working groups][groups]. Space is limited to around 80 people. 
 
+**Note** onsite registration is available. 
+
 ## Schedule
 
 The schedule below will be updated as details of the program are confirmed. 

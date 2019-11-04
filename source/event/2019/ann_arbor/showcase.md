@@ -15,7 +15,7 @@ On Monday, November 4th, the University of Michigan Library, Artstor, and the II
 
 Come join us for a day-long free event that will educate, inspire, and reinvent your technical infrastructure. **The event is free, but space is limited. Please register early to guarantee yourself a spot!** All event proceedings will be in English unless otherwise noted. 
 
-[Showcase registration available on Eventbrite.][eventbrite]
+[Showcase registration available on Eventbrite.][eventbrite] - **Note** onsite registration is also available. 
 
 ### Who is it for?
 
