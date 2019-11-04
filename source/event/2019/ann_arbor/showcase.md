@@ -63,7 +63,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>IIIF and Artstor</td>
-            <td>Will Gropp, Artstor</td>
+            <td>Will Groppe, Artstor</td>
         </tr>    
         <tr>
             <td>IIIF and Museums</td>
