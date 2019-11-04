@@ -38,10 +38,14 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td colspan="2"><b>Arrival, Registration and Tea/Coffee</b></td>
         </tr>
         <tr>
-            <td>10:00am - 10:20am</td>
-            <td>Welcome</td>
-            <td></td>
+            <td rowspan="3">10:00am - 10:10am</td>
+            <td rowspan="3">Welcome</td>
+            <td>Maurice York, University of Michigan</td>
         </tr>
+        <tr>
+            <td>Piotr Adamczyk, Artstor</td>
+        <tr>
+            <td>Aliya Reich, CLIR</td>
         <tr>
             <td>10:20am - 10:40am</td>
             <td>Introduction to IIIF</td>
