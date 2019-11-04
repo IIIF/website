@@ -44,8 +44,10 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>Piotr Adamczyk, Artstor</td>
+        </tr>
         <tr>
             <td>Aliya Reich, CLIR</td>
+        </tr>
         <tr>
             <td>10:20am - 10:40am</td>
             <td>Introduction to IIIF</td>
