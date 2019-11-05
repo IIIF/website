@@ -12,16 +12,16 @@ The [International Image Interoperability Framework (IIIF)][iiif] Showcase and w
 The IIIF Ann Arbor showcase will be on the 4th of November and will be open to participants with all levels of IIIF knowledge from complete beginners to people who want to find out about the latest developments.
 
 ### Working meeting
-The working group meetings are intended for active IIIF community participants and [working groups][groups]. Space is limited to around 80 people. 
+The working group meetings are intended for active IIIF community participants and [working groups][groups]. Space is limited to around 80 people.
 
 If you have any questions about this call please contact [events@iiif.io][events].
 
 ### Logistics
 
 - Registration:
-    + [Showcase registration][showcase] 
+    + [Showcase registration][showcase]
     + [Working meeting registration][working-meeting]
-    * **Note** onsite registration is also available. 
+    * **Note** onsite registration is also available.
 - Dates: November 4-7, 2019
     + November 4 - Showcase
     + November 5-7 - Working meeting
@@ -33,7 +33,7 @@ If you have any questions about this call please contact [events@iiif.io][events
 - Social Media: Tweets about the event should use #iiif and @iiif_io
 - Locations: See map below
 - Places to Eat: See map below
-- Code of Conduct: The IIIF Code of Conduct applies to these events to ensure they are inclusive, welcoming, and safe. Individual members of the Conduct and Safety team can be recognized by their white badge lanyards and can be contacted individually:
+- Code of Conduct: The [IIIF Code of Conduct][conduct] applies to these events to ensure they are inclusive, welcoming, and safe. Individual members of the Conduct and Safety team can be recognized by their white badge lanyards and can be contacted individually:
 
 
 | Name | Mobile number | E-mail address | IIIF Slack | Twitter |
@@ -59,8 +59,8 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 - There is a handicapped city parking meter on Washington Street, which runs along the front entrance to the Rackham building.
 - The building is accessible from Washington Street via a ramp with a power door. The ramp is near the bicycle rack.
 - There is an alternative drop off (out of the weather) for vehicles 90” or shorter off Huron Street (which runs behind the building. Huron Street is the main thoroughfare through town.) It is a one way semicircular drive that goes underneath the building. This is for drop-off only. There is no guest parking in this garage.
-- The building has two banks of elevators, and both sets go to the 4th floor, which is where our events are located. 
-- The wheelchair entrance to the Amphitheatre is the north entrance, across from the Assembly Hall (which is where registration will take place.) There are two wheelchair locations, in the middle of the room. 
+- The building has two banks of elevators, and both sets go to the 4th floor, which is where our events are located.
+- The wheelchair entrance to the Amphitheatre is the north entrance, across from the Assembly Hall (which is where registration will take place.) There are two wheelchair locations, in the middle of the room.
 - Wheelchair accessible restrooms can be found:
     + 3rd floor, east side (accessible via east elevator only)
     + Main lobby, first floor (accessible via either elevator)
@@ -87,3 +87,4 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [reed]: mailto:pjreed@stanford.edu
 [hadro]: mailto:josh.hadro@iiif.io
 [reich]: mailto:areich@clir.org
+[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
