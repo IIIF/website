@@ -40,10 +40,10 @@ If you have any questions about this call please contact [events@iiif.io][events
 | ---- | ------------- | -------------- | ---------- | ------- |
 | Josh Hadro (IIIF Consortium Staff) | +1 917 428 4152 |  [josh.hadro@iiif.io][hadro] | josh.hadro | hadro |
 | Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
-| Aliya Reich (CLIR/DLF Staff) | | [areich@clir.org][reich] | aliya | aliyareich |
+| Aliya Reich (CLIR/DLF Staff) | +1 443 671 4212 | [areich@clir.org][reich] | aliya | aliyareich |
 | Rebecca Hirsch | | [rebecca.hirsch@yale.edu][hirsch] |  rhirsch |bibliobeka |
-| Mark Matienzo | | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
-| Jack Reed |   | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
+| Mark Matienzo | +1 650 683 5769 | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
+| Jack Reed | +1 650 454 7398  | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
 
 
 
