@@ -40,7 +40,7 @@ For the 2019 Working Meeting there will be an emphasis on creating IIIF recipes 
         <td>IIIF state of affairs and community updates<br/> <i>(Hatcher Gallery)</i></td>
         <td>Community development<br/> <i>(Hatcher Gallery)</i>
             <ul>
-                <li><b>Hosting a local IIIF Events</b><br/> Chair: Josh Hadro (IIIF), Stacey Redick (Folger Shakespeare Library) Sara Brumfield (FromthePage)</li>
+                <li><b>Hosting a Local IIIF Event</b><br/> Chair: Josh Hadro (IIIF), Stacey Redick (Folger Shakespeare Library) Sara Brumfield (FromthePage)</li>
                 <li><b>How to be an effective community group</b><br/> Chair: Rebecca Hirsch (Yale University), Mark A. Matienzo (Stanford University Libraries), Jon Dunn (Indiana University)</li>
             </ul>
         </td>
