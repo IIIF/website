@@ -31,7 +31,7 @@ Attendees will learn about the purpose and benefits of IIIF for web-based image 
 | 11:45 - 12:00 | **Break** | (provided) |
 | 12:00 - 12:15 | IIIF and Crowdsourcing | Dafydd Tudur, National Library of Wales |
 | 12:15 - 12:30 | How IIIF helps academic libraries | Zeki Mustafa Dogan, University of Göttingen / Göttingen State and University Library |
-| 12:30 - 12:45 | Europeana Media: IIIF Manifests as an Exchange Format for Audiovisual Content and Annotations | Jonathan Blok, Nederlands Instituut voor Beeld en Geluid |
+| 12:30 - 12:45 | Europeana Media: IIIF Manifests as an Exchange Format for Audiovisual Content and Annotations | Erwin Verbruggen, Netherlands Institute for Sound and Vision |
 | 12:45 - 13:00 | Fun with IIIF | Tristan Roddis, Cogapp |
 | 13:00 - 14:00 | **Lunch** | (provided) | 
 | 14:00 - 15:30 | Unconference session | Come with ideas, problems or discussion topics. |
