@@ -1,12 +1,12 @@
 ---
-title: "Call for proposals: IIIF Conference 2020 in Boston, MA"
-author: Josh Hadro
+title: "Call for Proposals: IIIF Conference 2020 in Boston, MA"
+author: 2020 IIIF Conference Program Committee
 date: 2019-12-17
 tags: [news, announcements]
 layout: post
+excerpt: >
+    The IIIF Conference Program Committee are looking for proposal submissions for the 2020 IIIF conference which will be held in Boston, MA June 1-4.
 ---
-
-**2020 IIIF Conference**
 
 The 2020 IIIF conference will be held in Boston, MA June 1-4. The
 conference will be co-hosted by [Harvard
@@ -40,9 +40,9 @@ All submitted proposals are peer-reviewed and will be considered for
 inclusion in the conference schedule by a volunteer program committee.
 
 Please submit an abstract of no longer than 500 words for your
-presentation or discussion by **February 3 **using this form:
+presentation or discussion by **February 3** using this form:
 
-[https://docs.google.com/forms/d/1O5e4DIIajM6fHZwBkS8Cm96Lk0a8JIMEYIV-pTAlNh0/edit](https://docs.google.com/forms/d/1O5e4DIIajM6fHZwBkS8Cm96Lk0a8JIMEYIV-pTAlNh0/edit)
+[https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform)
 
 Final versions of the accepted abstracts and presentations will be made
 openly available after the conference.
@@ -64,7 +64,7 @@ welcome presentations in the following areas:
 -   Using IIIF material for Machine Learning and AI
 
 If you have any questions please contact us at
-[events\@iiif.io](mailto:events@iiif.io).
+[events@iiif.io](mailto:events@iiif.io).
 
 Thank you!
 
