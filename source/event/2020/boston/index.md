@@ -4,6 +4,9 @@ layout: boston
 tags: [event ]
 ---
 
+{: class="alert"}
+Call for proposals now open! [Submit yours here][cfp], before **February 3 2020**.
+
 The 2020 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Boston June 1-4, 2020, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT).
 
 
@@ -42,3 +45,4 @@ To be a sponsor at the 2020 IIIF Conference, please contact <admin@iiif.io>. Add
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
+[cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform 
