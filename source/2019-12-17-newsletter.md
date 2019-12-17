@@ -236,7 +236,7 @@ With contributions from:
 [submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2 
 [iiif-youtube]: https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA
 [yt-showcase]: https://www.youtube.com/watch?v=l8kc8nH5f8I&list=PLYPP1-8uH9c534aTUrsPX1xX86KGVWmAu 
-[yt-lightning]: https://www.youtube.com/watch?v=KKK10ESzZ84&list=PLYPP1-8uH9c6rqC0KbHUPyfmHkfvCQYCk 
+[yt-plenary]: https://www.youtube.com/watch?v=KKK10ESzZ84&list=PLYPP1-8uH9c6rqC0KbHUPyfmHkfvCQYCk 
 [aa-notes]: https://docs.google.com/document/d/1H5Oareex3Oefhf4iPY6f6BOUBAoYJ9Llj5jRdxjTxIc/edit?usp=sharing
 [sharecare]: http://sharecare.nu/amsterdam-x-2019/
 [discovery-charter]: https://docs.google.com/document/d/14cE_amET6EuXaGf2mKXN72o8Hcw-Yxnc26P62ZKdohk/edit 
