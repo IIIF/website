@@ -1,7 +1,7 @@
 ---
 title: IIIF Community Newsletter, Volume 3 Issue 4
 author:  Julien A. Raemy
-date: 2019-12-17
+date: 2019-12-18
 tags: [news, newsletter, announcements]
 layout: post
 excerpt: >
