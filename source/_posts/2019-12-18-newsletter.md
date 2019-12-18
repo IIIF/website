@@ -22,10 +22,10 @@ excerpt: >
 
 The IIIF Conference Program Committee are looking for proposals for talks in the following forms:
 
-Up to a ½ day workshop (4 hours)
-7 to 10 minute lightning talks
-15-20 minute presentations (plus 5-10 mins questions)
-90 minute open block (Could be panel session or grouped presentations) 
+- Up to a ½ day workshop (4 hours)
+- 7 to 10 minute lightning talks
+- 15-20 minute presentations (plus 5-10 mins questions)
+- 90 minute open block (Could be panel session or grouped presentations) 
 
 Please [submit an abstract of no longer than 500 words for your presentation or discussion by February 3][boston-cfp].
 ### Videos from the 2019 IIIF Conference 
@@ -113,9 +113,9 @@ IIIF Community groups are designed to provide a forum for general discussion, br
 
 Discovery of interoperable resources remains one of the great opportunities for IIIF. To complement the work of the Discovery Technical Specifications group, several IIIF member institutions are working to initiate a IIIF Discovery for Humans community group.
 
-A [draft charter for this group is online][groups-discovery], based on IIIF Discovery discussions held since the 2018 discovery meeting at Stanford. The first call for interest for this group will be on Thursday, 19 December at 8 AM California | 11 AM Eastern | 4 PM UK | 5 PM Rome. An agenda and notes document is online. 
+A [draft charter for this group is online][groups-discovery], based on IIIF Discovery discussions held since the 2018 discovery meeting at Stanford. The first call for interest for this group will be on Thursday, 19 December at 8 AM California / 11 AM Eastern / 4 PM UK / 5 PM Rome.
 
-Please join us if you can to review the proposed objectives and approach for the group. If you cannot join the call but are interested in participating, please indicate your interest in the [Interested Participants section of the notes doc[[discovery-interest]. 
+Please join us if you can to review the proposed objectives and approach for the group. If you cannot join the call but are interested in participating, please indicate your interest in the [Interested Participants section of the notes doc][discovery-interest]. 
 
 ### [Outreach Community Group][groups-outreach]
 The IIIF Outreach Community Group continue to meet monthly to support outreach activities by the community and regional events. In the New Year we will be reviewing the [Awesome IIIF list][awesome-iiif] and getting an up to date view of IIIF adoption. Please join the Slack channel and our monthly calls.
