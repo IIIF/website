@@ -159,7 +159,7 @@ BSB TECHNOLOGY:
 * The [Clyfford Still Museum][clyfford] has implemented the IIIF Image API using Cogapp’s “slow looking” functionality for their online art collections - view [demo][clyf-demo], see [blog post][slow], and read the [case study][clyfford-case] from Cogapp that explains the underlying technology (Luna).
 * [TIFY viewer][tify], see [demo][tify-demo]
 * Art Institute of Chicago went live with support for the IIIF Image API v. 2.0, using the Cantaloupe image server, JP2 access files, and a custom content shim which fetches  and caches the JP2 from Fedora, if not already on local disk, and provides the local JP2's location to Cantaloupe for serving.
-* OCLC’s CONTENTdm latest release supports IIIF Image and IIIF Presentation, see [details][oclc-press]
+* OCLC’s CONTENTdm latest release supports IIIF Image and IIIF Presentation.
 * [Rosetta (ExLibris) support for IIIF][rosetta]
 * National Gallery of Art is now dynamically generating images using IIIF and IIPImage server, see [example][nga-example], and has also released a IIIF compare tool, see [example][nga-tool]
 * Kyoto University Library Network released [Kyoto University Rare Materials Digital Archive][kyoto] (test version) using IIIF. For more details, please see the [news release][kyoto-news].
@@ -293,7 +293,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [poland-program]: http://bn.org.pl/aktualnosci/1405-miedzynarodowe-warsztaty-na-temat-nowych-technologii-w-bibliotekach.html
 [poland-conf]: http://digitalcultures.pl/en
 [nga-example]: https://www.nga.gov/Collection/paintings/paintings-grid.html
-[oclc-press]: http://www.oclc.org/en/news/releases/2017/201726dublin.html
 [tify-demo]: http://tify.sub.uni-goettingen.de/demo.html?manifestUrl=https://gdzstaging.sub.uni-goettingen.de/iiif/presentation/PPN857449303/manifest
 [tify]: https://github.com/subugoe/tify
 [nga-tool]: https://www.nga.gov/collection-search-result.html?artobj_imagesonly=Images_online&artobj_classification=painting&artobj_oscicatologue=American%20Paintings%2C%201900%E2%80%931945&pageNumber=1&lastFacet=artobj_oscicatologue

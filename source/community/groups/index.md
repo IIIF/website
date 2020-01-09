@@ -11,6 +11,7 @@ The following is a list of active IIIF community groups and technical specificat
 
   * [3D][3d]
   * [Archives][archives]
+  * [Discovery for Humans][d4h]
   * [Manuscripts][manuscripts]
   * [Museums][museums]
   * [Newspapers][newspapers]
@@ -34,6 +35,7 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 [3d]: {{ site.url }}{{ site.baseurl }}/community/groups/3d "IIIF 3D Community Group"
 [archives]: {{ site.url }}{{ site.baseurl }}/community/groups/archives "IIIF Archives Community Group"
 [av]: {{ site.url }}{{ site.baseurl }}/community/groups/av "IIIF A/V Technical Specification Group"
+[d4h]: {{ site.url }}{{ site.baseurl }}/community/groups/D4H "IIIF Discovery for Humans Community Group"
 [manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts "IIIF Manuscripts Community Group"
 [museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums "IIIF Museums Community Group"
 [newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers "IIIF Newspapers Community Group"
