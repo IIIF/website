@@ -1,7 +1,7 @@
 ---
 title: "IIIF Discovery for Humans Community Group"
 layout: spec
-tags: [d4h]
+tags: []
 cssversion: 2
 ---
 
