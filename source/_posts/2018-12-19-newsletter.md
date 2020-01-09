@@ -92,7 +92,7 @@ The IIIF 3D Community Group has met eight times since its formation in March of 
 
 During the calls the group has seen compelling demonstrations of web-based 3D platforms that are being developed in and for the cultural heritage domain with interoperability in mind. Demonstrations and presentations have included the latest from the [Web3D consortium][web3d], the Visual Computing Lab's [Visual Media Service][vms], [Sketchfab Labs][sketchfab], the next generation of the [Morphosource platform][morphosource], the Smithsonian's forthcoming [open source 3D viewer and production pipeline][smith-3d] and latest IIIF 3D experiments by [Mnemoscene][mnemoscene].  The 3D Community Group has together started documenting a comparison matrix of 3D web viewers used by cultural heritage organizations as well as a [matrix documenting how viewers specifically handle spatial annotations][matrix].  The group is also embarking on an effort to document [3D interoperability use cases][3d-usecases].
 
-Participants in the IIIF 3D Community Group have established productive collaborations with other 3D standards initiatives, including the [CS3DP][cs3dp], [LIB3DVR][lib3dvr] and [ReACH initiatives][reach]. We are also talking more about IIIF at conferences and events with a 3D and VR focus, such as the [2018 Digital Heritage Conference][dhc].
+Participants in the IIIF 3D Community Group have established productive collaborations with other 3D standards initiatives, including the [CS3DP][cs3dp], LIB3DVR and [ReACH initiatives][reach]. We are also talking more about IIIF at conferences and events with a 3D and VR focus, such as the [2018 Digital Heritage Conference][dhc].
 Creation of 3D data by IIIF institutions is clearly on the rise, as is the appetite for open standards to support the sharing of 3D data.  We are anxious to see what transpires in the year ahead.      
 
 ### [Archives Community Group][groups-archives]
@@ -256,7 +256,6 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [ILMS]:https://www.imls.gov/ 
 [leipzig-event]: https://www.ub.uni-leipzig.de/index.php?id=1570 
 [leipzig-prezi]: https://drive.google.com/drive/folders/1Ejx6GFL_SUiFQ5roBHsOv87EL2ZWTjS5
-[lib3dvr]: http://lib3dvr.org 
 [matrix]: http://bit.ly/2PJon2F 
 [mirador-ggroup]: https://groups.google.com/forum/#!forum/mirador-tech  
 [mhn-homepage]: http://mhn.acervos.museus.gov.br  
