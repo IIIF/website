@@ -35,7 +35,9 @@ March 15:
 
 ## Paris
 
-On March 15, the Biblissima project is convening the first IIIF outreach event in Paris. This half-day event will include a broad overview of IIIF, followed by a series of lightning talks showcasing various implementations in different contexts. The event will occur in French and provide an enlightening and inspiring introduction as IIIF spreads its wings across France. Speakers and use cases will be given by French institutions already using IIIF including the National Library of France, Le Louvre, Institut de recherche et d'histoire des textes and more. 
+On March 15, the Biblissima project is convening the first IIIF outreach event in Paris. This half-day event will include a broad overview of IIIF, followed by a series of lightning talks showcasing various implementations in different contexts. The event will occur in French and provide an enlightening and inspiring introduction as IIIF spreads its wings across France. Speakers and use cases will be given by French institutions already using IIIF including the National Library of France, Le Louvre, Institut de recherche et d'histoire des textes and more. You can see the whole half-day program at:
+
+ *  [Biblissima IIIF Event][biblissima]
 
 Are you interested in hosting a similar event at your institute? We’re happy to help. For more info, please contact the IIIF outreach group.
 
@@ -44,4 +46,5 @@ This article was written by Greg Markus from EuropeanaTech from the IIIF Outreac
 [Ireland]: https://www.eventbrite.com/e/iiif-showcase-and-workshop-opportunities-for-innovation-in-ireland-tickets-42938073935?aff=
 [harvard-showcase]: https://www.eventbrite.com/e/iiif-new-england-showcase-tickets-42958581273
 [harvard-workshop]: https://www.eventbrite.com/e/iiif-new-england-technical-workshop-tickets-43187327459
+[biblissima]: https://projet.biblissima.fr/fr/actualites/innover-redecouvrir-patrimoine-ecrit-evenement-biblissima-iiif
 [greg-email]: mailto:gmarkus@beeldengeluid.nl
