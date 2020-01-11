@@ -47,7 +47,7 @@ Access to the National Library of Israel’s resources via Presentation API or I
 As part of the inauguration, the National Library of Israel launched [a developers website][developers-israel] (currently Hebrew only, English is scheduled for 2018).
 
 ### Biblissima event in Paris
-On March 15, 2018, the Biblissima project organized on the Condorcet Campus (Paris) the first french-speaking outreach event dedicated to IIIF. It gathered between 150 and 170 people from about 70 different institutions in France, mostly from universities, research institutes and the cultural heritage sector. The afternoon begun with an overview of IIIF by Ben Albritton and Régis Robineau, followed by a series of lightning talks that showcased implementations and use cases in different contexts (Europeana, BnF and Gallica, manuscripts projects and museums use cases).
+On March 15, 2018, the Biblissima project organized on the Condorcet Campus (Paris) the first french-speaking outreach event dedicated to IIIF. It gathered between 150 and 170 people from about 70 different institutions in France, mostly from universities, research institutes and the cultural heritage sector. The afternoon begun with an overview of IIIF by Ben Albritton and Régis Robineau, followed by a series of lightning talks that showcased implementations and use cases in different contexts (Europeana, BnF and Gallica, manuscripts projects and museums use cases). The slide decks are available [on this webpage][biblissima-iiif] (see Presentations tab at the bottom).
 
 ### EuropeanaTech 2018
 On May 15-16 2018 Europeana gathered a significant part of the community of Digital Heritage innovators (nearly 300 of them) and locked them on a ship. The result were two outstanding days of presentations, panels and a lot of informal discussions and networking. Main topics included centralization vs. decentralization, Linked Open Data, Wikidata and of course IIIF, with a handful of presentations touching on the work of our community. For a summary of what happened you can read [this blog][europeana-blog] or dive straight into the [full programme and presentations online][europeanatech18]. 
@@ -95,7 +95,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * On February 22, [Cathryn Goodwin][caa-goodwin] (Princeton University Art Museum), [Charles Butcosk][caa-butcosk] (Colby College Museum of Art), [Jeff Steward][caa-steward] (Harvard Art Museums), and [Emmanuelle Delmas-Glass][caa-glass] (Yale Center for British Art) presented on 
 IIIF Use Cases for Enhanced Research and Collection Engagement on a College Art Association conference panel chaired by Emily Pugh from the Getty Research Institute.
 * On March 27, Julien A. Raemy has been invited to [present his bachelor’s thesis][agbd-prezi] on IIIF to the Geneva Library Association (AGBD).
-* “Les protocoles IIIF : présentation des potentialités” (in French), presentation by Régis Robineau at the HIMANIS Project Final Day (Paris, Archives Nationales, May 29).
+* [“Les protocoles IIIF : présentation des potentialités”][himanis-presentation] (in French), presentation by Régis Robineau at the HIMANIS Project Final Day (Paris, Archives Nationales, May 29).
 * Claire Knowles and Terry Brady presented at the [Open Repositories conference][or2018] at Montana State University, 4-7 June, on IIIF and DSpace.
 * Leander Seige from the University of Leipzig gave a [lightning talk on Manuscripts, IIIF and the upcoming German manuscript platform][seige-elag] at ELAG 2018 in Prague on June 6.
 * On June 25th-29th, the [Scholastic Commentaries and Text Archive][scta] held a [weeklong standards workshop][scta-linking] culminating in a [Friday showcase presentation][scta-meeting] at the University of Basel in Switzerland. Since the SCTA is working hard to make scholastic data available via IIIF both for its end users and for re-use by institutions with related content, IIIF was a central topic of discussion throughout the week.
@@ -185,6 +185,7 @@ The Outreach Community Group Co-Chairs:
 [basel]: http://bit.ly/iiif-basel 
 [best-manuscript]: https://docs.google.com/document/d/1BWFpJ0ifaD_iIU00B242NoK4ncZ8Yo73HOU6OAy6rZs/edit 
 [beyond-crane]: https://medium.com/@tom.crane/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34 
+[biblissima-iiif]: http://www.biblissima-condorcet.fr/en/courses-and-events/biblissima-and-iiif-day-innovating-rediscover-written-cultural-heritage-2018 
 [caa-goodwin]: https://www.slideshare.net/EmmanuelleGlass/princeton-university-art-museum-iiif-use-cases-by-cathryn-goodwin-college-art-association-2018-conference
 [caa-butcosk]: https://www.slideshare.net/EmmanuelleGlass/iiif-at-the-colby-college-museum-of-art-by-charles-butcosk-college-art-association-2018-conference
 [caa-steward]: https://www.slideshare.net/EmmanuelleGlass/caa2018-harvard-art-museums-jeff-stewart-iiif
@@ -216,6 +217,7 @@ The Outreach Community Group Co-Chairs:
 [groups-sw]: http://iiif.io/community/groups/software/
 [groups-granularity]: http://iiif.io/community/groups/text-granularity/ 
 [hackathon-israel]: http://blog.nli.org.il/en/hackathon/ 
+[himanis-presentation]: http://www.biblissima-condorcet.fr/en/protocoles-iiif-presentation-potentialites 
 [hors-texte]: http://hesso.tind.io/record/2394 
 [iiif-c]: http://iiif.io/community/consortium/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss 
