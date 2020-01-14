@@ -1,5 +1,5 @@
 ---
-title: Tuition Fellowships Available for IIIF Workshop at DHSI 2019
+title: Tuition Fellowships Available for IIIF Workshop at DHSI 2020
 author: Glen Robson
 date: 2020-01-14
 tags: [news, announcements]
@@ -21,10 +21,10 @@ The deadline for this application is Tuesday, February 11, 2020. Applicants will
 
 Please direct any questions to the IIIF Staff, at <admin@iiif.io>.
 
-## About the IIIF Workshop at DHSI 2019
+## About the IIIF Workshop at DHSI 2020
 
 **Introduction to IIIF: Sharing, Consuming, and Annotating the World’s Images**  
-June 3-7, 2019
+June 8th to 12th (Week 2) 2020
 
 Access to image-based and A/V resources is fundamental to research, scholarship and the transmission of cultural knowledge. Digital images are containers for much of the information content in the Web-based delivery of books, newspapers, manuscripts, maps, scrolls and archival materials. Yet much of the Internet’s resources are locked up in silos, with access restricted to bespoke, locally built applications. A growing community of the world’s leading research libraries and content repositories have embarked on an effort to collaboratively produce an interoperable technology and community framework for image and AV delivery. IIIF (International Image Interoperability Framework) has the following goals: 
  * To give scholars an unprecedented level of uniform and rich access to image-based resources hosted around the world,
