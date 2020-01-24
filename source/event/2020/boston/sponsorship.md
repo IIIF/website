@@ -32,6 +32,8 @@ The annual IIIF conference attracts a diverse range of participants interested i
 
 ### Travel Scholarship Sponsor - $2,000
 
+In 2019, the IIIF Consortium sponsored a travel scholarship in order to foster a conference environment that better reflects the diversity of the IIIF community, and we are eager to expand our ability to bring new voices to our event in 2020. 
+
 * Named sponsorship for IIIF Conference travel award
 * Logo on iiif.io website and conference slides
 * Acknowledgements throughout plenary program
