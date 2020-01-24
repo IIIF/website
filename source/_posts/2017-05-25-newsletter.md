@@ -216,7 +216,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [jpeg-git]: https://github.com/uclouvain/openjpeg/projects/1
 [jpeg-site]: http://www.openjpeg.org/2017/04/27/Faster-OpenJPEG-is-on-track
 [jpeg-news]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
-[zegami-news]: https://www.zegami.com/international-image-interoperability-framework-iiif-zegami/
+[zegami-news]: https://zegami.com/blog/international-image-interoperability-framework-iiif-zegami/
 [ch-demo]: https://collection.cooperhewitt.org/objects/18572345/zoom
 [ch-blog]: https://labs.cooperhewitt.org/2017/parting-gifts/
 [bib-demo]: http://beta.biblissima.fr/en

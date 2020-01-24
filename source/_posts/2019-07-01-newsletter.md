@@ -218,7 +218,7 @@ We are pleased to announce the first public release of a new Java library to rea
 The Goobi community has recently put a lot of effort into implementing and supporting different IIIF APIs. There is a new list of Goobi viewer installations and their IIIF support. Please find it at the following URL: <https://goobi.io/viewer/installations/>. 
 
 ### IIIF-Annotation Library - new features
-The IIIF-Annotation Library, developed by the North Carolina State University (NCSU) Libraries, now allows [for layers to be viewable](https://ncsu-libraries.github.io/iiif-annotation/storyboard/#manifests-with-layers) and [for multiple annotations to be displayed in the same viewer](https://ncsu-libraries.github.io/iiif-annotation/multistoryboard/).
+The IIIF-Annotation Library, developed by the North Carolina State University (NCSU) Libraries, now allows [for layers to be viewable](https://ncsu-libraries.github.io/annona/storyboard/#manifests-with-layers) and [for multiple annotations to be displayed in the same viewer](https://ncsu-libraries.github.io/annona/multistoryboard/).
 
 ## Recommended reading
 
