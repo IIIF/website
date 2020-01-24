@@ -30,7 +30,7 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 
 ### Call for Sponsors
 
-To be a sponsor at the 2020 IIIF Conference, please contact <admin@iiif.io>. Additional sponsorship information will be made available when ready.
+We are offering sponsorship for the 2020 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>.
 
 
 {% include boston-images.html %}
@@ -46,3 +46,4 @@ To be a sponsor at the 2020 IIIF Conference, please contact <admin@iiif.io>. Add
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
 [cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform 
+[sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/sponsorship
