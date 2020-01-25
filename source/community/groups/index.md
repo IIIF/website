@@ -13,6 +13,7 @@ The following is a list of active IIIF community groups and technical specificat
   * [Archives][archives]
   * [Discovery for Humans][d4h]
   * [Manuscripts][manuscripts]
+  * [Maps][maps]
   * [Museums][museums]
   * [Newspapers][newspapers]
   * [Outreach][outreach]
@@ -38,6 +39,7 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 [d4h]: {{ site.url }}{{ site.baseurl }}/community/groups/D4H "IIIF Discovery for Humans Community Group"
 [manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts "IIIF Manuscripts Community Group"
 [museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums "IIIF Museums Community Group"
+[maps]: {{ site.url }}{{ site.baseurl }}/community/groups/maps "IIIF Maps Community Group"
 [newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers "IIIF Newspapers Community Group"
 [software]: {{ site.url }}{{ site.baseurl }}/community/groups/software "Software Developers Community Group"
 [discovery]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery "IIIF Discovery Technical Specification Group"
