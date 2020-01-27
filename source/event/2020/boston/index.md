@@ -79,7 +79,7 @@ The final program will continue to develop over the next few months but please s
 {% include boston-images.html %}
 
 [iiif]: https://iiif.io/
-[harvard]: https://www.harvard.edu/
+[harvard]: https://www.harvard32984y239847238947329.edu/
 [mit]: https://mit.edu/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
