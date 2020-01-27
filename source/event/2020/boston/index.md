@@ -61,16 +61,16 @@ The final program will continue to develop over the next few months but please s
         </tr>
         <tr>
             <td>Afternoon</td>
-            <td>Showcase, MIT Stata Center</td>
-            <td>Conference plenary including Community updates and Lighning talks</td>
+            <td>Showcase</td>
+            <td>Conference plenary including community updates and lightning talks</td>
             <td>Parallel sessions</td>
             <td>Closing lightning talks and panel sessions</td>
         </tr>
         <tr>
             <td>Evening</td>
             <td>&nbsp;</td>
-            <td>Conference Reception, MIT Museum</td>
-            <td>IIIF Consortium members Receiption, Harvard Natural History Museum</td>
+            <td>Conference Reception</td>
+            <td>IIIF Consortium members' reception</td>
             <td>&nbsp;</td>
         </tr>
     </tbody>
