@@ -69,7 +69,7 @@ The final program will continue to develop over the next few months but please s
         <tr>
             <td>Evening</td>
             <td>&nbsp;</td>
-            <td>Conference Reception</td>
+            <td>Conference reception</td>
             <td>IIIF Consortium members' reception</td>
             <td>&nbsp;</td>
         </tr>
