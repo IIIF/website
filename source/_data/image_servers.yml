@@ -82,7 +82,7 @@
     images in multiple formats.&nbsp; It accompanies the Flash-based FSI Viewer
     for zoom and pan.
 - name: digilib
-  uri: http://digilib.sourceforge.net/
+  uri: https://robcast.github.io/digilib/
   blurb:
   - >
     digilib is an open source, Java based image server for high resolution images.
