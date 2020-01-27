@@ -32,6 +32,49 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 
 We are offering sponsorship for the 2020 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>.
 
+### Outline program
+
+The final program will continue to develop over the next few months but please see the outline below which gives an overview of the Boston IIIF Showcase and Conference. Note the Showcase will require a separate registration to the Conference. 
+
+<table class="api-table">
+    <thead>
+        <tr>
+            <th>&nbsp;</th>
+            <th><b>Showcase</b></th>
+            <th colspan="3"><b>Conference</b></th>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <th>Monday 1st June 2020</th>
+            <th>Tuesday 2nd June 2020</th>
+            <th>Wednesday 3rd June 2020</th>
+            <th>Thursday 4th June 2020</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Morning</td>
+            <td>&nbsp;</td>
+            <td>Workshops</td>
+            <td>Plenary lightning talks and parallel sessions</td>
+            <td>Parallel sessions</td>
+        </tr>
+        <tr>
+            <td>Afternoon</td>
+            <td>Showcase, MIT Stata Center</td>
+            <td>Conference plenary including Community updates and Lighning talks</td>
+            <td>Parallel sessions</td>
+            <td>Closing lightning talks and panel sessions</td>
+        </tr>
+        <tr>
+            <td>Evening</td>
+            <td>&nbsp;</td>
+            <td>Conference Reception, MIT Museum</td>
+            <td>IIIF Consortium members Receiption, Harvard Natural History Museum</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>    
 
 {% include boston-images.html %}
 
