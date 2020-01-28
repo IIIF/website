@@ -6,7 +6,7 @@ tags: [event ]
 
 # Call for Sponsors: 2020 IIIF Conference in Boston, MA
 
-The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products and services and interact with participants from all over the world. The 2020 IIIF Conference will take place June 1-4, 2020 in Boston, MA. The event is co-hosted by Harvard University and MIT.
+The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products and services and interact with participants from all over the world. The [2020 IIIF Conference will take place June 1-4, 2020 in Boston, MA][boston]. The event is co-hosted by Harvard University and MIT.
 
 The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small institutions including Universities, Libraries, Archives and Museums. We expect to attract approximately 250 attendees keen to learn about IIIF and associated projects, technologies, and best practices. 
 
@@ -54,4 +54,6 @@ In 2019, the IIIF Consortium sponsored a travel scholarship in order to foster a
 
 Spaces are limited, so table space will be allocated in order of sponsor sign up.
 
-To indicate your interest in sponsorship, please contact admin@iiif.io as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
+To indicate your interest in sponsorship, please contact <admin@iiif.io> as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
+
+[boston]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/
