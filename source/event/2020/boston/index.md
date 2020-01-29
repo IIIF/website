@@ -19,8 +19,10 @@ All event proceedings will be in English.
 
 * Registration: Available early 2020
 * Dates: June 1-4, 2020
-* Location: Boston, MA
-* Cost: To be decided but there will be a cost to cover the conference costs. There will be a discount for staff of [IIIF Consortium][consortium] institutions
+* Locations: Boston, MA (See [map](#locations) below for venue locations and more)
+    - IIIF Showcase, June 1: MIT Campus, Ray and Maria Stata Center
+    - Workshops and Conference, June 2-4: Harvard Campus, various locations
+* Cost: To be decided but there will be a cost to cover the conference costs, comparable to previous years. There will be a discount for staff of [IIIF Consortium][consortium] institutions
 * Capacity: Approximately 300
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use [#iiif][hashtag] or [@iiif_io][twitter]
@@ -75,6 +77,11 @@ The final program will continue to develop over the next few months but please s
         </tr>
     </tbody>
 </table>    
+
+### Locations
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 85%; height: 600px"></iframe>
+
 
 {% include boston-images.html %}
 
