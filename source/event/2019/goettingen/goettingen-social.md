@@ -32,7 +32,7 @@ On Wednesday, June 26, at 7:00am, we invite all participants to join us for an i
 
 Meeting point is 7:00am at the monument representing Wilhelm IV next to the conference venue at the Wilhelmsplatz.
 
-Preview the course at [https://www.komoot.de/tour/70704222](https://www.komoot.de/tour/70704222) (where the GPS data is available as well).
+Preview the course at https://www.komoot.de/tour/70704222 (where the GPS data is available as well).
 
 
 
