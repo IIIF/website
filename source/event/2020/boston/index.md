@@ -5,19 +5,24 @@ tags: [event ]
 ---
 
 {: class="alert"}
-Call for proposals now open! [Submit yours here][cfp], before **February 3 2020**.
+Registration now open! [Register now to lock in a spot at the conference][eventbrite].
 
 The 2020 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Boston June 1-4, 2020, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT).
 
+This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
-The Conference is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
+The **IIIF Showcase** is meant to introduce newcomers to IIIF, and those seeking to learn how IIIF is used in a variety of contexts.
+
+The **IIIF Workshops** offer more in-depth opportunities to learn about IIIF tools and platforms.
+
+The **IIIF Conference** features plenary presentations and breakout sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations. 
 
 All event proceedings will be in English.
 
 
 ### Logistics
 
-* Registration: Available early 2020
+* Registration: [Registration is now available!][eventbrite]
 * Dates: June 1-4, 2020
 * Locations: Boston, MA (See [map](#locations) below for venue locations and more)
     - IIIF Showcase, June 1: MIT Campus, Ray and Maria Stata Center
@@ -28,6 +33,13 @@ All event proceedings will be in English.
 * Social Media: Tweets about the event should use [#iiif][hashtag] or [@iiif_io][twitter]
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+
+
+### Travel
+
+- List of [hotels and event locations][boston-hotels]
+- Flights: The local planning team recommends that attendees traveling by air fly to [Boston Logan International Airport (BOS)](https://www.massport.com/logan-airport)
+- Train: [Take a train](https://www.amtrak.com/home.html) to Boston from many parts of the Eastern coast of the United States. 
 
 
 ### Call for Sponsors
@@ -97,3 +109,5 @@ The final program will continue to develop over the next few months but please s
 [twitter]: https://twitter.com/iiif_io
 [cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform 
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/sponsorship
+[eventbrite]: https://www.eventbrite.co.uk/e/2020-iiif-annual-conference-tickets-92771629441
+[boston-hotels]: {{ site.url }}{{ site.baseurl }}/event/2020/boston/boston-hotels

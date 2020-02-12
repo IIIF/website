@@ -1,0 +1,23 @@
+- name: Porter Square Hotel
+  url: http://www.theportersquarehotel.com/
+  note: "Call with code 'IIIF20' for $239-249 + 14.45% per night; 27 rooms available"
+  address: 1924 Massachusetts Ave, Cambridge, MA 02140
+  lat: 42.38929
+  lng: -71.12029
+  dates: available 06/01 - 06/05 (a few more from 06/01 - 06/04)
+- name: Hotel 1868
+  url: https://www.hotel1868.com/
+  note:  Call with code 'IIIF20' for $259-289 + 14.45% tax per night; 18 rooms available
+  address: 1868 Massachusetts Ave, Cambridge, MA 02140
+  lat: 42.38805
+  lng: -71.11955
+  dates: available 06/01 - 06/04
+- name: The Inn at Brookline
+  url: https://www.theinnatbrookline.com
+  note:  Call with code 'IIIF20' for $214 + plus 11.7% occupancy tax per night; TKTK rooms available
+  address:  1200 Beacon Street, Brookline, MA, 02446
+  lat: 42.34381
+  lng: -71.11666
+  dates: available 06/01 - 06/04
+
+
