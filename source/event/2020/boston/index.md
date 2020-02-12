@@ -29,9 +29,6 @@ All event proceedings will be in English.
     - Workshops and Conference, June 2-4: Harvard Campus, various locations
 
 * Cost: $340 general ticket, $220 [Consortium members][consortium] ticket, $100 student/discount ticket
-=======
-* Cost: To be decided but there will be a cost to cover the conference costs, comparable to previous years. There will be a discount for staff of [IIIF Consortium][consortium] institutions
-
 * Capacity: Approximately 300
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use [#iiif][hashtag] or [@iiif_io][twitter]
