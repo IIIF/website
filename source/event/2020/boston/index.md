@@ -27,7 +27,7 @@ All event proceedings will be in English.
 * Locations: Boston, MA (See [map](#locations) below for venue locations and more)
     - IIIF Showcase, June 1: MIT Campus, Ray and Maria Stata Center
     - Workshops and Conference, June 2-4: Harvard Campus, various locations
-* Cost: $340 general ticket, $220 [Consortium members[consortium] ticket, $100 student/discount ticket
+* Cost: $340 general ticket, $220 [Consortium members][consortium] ticket, $100 student/discount ticket
 * Capacity: Approximately 300
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use [#iiif][hashtag] or [@iiif_io][twitter]
