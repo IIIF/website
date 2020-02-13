@@ -1,7 +1,8 @@
 ---
-title: "IIIF Annual Conference and Showcase - Boston, MA - June 1-4, 2020"
+title: "IIIF Annual Conference and Showcase Overview - Boston, MA - June 1-4, 2020"
 layout: boston
 tags: [event ]
+page: overview
 ---
 
 {: class="alert"}
@@ -13,7 +14,7 @@ This event is intended for a wide range of participants and interested parties, 
 
 The **IIIF Showcase** is meant to introduce newcomers to IIIF, and those seeking to learn how IIIF is used in a variety of contexts.
 
-The **IIIF Workshops** offer more in-depth opportunities to learn about IIIF tools and platforms.
+The [**IIIF Workshops**][workshops] offer more in-depth opportunities to learn about IIIF tools and platforms.
 
 The **IIIF Conference** features plenary presentations and breakout sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations. 
 
@@ -112,3 +113,4 @@ The final program will continue to develop over the next few months but please s
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/sponsorship
 [eventbrite]: https://www.eventbrite.co.uk/e/2020-iiif-annual-conference-tickets-92771629441
 [boston-hotels]: {{ site.url }}{{ site.baseurl }}/event/2020/boston/boston-hotels
+[workshops]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/workshops/

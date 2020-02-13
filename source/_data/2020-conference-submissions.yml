@@ -1,0 +1,75 @@
+- abstract: '<p>This 4-hour workshop will introduce Mirador 3 and its technical underpinnings using a hands-on approach that will give attendees direct experience with the project. Mirador 3 is a rewrite of the popular comparison and visualization tool, Mirador, and introduces a new, React/Redux-based architecture. Workshop attendees will gain hands-on experience as we cover the following topics:</p>
+<ul>
+<li> - Installing Mirador 3 </li>
+<li> - Reviewing Mirador 3 features </li>
+<li> - Learning about Mirador 3’s APIs and state management </li>
+<li> - Customizing and theming </li>
+<li> - Building a Mirador 3 plugin </li>
+<li> - Contributing / updating translations </li>
+<li> - Participating in the Mirador user community </li>
+</ul>
+<p>By the end of the workshop, attendees will have a solid understanding of how to: adopt Mirador 3, use it in their own applications, provide feedback to the core team, and make their own contributions to the Mirador community.</p>'
+  authors:
+  - company: Stanford University Libraries
+    location: United States
+    name: Jack Reed
+  - company: Stanford University Libraries
+    location: United States
+    name: Gary Geisler
+  - company: Stanford University Libraries
+    location: United States
+    name: Jennifer Vine
+  - company: Stanford University Libraries
+    location: United States
+    name: Camille Villa
+  contact:
+    email: pjreed@stanford.edu
+    name: Jack Reed
+  flagged: false
+  id: 9
+  keywords: 
+    - Mirador
+    - IIIF
+    - Fun
+  title: Mirador 3 Hands On Technical Workshop
+  topics:
+  - "IIIF Implementation Spectrum: large-scale or small-scale projects"
+  - Interoperability in IIIF contexts and beyond
+  - Teaching and learning examples and best practices using IIIF resources
+  type: Workshop
+- abstract: '<p>Description of the workshop
+Our comprehensive, hands-on Goobi IIIF workshop is designed to give all participants the skills they need to generate valid, standardized metadata from directories containing images using very simple resources in less than 20 minutes and without further help. The metadata can then be exported as METS/MODS (libraries), LIDO (museums) or even in TEI format for digital humanities. At the same time, Goobi automatically generates valid IIIF Presentation Manifests. That means the images are immediately available via the IIIF Image API and can be used straight away in any number of other IIIF consumers (e.g. Mirador).</p>
+<p>
+Background
+Goobi is an open-source application. For over 15 years, it has brought together many cultural institutions in currently 17 countries as part of a single digitization community, focusing equally on the coordination of both simple and complex workflows for digitization projects (Goobi workflow) and on the publication of the digitized results of those projects (Goobi viewer). Alongside standardized interfaces such as OAI-PMH and SRU, IIIF plays a crucial role in ensuring interoperability between published digital collections and different external data consumers. That’s why Goobi supports the IIIF community by providing as many IIIF APIs as possible. 
+Currently Goobi provides support for the IIIF Image API 2.1, IIIF Presentation API 2.1, IIIF Content Search API 1.0  and IIIF Change Discovery API in draft status. Additionally, Goobi supports Web Annotations und Open Annotations to provide its crowdsourcing data as well.
+</p><p>
+Technical requirements
+To participate in this workshop, you will need your own computer in order to be able to follow all steps. Ideally, participants should have administrative rights on the computers so that they can install software on them if necessary. There are no restrictions for the operating system to be used, so that mac OS, Windows or Linux can be used.</p>'
+  authors:
+  - company: intranda GmbH
+    link: http://www.intranda.com
+    location: Germany
+    name: Steffen Hankiewicz
+  - company: intranda GmbH
+    link: http://www.intranda.com
+    location: Germany
+    name: Jan Vonde
+  contact:
+    email: steffen.hankiewicz@intranda.com
+    name: Steffen Hankiewicz and Jan Vonde
+  flagged: false
+  id: 29
+  keywords:
+  - Goobi
+  - Manifest Generation
+  - Metadata standards
+  - API support 
+  title: Creating, delivering and consuming IIIF Manifests within the Goobi Community
+  topics:
+  - "IIIF Implementation Spectrum: large-scale or small-scale projects"
+  - Interoperability in IIIF contexts and beyond
+  - IIIF Audio/Visual use cases and implementations
+  - Teaching and learning examples and best practices using IIIF resources
+  - Annotation, including full-text or academic use cases
+  type: Workshop
