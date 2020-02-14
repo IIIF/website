@@ -26,7 +26,7 @@ The program for the workshops is as follows:
   </thead>
   <tbody>
     <tr>
-        <td>9:45am - 11:30am</td>
+        <td>9:00am - 11:30am</td>
         {% include 2020-conference-submission.html paper=9 mode='td' %}
         {% include 2020-conference-submission.html paper=29 mode='td' %}
     </tr>
