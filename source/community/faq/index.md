@@ -4,8 +4,6 @@ id: consortium
 layout: sub-page
 ---
 
-<!-- {% include section.html class="step community-driven" content=content %} -->
-
 {% capture content %}
 
 ## What is IIIF?

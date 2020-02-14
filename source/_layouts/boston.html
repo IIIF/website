@@ -8,7 +8,7 @@
     {% include boston-header.html %}
     <div class="sub-pages-container">
       <div class="{{ page.id }} clearfix">
-        <!-- <section class="washington-links">
+        <section class="washington-links">
             <nav class="washington-nav">
             <ul>
                 {% if page.page contains 'overview' %}
@@ -16,20 +16,20 @@
                 {% else %}
                     {% assign class = '' %}
                 {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/">Overview / Logistics</a></li>
-                {% if page.page contains 'monday' %}
+                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2020/boston/">Overview / Logistics</a></li>
+                <!-- {% if page.page contains 'monday' %}
                     {% assign class = 'is-selected' %}
                 {% else %}
                     {% assign class = '' %}
                 {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/">Monday - showcase</a></li>
-                {% if page.page contains 'tuesday' %}
+                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/">Monday - showcase</a></li> -->
+                {% if page.page contains 'workshops' %}
                     {% assign class = 'is-selected' %}
                 {% else %}
                     {% assign class = '' %}
                 {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/">Tuesday - Workshops</a></li>
-                {% if page.page contains 'wednesday' %}
+                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2020/boston/workshops/">Workshops</a></li>
+<!--                 {% if page.page contains 'wednesday' %}
                     {% assign class = 'is-selected' %}
                 {% else %}
                     {% assign class = '' %}
@@ -46,10 +46,10 @@
                 {% else %}
                     {% assign class = '' %}
                 {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/friday/">Friday - Conference</a></li> 
+                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/friday/">Friday - Conference</a></li>  -->
             </ul>
         </nav>
-        </section> -->
+        </section>
         <article>
           {% include sub-page_header.html %}
           <div class="specbody">

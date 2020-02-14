@@ -1,0 +1,24 @@
+- name: Ray and Maria Stata Center
+  url: https://web.mit.edu/eventguide/cacfacilities/stata.html
+  note: IIIF Showcase
+  address: 32 Vassar Street, Cambridge, MA
+  lat: 42.3615067
+  lng: -71.0910045
+  dates: June 1, 2020
+  cat: 1
+- name: Harvard Museum of Natural History
+  url: https://hmnh.harvard.edu
+  note: IIIF Workshop and Conference
+  address: 26 Oxford St, Cambridge, MA 02138
+  lat: 42.378462
+  lng: -71.1177463
+  dates: June 2-4, 2020
+  cat: 1
+- name: MIT Museum
+  url: https://mitmuseum.mit.edu
+  note: Location for Open Conference Reception
+  address: 265 Massachusetts Ave, Cambridge, MA 02139
+  lat: 42.3620935
+  lng: -71.100004
+  dates: Tuesday June 2, 2020
+  cat: 2
