@@ -51,7 +51,7 @@ Applicants will be notified by Friday, May 17, 2019.
 
 If you have any questions, please contact <admin@iiif.io>
 
-[^code4lib_note]: This criterion closely mirrors the way the [Code4Lib community describes requirements for their scholarship](https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form)
+[^code4lib_note]: This criterion closely mirrors the way the Code4Lib community describes requirements for their scholarship (https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form)
 
 {% endcapture %}
 
