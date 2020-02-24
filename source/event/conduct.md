@@ -109,6 +109,7 @@ Code of Conduct Team members are expected to actively monitor violation reports 
 
 * Josh Hadro (IIIF Managing Director)
 * Glen Robson (IIIF Technical Coordinator)
+* Meg O'Hearn (IIIF Community and Events Coordinator)
 * Ruth Bowler (The Walters Art Museum)
 * Karen Estlund (Pennsylvania State University)
 * Yong Liu (Hebei Academy of Social Sciences)
@@ -134,6 +135,7 @@ The IIIF Code of Conduct has been modeled on the Code of Conduct policies from [
 
   | Date       | Description                                                         |
   | ---------- | ------------------------------------------------------------------- |
+  | 2020-02-24 | Adding Meg to the list of members. |
   | 2019-01-22 | Adding Josh to the list of members. |
   | 2017-12-01 | Removing Sheila from the list of members. |
   | 2017-09-28 | Added 2017-2018 IIIF Code of Conduct Team member names |
