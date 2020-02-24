@@ -14,7 +14,7 @@ This year the week of March 15th, the dreaded Ides of March, premonates great ne
 
 On March 13, Digital Repository of Ireland, UCD Library, and DARIAH Ireland are hosting a IIIF Showcase and Workshop event in the Royal Irish Academy in Dublin. This event, which has a few spaces left, will introduce attendees to IIIF and its committed community and offer use case showcases from several Irish institutions including Digital Repository of Ireland, University College Dublin, and the National University of Ireland Galway. You can find out more at:
 
-* [IIIF Showcase and Workshop Opportunities for Innovation in Ireland][Ireland]
+* IIIF Showcase and Workshop Opportunities for Innovation in Ireland
 
 ## New England
 
@@ -43,7 +43,6 @@ Are you interested in hosting a similar event at your institute? We’re happy t
 
 This article was written by Greg Markus from EuropeanaTech from the IIIF Outreach Group. For European events we encourage you to contact Greg to raise awareness: [gmarkus@beeldengeluid.nl][greg-email]
 
-[Ireland]: https://www.eventbrite.com/e/iiif-showcase-and-workshop-opportunities-for-innovation-in-ireland-tickets-42938073935?aff=
 [harvard-showcase]: https://www.eventbrite.com/e/iiif-new-england-showcase-tickets-42958581273
 [harvard-workshop]: https://www.eventbrite.com/e/iiif-new-england-technical-workshop-tickets-43187327459
 [biblissima]: https://projet.biblissima.fr/fr/actualites/innover-redecouvrir-patrimoine-ecrit-evenement-biblissima-iiif
