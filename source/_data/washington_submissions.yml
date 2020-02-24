@@ -248,7 +248,7 @@
   topic:
   - Emerging use cases for IIIF technical specifications
   type: 20 minute presentations (plus 5 mins questions)
-- abstract: "            The Swedish National Archives has a public web service (http://sok.riksarkivet.se)\
+- abstract: "            The Swedish National Archives has a public web service (https://sok.riksarkivet.se)\
     \ that enables researchers to search the National Archival Database (NAD) and\
     \ other publicly available databases and also to view images from digitized Swedish\
     \ archival collections. During 2015 and 2016 new functionality for viewing digital\
@@ -294,7 +294,7 @@
     firstname: Mats
     lastname: Berggren
     organization: Swedish National Archives
-    web_page: http://www.riksarkivet.se
+    web_page: https://www.riksarkivet.se
   decision: ACCEPT
   id: Paper 16
   index: 16

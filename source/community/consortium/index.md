@@ -15,8 +15,9 @@ In April of 2018, the IIIF Consortium ratified a document titled ["Next Steps fo
 
 ## Staff
 
- * IIIF Managing Director, Josh Hadro - <josh.hadro@iiif.io>
- * IIIF Technical Coordinator, Glen Robson - <glen.robson@iiif.io>
+ * IIIF-C Managing Director, Josh Hadro - <josh.hadro@iiif.io>
+ * IIIF-C Technical Coordinator, Glen Robson - <glen.robson@iiif.io>
+ * IIIF-C Community and Events Coordinator, Meg O'Hearn - <meg.ohearn@iiif.io>
 
 ## Full Founding Members
 
