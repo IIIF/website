@@ -22,6 +22,12 @@ page_gen:
     name: 'id'
     dir: 'event/2019/goettingen/program'
     extension: 'html'
+  - index_files: false
+    data: '2020-conference-submissions'
+    template: '2020_submission'
+    name: 'id'
+    dir: 'event/2020/boston/program'
+    extension: 'html'
 
 kramdown:
   input: GFM

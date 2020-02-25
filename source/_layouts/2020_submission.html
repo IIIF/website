@@ -1,0 +1,28 @@
+---
+title: "IIIF Annual Conference, Boston, MA - June 1-4, 2020"
+layout: boston
+tags: [event ]
+---
+
+{% for author in page.authors %}
+{% if author.link and author.link != '' %}<a href="{{author.link}}"><b>{{ author.name }}</b></a> - {{ author.company|replace: '&','&amp;'}} ({{ author.location}}){% else %}<b>{{ author.name}}</b> - {{ author.company |replace: '&','&amp;'}} ({{ author.location }}){% endif %}{% if forloop.last == false %}, {% endif %}{% endfor %}
+<p><b>Presentation type: </b>{{page.type}}</p>
+
+<b>Abstract: </b>{{ page.abstract |replace: '&','&amp;' | newline_to_br }}
+<!-- |replace: '</p><p>', '
+
+'|replace: '<p>',''|replace:'</p>',''| -->
+<p><b>Topics: </b></p>
+<ul>
+   {% for topic in page.topics %}
+        <li>{{ topic }}{% if forloop.last == false %}, {% endif %}</li>
+   {% endfor %}
+</ul>
+{% if page.keywords %}
+<p><b>Keywords: </b></p>
+<ul>
+    {% for keyword in page.keywords %}
+        <li>{{ keyword }}{% if forloop.last == false %}, {% endif %}</li>
+    {% endfor %}
+</ul>
+{%endif %}
