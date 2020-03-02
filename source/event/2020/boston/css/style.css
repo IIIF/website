@@ -4341,3 +4341,7 @@ faq-item
 .location-image {
   max-width: 100%;
 }
+
+.hotel-row {
+  margin-top: 40px;
+}
