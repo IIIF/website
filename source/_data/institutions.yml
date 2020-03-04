@@ -159,6 +159,9 @@
 - name: MIT Libraries
   uri: http://libraries.mit.edu
   iiifc: 2
+- name: MediaLibraryOnLine (MLOL)
+  uri: https://www.medialibrary.it
+  iiifc: 4
 - name: Mnemoscene
   uri: http://mnemoscene.io
   iiifc:
@@ -249,6 +252,9 @@
   iiifc:
 - name: Synaptica
   uri: http://www.synaptica.com/
+- name: Texas A&amp;M Libraries
+  uri: https://library.tamu.edu/
+  iiifc: 3
 - name: TextGrid
   uri: https://textgrid.de/en/
 - name: text &amp; bytes
