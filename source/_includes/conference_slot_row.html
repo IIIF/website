@@ -20,9 +20,16 @@
     {% endif %}
 {% endif %}
 {% if include.paper %}
-    {% assign submission_list = site.data.2019-conference-submissions | where: "id",include.paper %}
-    {% assign submission = submission_list[0] %}
-    {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2019/goettingen/program/{{submission.id }}/{% endcapture %}
+    {% if include.data  %}
+        {%  assign submission_list = site.data[include.data] | where: "id",include.paper %}
+        {% assign submission = submission_list[0] %}
+        {% capture dest_url %}{{ site.url}}{{site.baseurl}}{{ include.submissionlink }}{{submission.id }}/{% endcapture %}
+    {% else %}
+        {% assign submission_list = site.data.2019-conference-submissions | where: "id",include.paper %}
+        {% assign submission = submission_list[0] %}
+        {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2019/goettingen/program/{{submission.id }}/{% endcapture %}
+    {% endif %}
+
     <td>{% if submission.flagged %}(DRAFT) {% endif %}<a href="{{ dest_url }}">{{ submission.title}}</a></td>
     <td>{% for author in submission.authors %}
             {{ author.name }}{% if forloop.last == false %}, {% endif %}

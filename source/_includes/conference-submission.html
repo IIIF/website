@@ -1,15 +1,22 @@
-{%  assign submission_list = site.data.2019-conference-submissions | where: "id",include.paper %}
+{% if include.data  %}
+    {%  assign submission_list = site.data[include.data] | where: "id",include.paper %}
+{% else %}
+    {%  assign submission_list = site.data.2019-conference-submissions | where: "id",include.paper %}
+{% endif %}
+
 {% assign submission = submission_list[0] %}
 {% if include.mode=='full' %}
+    # **{% if submission.flagged %}(DRAFT) {% endif %}{{ submission.title }}** 
+    **{% for author in submission.authors %}{{author.name}}{% if author.company != '' %} ({{ author.company}}){%endif%}{% if forloop.last == false %}, {% endif %}{% endfor %}**
 
-# **{% if submission.flagged %}(DRAFT) {% endif %}{{ submission.title }}** 
-**{% for author in submission.authors %}{{author.name}}{% if author.company != '' %} ({{ author.company}}){%endif%}{% if forloop.last == false %}, {% endif %}{% endfor %}**
+    {{ submission.abstract }}
 
-{{ submission.abstract }}
-
-&nbsp;
-<!-- downcase| replace: ' ','-' |replace: '“', '' | replace: '”', '' -->
+    &nbsp;
+    <!-- downcase| replace: ' ','-' |replace: '“', '' | replace: '”', '' -->
 {% endif %}
 {% if include.mode == 'td' %} 
     <td>{% if submission.flagged %}(DRAFT) {% endif %} <a href="#{% if submission.flagged %}draft-{% endif %}{{ submission.title | slugify }}">{{ submission.title }}</a></td>
+{% endif %}
+{% if include.mode == 'td-link' %} 
+    <td>{% if submission.flagged %}(DRAFT) {% endif %} <a href="{{ site.url}}{{site.baseurl}}{{ include.submissionlink }}{{submission.id }}/">{{ submission.title }}</a></td>
 {% endif %}
