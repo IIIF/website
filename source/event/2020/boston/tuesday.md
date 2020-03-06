@@ -7,7 +7,7 @@ page: tuesday
 
 This is the agenda for Tuesday the 2nd of June, the first full day of the conference. To register for the conference please see the [main registration page][registration].
 
-# Location: Adam-von-Trott room, Alte Mensa conference venue
+# Location: 
 <table class="api-table">
     <thead>
         <tr>
