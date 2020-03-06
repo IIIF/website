@@ -14,7 +14,7 @@ This is the agenda for Tuesday the 2nd of June, the first full day of the confer
             <th colspan="3">Workshops</th>
         </tr>
         <tr>
-            <th rowspan="2">Time</th>
+            <th>Time</th>
             <th>Location: TBC</th>
             <th>Location: TBC</th>
         </tr>
@@ -34,7 +34,7 @@ This is the agenda for Tuesday the 2nd of June, the first full day of the confer
             <td colspan="2"><b>Lunch</b> (not provided)</td>
         </tr>    
     </tbody>
-    <thead>
+    <tbody>
         <tr>
             <th colspan="3">Conference</th>
         </tr>
@@ -43,8 +43,6 @@ This is the agenda for Tuesday the 2nd of June, the first full day of the confer
             <th colspan="1">Title</th>
             <th colspan="1">Authors</th>
         </tr>
-    </thead>
-    <tbody>
         {% include conference_slot_row.html time='1:00pm - 1:10pm' title='Welcome' authors='' %}
         {% include conference_slot_row.html time='1:10pm - 1:30pm' title='State of the IIIF Universe' authors='Josh Hadro, IIIF Managing Director' %}
 
