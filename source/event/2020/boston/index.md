@@ -8,6 +8,16 @@ page: overview
 {: class="alert"}
 Registration now open! [Register now to lock in a spot at the conference][eventbrite].
 
+## Statement from IIIF-C regarding COVID-19 (coronavirus) (Updated 2020-03-09)
+
+The health and safety of our community is of utmost importance to us. We are closely following the global health concerns surrounding COVID-19 (coronavirus), including updates, recommendations, and associated travel restrictions from the WHO and other local health authorities. 
+
+We are aware that circumstances are changing rapidly. To ensure the welfare of the IIIF community, we will continually evaluate conference plans as guidelines from our host  institutions, the WHO, CDC, and others change. We will share updates in the coming days on the [IIIF-Discuss list](https://iiif.io/community/), on this conference site, and on the conference registration page.
+
+In the meantime, please reach out to events@iiif.ifo with any questions.
+
+--- 
+
 The 2020 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Boston June 1-4, 2020, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT).
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
