@@ -14,7 +14,7 @@ The health and safety of our community is of utmost importance to us. We are clo
 
 We are aware that circumstances are changing rapidly. To ensure the welfare of the IIIF community, we will continually evaluate conference plans as guidelines from our host  institutions, the WHO, CDC, and others change. We will share updates in the coming days on the [IIIF-Discuss list](https://iiif.io/community/), on this conference site, and on the conference registration page.
 
-In the meantime, please reach out to events@iiif.ifo with any questions.
+In the meantime, please reach out to [events@iiif.io](mailto:events@iiif.io) with any questions.
 
 --- 
 
