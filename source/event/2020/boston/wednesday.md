@@ -20,15 +20,15 @@ This is the agenda for Wednesday the 3rd of June, the second full day of the con
         </tr>
     </thead>
     <tbody>
-        {% include conference_slot_row.html time='9:00am - 9:10am' title='Welcome' authors='' span='3' %}
-        {% include conference_slot_row.html time='9:10am - 10:30am' rowspan='8' paper='2' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %} 
+        {% include conference_slot_row.html time='9:00am - 9:05am' title='Welcome' authors='' span='3' %}
+        {% include conference_slot_row.html time='9:05am - 10:30am' rowspan='8' paper='37' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %} 
+        {% include conference_slot_row.html paper='2' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
+        {% include conference_slot_row.html paper='38' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
+        {% include conference_slot_row.html paper='22' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
+        {% include conference_slot_row.html paper='53' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
         {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
+        {% include conference_slot_row.html paper='43' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
+        {% include conference_slot_row.html paper='5' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' span='3' %}
         <tr>
             <td>10:30am - 11:00am</td>
             <td colspan="6"><b>Break (Tea/Coffee)</b></td>
@@ -59,21 +59,21 @@ This is the agenda for Wednesday the 3rd of June, the second full day of the con
             <th>Authors</th>
         </tr>
 
-        {% include conference_slot_row.html rowspan='2' time='11:00am - 12:00pm' track1='61,61' track2='61,61' track3='61,61'  data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} 
+        {% include conference_slot_row.html rowspan='2' time='11:00am - 12:00pm' track1='61,29' track2='58,48' track3='17,24'  data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} 
 
         <tr>
             <td>12:00pm - 2:00pm</td>
             <td colspan="6"><b>Lunch</b>(not provided)</td>
         </tr>    
 
-        {% include conference_slot_row.html rowspan='3' time='2:00pm - 3:30pm' track1='61,61,61' track2='61,61,61' track3='61,61,61' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} 
+        {% include conference_slot_row.html rowspan='3' time='2:00pm - 3:30pm' track1='9,16,21' track2='39,44,27' track3='33,49,32' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} 
 
         <tr>
             <td>3:30pm - 4:00pm</td>
             <td colspan="6"><b>Break (Tea/Coffee)</b></td>
         </tr>    
 
-        {% include conference_slot_row.html rowspan='3' time='4:00pm - 5:30pm' track1='61,61,61' track2='61,61,61' track3='61,61,61' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} 
+        {% include conference_slot_row.html rowspan='2' time='4:00pm - 5:00pm' track1='26,35' track2='34' track3='59' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} 
 
         <tr>
             <td>6:30pm - 8:00pm</td>

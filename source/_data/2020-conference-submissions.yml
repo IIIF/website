@@ -391,7 +391,7 @@
   - Annotation, including full-text or academic use cases
   - Discovering IIIF resources
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: For discussion by PC
+  type: Presentation
 - abstract: '<p>In the Summer of 2019, the Journal of Historians of Netherlandish
     Art (JHNA) published Volume 11, Issue 2 about the National Gallery of Art''s painting,
     _The Fall of Phaeton_ by Sir Peter Paul Rubens, in which the Journal utilized
@@ -462,7 +462,7 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - Implementations of IIIF outside of North America/Europe
   - Annotation, including full-text or academic use cases
-  type: For discussion by PC
+  type: Lightning talk
 - abstract: '<p>Pleade is a solution specialized in the valuation of digital data.
     The solution finely combines the ARK (Archival Resource Key) and IIIF protocols
     while preserving the integrity of the physical and intellectual organization of
@@ -1837,7 +1837,7 @@
   - IIIF Audio/Visual use cases and implementations
   - Teaching and learning examples and best practices using IIIF resources
   - Annotation, including full-text or academic use cases
-  type: Presentation
+  type: For discussion by PC
 - abstract: "<p>\"IIIF Implementation at the Fudan University Library\nOn November\
     \ 15, the Fudan University Library (Shanghai, China) launched its first IIIF digital\
     \ collection \u2018Seal Stamping Catalogs Virtual Library\u2019(\u5370\u8C31\u6587\

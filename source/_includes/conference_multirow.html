@@ -11,7 +11,11 @@
             {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2019/goettingen/program/{{submission.id }}/{% endcapture %}
         {% endif %}
         {% if submission.type == 'Panel' and include.rowSpan != 1 %}
-            {% assign rowspan = 3 %}
+            {% if include.data  %}
+                {% assign rowspan = 2 %}
+            {% else %}
+                {% assign rowspan = 3 %}
+            {% endif %}
         {% else %}
             {% assign rowspan = 1 %}
         {% endif %}

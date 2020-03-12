@@ -46,25 +46,20 @@ This is the agenda for Tuesday the 2nd of June, the first full day of the confer
         {% include conference_slot_row.html time='1:00pm - 1:10pm' title='Welcome' authors='' %}
         {% include conference_slot_row.html time='1:10pm - 1:30pm' title='State of the IIIF Universe' authors='Josh Hadro, IIIF Managing Director' %}
 
-        {% include conference_slot_row.html time='1:30pm - 2:30pm' rowspan='6' paper='2' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} <!-- 9 per slot -->
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='63' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='62' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='57' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='52' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html time='1:30pm - 2:30pm' title="Community updates? Plus extra lightning talks (4 = 40mins)" %} <!-- 9 per slot -->
 
         {% include conference_slot_row.html time='2:30pm - 3:00pm' title='<b>Break</b>' %}
 
-        {% include conference_slot_row.html time='3:00pm - 4:40pm' rowspan='10' paper='2' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} <!-- 9 per slot -->
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
-        {% include conference_slot_row.html paper='67' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html time='3:00pm - 4:40pm' rowspan='10' paper='57' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %} <!-- 9 per slot -->
+        {% include conference_slot_row.html paper='63' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='12' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='62' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='30' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='52' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='42' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='19' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='10' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
+        {% include conference_slot_row.html paper='68' data='2020-conference-submissions' submissionlink='/event/2020/boston/program/' %}
 
         <tr>
             <td>6:00pm - 8:00pm</td>
