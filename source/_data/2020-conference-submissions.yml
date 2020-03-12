@@ -192,7 +192,7 @@
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
   - "Linked Open \u201CUsable\u201D Data (LOUD) and IIIF"
   - Using IIIF material for Machine Learning and AI
-  type: TEST
+  type: Lightning talk
 - abstract: '<p>test
 
     </p>'
@@ -565,7 +565,7 @@
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - IIIF Audio/Visual use cases and implementations
   - Annotation, including full-text or academic use cases
-  type: For discussion by PC
+  type: Presentation
 - abstract: "<p>Poza\u0144 Supercomputing and Networking Center, as an ICT-focused\
     \ R&D centre, has been involved in development of software technology for cultural\
     \ heritage and digital humanities domains for almost two decades now. Our flagship\
@@ -676,7 +676,7 @@
   topics:
   - 'IIIF Implementation Spectrum: large-scale or small-scale projects'
   - Implementations of IIIF outside of North America/Europe
-  type: For discussion by PC
+  type: Lightning talk
 - abstract: <p>As a small liberal arts institution with special and distinctive collections,  our
     goal was to provide a proof of concept for  IIIF implementation that did not require
     an abundance of technical infrastructure or staff support.  By blending this aim
@@ -749,7 +749,7 @@
     Studies programs'
   topics:
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: For discussion by PC
+  type: Presentation
 - abstract: '<p>Working with others in the IIIF 3D Community and interested partners,
     to explore examples and experiments presenting 2D images and 3D models together
     via web-based viewers, has provided some clarifications of suitable file formats
@@ -826,7 +826,7 @@
   title: 'IIIF 3D: Next Steps & Dimensions? (IIIF 3D Community Group updates)'
   topics:
   - IIIF communities (3D, archives, museums, manuscripts, newspapers, etc.)
-  type: For discussion by PC
+  type: Panel
 - abstract: "<p>The National Institute for Newman Studies (NINS) presents \u201CRednal,\u201D\
     \ an application for uploading and presenting IIIF resources, annotations, metadata,\
     \ and digital assets. NINS has the largest single collection of digital manuscripts,\
@@ -1837,7 +1837,7 @@
   - IIIF Audio/Visual use cases and implementations
   - Teaching and learning examples and best practices using IIIF resources
   - Annotation, including full-text or academic use cases
-  type: For discussion by PC
+  type: Presentation
 - abstract: "<p>\"IIIF Implementation at the Fudan University Library\nOn November\
     \ 15, the Fudan University Library (Shanghai, China) launched its first IIIF digital\
     \ collection \u2018Seal Stamping Catalogs Virtual Library\u2019(\u5370\u8C31\u6587\
