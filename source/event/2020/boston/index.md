@@ -5,20 +5,19 @@ tags: [event ]
 page: overview
 ---
 
-{: class="alert"}
-Registration now open! [Register now to lock in a spot at the conference][eventbrite].
+## Statement from IIIF-C regarding COVID-19 (coronavirus) (Updated 2020-03-13)
 
-## Statement from IIIF-C regarding COVID-19 (coronavirus) (Updated 2020-03-09)
+Given the global health concerns surrounding Covid-19, we have made the difficult decision to postpone the IIIF Annual Conference, scheduled to take place in Boston from June 1-4, 2020. We will communicate as soon as we can about when we expect to be able to hold this event safely. In the meantime, we are exploring virtual options in order to continue providing opportunities to share and learn from the IIIF community’s extensive experience and output.
 
-The health and safety of our community is of utmost importance to us. We are closely following the global health concerns surrounding COVID-19 (coronavirus), including updates, recommendations, and associated travel restrictions from the WHO and other local health authorities. 
+We reached this decision in collaboration with our local hosts, Harvard and MIT, and based on reports from institutions around the world that have restricted travel for the foreseeable future. Given the trajectory of news in recent days and hours, it is clear that the most ethical course of action is to postpone large in-person gatherings. We encourage you to review updates and guidelines from global health authorities such as the [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), as well as state and local authorities.
 
-We are aware that circumstances are changing rapidly. To ensure the welfare of the IIIF community, we will continually evaluate conference plans as guidelines from our host  institutions, the WHO, CDC, and others change. We will share updates in the coming days on the [IIIF-Discuss list](https://iiif.io/community/), on this conference site, and on the conference registration page.
+We are immensely grateful for the efforts that members of the IIIF community have already poured into preparing for the conference, including submitting proposals, evaluating program guidelines and submissions, and planning for on-the-ground logistics. We apologize for the disruption this may cause, and we appreciate your understanding as we keep the best interest of the community in mind. 
 
-In the meantime, please reach out to [events@iiif.io](mailto:events@iiif.io) with any questions.
+If you have any questions, please get in touch with us via [events@iiif.io](mailto:events@iiif.io). 
 
 --- 
 
-The 2020 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Boston June 1-4, 2020, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT).
+The 2020 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Boston June 1-4, 2020 [now postponed, see note above], and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT).
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
@@ -33,11 +32,12 @@ All event proceedings will be in English.
 
 ### Logistics
 
-* Registration: [Registration is now available!][eventbrite]
-* Dates: June 1-4, 2020
+* Registration: Registration postponed; for those who registered prior to 2020-03-13, Eventbrite ticket sales will be reimbursed automatically. You will receive the funds in your account 5-7 days after the refund has been issued.
+
+* Dates: Original dates were to be June 1-4, 2020; new dates TBD
 * Locations: Boston, MA (See [map](#locations) below for venue locations and more)
-    - IIIF Showcase, June 1: MIT Campus, Ray and Maria Stata Center
-    - Workshops and Conference, June 2-4: Harvard Campus, various locations
+    - IIIF Showcase: MIT Campus, Ray and Maria Stata Center
+    - Workshops and Conference: Harvard Campus, various locations
 
 * Cost: $340 general ticket, $220 [Consortium members][consortium] ticket, $100 student/discount ticket
 * Capacity: Approximately 300
@@ -54,9 +54,9 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 - Train: [Take a train](https://www.amtrak.com/home.html) to Boston from many parts of the Eastern coast of the United States. 
 
 
-### Call for Sponsors
+<!-- ### Call for Sponsors
 
-We are offering sponsorship for the 2020 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>.
+We are offering sponsorship for the 2020 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>. -->
 
 ### Outline program
 
