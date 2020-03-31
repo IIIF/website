@@ -11,11 +11,11 @@ Given the global health concerns surrounding Covid-19, we have made the difficul
 
 We reached this decision in collaboration with our local hosts, Harvard and MIT, and based on reports from institutions around the world that have restricted travel for the foreseeable future. Given the trajectory of news in recent days and hours, it is clear that the most ethical course of action is to postpone large in-person gatherings. We encourage you to review updates and guidelines from global health authorities such as the [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), as well as state and local authorities.
 
-We are immensely grateful for the efforts that members of the IIIF community have already poured into preparing for the conference, including submitting proposals, evaluating program guidelines and submissions, and planning for on-the-ground logistics. We apologize for the disruption this may cause, and we appreciate your understanding as we keep the best interest of the community in mind. 
+We are immensely grateful for the efforts that members of the IIIF community have already poured into preparing for the conference, including submitting proposals, evaluating program guidelines and submissions, and planning for on-the-ground logistics. We apologize for the disruption this may cause, and we appreciate your understanding as we keep the best interest of the community in mind.
 
-If you have any questions, please get in touch with us via [events@iiif.io](mailto:events@iiif.io). 
+If you have any questions, please get in touch with us via [events@iiif.io](mailto:events@iiif.io).
 
---- 
+---
 
 The 2020 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Boston June 1-4, 2020 [now postponed, see note above], and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT).
 
@@ -25,7 +25,7 @@ The **IIIF Showcase** is meant to introduce newcomers to IIIF, and those seeking
 
 The [**IIIF Workshops**][workshops] offer more in-depth opportunities to learn about IIIF tools and platforms.
 
-The **IIIF Conference** features plenary presentations and breakout sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations. 
+The **IIIF Conference** features plenary presentations and breakout sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations.
 
 All event proceedings will be in English.
 
@@ -51,7 +51,7 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 
 - List of [hotels and event locations][boston-hotels]
 - Flights: The local planning team recommends that attendees traveling by air fly to [Boston Logan International Airport (BOS)](https://www.massport.com/logan-airport)
-- Train: [Take a train](https://www.amtrak.com/home.html) to Boston from many parts of the Eastern coast of the United States. 
+- Train: [Take a train](https://www.amtrak.com/home.html) to Boston from many parts of the Eastern coast of the United States.
 
 
 <!-- ### Call for Sponsors
@@ -60,7 +60,7 @@ We are offering sponsorship for the 2020 IIIF conference and the benefits and co
 
 ### Outline program
 
-The final program will continue to develop over the next few months but please see the outline below which gives an overview of the Boston IIIF Showcase and Conference. Note the Showcase will require a separate registration to the Conference. 
+The final program will continue to develop over the next few months but please see the outline below which gives an overview of the Boston IIIF Showcase and Conference. Note the Showcase will require a separate registration to the Conference.
 
 <table class="api-table">
     <thead>
@@ -119,8 +119,7 @@ The final program will continue to develop over the next few months but please s
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
-[cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform 
+[cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform
 [sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/sponsorship
-[eventbrite]: https://www.eventbrite.co.uk/e/2020-iiif-annual-conference-tickets-92771629441
 [boston-hotels]: {{ site.url }}{{ site.baseurl }}/event/2020/boston/boston-hotels
 [workshops]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/workshops/
