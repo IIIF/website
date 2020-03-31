@@ -5,7 +5,7 @@ date: 2020-03-31
 tags: [news, newsletter, announcements]
 layout: post
 excerpt: >
-  Virtual event in June, IIIF resources document, new implementations and adoptions, new technical work, and recommended reading.
+  Virtual event in June, IIIF resources document, new implementations and adoptions, and recommended reading.
 ---
 
 ## Community Snapshot
@@ -48,10 +48,6 @@ For many years, the [Goobi](https://www.intranda.com/en/digiverso/goobi/goobi-ov
 At the end of January, these reading lists were extended by different areas. Since then, for example, not only entire records or objects, but also individual images can be saved on such a reading list. Furthermore, it is now possible to share or publicly release even private lists via a cryptic link.
 In this course, support for IIIF collections was implemented. Users can now create individual IIIF collections, save them persistently, share them and continue working with the materials.
 The development is just another step in the consistent support and expansion of the IIIF APIs within Goobi.
-
-## Technical Work
-### Change Discovery API?
-[IIIF Change Discovery API 0.5](https://preview.iiif.io/api/discovery-0.5/api/discovery/0.5/)
 
 ## Recommended Reading
 
