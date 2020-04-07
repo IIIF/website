@@ -34,7 +34,7 @@ This is also possible using the [UniversalViewer](https://universalviewer.io/) w
 
 <!--<img class="img-standout" src="{{ site.url }}{{ site.baseurl }}/explainers/images/tools/UV2Mirador.gif" alt="A gif showing drag and drop"/> -->
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/UVM0taaT0B0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/UVM0taaT0B0" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 ## IIIF Tools 
@@ -52,7 +52,7 @@ A demo instance of Mirador can be found at [https://projectmirador.org/](https:/
 In Mirador The Manifest URL can be found by clicking the `info` button in Mirador and scrolling to the bottom of the metadata window. This can be copied and pasted into another viewer or another instance of Mirador. In the example below the URL is copied and then pasted using the UV demo URL.
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/_P9TBJIY4UM" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/_P9TBJIY4UM" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 **Import**:
@@ -65,7 +65,7 @@ As has been seen earlier it is possible to drag a IIIF logo into a Mirador windo
 As well as the drag and drop method there is also a more reliable paste from URL option. To do this navigate to the ‘Replace options’ screen and paste the URL into the box at the top right labeled ‘Add new object from URL`. See the following video:
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/R33IJtil8tg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/R33IJtil8tg" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 #### Mirador 3
@@ -75,14 +75,14 @@ As well as the drag and drop method there is also a more reliable paste from URL
 Exporting in Mirador 3 is similar to Mirador 2 in that the URL to the Manifest is in the metadata panel. To access this click the information button on the top left. You should find the manifest at the bottom of the panel.
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/splaQ6kWw2M" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/splaQ6kWw2M" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 **Import:** 
 To add a manifest current you click the big blue plus sign at the top right. This gives you a list of resources that are currently loaded into Mirador 3. To add another click the ‘Add resources’ button at the bottom and this will give you the option to add a URL to a manifest. 
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/0KEiGkkNVnM" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/0KEiGkkNVnM" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 ### Universal Viewer (UV)
@@ -94,7 +94,7 @@ The Universal Viewer is a popular IIIF viewer particularly prevalent in National
 This is a similar example to the drag and drop but the IIIF logo is hidden in either the Embed or the Share button usually found at the bottom left of the UV. Note the UV can be themed so the text or location can be different. 
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/UVM0taaT0B0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/UVM0taaT0B0" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 **Import:**
@@ -104,7 +104,7 @@ Note this requires you to get the URL to the manifest and paste it into the foll
 [https://universalviewer.io/uv.html?manifest=](https://universalviewer.io/uv.html?manifest=)[manifest url] 
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/_P9TBJIY4UM" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/_P9TBJIY4UM" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 ### Tify
@@ -114,7 +114,7 @@ Tify has been developed by the University of Göttingen and is a good general pu
 The Tify viewer makes this easy by providing an export button at the top right of the viewer. Simply click this button and you should see the URL to the Manifest towards the bottom. Copy this and you can use it in another viewer. 
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/5FtXo3mHXlU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/5FtXo3mHXlU" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 **Import:**
@@ -130,7 +130,7 @@ This is a powerful IIIF Viewer that was developed in Japan and in addition to th
 To export a manifest from the IIIF Curation Viewer click the information button on the top right. This shows the URL to the manifest but with chrome there was some issue with copying the URL. 
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/JHD_pvDK46M" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/JHD_pvDK46M" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 **Import:**
@@ -150,7 +150,7 @@ Diva.js is a fast lightweight IIIF viewer and is available from the [Diva.js web
 Similar to Mirador Diva.js makes the IIIF Manifest available through the metadata pannel. Simply click the luggage tag looking icon on the top right to open the Metadata pannel and the IIIF Manifest link should be at the bottom of the screen. See the video below:
 
 <div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/gImYrRvW7DA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/gImYrRvW7DA" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
 **Import:** 
