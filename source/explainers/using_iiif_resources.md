@@ -1,7 +1,6 @@
 ---
 title: How to use IIIF resources and Image Viewers
 id: using_iiif_resources
-categories: [pages]
 layout: spec
 ---
 # How to use IIIF resources and Image Viewers
