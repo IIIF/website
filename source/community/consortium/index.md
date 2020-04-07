@@ -4,6 +4,10 @@ id: consortium
 layout: spec
 ---
 
+<div style="width: 60%; margin: 0 auto;">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_ios5waTvJLj4qIL0o5kAxFjKi2ijLd-" style="width: 100%; height: 480px;"></iframe>
+</div>
+
 ## The IIIF Consortium
 
 To join the IIIF Consortium, take a look at the [benefits of membership][join], and send an email to [admin@iiif.io][admin] expressing your interest.

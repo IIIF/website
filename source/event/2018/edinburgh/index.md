@@ -45,7 +45,7 @@ There are many places to stay in Edinburgh – we recommend using the search eng
 
 General booking sites:
  * [https://www.booking.com](https://www.booking.com)
- * [https://www.trivago.co.uk](https://www.trivago.co.uk/)
+ * https://www.trivago.co.uk
  * Hotel review site: [https://www.tripadvisor.co.uk/](https://www.tripadvisor.co.uk/)
  * University Accommodation: [https://www.edinburghfirst.co.uk/accommodation/](https://www.edinburghfirst.co.uk/accommodation/)
 
