@@ -40,6 +40,45 @@ img {
   vertical-align: middle;
 }
 
+.img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-standout {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    max-width:80%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.video-container {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    max-width: 80%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 fieldset {
   border: 0;
   margin: 0;
