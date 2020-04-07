@@ -3,6 +3,7 @@
             
               <!-- not ideal, but we can't seem to pass data ids through -->
               {% if include.class == 'image-viewers' %}
+                <p>Below is a list of IIIF viewers that can be used to show IIIF Manifests and Images. A more detailed guide on how to view IIIF content in viewers is aviliable in the <a href="{{ site.url }}{{ site.baseurl }}/explainers/using_iiif_resources/">How To Use IIIF Resources and Image Viewers</a> page.</p>
                 <ul>
                 {% assign data = site.data.image_clients %}
               {% elsif include.class == 'image-servers' %}
