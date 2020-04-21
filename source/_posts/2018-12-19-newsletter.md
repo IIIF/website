@@ -218,7 +218,7 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [3d-usecases]: https://github.com/IIIF/iiif-3d-stories   
 [ALTO]: https://www.loc.gov/standards/alto/ 
 [avalon]: https://avalonmediasystem.org/ 
-[biblissima-collections]: https://iiif.biblissima.fr/collections 
+[biblissima-collections]: https://iiif.biblissima.fr/collections/ 
 [bn]: https://www.nb.admin.ch/snl/en/home.html 
 [brumfield]: https://www.brumfieldlabs.com/
 [cs3dp]: http://gis.wustl.edu/dgs/cs3dp/ 
