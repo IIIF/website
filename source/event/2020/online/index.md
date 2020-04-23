@@ -1,7 +1,7 @@
 ---
 title: "IIIF Week -- Online Events - June 1-5, 2020"
 layout: online_event
-tags: [event]
+tags: [event ]
 page: overview
 ---
 
@@ -32,6 +32,17 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 
 ### Computer requirements
 * TKTK
+
+---
+
+## Sessions
+
+### Opening Panel: The Changing Meaning of Access in Digital Collections
+
+**June 1, 11amET**
+
+This panel will focus on the strategies developed and deployed by high-profile IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry -- from academic scholarship to the satisfaction of curiosity -- these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy.
+
 
 [iiif]: https://iiif.io/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
