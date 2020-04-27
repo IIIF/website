@@ -68,6 +68,17 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 
 *Link to recording will be included here following the presentation*
 
+## IIIF Hands on workshop
+**June 8th to June 12th**
+
+The week following the online conference there will be a chance to get hands on experience with IIIF and learn the skills to get started. This will be an online course and places will be limited. It will involve daily zoom presentations from tutors, drop in help sessions and following an online tutorial. The course will cover:
+
+ * Getting started with the Image API 
+ * Creating IIIF Manifests with the Bodleian manifest editor 
+ * Annotating IIIF resources and setting up an annotation server
+ * Introduction to various IIIF tools for scholarship 
+
+Participants will need a laptop which they can install software on and be able to commit 3 to 4 hours per day for the week long course.  
 
 [iiif]: https://iiif.io/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
