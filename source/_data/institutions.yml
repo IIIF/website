@@ -66,6 +66,9 @@
 - name: Cornell University
   uri: https://www.library.cornell.edu/
   iiifc: 1
+- name: DB Seret
+  uri: http://www.dbseret.com/
+  iiifc: 4
 # - name: Data Futures Project (University of Westminster)
 #   uri: https://www.data-futures.org/
 #   iiifc: 2
