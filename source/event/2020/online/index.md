@@ -6,6 +6,7 @@ page: overview
 ---
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script>
 
 IIIF Week is a series of **free** online events introducing IIIF’s capabilities and community, sharing demonstrations of IIIF implementations, and discussing the future of IIIF, digital strategy for cultural heritage, and digital research needs. 
 
@@ -35,6 +36,15 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 <div id="calendar-container"></div>
 
+<script type="text/javascript">
+  var timezone = jstz.determine();
+  var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20200601/20200605&amp;title=IIIF%20Week&amp;ctz=';
+  var suff = '" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>';
+  //var pref = '<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=somecalendaridentifier%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=';
+  //var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
+  var iframe_html = pref + timezone.name() + suff;
+  document.getElementById('calendar-container').innerHTML = iframe_html;
+</script>
 
 ---
 
@@ -46,6 +56,20 @@ Interested attendees may also sign up for a workshop on getting started with III
 #### Opening Panel: Responding to Current Events with Digital Collections Strategy
 ##### 11:00 AM - 12:00 PM ET
 ##### Register
+        
+
+
+<div title="Add to Calendar" class="add-to-calendar">
+<span class="start">06/01/2020 11:00 AM</span>
+<span class="timezone">America/New_York</span>
+<!-- <span class="end">06/01/2020 12:00 PM</span> -->
+<span class="duration">60</span>
+<!--span class="allday">true</span-->               
+<span class="address">https://zoom.us/my/hadro</span>
+<span class="title">IIIF Week Opening Panel: Responding to Current Events with Digital Collections</span>
+<span class="description">This panel will focus on the strategies developed and deployed by major IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry – from academic scholarship to the satisfaction of curiosity – these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy.</span>
+<span class="location">https://zoom.us/my/hadro</span>
+</div>
 
 Presenters: 
 * Emmanuel Bermès, Deputy Director for Services and Networks at BnF
@@ -57,6 +81,18 @@ Presenters:
 #### Introduction to IIIF
 ##### 2:00 PM - 2:30 PM ET
 ##### Register
+
+<div title="Add to Calendar" class="add-to-calendar">
+<span class="start">06/01/2020 02:00 PM</span>
+<span class="timezone">America/New_York</span>
+<!-- <span class="end">06/01/2020 12:00 PM</span> -->
+<span class="duration">30</span>
+<!--span class="allday">true</span-->               
+<span class="address">https://zoom.us/my/hadro</span>
+<span class="title">IIIF Week Introduction to IIIF</span>
+<span class="description">This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in North, Central, and South America.</span>
+<span class="location">https://zoom.us/my/hadro</span>
+</div>
 
 **Presenter**: Meg O’Hearn, Community & Events Coordinator, IIIF Consortium
 
@@ -70,6 +106,18 @@ Presenters:
 #### Introduction to IIIF
 ##### 4:00 AM - 4:30 AM ET
 ##### Register
+
+<div title="Add to Calendar" class="add-to-calendar">
+<span class="start">06/02/2020 04:00 AM</span>
+<span class="timezone">America/New_York</span>
+<!-- <span class="end">06/01/2020 12:00 PM</span> -->
+<span class="duration">30</span>
+<!--span class="allday">true</span-->               
+<span class="address">https://zoom.us/my/hadro</span>
+<span class="title">IIIF Week Introduction to IIIF</span>
+<span class="description">This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in the UK Europe, and Africa.</span>
+<span class="location">https://zoom.us/my/hadro</span>
+</div>
 
 **Presenter**: Glen Robson, Technical Coordinator, IIIF Consortium
 
@@ -169,15 +217,7 @@ The week following the online conference there will be a chance to get hands on 
 Participants will need a laptop on which they can install software and should be able to commit a few per day for the week long course in order to get the most out of it.  
 
 
-<script type="text/javascript">
-  var timezone = jstz.determine();
-  var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20200601/20200605&amp;title=IIIF%20Week&amp;ctz=';
-  var suff = '" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>';
-  //var pref = '<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=somecalendaridentifier%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=';
-  //var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
-  var iframe_html = pref + timezone.name() + suff;
-  document.getElementById('calendar-container').innerHTML = iframe_html;
-</script>
+
 
 
 
