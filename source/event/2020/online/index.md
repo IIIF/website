@@ -5,80 +5,167 @@ tags: [event ]
 page: overview
 ---
 
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20200601/20200605&amp;title=IIIF%20Week" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>
+IIIF Week is a series of **free** online events introducing IIIF’s capabilities and community, sharing demonstrations of IIIF implementations, and discussing the future of IIIF, digital strategy for cultural heritage, and digital research needs. 
 
----
+While we are saddened by the need to postpone our annual conference, previously scheduled to take place the same week, we recognize this is an opportunity for many to attend who otherwise would not have been able due to budgets, travel restrictions, and other obligations. We look forward to bringing together a wider group of the IIIF community during this virtual event.
 
-Need intro copy here...
+IIIF Week sessions are developed for both newcomers and experienced implementers, and include specially scheduled times to allow attendees to form regional community connections in the US, Europe, and Asia. **You may sign up for all events during the week, or just the ones that interest you.**
 
-
-Things to note:
-- Events are geared toward a more general audience
-- For those most familiar with IIIF, we encourage you to come to the Community/Technical group updates, and the roadmapping sessions
+All event proceedings will be in English unless otherwise indicated, and all sessions will be recorded and made available following the conference.
 
 
-All event proceedings will be in English unless otherwise indicated.
+Interested attendees may also sign up for a workshop on getting started with IIIF the week following the conference. X amount of experience required. Register here: &lt;link>
 
 
 ### Logistics
 
-* All events are free!
-* All sessions will occur via Zoom meeting software, unless otherwise indicated. Some sessions require advance registration, so please take a moment to check if that's the case for the sessions you plan to attend.
-* All sessions will be recorded for those not able to attend live.
-* Code of Conduct: The IIIF [Code of Conduct][conduct] applies
-* Social Media: Tweets about the event should use [#iiif][hashtag] or [@iiif_io][twitter]
-
-Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
-
-
-### Computer requirements
-* TKTK
+* Sessions will be held using Zoom and require advanced registration unless otherwise indicated
+* Recordings will be sent to registrants following the event, and later posted on the [IIIF YouTube channel](https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA)
+* Attendees are expected to adhere to the [IIIF Code of Conduct](https://iiif.io/event/conduct/)
+* Hashtags: [#IIIF](https://twitter.com/search?q=%23IIIF&src=typd) and #[IIIFWeek](https://twitter.com/search?q=%23IIIFWeek&src=typd)
+* Join the IIIF-Week Slack channel for ongoing questions, comments, and discussion!
 
 ---
 
+
+
+### Full Event Calendar
+  
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20200601/20200605&amp;title=IIIF%20Week" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>  
+
+---
+
+
 ## Sessions
 
-### Opening Panel: The Changing Meaning of Access in Digital Collections
+### Monday, June 1
 
-**June 1, 11amET**
+#### Opening Panel: Responding to Current Events with Digital Collections Strategy
+##### 11:00 AM - 12:00 PM ET
+##### Register
 
-**Description:** This panel will focus on the strategies developed and deployed by high-profile IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry -- from academic scholarship to the satisfaction of curiosity -- these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy.
+Presenters: 
+* Emmanuel Bermès, Deputy Director for Services and Networks at BnF
+* Christy Henshaw, Digital Production Manager at Wellcome Collection
+* Kate Zwaard, Director of Digital Strategy at the Library of Congress
 
-**Intended Audience:** All are welcome! This session is intended for anyone working in or with cultural heritage institutions, no experience with IIIF required.
+**Description**: This panel will focus on the strategies developed and deployed by major IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry – from academic scholarship to the satisfaction of curiosity – these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy. **Intended audience**: All are welcome! Anyone interested in the path forward for libraries, museums, archives, and other institutions working to present digitized materials to meet a broad set of demands. No experience with IIIF required.
 
-*Link to recording will be included here following the presentation*
+#### Introduction to IIIF
+##### 2:00 PM - 2:30 PM ET
+##### Register
 
-### Introduction to IIIF 
-**June 1, 2pmET**
-**June 2, 4amET**
+**Presenter**: Meg O’Hearn, Community & Events Coordinator, IIIF Consortium
 
-**Description:** This session will cover the basics of IIIF technology and the IIIF Community, as well as a number of core use cases from among the hundreds of implementers of IIIF. Currently, there are four IIIF specifications for flexible image delivery, presentation, authentication, and search-within functionality. 
+**Description**: This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in North, Central, and South America. **Intended audience**: Beginner level -- Maybe you've heard about IIIF before, but want to know about the details and how IIIF might work for you and/or your institution. Or maybe you already know a bit, but you want more info on how to connect with the IIIF Community.
 
-**Intended audience:** Beginner level -- Maybe you've heard about IIIF before, but want to know about the details and how IIIF might work for you and/or your institution. Or maybe you already know a bit, but you want more info on how to connect with the IIIF Community.
-
-*Link to recording will be included here following the presentation*
+    _______________________________________________________________________
 
 
-### Fun with IIIF
-**June 5, 11amET**
+### Tuesday, June 2
+
+#### Introduction to IIIF
+##### 4:00 AM - 4:30 AM ET
+##### Register
+
+**Presenter**: Glen Robson, Technical Coordinator, IIIF Consortium
+
+**Description**: This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in the UK Europe, and Africa. **Intended audience**: Beginner level -- Maybe you've heard about IIIF before, but want to know about the details and how IIIF might work for you and/or your institution. Or maybe you already know a bit, but you want more info on how to connect with the IIIF Community.
+
+
+#### IIIF Executive Committee Meeting
+##### 11:00 AM - 12:00 PM ET
+
+_Open to Executive Committee members only._
+
+
+#### Japan IIIF Showcase
+##### 9:00 PM - 10:00 PM ET
+##### Register
+
+##### Facilitator: Akihiko Takano, National Institute of Informatics
+
+**Description:** This session will be held in Japanese. Session description coming soon.
+
+
+    _______________________________________________________________________
+
+### Wednesday, June 3
+
+
+#### IIIF Technical Updates
+##### 11:00 AM - 12:00 PM ET
+##### Register
+
+**Presenter**: Glen Robson & the IIIF Editors
+
+**Description:** Learn about the latest updates to the APIs, including ____, ____, and _____. This session is intended for ______. 
+
+
+#### IIIF Community Updates
+##### 12:00 - 1:00 PM ET
+##### Register
+
+**Presenter**: Josh Hadro, IIIF Managing Director, and Meg O'Hearn, IIIF Community and Events Coordinator
+
+**Description:** Learn how the various IIIF communities have been working with the framework recently, and how you can get involved and learn from their efforts. &lt;examples of a few things that will be discussed go here.>
+
+
+    _______________________________________________________________________
+
+
+### Thursday, June 4
+
+
+#### Looking forward: a path for IIIF’s APIs
+#### 11:00 AM - 12:00 PM ET
+#### Register
+
+**Description:** Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.
+
+
+#### The future of the IIIF community
+##### 12:00 - 1:00 PM ET
+##### Register
+
+**Description:** Join us for a structured group conversation about the future of the IIIF community and help shape future plans and organization. All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.
+
+
+    _______________________________________________________________________
+
+
+### Friday, June 5
+
+#### Fun with IIIF
+##### 11:00 AM - 12:00 PM ET
+##### Register
 
 **Description:** Most of the uses of the International Image Interoperability Framework (IIIF) have rightly focused on scholarly and research applications. In this lightning talk, however, I plan to look at the opposite extreme: the state of the art for creating playful and fun applications of the IIIF APIs. From tile puzzles, to arcade games, via terapixel fractals, virtual galleries, 3D environments, a voice-activated Bladerunner-style viewer and more. Time to bring frivolity back to GLAM content. 
 
 **Intended audience:** Beginner and above -- Knowing what IIIF can do and how to work with IIIF resources will be helpful background, but the examples in this presentation stand on their own and will be of interest regardless of familiarity with IIIF.
 
-*Link to recording will be included here following the presentation*
+
+#### IIIF Week: The Afterparty
+#### 12:00 PM - 1:00 PM ET
+
+Grab your beverage and snack of choice, show off your best zoom background, and get together with IIIF Week attendees for a virtual video hangout and slack conversations. 
+
+
+    _______________________________________________________________________
 
 ## IIIF Hands on workshop
 **June 8th to June 12th**
 
-The week following the online conference there will be a chance to get hands on experience with IIIF and learn the skills to get started. This will be an online course and places will be limited. It will involve daily zoom presentations from tutors, drop in help sessions and following an online tutorial. The course will cover:
+The week following the online conference there will be a chance to get hands on experience with IIIF and learn the skills to get started. This will be an online course and places will be limited. It will involve daily zoom presentations from tutors, and drop-in help session following the online tutorial. The course will cover:
 
  * Getting started with the Image API 
  * Creating IIIF Manifests with the Bodleian manifest editor 
  * Annotating IIIF resources and setting up an annotation server
  * Introduction to various IIIF tools for scholarship 
 
-Participants will need a laptop which they can install software on and be able to commit 3 to 4 hours per day for the week long course.  
+Participants will need a laptop on which they can install software and should be able to commit a few per day for the week long course in order to get the most out of it.  
+
+
 
 [iiif]: https://iiif.io/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
@@ -88,3 +175,9 @@ Participants will need a laptop which they can install software on and be able t
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
+
+
+
+
+
+
