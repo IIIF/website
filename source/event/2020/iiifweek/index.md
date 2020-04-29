@@ -7,8 +7,10 @@ page: overview
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
 
-IIIF Week is a series of **free** online events introducing IIIF’s capabilities and community, sharing demonstrations of IIIF implementations, and discussing the future of IIIF, digital strategy for cultural heritage, and digital research needs. 
+IIIF Week Online is a series of **free** online events introducing IIIF’s capabilities and community, sharing demonstrations of IIIF implementations, and discussing the future of IIIF, digital strategy for cultural heritage, and digital research needs. 
 
 While we are saddened by the need to postpone our annual conference, previously scheduled to take place the same week, we recognize this is an opportunity for many to attend who otherwise would not have been able due to budgets, travel restrictions, and other obligations. We look forward to bringing together a wider group of the IIIF community during this virtual event.
 
@@ -51,10 +53,12 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 ## Sessions
 
-### Monday, June 1
+<!-- ### Monday, June 1 -->
+
 
 #### Opening Panel: Responding to Current Events with Digital Collections Strategy
-##### 11:00 AM - 12:00 PM ET
+<!-- ##### 11:00 AM - 12:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-01 11:00">11:00 AM - 12:00 PM ET</h5>
 ##### Register
         
 
@@ -69,7 +73,7 @@ Interested attendees may also sign up for a workshop on getting started with III
 <span class="title">IIIF Week Opening Panel: Responding to Current Events with Digital Collections</span>
 <span class="description">This panel will focus on the strategies developed and deployed by major IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry – from academic scholarship to the satisfaction of curiosity – these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy.</span>
 <span class="location">https://zoom.us/my/hadro</span>
-</div>
+
 
 Presenters: 
 * Emmanuel Bermès, Deputy Director for Services and Networks at BnF
@@ -78,8 +82,11 @@ Presenters:
 
 **Description**: This panel will focus on the strategies developed and deployed by major IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry – from academic scholarship to the satisfaction of curiosity – these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy. **Intended audience**: All are welcome! Anyone interested in the path forward for libraries, museums, archives, and other institutions working to present digitized materials to meet a broad set of demands. No experience with IIIF required.
 
+</div>
+
 #### Introduction to IIIF
-##### 2:00 PM - 2:30 PM ET
+<!-- ##### 2:00 PM - 2:30 PM ET -->
+<h5 class="session_time" duration="30" start="2020-06-01 14:00">2:00 PM - 2:30 PM ET</h5>
 ##### Register
 
 <div title="Add to Calendar" class="add-to-calendar">
@@ -101,10 +108,11 @@ Presenters:
     _______________________________________________________________________
 
 
-### Tuesday, June 2
+<!-- ### Tuesday, June 2 -->
 
 #### Introduction to IIIF
-##### 4:00 AM - 4:30 AM ET
+<!-- ##### 4:00 AM - 4:30 AM ET -->
+<h5 class="session_time" duration="30" start="2020-06-02 04:00">4:00 AM - 4:30 AM ET</h5>
 ##### Register
 
 <div title="Add to Calendar" class="add-to-calendar">
@@ -125,13 +133,14 @@ Presenters:
 
 
 #### IIIF Executive Committee Meeting
-##### 11:00 AM - 12:00 PM ET
-
+<!-- ##### 11:00 AM - 12:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-02 11:00">11:00 AM - 12:00 PM ET</h5>
 _Open to Executive Committee members only._
 
 
 #### Japan IIIF Showcase
-##### 9:00 PM - 10:00 PM ET
+<!-- ##### 9:00 PM - 10:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-02 21:00">9:00 PM - 10:00 PM ET</h5>
 ##### Register
 
 ##### Facilitator: Akihiko Takano, National Institute of Informatics
@@ -141,11 +150,12 @@ _Open to Executive Committee members only._
 
     _______________________________________________________________________
 
-### Wednesday, June 3
+<!-- ### Wednesday, June 3 -->
 
 
 #### IIIF Technical Updates
-##### 11:00 AM - 12:00 PM ET
+<!-- ##### 11:00 AM - 12:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-03 11:00">11:00 AM - 12:00 PM ET</h5>
 ##### Register
 
 **Presenter**: Glen Robson & the IIIF Editors
@@ -154,7 +164,8 @@ _Open to Executive Committee members only._
 
 
 #### IIIF Community Updates
-##### 12:00 - 1:00 PM ET
+<!-- ##### 12:00 - 1:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-03 12:00">12:00 - 1:00 PM ET</h5>
 ##### Register
 
 **Presenter**: Josh Hadro, IIIF Managing Director, and Meg O'Hearn, IIIF Community and Events Coordinator
@@ -165,18 +176,20 @@ _Open to Executive Committee members only._
     _______________________________________________________________________
 
 
-### Thursday, June 4
+<!-- ### Thursday, June 4 -->
 
 
 #### Looking forward: a path for IIIF’s APIs
-#### 11:00 AM - 12:00 PM ET
+<!-- #### 11:00 AM - 12:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-04 11:00">11:00 AM - 12:00 PM ET</h5>
 #### Register
 
 **Description:** Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.
 
 
 #### The future of the IIIF community
-##### 12:00 - 1:00 PM ET
+<!-- ##### 12:00 - 1:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-04 12:00">12:00 - 1:00 PM ET</h5>
 ##### Register
 
 **Description:** Join us for a structured group conversation about the future of the IIIF community and help shape future plans and organization. All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.
@@ -185,10 +198,11 @@ _Open to Executive Committee members only._
     _______________________________________________________________________
 
 
-### Friday, June 5
+<!-- ### Friday, June 5 -->
 
 #### Fun with IIIF
-##### 11:00 AM - 12:00 PM ET
+<!-- ##### 11:00 AM - 12:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-05 11:00">11:00 AM - 12:00 PM ET</h5>
 ##### Register
 
 **Description:** Most of the uses of the International Image Interoperability Framework (IIIF) have rightly focused on scholarly and research applications. In this lightning talk, however, I plan to look at the opposite extreme: the state of the art for creating playful and fun applications of the IIIF APIs. From tile puzzles, to arcade games, via terapixel fractals, virtual galleries, 3D environments, a voice-activated Bladerunner-style viewer and more. Time to bring frivolity back to GLAM content. 
@@ -197,7 +211,8 @@ _Open to Executive Committee members only._
 
 
 #### IIIF Week: The Afterparty
-#### 12:00 PM - 1:00 PM ET
+<!-- #### 12:00 PM - 1:00 PM ET -->
+<h5 class="session_time" duration="60" start="2020-06-05 12:00">12:00 PM - 1:00 PM ET</h5>
 
 Grab your beverage and snack of choice, show off your best zoom background, and get together with IIIF Week attendees for a virtual video hangout and slack conversations. 
 
@@ -217,7 +232,38 @@ The week following the online conference there will be a chance to get hands on 
 Participants will need a laptop on which they can install software and should be able to commit a few per day for the week long course in order to get the most out of it.  
 
 
+<script type="text/javascript">
+var timezone = jstz.determine();
+var local_tz = timezone.name();
+//var local_tz = "Asia/Tokyo"
+// var a = moment.tz("2020-06-01 11:00", "America/New_York");
+// var b = moment.tz("2020-06-01 11:00", timezone.name());
+// a.format(); // 2013-11-18T11:55:00+08:00
+// b.format(); // 2013-11-18T11:55:00-05:00
 
+// a.utc().format(); // 2013-11-18T03:55Z
+// var local_start_time = b.format('h:mm A');
+// var local_end_time = b.add(60, 'minutes').format('h:mm A z');
+// // WANT: a.format('MMM D h:mm A z')
+// document.getElementById('session_1').innerHTML = local_start_time + " - " +local_end_time;
+
+var session_times = document.getElementsByClassName('session_time');
+// var start_time = moment(session_time.getAttribute('time'),"h:mm").format("HH:mm A");
+// var local_start_time = start_time.format('h:mm A');
+var i;
+for (i = 0; i < session_times.length; i++) {
+  a = session_times[i].getAttribute('start');
+  //var start_time = moment(a,"YYYY-MM-DD H:mm").tz(timezone.name()).format("hh:mm A");
+  var original = moment(a,"YYYY-MM-DD H:mm").tz("America/New_York");
+  var local = moment(a,"YYYY-MM-DD H:mm").tz(local_tz);
+  var start_time = original.format("hh:mm A");
+  var local_start_time = local.format("ddd MMM DD, hh:mm A");
+  //var start_time = moment(session_times[i].getAttribute('time'),"h:mm A").format("hh:mm A");
+  var duration = session_times[i].getAttribute('duration');
+  var end_time = local.add(duration, 'minutes').format("hh:mm A z"); 
+  session_times[i].innerHTML = local_start_time + " - " + end_time;
+} 
+</script>
 
 
 
