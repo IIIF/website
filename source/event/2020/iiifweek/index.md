@@ -143,7 +143,7 @@ _Open to Executive Committee members only._
 <h5 class="session_time" duration="60" start="2020-06-02 21:00">9:00 PM - 10:00 PM ET</h5>
 ##### Register
 
-##### Facilitator: Akihiko Takano, National Institute of Informatics
+**Facilitator**: Akihiko Takano, National Institute of Informatics
 
 **Description:** This session will be held in Japanese. Session description coming soon.
 
@@ -153,24 +153,26 @@ _Open to Executive Committee members only._
 <!-- ### Wednesday, June 3 -->
 
 
-#### IIIF Technical Updates
+#### IIIF Technical and Community Group Updates
 <!-- ##### 11:00 AM - 12:00 PM ET -->
 <h5 class="session_time" duration="60" start="2020-06-03 11:00">11:00 AM - 12:00 PM ET</h5>
 ##### Register
 
-**Presenter**: Glen Robson & the IIIF Editors
+<div title="Add to Calendar" class="add-to-calendar">
+<span class="start">06/04/2020 11:00 AM</span>
+<span class="timezone">America/New_York</span>
+<!-- <span class="end">06/01/2020 12:00 PM</span> -->
+<span class="duration">60</span>
+<!--span class="allday">true</span-->               
+<span class="address">https://zoom.us/my/hadro</span>
+<span class="title">IIIF Technical and Community Group Updates</span>
+<span class="description">Learn about the latest updates to the APIs and the status of IIIF technical efforts, as well as  how the various IIIF Community groups have been working with the framework recently, and how you can get involved and learn from their efforts. </span>
+<span class="location">https://zoom.us/my/hadro</span>
+</div>
 
-**Description:** Learn about the latest updates to the APIs, including ____, ____, and _____. This session is intended for ______. 
+**Presenter**: Josh Hadro, IIIF Managing Director, Meg O'Hearn, IIIF Community and Events Coordinator, Glen Robson, IIIF Technical Coordinator, & the IIIF Editors
 
-
-#### IIIF Community Updates
-<!-- ##### 12:00 - 1:00 PM ET -->
-<h5 class="session_time" duration="60" start="2020-06-03 12:00">12:00 - 1:00 PM ET</h5>
-##### Register
-
-**Presenter**: Josh Hadro, IIIF Managing Director, and Meg O'Hearn, IIIF Community and Events Coordinator
-
-**Description:** Learn how the various IIIF communities have been working with the framework recently, and how you can get involved and learn from their efforts. &lt;examples of a few things that will be discussed go here.>
+**Description:** Learn about the latest updates to the APIs and the status of IIIF technical efforts, as well as  how the various IIIF Community groups have been working with the framework recently, and how you can get involved and learn from their efforts. **Intended audience**: While all are welcome, this session is intended for those hwo have some experience working with or implementing the IIIF APIs, or those interested in the work of the various IIIF Community interest groups. 
 
 
     _______________________________________________________________________
@@ -179,7 +181,7 @@ _Open to Executive Committee members only._
 <!-- ### Thursday, June 4 -->
 
 
-#### Looking forward: a path for IIIF’s APIs
+#### Looking forward: a path for IIIF’s APIs (Technical Roadmap Session)
 <!-- #### 11:00 AM - 12:00 PM ET -->
 <h5 class="session_time" duration="60" start="2020-06-04 11:00">11:00 AM - 12:00 PM ET</h5>
 #### Register
@@ -187,7 +189,7 @@ _Open to Executive Committee members only._
 **Description:** Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.
 
 
-#### The future of the IIIF community
+#### The future of the IIIF community (Community Roadmap Session)
 <!-- ##### 12:00 - 1:00 PM ET -->
 <h5 class="session_time" duration="60" start="2020-06-04 12:00">12:00 - 1:00 PM ET</h5>
 ##### Register
@@ -235,7 +237,7 @@ Participants will need a laptop on which they can install software and should be
 <script type="text/javascript">
 var timezone = jstz.determine();
 var local_tz = timezone.name();
-//var local_tz = "Asia/Tokyo"
+//var local_tz = "Asia/Tokyo";
 // var a = moment.tz("2020-06-01 11:00", "America/New_York");
 // var b = moment.tz("2020-06-01 11:00", timezone.name());
 // a.format(); // 2013-11-18T11:55:00+08:00
