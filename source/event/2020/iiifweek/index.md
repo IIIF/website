@@ -57,20 +57,7 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 
 #### Opening Panel: Responding to Current Events with Digital Collections Strategy
-<!-- ##### 11:00 AM - 12:00 PM ET -->
-      
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;">
-<span class="start">06/01/2020 11:00 AM</span>
-<span class="timezone">America/New_York</span> -->
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">60</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">IIIF Week Opening Panel: Responding to Current Events with Digital Collections</span>
-<span class="description">This panel will focus on the strategies developed and deployed by major IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry – from academic scholarship to the satisfaction of curiosity – these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy.</span>
-<span class="location">https://stanford.zoom.us/webinar/register/3815882610041/WN_Ja6n10uNTKeyKVI_kix3mQ</span>
-</div>
- -->
+
 <h5 class="session_time" duration="60" start="2020-06-01 11:00">11:00 AM - 12:00 PM ET</h5>
 
 [**Register**](https://stanford.zoom.us/webinar/register/3815882610041/WN_Ja6n10uNTKeyKVI_kix3mQ)
@@ -83,18 +70,6 @@ Interested attendees may also sign up for a workshop on getting started with III
 **Description**: This panel will focus on the strategies developed and deployed by major IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry – from academic scholarship to the satisfaction of curiosity – these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy. **Intended audience**: All are welcome! Anyone interested in the path forward for libraries, museums, archives, and other institutions working to present digitized materials to meet a broad set of demands. No experience with IIIF required.
 
 #### Introduction to IIIF
-<!-- <!-- ##### 2:00 PM - 2:30 PM ET -->
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;"> -->
-<!-- <span class="start">06/01/2020 02:00 PM</span> -->
-<!-- <span class="timezone">America/New_York</span> -->
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">30</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">IIIF Week Introduction to IIIF</span> -->
-<!-- <span class="description">This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in North, Central, and South America.</span> -->
-<!-- <span class="location">https://stanford.zoom.us/webinar/register/2515882758050/WN_DAYCL4_TQring75CBP_7BA</span> -->
-<!-- </div> -->
 
 <h5 class="session_time" duration="30" start="2020-06-01 14:00">2:00 PM - 2:30 PM ET</h5>
 
@@ -110,19 +85,6 @@ Interested attendees may also sign up for a workshop on getting started with III
 <!-- ### Tuesday, June 2 -->
 
 #### Introduction to IIIF
-<!-- ##### 4:00 AM - 4:30 AM ET -->
-
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;">
-<span class="start">06/02/2020 04:00 AM</span>
-<span class="timezone">America/New_York</span>
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">30</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">IIIF Week Introduction to IIIF</span> -->
-<!-- <span class="description">This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in the UK Europe, and Africa.</span> -->
-<!-- <span class="location">https://stanford.zoom.us/webinar/register/4915882758754/WN_wRffx-LNQ7WhHChRIVNshw</span> -->
-<!-- </div> --> 
 
 <h5 class="session_time" duration="30" start="2020-06-02 04:00">4:00 AM - 4:30 AM ET</h5>
 
@@ -156,18 +118,6 @@ _Open to Executive Committee members only._
 
 
 #### IIIF Technical and Community Group Updates
-<!-- ##### 11:00 AM - 12:00 PM ET -->
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;">
-<span class="start">06/03/2020 11:00 AM</span>
-<span class="timezone">America/New_York</span>
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">60</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">IIIF Technical and Community Group Updates</span> -->
-<!-- <span class="description">Learn about the latest updates to the APIs and the status of IIIF technical efforts, as well as  how the various IIIF Community groups have been working with the framework recently, and how you can get involved and learn from their efforts. </span> -->
-<!-- <span class="location">https://stanford.zoom.us/webinar/register/8815882760206/WN_joKlLn2yQWi33xvMkGb7zQ</span> -->
-<!-- </div> -->
 
 <h5 class="session_time" duration="60" start="2020-06-03 11:00">11:00 AM - 12:00 PM ET</h5>
 
@@ -185,20 +135,6 @@ _Open to Executive Committee members only._
 
 
 #### Looking forward: a path for IIIF’s APIs (Technical Roadmap Session)
-<!-- #### 11:00 AM - 12:00 PM ET -->
-
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;">
-<span class="start">06/04/2020 11:00 AM</span>
-<span class="timezone">America/New_York</span>
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">60</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">Looking forward: a path for IIIF’s APIs (Technical Roadmap Session)</span> -->
-<!-- <span class="description">Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen. </span> -->
-<!-- <span class="location">https://stanford.zoom.us/webinar/register/6115882760724/WN_AWZMPh4YQqSK1s3x8OeeNA</span> -->
-<!-- </div> --> 
-
 
 <h5 class="session_time" duration="60" start="2020-06-04 11:00">11:00 AM - 12:00 PM ET</h5>
 
@@ -208,19 +144,6 @@ _Open to Executive Committee members only._
 
 
 #### The future of the IIIF community (Community Roadmap Session)
-<!-- ##### 12:00 - 1:00 PM ET -->
-
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;">
-<span class="start">06/04/2020 12:00 PM</span>
-<span class="timezone">America/New_York</span>
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">60</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">The future of the IIIF community (Community Roadmap Session)</span> -->
-<!-- <span class="description">Join us for a structured group conversation about the future of the IIIF community and help shape future plans and organization. All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.</span> -->
-<!-- <span class="location">https://stanford.zoom.us/webinar/register/2315882762392/WN_0R9rYsbPQVuajk2RExLAXQ</span> -->
-<!-- </div> -->
 
 <h5 class="session_time" duration="60" start="2020-06-04 12:00">12:00 - 1:00 PM ET</h5>
 
@@ -235,19 +158,6 @@ _Open to Executive Committee members only._
 <!-- ### Friday, June 5 -->
 
 #### Fun with IIIF
-<!-- ##### 11:00 AM - 12:00 PM ET -->
-
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;">
-<span class="start">06/05/2020 11:00 AM</span>
-<span class="timezone">America/New_York</span>
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">60</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">Fun with IIIF</span> -->
-<!-- <span class="description">Most of the uses of the International Image Interoperability Framework (IIIF) have rightly focused on scholarly and research applications. In this lightning talk, however, I plan to look at the opposite extreme: the state of the art for creating playful and fun applications of the IIIF APIs. From tile puzzles, to arcade games, via terapixel fractals, virtual galleries, 3D environments, a voice-activated Bladerunner-style viewer and more. Time to bring frivolity back to GLAM content.</span> -->
-<!-- <span class="location">https://stanford.zoom.us/webinar/register/5415882763352/WN_F8Yrs1CZTxGPBHfVjh81kw</span> -->
-<!-- </div>  -->
 
 <h5 class="session_time" duration="60" start="2020-06-05 11:00">11:00 AM - 12:00 PM ET</h5>
 
@@ -257,19 +167,6 @@ _Open to Executive Committee members only._
 
 
 #### IIIF Week: The Afterparty
-<!-- #### 12:00 PM - 1:00 PM ET -->
-
-<!-- <div title="Add to Calendar" class="add-to-calendar" style="float:right;">
-<span class="start">06/05/2020 12:00 PM</span>
-<span class="timezone">America/New_York</span>
-<!-- <span class="end">06/01/2020 12:00 PM</span> -->
-<!-- <span class="duration">60</span> -->
-<!--span class="allday">true</span-->               
-<!-- <span class="address">https://zoom.us/my/hadro</span> -->
-<!-- <span class="title">Fun with IIIF</span> -->
-<!-- <span class="description">Grab your beverage and snack of choice, show off your best zoom background, and get together with IIIF Week attendees for a virtual video hangout and slack conversations. </span> -->
-<!-- <span class="location">https://zoom.us/my/hadro</span> -->
-<!-- </div> -->
 
 <h5 class="session_time" duration="60" start="2020-06-05 12:00">12:00 PM - 1:00 PM ET</h5>
 
