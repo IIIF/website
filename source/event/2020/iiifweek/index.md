@@ -220,16 +220,21 @@ var session_times = document.getElementsByClassName('session_time');
 // var local_start_time = start_time.format('h:mm A');
 var i;
 for (i = 0; i < session_times.length; i++) {
-  a = session_times[i].getAttribute('start');
   //var start_time = moment(a,"YYYY-MM-DD H:mm").tz(timezone.name()).format("hh:mm A");
-  var original = moment(a,"YYYY-MM-DD H:mm").tz("America/New_York");
+ /*var original = moment(a,"YYYY-MM-DD H:mm").tz("America/New_York");
   var local = moment(a,"YYYY-MM-DD H:mm").tz(local_tz);
   var start_time = original.format("hh:mm A");
   var local_start_time = local.format("ddd MMM DD, hh:mm A");
-  //var start_time = moment(session_times[i].getAttribute('time'),"h:mm A").format("hh:mm A");
+  //var start_time = moment(session_times[i].getAttribute('time'),"h:mm A").format("hh:mm A");*/
+
+  a = session_times[i].getAttribute('start');
+  var newYork = moment.tz(a, "America/New_York");
+  var local = newYork.clone().tz(local_tz);
+
   var duration = session_times[i].getAttribute('duration');
-  var end_time = local.add(duration, 'minutes').format("hh:mm A z"); 
-  session_times[i].innerHTML = local_start_time + " - " + end_time;
+  var end_time = local.clone().add(duration, 'minutes'); 
+  
+  session_times[i].innerHTML = local.format("ddd MMM DD, hh:mm A") + " - " + end_time.format("hh:mm A z");
 } 
 </script>
 
