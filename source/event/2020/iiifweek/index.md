@@ -22,7 +22,7 @@ All event proceedings will be in English unless otherwise indicated, and all ses
 Interested attendees may also sign up for a workshop on getting started with IIIF the week following the conference. X amount of experience required. Register here: &lt;link>
 
 
-### Logistics
+## Logistics
 
 * Sessions will be held using Zoom and require advanced registration unless otherwise indicated
 * Recordings will be sent to registrants following the event, and later posted on the [IIIF YouTube channel](https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA)
@@ -34,7 +34,7 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 
 
-### Full Event Calendar
+## Full Event Calendar
 
 <div id="calendar-container"></div>
 
@@ -53,12 +53,14 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 ## Sessions
 
+The sessions below are listed in chronological order.
+
 <!-- ### Monday, June 1 -->
 
 
-#### Opening Panel: Responding to Current Events with Digital Collections Strategy
+### Opening Panel: Responding to Current Events with Digital Collections Strategy
 
-<h5 class="session_time" duration="60" start="2020-06-01 11:00">11:00 AM - 12:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-01 11:00">11:00 AM - 12:00 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/3815882610041/WN_Ja6n10uNTKeyKVI_kix3mQ)
 
@@ -69,9 +71,11 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 **Description**: This panel will focus on the strategies developed and deployed by major IIIF-implementing institutions. Digital Strategy has always been a moving target, necessarily taking into account impact models and institution-specific theories of change while also incorporating evolving user needs and accounting for iterating new technologies. In light of a global pandemic that has perhaps permanently altered common paths of inquiry – from academic scholarship to the satisfaction of curiosity – these strategies are liable to change further, in ways both predictable and not. Join us for a conversation with leaders from three world-class institutions as they meld innovative and responsive digital strategy with unique culture and legacy. **Intended audience**: All are welcome! Anyone interested in the path forward for libraries, museums, archives, and other institutions working to present digitized materials to meet a broad set of demands. No experience with IIIF required.
 
-#### Introduction to IIIF
+---
 
-<h5 class="session_time" duration="30" start="2020-06-01 14:00">2:00 PM - 2:30 PM ET</h5>
+### Introduction to IIIF
+
+<h4 class="session_time" duration="30" start="2020-06-01 14:00">2:00 PM - 2:30 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/2515882758050/WN_DAYCL4_TQring75CBP_7BA)
 
@@ -79,14 +83,13 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 **Description**: This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in North, Central, and South America. **Intended audience**: Beginner level -- Maybe you've heard about IIIF before, but want to know about the details and how IIIF might work for you and/or your institution. Or maybe you already know a bit, but you want more info on how to connect with the IIIF Community.
 
-    _______________________________________________________________________
-
+---
 
 <!-- ### Tuesday, June 2 -->
 
-#### Introduction to IIIF
+### Introduction to IIIF
 
-<h5 class="session_time" duration="30" start="2020-06-02 04:00">4:00 AM - 4:30 AM ET</h5>
+<h4 class="session_time" duration="30" start="2020-06-02 04:00">4:00 AM - 4:30 AM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/4915882758754/WN_wRffx-LNQ7WhHChRIVNshw)
 
@@ -94,16 +97,18 @@ Interested attendees may also sign up for a workshop on getting started with III
 
 **Description**: This non-technical session will cover the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of how it can be used. This time slot is intended to be convenient for attendees in the UK Europe, and Africa. **Intended audience**: Beginner level -- Maybe you've heard about IIIF before, but want to know about the details and how IIIF might work for you and/or your institution. Or maybe you already know a bit, but you want more info on how to connect with the IIIF Community.
 
+---
 
-#### IIIF Executive Committee Meeting
+### IIIF Executive Committee Meeting
 <!-- ##### 11:00 AM - 12:00 PM ET -->
-<h5 class="session_time" duration="60" start="2020-06-02 11:00">11:00 AM - 12:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-02 11:00">11:00 AM - 12:00 PM ET</h4>
 _Open to Executive Committee members only._
 
+---
 
-#### Japan IIIF Showcase
+### Japan IIIF Showcase
 <!-- ##### 9:00 PM - 10:00 PM ET -->
-<h5 class="session_time" duration="60" start="2020-06-02 21:00">9:00 PM - 10:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-02 21:00">9:00 PM - 10:00 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/7715882759744/WN_HRREh_nFRgGDUiugSvOaMg)
 
@@ -111,15 +116,24 @@ _Open to Executive Committee members only._
 
 **Description:** This session will be held in Japanese. Session description coming soon.
 
+### China IIIF Showcase
+<!-- ##### 9:00 PM - 10:00 PM ET -->
+<h4 class="session_time" duration="60" start="2020-06-02 21:00">Date and time TKTK</h4>
 
-    _______________________________________________________________________
+**Register**
+
+**Facilitator**: Joe Song, Fudan University Library
+
+**Description:** This session will be held in Chinese. Session description coming soon.
+
+---
 
 <!-- ### Wednesday, June 3 -->
 
 
-#### IIIF Technical and Community Group Updates
+### IIIF Technical and Community Group Highlights
 
-<h5 class="session_time" duration="60" start="2020-06-03 11:00">11:00 AM - 12:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-03 11:00">11:00 AM - 12:00 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/8815882760206/WN_joKlLn2yQWi33xvMkGb7zQ)
 
@@ -127,48 +141,46 @@ _Open to Executive Committee members only._
 
 **Description:** Learn about the latest updates to the APIs and the status of IIIF technical efforts, as well as  how the various IIIF Community groups have been working with the framework recently, and how you can get involved and learn from their efforts. **Intended audience**: While all are welcome, this session is intended for those hwo have some experience working with or implementing the IIIF APIs, or those interested in the work of the various IIIF Community interest groups. 
 
-
-    _______________________________________________________________________
-
+---
 
 <!-- ### Thursday, June 4 -->
 
 
-#### Looking forward: a path for IIIF’s APIs (Technical Roadmap Session)
+### Looking forward: a path for IIIF’s APIs (Technical Roadmap Session)
 
-<h5 class="session_time" duration="60" start="2020-06-04 11:00">11:00 AM - 12:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-04 11:00">11:00 AM - 12:00 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/6115882760724/WN_AWZMPh4YQqSK1s3x8OeeNA)
 
 **Description:** Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.
 
+---
 
-#### The future of the IIIF community (Community Roadmap Session)
+### The future of the IIIF community (Community Roadmap Session)
 
-<h5 class="session_time" duration="60" start="2020-06-04 12:00">12:00 - 1:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-04 12:00">12:00 - 1:00 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/2315882762392/WN_0R9rYsbPQVuajk2RExLAXQ)
 
 **Description:** Join us for a structured group conversation about the future of the IIIF community and help shape future plans and organization. All attendees are welcome to join in the conversation, providing feedback and asking questions. Or, you may simply join and listen.
 
-
-    _______________________________________________________________________
-
+---
 
 <!-- ### Friday, June 5 -->
 
-#### Fun with IIIF
+### Fun with IIIF (CONFIRMATION PENDING)
 
-<h5 class="session_time" duration="60" start="2020-06-05 11:00">11:00 AM - 12:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-05 11:00">11:00 AM - 12:00 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/5415882763352/WN_F8Yrs1CZTxGPBHfVjh81kw)
 
 **Description:** Most of the uses of the International Image Interoperability Framework (IIIF) have rightly focused on scholarly and research applications. In this lightning talk, however, I plan to look at the opposite extreme: the state of the art for creating playful and fun applications of the IIIF APIs. From tile puzzles, to arcade games, via terapixel fractals, virtual galleries, 3D environments, a voice-activated Bladerunner-style viewer and more. Time to bring frivolity back to GLAM content. **Intended audience:** Beginner and above -- Knowing what IIIF can do and how to work with IIIF resources will be helpful background, but the examples in this presentation stand on their own and will be of interest regardless of familiarity with IIIF.
 
+---
 
-#### IIIF Week: The Afterparty
+### IIIF Week: The Afterparty
 
-<h5 class="session_time" duration="60" start="2020-06-05 12:00">12:00 PM - 1:00 PM ET</h5>
+<h4 class="session_time" duration="60" start="2020-06-05 12:00">12:00 PM - 1:00 PM ET</h4>
 
 Grab your beverage and snack of choice, show off your best zoom background, and get together with IIIF Week attendees for a virtual video hangout and slack conversations. 
 
