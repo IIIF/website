@@ -18,7 +18,6 @@ IIIF Week sessions are developed for both newcomers and experienced implementers
 
 All event proceedings will be in English unless otherwise indicated, and all sessions will be recorded and made available following the conference.
 
-
 Interested attendees may also sign up for a workshop on getting started with IIIF the week following the conference. X amount of experience required. Register here: &lt;link>
 
 
@@ -168,13 +167,13 @@ _Open to Executive Committee members only._
 
 <!-- ### Friday, June 5 -->
 
-### Fun with IIIF (CONFIRMATION PENDING)
+### Fun with IIIF
 
 <h4 class="session_time" duration="60" start="2020-06-05 11:00">11:00 AM - 12:00 PM ET</h4>
 
 [**Register**](https://stanford.zoom.us/webinar/register/5415882763352/WN_F8Yrs1CZTxGPBHfVjh81kw)
 
-**Description:** Most of the uses of the International Image Interoperability Framework (IIIF) have rightly focused on scholarly and research applications. In this lightning talk, however, I plan to look at the opposite extreme: the state of the art for creating playful and fun applications of the IIIF APIs. From tile puzzles, to arcade games, via terapixel fractals, virtual galleries, 3D environments, a voice-activated Bladerunner-style viewer and more. Time to bring frivolity back to GLAM content. **Intended audience:** Beginner and above -- Knowing what IIIF can do and how to work with IIIF resources will be helpful background, but the examples in this presentation stand on their own and will be of interest regardless of familiarity with IIIF.
+**Description:** Most of the uses of the International Image Interoperability Framework (IIIF) have rightly focused on scholarly and research applications. This session, however, will look at the opposite extreme: the state of the art for creating playful and fun applications of the IIIF APIs. From tile puzzles, to arcade games, via terapixel fractals, virtual galleries, 3D environments, a voice-activated Bladerunner-style viewer and more. Time to bring frivolity back to GLAM content. **Intended audience:** Beginner and above -- Knowing what IIIF can do and how to work with IIIF resources will be helpful background, but the examples in this presentation stand on their own and will be of interest regardless of familiarity with IIIF.
 
 ---
 
