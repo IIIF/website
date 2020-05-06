@@ -140,6 +140,17 @@ _Open to Executive Committee members only._
 
 **Description:** Learn about the latest updates to the APIs and the status of IIIF technical efforts, as well as  how the various IIIF Community groups have been working with the framework recently, and how you can get involved and learn from their efforts. **Intended audience**: While all are welcome, this session is intended for those hwo have some experience working with or implementing the IIIF APIs, or those interested in the work of the various IIIF Community interest groups. 
 
+### IIIF and Manuscript Use Cases
+<h4 class="session_time" duration="60" start="2020-06-03 11:00">12:00 PM - 1:00 PM ET</h4>
+
+Register
+
+**Facilitators:** IIIF Manuscripts Community Group Co-Chairs
+
+**Description:** During this meeting the IIIF Manuscripts Community Group will highlight new and exceptional cases of IIIF images to advance the field of manuscript studies.
+
+Registration required to receive webinar URL.
+
 ---
 
 <!-- ### Thursday, June 4 -->
