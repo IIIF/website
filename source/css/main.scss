@@ -315,6 +315,25 @@ a.button-turquoise {
 
 /*==== MOBILE: Sub pages : Common styles ====*/
 
+.register a:link,
+.register a:visited {
+  background-color: #21252c;
+  color: white;
+  border: 2px solid #21252c !important;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.register a:hover,
+.register a:active {
+  background-color: white;
+  color: #21252c;
+}
+
 .sub-pages-container a:link,
 .sub-pages-container a:visited,
 .sub-pages-container a:hover,
@@ -541,6 +560,7 @@ a.button-turquoise {
   font-size: 13px;
   font-style: italic;
 }
+
 
 .figure-image-api-region {
   background-image: url('/api/image/1.1/img/iiif-region.png');

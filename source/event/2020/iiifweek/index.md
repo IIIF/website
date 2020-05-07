@@ -55,7 +55,6 @@ The sessions below are listed in chronological order.
 ---
 
 <div id="schedule"></div>
-_______________________________________________________________________
 
 ## IIIF Hands on workshop
 **June 8th to June 12th**
@@ -73,6 +72,10 @@ Participants will need a laptop on which they can install software and should be
 <script type="text/javascript">
 var timezone = jstz.determine();
 var apiKey = 'AIzaSyBIB97V49ihYsXedQ0Ziw6s3SzcGf5G8z0';
+
+function text2id(text) {
+    return text.trim().toLowerCase().replace(/[:;,()]/g,'').replace(/[ ]/g,'-');
+}
 
 function loadEvents() {
     // Initializes the client with the API key and the Translate API.
@@ -110,21 +113,25 @@ function loadEvents() {
             var dayString = ['Monday, June 1st', 'Tuesday, June 2nd', 'Wednesday, June 3rd', 'Thursday, June 4th', 'Friday, June 5th'];
             var content = '';
             for (var i = 1; i < 6; i++) {
-                content += '<h2>' + dayString[i - 1] + '</h2>';
+                content += '<h2 id="' + text2id(dayString[i - 1].substring(0, dayString[i - 1].indexOf(','))) + '">' + dayString[i - 1] + '</h2>';
                 for (var j = 0; j < days[i].length; j++) {
                     var event = days[i][j];
-                    content += '<h3>' + event.summary + '</h3>';
-                    content += '<h4>' + moment(event.start.dateTime).format("hh:mm A") + ' - ' + moment(event.end.dateTime).format("hh:mm A") + '</h4>';
+                    content += '<h3 id="' + text2id(event.summary) + '">' + event.summary + '</h3>';
+                    content += '<b>' + moment(event.start.dateTime).format("hh:mm A") + ' - ' + moment(event.end.dateTime).format("hh:mm A") + '</b>';
 
-                    content += '<a href="' + event.location + '"><b>Register</b></a>'; 
+                    if (event.hasOwnProperty('location') && event.location.length > 0 && event.location.indexOf('register') != -1) {
+                        content += '<p class="register"><a href="' + event.location.trim() + '">Register</a></p>'; 
+                    }    
 
                     content += '<p>' + event.description + '</p>';
                 }
+                content += '<br/>';
                 content += '<hr/>';
             }
 
             var div = document.getElementById('schedule');
             div.innerHTML = content;
+            anchors.add("#schedule h2, #schedule h3");
         }
     }, function (reason) {
         console.log('Error: ' + reason.result.error.message);
