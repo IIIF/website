@@ -10,7 +10,8 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming main IIIF Events__
 
-* Spring 2020 IIIF Conference: [June 1-4 in Boston, MA][boston20]
+* Spring 2020 IIIF Week: [June 1-5 Online Event][iiifweek]
+* Spring 2020 IIIF Conference: [Boston, MA][boston20] - postponed due to coronavirus
 
 __Other IIIF Events__
 
@@ -115,6 +116,7 @@ function addTable(destination, gtable) {
 
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [boston20]: {{ site.url }}{{ site.baseurl }}/event/2020/boston/
+[iiifweek]: {{ site.url }}{{ site.baseurl }}/event/2020/iiifweek/
 [ann_arbor19]: {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/
 [goettingen19]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
 [edinburgh18]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/
