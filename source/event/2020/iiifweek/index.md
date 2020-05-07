@@ -18,7 +18,6 @@ IIIF Week sessions are developed for both newcomers and experienced implementers
 
 All event proceedings will be in English unless otherwise indicated, and all sessions will be recorded and made available following the conference.
 
-
 Interested attendees may also sign up for a workshop on getting started with IIIF the week following the conference. X amount of experience required. Register here: &lt;link>
 
 

@@ -252,7 +252,6 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [iiifc-faq]: https://iiif.io/community/consortium/faq/ 
 [iiif-goettingen]: https://iiif.io/event/2019/goettingen/ 
 [iiif-omnibus]: https://julsraemy.github.io/posts/2018/07/06/iiif-omnibus/  
-[iiif-tx]: https://library.unt.edu/events/2018/10-09-iiif-texas/
 [ILMS]:https://www.imls.gov/ 
 [leipzig-event]: https://www.ub.uni-leipzig.de/index.php?id=1570 
 [leipzig-prezi]: https://drive.google.com/drive/folders/1Ejx6GFL_SUiFQ5roBHsOv87EL2ZWTjS5
