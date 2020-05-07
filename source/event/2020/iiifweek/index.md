@@ -27,7 +27,9 @@ Interested attendees may also sign up for a workshop on getting started with III
 * Recordings will be sent to registrants following the event, and later posted on the [IIIF YouTube channel](https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA)
 * Attendees are expected to adhere to the [IIIF Code of Conduct](https://iiif.io/event/conduct/)
 * Hashtags: [#IIIF](https://twitter.com/search?q=%23IIIF&src=typd) and [#IIIFWeek](https://twitter.com/search?q=%23IIIFWeek&src=typd)
-* Join the IIIF-Week Slack channel for ongoing questions, comments, and discussion!
+* Join the [IIIF-Week Slack channel](https://iiif.slack.com/archives/C013MFHB20Z) for ongoing questions, comments, and discussion (you'll need [to join the IIIF Slack first](http://bit.ly/iiif-slack), which is open to anyone)!
+
+If you have any questions, please get in touch with us via [events@iiif.io](mailto:events@iiif.io).
 
 ---
 
