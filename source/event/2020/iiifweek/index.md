@@ -18,7 +18,7 @@ IIIF Week sessions are developed for both newcomers and experienced implementers
 
 All event proceedings will be in English unless otherwise indicated, and all sessions will be recorded and made available following the conference.
 
-Interested attendees may also sign up for a workshop on getting started with IIIF the week following the conference. X amount of experience required. Register here: &lt;link>
+Interested attendees may also sign up for a workshop on getting started with IIIF the week following the conference. For further details and registration see the <a href="#iiif-hands-on-workshop">IIIF Hands on workshop</a> section.
 
 
 ## Logistics
@@ -60,6 +60,8 @@ The sessions below are listed in chronological order.
 ## IIIF Hands on workshop
 **June 8th to June 12th**
 
+<p class="register"><a href="https://www.eventbrite.com/e/iiif-online-workshop-tickets-104699503032">Register</a></p>
+
 The week following the online conference there will be a chance to get hands on experience with IIIF and learn the skills to get started. This will be an online course and places will be limited. It will involve daily zoom presentations from tutors, and drop-in help session following the online tutorial. The course will cover:
 
  * Getting started with the Image API 
@@ -67,7 +69,7 @@ The week following the online conference there will be a chance to get hands on 
  * Annotating IIIF resources and setting up an annotation server
  * Introduction to various IIIF tools for scholarship 
 
-Participants will need a laptop on which they can install software and should be able to commit a few per day for the week long course in order to get the most out of it.  
+Participants will need a laptop on which they can install software and should be able to commit a minimum of 2 hours per day for the 5 day course. No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Optional sessions will give those interested the opportunity to tackle more complex tasks. 
 
 
 <script type="text/javascript">
