@@ -118,7 +118,7 @@ function loadEvents() {
                 for (var j = 0; j < days[i].length; j++) {
                     var event = days[i][j];
                     content += '<h3 id="' + text2id(event.summary) + '">' + event.summary + '</h3>';
-                    content += '<b>' + moment(event.start.dateTime).format("hh:mm A") + ' - ' + moment(event.end.dateTime).format("hh:mm A") + '</b>';
+                    content += '<b>' + moment(event.start.dateTime).format("LT") + ' - ' + moment(event.end.dateTime).format("LT") + ' ' + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime()) + '</b>';
 
                     if (event.hasOwnProperty('location') && event.location.length > 0 && event.location.indexOf('register') != -1) {
                         content += '<p class="register"><a href="' + event.location.trim() + '">Register</a></p>'; 
