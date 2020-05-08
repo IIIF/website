@@ -14,7 +14,7 @@ IIIF Week Online is a series of **free** online events introducing IIIF’s capa
 
 While we are saddened by the need to postpone our annual conference, previously scheduled to take place the same week, we recognize this is an opportunity for many to attend who otherwise would not have been able due to budgets, travel restrictions, and other obligations. We look forward to bringing together a wider group of the IIIF community during this virtual event.
 
-IIIF Week sessions are developed for both newcomers and experienced implementers, and include specially scheduled times to allow attendees to form regional community connections in the US, Europe, and Asia. **You may sign up for all events during the week, or just the ones that interest you.**
+IIIF Week sessions are developed for both newcomers and experienced implementers, and include specially scheduled times to allow attendees to form regional community connections in the Americas, Europe, and Asia, and more. **You may sign up for all events during the week, or just the ones that interest you.**
 
 All event proceedings will be in English unless otherwise indicated, and all sessions will be recorded and made available following the conference.
 
