@@ -130,7 +130,7 @@ The [IIIF Software Developers group][devs] continues to work on developing and d
     * BSB also now has [~350 newspapers online via IIIF][bsb-news]
     * BSB has also published a [Mirador plugin for a dynamic physical ruler][bsb-ruler]
 * New implementation at [Heidelberg University][heidelberg]
-* National Library of Wales just released a new website containing [1.2 million Journal images][wales-journals] available as IIIF images, manifests and collections (including sitemaps, IIIF Collections with pointers to EDM metadata, Manifests, and Annotation lists). For technical details, see this [writeup][wales-tech].
+* National Library of Wales just released a new website containing [1.2 million Journal images][wales-journals] available as IIIF images, manifests and collections (including sitemaps, IIIF Collections with pointers to EDM metadata, Manifests, and Annotation lists). For technical details, see this writeup.
 
 ### Innovations & Ongoing Work from Across the IIIF Community
 
@@ -226,7 +226,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [bsb-ruler]: https://github.com/dbmdz/mirador-plugins#physical-document-ruler
 [heidelberg]: http://digi.ub.uni-heidelberg.de/diglit/cpg832/0012
 [wales-journals]: https://journals.library.wales
-[wales-tech]: http://dev.llgc.org.uk/wiki/index.php?title=IIIF_Journals
 [greatest-hits]: https://youtu.be/SOUO-2ecHho
 [hmml]: https://youtu.be/unqMDZq_R2Y
 [trifle]: https://youtu.be/qtwJDN2tFbI
