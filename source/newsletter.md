@@ -62,4 +62,24 @@ layout: sub-page
 </div>
 </form>
 </div>
+
+---
+
+## Newsletter Archives
+
+
+- [IIIF Community Newsletter, Volume 4, Issue 1 (31 Mar 2020)]({{ site.url }}{{ site.baseurl }}/news/2020/03/31/newsletter/)
+- [IIIF Community Newsletter, Volume 3 Issue 4 (18 Dec 2019)]({{ site.url }}{{ site.baseurl }}/news/2019/12/18/newsletter/)
+- [IIIF Community Newsletter, Volume 3 Issue 3 (02 Oct 2019)]({{ site.url }}{{ site.baseurl }}/news/2019/10/02/newsletter/)
+- [IIIF Community Newsletter, Volume 3 Issue 2 (01 Jul 2019)]({{ site.url }}{{ site.baseurl }}/news/2019/07/01/newsletter/)
+- [IIIF Community Newsletter, Volume 3 Issue 1 (04 Apr 2019)]({{ site.url }}{{ site.baseurl }}/news/2019/04/04/newsletter/)
+- [IIIF Community Newsletter, Volume 2 Issue 3 (19 Dec 2018)]({{ site.url }}{{ site.baseurl }}/news/2018/12/19/newsletter/)
+- [IIIF Community Newsletter, Volume 2 Issue 2 (03 Jul 2018)]({{ site.url }}{{ site.baseurl }}/news/2018/07/03/newsletter/)
+- [IIIF Community Newsletter, Volume 2 Issue 1 (13 Nov 2017)]({{ site.url }}{{ site.baseurl }}/news/2017/11/13/newsletter/)
+- [IIIF Community Newsletter, Volume 1 Issue 4 (30 Aug 2017)]({{ site.url }}{{ site.baseurl }}/news/2017/08/30/newsletter/)
+- [IIIF Community Newsletter, Volume 1 Issue 3 (25 May 2017)]({{ site.url }}{{ site.baseurl }}/news/2017/05/25/newsletter/)
+- [IIIF Community Newsletter, Volume 1 Issue 2 (28 Feb 2017)]({{ site.url }}{{ site.baseurl }}/news/2017/02/28/newsletter/)
+- [IIIF Community Newsletter, Volume 1 Issue 1 (15 Nov 2016)]({{ site.url }}{{ site.baseurl }}/news/2016/11/15/newsletter/)
+
+
 </section>
