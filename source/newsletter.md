@@ -12,15 +12,6 @@ Sign up to receive newsletters and announcements from IIIF.
 
 <!-- Begin Mailchimp Signup Form -->
 
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-
-<style type="text/css">
-
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-
 <div id="mc_embed_signup">
 
 <form action="https://iiif.us8.list-manage.com/subscribe/post?u=0c57841c2f33e7c939a5e8659&amp;id=806d94dab9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
