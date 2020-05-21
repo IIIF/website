@@ -49,7 +49,7 @@
   uri: http://c2rmf.fr
   iiifc:
 - name: Chinese University of Hong Kong
-  uri: http://lib.cuhk.edu.hk/
+  uri: https://repository.lib.cuhk.edu.hk/en/IIIF-Guide
   iiifc: 2
 - name: Cogapp
   uri: http://www.cogapp.com
