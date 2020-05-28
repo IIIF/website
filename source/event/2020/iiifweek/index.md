@@ -39,6 +39,7 @@ If you have any questions, please get in touch with us via [events@iiif.io](mail
 
 <script type="text/javascript">
   var timezone = jstz.determine();
+  console.log('Name is ' + timezone.name());
   var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20200601/20200605&amp;title=IIIF%20Week&amp;ctz=';
   var suff = '" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>';
   //var pref = '<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=somecalendaridentifier%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=';
@@ -95,7 +96,7 @@ function loadEvents() {
             'timeMax': '2020-06-07T10:00:00-00:00',
             'showDeleted': false,
             'singleEvents': true,
-            'timeZone': timezone,
+            'timeZone': timezone.name(), // This doesn't convert the timezone
             'orderBy': 'startTime'
         });
     }).then(function (response) {
@@ -105,7 +106,8 @@ function loadEvents() {
                 2: [],
                 3: [],
                 4: [],
-                5: []
+                5: [],
+                6: []
             };
             for (var i = 0; i < response.result.items.length; i++) {
                 var day = moment(response.result.items[i].start.dateTime).day();
@@ -113,23 +115,25 @@ function loadEvents() {
                     days[day].push(response.result.items[i]);
                 }    
             }   
-            var dayString = ['Monday, June 1st', 'Tuesday, June 2nd', 'Wednesday, June 3rd', 'Thursday, June 4th', 'Friday, June 5th'];
+            var dayString = ['Monday, June 1st', 'Tuesday, June 2nd', 'Wednesday, June 3rd', 'Thursday, June 4th', 'Friday, June 5th', 'Saturday, June 6th'];
             var content = '';
-            for (var i = 1; i < 6; i++) {
-                content += '<h2 id="' + text2id(dayString[i - 1].substring(0, dayString[i - 1].indexOf(','))) + '">' + dayString[i - 1] + '</h2>';
-                for (var j = 0; j < days[i].length; j++) {
-                    var event = days[i][j];
-                    content += '<h3 id="' + text2id(event.summary) + '">' + event.summary + '</h3>';
-                    content += '<b>' + moment(event.start.dateTime).format("LT") + ' - ' + moment(event.end.dateTime).format("LT") + ' ' + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime()) + '</b>';
+            for (var i = 1; i < (dayString.length + 1); i++) {
+                if (days[i].length > 0) {
+                    content += '<h2 id="' + text2id(dayString[i - 1].substring(0, dayString[i - 1].indexOf(','))) + '">' + dayString[i - 1] + '</h2>';
+                    for (var j = 0; j < days[i].length; j++) {
+                        var event = days[i][j];
+                        content += '<h3 id="' + text2id(event.summary) + '">' + event.summary + '</h3>';
+                        content += '<b>' + moment(event.start.dateTime).format("LT") + ' - ' + moment(event.end.dateTime).format("LT") + ' ' + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime()) + '</b>';
 
-                    if (event.hasOwnProperty('location') && event.location.length > 0 && event.location.indexOf('register') != -1) {
-                        content += '<p class="register"><a href="' + event.location.trim() + '">Register</a></p>'; 
-                    }    
+                        if (event.hasOwnProperty('location') && event.location.length > 0 && event.location.indexOf('register') != -1) {
+                            content += '<p class="register"><a href="' + event.location.trim() + '">Register</a></p>'; 
+                        }    
 
-                    content += '<p>' + event.description + '</p>';
+                        content += '<p>' + event.description + '</p>';
+                    }
+                    content += '<br/>';
+                    content += '<hr/>';
                 }
-                content += '<br/>';
-                content += '<hr/>';
             }
 
             var div = document.getElementById('schedule');
