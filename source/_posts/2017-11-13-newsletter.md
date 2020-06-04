@@ -257,7 +257,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [ucd-vid]: https://vimeo.com/229253706?ref=tw-share
 [leaflet-ex]:  https://gist.github.com/mejackreed/2724146adfe91233c74120b9056fba06
 [ldn-draft]: https://centerfordigitalhumanities.github.io/inbox-docs/#!/specifications
-[clyfford-case]: https://www.cogapp.com/work/#/clyfford-still-museum-online-collection/
+[clyfford-case]: https://www.cogapp.com/clyfford-still-museum-online-collection
 [kyoto-news]: https://rmda.kulib.kyoto-u.ac.jp/en/news/2017-09-07
 [kyoto]: https://rmda.kulib.kyoto-u.ac.jp/en
 [rosetta]: https://knowledge.exlibrisgroup.com/Rosetta/Training/What's_New_Videos/Rosetta_5-3/IIIF_Image_Viewing
