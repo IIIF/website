@@ -188,7 +188,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 ### Recommended Reading
 
 * Article from My Modern Met about [Getty and YCBA adoption of IIIF][met]
-* Article from Luna Imagin on [IIIF in DAMS][luna]
+* Article from Luna Imagin on IIIF in DAMS
 * Blog from Digirati on how to address challenges when tackling a [wide variety of IIIF content types][challenges]
 * [Memo on Technical Operational Considerations for IIIF in a Sufia/Hyrax app][memo]
 * [Slides and blog on “Text Beyond Annotations at IIIF-Vatican”][text] by Ben Brumfield
@@ -248,7 +248,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [digirati-search]: http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
-[cogapp]: http://www.cogapp.com/iiif
+[cogapp]: http://www.cogapp.com/
 [oclc]: http://www.oclc.org/en/contentdm.html
 [digirati]: https://digirati.com/
 [klokan]: https://www.klokantech.com/
@@ -329,7 +329,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [auto-tag]: http://labs.cogapp.com/iiif-ml/
 [resourcespace]: https://www.resourcespace.com/roadmap
 [met]: http://mymodernmet.com/iiif-getty-yale-art-collections/
-[luna]: http://www.lunaimaging.com/blog/2017/6/5/36-museums-call-for-iiif-adoption
 [challenges]: https://scienceinthemakingblog.wordpress.com/2017/05/23/web-pages-and-viewers-meet-things-with-content/
 [memo]: https://bibwild.wordpress.com/2017/05/11/memo-on-technical-operational-considerations-for-iiif-in-a-sufiahyrax-app/
 [text]: http://content.fromthepage.com/text-beyond-annotations-at-iiif-vatican/
