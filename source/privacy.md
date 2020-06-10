@@ -36,7 +36,7 @@ For further information, visit <https://allaboutcookies.org/>.
 
 ## Online payment information
 
-IIIF uses external services (such as Eventbrite, Stripe or Paypal) for event payment processing, any payment information you submit is collected and used by those companies in accordance with their privacy policies, which can be found at their respective websites. IIIF does not handle your online payment information.
+IIIF uses external services (such as Eventbrite or Paypal) for event payment processing, any payment information you submit is collected and used by those companies in accordance with their privacy policies, which can be found at their respective websites. IIIF does not handle your online payment information.
 
 ## Who will my information be shared with?
 
