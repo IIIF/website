@@ -42,7 +42,7 @@ IIIF uses external services (such as Eventbrite or Paypal) for event payment pro
 
 IIIF will not share your personal information with any third party unless we have your consent or are required by law to do so.
 
-## Google Analytics and Google ReCAPTCHA
+## Google Analytics
 
 This site uses Google analytics, and from time to time IIIF undertakes research associated with site usage. We use this data to help improve the website and the overall user experience. A consequence of this is that Google will use collated information to help them deliver their services, develop new services, measure the effectiveness of advertising, protect against fraud and abuse and personalise content and ads that you see on Google and on their partners’ sites and apps. The details of their privacy policy can be found at <https://policies.google.com/privacy>
 
