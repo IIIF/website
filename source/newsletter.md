@@ -62,7 +62,7 @@ Sign up to receive newsletters and announcements from IIIF.
 <label class="checkbox subfield" for="gdpr_24489"><input type="checkbox" id="gdpr_24489" name="gdpr[24489]" value="Y" class="av-checkbox gdpr"><span>I would like to receive news and announcements from IIIF.</span> </label>
 </fieldset>
 
-<p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
+<p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit <a href="https://iiif.io/privacy/">our website.</a></p>
 
 </div>
 
