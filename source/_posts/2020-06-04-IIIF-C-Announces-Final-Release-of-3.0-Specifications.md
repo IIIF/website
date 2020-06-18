@@ -23,8 +23,6 @@ A critical element of this release is the ability to move beyond static digital 
 
 Other 3.0 improvements include a switch from Open Annotations to the W3C Web Annotations standard and an update to make use of JSON-LD 1.1, two important elements that help keep IIIF compatible with the growing linked data ecosystem.
 
-Examples and highlights of the new 3.0 capabilities are available upon request.
-
 **About IIIF**: IIIF is an open software system that delivers high quality, attributed digital objects online at large scale. IIIF is also the growing international community of people who improve it. The IIIF APIs have been used since 2012 by the community to create compelling software for the display of more than a billion IIIF-compatible images. Institutions making use of the open IIIF standards include world-leading research, national and state libraries, archives, museums, software companies and image repositories.
 
 **About the IIIF Consortium**: The [IIIF Consortium (IIIF-C)](https://iiif.io/community/consortium/) was formed in June 2015 in Oxford, England, to provide steering and sustainability for the IIIF community. The IIIF-C now comprises 58 Members across the globe, committing to support the growth and adoption of IIIF. IIIF-C provides continued support for adoption, experimentation, outreach, and a thriving community of libraries, museums, software firms, scholars, and technologists working with IIIF. To join, visit <https://iiif.io/community/consortium/join/>
