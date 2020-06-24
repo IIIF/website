@@ -59,7 +59,7 @@
 #  name: 
 #  role: 2
 - institution: Europeana
-  name: Antoine Isaac
+  name: Nuno Freire
   role: 2
 - institution: Folger Shakespeare Library
   name: Mike Poston
@@ -192,7 +192,7 @@
   
 #Community representatives
 - institution: University College Dublin
-  name: John Howard 
+  name: Pete Clarke
   role: 4
 - institution: Yale University, EaaSI program
   name: Katherine Thornton  
@@ -200,8 +200,8 @@
 - institution: HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
   name: Julien A. Raemy 
   role: 4
-- institution: Stanford University Libraries
-  name: Drew Winget 
+- institution: Yale University Library
+  name: Trip Kirkpatrick
   role: 4
 - institution: Biblissima - Campus Condorcet - EPHE-PSL
   name: Régis Robineau  

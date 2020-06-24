@@ -36,14 +36,14 @@ kramdown:
 
 image_api:
   latest:
-    major: 2
-    minor: 1
-    patch: 1
+    major: 3
+    minor: 0
+    patch: 0
 presentation_api:
   latest:
-    major: 2
-    minor: 1
-    patch: 1
+    major: 3
+    minor: 0
+    patch: 0
 shared_canvas:
   latest:
     major: 1
