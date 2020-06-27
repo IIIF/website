@@ -32,8 +32,7 @@ The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipa
 
 **Call Connection Information:**
 
-  * Online: [https://stanford.zoom.us/j/][zoom-link]
-  * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 538552143, Participant ID: #
+  * Online: [https://stanford.zoom.us/j/538552143][zoom-link]
 
 [av-user-stories]: https://github.com/IIIF/iiif-av/issues "Audiovisual User Stories"
 [bl-workshop-2016-04]: https://goo.gl/iVXEFD "Use cases and notes from April 2015 workshop at British Library"

@@ -45,14 +45,13 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
 
 **Call Connection Information:**
 
-  * Online: [https://stanford.zoom.us/j/633505839][https://stanford.zoom.us/j/633505839]
-  * Phone: see [international numbers][international-zoom] - Enter Meeting ID:  633505839, Participant ID: #
+  * Online: [https://stanford.zoom.us/j/948530998][zoom-link]
 
   [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
   [museums-slack]: https://iiif.slack.com/messages/museums/details/
   [museums-folder]:https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?usp=sharing
   [slack]: http://bit.ly/iiif-slack
-  [https://stanford.zoom.us/j/633505839]: https://stanford.zoom.us/j/633505839
+  [zoom-link]: https://stanford.zoom.us/j/948530998?pwd=u8KPNHGHxJk
   [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
   [international-zoom]: https://zoom.us/zoomconference
   [iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/
