@@ -36,8 +36,7 @@ The IIIF Newspapers Community Group welcomes participants with an interest in im
 
 **Call Connection Information:**
 
-  * Online: [https://stanford.zoom.us/j/948530998][https://stanford.zoom.us/j/948530998]
-  * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 948530998, Participant ID: #
+  * Online: [https://stanford.zoom.us/j/948530998][zoom-link]
 
 [newspapers-awesome-iiif]: https://github.com/IIIF/awesome-iiif#newspapers "Newspapers on Awesome-IIIF"
 [events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
@@ -47,7 +46,7 @@ The IIIF Newspapers Community Group welcomes participants with an interest in im
 [newspapers-slack]: https://iiif.slack.com/messages/newspapers/details/
 [join-slack]: http://bit.ly/iiif-slack
 [calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[https://stanford.zoom.us/j/948530998]: https://stanford.zoom.us/j/948530998
+[zoom-link]: https://stanford.zoom.us/j/948530998?pwd=u8KPNHGHxJk
 [international-zoom]: https://zoom.us/zoomconference
 
 {% include acronyms.md %}
