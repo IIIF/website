@@ -39,8 +39,7 @@ The IIIF MSS Group seeks to advance aims of the [IIIF­C][iiifc], which are to r
 
 **Call Connection Information:**
 
-  * Online: [https://stanford.zoom.us/j/674108679][https://stanford.zoom.us/j/674108679]
-  * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 674108679, Participant ID: #
+  * Online: [https://stanford.zoom.us/j/674108679][zoom-link]
 
 [ghent]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent/ "IIIF: Access to the World's Images - Ghent 2015"
 [iiifc]: {{ site.url }}{{ site.baseurl }}/community/consortium/ "IIIF Consortium"
@@ -51,7 +50,7 @@ The IIIF MSS Group seeks to advance aims of the [IIIF­C][iiifc], which are to r
 [manuscripts-slack]: https://iiif.slack.com/messages/manuscripts/details/
 [join-slack]: http://bit.ly/iiif-slack
 [calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[https://stanford.zoom.us/j/674108679]: https://stanford.zoom.us/j/674108679
+[zoom-link]: https://stanford.zoom.us/j/674108679?pwd=V3ZPbFgzQnlQTHJXWnZqME02MmViZz09
 [international-zoom]: https://zoom.us/zoomconference
 
 {% include acronyms.md %}

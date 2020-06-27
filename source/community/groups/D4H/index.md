@@ -47,13 +47,11 @@ IIIF Discovery for Users Community Group Folder ([https://drive.google.com/drive
 
 **Call Connection Information:**
 
- * Online: [https://stanford.zoom.us/j/843027933][https://stanford.zoom.us/j/843027933]
- * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 
-843027933, Participant ID: #
+ * Online: [https://stanford.zoom.us/j/][zoom-link]
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
-[https://stanford.zoom.us/j/843027933]: https://stanford.zoom.us/j/843027933
+[zoom-link]: https://stanford.zoom.us/j/91556981560?pwd=SGFaVnNxYnE2dGd4bjYwT05Fb2h3QT09
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [discovery-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery "IIIF Discovery Technical Specification Group"

@@ -32,7 +32,7 @@ The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipa
 
 **Call Connection Information:**
 
-  * Online: [https://stanford.zoom.us/j/538552143][https://stanford.zoom.us/j/538552143]
+  * Online: [https://stanford.zoom.us/j/][zoom-link]
   * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 538552143, Participant ID: #
 
 [av-user-stories]: https://github.com/IIIF/iiif-av/issues "Audiovisual User Stories"
@@ -43,7 +43,7 @@ The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipa
 [av-slack]: https://iiif.slack.com/messages/av/details/
 [av-folder]: https://drive.google.com/drive/folders/0B8SS5OUXWs4GZ0ZfbEhIclhzb0k?usp=sharing
 [slack]: http://bit.ly/iiif-slack
-[https://stanford.zoom.us/j/538552143]: https://stanford.zoom.us/j/538552143
+[zoom-link]: https://stanford.zoom.us/j/538552143?pwd=u8KPNHGHxJk
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [design-principles]: {{ page.webprefix }}/api/annex/notes/design_patterns/

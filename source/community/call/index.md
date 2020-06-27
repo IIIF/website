@@ -12,15 +12,14 @@ The IIIF community calls alternate between a technical and community focus, prov
   * **Regular Call Schedule:** Every other week on Wednesdays at 12:00pm Eastern - see [IIIF Community Calendar][iiif-calendar] for dates
   * **Communication Channels:** Meeting agenda and reminders are announced on the [IIIF-Discuss][iiif-discuss] email list
   * **Call Notes:** [Community Call Notes folder][comm-notes]
-  * **Call Connection Information:** Connect Online at [https://stanford.zoom.us/j/356715389][https://stanford.zoom.us/j/356715389] or by Phone: see [international numbers][international-zoom] - Enter Meeting ID: 356715389, and Participant ID: #
+  * **Call Connection Information:** Connect Online at [https://stanford.zoom.us/j/95368086973][zoom_link]
 
 
 
-  [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
-  [comm-notes]: https://drive.google.com/drive/u/0/folders/0B9EeoRu2zWerNkktNVp5bDhleE0
-  [https://stanford.zoom.us/j/356715389]: https://stanford.zoom.us/j/356715389
-  [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
-  [international-zoom]: https://zoom.us/zoomconference
-
+[iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
+[comm-notes]: https://drive.google.com/drive/u/0/folders/0B9EeoRu2zWerNkktNVp5bDhleE0
+[zoom_link]: https://stanford.zoom.us/j/95368086973?pwd=b0ZqUnZ3aVp6bm5vemhCMEpJS2tMUT09
+[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[international-zoom]: https://zoom.us/zoomconference
 
 {% include acronyms.md %}

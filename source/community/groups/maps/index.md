@@ -43,13 +43,12 @@ IIIF Maps Group Folder ([https://drive.google.com/drive/folders/12XGcqb1qQp64C9B
 
 **Call Connection Information:**
 
- * Online: [https://stanford.zoom.us/j/182269022](https://stanford.zoom.us/j/182269022)
- * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 
-182269022, Participant ID: #
+ * Online: [https://stanford.zoom.us/j/99449304468][zoom-link]
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
+[zoom-link]: https://stanford.zoom.us/j/99449304468?pwd=UUNzMmFtV2dXSWs2MjVicnplS29LUT09
 
 {% include acronyms.md %}

@@ -39,7 +39,6 @@ To advance the growth and adoption of interoperable software with IIIF, the Soft
 **Call Connection Information:**
 
   * Online: [https://stanford.zoom.us/j/641742844][zoom]
-  * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 641742844, Participant ID: #
 
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
