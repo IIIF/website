@@ -31,6 +31,7 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
 
   * Rachel Di Cresce (University of Toronto)
   * Claire Knowles (Leeds University Library)
+  * Dawn Childress (University of California, Los Angeles)
 
 **Communication Channels:**
 
