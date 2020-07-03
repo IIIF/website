@@ -36,11 +36,12 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
 
-    - name: Test site
+    - name: Install dependencies
       run: |
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
-    - run: bundle exec rake ci
+    - name: Test site
+      run: bundle exec rake ci
 
     # Build jekyll site
     - name: Build Jekyll
