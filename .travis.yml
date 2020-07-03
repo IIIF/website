@@ -10,6 +10,7 @@ before_install:
 
 #Rake  hidden in background by travis
 install:
+  - bundle config path vendor/bundle
   - bundle install
 
 notifications:
