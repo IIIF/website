@@ -37,7 +37,9 @@ jobs:
           ${{ runner.os }}-gems-
 
     - name: Test site
-      run: bundle install
+      run: |
+        bundle config path vendor/bundle
+        bundle install --jobs 4 --retry 3
     - run: rake ci
 
     # Build jekyll site
@@ -72,4 +74,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         status: ${{ job.status }}
         deployment_id: ${{ steps.deployment.outputs.deployment_id }}
-        env_url: "https://preview.iiif.io/cookbook/${{ env.BRANCH_NAME}}/index.html"
+        env_url: "https://preview.iiif.io/root/${{ env.BRANCH_NAME}}/index.html"
