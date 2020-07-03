@@ -1,11 +1,25 @@
-markdown: kramdown
 source: source
-safe: false
 permalink: /news/:year/:month/:day/:title/
 
+title: International Image Interoperability Framework
+email: admin@iiif.io
+description: >- # this means to ignore newlines until "baseurl:"
+  IIIF is a software system delivering high quality, attributed digital objects 
+  online at large scale. IIIF is also the growing international community of 
+  people who improve it.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: iiif_io
+github_username:  IIIF
+header_pages:
+  - using_iiif/index.md
+  - community/index.md
+  - demos/index.md
+  - events/index.md
+
 plugins:
-  - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-datapage-generator
 
 page_gen-dirs: false
 page_gen:
@@ -27,8 +41,7 @@ kramdown:
   input: GFM
   parse_block_html: true
   toc_levels: 2..4
-  enable_coderay: true
-  syntax_highlighter: rouge
+  #syntax_highlighter: rouge
 
   syntax_highlighter_opts:
     wrap: div

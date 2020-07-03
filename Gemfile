@@ -1,14 +1,27 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '>= 3.8.4'
-gem 'kramdown', '> 1.16'
-gem 'jekyll-sitemap', '> 0.10.0'
-gem 'jekyll-redirect-from', '> 0.10.0'
-# gem 'rouge', '2.0.0' # pinned to keep keys a different color.
-gem 'rouge', '2.0.5' # pinned to keep keys a different color.
-gem 'rake'
+gem "jekyll", "~> 4.1.1"
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
+gem "minima", "~> 2.5"
+
+group :jekyll_plugins do
+    gem 'jekyll-redirect-from'
+    gem 'jekyll-datapage-generator'
+end
 
 group :test do
-  gem 'rspec'
   gem 'html-proofer'
 end
+
+# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
+# and associated library.
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+end
+
+# Performance-booster for watching directories on Windows
+gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+
+

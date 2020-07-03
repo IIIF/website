@@ -5,7 +5,7 @@ tags: [event ]
 page: overview
 ---
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <!-- <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script> -->
 <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
@@ -37,7 +37,7 @@ If you have any questions, please get in touch with us via [events@iiif.io](mail
 
 <div id="calendar-container"></div>
 
-<script type="text/javascript">
+<script>
   var timezone = jstz.determine();
   console.log('Name is ' + timezone.name());
   var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20200601/20200605&amp;title=IIIF%20Week&amp;ctz=';
@@ -73,7 +73,7 @@ The week following the online conference there will be a chance to get hands on 
 Participants will need a laptop on which they can install software and should be able to commit a minimum of 2 hours per day for the 5 day course. No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Optional sessions will give those interested the opportunity to tackle more complex tasks. 
 
 
-<script type="text/javascript">
+<script>
 var timezone = jstz.determine();
 var apiKey = 'AIzaSyBIB97V49ihYsXedQ0Ziw6s3SzcGf5G8z0';
 
@@ -150,7 +150,7 @@ function loadClient() {
 
 </script>
 
-<script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" onreadystatechange="if (this.readyState === 'complete') this.onload()"></script>
+<script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()"></script>
 
 
 

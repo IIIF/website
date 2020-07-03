@@ -18,7 +18,7 @@ MODERATORS = {
       "Tom Crane",
       "Rob Sanderson",
       "Mike Appleby"
-  ].uniq, # .shuffle! to shuffle
+  ].uniq.shuffle!, # .shuffle! to shuffle
     community: [
       "Ben Albritton",
       "Tom Cramer",
@@ -27,22 +27,21 @@ MODERATORS = {
       "Glen Robson",
       "Stu Snydman",
       "Julien A. Raemy",
-      "Karen Estlund",
-      "Drew Winget",
       "Matt McGrattan",
       "Rashmi Singhal",
-      "Jason Ronallo"
-    ].uniq
+      "Jason Ronallo",
+      "Josh Hadro"
+    ].uniq.shuffle!
 }
 
 # Make sure this is the date of a call or risk being off by a week.
-PERIOD_START = Date.new(2018,07,18)
-PERIOD_END = Date.new(2019,03,13)
+PERIOD_START = Date.new(2019,12,04)
+PERIOD_END = Date.new(2020,07,29)
 
 class TopicTracker
   def initialize
-    @next = :community # this will be first
-    @now = :technical 
+    @next = :technical # this will be first
+    @now = :community 
   end
 
   def next
@@ -70,7 +69,7 @@ calendar = RiCal.Calendar do |cal|
     topic = topic_tracker.next
     m = next_moderator(topic)
     labl = "IIIF Bi-Weekly Community Call - #{topic.to_s}, #{m} moderates"
-    description = "The IIIF community calls alternate between a technical and community focus, providing a forum for new and existing participants to share their work, learn about activities across the community, and discuss IIIF technology and future directions."
+    description = "The IIIF community calls alternate between a technical and community focus, providing a forum for new and existing participants to share their work, learn about activities across the community, and discuss IIIF technology and future directions. Zoom link: https://stanford.zoom.us/j/356715389"
 
     puts "#{date}: #{m} (#{topic.to_s})"
 

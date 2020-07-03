@@ -5,3 +5,4 @@ scripts/factory.pyc
 .ruby-version
 .DS_Store
 *.swp
+.jekyll-cache
