@@ -40,7 +40,7 @@ jobs:
       run: |
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
-    - run: rake ci
+    - run: bundle exec rake ci
 
     # Build jekyll site
     - name: Build Jekyll
