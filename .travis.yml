@@ -12,6 +12,7 @@ cache:
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
+#Rake  hidden in background by travis
 install:
   - bundle install
 
