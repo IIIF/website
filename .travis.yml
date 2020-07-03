@@ -3,11 +3,7 @@ language: ruby
 cache: bundler
 rvm:
   - 2.7.1
-cache:
-  bundler: true
-  directories:
-  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
-  - $HOME/.local
+cache: bundler
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
