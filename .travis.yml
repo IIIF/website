@@ -1,30 +1,21 @@
-sudo: required
-dist: trusty
-
-before_install:
-  - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - npm install -g grunt-cli
-
-install:
-  - bundle install
-  - bundle info rspec
-  - npm install grunt grunt-html --save-dev
-  - pip install --user awscli
-  - chmod 755 $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh && export iiifsite=root && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
-
-
 # environment
 language: ruby
+cache: bundler
 rvm:
   - 2.7.1
-jdk:
-  - oraclejdk8
-
 cache:
   bundler: true
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
   - $HOME/.local
+
+before_install:
+  - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+install:
+  - bundle install
+  - pip install --user awscli
+  - chmod 755 $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh && export iiifsite=root && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
 
 before_deploy: if [[ ${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH} != master ]]; then
   bundle exec jekyll clean && bundle exec jekyll build --baseurl /root/${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH};
