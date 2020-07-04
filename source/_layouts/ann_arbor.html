@@ -1,57 +1,47 @@
 ---
+layout: default
 ---
-  {% include doctype.html %}
-  {% include spec-head.html %}
-  <body>
-    {% include chromeframe.html %}
-    {% include nav.html %}
-    {% include ann_arbor-header.html %}
-    <div class="sub-pages-container">
-      <div class="{{ page.id }} clearfix">
-        <section class="washington-links">
-            <nav class="washington-nav">
-            <ul>
-                {% if page.page contains 'overview' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/">Overview / Logistics</a></li>
-                {% if page.page contains 'overview' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/showcase">Showcase</a></li>
-                {% if page.page contains 'showcase' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/workingmeeting/">Working Meeting</a></li>
-                {% if page.page contains 'workingmeeting' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %} 
-            </ul>
-        </nav>
-        </section>
-        <article>
-          {% include sub-page_header.html %}
-          {% for word in site.data.rfc_words %}
-            {% assign upper = word | prepend: '<em>' | append: '</em>' %}
-            {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
-            {% assign content = content | replace: upper, lower %}
-          {% endfor %}
-          <div class="specbody">
-          {{ content }}
-          </div>
-        </article>
+<div class="sub-pages-container">
+  <div class="{{ page.id }} clearfix">
+    <section class="washington-links">
+        <nav class="washington-nav">
+        <ul>
+            {% if page.page contains 'overview' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/">Overview / Logistics</a></li>
+            {% if page.page contains 'overview' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/showcase">Showcase</a></li>
+            {% if page.page contains 'showcase' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/workingmeeting/">Working Meeting</a></li>
+            {% if page.page contains 'workingmeeting' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %} 
+        </ul>
+    </nav>
+    </section>
+    <article>
+      {% include sub-page_header.html %}
+      {% for word in site.data.rfc_words %}
+        {% assign upper = word | prepend: '<em>' | append: '</em>' %}
+        {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
+        {% assign content = content | replace: upper, lower %}
+      {% endfor %}
+      <div class="specbody">
+      {{ content }}
       </div>
-    </div>
-    {% include footer.html %}
-    {% if page.id == 'main' %}{%  include interactive_image_js.html %}{% endif %}
-    {% include ga.html %}
-  </body>
-</html>
+    </article>
+  </div>
+</div>

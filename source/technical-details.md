@@ -1,5 +1,5 @@
 ---
-title: Technical Details
+title: Using IIIF
 title_override: For Implementers - International Image Interoperability Framework™
 id: technical-details
 layout: sub-page

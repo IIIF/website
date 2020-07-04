@@ -1,7 +1,7 @@
 ---
 title: "IIIF Events"
 id: events
-layout: spec
+layout: home
 tags: [events ]
 cssversion: 2
 ---

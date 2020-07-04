@@ -1,50 +1,40 @@
 ---
 title: 2018 Washington conference submission
 title_override: 2018 Washington conference submission
+layout: default
 ---
-  {% include doctype.html %}
-  {% include spec-head.html %}
-  <body>
-    {% include chromeframe.html %}
-    {% include nav.html %}
-    {% include washington-header.html %}
-    <div class="sub-pages-container">
-      <div class="{{ page.id }} clearfix">
-        <article>
-          {% include sub-page_header.html %}
-          {% for word in site.data.rfc_words %}
-            {% assign upper = word | prepend: '<em>' | append: '</em>' %}
-            {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
-            {% assign content = content | replace: upper, lower %}
-          {% endfor %}
-          <div class="specbody">
-              Back to <a href="../">program</a>.
-              <h1>{{page.submission_title}}</h1>
-                  <p>
-                  {% for author in page.authors %}
-                          {% if author.web_page != '' %}<a href="{{author.web_page}}"><b>{{ author.firstname }} {{ author.lastname}}</b></a> - {{ author.organization }} ({{ author.country }}){% else %}<b>{{ author.firstname }} {{ author.lastname}}</b> - {{ author.organization }} ({{ author.country }}){% endif %}{% if forloop.last == false %}, {% endif %}
-                  {% endfor %}
-                  </p>
-              <p><b>Abstract: </b>{{page.abstract | replace: '&', '&amp;'}}</p>
-              <p><b>Presentation type: </b>{{page.type}}</p>
-              <p><b>Topics: </b></p>
-                  <ul>
-                  {% for topic in page.topic %}
-                    <li>{{ topic }}{% if forloop.last == false %}, {% endif %}</li>
-                  {% endfor %}
+<div class="sub-pages-container">
+  <div class="{{ page.id }} clearfix">
+    <article>
+      {% include sub-page_header.html %}
+      {% for word in site.data.rfc_words %}
+        {% assign upper = word | prepend: '<em>' | append: '</em>' %}
+        {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
+        {% assign content = content | replace: upper, lower %}
+      {% endfor %}
+      <div class="specbody">
+          Back to <a href="../">program</a>.
+          <h1>{{page.submission_title}}</h1>
+              <p>
+              {% for author in page.authors %}
+                      {% if author.web_page != '' %}<a href="{{author.web_page}}"><b>{{ author.firstname }} {{ author.lastname}}</b></a> - {{ author.organization }} ({{ author.country }}){% else %}<b>{{ author.firstname }} {{ author.lastname}}</b> - {{ author.organization }} ({{ author.country }}){% endif %}{% if forloop.last == false %}, {% endif %}
+              {% endfor %}
+              </p>
+          <p><b>Abstract: </b>{{page.abstract | replace: '&', '&amp;'}}</p>
+          <p><b>Presentation type: </b>{{page.type}}</p>
+          <p><b>Topics: </b></p>
+              <ul>
+              {% for topic in page.topic %}
+                <li>{{ topic }}{% if forloop.last == false %}, {% endif %}</li>
+              {% endfor %}
+          </ul>
+          <p><b>Keywords: </b></p>
+              <ul>
+              {% for keyword in page.keywords%}
+                <li>{{ keyword }}{% if forloop.last == false %}, {% endif %}</li>
+              {% endfor %}
               </ul>
-              <p><b>Keywords: </b></p>
-                  <ul>
-                  {% for keyword in page.keywords%}
-                    <li>{{ keyword }}{% if forloop.last == false %}, {% endif %}</li>
-                  {% endfor %}
-                  </ul>
-          </div>
-        </article>
       </div>
-    </div>
-    {% include footer.html %}
-    {% if page.id == 'main' %}{%  include interactive_image_js.html %}{% endif %}
-    {% include ga.html %}
-  </body>
-</html>
+    </article>
+  </div>
+</div>

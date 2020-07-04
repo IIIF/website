@@ -1,70 +1,60 @@
 ---
+layout: default
 ---
-  {% include doctype.html %}
-  {% include spec-head.html %}
-  <body>
-    {% include chromeframe.html %}
-    {% include nav.html %}
-    {% include washington-header.html %}
-    <div class="sub-pages-container">
-      <div class="{{ page.id }} clearfix">
-        <section class="washington-links">
-            <nav class="washington-nav">
-            <ul>
-                {% if page.page contains 'overview' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/">Overview / Logistics</a></li>
-                {% if page.page contains 'monday' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops/">Monday - pre-conference Workshops</a></li>
-                {% if page.page contains 'tuesday' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/tuesday/">Tuesday - Showcase</a></li>
-                {% if page.page contains 'wednesday' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/wednesday/">Wednesday - Conference</a></li>
-                {% if page.page contains 'thursday' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/thursday/">Thursday - Conference</a></li>
-                {% if page.page contains 'friday' %}
-                    {% assign class = 'is-selected' %}
-                {% else %}
-                    {% assign class = '' %}
-                {% endif %}
-                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/friday/">Friday - Conference</a></li>
-            </ul>
-        </nav>
-        </section>
-        <article>
-          {% include sub-page_header.html %}
-          {% for word in site.data.rfc_words %}
-            {% assign upper = word | prepend: '<em>' | append: '</em>' %}
-            {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
-            {% assign content = content | replace: upper, lower %}
-          {% endfor %}
-          <div class="specbody">
-          {{ content }}
-          </div>
-        </article>
+<div class="sub-pages-container">
+  <div class="{{ page.id }} clearfix">
+    <section class="washington-links">
+        <nav class="washington-nav">
+        <ul>
+            {% if page.page contains 'overview' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/">Overview / Logistics</a></li>
+            {% if page.page contains 'monday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops/">Monday - pre-conference Workshops</a></li>
+            {% if page.page contains 'tuesday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/tuesday/">Tuesday - Showcase</a></li>
+            {% if page.page contains 'wednesday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/wednesday/">Wednesday - Conference</a></li>
+            {% if page.page contains 'thursday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/thursday/">Thursday - Conference</a></li>
+            {% if page.page contains 'friday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/friday/">Friday - Conference</a></li>
+        </ul>
+    </nav>
+    </section>
+    <article>
+      {% include sub-page_header.html %}
+      {% for word in site.data.rfc_words %}
+        {% assign upper = word | prepend: '<em>' | append: '</em>' %}
+        {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
+        {% assign content = content | replace: upper, lower %}
+      {% endfor %}
+      <div class="specbody">
+      {{ content }}
       </div>
-    </div>
-    {% include footer.html %}
-    {% if page.id == 'main' %}{%  include interactive_image_js.html %}{% endif %}
-    {% include ga.html %}
-  </body>
-</html>
+    </article>
+  </div>
+</div>
