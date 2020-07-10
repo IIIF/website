@@ -35,16 +35,19 @@ Why embrace the IIIF Consortium?
 
 ## Benefits of Full Membership
 
+- Discounts on training and workshops
+- Institution-wide special rates for IIIF Conference registration
 - Representation on the [IIIF Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/trc/) which guides technical development of IIIF specs
 - Eligibility to serve on the Executive Committee and Operating Committee, which provide IIIF governance
-- Institution-wide special rates for IIIF Conference registration
 - Priority attendance at IIIF Working meetings and other events
-- Priority technical advice
+- Priority technical advice and consulting
 
 ### Benefits of Associate Membership
 
-- Ability to nominate a representative to serve on the [IIIF Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/trc/) which guides technical development of IIIF specs (a number up to half the total number of associate member institutions (rounding up) may be elected to serve on the TRC)
+- Discounts on training and workshops
 - Priority attendance at IIIF Working meetings and other events
+- Ability to nominate a representative to serve on the [IIIF Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/trc/) which guides technical development of IIIF specs (a number up to half the total number of associate member institutions (rounding up) may be elected to serve on the TRC)
+
 
 To join the IIIF Consortium, send an email to [admin@iiif.io][admin].
 
