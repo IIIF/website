@@ -43,7 +43,7 @@ Why embrace the IIIF Consortium?
 - Priority attendance at IIIF Working meetings and other events
 - Priority technical advice and consulting
 
-### Benefits of Associate Membership - $2,500 annual sustaining contrbution
+### Associate Membership - $2,500 annual sustaining contrbution
 
 - Discounts on training and workshops
 - Priority attendance at IIIF Working meetings and other events
