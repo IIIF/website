@@ -32,8 +32,9 @@ Why embrace the IIIF Consortium?
 - Reap the benefits of driving development and adoption of an open, international standard
 - Get access to a peer community of like-minded and forward-thinking institutions
 
+## Benefits
 
-## Benefits of Full Membership
+### Full Membership - $10,000 annual sustaining contrbution
 
 - Discounts on training and workshops
 - Institution-wide special rates for IIIF Conference registration
@@ -42,7 +43,7 @@ Why embrace the IIIF Consortium?
 - Priority attendance at IIIF Working meetings and other events
 - Priority technical advice and consulting
 
-### Benefits of Associate Membership
+### Benefits of Associate Membership - $2,500 annual sustaining contrbution
 
 - Discounts on training and workshops
 - Priority attendance at IIIF Working meetings and other events
