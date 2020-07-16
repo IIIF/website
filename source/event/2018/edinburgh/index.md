@@ -47,7 +47,7 @@ General booking sites:
  * [https://www.booking.com](https://www.booking.com)
  * https://www.trivago.co.uk
  * Hotel review site: [https://www.tripadvisor.co.uk/](https://www.tripadvisor.co.uk/)
- * University Accommodation: [https://www.edinburghfirst.co.uk/accommodation/](https://www.edinburghfirst.co.uk/)
+ * University Accommodation: [https://www.edinburghfirst.co.uk/](https://www.edinburghfirst.co.uk/)
 
 ## Weather in Edinburgh in December
 December in Edinburgh means long nights as it will be getting dark early, about 4:00pm, the average maximum and minimum temperatures in December are 7C and 1C, there is a possibility of rain. https://www.holiday-weather.com/edinburgh/averages/ . Pack layers and a raincoat, umbrellas are recommended although Edinburgh is a windy city, it is likely to be frosty in the mornings, but snow in December is rare. Hats, scarves and gloves can easily be purchased in Edinburgh if needed.

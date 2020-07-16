@@ -31,6 +31,7 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
 
   * Rachel Di Cresce (University of Toronto)
   * Claire Knowles (Leeds University Library)
+  * Dawn Childress (University of California, Los Angeles)
 
 **Communication Channels:**
 
@@ -44,8 +45,7 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
 
 **Call Connection Information:**
 
-  * Online: [https://stanford.zoom.us/j/516508535][https://stanford.zoom.us/j/516508535]
-  * Phone: see [international numbers][international-zoom] - Enter Meeting ID:  516-508-535, Participant ID: #
+  * Online: [https://stanford.zoom.us/j/97934431714][zoom-link]
 
   [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
   [outreach-slack]: https://iiif.slack.com/messages/outreach/details
@@ -53,7 +53,7 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
   [slack]: http://bit.ly/iiif-slack
   [iiif-website]: {{ site.url }}{{ site.baseurl }}/
   [iiif-translation]: https://docs.google.com/document/d/1kfFp1Yg68RdMameghAAdg4DyjqzI0Wk64dboQGsHqtw
-  [https://stanford.zoom.us/j/516508535]: https://stanford.zoom.us/j/516508535
+  [zoom-link]:  https://stanford.zoom.us/j/97934431714?pwd=UFBkUGZDaHZqaDcvK2ZsVE1MZys5UT09
   [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
   [international-zoom]: https://zoom.us/zoomconference
   [iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/

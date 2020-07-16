@@ -23,36 +23,28 @@ In April of 2018, the IIIF Consortium ratified a document titled ["Next Steps fo
  * IIIF-C Technical Coordinator, Glen Robson - <glen.robson@iiif.io>
  * IIIF-C Community and Events Coordinator, Meg O'Hearn - <meg.ohearn@iiif.io>
 
-## Full Founding Members
+## Full Members
 
+\* indicates Founding Member of the IIIF Consortium
 <ul>
-{% for i in site.data.institutions %}
+  {% for i in site.data.institutions %}
     {% if i.iiifc < 3 %}
-  <li>
+   <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
         {{ i.name }}
-      {% if i.uri %}</a>{% endif %}
-  </li>
-    {% endif %}
-{% endfor %}
-</ul>
-
-## Additional Full Members
-
-<ul>
-{% for i in site.data.institutions %}
+      {% if i.uri %}</a>*{% endif %} 
+  </li>{% endif %}
     {% if i.iiifc == 3 %}
-  <li>
+   <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
         {{ i.name }}
-      {% if i.uri %}</a>{% endif %}
-  </li>
-    {% endif %}
-{% endfor %}
+      {% if i.uri %}</a>{% endif %} 
+  </li>{% endif %}
+  {% endfor %}
 </ul>
+
 
 ## Associate Members
-
 
 <ul>
 {% for i in site.data.institutions %}
@@ -65,6 +57,7 @@ In April of 2018, the IIIF Consortium ratified a document titled ["Next Steps fo
     {% endif %}
 {% endfor %}
 </ul>
+
 
 [join]: {{ site.url }}{{ site.baseurl }}/community/consortium/join/
 [admin]: mailto:admin@iiif.io

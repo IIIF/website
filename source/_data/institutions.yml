@@ -111,6 +111,9 @@
 - name: Hill Museum & Manuscript Library (HMML)
   uri: https://www.vhmml.org/
   iiifc:
+- name: The Huntington Library, Art Museum, and Botanical Gardens
+  uri: https://www.huntington.org/
+  iiifc: 4
 - name: Huygens ING (KNAW)
   uri: https://www.huygens.knaw.nl/
 - name: Indiana University
@@ -302,7 +305,7 @@
   iiifc: 2
 - name: University of Oklahoma
   uri: https://www.ou.edu/
-  iiifc: 2
+  iiifc: 
 - name: University of Oxford (Bodleian Library)
   uri: http://www.bodleian.ox.ac.uk
   iiifc: 1

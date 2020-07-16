@@ -33,7 +33,7 @@ If successful, the work will enable the collaborative development of global or t
 
 **Call Connection Information:**
 
-  * Online: [https://stanford.zoom.us/j/829945399][https://stanford.zoom.us/j/829945399]
+  * Online: [https://stanford.zoom.us/j/829945399][zoom-link]
   * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 829945399, Participant ID: #
 
 [charter]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/charter
@@ -42,7 +42,7 @@ If successful, the work will enable the collaborative development of global or t
 [discovery-slack]: https://iiif.slack.com/messages/discovery/details/
 [discovery-folder]: https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU
 [slack]: http://bit.ly/iiif-slack
-[https://stanford.zoom.us/j/829945399]: https://stanford.zoom.us/j/829945399
+[zoom-link]: https://stanford.zoom.us/j/829945399?pwd=u8KPNHGHxJk
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 

@@ -43,13 +43,12 @@ By participating in the IIIF Archives Community Group, you will help set best pr
 
 **Call Connection Information:**
 
- * Online: [https://stanford.zoom.us/j/517976218][https://stanford.zoom.us/j/517976218]
- * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 517976218, Participant ID: #
+ * Online: [https://stanford.zoom.us/j/97950308605][zoom-link]
 
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
-[https://stanford.zoom.us/j/517976218]: https://stanford.zoom.us/j/517976218
+[zoom-link]: https://stanford.zoom.us/j/97950308605?pwd=MUl6dDFqSkhOWkY5b2FjalhSVHI5Zz09
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [archives-cg-folder]: https://drive.google.com/open?id=1-HM9O26iBzMcCpC1zELcOlrsaC3ty4En

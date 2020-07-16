@@ -157,9 +157,6 @@
 - institution: University of Notre Dame
   name: Jon Hartzler
   role: 2
-#- institution: University of Oklahoma
-#  name: 
-#  role: 2
 - institution: University of Oxford (Bodleian Library)
   name: Andrew Hankinson
   role: 2
@@ -197,7 +194,7 @@
 - institution: Yale University, EaaSI program
   name: Katherine Thornton  
   role: 4
-- institution: HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
+- institution: Swiss Art Research Infrastructure (SARI), University of Zurich
   name: Julien A. Raemy 
   role: 4
 - institution: Yale University Library

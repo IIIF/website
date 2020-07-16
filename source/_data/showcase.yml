@@ -97,7 +97,7 @@
     Turn scans into maps. Georeferencer is an online tool that assigns
     geographical location to any IIIF image.
   url: https://showcase.iiif.io/showcase/georeferencer/
-
+  
 - name: Yale Center for British Art
   id: ycba
   type: site
