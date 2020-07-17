@@ -1,0 +1,69 @@
+date,title,iiif_presence,location,attending,notes,url,start_date,end_date
+"July 20, 2020", IIIF Showcase and best practice,,"National Gallery, London",,,,2020-07-20,2020-07-20
+"November 05, 2020", Digitalisate interoperabel ins Netz! IIIF Outreach auf der MUTEC 2020,,"Leipzig, Germany",,,"http://bit.ly/mutec2020iiif-en",2020-11-05, 2020-11-05
+"June 1-5, 2020",IIIF Week,IIIF Focus,Online,Everyone! international,"Events spread out over a week, in lieu of annual conference",https://iiif.io/event/2020/iiifweek/,2020-06-01,2020-06-05
+"February 6-7, 2020",IIIF + Maps,IIIF + Maps focus,"Palo Alto, California, US",Jack Reed,Colocated with Geo4LibCamp which attendees are also welcome to attend.,https://geo4libcamp.org/iiif%2Bmaps_2020/,2020-02-06,2020-02-07
+"January 23, 2020",Mieux diffuser et valoriser ses images sur le Web grâce aux standards IIIF,1 IIIF presentation,"Tours, France",Régis Robineau,"2-hours presentation in a research institute, with video broadcast in two other institutions in Poitiers and Orléans",https://www.msh-vdl.fr/actualite/presentation-mieux-diffuser-et-valoriser-ses-images-sur-le-web-grace-aux-standards-iiif/,,
+"March 24, 2020",VRA Conference Workshops,Workshop,"Baltimore, MD","Piotr Adamcyk, Jeff Mixter",,https://vra2020.sched.com/event/VigI/full-iiif-in-2020-what-you-need-to-know-to-join-the-party-workshop,,
+"March 30-31, 2020",CNI Spring 2020 Membership Meeting,Project briefings; opening plenary by IIIF Spec Editor Rob Sanderson,"San Diego, California, US",Rob Sanderson,,https://www.cni.org/events/membership-meetings/upcoming-meeting/spring-2020,,
+"March 31-April 4, 2020",MuseWeb,"Pre-conference workshop, how-to session","Los Angeles, US","Andy Cummins, Neil Hawkins (Cogapp)",Session links: Hands-on IIIF workshop and IIIF at Scale,https://mw20.museweb.net/,,
+"April 30,2020",IIIF in Ghent -- POSTPONED,IIIF focus,"Ghent, Belgium","Dries Moreels, Glen Robson",Mixed Dutch and English languages,,,
+"June 1-4, 2020",IIIF Annual Conference -- POSTPONED,IIIF focus,"Boston, MA","Everyone! Annual, international",,https://iiif.io/event/2020/boston/,,
+"December 4-6, 2019",No Time to Wait 4,"1 IIIF presentation
+1 IIIF-related lightning talk","Budapest, Hungary",Andy Irving,Note: remote attendance supported,https://mediaarea.net/NoTimeToWait4,,
+"November 27, 2019",Europeana IIIF event,Pre-conference to Europeana AGM,"Lisbon, Portugal",Glen Robson,,https://iiif.io/event/2019/lisbon/,,
+"November 4-7, 2019",IIIF Working Meeting,IIIF WG meeting,"Ann Arbor, Michigan, US",Working meeting open to all active IIIF participants,,https://iiif.io/event/2019/ann_arbor/,,
+"November 5-8, 2019",MCN 2019 (Museum Computer Network),IIIF: Collaboration and Community Built Technological Innovations,"San Diego, California, US","Rob Lancefield, David Newbury, many more TBD",Call for proposals is open through April 30.,https://conference.mcn.edu/2019/about.cfm,,
+"September 27, 2019",UKZN Special Collections Conference,IIIF Workshop,South Africa,"Glen Robson, David Larsen",,http://heritage.africamediaonline.com/heritage-digital-campus-2019/,,
+"September 25, 2019",9th Medici network meetings,IIIF Workshop,"Nantes, France",Régis Robineau,“Public scientific publishing professions at the heart of open science” (IIIF Workshop on wednesday),https://medici2019.sciencesconf.org/,,
+"June 24-28, 2019",2019 IIIF Conference,IIIF Focus,"Göttingen, Germany","Everyone! Annual, international conference for all things IIIF",,https://iiif.io/event/2019/goettingen/,,
+"June 3-7, 2019",DHSI - Digital Humanities Summer Institute 2019,IIIF Course,"Victoria, Canada","Peter Broadwell, Camille Villa, Josh Hadro, Glen Robson",,http://www.dhsi.org/courses.php,,
+"May 8-9, 2019",IIIF Workshop during ELAG 2019,,"Berlin State Library, Berlin, Germany","Leander Seige, Mustafa Dogan, Johannes Baiter","Part of the European Library Automation Group 2019 conference, ELAG",https://www.elag2019.de/workshops.html,,
+May 15,Bern IIIF Showcase Event,IIIF Meeting,"Swiss National Library, Bern, Switzerland","Julien A. Raemy, Glen Robson, Anne McLaughlin, Antoine Isaac, Andy Irving, Régis Robineau","Organized by Julien A. Raemy and René Schneider of the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève in the context of the Towards IIIF-Compliance Knowledge in Switzerland (TICKS) project.
+The Bern IIIF Showcase Event, which will be held in English, will be divided into four main sessions consisting of presentations, round tables and time for questions from the audience.",https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html,,
+April 3,IIIF Hands on workshop at the MuseWeb conference,IIF hands-on workshop,"Boston, Massachusetts, USA","by Tristan Roddis, Cogapp, UK, Jeff Steward, Harvard Art Museums, USA",,https://mw19.mwconf.org/proposal/hands-on-iiif/,,
+April 4,IIIF Meetup at MuseWeb Conference,Meet-up,"Boston, Massachusetts, USA",Rob Lancefield,,https://mw19.mwconf.org/session/iif/,,
+April 5,"3 Things About iiiF That Will Rock Your World, lightning talk",Presentation,"Boston, Massachusetts, USA",Deborah Howes,,https://mw19.mwconf.org/proposal/3-things-about-iiif-that-will-rock-your-world/,,
+March 11,IIIF Showcase and Workshops in Sweden,"AM: Outreach
+PM: Workshops",Sweden,"Glen Robson, Tom Crane","Arranged by the Swedish National Heritage Board, Nationalmuseum and the Swedish National Archives",https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/dela-bilder-pa-webben-med-iiif/,,
+Feb. 13,code4lib 2018,IIIF Hands-on Technical Workshop,"Washington DC, USA","Jason Ronallo, Jack Reed, Shaun Ellis, Karen Coombs",All day workshop,http://2018.code4lib.org/,,
+"Feb 15-16, 2018",Dev.ac.uk,Introductory presentation,"Birmingham, UK",Claire Knowles and Glen Robson,,http://Dev.ac.uk,,
+"Feb 21-24, 2018",College Art Association annual conference,IIIF Focus,"Los Angeles, CA, USA","Jeff Steward, Emily Pugh, Emmanuelle Delmas-Glass, Cathryn Goodwin, Charles Butcosk",90 minutes session on use cases,http://conference.collegeart.org/,,
+March 13,Dublin,IIIF Focus,Dublin,"John Howard, Glen Robson, Tom Crane, Matt McGrattan",,,,
+"March 14-15, 2018",IIIF New England (US) Regional event,IIIF Focus,Harvard University,Rashmi Singhal,,https://goo.gl/forms/b3e8urHfrrNjokyo1,,
+March 15,Paris regional event,IIIF Focus,Paris,"Régis Robineau, Julien A. Raemy, Antoine Isaac,
+Ben Albritton,
+Rafael Schwemmer",,http://www.biblissima-condorcet.fr/fr/actualites/innover-redecouvrir-patrimoine-ecrit-evenement-biblissima-iiif,,
+April 12,IFLA RBSCS mid-term Conference,IIIF Presentation,Oslo,"Rachel Di Cresce
+(and others!)",,https://www.ifla.org/node/18577,,
+"April 18–21, 2018",Museums & the Web 2018,"IIIF meetup and two presentations, one here and one here","Vancouver, BC","Duane Degler, Rob Lancefield, Tristan Roddis, more?","Meetup on Thursday, April 19; presentations on April 19 and 20 (links at left)",https://mw18.mwconf.org/,,
+"May 11, 2018","VRAF Regional Workshop: The International Image Interoperability Framework: What is it, and how can I use it?",Day long IIIF workshop presented by Brumfield Labs,University of Texas at Austin,Ben and Sara Brumfield,,https://vrafoundation.com/iiif_utaustin,,
+"May 14-16, 2018","EuropeanaTech and
+
+
+IIIF Showcase + Workshops","2 IIIF presentations
+
+IIIF Focus","Rotterdam, Netherlands
+
+The Hague, Netherlands","Glen Robson, Matt McGrattan, Rob Sanderson, Tristan Roddis and others",,https://pro.europeana.eu/event/europeanatech-conference-2018,,
+"May 21-25, 2018",2018 IIIF Conference,IIIF Focus,Washington DC,A lot of people,,http://iiif.io/event/2018/washington/,,
+May 29,HIMANIS Project Final Day,2 IIIF presentations,"Paris, Archives Nationales","Régis Robineau, Dominique Stutzmann",Introduction to IIIF (mostly for an archivists audience) and presentation of the use of IIIF in the HIMANIS project,,,
+"June 4-8, 2018",Open Repositories,IIIF Meet-up,"Montana, USA","Claire Knowles, Terry Brady, others?",Claire proposed to do it on Sunday (June 3rd),http://www.or2018.net,,
+"June 4-8, 2018",DHSI -- Digital Humanities Summer Institute,IIIF Course,"Victoria, Canada","Jeff Witt, Drew Winget, Jack Reed, Benjamin Albritton, Rachel Di Cresce",,http://www.dhsi.org/courses.php,,
+June 28,IIIF Day at Basel University Library,IIIF Meeting,"Basel, Switzerland","Julien Raemy, Jeff Witt, Leander Seige",Internal meeting,,,
+August 16,SAA Archives Records 2018,IIIF Meetup,"Washington, USA","Rebecca Hirsch, Mark A. Matienzo and others",Informal Archives group meeting.,,,
+"September 27-28, 2018",Building sustainable digital pedagogy (broadening IIIF at Cambridge),IIIF Meeting,"Cambridge, UK","Andy Corrigan
+Benjamin Albritton
+Tom Crane
+Gill Hamilton
+Rashmi Singhal",,http://www.crassh.cam.ac.uk/events/27892,,
+October 9,IIIF Texas,IIIF Meet-up,"University of North Texas, Denton",Sara Brumfield et al.,,https://www.eventbrite.com/e/iiif-texas-tickets-47716619694,,
+"October 9-12, 2018",Samvera Connect 2018,"Panel about IIIF in Samvera, Avalon workshop on the IIIF Prezi 3 media player","Salt Lake City, Utah",Avalon team,,https://connect2018.lib.utah.edu/,,
+"October 15-16, 2018",IIIF Outreach Handschriftenportal 2018,Introduction of IIIF in general and how it will be used in the German Manuscript Portal,"Leipzig, Germany, Saxon Academy of Sciences and Humanities in Leipzig","Mustafa Dogan, William Duba, Robert Giel, U.J. Schneider, Carolin Schreiber, Leander Seige, Jeffrey C. Witt et al.",Organized by Leipzig University Library,https://www.ub.uni-leipzig.de/ueber-uns/pressemitteilungen/iiif-outreach-handschriftenportal-2018/,,
+November 2,IIIF Washington D.C. Regional Event,IIIF Meet-up,Washington DC,Stacey Redick et al.,,,,
+"November 13–16, 2018",MCN 2018 (Museum Computer Network),"MCN IIIF SIG session: Five museums use cases, 11/15; + IIIF meetup TBD",Denver,"Emmanuelle Delmas-Glass, Stefano Cossu, Deborah Howes, Rob Sanderson, Luca Carini, more",,http://conference.mcn.edu/2018/conference_schedule.cfm,,
+December 5,IIIF-Conference at the National Library of Norway,IIIF conference and workshop,"Oslo, Norway","Mike Keller, Sara Brumfield
+
+Organized by Hege Stensrud Høsøien
+At the National Library of Norway",IIIF-conference and workshops will take place in Oslo in December. The conference is a collaboration between the National Library of Norway and Stanford University Libraries.,https://www.nb.no/hva-skjer/iiif-conference/,,
+"December 3-6, 2018",IIIF Working Groups Meeting in Edinburgh,IIIF WG meeting,"Edinburgh, Scotland",All active IIIF participants,,https://iiif.io/event/2018/edinburgh/,,
