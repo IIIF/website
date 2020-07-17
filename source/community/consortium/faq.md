@@ -38,7 +38,7 @@ layout: spec
 
 ## How can my institution join the IIIF Consortium?
 
- * To join the IIIF-C, please send an email expressing interest to the IIIF Staff, at <admin@iiif.io>. You will be asked to sign and return the IIIF-C [Memorandum of Understanding][mou]. Once a signed MOU has been received, you will receive an invoice for an initial payment of $10,000.
+ * To join the IIIF-C, please send an email expressing interest to the IIIF Staff, at <admin@iiif.io>. You will be asked to sign and return the IIIF-C [Memorandum of Understanding][mou]. Once a signed MOU has been received, you will receive an invoice for an initial payment.
 
 ## What institutions are part of the IIIF Consortium?
 
@@ -56,7 +56,7 @@ layout: spec
 
 ## What is the difference between the IIIF Consortium and the IIIF community?
 
- * The IIIF Consortium members have signed a Memorandum of Understanding and are committed to contributing $10,000 per year to support the IIIF initiative. IIIF-C funds and administrative oversight are managed by the Council on Library and Information Resources (CLIR), based in Washington, DC. The wider [IIIF community][community-list] comprises institutions who have adopted IIIF APIs in their collections, software developers and tech firms creating IIIF-compatible software applications, and active participants in community discussions, in addition to Consortium members.
+ * The IIIF Consortium members have signed a Memorandum of Understanding and are committed to contributing financially to support the IIIF initiative. IIIF-C funds and administrative oversight are managed by the Council on Library and Information Resources (CLIR), based in Washington, DC. The wider [IIIF community][community-list] comprises institutions who have adopted IIIF APIs in their collections, software developers and tech firms creating IIIF-compatible software applications, and active participants in community discussions, in addition to Consortium members.
 
 ## Can I request a letter of support from the IIIF Consortium for my IIIF-related grant application?
 
@@ -64,7 +64,7 @@ layout: spec
 
 [support-policy]: {{ site.url }}{{ site.baseurl }}/community/policy/support/
 [vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
-[apps-demos]: {{ site.url }}{{ site.baseurl }}/apps-demos
+[apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
 [specs]: {{ site.url }}{{ site.baseurl }}/technical-details/
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
 [news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/

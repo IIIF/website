@@ -3,10 +3,6 @@ title: "IIIF Support for Grant Proposals"
 id: iiifc_grant_support
 layout: spec
 ---
-### Status of this Document
-
-**Date:** 19 December 2016
-
 ## IIIF Support for Grant Proposals
 
 As a community-based initiative, IIIF welcomes innovation and advances from any participant; grants from funding agencies can play an important role in driving progress for individual institutions and the community at large. In recognition of this, the IIIF community encourages grants and may endorse proposals on request. To receive official support from IIIF, however, proposals must demonstrate some benefit to IIIF and a commitment to participating with the IIIF community as part of the project. This document lays out the expectations that the IIIF community has for grant proposals, and the process for obtaining a letter of recommendation from the [IIIF Consortium][iiif-c] (IIIF-C).
