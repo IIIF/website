@@ -6,3 +6,4 @@ scripts/factory.pyc
 .DS_Store
 *.swp
 .jekyll-cache
+*.DS_Store*
