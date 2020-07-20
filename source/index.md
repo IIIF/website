@@ -6,6 +6,11 @@ layout: home
 title: Welcome to iiif.io.
 ---
 
+
+# HOME
+
+<span style="text-decoration:underline;">Using IIIF</span> | <span style="text-decoration:underline;">Community</span> | <span style="text-decoration:underline;">Demos</span> | <span style="text-decoration:underline;">Events</span> 
+
 <p class="lookatme">IIIF is a software system delivering high quality, attributed digital objects* online at large scale. IIIF is _also_ the growing international community of people who improve it.</p>
 
 <small> A digital object could be a scroll, a map, an incunabulum, a newspaper, a photograph, a book, a score, a 3D model... We think there’s even a quilt in there somewhere.</small>
@@ -35,8 +40,7 @@ Publish once, use often! A developer’s dream, IIIF allows you to set your imag
 
 ## Satisfying for leaders
 
-We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. **<span style="text-decoration:underline;">Join the IIIF consortium today</span>** as publishers of your collection objects, code contributors, or voting members. 
+We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. **<span style="text-decoration:underline;">Join the IIIF consortium today</span>** as publishers of your collection objects, code contributors, or voting members.
 
 [could show a big array of logos? Join this cool crowd?] \
 [Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members]
-

@@ -1,19 +1,27 @@
 ---
-title: IIIF News and Announcements
+title: News Archive
 layout: sub-page
 ---
-<div class="sub-pages-container layout-sub-page wrapper">
-  <article>
-    {% for post in site.posts %}
-      <div class="short-post">
-        <div class="short-post-title">
-          <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="post-date"> ({{ post.date | date_to_string }})</span></h2>
-        </div>
-        <div class="short-post-excerpt">
-          {{ post.excerpt }} [<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">more</a>]
-        </div>
-      </div>
-      <hr/>
-    {% endfor %}
-  </article>
-</div>
+
+<ul>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/newsletter">Sign up for the IIIF newsletter</a></li>
+</ul>
+
+<hr>
+
+<table>
+{%- for post in site.posts -%}
+{%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+  <tr>
+   <td>{{ post.date | date: date_format }}
+   </td>
+   <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> by {{ post.author | escape }}
+   </td>
+   <td>
+    {% for tag in post.tags %}
+    {{ tag | escape }}
+    {%- endfor -%}
+   </td>
+  </tr>
+  {%- endfor -%}
+</table>

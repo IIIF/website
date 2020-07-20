@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+
+    <h2 class="post-list-heading">{{ page.list_title | default: "Recent News" }}</h2>
+     {%- if site.posts.size > 0 -%}
+    <table>
+  {%- for post in site.posts limit: 5 -%}
+    {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+      <tr>
+       <td>{{ post.date | date: date_format }}
+       </td>
+       <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> by {{ post.author | escape }}
+       </td>
+       <td>
+        {% for tag in post.tags %}
+        {{ tag | escape }}
+        {%- endfor -%}
+       </td>
+      </tr>
+      {%- endfor -%}
+    </table>
+     {%- endif -%}
+<ul>
+  <li>Read the <span style="text-decoration:underline;">news archive</span> or <span style="text-decoration:underline;">sign up for the newsletter</span></li>
+</ul>
+
+ <h2 class="post-list-heading">Upcoming <a href="{{ site.url }}{{ site.baseurl }}/event/">Events</a></h2>
+     {%- if site.data.event_calendar.size > 0 -%}
+    <table>
+  {%- for event in site.data.event_calendar limit: 3 -%}
+      <tr>
+       <td>{{ event.date | escape }}
+       </td>
+       <td><a class="post-link" href="{{ event.url | relative_url }}">{{ event.title | escape }}</a>
+       </td>
+       <td>{{ event.location | escape }}
+       </td>
+      </tr>
+      {%- endfor -%}
+    </table>
+     {%- endif -%}
+
+     <ul>
+       <li><span>Explore <a href=" {{ site.url }}{{ site.baseurl }}/event/past_events">past events</a></span>
+      </li>
+    </ul>
+</div>
