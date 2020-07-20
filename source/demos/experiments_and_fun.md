@@ -14,7 +14,7 @@ tags: [experiments ]
 
 # Experiments & Fun
 
-![alt_text](images/image1.png "image_tooltip")
+![antlitz.ninja screenshot]({{ site.url }}{{ site.baseurl }}/img/antlitz.nina.png "antlitz.ninja screenshot")
 
 
 *   [ANTLITZ.NINJA](https://antlitz.ninja) (screenshot above) - Award-winning digital art app that cuts and re-combines historical portraits. Based on IIIF. Built by Leander Seige, Leipzig University Library.
