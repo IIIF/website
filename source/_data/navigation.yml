@@ -21,18 +21,18 @@
   name: Demos
   url: /demos
   sub_pages:
-    -
-      name: Image Viewers
-      url: /image_viewers
+    # -
+    #   name: Image Viewers
+    #   url: /image_viewers
     -
       name: Image Servers
       url: /image_servers
     -
       name: Experiments & Fun
       url: /experiments_and_fun
-    -
-      name: Awesome IIIF (on Github)
-      url: https://github.com/IIIF/awesome-iiif
+    # -
+    #   name: Awesome IIIF (on Github)
+    #   url: https://github.com/IIIF/awesome-iiif
 -
   name: Community
   url: /community/
@@ -41,9 +41,9 @@
     -
       name: About the IIIF Consortium
       url: consortium
-    -
-      name: Code of Conduct
-      url: code_of_conduct
+    # -
+      # name: Code of Conduct
+      # url: code_of_conduct
     -
       name: Community Groups
       url: groups
