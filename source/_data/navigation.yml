@@ -1,21 +1,60 @@
 -
-  name: About
-  url: /about/
+  name: Using IIIF
+  url: /using_iiif
+  sub_pages:
+    -
+      name: How to get started
+      url: /how_to_get_started/
+    -
+      name: API Docs
+      url: /api_docs/
+    -
+      name: Talks
+      url: /talks/
+    -
+      name: Community Tools
+      url: /community_tools/
+    -
+      name: The Cookbook
+      url: /cookbook/
 -
-  name: Technical Details
-  url: /technical-details/
--
-  name: "Apps &amp; Demos"
-  url: /apps-demos/
+  name: Demos
+  url: /demos
+  sub_pages:
+    -
+      name: Image Viewers
+      url: /image_viewers
+    -
+      name: Image Servers
+      url: /image_servers
+    -
+      name: Experiments & Fun
+      url: /experiments_and_fun
+    -
+      name: Awesome IIIF (on Github)
+      url: https://github.com/IIIF/awesome-iiif
 -
   name: Community
   url: /community/
+  sub_pages:
+
+    -
+      name: About the IIIF Consortium
+      url: consortium
+    -
+      name: Code of Conduct
+      url: code_of_conduct
+    -
+      name: Community Groups
+      url: groups
+
 -
   name: Events
-  url: /event/
--
-  name: News
-  url: /news/
--
-  name: FAQ
-  url: /community/faq/
+  url: /event
+  sub_pages:
+    -
+      name: Past Events
+      url: /past_events
+    -
+      name: Host an Events
+      url: /host_your_own_IIIF_event
