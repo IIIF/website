@@ -5,10 +5,6 @@ layout: default
 tags: [how_to_get_started ]
 
 ---
-**Using IIIF** /
-
-How to get started | <span style="text-decoration:underline;">API Docs</span> | <span style="text-decoration:underline;">Talks</span> | <span style="text-decoration:underline;">Community Tools</span> | <span style="text-decoration:underline;">The Cookbook</span>
-
 
 # How to get started
 

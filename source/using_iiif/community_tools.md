@@ -6,11 +6,6 @@ tags: [community tools ]
 
 ---
 
-**Using IIIF** /
-
-<span style="text-decoration:underline;">How to get started</span> | <span style="text-decoration:underline;">API Docs</span> | <span style="text-decoration:underline;">Talks</span> | Community Tools | <span style="text-decoration:underline;">The Cookbook</span>
-
-
 # Community Tools
 
 List of 4-5 popular tools, and Awesome IIIF (with a bit of background on that).

@@ -6,12 +6,6 @@ tags: [experiments ]
 
 ---
 
-
-**Demos** /
-
-<span style="text-decoration:underline;">Image Viewers</span> | <span style="text-decoration:underline;">Image Servers</span> | Experiments & Fun | <span style="text-decoration:underline;">Awesome IIIF (on Github)</span>
-
-
 # Experiments & Fun
 
 ![antlitz.ninja screenshot]({{ site.url }}{{ site.baseurl }}/img/antlitz.ninja.png "antlitz.ninja screenshot")

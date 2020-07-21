@@ -6,11 +6,6 @@ tags: [cookbook ]
 
 ---
 
-**Using IIIF** /
-
-<span style="text-decoration:underline;">How to get started</span> | <span style="text-decoration:underline;">API Docs</span> | <span style="text-decoration:underline;">Talks</span> | <span style="text-decoration:underline;">Community Tools</span> | The Cookbook
-
-
 # The Cookbook
 
 <span style="text-decoration:underline;">Recipes</span> | <span style="text-decoration:underline;">Submit an idea</span>

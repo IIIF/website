@@ -6,7 +6,7 @@ tags: [events ]
 
 ---
 
-<span style="text-decoration:underline;">Past Events</span> | <span style="text-decoration:underline;">Host an Event</span>
+# Events
 
 We hear a lot that attending a IIIF event is the best “first bite” to get involved. One conference attendee told us:
 

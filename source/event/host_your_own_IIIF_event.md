@@ -3,11 +3,6 @@ layout: default
 title: Host your own IIIF event
 ---
 
-**Events** /
-
-<span style="text-decoration:underline;">Past Events</span> | Host Your Own
-
-
 # Host your own IIIF event
 
 Community members can **host local events** like workshops, meetings, and working groups. They can also submit proposals to **host the annual conference**. We have handy guides to help with both!

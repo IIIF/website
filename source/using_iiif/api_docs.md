@@ -6,12 +6,6 @@ tags: [api_docs ]
 
 ---
 
-
-**Using IIIF** /
-
-<span style="text-decoration:underline;">How to get started</span> | API Docs | <span style="text-decoration:underline;">Talks</span> | <span style="text-decoration:underline;">Community Tools</span> | <span style="text-decoration:underline;">The Cookbook</span>
-
-
 # API Docs
 
 [github.com/iiif](https://github.com/iiif) | <span style="text-decoration:underline;">Committees</span>

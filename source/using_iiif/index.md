@@ -6,10 +6,7 @@ tags: [using_iiif ]
 
 ---
 
-
-# USING IIIF
-
-<span style="text-decoration:underline;">How to get started</span> | <span style="text-decoration:underline;">API Docs</span> | <span style="text-decoration:underline;">Talks</span> | <span style="text-decoration:underline;">Community Tools</span> | <span style="text-decoration:underline;">The Cookbook</span>
+#Using IIIF
 
 There are two main components of the framework: **delivering objects** and **viewing them**.
 

@@ -6,11 +6,6 @@ tags: [talks ]
 
 ---
 
-**Using IIIF** /
-
-<span style="text-decoration:underline;">How to get started</span> | <span style="text-decoration:underline;">API Docs</span> | Talks | <span style="text-decoration:underline;">Community Tools</span> | <span style="text-decoration:underline;">The Cookbook</span>
-
-
 # Talks
 
 List of 4-5 great talks + a link to IIIF YouTube

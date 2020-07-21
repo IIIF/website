@@ -6,13 +6,6 @@ tags: [image servers ]
 
 ---
 
-
-
-
-**Demos** /  \
-<span style="text-decoration:underline;">Image Viewers</span> | Image Servers | <span style="text-decoration:underline;">Experiments & Fun</span> | <span style="text-decoration:underline;">Awesome IIIF (on Github)</span>
-
-
 # Image Servers
 
 3 or 4 examples
