@@ -40,7 +40,7 @@ Publish once, use often! A developer’s dream, IIIF allows you to set your imag
 
 ## Powerful *and* practical for leaders
 
-We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. <a href="{{ site.url }}{{ site.baseurl }}/consortium/join/">Join the IIIF consortium today</a> as publishers of your collection objects, code contributors, or voting members. 
+We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/join/">Join the IIIF consortium today</a> as publishers of your collection objects, code contributors, or voting members. 
 
 
 ## Satisfying for leaders
