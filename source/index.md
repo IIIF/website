@@ -9,7 +9,7 @@ title: Welcome to iiif.io.
 
 # HOME
 
-<span style="text-decoration:underline;">Using IIIF</span> | <span style="text-decoration:underline;">Community</span> | <span style="text-decoration:underline;">Demos</span> | <span style="text-decoration:underline;">Events</span> 
+<span style="text-decoration:underline;">Using IIIF</span> | <span style="text-decoration:underline;">Community</span> | <span style="text-decoration:underline;">Demos</span> | <span style="text-decoration:underline;">Events</span>
 
 <p class="lookatme">IIIF is a software system delivering high quality, attributed digital objects* online at large scale. IIIF is _also_ the growing international community of people who improve it.</p>
 
@@ -36,6 +36,11 @@ Publish once, use often! A developer’s dream, IIIF allows you to set your imag
 [Caption that links to UV, with a note on benefits to efficiency - can show a bunch of filetypes in one viewer]
 
 <div><iframe src="https://uv-v3.netlify.app/uv/uv.html#?manifest=https://preview.iiif.io/cookbook/0026_0064_0065-opera-recipes/recipe/0026-toc-opera/manifest.json&c=undefined&m=0&s=0&cv=0&rid=null" width="560" height="420" allowfullscreen frameborder="0"></iframe></div>
+
+
+## Powerful *and* practical for leaders
+
+We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. <a href="{{ site.url }}{{ site.baseurl }}/consortium/join/">Join the IIIF consortium today</a> as publishers of your collection objects, code contributors, or voting members. 
 
 
 ## Satisfying for leaders

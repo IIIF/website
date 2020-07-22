@@ -47,6 +47,6 @@ The steps you’ll need to follow are:
 
 
 1. Make images available using the **<span style="text-decoration:underline;">Image API</span>** and an **IIIF image server** or a IIIF-compatible image server from a vendor or other web host
-2. Combine your images and structural data (like pagination or ordering) from your metadata source into a **IIIF manifest** using the **<span style="text-decoration:underline;">Presentation API</span>**. (This is probably the most fiddly bit)
+2. Combine your images and structural data (like pagination or ordering) from your metadata source into a **IIIF manifest** using the **<span style="text-decoration:underline;">Presentation API</span>**. (This is probably the most challenging part)
 3. Choose a **Viewer** to show your images. Tell your friends!
 4. If you’re feeling brave, check out the other two APIs: **<span style="text-decoration:underline;">Authentication</span>** and **<span style="text-decoration:underline;">Search</span>**.

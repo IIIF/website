@@ -30,7 +30,7 @@ We’ve attempted to make a [map of every IIIF implementation](https://www.googl
 *   **Museums** such as the British Museum, National Gallery of Art, The J. Paul Getty Trust, the Georgia O’Keefe Museum, and The Walters Art Museum.
 *   **Software companies** and **digital agencies**, including Kakadu Software, Gallery Systems, Digirati, Cogapp, and more.
 
-Many who use IIIF’s APIs become members of the <span style="text-decoration:underline;">IIIF Consortium</span>, sustaining the framework’s growth and serving on various advisory committees.
+Many who use IIIF's APIs become members of the <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/">IIIF Consortium</a>, sustaining the framework’s growth and serving on various advisory committees.
 
 ## Glossary of key IIIF concepts
 
