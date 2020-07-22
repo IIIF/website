@@ -6,7 +6,7 @@ tags: [using_iiif ]
 
 ---
 
-#Using IIIF
+# Using IIIF
 
 There are two main components of the framework: **delivering objects** and **viewing them**.
 
@@ -22,14 +22,17 @@ Explore projects people have made through their conference <span style="text-dec
 
 ## Who is using IIIF?
 
-List - institutions, aggregators, etc
+We’ve attempted to make a [map of every IIIF implementation](https://www.google.com/maps/d/viewer?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp&ll=4.340203155220545%2C18.29779899999994&z=2) we’re aware of (if something is missing, please feel free to [let us know](mailto:staff@iiif.io?subject=Add us to the IIIF Map)). Generally, a wide range of institutions adopt IIIF, including:
 
-This is a teaser list, can connect to “Consortium Members” page
+*   **Aggregators** such as Artstor, JSTOR, CONTENTdm, DPLA, Europeana, the Internet Archive, Wikimedia Foundation, and more.
+*   **Universities and research institutions**, including Cambridge University, Ghent University, Harvard University, Kyoto University, University of Michigan, University of St. Andrews, College of Charleston, Stanford University, University of Toronto, and Wellcome Trust, among others.
+*   **National libraries** and **archives** like the Library of Congress, the National Library of Qatar, Bibliotheque National de France, the Vatican, and the Egyptian National Library and Archives, and the Blavatnik Foundation Archive.
+*   **Museums** such as the British Museum, National Gallery of Art, The J. Paul Getty Trust, the Georgia O’Keefe Museum, and The Walters Art Museum.
+*   **Software companies** and **digital agencies**, including Kakadu Software, Gallery Systems, Digirati, Cogapp, and more.
 
+Many who use IIIF’s APIs become members of the <span style="text-decoration:underline;">IIIF Consortium</span>, sustaining the framework’s growth and serving on various advisory committees.
 
 ## Glossary of key IIIF concepts
-
-
 
 *   An **Annotation** is a standard way to associate different types of content to whatever is on your canvas. For more detail, see the [Web Annotation Data Model](http://w3.org/TR/annotation-model/).
 *   A **Canvas** is the frame of reference for the display of your content, both spatial and temporal
