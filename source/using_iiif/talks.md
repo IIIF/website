@@ -24,7 +24,7 @@ David Haskiya (Europeana), Matthieu Bonicel (Bibliothèque nationale de France),
 
 [https://www.youtube.com/watch?v=EdAcMBVerto](https://www.youtube.com/watch?v=EdAcMBVerto)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EdAcMBVerto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EdAcMBVerto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Teaching with IIIF**
 
@@ -32,7 +32,7 @@ Rashmi Singhal shares Harvard University’s use of IIIF in teaching and researc
 
 [https://www.youtube.com/watch?v=OcMHwULtRb8](https://www.youtube.com/watch?v=OcMHwULtRb8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=OcMHwULtRb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OcMHwULtRb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Avalon and IIIF for audio and video**
 
@@ -40,7 +40,7 @@ Rashmi Singhal shares Harvard University’s use of IIIF in teaching and researc
 
 Avalon worked alongside the IIIF community to develop specifications for version 3.0 of the Presentation API, which moves beyond two-dimensional images to include audio and video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BiEijTlWqvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiEijTlWqvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Linking text and image**
 
@@ -48,16 +48,16 @@ Avalon worked alongside the IIIF community to develop specifications for version
 
 Paolo Monella (Venice Centre for Digital and Public Humanities) discusses IIIF and transcribing images of manuscripts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Yu-eCBqVu9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yu-eCBqVu9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Playlists of interest
 
 **IIIF Online Workshop**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLYPP1-8uH9c4oThYWbbOtTQA-3kPhTNp7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c4oThYWbbOtTQA-3kPhTNp7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **IIIF Week online conference**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLYPP1-8uH9c4QFWKf-dbv3Il4ukkuFAje" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c4QFWKf-dbv3Il4ukkuFAje" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **IIIF Community Calls**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLYPP1-8uH9c6VZbIlaNSj1WV9AEAnkmGC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c6VZbIlaNSj1WV9AEAnkmGC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
