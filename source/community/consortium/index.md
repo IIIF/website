@@ -4,64 +4,34 @@ id: consortium
 layout: spec
 ---
 
-<div style="width: 60%; margin: 0 auto;">
+# About the IIIF Consortium
+
+<span style="text-decoration:underline;">Consortium Members</span> | <span style="text-decoration:underline;">Join the Consortium</span> | <span style="text-decoration:underline;">Meet the Staff</span> | <span style="text-decoration:underline;">Memorandum of Understanding</span>
+
+IIIF was first conceived on a napkin at a Cuban restaurant in Palo Alto, California by a group of technologists from Stanford University, Oxford University, and the British Library, who wanted to de-silo digitized image collections. They envisioned a world where digitized visual materials were made available to global researchers efficiently, uniformly, and without platform redundancy.
+
+The IIIF Consortium was formed in 2015 by 11 institutions: University of Oxford, the British Library, Stanford University, Artstor (now ITHAKA), Die Bayerische Staatsbibliothek (The Bavarian State Library), Cornell University, La Bibliothèque Nationale de France (The National Library of France), Nasjonalbiblioteket (The National Library of Norway), Princeton University, Wellcome Trust, and Yale University.
+
+Today, the consortium unites a growing number of research libraries, national libraries, archives, software companies, digital agencies, and aggregators with a set of shared goals:
+
+*   Providing researchers--and other audiences--an unprecedented level of uniform and rich access to digitized image, audio, and video resources hosted around the world
+*   Defining and maintaining a community-driven set of APIs that support interoperability between repositories
+*   Developing, cultivating, and documenting shared technologies that provide a world-class user experience in viewing, comparing, manipulating, and annotating digitized visual and audio materials
+
+While IIIF’s origins are in libraries, the community is expanding organically to include museums, archives, commercial design and technology companies, and image services of all types, creating new opportunities for exchange and collaboration across sectors.
+
+
+### Committees
+
+There are three committees that oversee how the consortium operates.
+
+
+*   <span style="text-decoration:underline;">Executive Committee</span>: Steering strategic direction and budget approval, this committee meets twice annually and is composed of staff from the first eleven founding members of the Consortium, plus two additional elected members. Starting in 2020, seats on this committee will begin opening to new members by vote.
+*   <span style="text-decoration:underline;">Technical Review Committee</span> - approves or rejects proposed changes to the specifications or new technical groups.
+*   <span style="text-decoration:underline;">Operating Committee</span> - watches that strategic direction set by Exec is being achieved; meets monthly.
+
+All full Consortium member institutions are eligible to serve on the Executive Committee, and all are represented on the Technical Review Committee.
+
+<div style="width: 100%; margin: 0 auto;">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_ios5waTvJLj4qIL0o5kAxFjKi2ijLd-" style="width: 100%; height: 480px;"></iframe>
 </div>
-
-## The IIIF Consortium
-
-To join the IIIF Consortium, take a look at the [benefits of membership][join], and send an email to [admin@iiif.io][admin] expressing your interest.
-
-The IIIF Consortium (IIIF-C) was formed in [June 2015][news] in Oxford, England, to provide steering and sustainability for the IIIF community. The IIIF-C now comprises more than 40 Founding Members across the globe who have signed the IIIF-C [Memorandum of Understanding][mou], committing to support the growth and adoption of IIIF. IIIF-C provides continued support for adoption, experimentation, outreach, and a thriving community of libraries, museums, software firms, scholars, and technologists working with IIIF. For more information on the benefits and process for joining, please visit the [IIIF-C FAQ][iiifc-faq].
-
-In April of 2018, the IIIF Consortium ratified a document titled ["Next Steps for the International Image Interoperability Framework,"][next_steps] which lays out some future directions and opportunities for the community.
-
-
-## Staff
-
- * IIIF-C Managing Director, Josh Hadro - <josh.hadro@iiif.io>
- * IIIF-C Technical Coordinator, Glen Robson - <glen.robson@iiif.io>
- * IIIF-C Community and Events Coordinator, Meg O'Hearn - <meg.ohearn@iiif.io>
-
-## Full Members
-
-\* indicates Founding Member of the IIIF Consortium
-<ul>
-  {% for i in site.data.institutions %}
-    {% if i.iiifc < 3 %}
-   <li>
-      {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
-        {{ i.name }}
-      {% if i.uri %}</a>*{% endif %}
-  </li>{% endif %}
-    {% if i.iiifc == 3 %}
-   <li>
-      {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
-        {{ i.name }}
-      {% if i.uri %}</a>{% endif %}
-  </li>{% endif %}
-  {% endfor %}
-</ul>
-
-
-## Associate Members
-
-<ul>
-{% for i in site.data.institutions %}
-    {% if i.iiifc == 4 %}
-  <li>
-      {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
-        {{ i.name }}
-      {% if i.uri %}</a>{% endif %}
-  </li>
-    {% endif %}
-{% endfor %}
-</ul>
-
-
-[join]: {{ site.url }}{{ site.baseurl }}/community/consortium/join/
-[admin]: mailto:admin@iiif.io
-[mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
-[news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
-[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
-[next_steps]: {{ site.url }}{{ site.baseurl }}/community/consortium/next_steps

@@ -12,6 +12,8 @@ redirect_from:
 
 Scholars, software people, researchers, and culture workers are the types who tend to gravitate around IIIF, and everything we do is guided by our **[code of conduct]({{ site.url }}{{ site.baseurl }}/event/conduct/)**.
 
+Overall, we think there are around hundreds of <span style="text-decoration:underline;">adopters</span> of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.
+
 There are four main ways to join the conversation:
 
 
@@ -56,5 +58,3 @@ There are **<span style="text-decoration:underline;">groups</span>** to discuss 
 IIIF is supported by a membership **[consortium]({{ site.url }}{{ site.baseurl }}/community/consortium)**, with members from all over the world including Stanford University, Europeana, Kansai University, and many more.
 
 You can **[join the consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/join/)** as a _full_ or _associate member_. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the [Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/trc/) or <span style="text-decoration:underline;">Executive Committee</span>. The consortium has <span style="text-decoration:underline;">staff</span>, who are stewards looking after the community, organizing events and training, and helping things run smoothly.
-
-Overall, we think there are around 000 <span style="text-decoration:underline;">adopters</span> of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.
