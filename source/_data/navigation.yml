@@ -21,9 +21,9 @@
   name: Demos
   url: /demos
   sub_pages:
-    # -
-    #   name: Image Viewers
-    #   url: /image_viewers
+    -
+      name: Image Viewers
+      url: /image_viewers
     -
       name: Image Servers
       url: /image_servers
@@ -41,9 +41,9 @@
     -
       name: About the IIIF Consortium
       url: consortium
-    # -
-      # name: Code of Conduct
-      # url: code_of_conduct
+    -
+      name: Code of Conduct
+      url: conduct/
     -
       name: Community Groups
       url: groups

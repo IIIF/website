@@ -4,6 +4,7 @@ layout: spec
 tags: [event ]
 redirect_from:
   - /event/conduct.html
+  - /community/conduct/
 ---
 
 All IIIF events and interactions are covered by the following Code of Conduct. Changes will be tracked within the document and its [internal change log][change-log].
@@ -135,7 +136,7 @@ The IIIF Code of Conduct has been modeled on the Code of Conduct policies from [
 
   | Date       | Description                                                         |
   | ---------- | ------------------------------------------------------------------- |
-  | 2020-02-24 | Adding Meg to the list of members. | 
+  | 2020-02-24 | Adding Meg to the list of members. |
   | 2019-01-22 | Adding Josh to the list of members. |
   | 2017-12-01 | Removing Sheila from the list of members. |
   | 2017-09-28 | Added 2017-2018 IIIF Code of Conduct Team member names |
