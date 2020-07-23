@@ -4,7 +4,7 @@
 <!-- By default uses Roboto font. Be sure to load this or change the font -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
 <!-- Container element of Mirador whose id should be passed to the instantiating call as "id" -->
- <div id="iiif-viewer" class="mirador" allowfullscreen="allowfullscreen"></div> 
+ <div id="iiif-viewer" class="mirador" allowfullscreen="allowfullscreen"></div>
 
 <style>
   .mirador{
@@ -21,16 +21,30 @@
 var mirador = Mirador.viewer({
   "id": "iiif-viewer",
   "manifests": {
-    "https://iiif.lib.harvard.edu/manifests/drs:48309543": {
-      "provider": "Harvard University"
+    "https://purl.stanford.edu/hs631zg4177/iiif/manifest": {
+      "provider": "Stanford University"
     }
   },
   "windows": [
     {
-      "loadedManifest": "https://iiif.lib.harvard.edu/manifests/drs:48309543",
-      "canvasIndex": 2,
-      "thumbnailNavigationPosition": 'far-bottom'
+      "loadedManifest": "https://purl.stanford.edu/hs631zg4177/iiif/manifest",
+      "canvasIndex": 0,
+      allowClose: false,
+      	defaultSideBarPanel: 'info',
+      	sideBarOpenByDefault: true,
+    },
+    {
+      "loadedManifest": "https://purl.stanford.edu/hs631zg4177/iiif/manifest",
+      "canvasIndex": 0,
+      allowClose: false,
+      	defaultSideBarPanel: 'info',
+      	sideBarOpenByDefault: true,
     }
-  ]
-});
+    ],
+    "workspace": {
+	showZoomControls: true,
+    type: 'elastic', // Which workspace type to load by default. Other possible values are "elastic"
+  }
+}
+);
 </script>

@@ -23,7 +23,7 @@ There’s a **#cookbook** channel on the IIIF Slack team too, if you’d like to
 
 *   [Simplest Manifest - Image](https://iiif.io/api/cookbook/mvm-image/) \
 _You’ll need: a text editor and an image_ \
-If all you have for an object is one image on the web and a label, this pattern turns it into a IIIF Presentation resource. \
+If all you have for an object is one image on the web and a label, this pattern turns it into a IIIF Presentation resource. 
 
 *   [Annotating part of an image to a Canvas](https://iiif.io/api/cookbook/segment-image-part/)  \
 Extract parts, or segments, of resources from a canvas

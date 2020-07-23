@@ -9,32 +9,36 @@ title: Welcome to iiif.io.
 
 # HOME
 
-<p class="lookatme">IIIF is a software system delivering high quality, attributed digital objects* online at large scale. IIIF is _also_ the growing international community of people who improve it. IIIF is stewarded by a <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/">consortium</a>.</p>
+<p class="lookatme">IIIF is a software system delivering high quality, attributed digital objects* online at large scale. IIIF is _also_ the growing international community of people who improve it. IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
 
-<small> A digital object could be a scroll, a map, an incunabulum, a newspaper, a photograph, a book, a score, a 3D model... We think there’s even a quilt in there somewhere.</small>
+<small>* A digital object could be a scroll, a map, an incunabulum, a newspaper, a photograph, a book, a score, a 3D model... We think there’s even a quilt in there somewhere.</small>
 
 
 ## Great for researchers
 
 Researchers need to be able to **access** high quality images, **examine** them closely, and **share** their work with collaborators. IIIF helps this work by providing easy access to large images from multiple repositories and viewing and manipulation tools to aid research. Here’s a demo of one of the more popular IIIF Image Viewers, called Mirador. Have a try:
 
-[EMBED Mirador, images from two repos] \
-[Caption that links to project mirador]
-
 {%- include mirador.html -%}
 
-[EMBED deep zoom Japanese map example 34k pixels wide, images from two repos] \
 [Caption that links to project mirador]
+
+_For more, see the [Project Mirador site](https://projectmirador.org/)_
 
 ## Efficient for developers
 
 Publish once, use often! A developer’s dream, IIIF allows you to set your images to stun! When you adopt the framework, you can serve all your digital objects to anyone who speaks IIIF anywhere in the world. There’s a thriving tight community of folks around the world contributing to the growing toolset too.
 
-[EMBED UV, different filetypes or A/V demo] \
+{%- include uv.html -%}
+
 [Caption that links to UV, with a note on benefits to efficiency - can show a bunch of filetypes in one viewer]
 
-<div><iframe src="https://uv-v3.netlify.app/uv/uv.html#?manifest=https://preview.iiif.io/cookbook/0026_0064_0065-opera-recipes/recipe/0026-toc-opera/manifest.json&c=undefined&m=0&s=0&cv=0&rid=null" width="560" height="420" allowfullscreen frameborder="0"></iframe></div>
+_For more, see the [Universal Viewer site](https://universalviewer.io/)_
 
+---
+
+> For more ways to use IIIF including image viewers and more, see the [Demos]({{ site.url }}{{ site.baseurl }}/demos/) section
+
+---
 
 ## Powerful *and* practical for leaders
 
