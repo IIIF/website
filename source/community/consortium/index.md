@@ -32,13 +32,13 @@ In April of 2018, the IIIF Consortium ratified a document titled ["Next Steps fo
    <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
         {{ i.name }}
-      {% if i.uri %}</a>*{% endif %} 
+      {% if i.uri %}</a>*{% endif %}
   </li>{% endif %}
     {% if i.iiifc == 3 %}
    <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
         {{ i.name }}
-      {% if i.uri %}</a>{% endif %} 
+      {% if i.uri %}</a>{% endif %}
   </li>{% endif %}
   {% endfor %}
 </ul>
