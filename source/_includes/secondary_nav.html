@@ -3,12 +3,15 @@
   {% for item in site.data.navigation %}
     {% if page.url == item.url or page.url contains item.url %}
       {% for sub_page in item.sub_pages %}
-      <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}{{sub_page.url}}">{{ sub_page.name }}</a>
+        {%if sub_page.url contains "github" %}
+          <a href="{{sub_page.url}}">{{ sub_page.name }}</a>
+        {%else %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}{{sub_page.url}}">{{ sub_page.name }}</a>
+        {% endif %}
 
-      {% if forloop.last %}
-      {%else %} |
-      {% endif %}
-
+        {% if forloop.last %}
+        {%else %} |
+        {% endif %}
       {% endfor %}
     {% endif %}
   {% endfor %}

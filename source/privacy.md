@@ -16,10 +16,10 @@ Our privacy policy explains how we collect and use any personal data about you w
 
 You directly provide the IIIF with most of the data we collect. Examples of how we collect and process data include when you:
 
-- Apply to join the IIIF Consortium 
+- Apply to join the IIIF Consortium
 - Subscribe to a IIIF mailing list
 - Register for a IIIF webinar, workshop or event
-- Voluntarily complete a survey 
+- Voluntarily complete a survey
 - Use or view our website via your browser’s cookies.
 
 IIIF may also receive your data indirectly from the following sources:
@@ -62,9 +62,6 @@ IIIF keeps its privacy policy under regular review and places any updates on thi
 
 ## Attribution
 
-This policy is derived from the [Open Preservation Foundation Privacy Policy](https://openpreservation.org/privacy-policy/), posted under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
+This policy is derived from the [Open Preservation Foundation Privacy Policy](https://openpreservation.org/privacy-policy/), posted under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 </section>
-
-
-

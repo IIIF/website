@@ -11,6 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iiif_io
 github_username:  IIIF
+youtube_username: channel/UClcQIkLdYra7ZnOmMJnC5OA
 
 
 #  - using_iiif/about.html

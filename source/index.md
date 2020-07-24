@@ -6,8 +6,7 @@ layout: home
 title: Welcome to iiif.io.
 ---
 
-
-# HOME
+IIIF stands for International Image Interoperability Framework.
 
 <p class="lookatme">IIIF is a software system delivering high quality, attributed digital objects* online at large scale. IIIF is _also_ the growing international community of people who improve it. IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
 
@@ -42,12 +41,11 @@ _For more, see the [Universal Viewer site](https://universalviewer.io/)_
 
 ## Powerful *and* practical for leaders
 
-We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/join/">Join the IIIF consortium today</a> as publishers of your collection objects, code contributors, or voting members.
-
-
-## Satisfying for leaders
-
-We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. **<span style="text-decoration:underline;">Join the IIIF consortium today</span>** as publishers of your collection objects, code contributors, or voting members.
+We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. [Join the IIIF Consortium today]({{ site.url }}{{ site.baseurl }}/community/consortium/join/) as publishers of your collection objects, code contributors, or voting members.
 
 [could show a big array of logos? Join this cool crowd?] \
 [Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members]
+
+---
+
+{% include acronyms.md %}

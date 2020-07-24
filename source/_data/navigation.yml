@@ -30,9 +30,9 @@
     -
       name: Experiments & Fun
       url: /experiments_and_fun
-    # -
-    #   name: Awesome IIIF (on Github)
-    #   url: https://github.com/IIIF/awesome-iiif
+    -
+      name: Awesome IIIF (on Github)
+      url: https://github.com/IIIF/awesome-iiif
 -
   name: Community
   url: /community/
