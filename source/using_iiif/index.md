@@ -10,14 +10,14 @@ tags: [using_iiif ]
 
 There are two main components of the framework: **delivering objects** and **viewing them**.
 
-We’ve illustrated the components, how they fit together, and which <span style="text-decoration:underline;">APIs</span> are needed for which parts below.
+We’ve illustrated the components, how they fit together, and which [APIs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) are needed for which parts below.
 
 ![The IIIF Components]({{ site.url }}{{ site.baseurl }}/img/iiif_components.png "The IIIF Components")
 
 
-Find out more about how the framework fits together in the <span style="text-decoration:underline;">API docs</span> section.
+Find out more about how the framework fits together in the [API docs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) section.
 
-Explore projects people have made through their conference <span style="text-decoration:underline;">talks</span>, check out the variety of <span style="text-decoration:underline;">tools</span> the community has made to help, or browse <span style="text-decoration:underline;">The Cookbook</span>, a new community initiative to string together commonly used functions into “recipes” that can be reused easily.
+Explore projects people have made through their conference [talks]({{ site.url }}{{ site.baseurl }}/using_iiif/talks/), check out the variety of [tools]({{ site.url }}{{ site.baseurl }}/using_iiif/community_tools/) the community has made to help, or browse [The Cookbook]({{ site.url }}{{ site.baseurl }}/using_iiif/Cookbook/), a new community initiative to string together commonly used functions into “recipes” that can be reused easily.
 
 
 ## Who is using IIIF?
@@ -42,3 +42,5 @@ Many who use IIIF's APIs become members of the <a href="{{ site.url }}{{ site.ba
 *   A **Manifest** is the centre of the IIIF universe. It’s the plan that communicates how to display your digital objects, and what information to display about them, including structure. (A basic example is to think of a book of illustrations, where each illustrated page is a canvas, and there is one specific order to the arrangement of those pages. Keep in mind, the structure of manifests can also be more complex than this.)
 *   A **Metadata Source** is the place where the information about objects live, and needs to be connected to your Manifest via the Presentation API (for libraries and museums, this is usually some kind of asset management system, though there are many other possibilities)
 *   A **Range** is a particular order of Canvases (as a basic example, think of the order of pages in a book, or the order of tracks on a music album)
+
+{% include acronyms.md %}
