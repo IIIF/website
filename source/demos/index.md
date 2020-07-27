@@ -17,6 +17,6 @@ You should definitely check out the [Awesome IIIF page on Github](https://github
 
 We love to hear when new projects or tools come online. Here are a selection of **recent highlights**:
 
-{% include recent_highlights.html %}
+{% include recent_tools.html %}
 
 If you’ve made something you’d like to tell us about, please [tell us about your project using this Google form](https://goo.gl/forms/cVMR0UgfxDYZsoCN2).

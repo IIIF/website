@@ -1,5 +1,6 @@
+<h2>Popular Tools</h2>
 <table>
-  {%- for example in site.data.popular_tools reversed limit: 5 -%}
+  {%- for example in site.data.recent_implementations -%}
   <tr>
     <td>
       <h3><strong>{{example.name}}</strong>{%if example.creators%} by {{example.creators}}{% endif %}</h3>

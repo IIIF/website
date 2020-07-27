@@ -3,7 +3,7 @@ title: "IIIF Conference Guidelines"
 id: events
 layout: default
 tags: [events ]
-cssversion: 2
+
 ---
 # IIIF Annual Conference
 # Guidance for hosting an event

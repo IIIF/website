@@ -3,12 +3,6 @@ title: How Groups Work
 layout: default
 tags: [groups_work]
 ---
-
-**Community** / **Community Groups** /
-
-How groups work | <span style="text-decoration:underline;">Committees</span>
-
-
 # How groups work
 
 IIIF groups are designed to foster collaboration in specific areas of interest. They operate with transparency as a primary goal, and according to the IIIF [Code of Conduct]({{ site.url }}{{ site.baseurl }}/event/conduct).

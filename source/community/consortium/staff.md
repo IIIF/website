@@ -5,11 +5,6 @@ layout: default
 tags: [staff ]
 ---
 
-**About the IIIF Consortium** /
-
-<span style="text-decoration:underline;">Consortium Members</span> | <span style="text-decoration:underline;">Join the Consortium</span> | Meet the Staff | <span style="text-decoration:underline;">Memorandum of Understanding</span>
-
-
 # Meet the Staff
 
 **Josh Hadro, Managing Director** - <josh.hadro@iiif.io>

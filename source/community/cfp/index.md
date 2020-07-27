@@ -2,7 +2,7 @@
 title: "Open Calls for Proposals"
 layout: default
 tags: []
-cssversion: 2
+
 ---
 
 ## Call for Implementations

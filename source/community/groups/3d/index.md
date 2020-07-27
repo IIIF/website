@@ -2,7 +2,7 @@
 title: "IIIF 3D Community Group"
 layout: default
 tags: [3d]
-cssversion: 2
+
 ---
 
 ## About

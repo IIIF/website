@@ -2,7 +2,7 @@
 title: "Software Developers Community Group"
 layout: default
 tags: [components, software development, implementation]
-cssversion: 2
+
 ---
 ## About
 

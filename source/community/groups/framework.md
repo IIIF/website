@@ -2,7 +2,7 @@
 title: "IIIF Groups Framework"
 layout: default
 tags: []
-cssversion: 2
+
 ---
 
 ## Introduction

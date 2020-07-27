@@ -2,7 +2,7 @@
 title: "IIIF Discovery Technical Specification Group"
 layout: default
 tags: []
-cssversion: 2
+
 ---
 
 ## About

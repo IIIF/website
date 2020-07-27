@@ -2,7 +2,6 @@
 title: "IIIF Community Calls"
 layout: default
 tags: []
-cssversion: 2
 ---
 
 The IIIF community calls alternate between a technical and community focus, providing a forum for new and existing participants to share their work, learn about activities across the community, and discuss IIIF technology and future directions. Anyone with an interest in IIIF may join the regularly scheduled calls.

@@ -8,6 +8,16 @@
     -
       name: API Docs
       url: /api_docs/
+      sub_pages:
+        -
+          name: API Documentation Home
+          url: https://iiif.io/api/
+        -
+          name: Github Repositories (external link)
+          url: https://github.com/IIIF
+        -
+          name: Technical Review Committee (TRC)
+          url: https://iiif.io/community/trc/
     -
       name: Talks
       url: /talks/
@@ -41,15 +51,37 @@
     -
       name: About the IIIF Consortium
       url: consortium
+      sub_pages:
+        -
+          name: Consortium Members
+          url: /members/
+        -
+          name: Join the Consortium
+          url: /join/
+        -
+          name: Meet the Staff
+          url: /staff/
+        -
+          name: Founding Documents
+          url: /documents/
+
+
     -
       name: Code of Conduct
       url: conduct/
     -
       name: Community Groups
       url: groups
+      sub_pages:
+        -
+          name: How Groups Work
+          url: /how_groups_work/
+        -
+          name: Committees
+          url: /committees/
     -
-      name: Outreach
-      url: outreach/
+      name: Ambassadors
+      url: ambassadors/
 
 
 -
@@ -62,3 +94,13 @@
     -
       name: Host an Events
       url: /host_your_own_IIIF_event
+-
+  name: Training & outreach
+  url: /training+outreach
+  sub_pages:
+    -
+      name: Online Training
+      url: /online_training
+    -
+      name: Outreach materials
+      url: /outreach_materials

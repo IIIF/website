@@ -305,7 +305,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [reunification]: http://demos.biblissima-condorcet.fr/chateauroux/demo/
 [beyond-words]: http://beyondwords2016.org/
 [software-survey]: https://goo.gl/forms/ejJUIUP9gqOXnvPI2
-[conduct-team]: {{ site.url }}{{ site.baseurl }}/event/conduct/#iiif-code-of-conduct-team-selection-process
+[conduct-team]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [conduct-form]: https://goo.gl/forms/o79VAMHEAl72fPmV2
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq/

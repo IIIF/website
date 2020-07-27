@@ -4,8 +4,10 @@ layout: default
 tags: [event ]
 redirect_from:
   - /event/conduct.html
-  - /community/conduct/
+  - /event/conduct/
 ---
+
+# Code of Conduct
 
 All IIIF events and interactions are covered by the following Code of Conduct. Changes will be tracked within the document and its [internal change log][change-log].
 

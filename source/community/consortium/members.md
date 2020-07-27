@@ -5,11 +5,7 @@ layout: default
 tags: [members ]
 ---
 
-
-
-**About the IIIF Consortium** /
-
-Consortium Members | <span style="text-decoration:underline;">Join the Consortium</span> | <span style="text-decoration:underline;">Meet the Staff</span> | <span style="text-decoration:underline;">Memorandum of Understanding</span>
+# Consortium Members
 
 ## Full Members
 

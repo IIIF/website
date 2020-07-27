@@ -5,11 +5,6 @@ layout: default
 tags: [join ]
 ---
 
-**About the IIIF Consortium** /
-
-<span style="text-decoration:underline;">Consortium Members</span> | Join the Consortium | <span style="text-decoration:underline;">Meet the Staff</span> | <span style="text-decoration:underline;">Memorandum of Understanding</span>
-
-
 # Join the Consortium
 
 IIIF is a grassroots, community-driven effort to make digital image and audio/visual resource delivery more effective and sustainable for institutions and end users. We rely on IIIF Consortium (IIIF-C) members to provide leadership and sustainability in support of our shared goals:

@@ -2,7 +2,7 @@
 title: "IIIF Archives Community Group"
 layout: default
 tags: []
-cssversion: 2
+
 ---
 
 ## About

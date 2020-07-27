@@ -2,7 +2,7 @@
 title: "IIIF Discovery for Humans Community Group"
 layout: default
 tags: []
-cssversion: 2
+
 ---
 
 ## About

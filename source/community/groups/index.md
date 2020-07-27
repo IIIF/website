@@ -4,14 +4,7 @@ layout: default
 tags: [groups]
 ---
 
-
-**Community** /  \
-<span style="text-decoration:underline;">Code of Conduct</span> | Community Groups | <span style="text-decoration:underline;">About the IIIF Consortium</span>
-
-
 # Community Groups
-
-<span style="text-decoration:underline;">How Groups Work</span> | <span style="text-decoration:underline;">Committees</span>
 
 The IIIF groups meet regularly to help get things done, and anyone can join a group or attend a meeting. They’ve sprung up organically, usually around a desired set of features like handling a massive newspaper archive. There are more community-oriented groups around usability and helping new folks get up and running, too.
 

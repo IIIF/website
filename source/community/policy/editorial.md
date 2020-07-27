@@ -2,7 +2,7 @@
 title: "IIIF Editorial Process"
 layout: default
 tags: []
-cssversion: 2
+
 ---
 
 This document describes the process by which specifications are designed and written within the IIIF community. The first part describes the expected participation of the community throughout the process, including gathering real world use cases, discussing solutions, implementing products, and the role of the [Technical Review Committee (TRC)][trc]. The second part describes the processes that the [editorial committee][editors] uses to ensure that the specifications are of the highest quality possible. The processes are intended to be as transparent and inclusive as possible, while still making progress quickly and responsibly.

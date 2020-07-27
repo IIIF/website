@@ -5,11 +5,6 @@ layout: default
 tags: [documents ]
 ---
 
-**About the IIIF Consortium** /
-
-<span style="text-decoration:underline;">Consortium Members</span> | <span style="text-decoration:underline;">Join the Consortium</span> | <span style="text-decoration:underline;">Meet the Staff</span> | Memorandum of Understanding
-
-
 # Founding Documents
 
 [Here’s a formatted example of an “official document” (on gfns.uk)](http://goodformandspectacle.com/iiif/document.html)

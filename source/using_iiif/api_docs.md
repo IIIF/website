@@ -8,8 +8,6 @@ tags: [api_docs ]
 
 # API Docs
 
-[github.com/iiif](https://github.com/iiif) | <span style="text-decoration:underline;">Committees</span>
-
 There are four IIIF APIs:
 
 <a name="image"></a>

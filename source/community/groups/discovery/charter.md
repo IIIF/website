@@ -2,7 +2,7 @@
 title: "IIIF Discovery Technical Specification Group Charter"
 layout: default
 tags: []
-cssversion: 2
+
 ---
 
 

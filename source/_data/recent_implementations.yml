@@ -1,0 +1,29 @@
+-
+  name: New National Library of Luxembourg Digital Newspaper viewer
+  github:
+  url:
+  demo: https://viewer.eluxemburgensia.lu/ark:70795/zhnzxq/pages/15/articles/DTL523
+  description: "A new viewer for digitised newspapers, books, manuscripts and more."
+  creators: National Library of Luxembourg
+-
+  name: CoinHoards
+  github:
+  url: http://coinhoards.org
+  demo: http://coinhoards.org/id/igch0012
+  description: "A new web-based, linked open data tool for research in ancient Greek numismatics and ancient economies."
+  creators: American Numismatic Society
+-
+  name: The National Brewery Centre Archives # Required
+  github:
+  url: https://www.nbcarchives.co.uk/
+  demo: https://www.nbcarchives.co.uk/collections/getrecord/GB2779_BAH_CHR_CHRPREM_96_0379_00_96_0379_3192
+  description: The National Brewery Centre is home to an unrivalled array of historical collections that relate to brewing. # Required
+  creators: # Required
+
+# -
+#   name: # Required
+#   github:
+#   url:
+#   demo:
+#   description: # Required
+#   creators: # Required
