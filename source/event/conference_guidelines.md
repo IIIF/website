@@ -1,7 +1,7 @@
 ---
 title: "IIIF Conference Guidelines"
 id: events
-layout: spec
+layout: default
 tags: [events ]
 cssversion: 2
 ---

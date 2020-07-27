@@ -1,6 +1,6 @@
 ---
 title: "2019 IIIF Conference - Sponsorship"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "IIIF Working Groups Meeting - The Hague - 2016"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

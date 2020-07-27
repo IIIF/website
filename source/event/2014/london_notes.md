@@ -1,6 +1,6 @@
 ---
 title: "IIIF-6: London 2014 Working Group Notes"
-layout: spec
+layout: default
 redirect_from:
   - /event/2014/london_notes.html
 ---

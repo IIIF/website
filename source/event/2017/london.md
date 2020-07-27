@@ -1,6 +1,6 @@
 ---
 title: "IIIF Showcase and Technical Workshop - London"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

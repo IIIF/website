@@ -1,6 +1,6 @@
 ---
 title: "Call for Proposals: 2018 IIIF Conference in Washington"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

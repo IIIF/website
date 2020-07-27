@@ -1,6 +1,6 @@
 ---
 title: "2017 IIIF Conference - The Vatican"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

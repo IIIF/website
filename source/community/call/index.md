@@ -1,6 +1,6 @@
 ---
 title: "IIIF Community Calls"
-layout: spec
+layout: default
 tags: []
 cssversion: 2
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Call for Sponsors: 2017 IIIF Conference in The Vatican"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

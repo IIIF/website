@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers: Access to the World's Images - New York 2016"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

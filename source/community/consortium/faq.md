@@ -1,7 +1,7 @@
 ---
 title: IIIF Consortium Frequently Asked Questions (FAQs)
 id: consortium
-layout: spec
+layout: default
 ---
 
 ## Why IIIF?

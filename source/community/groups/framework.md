@@ -1,6 +1,6 @@
 ---
 title: "IIIF Groups Framework"
-layout: spec
+layout: default
 tags: []
 cssversion: 2
 ---

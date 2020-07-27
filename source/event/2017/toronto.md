@@ -1,6 +1,6 @@
 ---
 title: "IIIF Working Meeting - Toronto - 2017"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

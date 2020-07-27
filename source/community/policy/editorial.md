@@ -1,6 +1,6 @@
 ---
 title: "IIIF Editorial Process"
-layout: spec
+layout: default
 tags: []
 cssversion: 2
 ---

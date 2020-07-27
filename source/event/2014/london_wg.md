@@ -1,6 +1,6 @@
 ---
 title: "London Working Group Meeting"
-layout: spec
+layout: default
 tags: [event ]
 redirect_from:
   - /event/2014/london_wg.html

@@ -1,9 +1,7 @@
 ---
 title: "IIIF Technical Review Committee"
-layout: spec
+layout: default
 tags: [trc]
-redirect_from:
-  - /community/trc/
 
 ---
 

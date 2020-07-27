@@ -1,7 +1,7 @@
 ---
 title: "Memorandum of Understanding covering the establishment of the IIIF Consortium"
 id: iiifc_mou
-layout: spec
+layout: default
 ---
 
 16 June 2015

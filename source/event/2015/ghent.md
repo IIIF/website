@@ -1,6 +1,6 @@
 ---
 title: "IIIF: Access to the World's Images - Ghent 2015"
-layout: spec
+layout: default
 tags: [event ]
 redirect_from:
   - /event/2015/ghent.html

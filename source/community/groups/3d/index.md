@@ -1,6 +1,6 @@
 ---
 title: "IIIF 3D Community Group"
-layout: spec
+layout: default
 tags: [3d]
 cssversion: 2
 ---

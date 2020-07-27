@@ -1,6 +1,6 @@
 ---
 title: "IIIF Museums Community Group"
-layout: spec
+layout: default
 tags: []
 cssversion: 2
 ---

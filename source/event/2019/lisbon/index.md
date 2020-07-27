@@ -1,6 +1,6 @@
 ---
 title: "2019 IIIF Mini Conference - National Library of Portugal, Lisbon, Portugal"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

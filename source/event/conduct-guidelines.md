@@ -1,6 +1,6 @@
 ---
 title: "Guidelines for IIIF Code of Conduct Team Members"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

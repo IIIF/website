@@ -1,7 +1,7 @@
 ---
 title: IIIF Consortium
 id: consortium
-layout: spec
+layout: default
 ---
 
 # About the IIIF Consortium

@@ -1,0 +1,44 @@
+-
+  name: Annona Annotation
+  github: https://github.com/ncsu-libraries/annona
+  url: https://ncsu-libraries.github.io/annona/
+  demo: https://ncsu-libraries.github.io/annona/examples/
+  description: A JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
+  creators: Niqui O'Neil at NC State University Libraries
+-
+  name: IIIF Image Manipulation Tool
+  github: https://github.com/jbhoward-dublin/iiif-imageManipulation
+  url:
+  demo: https://jbhoward-dublin.github.io/IIIF-imageManipulation/index.html?imageID=https://iiif.ucd.ie/loris/ivrla:10408
+  description: Crop and resize any IIIF Image.
+  creators: John Howard at University College Dublin
+-
+  name: Timeliner
+  github: https://github.com/digirati-co-uk/timeliner
+  url: https://iiif-timeliner.netlify.app/
+  demo:
+  description: "Create a visual representation of any IIIF manifest with an audio file."
+  creators: Digirati
+-
+  name: Manifesto # Required
+  github: https://github.com/IIIF-Commons/manifesto
+  url: https://iiif-commons.github.io/manifesto/
+  demo:
+  description: IIIF Presentation API client and server utility library. # Required
+  creators: Ed Silverton # Required
+-
+  name: Manifest Editor # Required
+  github: https://github.com/bodleian/iiif-manifest-editor
+  url:
+  demo: https://digital.bodleian.ox.ac.uk/manifest-editor/#/?_k=ucy3h9
+  description: a web application that generates IIIF manifests. It allows you to import, view, update and export images and metadata using the IIIF APIs. # Required
+  creators: Rafael Schwemmer / text & bytes # Required
+
+
+# -
+#   name: # Required
+#   github:
+#   url:
+#   demo:
+#   description: # Required
+#   creators: # Required

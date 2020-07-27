@@ -1,6 +1,6 @@
 ---
 title: "Call for Proposals: 2017 IIIF Conference in The Vatican"
-layout: spec
+layout: default
 tags: [event ]
 ---
 

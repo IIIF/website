@@ -1,7 +1,7 @@
 ---
 title: "Next Steps for the International Image Interoperability Framework"
 id: iiifc_next_steps
-layout: spec
+layout: default
 ---
 
 ### 180411 (Final Version)

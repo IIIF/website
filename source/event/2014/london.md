@@ -1,6 +1,6 @@
 ---
 title: "Sharing Images of Global Cultural Heritage"
-layout: spec
+layout: default
 tags: [event ]
 redirect_from:
   - /event/2014/london.html

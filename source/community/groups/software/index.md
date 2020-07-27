@@ -1,6 +1,6 @@
 ---
 title: "Software Developers Community Group"
-layout: spec
+layout: default
 tags: [components, software development, implementation]
 cssversion: 2
 ---

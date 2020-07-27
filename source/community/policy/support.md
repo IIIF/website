@@ -1,7 +1,7 @@
 ---
 title: "IIIF Support for Grant Proposals"
 id: iiifc_grant_support
-layout: spec
+layout: default
 ---
 ## IIIF Support for Grant Proposals
 

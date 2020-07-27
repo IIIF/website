@@ -1,6 +1,6 @@
 ---
 title: "IIIF-6: London 2014 Authentication Scenarios"
-layout: spec
+layout: default
 redirect_from:
   - /event/2014/london_auth_scenarios.html
 ---

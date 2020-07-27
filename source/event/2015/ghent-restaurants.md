@@ -1,6 +1,6 @@
 ---
 title: "Restaurant List: Ghent 2015"
-layout: spec
+layout: default
 tags: [event ]
 redirect_from:
   - /event/2015/ghent-restaurants.html

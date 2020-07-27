@@ -1,6 +1,6 @@
 ---
 title: "IIIF Discovery Technical Specification Group"
-layout: spec
+layout: default
 tags: []
 cssversion: 2
 ---
