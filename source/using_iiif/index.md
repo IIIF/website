@@ -17,7 +17,7 @@ We’ve illustrated the components, how they fit together, and which [APIs]({{ s
 
 Find out more about how the framework fits together in the [API docs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) section.
 
-Explore projects people have made through their conference [talks]({{ site.url }}{{ site.baseurl }}/using_iiif/talks/), check out the variety of [tools]({{ site.url }}{{ site.baseurl }}/using_iiif/community_tools/) the community has made to help, or browse [The Cookbook]({{ site.url }}{{ site.baseurl }}/using_iiif/cookbook/), a new community initiative to string together commonly used functions into “recipes” that can be reused easily.
+Explore projects people have made through their conference [talks]({{ site.url }}{{ site.baseurl }}/using_iiif/talks/), take a look at a [few illustrated case study examples]({{ site.url }}{{ site.baseurl }}/demos/case_studies/), check out the variety of [tools]({{ site.url }}{{ site.baseurl }}/using_iiif/community_tools/) the community has made to help, or browse [The Cookbook]({{ site.url }}{{ site.baseurl }}/using_iiif/cookbook/), a new community initiative to string together commonly used functions into “recipes” that can be reused easily.
 
 
 ## Who is using IIIF?

@@ -32,6 +32,9 @@
   url: /demos
   sub_pages:
     -
+      name: Case Studies
+      url: /case_studies
+    -
       name: Image Viewers
       url: /image_viewers
     -
