@@ -33,4 +33,9 @@ You can **[join the consortium]({{ site.url }}{{ site.baseurl }}/community/conso
 
 {%include recent_tools.html %}
 
+## Recent Implementations
+
+{% include recent_implementations.html %}
+
+
 [Let us know if you’ve made something to share](https://docs.google.com/forms/d/e/1FAIpQLSetIpJYr9yq827QD7Bl0J31q4E2w0_O-8bUjoqX4XYKm7eU8A/viewform), or check out the community-led [Awesome IIIF Index](https://github.com/IIIF/awesome-iiif). (Awesome IIIF is hosted on Github.)
