@@ -27,7 +27,7 @@ _For more, see the [Project Mirador site](https://projectmirador.org/)_
 
 Publish once, use often! A developer’s dream, IIIF allows you to set your images to stun! When you adopt the framework, you can serve all your digital objects to anyone who speaks IIIF anywhere in the world. There’s a thriving tight community of folks around the world contributing to the growing toolset too.
 
-{%- include uv.html -%}
+{%- include uv.html manifest="https://preview.iiif.io/cookbook/0026_0064_0065-opera-recipes/recipe/0026-toc-opera/manifest.json" -%}
 
 [Caption that links to UV, with a note on benefits to efficiency - can show a bunch of filetypes in one viewer]
 
