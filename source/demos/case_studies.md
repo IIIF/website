@@ -10,9 +10,7 @@ tags: [case_study ]
 
 You can deliver images from any repository running a IIIF-compatible server and deliver structural info from somewhere else into one manifest.
 
-![IIIF Image API]({{ site.url }}{{ site.baseurl }}/img/interoperable_bit.png "Interoperable bit")
-
-See below for just a few live examples of the many ways that IIIF is used out in the wild. 
+See below for just a few live examples of the many ways that IIIF is used out in the wild.
 
 ---
 

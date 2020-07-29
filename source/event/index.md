@@ -6,9 +6,7 @@ tags: [events ]
 
 ---
 
-![IIIF Göttingen Conference 2019]({{ site.url }}{{ site.baseurl }}/img/2019-06-26-IIIF-Group--3.jpg "Göttingen Conference 2019")
-
-
+![IIIF Event tshirt montage]({{ site.url }}{{ site.baseurl }}/img/montage_geom.jpg "Event tshirt montage")
 
 We hear a lot that attending a IIIF event is the best way to get involved. One conference attendee told us:
 

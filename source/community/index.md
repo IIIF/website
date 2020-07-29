@@ -8,6 +8,9 @@ redirect_from:
 ---
 # Community
 
+![IIIF Göttingen Conference 2019]({{ site.url }}{{ site.baseurl }}/img/2019-06-26-IIIF-Group--3.jpg "Göttingen Conference 2019")
+
+
 Scholars, software people, researchers, and culture workers are the types who tend to gravitate around IIIF, and everything we do is guided by our **[code of conduct]({{ site.url }}{{ site.baseurl }}/event/conduct/)**.
 
 Overall, we think there are [hundreds of adopters]({{ site.url }}{{ site.baseurl }}/community/map) of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.

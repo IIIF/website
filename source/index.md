@@ -43,8 +43,8 @@ _For more, see the [Universal Viewer site](https://universalviewer.io/)_
 
 We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. [Join the IIIF Consortium today]({{ site.url }}{{ site.baseurl }}/community/consortium/join/) as publishers of your collection objects, code contributors, or voting members.
 
-[could show a big array of logos? Join this cool crowd?] \
-[Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members]
+<!-- [could show a big array of logos? Join this cool crowd?] \
+[Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members] -->
 
 ---
 

@@ -8,12 +8,14 @@ tags: [using_iiif ]
 
 # Using IIIF
 
+![IIIF Interoperability]({{ site.url }}{{ site.baseurl }}/img/interoperable_bit.png "Interoperable bit")
+
 There are two main components of the framework: **delivering objects** and **viewing them**.
 
-We’ve illustrated the components, how they fit together, and which [APIs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) are needed for which parts below.
+<!-- We’ve illustrated the components, how they fit together, and which [APIs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) are needed for which parts below.
 
 ![The IIIF Components]({{ site.url }}{{ site.baseurl }}/img/iiif_components.png "The IIIF Components")
-
+ -->
 
 Find out more about how the framework fits together in the [API docs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) section.
 
