@@ -9,7 +9,7 @@ Community members can **host local events** like workshops, meetings, and workin
 
 ## Hosting a local event
 
-Anyone can host a IIIF-related event in their region. You can use our short <span style="text-decoration:underline;">guide to hosting an event</span> and <span style="text-decoration:underline;">marketing materials</span> (including pre-made “Introduction to IIIF” presentations). Plus, community members with firsthand experience put together thoughtful presentations and outlines to help you get started:
+Anyone can host a IIIF-related event in their region. You can use our short [guide to hosting an event]({{ site.url }}{{ site.baseurl }}/event/host_your_own_IIIF_event/) and <span style="text-decoration:underline;">marketing materials</span> (including pre-made “Introduction to IIIF” presentations). Plus, community members with firsthand experience put together thoughtful presentations and outlines to help you get started:
 
 
 
@@ -19,7 +19,7 @@ Anyone can host a IIIF-related event in their region. You can use our short <spa
 
 ## Hosting the Annual Conference
 
-The annual conference is the main in-person gathering for the community. The IIIF Consortium puts out a call for hosts each year. Take a look at a <span style="text-decoration:underline;">previous event schedule</span>, and if you’re interested in hosting, read on to learn about the typical format (which, we should add, is open to modification):
+The annual conference is the main in-person gathering for the community. The IIIF Consortium puts out a call for hosts each year. Take a look at a [previous event schedule]({{ site.url }}{{ site.baseurl }}/event/past_events/), and if you’re interested in hosting, read on to learn about the typical format (which, we should add, is open to modification):
 
 **Day 1:**
 

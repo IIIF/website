@@ -23,7 +23,7 @@ There’s a **#cookbook** channel on the IIIF Slack team too, if you’d like to
 
 *   [Simplest Manifest - Image](https://iiif.io/api/cookbook/mvm-image/) \
 _You’ll need: a text editor and an image_ \
-If all you have for an object is one image on the web and a label, this pattern turns it into a IIIF Presentation resource. 
+If all you have for an object is one image on the web and a label, this pattern turns it into a IIIF Presentation resource.
 
 *   [Annotating part of an image to a Canvas](https://iiif.io/api/cookbook/segment-image-part/)  \
 Extract parts, or segments, of resources from a canvas
@@ -37,7 +37,7 @@ Would you like to build a recipe? There’s <span style="text-decoration:underli
 Feel free to reuse any recipe that suits you, and if you’d like to **submit a recipe**, the first step is to <span style="text-decoration:underline;">open a new issue</span> in the IIIF Cookbook repo for discussion. Good luck, and please be sure to check that there isn’t already a recipe that does what you want.
 
 **Requirements for new recipes** \
-To make sure your submission is not abandoned, please make sure to include the following detail: \
+To make sure your submission is not abandoned, please make sure to include the following detail: 
 
 *   A short, clear name
 *   A use case
