@@ -2,7 +2,7 @@
 title: Texas A&M Joins IIIF Consortium as Full Member, MLOL Joins as Associate Member
 author: Josh Hadro, IIIF-C Managing Director
 date: 2020-04-02
-tags: [news, announcements]
+tags: [news, consortium members]
 layout: post
 ---
 

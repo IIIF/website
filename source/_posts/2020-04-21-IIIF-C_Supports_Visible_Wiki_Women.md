@@ -2,7 +2,7 @@
 title: IIIF-C Supporting VisibleWikiWomen 2020 Campaign
 author: Josh Hadro, IIIF-C Managing Director
 date: 2020-04-21
-tags: [news, announcements]
+tags: [announcements, partnerships]
 layout: post
 excerpt: >
   The IIIF Consortium is excited to be supporting the #VisibleWikiWomen 2020 campaign hosted by Whose Knowledge?
@@ -35,4 +35,4 @@ Here are a few ways a partner can support the campaign:
 -   Partner with a local Wikipedia organization to feature #VisibleWikiWomen during their March/April edit-a-thons
 -   Write joint blog posts with the Whose Knowledge? team to raise awareness about women's invisibility online
 
-If you would like to learn more about the campaign and get some extra-support from WhoseKnowledge?, you can join one of their partners' calls hosted in 3 different time zones. If you are interested, get in touch with IIIF-C Staff via [staff@iiif.io](mailto:staff@iiif.io) for timing info. 
+If you would like to learn more about the campaign and get some extra-support from WhoseKnowledge?, you can join one of their partners' calls hosted in 3 different time zones. If you are interested, get in touch with IIIF-C Staff via [staff@iiif.io](mailto:staff@iiif.io) for timing info.

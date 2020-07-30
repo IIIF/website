@@ -2,7 +2,7 @@
 title: "Call for Proposals: IIIF Conference 2020 in Boston, MA"
 author: 2020 IIIF Conference Program Committee
 date: 2019-12-17
-tags: [news, announcements]
+tags: [cfp, events, announcements]
 layout: post
 excerpt: >
     The IIIF Conference Program Committee are looking for proposal submissions for the 2020 IIIF conference which will be held in Boston, MA June 1-4.

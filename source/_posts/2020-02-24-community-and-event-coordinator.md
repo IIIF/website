@@ -2,7 +2,7 @@
 title: Announcing Megan O'Hearn, IIIF Community and Event Coordinator
 author: Josh Hadro, IIIF-C Managing Director
 date: 2020-02-24
-tags: [news, announcements]
+tags: [announcements, staff, new hires]
 layout: post
 ---
 

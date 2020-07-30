@@ -2,7 +2,7 @@
 title: IIIF Community Newsletter, Volume 3 Issue 4
 author:  Julien A. Raemy
 date: 2019-12-18
-tags: [news, newsletter, announcements]
+tags: [news, newsletters]
 layout: post
 excerpt: >
   Community Snapshot, Announcements and Actions, Community Events and Outreach, Technical Work, Community Groups, Implementations, Adoption, Innovations and Ongoing Work Across the IIIF Community
@@ -18,17 +18,17 @@ excerpt: >
 
 ### 2020 IIIF Conference in Boston, MA, USA - Call for proposals
 
-[The 2020 IIIF conference][2020-boston] will be held in Boston, MA June 1-4. The conference will be co-hosted by Harvard University and the Massachusetts Institute of Technology (MIT). 
+[The 2020 IIIF conference][2020-boston] will be held in Boston, MA June 1-4. The conference will be co-hosted by Harvard University and the Massachusetts Institute of Technology (MIT).
 
 The IIIF Conference Program Committee are looking for proposals for talks in the following forms:
 
 - Up to a ½ day workshop (4 hours)
 - 7 to 10 minute lightning talks
 - 15-20 minute presentations (plus 5-10 mins questions)
-- 90 minute open block (Could be panel session or grouped presentations) 
+- 90 minute open block (Could be panel session or grouped presentations)
 
 Please [submit an abstract of no longer than 500 words for your presentation or discussion by February 3][boston-cfp].
-### Videos from the 2019 IIIF Conference 
+### Videos from the 2019 IIIF Conference
 
 All of the recorded sessions from the Göttingen Conference from Monday 24 June (Showcase) and Wednesday 26 June (plenary session) have been uploaded to the [IIIF YouTube channel][iiif-youtube]. One [playlist features the Showcase talks][yt-showcase], while the other features [the plenary lightning talks][yt-plenary]. We would like to thank our local partners at the Göttingen State and University Library who helped arrange some great A/V recording and editing services.
 
@@ -38,7 +38,7 @@ The IIIF Consortium recently hosted a productive IIIF Working Meeting in Ann Arb
 
 ### IIIF + Maps
 
-Stanford will be hosting a IIIF + Maps event in February 2020. IIIF + Maps aims to move forward IIIF and Maps integration and start to work on collaboration for common goals. This event will be held February 6 - 7, 2020 and will be hosted in conjunction with the annual Geo4LibCamp. For more information please see: <https://geo4libcamp.org/iiif+maps_2020/> 
+Stanford will be hosting a IIIF + Maps event in February 2020. IIIF + Maps aims to move forward IIIF and Maps integration and start to work on collaboration for common goals. This event will be held February 6 - 7, 2020 and will be hosted in conjunction with the annual Geo4LibCamp. For more information please see: <https://geo4libcamp.org/iiif+maps_2020/>
 
 ### Organising a IIIF event
 
@@ -64,26 +64,26 @@ On November 25, Leander Seige (University of Leipzig) gave an [hands-on workshop
 
 ### Europeana Lisbon IIIF Event
 
-There was a IIIF event held before the Europeana AGM in Lisbon on November 27. We had a number of presentations from institutions across Europe on their different uses of IIIF. It was a well attended event and was followed by useful discussions within the wider Europeana Network. The presentations and notes from the Unconference sessions are available in the [Google Drive](https://drive.google.com/drive/folders/1C3x3Ajfv2GX5FHCZ3F7hsTZxKHveHM5D). 
+There was a IIIF event held before the Europeana AGM in Lisbon on November 27. We had a number of presentations from institutions across Europe on their different uses of IIIF. It was a well attended event and was followed by useful discussions within the wider Europeana Network. The presentations and notes from the Unconference sessions are available in the [Google Drive](https://drive.google.com/drive/folders/1C3x3Ajfv2GX5FHCZ3F7hsTZxKHveHM5D).
 
 ### No Time To Wait 4 (NTTW4)
 
 [No Time To Wait](https://mediaarea.net/NoTimeToWait4), a conference on open audiovisual projects and standards, took place on 5-6 December in Budapest, Hungary at the Vera and Donald Blinken Open Society Archives. This year, the conference featured not one but two talks about using IIIF for audiovisual archives.
 
-Andy Irving (British Library) presented on [the challenges of delivering audiovisual content online via the IIIF Presentation API](https://www.youtube.com/watch?v=cjJZ0cjtaz8&feature=youtu.be&t=5930). 
+Andy Irving (British Library) presented on [the challenges of delivering audiovisual content online via the IIIF Presentation API](https://www.youtube.com/watch?v=cjJZ0cjtaz8&feature=youtu.be&t=5930).
 
-Fabian Würtz and Stefan Länzlinger presented [a lightning talk on "Archival IIIF" at the International Institute of Social History (IISH) and the Swiss Social Archives](https://www.youtube.com/watch?time_continue=2480&v=EWMNs38Wmc4). 
+Fabian Würtz and Stefan Länzlinger presented [a lightning talk on "Archival IIIF" at the International Institute of Social History (IISH) and the Swiss Social Archives](https://www.youtube.com/watch?time_continue=2480&v=EWMNs38Wmc4).
 
 ## Technical Work
 
-The state of the specification work on version 3 is coming to a close and work is now focusing on encouraging implementation of the new specifications. Each new feature of the specification requires two implementations to ensure its is implementatable and useful. To encourage implementation work has been undertaken on the image and presentation validators and these now support IIIF version 3.0. 
+The state of the specification work on version 3 is coming to a close and work is now focusing on encouraging implementation of the new specifications. Each new feature of the specification requires two implementations to ensure its is implementatable and useful. To encourage implementation work has been undertaken on the image and presentation validators and these now support IIIF version 3.0.
 
-The [Image Validator](https://iiif.io/api/image/validator/) can now validator 3.0 images by selecting the version in the drop down. Currently version 2.0 is set as the default but this will change in future. 
+The [Image Validator](https://iiif.io/api/image/validator/) can now validator 3.0 images by selecting the version in the drop down. Currently version 2.0 is set as the default but this will change in future.
 
-The [Presentation Validator](https://iiif.io/api/presentation/validator/service/) also now supports 3.0 and this was implemented using JSON Schema which should make it easier to embed into different manifest generation procedures. 
+The [Presentation Validator](https://iiif.io/api/presentation/validator/service/) also now supports 3.0 and this was implemented using JSON Schema which should make it easier to embed into different manifest generation procedures.
 
-Issues and pull request for both validators are welcome. 
- 
+Issues and pull request for both validators are welcome.
+
 ### Road mapping session
 
 In Ann Arbor there was a [discussion on where to head next in the specification process](https://docs.google.com/document/d/1jxnaE4jNXMmmKSj4raWmFThPZLGvqrP14ERnRjclrr8/edit?usp=sharing). The main discussions were on:
@@ -96,14 +96,14 @@ Progress on the Discovery API is going well and this is nearing completion. Ther
 
 ### Cookbook recipes
 
-[Recipes](https://github.com/IIIF/cookbook-recipes) are another method of encouraging implementation of version 3.0 of the specification. They are intended as working demonstrations of IIIF features both to act as documentation and guides but also to allow clients to be tested with the different ways of implementing IIIF. 
+[Recipes](https://github.com/IIIF/cookbook-recipes) are another method of encouraging implementation of version 3.0 of the specification. They are intended as working demonstrations of IIIF features both to act as documentation and guides but also to allow clients to be tested with the different ways of implementing IIIF.
 
 There was a lot of useful discussion on Cookbook recipes in Ann Arbor and this has lead to two recipes which are now making their way through the TRC process. These two recipes are:
 
 * [Recipe #0068](https://github.com/IIIF/cookbook-recipes/issues/68) - A Basic Newspaper
 * [Recipe #103](https://github.com/IIIF/cookbook-recipes/issues/103) - Annotating a Poetry Reading
 
-With these first two recipes we are learning from the process and once they are complete we can help others to submit recipes for review. 
+With these first two recipes we are learning from the process and once they are complete we can help others to submit recipes for review.
 
 ## Community Groups
 
@@ -115,7 +115,7 @@ Discovery of interoperable resources remains one of the great opportunities for 
 
 A [draft charter for this group is online][groups-discovery], based on IIIF Discovery discussions held since the 2018 discovery meeting at Stanford. The first call for interest for this group will be on Thursday, 19 December at 8 AM California / 11 AM Eastern / 4 PM UK / 5 PM Rome.
 
-Please join us if you can to review the proposed objectives and approach for the group. If you cannot join the call but are interested in participating, please indicate your interest in the [Interested Participants section of the notes doc][discovery-interest]. 
+Please join us if you can to review the proposed objectives and approach for the group. If you cannot join the call but are interested in participating, please indicate your interest in the [Interested Participants section of the notes doc][discovery-interest].
 
 ### [Outreach Community Group][groups-outreach]
 The IIIF Outreach Community Group continue to meet monthly to support outreach activities by the community and regional events. In the New Year we will be reviewing the [Awesome IIIF list][awesome-iiif] and getting an up to date view of IIIF adoption. Please join the Slack channel and our monthly calls.
@@ -132,11 +132,11 @@ The new Digital Library - based on IIIF & Mirador - is made possible thanks to t
 
 A Python script programmatically using a CMS API to loop round all associated audio, video and images can allow the full media relating to an object to be shown in a manifest. This customisation of the Digirati-BL AV Player does that (hit "Load URL JSON" and press play!):
 
-<https://librarylabs.ed.ac.uk/iiif/av-player/?manifest=https://librarylabs.ed.ac.uk/iiif/manifest/mimed_context/2695.json> 
+<https://librarylabs.ed.ac.uk/iiif/av-player/?manifest=https://librarylabs.ed.ac.uk/iiif/manifest/mimed_context/2695.json>
 
 Alternatively, with a csv of annotations and a Python script to turn them into a manifest, interesting stories can be told. This customisation shows the plight of the Scottish national football team's attempts to qualify for the quarter-finals of the 1978 World Cup (complete with Rod Stewart soundtrack - hit "Load URL JSON" and press play!):
 
-<https://librarylabs.ed.ac.uk/iiif/av-player/?manifest=https://librarylabs.ed.ac.uk/iiif/manifest/arg_78.json> 
+<https://librarylabs.ed.ac.uk/iiif/av-player/?manifest=https://librarylabs.ed.ac.uk/iiif/manifest/arg_78.json>
 
 ### muzz.app
 
@@ -168,23 +168,23 @@ The Content Search API specification focuses on full texts currently but the Goo
 
 ### New Goobi to go targets available
 
-The Goobi community provides Goobi to go targets from time to time. They allow testing, playing and evaluating Goobi workflow and the Goobi viewer with a single click on your own computer. No need to install it on a dedicated server. 
+The Goobi community provides Goobi to go targets from time to time. They allow testing, playing and evaluating Goobi workflow and the Goobi viewer with a single click on your own computer. No need to install it on a dedicated server.
 
-There are new targets with the latest releases from December 2019 for Windows, Mac and Linux at the following URL: <https://goobi.io/goobi-to-go/>. 
+There are new targets with the latest releases from December 2019 for Windows, Mac and Linux at the following URL: <https://goobi.io/goobi-to-go/>.
 
 ### New developments of the Biblissima IIIF Discovery Platform
 
-One year after its launch, the Biblissima ["IIIF Collections of Manuscripts & Rare Books" discovery platform](https://iiif.biblissima.fr/collections) has been significantly improved and enriched (more than 65,000 digitized manuscripts and rare books accessible). 
+One year after its launch, the Biblissima ["IIIF Collections of Manuscripts & Rare Books" discovery platform](https://iiif.biblissima.fr/collections) has been significantly improved and enriched (more than 65,000 digitized manuscripts and rare books accessible).
 
-Users now have the ability to create custom selections of items and export data for another usage: as a spreadsheet (CSV), or as a IIIF collection that can be loaded into a viewer or another compatible tool. Furthermore, several updates have been made and new datasets added, like the Sorbonne University library. The metadata aggregated and reconciled into this application is now systematically linked to the Biblissima authorities' platform available at <https://data.biblissima.fr>. 
+Users now have the ability to create custom selections of items and export data for another usage: as a spreadsheet (CSV), or as a IIIF collection that can be loaded into a viewer or another compatible tool. Furthermore, several updates have been made and new datasets added, like the Sorbonne University library. The metadata aggregated and reconciled into this application is now systematically linked to the Biblissima authorities' platform available at <https://data.biblissima.fr>.
 
 ### Arabian Gulf Digital Archive
 
-The  Arabian Gulf Digital Archive (AGDA) is a website launched earlier this year that includes hundreds of thousands of digitised pages of historical documents from the collections of the National Archives of the UK, and the National Archives of the United Arab Emirates. 
+The  Arabian Gulf Digital Archive (AGDA) is a website launched earlier this year that includes hundreds of thousands of digitised pages of historical documents from the collections of the National Archives of the UK, and the National Archives of the United Arab Emirates.
 
 All the high-resolution documents are available via the IIIF Image API, and all the catalogue records are provided as Presentation API manifests. Finally, the site features a side-by-side transcript-and-image viewer with integrated search that is powered by the Content Search API.
 
-See it in action at <https://www.agda.ae/en>. 
+See it in action at <https://www.agda.ae/en>.
 
 Edited by:
 * Julien A. Raemy (HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève)
@@ -233,12 +233,12 @@ With contributions from:
 [iiifc-faq]: https://iiif.io/community/consortium/faq/
 [iiif-trc]: https://iiif.io/community/trc/
 [slack]: http://bit.ly/iiif-slack
-[submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2 
+[submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
 [iiif-youtube]: https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA
-[yt-showcase]: https://www.youtube.com/watch?v=l8kc8nH5f8I&list=PLYPP1-8uH9c534aTUrsPX1xX86KGVWmAu 
-[yt-plenary]: https://www.youtube.com/watch?v=KKK10ESzZ84&list=PLYPP1-8uH9c6rqC0KbHUPyfmHkfvCQYCk 
+[yt-showcase]: https://www.youtube.com/watch?v=l8kc8nH5f8I&list=PLYPP1-8uH9c534aTUrsPX1xX86KGVWmAu
+[yt-plenary]: https://www.youtube.com/watch?v=KKK10ESzZ84&list=PLYPP1-8uH9c6rqC0KbHUPyfmHkfvCQYCk
 [aa-notes]: https://docs.google.com/document/d/1H5Oareex3Oefhf4iPY6f6BOUBAoYJ9Llj5jRdxjTxIc/edit?usp=sharing
 [sharecare]: http://sharecare.nu/amsterdam-x-2019/
-[discovery-charter]: https://docs.google.com/document/d/14cE_amET6EuXaGf2mKXN72o8Hcw-Yxnc26P62ZKdohk/edit 
-[discovery-interest]: https://docs.google.com/document/d/1MLPLZ_a3v_CoOYyiBQLgGtZNaT61Y3vVvkuIS6QUB7A/edit#bookmark=id.mdunsrn5s7ur 
-[boston-cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform 
+[discovery-charter]: https://docs.google.com/document/d/14cE_amET6EuXaGf2mKXN72o8Hcw-Yxnc26P62ZKdohk/edit
+[discovery-interest]: https://docs.google.com/document/d/1MLPLZ_a3v_CoOYyiBQLgGtZNaT61Y3vVvkuIS6QUB7A/edit#bookmark=id.mdunsrn5s7ur
+[boston-cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform

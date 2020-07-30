@@ -2,7 +2,7 @@
 title: IIIF Community Newsletter, Volume 3 Issue 3
 author:  Julien A. Raemy
 date: 2019-10-02
-tags: [news, newsletter, announcements]
+tags: [news, newsletters]
 layout: post
 excerpt: >
   Community Snapshot, Announcements and Actions, Community Groups, Implementations, Adoption, Innovations and Ongoing Work Across the IIIF Community
@@ -20,13 +20,13 @@ excerpt: >
 
 There is now a job listing posted for a Community and Event Coordinator to join Josh Hadro, Managing Director, and Glen Robson, Technical Coordinator, on the IIIF Consortium staff. For all questions regarding the position, please contact <admin@iiif.io>. Please help us spread the word!
 
-### Videos from the 2019 IIIF Conference 
+### Videos from the 2019 IIIF Conference
 
 Some of the recorded sessions of the Göttingen Conference from Monday 24 June (Showcase) and Wednesday 26 June (plenary session) are still being uploaded to the [IIIF YouTube channel][iiif-youtube]. We would like to thank our local partners at the Göttingen State and University Library who helped arrange some great A/V recording and editing services.
 
 ### 2019 IIIF Working Meeting in Ann Arbor, MI, USA
 
-The [IIIF Showcase and Working Meeting in Ann Arbor][2019-ann], which is hosted jointly by the University of Michigan Library and ITHAKA will take place from November 4 to 7, 2019. 
+The [IIIF Showcase and Working Meeting in Ann Arbor][2019-ann], which is hosted jointly by the University of Michigan Library and ITHAKA will take place from November 4 to 7, 2019.
 
 Here are the links to register for this exciting and free event:
 
@@ -66,7 +66,7 @@ The Museums Community Group’s recent calls have had a focus on DAMS. Many inst
 David Newbury (J. Paul Getty Trust), Emmanuelle Delma-Glass (Yale Center for British Art), and Thomas R. Raich (Yale University Art Gallery) will be presenting IIIF: Collaboration and Community Built Technological Innovations at MCN in San Diego, CA in November. Also in November, Tina Shah will feature museums and their use of IIIF during the Showcase in Ann Arbor, MI.
 
 ### [Outreach Community Group][groups-outreach]
-After a Summer break, the IIIF Outreach Community Group met in September to review the Awesome IIIF list and merge a couple of pull requests. Please continue to submit pull requests at <https://github.com/IIIF/awesome-iiif> as the Outreach Group will be regularly reviewing them from now on. 
+After a Summer break, the IIIF Outreach Community Group met in September to review the Awesome IIIF list and merge a couple of pull requests. Please continue to submit pull requests at <https://github.com/IIIF/awesome-iiif> as the Outreach Group will be regularly reviewing them from now on.
 
 Julien A. Raemy has stepped down as one of the Co-Chairs of the Group. We wish to pass on our huge thanks to him for all of his work and commitment to the group as one of the founding Co-Chairs. Julien has been instrumental in keeping the newsletter and translations work continuing for the community. If anyone would like to find out more about the Outreach Group's work please contact Claire Knowles at <c.knowles1@leeds.ac.uk> or via the Outreach channel on Slack.
 
@@ -79,7 +79,7 @@ The Heritage Digital Collection in "Milutin Bojic" Library is the first digital 
 Harvard Library has released [Harvard Digital Collections][harvard-dc], a new Blacklight-based, dedicated search and discovery interface that makes over 6M digital objects, including images, text, and media, freely available to the public with a goal of sparking curiosity, creativity, and experimentation. You will find explicit IIIF call outs in the "Tools and Related Links" box on the individual item detail pages. Feedback welcome and encouraged! They will be working in early 2020 on v2 of the platform, so keep your eyes open for new enhancements including raw-text download, crowdsourcing metadata enhancements, and creating sets of material for transformation, analysis, and reuse.
 
 ### Europeana Media on the road
-[Europeana Media][europeana-media] is a collaborative project in which 6 partners work on bringing IIIF/AV-based universal playout to the common cultural platform <https://www.europeana.eu/>, building on the experience of audiovisual networks such as EUscreen, the European Film Gateway and Europeana Sounds. This fall, the project will take part in a variety of workshops and panels at the IASA/JTS conference in Hilversum (NL), the FIAT/IFTA conference in Dubrovnik (HR) and the AMIA conference in Baltimore (USA). 
+[Europeana Media][europeana-media] is a collaborative project in which 6 partners work on bringing IIIF/AV-based universal playout to the common cultural platform <https://www.europeana.eu/>, building on the experience of audiovisual networks such as EUscreen, the European Film Gateway and Europeana Sounds. This fall, the project will take part in a variety of workshops and panels at the IASA/JTS conference in Hilversum (NL), the FIAT/IFTA conference in Dubrovnik (HR) and the AMIA conference in Baltimore (USA).
 
 ### Prince Albert: His Life and Legacy
 Royal Collection Trust has launched a new website [‘Prince Albert: His Life and Legacy’][albert], comprising more than 17,500 photographs, prints and private and official papers relating to Prince Albert, consort of Queen Victoria. The majority are publicly available for the first time and shed fresh light on Albert’s contribution as Queen Victoria’s unofficial Private Secretary, a guide and mentor to some of the greatest national projects of his day, university chancellor, art historian, collector, and patron of art, architecture and design. It gives new insight into Albert’s achievements before his premature death at the age of 42, his impact on Victorian society and his influence on our world today.
@@ -120,7 +120,7 @@ With contributions from:
 [ann-showcase]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
 [ann-wm]: https://www.eventbrite.co.uk/e/2019-iiif-working-meeting-ann-arbor-tickets-70170260137
 [cec-job]: https://jobs.diglib.org/job/community-and-event-coordinator/
-[rescarta]: https://rescarta.org 
+[rescarta]: https://rescarta.org
 [harvard-dc]: https://library.harvard.edu/digital-collections
 [europeana-media]: https://pro.europeana.eu/project/europeana-media
 [awesome-iiif]: https://github.com/IIIF/awesome-iiif
@@ -148,5 +148,5 @@ With contributions from:
 [iiifc-faq]: https://iiif.io/community/consortium/faq/
 [iiif-trc]: https://iiif.io/community/trc/
 [slack]: http://bit.ly/iiif-slack
-[submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2 
+[submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
 [iiif-youtube]: https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA

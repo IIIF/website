@@ -2,7 +2,7 @@
 title: Tuition Fellowships Available for IIIF Workshop at DHSI 2020
 author: Glen Robson
 date: 2020-01-14
-tags: [news, announcements]
+tags: [announcements, events]
 layout: post
 ---
 
@@ -17,7 +17,7 @@ To apply for a tuition fellowship, please complete the [Tuition Fellowship Appli
  * Brief one-paragraph bio
  * A one-paragraph statement describing how attending the IIIF workshop at DHSI might expand your professional horizons, any previous experience with IIIF, what you hope to learn, and how you might contribute back to your community after the workshop
 
-The deadline for this application is Tuesday, February 11, 2020. Applicants will be notified of their status no later than February 21st, 2020. The fellowship award will cover tuition only. Applicants or their employers are responsible for the costs of travel and lodging. Up to five applicants will be selected according to need, increasing diversity and impact attendance at the IIIF workshop will have. 
+The deadline for this application is Tuesday, February 11, 2020. Applicants will be notified of their status no later than February 21st, 2020. The fellowship award will cover tuition only. Applicants or their employers are responsible for the costs of travel and lodging. Up to five applicants will be selected according to need, increasing diversity and impact attendance at the IIIF workshop will have.
 
 Please direct any questions to the IIIF Staff, at <admin@iiif.io>.
 
@@ -26,11 +26,11 @@ Please direct any questions to the IIIF Staff, at <admin@iiif.io>.
 **Introduction to IIIF: Sharing, Consuming, and Annotating the World’s Images**  
 June 8th to 12th (Week 2) 2020
 
-Access to image-based and A/V resources is fundamental to research, scholarship and the transmission of cultural knowledge. Digital images are containers for much of the information content in the Web-based delivery of books, newspapers, manuscripts, maps, scrolls and archival materials. Yet much of the Internet’s resources are locked up in silos, with access restricted to bespoke, locally built applications. A growing community of the world’s leading research libraries and content repositories have embarked on an effort to collaboratively produce an interoperable technology and community framework for image and AV delivery. IIIF (International Image Interoperability Framework) has the following goals: 
+Access to image-based and A/V resources is fundamental to research, scholarship and the transmission of cultural knowledge. Digital images are containers for much of the information content in the Web-based delivery of books, newspapers, manuscripts, maps, scrolls and archival materials. Yet much of the Internet’s resources are locked up in silos, with access restricted to bespoke, locally built applications. A growing community of the world’s leading research libraries and content repositories have embarked on an effort to collaboratively produce an interoperable technology and community framework for image and AV delivery. IIIF (International Image Interoperability Framework) has the following goals:
  * To give scholars an unprecedented level of uniform and rich access to image-based resources hosted around the world,
- * To define a set of common application programming interfaces that support interoperability between image repositories, and 
- * To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images.” (https://iiif.io). 
- * and with the release of version 3.0 to extend these benefits to Audio and Video resources. 
+ * To define a set of common application programming interfaces that support interoperability between image repositories, and
+ * To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images.” (https://iiif.io).
+ * and with the release of version 3.0 to extend these benefits to Audio and Video resources.
 This course will introduce students to the basic concepts and technologies that make IIIF possible, allowing for guided, hands-on experience in installing servers and clients that support IIIF, and utilizing the advanced functionality that IIIF provides for interpretive research, such as annotation.
 
 ## About the International Image Interoperability Framework (IIIF)

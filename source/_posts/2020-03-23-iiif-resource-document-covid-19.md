@@ -2,7 +2,7 @@
 title: IIIF Community Shares Remote Resource Project Ideas and Tools During COVID-19
 author:  IIIF-C Staff
 date: 2020-03-23
-tags: [news, announcements]
+tags: [announcements, resources]
 layout: post
 excerpt: >
   The IIIF-C staff have started an open document for sharing tools and ideas for anyone from teachers to developers finding themself working increasingly with digital collections while working remotely during these challenging times.

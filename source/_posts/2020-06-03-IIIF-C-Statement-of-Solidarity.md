@@ -2,7 +2,7 @@
 title: IIIF-C Statement of Solidarity
 author: Josh Hadro, IIIF-C Managing Director
 date: 2020-06-03
-tags: [news, announcements]
+tags: [announcements]
 layout: post
 
 ---

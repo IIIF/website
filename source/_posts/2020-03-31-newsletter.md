@@ -2,7 +2,7 @@
 title: IIIF Community Newsletter, Volume 4, Issue 1
 author:  Meg O’Hearn, Julien A. Raemy
 date: 2020-03-31
-tags: [news, newsletter, announcements]
+tags: [news, newsletters]
 layout: post
 excerpt: >
   Virtual event in June, IIIF resources document, new implementations and adoptions, and recommended reading.
@@ -52,7 +52,7 @@ The development is just another step in the consistent support and expansion of 
 ## Recommended Reading
 
 * The New York Academy of Medicine Library [announced](https://nycdh.org/groups/nycdh-announcements-71439400/forum/topic/announcing-the-newly-digitized-dr-robert-matz-hospital-postcard-collection/) the launch of the Dr. Robert Matz Hospital Postcard Collection, IIIF-enabled via [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
-* Journal article by Yinlin Chen, Soumik Ghosh, Tingting Jiang, and James Tuttle published in the latest issue of code4lib: [Scaling IIIF Image Tiling in the Cloud](https://journal.code4lib.org/articles/14933) 
+* Journal article by Yinlin Chen, Soumik Ghosh, Tingting Jiang, and James Tuttle published in the latest issue of code4lib: [Scaling IIIF Image Tiling in the Cloud](https://journal.code4lib.org/articles/14933)
 * ScienceStories.io uses Linked Open Data, IIIF, Wikidata, and semantic web technologies to share information about under-represented scientists. Watch a video about the project [here](https://www.youtube.com/watch?v=_xMjPB0b0IQ&feature=youtu.be).
 * ALLEA has just released a report titled ["Sustainable and FAIR Data Sharing in the Humanities"](https://repository.dri.ie/catalog/tq582c863). Read their announcement about the report [here](https://allea.org/portfolio-item/sustainable-and-fair-data-sharing-in-the-humanities/).
 * Rainer Simon (@aboutgeo) [tweets](https://twitter.com/aboutgeo/status/1230838029876592641): “Today's #FridayPreview: a small enhancements to the #Recogito JSON-LD export that includes geo-references in a way that's #IIIF #geo compliant. Or, at least, supposed to be :-) Let us know what you think, @iiif_io

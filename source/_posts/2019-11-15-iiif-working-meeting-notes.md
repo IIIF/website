@@ -2,7 +2,7 @@
 title: IIIF Ann Arbor Working Meeting Summary Report and Links
 author: Josh Hadro
 date: 2019-11-15
-tags: [news, announcements]
+tags: [events, reports]
 layout: post
 ---
 

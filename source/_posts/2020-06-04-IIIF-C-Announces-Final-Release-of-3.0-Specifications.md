@@ -2,10 +2,10 @@
 title: IIIF Announces Final Release of 3.0 Specifications
 author: IIIF Editorial Committee + Community
 date: 2020-06-04
-tags: [news, announcements]
+tags: [announcements, specs, APIs]
 layout: post
 excerpt: >
-  The International Image Interoperability Framework (IIIF) Community is excited to announce the 3.0 release of two core IIIF APIs: the IIIF Image API, and the IIIF Presentation API. 
+  The International Image Interoperability Framework (IIIF) Community is excited to announce the 3.0 release of two core IIIF APIs: the IIIF Image API, and the IIIF Presentation API.
 ---
 
 FOR IMMEDIATE RELEASE  
@@ -15,7 +15,7 @@ IIIF COMMUNITY RELEASES VERSION 3.0 OF IMAGE AND PRESENTATION APIS
 MEDIA CONTACT  
 Meg O'Hearn  
 IIIF Community and Events Coordinator  
-meg.ohearn@iiif.io 
+meg.ohearn@iiif.io
 
 The International Image Interoperability Framework (IIIF) community is excited to announce the 3.0 release of two core IIIF APIs: the [IIIF Image API](https://iiif.io/api/image/3.0/), and the [IIIF Presentation API](https://iiif.io/api/presentation/3.0/). This is the first major release since June 2017 and represents the work of dozens of contributors.
 
