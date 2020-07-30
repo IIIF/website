@@ -49,11 +49,12 @@ jobs:
 
     # Deploy to Preview site
     - name: Create GitHub deployment
-      uses: glenrobson/deployments@v0.4.1
+      uses: glenrobson/deployments@v0.4.2
       id: deployment
       with:
         step: start
         token: ${{ secrets.GITHUB_TOKEN }}
+        auto_inactive: 'false'
         env: staging
 
     - name: Deploy to S3
@@ -68,11 +69,12 @@ jobs:
         SOURCE_DIR: "_site"
         DEST_DIR: "root/${BRANCH_NAME}"
     - name: Update deployment status
-      uses: glenrobson/deployments@v0.4.1
+      uses: glenrobson/deployments@v0.4.2
       if: always()
       with:
         step: finish
         token: ${{ secrets.GITHUB_TOKEN }}
         status: ${{ job.status }}
+        auto_inactive: 'false'
         deployment_id: ${{ steps.deployment.outputs.deployment_id }}
         env_url: "https://preview.iiif.io/root/${{ env.BRANCH_NAME}}/index.html"
