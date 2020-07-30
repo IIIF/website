@@ -32,7 +32,7 @@ We’re all in this game because we want to share knowledge and collections as w
 <!-- [could show a big array of logos? Join this cool crowd?] \
 [Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members] -->
 
-### Easy comparison options
+### Easy comparison options: Mirador
 
 {%- include mirador.html -%}
 
@@ -40,7 +40,7 @@ We’re all in this game because we want to share knowledge and collections as w
 
 _For more, see the [Project Mirador site](https://projectmirador.org/)_
 
-### Simple integration of many material types
+### Simple integration of many material types: Universal Viewer
 
 {%- include uv.html manifest="https://preview.iiif.io/cookbook/0026_0064_0065-opera-recipes/recipe/0026-toc-opera/manifest.json" -%}
 
