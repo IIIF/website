@@ -22,21 +22,16 @@
 <script type="text/javascript">
 var mirador = Mirador.viewer({
   "id": "iiif-viewer",
-  "manifests": {
-    "https://purl.stanford.edu/hs631zg4177/iiif/manifest": {
-      "provider": "Stanford University"
-    }
-  },
   "windows": [
     {
-      "loadedManifest": "https://purl.stanford.edu/hs631zg4177/iiif/manifest",
+      "loadedManifest": "{{include.manifest_1}}",
       "canvasIndex": 0,
       allowClose: false,
       	defaultSideBarPanel: 'info',
       	sideBarOpenByDefault: true,
     },
     {
-      "loadedManifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020027/manifest.json",
+      "loadedManifest": "{{include.manifest_2}}",
       "canvasIndex": 0,
       allowClose: false,
       	defaultSideBarPanel: 'info',

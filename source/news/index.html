@@ -15,7 +15,12 @@ layout: sub-page
   <tr>
    <td>{{ post.date | date: date_format }}
    </td>
-   <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> by {{ post.author | escape }}
+   <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> <em>by {{ post.author | escape }}</em>
+     {% if post.excerpt %}
+     <p>{{ post.excerpt }}</p>
+
+
+     {%endif%}
    </td>
    <td>
     {% for tag in post.tags %}

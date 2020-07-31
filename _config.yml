@@ -17,7 +17,7 @@ github_username:  IIIF
 #  - using_iiif/about.html
 header_pages:
   - using_iiif/index.md
-  - community/index.html
+  - community/index.md
   - demos/index.md
   - event/index.md
   - training+outreach/index.md
