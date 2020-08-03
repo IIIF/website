@@ -7,3 +7,4 @@ scripts/factory.pyc
 *.swp
 .jekyll-cache
 *.DS_Store*
+source/.jekyll-metadata

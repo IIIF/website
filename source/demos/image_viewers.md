@@ -22,6 +22,8 @@ You should also check out the [Awesome IIIF page on Github](https://github.com/I
 ---
 ## Viewers demos
 
+Below you'll find a non-exhaustive list of IIIF Image Viewer demos, particularly those with versions we could embed on our site. But be sure to check out the IIIF Awesome list linked above for a more complete list.
+
 
 ### **[Universal Viewer](https://universalviewer.io/)**
 _Example IIIF manifest from Bodleian Libraries: <https://iiif.bodleian.ox.ac.uk/iiif/manifest/ae9f6cca-ae5c-4149-8fe4-95e6eca1f73c.json>_
@@ -45,7 +47,7 @@ _Example IIIF manifest from Göttingen State and University Library: <https://ma
 
 ### **[Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) [side-by-side using IIIF Quality](https://bl.ocks.org/mejackreed/80c4248278517475a30190b427cb5c9c)**
 
-_Example IIIF image from Princeton University Library: <https://libimages.princeton.edu/loris/pudl0033/2007/04003/00000001.jp2/info.json>_
+_Many example IIIF images as Leaflet layers, see below_
 
-{%- include leaflet.html image="https://libimages.princeton.edu/loris/pudl0033/2007/04003/00000001.jp2/info.json" -%}
+{%- include leaflet.html -%}
 {%- include acronyms.md -%}
