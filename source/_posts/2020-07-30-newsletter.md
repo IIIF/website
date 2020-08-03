@@ -2,7 +2,7 @@
 title: IIIF Community Newsletter, Volume 4, Issue 3
 author:  Meg O’Hearn, IIIF Community
 date: 2020-07-30
-tags: [newsletter]
+tags: [newsletter ]
 layout: post
 excerpt: >
   IIIF Newsletter: New tools for transcription, annotation, and more
