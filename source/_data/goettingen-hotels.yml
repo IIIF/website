@@ -1,10 +1,10 @@
-- name: B&B Göttingen
-  url: https://www.hotelbb.de/de/goettingen-city
-  note: 25 rooms pre-reserved until 23 May, use keyword "IIIF2019" (68,50-78,50 EUR w/ breakfast)
-  address: Maschmühlenweg 19-21, 37073 Göttingen
-  lat: 51.540448
-  lng: 9.930207
-  dates: available 23-29 June
+#- name: B&B Göttingen
+#  url: https://www.hotelbb.de/de/goettingen-city
+#  note: 25 rooms pre-reserved until 23 May, use keyword "IIIF2019" (68,50-78,50 EUR w/ breakfast)
+#  address: Maschmühlenweg 19-21, 37073 Göttingen
+#  lat: 51.540448
+#  lng: 9.930207
+#  dates: available 23-29 June
 - name: Best Western Hotel am Papenberg
   url: https://www.bestwestern.com/en_US/book/hotels-in-goettingen/best-western-hotel-am-papenberg/propertyCode.95275.html
   note: No more rooms reserved, but conference participants can still get rooms at a reduced rate if they give the University of Göttingen as a reference (85,00 EUR w/ breakfast)
