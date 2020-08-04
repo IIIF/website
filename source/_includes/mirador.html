@@ -19,18 +19,53 @@
     color: inherit !important;
   }
 </style>
+{%- if include.manifest_3 -%}
 <script type="text/javascript">
 var mirador = Mirador.viewer({
   "id": "iiif-viewer",
   "windows": [
-    {
-      "loadedManifest": "{{include.manifest_1}}",
+  {
+    "loadedManifest": "{{include.manifest_1}}",
+    "canvasIndex": 0,
+    allowClose: false,
+      defaultSideBarPanel: 'info',
+      sideBarOpenByDefault: true,
+  },
+  {
+      "loadedManifest": "{{include.manifest_2}}",
       "canvasIndex": 0,
       allowClose: false,
       	defaultSideBarPanel: 'info',
       	sideBarOpenByDefault: true,
     },
+
     {
+      "loadedManifest": "{{include.manifest_3}}",
+      "canvasIndex": 0,
+      allowClose: false,
+      	defaultSideBarPanel: 'info',
+      	sideBarOpenByDefault: true,
+    }
+    ],
+    "workspace": {
+	showZoomControls: true
+  }
+}
+);
+</script>
+{%- else -%}
+<script type="text/javascript">
+var mirador = Mirador.viewer({
+  "id": "iiif-viewer",
+  "windows": [
+  {
+    "loadedManifest": "{{include.manifest_1}}",
+    "canvasIndex": 0,
+    allowClose: false,
+      defaultSideBarPanel: 'info',
+      sideBarOpenByDefault: true,
+  },
+  {
       "loadedManifest": "{{include.manifest_2}}",
       "canvasIndex": 0,
       allowClose: false,
@@ -44,3 +79,4 @@ var mirador = Mirador.viewer({
 }
 );
 </script>
+{%-endif-%}

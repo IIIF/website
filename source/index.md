@@ -33,9 +33,9 @@ We’re all in this game because we want to share knowledge and collections as w
 [Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members] -->
 
 ### Easy comparison options: **Mirador**
-_IIIF unites resources across collections for display and study. Here, a Japanese tax map from Stanford University is easily compared to a similar depiction of Omi province held by Kyoto University, and brought together in the Mirador viewer. Users may zoom and pan around each map, and can add additional images from other collections for comparison. For more, see [Project Mirador](https://projectmirador.org/)._
+_IIIF unites resources across collections for display and study. Here, a Japanese tax map from Stanford University is easily compared to a similar depiction of Omi province held by Kyoto University and the National Archives of Japan, and brought together in the Mirador viewer. Users may zoom and pan around each map, and can add additional images from other collections for comparison. For more, see [Project Mirador](https://projectmirador.org/)._
 
-{%- include mirador.html manifest_1="https://purl.stanford.edu/hs631zg4177/iiif/manifest" manifest_2="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020027/manifest.json" -%}
+{%- include mirador.html manifest_1="https://purl.stanford.edu/hs631zg4177/iiif/manifest" manifest_3="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020027/manifest.json" manifest_2="https://api.cultural.jp/na/iiif/M1000000000000000475/manifest" -%}
 
 
 
