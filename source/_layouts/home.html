@@ -1,66 +1,53 @@
 ---
 layout: default
 ---
-<style media="screen">
-
-  .recent_events,
-  .recent_news {
-    float: right;
-    width: 16vw;
-    display: block;
-    clear: both;
-    margin-left: 1em;
-    padding-left: 1em;
-    border-left: 1px solid;
-    font-size: 90%;
-  }
-</style>
-
 
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+<div id="announce-list">
+  <div class="recent_news">
+    <h3 class="">{{ page.list_title | default: "Recent News" }}</h3>
+     {%- if site.posts.size > 0 -%}
+     <ul>
+  {%- for post in site.posts limit: 3 -%}
+    {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+      <li>
+       {{ post.date | date: date_format }} -- <a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> by {{ post.author | escape }}
+       </li>
+      {%- endfor -%}
+     {%- endif -%}
+     </ul>
 
-    <div class="recent_news">
-      <h3 class="">{{ page.list_title | default: "Recent News" }}</h3>
-       {%- if site.posts.size > 0 -%}
-       <ul>
-    {%- for post in site.posts limit: 3 -%}
-      {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
-        <li>
-         {{ post.date | date: date_format }} -- <a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> by {{ post.author | escape }}
-         </li>
-        {%- endfor -%}
-       {%- endif -%}
-       </ul>
+<p>Read the <a href="{{ site.url }}{{ site.baseurl }}/news/">news archive</a> or <a href="{{ site.url }}{{ site.baseurl }}/newsletter/">sign up for the newsletter</a></p>
 
-  <p>Read the <a href="{{ site.url }}{{ site.baseurl }}/news/">news archive</a> or <a href="{{ site.url }}{{ site.baseurl }}/newsletter/">sign up for the newsletter</a></p>
-
-    </div>
+  </div>
 
 <div class="recent_events">
-  <h3 class="">Upcoming <a href="{{ site.url }}{{ site.baseurl }}/event/">Events</a></h3>
-      {%- if site.data.event_calendar.size > 0 -%}
-     <table>
-   {%- for event in site.data.event_calendar limit: 3 -%}
-       <tr>
-        <td>{{ event.date | escape }}
-        </td>
-        <td><a class="" href="{{ event.url | relative_url }}">{{ event.title | escape }}</a>
-        </td>
-        <td>{{ event.location | escape }}
-        </td>
-       </tr>
-       {%- endfor -%}
-     </table>
-      {%- endif -%}
+<h3 class="">Upcoming <a href="{{ site.url }}{{ site.baseurl }}/event/">Events</a></h3>
+    {%- if site.data.event_calendar.size > 0 -%}
+   <table>
+ {%- for event in site.data.event_calendar limit: 3 -%}
+     <tr>
+      <td>{{ event.date | escape }}
+      </td>
+      <td><a class="" href="{{ event.url | relative_url }}">{{ event.title | escape }}</a>
+      </td>
+      <td>{{ event.location | escape }}
+      </td>
+     </tr>
+     {%- endfor -%}
+   </table>
+    {%- endif -%}
 
-      <ul>
-        <li><span>Explore <a href=" {{ site.url }}{{ site.baseurl }}/event/past_events">past events</a></span>
-       </li>
-     </ul>
+    <ul>
+      <li><span>Explore <a href=" {{ site.url }}{{ site.baseurl }}/event/past_events">past events</a></span>
+     </li>
+   </ul>
  </div>
+</div>
+
 </div>
 
 {{ content }}
