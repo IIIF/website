@@ -5,8 +5,7 @@
 layout: home
 title: Welcome to iiif.io.
 ---
-
-IIIF stands for International Image Interoperability Framework.
+<p class="lookatme">IIIF stands for International Image Interoperability Framework.</p>
 
 <p class="lookatme">IIIF is a software system delivering high quality, attributed digital objects* online at large scale. IIIF is _also_ the growing international community of people who improve it. IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
 

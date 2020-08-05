@@ -87,29 +87,37 @@
 
 </style>
 
-
+<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" /> -->
+<!-- <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script> -->
 <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
-<link
-rel="stylesheet"
-href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css"
-type="text/css"
+<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css" type="text/css"
 />
 <!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
 <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+
 <div id="map"></div>
 
 <script>
+
+// var members = omnivore.kml("https://www.google.com/maps/d/u/0/kml?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp&forcekml=1");
+
+
+
+
 	// TO MAKE THE MAP APPEAR YOU MUST
 	// ADD YOUR ACCESS TOKEN FROM
 	// https://account.mapbox.com
-	mapboxgl.accessToken = 'pk.eyJ1IjoiaGFkcm8iLCJhIjoicDk1NGp5SSJ9.2voUgiy8nVA7jOH-JBN1aw';
+mapboxgl.accessToken = 'pk.eyJ1IjoiaGFkcm8iLCJhIjoicDk1NGp5SSJ9.2voUgiy8nVA7jOH-JBN1aw';
 var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/streets-v11',
 center: [-5.427, 35.845],
 zoom: 10
 });
+
+// members.addTo(map);
 
 map.addControl(
 new MapboxGeocoder({
@@ -119,4 +127,4 @@ mapboxgl: mapboxgl
 );
 </script>
 
-<button type="button" name="button" style="background-color: pink; height: 2em; margin: 0 auto;">SUBMIT!</button>
+<button type="button" name="button" style="background-color: pink; height: 4em; margin: 0 auto;">SUBMIT!</button>
