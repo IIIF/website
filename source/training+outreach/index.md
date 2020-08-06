@@ -11,7 +11,7 @@ tags: [training outreach ]
 ![IIIF pins]({{ site.url }}{{ site.baseurl }}/img/2019-06-IIIF-Conference-0705.jpg "IIIF pins")
 
 ## Online workshops
-We regularly offer [online workshops]({{ site.url }}{{ site.baseurl }}/training+outreach/online_training)led by expert instructors. These are one week long and cover working with the Image and Presentation APIs, and annotating images, through asynchronous learning, Zoom meetings, and a dedicated Slack channel.
+We regularly offer [online workshops]({{ site.url }}{{ site.baseurl }}/training+outreach/online_training) led by expert instructors. These are one week long and cover working with the Image and Presentation APIs, and annotating images, through asynchronous learning, Zoom meetings, and a dedicated Slack channel.
 
 ## Self-directed learning
 You can use our [workshop training site](https://training.iiif.io/iiif-online-workshop/) to learn about IIIF on your own. 
