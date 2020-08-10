@@ -63,3 +63,21 @@ Participants will need a laptop on which they can install software and should be
 As well as the core sessions listed above there are a number of guest presentations that were recorded during the first online workshop available in the [Workshop notes](https://training.iiif.io/iiif-online-workshop/GuestPresentations.html). If participants are interested in hearing about other tools we will try and source extra Guest presentations during the week. These sessions will be recorded for later viewing by participants that can’t make these extra calls.
 
 If you have any questions on this event please reach out to <events@iiif.io>.
+
+
+## Fellowship seats
+
+The IIIF Consortium believes that training should be as broadly accessible as possible.
+We know that institutions have different policies in terms of support for training and development, as well as differing abilities to fund these activities. We don't want potential IIIF users excluded because of issues like these.
+
+Likewise, making a certain number of seats available during our online trainings and workshops is a tangible means by which the IIIF Consortium can encourage participation from a more diverse body of institutions.
+
+To these ends, we're making a set number of seats in every online workshop available as fellowship tickets with no cost to the end users (IIIF-C will cover all ticketing and platform fees associated with hosting these courses).
+
+These tickets are first-come, first-served, and made available on the honor system; we do not require any documentation of any kind to claim these tickets. If you count yourself among the groups listed below and your institution does not have funding for training opportunities, then these fellowship seats are available to you.
+
+Candidates from under-represented groups in the IIIF Community -- including but not limited to:
+- BIPOC, ability/disability, non-binary gender identities, etc., as well as members of underrepresented and/or marginalized groups that don’t fit into the categories listed above
+- Attendees from under-represented countries and geographic regions, particularly the Global South
+
+To claim a fellowship seat, register for the workshop and select the "fellowship ticket."
