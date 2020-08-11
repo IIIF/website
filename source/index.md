@@ -3,22 +3,20 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to iiif.io.
+title: International Image Interoperability Framework (IIIF)
 ---
-<p class="lookatme">IIIF stands for International Image Interoperability Framework.</p>
+<p class="lookatme">IIIF is an open-source software system delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's _also_ the international community of people developing and implementing the IIIF APIs.</p>  
 
-<p class="lookatme">IIIF is a software system delivering high quality, attributed digital objects* online at large scale. IIIF is _also_ the growing international community of people who improve it. IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
-
-<small>* A digital object could be a scroll, a map, an incunabulum, a newspaper, a photograph, a book, a score, a 3D model... We think there’s even a quilt in there somewhere.</small>
+<p class="lookatme">IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
 
 
 ## Great for researchers
 
-Researchers need to be able to **access** high quality images, **examine** them closely, and **share** their work with collaborators. IIIF helps this work by providing easy access to large images from multiple repositories and viewing and manipulation tools to aid research. Here’s a demo of one of the more popular IIIF Image Viewers, called Mirador. Have a try:
+Researchers need to be able to **access** high quality images, **examine** them closely, and **share** their work with collaborators. IIIF helps this work by providing easy access to large images from multiple repositories, with viewing and annotation tools to aid research and presentation.
 
 ## Efficient for developers
 
-Publish once, use often! A developer’s dream, IIIF allows you to set your images to stun! When you adopt the framework, you can serve all your digital objects to anyone who speaks IIIF anywhere in the world. There’s a thriving tight community of folks around the world contributing to the growing toolset too.
+Publish once, use often! When you adopt the framework, you can easily serve your digital objects to your own site, or to sites using IIIF anywhere in the world--all while giving users a high-quality viewing experience for multiple file types.
 
 ## Powerful *and* practical for leaders
 
@@ -32,7 +30,7 @@ We’re all in this game because we want to share knowledge and collections as w
 [Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members] -->
 
 ### Easy comparison options: **Mirador**
-_IIIF unites resources across collections for display and study. Here, a Japanese tax map from Stanford University is easily compared to a similar depiction of Omi province held by Kyoto University and the National Archives of Japan, and brought together in the Mirador viewer. Users may zoom and pan around each map, and can add additional images from other collections for comparison. For more, see [Project Mirador](https://projectmirador.org/)._
+_IIIF unites resources across collections for display and study. Here, maps from the collections of Stanford University, Kyoto University, and the National Archives of Japan are brought together in the Mirador viewer. Users may zoom and pan around each map, and can add additional images from other collections for comparison. For more, see [Project Mirador](https://projectmirador.org/)._
 
 {%- include mirador.html manifest_1="https://purl.stanford.edu/hs631zg4177/iiif/manifest" manifest_3="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020027/manifest.json" manifest_2="https://api.cultural.jp/na/iiif/M1000000000000000475/manifest" -%}
 
