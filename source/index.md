@@ -12,15 +12,15 @@ title: International Image Interoperability Framework (IIIF)
 
 ## Great for researchers
 
-Researchers need to be able to **access** high quality images, **examine** them closely, and **share** their work with collaborators. IIIF helps this work by providing easy access to large images from multiple repositories, with viewing and annotation tools to aid research and presentation.
+You need to **access** high-quality images, **examine** them closely, and **share** your work with collaborators. IIIF enables easy viewing of large images from multiple repositories, with comparison and annotation tools to aid research and presentation. Learn more.
 
 ## Efficient for developers
 
-Publish once, use often! When you adopt the framework, you can easily serve your digital objects to your own site, or to sites using IIIF anywhere in the world--all while giving users a high-quality viewing experience for multiple file types.
+Publish once, use often! When you adopt the framework, you can easily serve digital objects to your own site, or to sites using IIIF anywhere in the world--all while giving users a high-quality viewing experience for multiple file types. Learn more.
 
 ## Powerful *and* practical for leaders
 
-We’re all in this game because we want to share knowledge and collections as widely as possible. If we can do it cost-effectively, we’re doing good work. IIIF is being adopted the world over by world-leading institutions, and serving billions of digital objects online without vendor lock-in and with strong open-source and community-driven ethics. [Join the IIIF Consortium today]({{ site.url }}{{ site.baseurl }}/community/consortium/join/) as publishers of your collection objects, code contributors, or voting members.
+It's your goal to share knowledge and collections as widely as possible. IIIF is being adopted by global leading institutions as a cost-effective way to serve billions of digital objects online without vendor lock-in and with strong open-source, community-driven ethics. Learn more.
 
 ---
 
@@ -29,8 +29,8 @@ We’re all in this game because we want to share knowledge and collections as w
 <!-- [could show a big array of logos? Join this cool crowd?] \
 [Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members] -->
 
-### Easy comparison options: **Mirador**
-_IIIF unites resources across collections for display and study. Here, maps from the collections of Stanford University, Kyoto University, and the National Archives of Japan are brought together in the Mirador viewer. Users may zoom and pan around each map, and can add additional images from other collections for comparison. For more, see [Project Mirador](https://projectmirador.org/)._
+### Compare images with **Mirador**
+_IIIF can unite materials from one or many collections, allowing users to zoom, pan, and add additional images for comparison. Here, maps from the collections of Stanford University, Kyoto University, and the National Archives of Japan are shown in the Mirador viewer. Learn more at [Project Mirador](https://projectmirador.org/)._
 
 {%- include mirador.html manifest_1="https://purl.stanford.edu/hs631zg4177/iiif/manifest" manifest_3="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020027/manifest.json" manifest_2="https://api.cultural.jp/na/iiif/M1000000000000000475/manifest" -%}
 
@@ -39,8 +39,8 @@ _IIIF unites resources across collections for display and study. Here, maps from
 
 
 
-### Simple integration of many material types: **Universal Viewer**
-_IIIF isn't just for images -- it supports audio/visual materials with hierarchical tables of contents, too. Here, the Universal Viewer plays Acts 1 and 2 of the opera L'Elisir D'Amore. This viewer also displays static images, allowing easy viewing of multiple resource types. Learn more at [Universal Viewer](https://universalviewer.io/)._
+### Integrate material types with **Universal Viewer**
+_IIIF isn't just for images -- it supports audio/visual materials, too. Here, the Universal Viewer displays Acts 1 and 2 of the opera L'Elisir D'Amore with hierarchical tables of contents. This viewer also displays static images. Learn more at [Universal Viewer](https://universalviewer.io/)._
 
 {%- include uv.html manifest="https://preview.iiif.io/cookbook/0026_0064_0065-opera-recipes/recipe/0026-toc-opera/manifest.json" -%}
 
