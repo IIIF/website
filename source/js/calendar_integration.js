@@ -14,6 +14,9 @@ function insertGoogleCalendar(div_id, config) {
 
 var timezone = jstz.determine();
 var apiKey = 'AIzaSyBIB97V49ihYsXedQ0Ziw6s3SzcGf5G8z0';
+function initClient() {
+    gapi.load('client', onLoadCallback);
+}
 
 function text2id(text) {
     return text.trim().toLowerCase().replace(/[:;,()]/g,'').replace(/[ ]/g,'-');
@@ -39,6 +42,28 @@ function loadCalendar(start, end, onCompletion) {
     }).then(function (response) {
         onCompletion(response);
     });
+}
+
+function next_call(group, div_id) {
+    var today = new Date();
+    var week = new Date();
+    week.setDate(today.getDate() + 30);
+                    
+    var addCalls = function (events) {
+        var p = document.getElementById(div_id);
+        if (events.result.items) {
+            for (var i = 0; i < events.result.items.length; i++) {
+                var tEvent = events.result.items[i];
+                if (tEvent.summary === group) {
+                    var time = moment(tEvent.start.dateTime)
+                    p.innerHTML =  "Next call on the " + time.tz(jstz.determine().name()).format('Do [of] MMMM') + " at " + time.format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime());
+                    break;
+                }
+            } 
+        }
+    }
+
+    loadCalendar(today, week, addCalls);
 }
 
 function loadEvents() {

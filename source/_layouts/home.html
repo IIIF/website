@@ -16,8 +16,10 @@ layout: default
 
         <div id="upcoming_calls">
             <h3>Join a group call</h3>
+            <p>Calls this week:</p>
             <ul id="calls">
             </ul>
+            <p><a href="{{ site.url }}{{ site.baseurl }}/community/groups/#calendar">View full calendar</a></p>
         </div>
         <script>
             function initClient() {
@@ -27,13 +29,29 @@ layout: default
             function onLoadCallback() {
                 var today = new Date();
                 var week = new Date();
-                week.setDate(today.getDate() + 14);
+                week.setDate(today.getDate() + 7);
+                // This should come from a config/data file:
                 var group_titles = {
-                    "IIIF 3D Community Group": "IIIF 3D",
-                    "IIIF Maps": "IIIF Maps",
-                    "IIIF Cookbook session": "IIIF Cookbook",
-                    "IIIF A/V Call": "IIIF AV",
-                    "IIIF Discovery Technical Specification Group call": "IIIF Discovery TSG"
+                    "IIIF 3D Community Group": {
+                        name: "IIIF 3D",
+                        link: "community/groups/3d"
+                    },
+                    "IIIF Maps": {
+                        name: "IIIF Maps",
+                        link: "community/groups/maps"
+                    },
+                    "IIIF Cookbook session": {
+                        name: "IIIF Cookbook",
+                        link: "community/groups/#calendar"
+                    },
+                    "IIIF A/V Call": {
+                        name: "IIIF AV",
+                        link: "community/groups/av"
+                    },
+                    "IIIF Discovery Technical Specification Group call": {
+                        name: "IIIF Discovery TSG",
+                        link: "community/groups/discovery"
+                    }
                 }
                 
                 var addCalls = function (events) {
@@ -47,7 +65,7 @@ layout: default
                             var tEvent = events.result.items[i];
                             var li = document.createElement("li");
                             if (group_titles[tEvent.summary] != null) {
-                                li.innerHTML = "<a href='community/groups/#calendar'>" + group_titles[tEvent.summary] + "</a>, " + moment(tEvent.start.dateTime).format('ll');
+                                li.innerHTML = "<a href='" + group_titles[tEvent.summary].link + "'>" + group_titles[tEvent.summary].name + "</a> (" + moment(tEvent.start.dateTime).format('ddd') + ")";
                             }
                             ul.appendChild(li);
                         } 
