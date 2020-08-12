@@ -12,7 +12,7 @@ layout: default
         <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
         <script src="{{ site.url }}{{ site.baseurl }}/js/calendar_integration.js"></script>
 
-        <script async defer src="https://apis.google.com/js/api.js?onload=initClient" ></script>
+        <!--<script async defer src="https://apis.google.com/js/api.js?onload=initClient" ></script>-->
 
         <div id="upcoming_calls">
             <h3>Join a group call</h3>
@@ -23,13 +23,16 @@ layout: default
         </div>
         <script>
             function initClient() {
-                gapi.load('client', onLoadCallback);
+                console.log("Loading gclient" + new Date());
+               // gapi.load('client', onLoadCallback);
+                console.log("gCLeint loaded" + new Date());
             }
 
-            function onLoadCallback() {
-                var today = new Date();
-                var week = new Date();
-                week.setDate(today.getDate() + 7);
+            //function onLoadCallback() {
+                console.log("Setting up data " + new Date());
+                //var today = new Date();
+               // var week = new Date();
+               // week.setDate(today.getDate() + 7);
                 // This should come from a config/data file:
                 var group_titles = {
                     "IIIF 3D Community Group": {
@@ -53,27 +56,45 @@ layout: default
                         link: "community/groups/discovery"
                     }
                 }
+                var getJSON = function(url, callback) {
+                    var xhr = new XMLHttpRequest();
+                    xhr.open('GET', url, true);
+                    xhr.responseType = 'json';
+                    xhr.onload = function() {
+                      var status = xhr.status;
+                      if (status === 200) {
+                        callback(null, xhr.response);
+                      } else {
+                        callback(status, xhr.response);
+                      }
+                    };
+                    xhr.send();
+                };
                 
-                var addCalls = function (events) {
+                var addCalls = function (status, events) {
+                    console.log("AddCalls" + new Date());
                     var ul = document.getElementById('calls');
-                    if (events.result.items) {
+                    if (events.items) {
                         var tMaxcalls = 5;
-                        if (events.result.items.length < tMaxcalls) {
-                            tMaxcalls = events.result.items.length;
+                        if (events.items.length < tMaxcalls) {
+                            tMaxcalls = events.items.length;
                         }
+                        console.log("Reading events" + new Date());
                         for (var i = 0; i < tMaxcalls; i++) {
-                            var tEvent = events.result.items[i];
+                            var tEvent = events.items[i];
                             var li = document.createElement("li");
                             if (group_titles[tEvent.summary] != null) {
-                                li.innerHTML = "<a href='" + group_titles[tEvent.summary].link + "'>" + group_titles[tEvent.summary].name + "</a> (" + moment(tEvent.start.dateTime).format('ddd') + ")";
+                                li.innerHTML = "<a href='" + group_titles[tEvent.summary].link + "'>" + group_titles[tEvent.summary].name + "</a> (" + moment(tEvent.start.dateTime).format('ddd') + " - " + moment(tEvent.start.dateTime).format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime()) + ")";
                             }
                             ul.appendChild(li);
                         } 
+                        console.log("finished " + new Date());
                     }
                 }
 
-                loadCalendar(today, week, addCalls);
-            }
+                getJSON('calendar.json', addCalls);
+                //loadCalendar(today, week, addCalls);
+           // }
         </script>
 
         <div class="recent_news">

@@ -23,11 +23,13 @@ function text2id(text) {
 }
 
 function loadCalendar(start, end, onCompletion) {
+    console.log("init google client" + new Date());
     gapi.client.init({
         'apiKey': apiKey,
         // Discovery docs docs: https://developers.google.com/api-client-library/javascript/features/discovery
         'discoveryDocs': ['https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest'],
     }).then(function () {
+        console.log("Calling gcal " + new Date());
         // Use Google's "apis-explorer" for research: https://developers.google.com/apis-explorer/#s/calendar/v3/
         // Events: list API docs: https://developers.google.com/calendar/v3/reference/events/list
         return gapi.client.calendar.events.list({
