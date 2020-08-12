@@ -5,6 +5,8 @@ tags: [3d]
 
 ---
 
+{% include next_call.html group="IIIF 3D Community Group" %}
+
 ## About
 
 A IIIF 3D community group provides an opportunity for institutions interested in interoperability to coordinate strategies and facilitate conversations about open standards that support 3D use cases. Many of the desired operations and interactions with 3D data are similar to the 2D and A/V use cases of IIIF for sharing images and annotation, and organizations are increasingly looking to integrate exhibits, displays, and comparisons of 3D data with other file types.

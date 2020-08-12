@@ -1,0 +1,14 @@
+<script src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/calendar_integration.js"></script>
+
+<script async defer src="https://apis.google.com/js/api.js?onload=initClient" ></script>
+
+<p id="next_call" class="lookatme"></p>  
+<script>
+    function onLoadCallback() {
+        next_call("{{ include.group }}", 'next_call');
+    }
+</script>
+
