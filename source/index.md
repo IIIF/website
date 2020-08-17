@@ -5,7 +5,7 @@
 layout: home
 title: International Image Interoperability Framework (IIIF)
 ---
-<p class="lookatme">IIIF is an open-source software standard delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's _also_ the international community of people developing and implementing the IIIF APIs.</p>  
+<p class="lookatme">IIIF is an open-source software standard for delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's _also_ the international community of people developing and implementing the IIIF APIs.</p>  
 
 <p class="lookatme">IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
 
