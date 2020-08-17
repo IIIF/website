@@ -5,7 +5,7 @@
 layout: home
 title: International Image Interoperability Framework (IIIF)
 ---
-<p class="lookatme">IIIF is an open-source software system delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's _also_ the international community of people developing and implementing the IIIF APIs.</p>  
+<p class="lookatme">IIIF is an open-source software standard delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's _also_ the international community of people developing and implementing the IIIF APIs.</p>  
 
 <p class="lookatme">IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
 
@@ -23,6 +23,20 @@ Publish once, use often! When you adopt the framework, you can easily serve digi
 It's your goal to share knowledge and collections as widely as possible. IIIF is being adopted by global leading institutions as a cost-effective way to serve billions of digital objects online without vendor lock-in and with strong open-source, community-driven ethics. Learn more.
 
 ---
+
+## Who is using IIIF?
+
+ **Aggregators** such as JSTOR, CONTENTdm, DPLA, Europeana, the Internet Archive, and more.   
+
+**Universities and research institutions** like Cambridge University, Kyoto University, Stanford University, University of Toronto, and Wellcome Trust.   
+
+**National libraries** and **archives** like the Library of Congress, the Vatican, and the Egyptian National Library and Archives.   
+
+**Museums** such as the British Museum, The J. Paul Getty Trust, and The Walters Art Museum.   
+
+**Software companies** and **digital agencies** including Kakadu Software, Gallery Systems, Digirati, Cogapp, and more.   
+
+Many institutions using IIIF's APIs become members of the <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/">IIIF Consortium</a>, sustaining the framework’s growth and serving on advisory committees.
 
 ## See IIIF in action
 
