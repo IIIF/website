@@ -1,8 +1,8 @@
 ---
-title: "Image Viewers"
-id: "image viewers"
+title: "IIIF Viewers"
+id: "IIIF viewers"
 layout: default
-tags: [image viewers ]
+tags: [iiif viewers ]
 
 ---
 

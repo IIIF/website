@@ -8,14 +8,12 @@ tags: [image servers ]
 
 # Image Servers
 
-3 or 4 examples
+Here are a few of the most popular IIIF image servers, though there are many possible options:
 
-
-
-*   [Loris](https://github.com/loris-imageserver/loris) - Written in Python. 35 contributors.
-*   [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) - High performance image server.
-*   [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java.
-*   [serverless-iiif](https://github.com/nulib/serverless-iiif) - IIIF Image API 2.1 server as an AWS Serverless Application.
+*   [Loris](https://github.com/loris-imageserver/loris) - A IIIF image server written in Python.
+*   [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) - IIPImage Server is a high-performance image server for web-based streamed viewing and zooming of high-resolution images, written in C++.
+*   [Cantaloupe](https://cantaloupe-project.github.io/) - Cantaloupe is an open-source dynamic image server for on-demand generation of derivatives of high-resolution source images, written in Java.
+*   [serverless-iiif](https://github.com/nulib/serverless-iiif) - A IIIF Image API 2.1 server as an AWS Serverless Application.
 
 
 ## Making an existing image server IIIF compatible

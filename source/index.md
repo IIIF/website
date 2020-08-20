@@ -5,7 +5,7 @@
 layout: home
 title: International Image Interoperability Framework (IIIF)
 ---
-<p class="lookatme">IIIF is an open-source software system delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's _also_ the international community of people developing and implementing the IIIF APIs.</p>  
+<p class="lookatme">IIIF is an open-source software standard for delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's _also_ the international community of people developing and implementing the IIIF APIs.</p>  
 
 <p class="lookatme">IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
 
@@ -24,35 +24,52 @@ It's your goal to share knowledge and collections as widely as possible. IIIF is
 
 ---
 
+## Who is using IIIF?
+
+ **Aggregators** such as JSTOR, CONTENTdm, DPLA, Europeana, the Internet Archive, and more.   
+
+**Universities and research institutions** like Cambridge University, Kyoto University, Stanford University, University of Toronto, and Wellcome Trust.   
+
+**National libraries** and **archives** like the Library of Congress, the Vatican, and the Egyptian National Library and Archives.   
+
+**Museums** such as the British Museum, The J. Paul Getty Trust, and The Walters Art Museum.   
+
+**Software companies** and **digital agencies** including Kakadu Software, Gallery Systems, Digirati, Cogapp, and more.   
+
+Many institutions using IIIF's APIs become members of the <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/">IIIF Consortium</a>, sustaining the framework’s growth and serving on advisory committees.
+
+---
+
 ## See IIIF in action
+
+<img class="img-standout" src="https://miro.medium.com/max/2850/1*9BOu0u6fmgjCqpC_3JQgZQ.gif" alt="Video showing Drag and Drop in Mirador"/>
 
 <!-- [could show a big array of logos? Join this cool crowd?] \
 [Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members] -->
 
 ### Compare images with **Mirador**
+
+<div>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/0KEiGkkNVnM" allow="encrypted-media" allowfullscreen></iframe>
+</div>  
+
 _IIIF can unite materials from one or many collections, allowing users to zoom, pan, and add additional images for comparison. Here, maps from the collections of Stanford University, Kyoto University, and the National Archives of Japan are shown in the Mirador viewer. Learn more at [Project Mirador](https://projectmirador.org/)._
-
-{%- include mirador.html manifest_1="https://purl.stanford.edu/hs631zg4177/iiif/manifest" manifest_3="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020027/manifest.json" manifest_2="https://api.cultural.jp/na/iiif/M1000000000000000475/manifest" -%}
-
-
-
-
 
 
 ### Integrate material types with **Universal Viewer**
+
+<div>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/_P9TBJIY4UM" allow="encrypted-media" allowfullscreen></iframe>
+</div>    
+
 _IIIF isn't just for images -- it supports audio/visual materials, too. Here, the Universal Viewer displays Acts 1 and 2 of the opera L'Elisir D'Amore with hierarchical tables of contents. This viewer also displays static images. Learn more at [Universal Viewer](https://universalviewer.io/)._
 
-{%- include uv.html manifest="https://preview.iiif.io/cookbook/0026_0064_0065-opera-recipes/recipe/0026-toc-opera/manifest.json" -%}
 
 
 
 ---
 
-> For more ways to use IIIF including image viewers and more, see the [Demos]({{ site.url }}{{ site.baseurl }}/demos/) section
+## **For more ways to use IIIF including image viewers and more, see the [Demos]({{ site.url }}{{ site.baseurl }}/demos/) section**
 
-
-
-
----
 
 {% include acronyms.md %}

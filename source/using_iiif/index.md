@@ -7,32 +7,13 @@ tags: [using_iiif ]
 ---
 
 # Using IIIF
+You’re either a **user** of digital objects served using IIIF technologies, allowing you to view, compare, search within, and annotate. Or, you’re a **developer**, setting up image and audio/visual files, servers, and APIs to make digital objects available to the world.
 
-![IIIF Interoperability]({{ site.url }}{{ site.baseurl }}/img/interoperable_bit.png "Interoperable bit")
+* If you’re a **user**, start with our [guide](https://medium.com/@IIIF_io/how-to-use-iiif-resources-and-image-viewers-bd378a68b013) to working with IIIF materials.
 
-There are two main components of the framework: **delivering objects** and **viewing them**.
-
-<!-- We’ve illustrated the components, how they fit together, and which [APIs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) are needed for which parts below.
-
-![The IIIF Components]({{ site.url }}{{ site.baseurl }}/img/iiif_components.png "The IIIF Components")
- -->
-
-Find out more about how the framework fits together in the [API docs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) section.
+* If you’re a **developer** and not sure what you need to get started, you can use this community-generated [questionnaire](http://localhost:4000/assets/acc_implementation_questionnaire_011017.pdf) to help determine a path forward.
 
 Explore projects people have made through their conference [talks]({{ site.url }}{{ site.baseurl }}/using_iiif/talks/), take a look at a [few illustrated case study examples]({{ site.url }}{{ site.baseurl }}/demos/case_studies/), check out the variety of [tools]({{ site.url }}{{ site.baseurl }}/using_iiif/community_tools/) the community has made to help, or browse [The Cookbook]({{ site.url }}{{ site.baseurl }}/using_iiif/cookbook/), a new community initiative to string together commonly used functions into “recipes” that can be reused easily.
-
-
-## Who is using IIIF?
-
-We’ve attempted to make a [map of every IIIF implementation](https://www.google.com/maps/d/viewer?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp&ll=4.340203155220545%2C18.29779899999994&z=2) we’re aware of (if something is missing, please feel free to [let us know](mailto:staff@iiif.io?subject=Add us to the IIIF Map)). Generally, a wide range of institutions adopt IIIF, including:
-
-*   **Aggregators** such as Artstor, JSTOR, CONTENTdm, DPLA, Europeana, the Internet Archive, Wikimedia Foundation, and more.
-*   **Universities and research institutions**, including Cambridge University, Ghent University, Harvard University, Kyoto University, University of Michigan, University of St. Andrews, College of Charleston, Stanford University, University of Toronto, and Wellcome Trust, among others.
-*   **National libraries** and **archives** like the Library of Congress, the National Library of Qatar, Bibliotheque National de France, the Vatican, and the Egyptian National Library and Archives, and the Blavatnik Foundation Archive.
-*   **Museums** such as the British Museum, National Gallery of Art, The J. Paul Getty Trust, the Georgia O’Keefe Museum, and The Walters Art Museum.
-*   **Software companies** and **digital agencies**, including Kakadu Software, Gallery Systems, Digirati, Cogapp, and more.
-
-Many who use IIIF's APIs become members of the <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/">IIIF Consortium</a>, sustaining the framework’s growth and serving on various advisory committees.
 
 ## Glossary of key IIIF concepts
 
@@ -46,3 +27,33 @@ Many who use IIIF's APIs become members of the <a href="{{ site.url }}{{ site.ba
 *   A **Range** is a particular order of Canvases (as a basic example, think of the order of pages in a book, or the order of tracks on a music album)
 
 {% include acronyms.md %}
+
+## Core features of IIIF
+![IIIF Interoperability]({{ site.url }}{{ site.baseurl }}/img/interoperable_bit.png "Interoperable bit")
+
+<!-- We’ve illustrated the components, how they fit together, and which [APIs]({{ site.url }}{{ site.baseurl }}/using_iiif/api_docs/) are needed for which parts below.
+
+![The IIIF Components]({{ site.url }}{{ site.baseurl }}/img/iiif_components.png "The IIIF Components")
+ -->
+There are two main components of the framework: delivering digital objects (like images and audio/visual files) to sites, and viewing them.
+
+### Delivering digital objects
+* The Image API packages up bytes and sends digital objects to a viewer
+* The Presentation API attaches metadata and structure to digital objects, defining how they appear in viewers
+* The Authentication API defines where or by who your objects can be viewed
+
+### Viewing content
+* IIIF-compatible viewers allow users to pan, zoom, rotate, and resize objects
+* Some viewers allow annotation with text, audio, location, and more
+* Compare objects from a single collection side-by-side (or compare objects from multiple collections if the object’s Manifest is made available)
+* When the Search API has been implemented, users can search within an object’s metadata
+
+### The basics of setting up IIIF images
+To get your images online using IIIF you’ll need high-quality images (most people use JP2 or TIF files), and metadata about structure as well as the information people will read about the image. IIIF works with all metadata schemas.  
+
+Next, you’ll need to:
+* Make images and audio/video materials available using the Image API and an IIIF image server, or a IIIF-compatible image server from a vendor or other web host
+* Combine your images and structural data (like pagination or ordering) from your metadata source into a IIIF manifest using the Presentation API. (This is probably the most challenging part.)
+* Choose a viewer to show your images.
+* Consider making your image manifests available publicly so users can work with your images across collections.
+* If you want to tackle more, check out the other two APIs: Authentication and Search.
