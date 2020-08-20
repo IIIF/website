@@ -2,9 +2,9 @@
   name: Using IIIF
   url: /using_iiif
   sub_pages:
-    -
-      name: How to get started
-      url: /how_to_get_started/
+    # -
+    #   name: How to get started
+    #   url: /how_to_get_started/
     -
       name: API Docs
       url: /api_docs/
@@ -32,11 +32,8 @@
   url: /demos
   sub_pages:
     -
-      name: Case Studies
-      url: /case_studies
-    -
-      name: Image Viewers
-      url: /image_viewers
+      name: IIIF Viewers
+      url: /iiif_viewers
     -
       name: Image Servers
       url: /image_servers
@@ -44,8 +41,11 @@
       name: Experiments & Fun
       url: /experiments_and_fun
     -
-      name: Awesome IIIF (on Github)
-      url: https://github.com/IIIF/awesome-iiif
+      name: Case Studies
+      url: /case_studies
+    # -
+    #   name: Awesome IIIF (on Github)
+    #   url: https://github.com/IIIF/awesome-iiif
 -
   name: Community
   url: /community/
