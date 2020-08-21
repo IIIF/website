@@ -15,6 +15,9 @@ You’re either a **user** of digital objects served using IIIF technologies, al
 
 Explore projects people have made through their conference [talks]({{ site.url }}{{ site.baseurl }}/using_iiif/talks/), take a look at a [few illustrated case study examples]({{ site.url }}{{ site.baseurl }}/demos/case_studies/), check out the variety of [tools]({{ site.url }}{{ site.baseurl }}/using_iiif/community_tools/) the community has made to help, or browse [The Cookbook]({{ site.url }}{{ site.baseurl }}/using_iiif/cookbook/), a new community initiative to string together commonly used functions into “recipes” that can be reused easily.
 
+
+<div id="announce-list">
+
 ## Glossary of key IIIF concepts
 
 *   An **Annotation** is a standard way to associate different types of content to whatever is on your canvas (such as a translation of a line or the name of a person in a photograph. In the IIIF model, images and other presentation content are also technically annotations onto a canvas). For more detail, see the [Web Annotation Data Model](http://w3.org/TR/annotation-model/).
@@ -25,6 +28,8 @@ Explore projects people have made through their conference [talks]({{ site.url }
 *   A **Manifest** is the centre of the IIIF universe. It’s the plan that communicates how to display your digital objects, and what information to display about them, including structure. (A basic example is to think of a book of illustrations, where each illustrated page is a canvas, and there is one specific order to the arrangement of those pages. Keep in mind, the structure of manifests can also be more complex than this.)
 *   A **Metadata Source** is the place where the information about objects live, and needs to be connected to your Manifest via the Presentation API (for libraries and museums, this is usually some kind of asset management system, though there are many other possibilities)
 *   A **Range** is a particular order of Canvases (as a basic example, think of the order of pages in a book, or the order of tracks on a music album)
+
+</div>
 
 {% include acronyms.md %}
 
