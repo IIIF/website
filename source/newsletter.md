@@ -100,6 +100,7 @@ Sign up to receive newsletters and announcements from IIIF.
 
 ## Newsletter archive
 
+- [IIIF Community Newsletter, Volume 4, Issue 3 (30 Jul 2020)](https://mailchi.mp/dda02250dbcd/iiif-newsletter-30-released-training-site-and-more-4842754)
 - [IIIF Community Newsletter, Volume 4, Issue 2 (02 Jul 2020)](https://mailchi.mp/d565082d2385/iiif-newsletter-30-released-training-site-and-more)
 - [IIIF Community Newsletter, Volume 4, Issue 1 (31 Mar 2020)](https://iiif.io/news/2020/03/31/newsletter/)
 - [IIIF Community Newsletter, Volume 3 Issue 4 (18 Dec 2019)](https://iiif.io/news/2019/12/18/newsletter/)

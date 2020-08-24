@@ -256,6 +256,9 @@
 - name: Stockholm University
   uri: https://www.su.se/
   iiifc:
+- name: Swiss Art Research Infrastructure
+  uri: https://swissartresearch.net/
+  iiifc:
 - name: Synaptica
   uri: http://www.synaptica.com/
 - name: Texas A&amp;M Libraries
@@ -298,7 +301,7 @@
   uri: http://illinois.edu/
   iiifc:
 - name: University of Michigan
-  uri: https://www.lib.umich.edu/digital-library-platform-services-dlps
+  uri: https://www.lib.umich.edu/collections/digital-collections
   iiifc: 2
 - name: University of Notre Dame
   uri: http://library.nd.edu
@@ -323,6 +326,9 @@
   iiifc:
 - name: University of Virginia Library
   uri: http://www.library.virginia.edu/
+  iiifc:
+- name: University of Zurich
+  uri: https://www.uzh.ch/
   iiifc:
 - name: Vatican Library
   uri: https://www.vatlib.it
