@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "description": "<a href=\"https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09\" id=\"ow1680\" __is_owner=\"true\">https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09</a>",
+            "end": {
+                "dateTime": "2020-08-13T18:00:00+01:00",
+                "timeZone": "Europe/London"
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=OGUzZjc5OW5oNHNqM2I1YXIwOWEzdjAwODhfMjAyMDA4MTNUMTYwMDAwWiAxaG5tNWg4Nm45NG9yZTB2bm9vMTg4dGVyOEBn&ctz=Europe/London",
+            "location": "https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09",
+            "start": {
+                "dateTime": "2020-08-13T17:00:00+01:00",
+                "timeZone": "Europe/London"
+            },
+            "summary": "IIIF 3D Community Group"
+        },
+        {
+            "description": "Zoom Link: https://stanford.zoom.us/my/glen.robson?pwd=K1Y2ZmxPQWd6VjZnMzMydjMxb2hXdz09\n\nAgenda: https://docs.google.com/document/d/1IHpelCsG-H6WKYEXYZ53vCbWlt6CD4Lhv4V5gFk_DQY/edit?usp=sharing",
+            "end": {
+                "dateTime": "2020-08-14T18:00:00+01:00",
+                "timeZone": "Europe/London"
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzg5MWtjYzI1OGQwajZiYTY4OG9qaWI5azhvbzM2YjlwNjkxMzRiYTU2NHJqOGRwaTZoMWtjZDlwNm8gMWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZw&ctz=Europe/London",
+            "location": "https://stanford.zoom.us/my/glen.robson?pwd=K1Y2ZmxPQWd6VjZnMzMydjMxb2hXdz09",
+            "start": {
+                "dateTime": "2020-08-14T17:00:00+01:00",
+                "timeZone": "Europe/London"
+            },
+            "summary": "IIIF Cookbook session"
+        },
+        {
+            "description": "Connect via Zoom: https://stanford.zoom.us/j/538552143?pwd=u8KPNHGHxJk\nTo connect by phone, please see the list of international phone numbers at https://zoom.us/zoomconference - dial the appropriate phone number, enter Meeting ID 538-552-143 and enter # when prompted for a participant ID.",
+            "end": {
+                "dateTime": "2020-08-18T18:00:00+01:00",
+                "timeZone": "America/Los_Angeles"
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=cWI1dHVyNDBobXU3NGNjcmZoOXVxcDV1a2NfMjAyMDA4MThUMTYwMDAwWiAxaG5tNWg4Nm45NG9yZTB2bm9vMTg4dGVyOEBn&ctz=Europe/London",
+            "location": "https://stanford.zoom.us/j/538552143?pwd=u8KPNHGHxJk",
+            "start": {
+                "dateTime": "2020-08-18T17:00:00+01:00",
+                "timeZone": "America/Los_Angeles"
+            },
+            "summary": "IIIF A/V Call"
+        },
+        {
+            "description": "Meeting of the IIIF Discovery Technical Specification Group, see charter: https://gist.github.com/azaroth42/01cd1a377d519e29572b8b072ac5980a\n\nConnect via Zoom: https://stanford.zoom.us/j/829945399\nTo connect by phone, please see the list of international phone numbers at https://zoom.us/zoomconference - dial the appropriate phone number, enter Meeting ID 829-945-399 and enter # when prompted for a participant ID.",
+            "end": {
+                "dateTime": "2020-08-19T19:00:00+01:00",
+                "timeZone": "America/Los_Angeles"
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=dWdhNXJzOW8zYjUxdjZvcnJ1dHZ0b2JnZG9fMjAyMDA4MTlUMTcwMDAwWiAxaG5tNWg4Nm45NG9yZTB2bm9vMTg4dGVyOEBn&ctz=Europe/London",
+            "location": "Zoom: https://stanford.zoom.us/j/829945399",
+            "start": {
+                "dateTime": "2020-08-19T18:00:00+01:00",
+                "timeZone": "America/Los_Angeles"
+            },
+            "summary": "IIIF Discovery Technical Specification Group call"
+        }
+    ]
+}

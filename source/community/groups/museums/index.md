@@ -5,6 +5,8 @@ tags: []
 
 ---
 
+{% include next_call.html group="IIIF Museum Interest Group Call" %}
+
 ## About
 
 Several museums have started to adopt IIIF for their digitized collections, including the Art Gallery of Ontario, the Art Institute of Chicago, the Carnegie Museum of Art, the Cooper Hewitt Smithsonian Design Museum, the Frick Collection, the J. Paul Getty Trust, Harvard Art Museums, the Hill Museum and Manuscript Library (HMML), the National Gallery of Art, the Paul Mellon Centre, and the Yale Center for British Art.

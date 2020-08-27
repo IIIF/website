@@ -5,6 +5,8 @@ tags: []
 
 ---
 
+{% include next_call.html group="IIIF Outreach Community Group" %}
+
 ## About
 
 The IIIF Outreach Group is a standing committee with representatives from across the IIIF community, dedicated to guiding IIIF outreach efforts and goals related to the presentation of IIIF to the public.

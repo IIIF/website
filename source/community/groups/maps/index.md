@@ -5,6 +5,8 @@ tags: []
 
 ---
 
+{% include next_call.html group="IIIF Maps" %}
+
 ## About
 
 Digitized maps and geo-located images represent some of the best ways of connecting end users with critical context about the historical and changing face of the physical world. Given the increasing prevalence and utility of IIIF compliance for digitized assets and the fact the digitized maps represent a large and important facet of material made available via IIIF, there is a growing need for better ways of working with IIIF assets in geospatial tools, and connecting those assets to the broader world of geospatial resources. The same is true of geo-located images which are now being generated in various ways including via crowdsourcing and more manual methods of associating an image with a geographical location. 
