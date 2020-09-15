@@ -97,16 +97,16 @@
     Turn scans into maps. Georeferencer is an online tool that assigns
     geographical location to any IIIF image.
   url: https://showcase.iiif.io/showcase/georeferencer/
-
-#- name: Yale Center for British Art
-#  id: ycba
-#  type: site
-#  img_url:  https://showcase.iiif.io/img/showcase/yale-ycba-iipmooviewer.png
-#  desc:
-#  - >
-#    The Yale Center for British Art uses IIPMooviewer's IIIF Image API support
-#    to provide access to high-resolution images.
-#  url:  http://collections.britishart.yale.edu/zoom/index.html?image=c0b22208-1eab-4b5e-8bc2-a18390f003b4&amp;credit=Johan%20Joseph%20Zoffany,%201733%E2%80%931810,%20German,%20active%20in%20Britain%20%28from%201760%29,%20The%20Gore%20Family%20with%20George,%20third%20Earl%20Cowper,%20ca.%201775,%20Oil%20on%20canvas,%20Yale%20Center%20for%20British%20Art,%20Paul%20Mellon%20Collection
+  
+- name: Yale Center for British Art
+  id: ycba
+  type: site
+  img_url:  https://showcase.iiif.io/img/showcase/yale-ycba-iipmooviewer.png
+  desc:
+  - >
+    The Yale Center for British Art uses IIPMooviewer's IIIF Image API support
+    to provide access to high-resolution images.
+  url:  http://collections.britishart.yale.edu/
 
 - name: e-codices
   id: e-codices

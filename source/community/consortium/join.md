@@ -27,7 +27,7 @@ IIIF is a grassroots, community-driven effort to make digital image and audio/vi
 
 **Conditions:**
 
-
+## Benefits
 
 *   Only full members are eligible for voting rights on the Executive Committee
 *   A limit of three seats on the Executive Committee may be held by commercial organisations. Non-commercial organisations include libraries, museums, and archives.
@@ -35,14 +35,11 @@ IIIF is a grassroots, community-driven effort to make digital image and audio/vi
 
 Take a look at a list of [consortium members]({{ site.url }}{{ site.baseurl }}/community/consortium/members/) to see who else is involved.
 
-
 ## Membership levels
 
 **Full membership - $10,000 annual sustaining contribution**
 
 Benefits of full membership include:
-
-
 
 *   Discounts on training and workshops held throughout the year
 *   Institution-wide special rates for IIIF Conference registration
