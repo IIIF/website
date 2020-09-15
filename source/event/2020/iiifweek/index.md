@@ -145,6 +145,8 @@ want more info on how to connect with the IIIF Community.
 
 **Facilitator**: Joe Song
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F01VY4St76U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Description:** Although the adoption of IIIF in China is in its infancy,
 it's exciting to see that institutions with applications like
 image-intensive displays, 3d modeling, and knowledge graphs are
@@ -164,6 +166,8 @@ levels of IIIF experience are welcome.
 
 **Presenter**: Glen Robson, Technical Coordinator, IIIF Consortium
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLTKVBgyrN0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Description**: This non-technical session will cover the basics of IIIF
 technology and the IIIF Community, including why the framework is
 helpful, how it works, and examples of how it can be used. This time
@@ -178,6 +182,8 @@ want more info on how to connect with the IIIF Community.
 ## IIIF Week: Museums Showcase
 
 **Facilitators:** IIIF Museums Community Group Co-Chairs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmbEgUe44v8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Learn about how museums are using IIIF to further
 education, provide access to their collections and be relevant amongst
@@ -195,6 +201,8 @@ _Open to Executive Committee members only_
 
 **Facilitators:** Jack Reed and Camille Villa, Stanford University Libraries
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1P2dHaYvgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Description:** This session will showcase the Mirador 3 IIIF viewer
 [https://projectmirador.org/], an open source, web based, multi-window
 image viewing platform. Mirador 3 offers some familiar functionality and
@@ -203,6 +211,8 @@ new features which we will highlight.
 ## IIIF Week: Maps Showcase
 
 **Facilitators:** IIIF Maps Community Group Co-Chairs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U41urr-YU0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** This session will showcase the work of the IIIF Maps
 Community Group in its efforts to add support to the Presentation API
@@ -220,6 +230,8 @@ IIIF, no extensive IIIF experience required.
 
 **Facilitator**: Akihiko Takano, National Institute of Informatics
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2s6yJZ_uZE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Description:** This session will showcase the recent activities related
 to IIIF in Japan.  The following nine speakers will report about their
 projects. Speakers are: Asanobu Kitamoto (NII), Kiyonori Nagasaki
@@ -236,6 +248,8 @@ IIIF required.
 ## IIIF Week: IIIF 3D -- Next Steps & Dimensions? (IIIF 3D Community Group updates)
 
 **Facilitators:** IIIF 3D Community Group Co-Chairs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXBbJQLwq4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Updates and developments of the IIIF 3D Community will be
 shared by the three Co-Chairs Ed Silverton (Mnemoscene, Universal
@@ -259,6 +273,8 @@ existing IIIF standards for 2D, AV, etc. Please do join us!
 Community and Events Coordinator, Glen Robson, IIIF Technical
 Coordinator, & the IIIF Editors
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGoEdFBVf3E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Description:** Learn about the latest updates to the APIs and the status
 of IIIF technical efforts, as well as how the various IIIF Community
 groups have been working with the framework recently, and how you can
@@ -273,6 +289,8 @@ interest groups.
 
 **Facilitators:** IIIF Manuscripts Community Group Co-Chairs
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSbu1SE7WWA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Description:** During this meeting the IIIF Manuscripts Community Group
 will highlight new and exceptional cases of IIIF images to advance the
 field of manuscript studies.
@@ -283,6 +301,8 @@ field of manuscript studies.
 
 ## IIIF Week: Looking forward - a path for IIIF’s APIs (Technical Roadmap Session)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Vx0W5XQcWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Description:** Join us for a structured group conversation about the
 future of IIIF technical work. What would you like to see happen soon?
 What do you see the next five years looking like? All attendees are
@@ -290,6 +310,8 @@ welcome to join in the conversation, providing feedback and asking
 questions. Or, you may simply join and listen.
 
 ## IIIF Week: The future of the IIIF community (Community Roadmap Session)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fPxfLcFQyBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Join us for a structured group conversation about the
 future of the IIIF community and help shape future plans and
@@ -301,7 +323,10 @@ providing feedback and asking questions. Or, you may simply join and listen.
 # Friday, June 5th
 
 ## IIIF Week: Fun with IIIF
+
 **Facilitator:** Tristan Roddis, Cogapp
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QitjH_nFdMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Most of the uses of the International Image
 Interoperability Framework (IIIF) have rightly focused on scholarly and
@@ -317,7 +342,6 @@ how to work with IIIF resources will be helpful background, but the
 examples in this presentation stand on their own and will be of interest
 regardless of familiarity with IIIF.Registration required to receive
 webinar URL.
-
 
 ## IIIF Week: The Afterparty
 

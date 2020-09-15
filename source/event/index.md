@@ -10,7 +10,6 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming main IIIF Events__
 
-* Spring 2020 IIIF Week: [June 1-5 Online Event][iiifweek]
 * Spring 2020 IIIF Conference: [Boston, MA][boston20] - postponed due to coronavirus
 
 __Other IIIF Events__
@@ -27,6 +26,7 @@ Information on hosting a IIIF Event.
 
 __Previous IIIF Events__
 
+* Spring 2020 IIIF Week: [June 1-5 Online Event][iiifweek]
 * Fall 2019 IIIF Working Meeting: [November 4-7 in Ann Arbor, Michigan][ann_arbor19]
 * Spring 2019 IIIF Conference: [June 24-28 in Göttingen, Germany][goettingen19]
 * Fall 2018 IIIF Working Meeting: Dec. 3-6 in [Edinburgh][edinburgh18], Scotland, UK
