@@ -20,41 +20,7 @@ layout: default
             <p><a href="{{ site.url }}{{ site.baseurl }}/community/groups/#calendar">View full calendar</a></p>
         </div>
         <script>
-            var getJSON = function(url, callback) {
-                var xhr = new XMLHttpRequest();
-                xhr.open('GET', url, true);
-                xhr.responseType = 'json';
-                xhr.onload = function() {
-                  var status = xhr.status;
-                  if (status === 200) {
-                    callback(null, xhr.response);
-                  } else {
-                    callback(status, xhr.response);
-                  }
-                };
-                xhr.send();
-            };
-                
-            var addCalls = function (status, events) {
-                console.log("AddCalls" + new Date());
-                var ul = document.getElementById('calls');
-                if (events.length > 0) {
-                    var tMaxcalls = 5;
-                    if (events.length < tMaxcalls) {
-                        tMaxcalls = events.length;
-                    }
-                    console.log("Reading events" + new Date());
-                    for (var i = 0; i < tMaxcalls; i++) {
-                        var tEvent = events[i];
-                        var li = document.createElement("li");
-                        li.innerHTML = "<a href='" + tEvent.link + "'>" + tEvent.summary + "</a> (" + moment(tEvent.start.dateTime).format('ddd') + " - " + moment(tEvent.start.dateTime).format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime()) + ")";
-                        ul.appendChild(li);
-                    } 
-                    console.log("finished " + new Date());
-                }
-            }
-
-            getJSON('https://iiif.io/calendar.json', addCalls);
+            upcomingCalls("calls", 5);
         </script>
 
         <div class="recent_news">
