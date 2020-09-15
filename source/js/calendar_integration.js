@@ -46,26 +46,67 @@ function loadCalendar(start, end, onCompletion) {
     });
 }
 
+function getJSON(url, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.responseType = 'json';
+    xhr.onload = function() {
+      var status = xhr.status;
+      if (status === 200) {
+        callback(null, xhr.response);
+      } else {
+        callback(status, xhr.response);
+      }
+    };
+    xhr.send();
+};
+
 function next_call(group, div_id) {
-    var today = new Date();
-    var week = new Date();
-    week.setDate(today.getDate() + 30);
-                    
-    var addCalls = function (events) {
+    var addCalls = function (status, events) {
         var p = document.getElementById(div_id);
-        if (events.result.items) {
-            for (var i = 0; i < events.result.items.length; i++) {
-                var tEvent = events.result.items[i];
-                if (tEvent.summary === group) {
-                    var time = moment(tEvent.start.dateTime)
-                    p.innerHTML =  "Next call on the " + time.tz(jstz.determine().name()).format('Do [of] MMMM') + " at " + time.format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime());
-                    break;
-                }
+        eventDetails = getEventDetails(events, group);
+                
+        var time = moment(eventDetails['next_call'])
+        p.innerHTML =  "Next call on the " + time.tz(jstz.determine().name()).format('Do [of] MMMM') + " at " + time.format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime());
+    }
+
+    getJSON('https://iiif.io/calendar.json', addCalls);
+}
+
+function getEventDetails(events, name) {
+    for (var groupName in events.meetings) {
+        if (groupName.indexOf(name) != -1 || events.meetings[groupName].name.indexOf(name) != -1) {
+            return events.meetings[groupName];
+        }
+    }
+    return null;
+}
+
+function getLink(events, name) {
+    return getEventDetails(events, name).link;
+}
+
+function upcomingCalls(div_id, max) {
+    var addCalls = function (status, events) {
+        console.log("AddCalls" + new Date());
+        var ul = document.getElementById(div_id);
+        if (events["week"].length > 0) {
+            var tMaxcalls = max;
+            if (events["week"].length < tMaxcalls) {
+                tMaxcalls = events["week"].length;
+            }
+            console.log("Reading events" + new Date());
+            for (var i = 0; i < tMaxcalls; i++) {
+                var tEvent = events["week"][i];
+                var li = document.createElement("li");
+                li.innerHTML = "<a href='" + getLink(events, tEvent.summary) + "'>" + tEvent.summary + "</a> (" + moment(tEvent.start.dateTime).format('ddd') + " - " + moment(tEvent.start.dateTime).format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime()) + ")";
+                ul.appendChild(li);
             } 
+            console.log("finished " + new Date());
         }
     }
 
-    loadCalendar(today, week, addCalls);
+    getJSON('https://iiif.io/calendar.json', addCalls);
 }
 
 function loadEvents() {
