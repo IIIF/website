@@ -66,8 +66,10 @@ function next_call(group, div_id) {
         var p = document.getElementById(div_id);
         eventDetails = getEventDetails(events, group);
                 
-        var time = moment(eventDetails['next_call'])
-        p.innerHTML =  "Next call on the " + time.tz(jstz.determine().name()).format('Do [of] MMMM') + " at " + time.format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime());
+        if (eventDetails != null && 'next_call' in eventDetails) {        
+            var time = moment(eventDetails['next_call'])
+            p.innerHTML =  "Next call on the " + time.tz(jstz.determine().name()).format('Do [of] MMMM') + " at " + time.format("LT") + " " + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime());
+        }
     }
 
     getJSON('https://iiif.io/calendar.json', addCalls);
