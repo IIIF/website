@@ -4,6 +4,7 @@ layout: default
 tags: [components, software development, implementation]
 
 ---
+{% include next_call.html group="IIIF Software Developers call" %}
 ## About
 
 The Software Developers Community Group formed in response to the growing need for shared, composable libraries for IIIF viewer software following the IIIF Meeting in New York in May 2016. Software developers from several institutions involved in developing user experiences on top of the IIIF APIs were duplicating each other’s efforts and finding it difficult to consistently apply the specifications.

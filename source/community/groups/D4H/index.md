@@ -4,6 +4,7 @@ layout: default
 tags: []
 
 ---
+{% include next_call.html group="Discovery for Humans" %}
 
 ## About
 

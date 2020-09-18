@@ -26,8 +26,14 @@ The IIIF groups meet regularly to help get things done, and anyone can join a gr
   *   [Discovery for Machines]({{ site.url }}{{ site.baseurl }}/community/groups/discovery) - Calls every other week on Wednesdays
   *   [Text Granularity]({{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/) - Calls every two weeks on Tuesdays
 
-## Community call calendar
+<h2><a name="calendar"></a>Community call calendar</h2>
 
 To load this calendar into external applications like Outlook or Mac Calendar please download the calendar in this [ical format](https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics).
 
-<iframe src="https://calendar.google.com/calendar/embed?title=IIIF%20Community%20Calendar%20%28Eastern%20Time%29&amp;showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=America%2FNew_York" style="border-width:0; overflow:hidden; border: none;" width="100%" height="600"></iframe>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/calendar_integration.js"></script>
+<div id="calendar"></div>
+<script>
+    insertGoogleCalendar('calendar','showPrint=0&amp;height=600&amp;wkst=1');
+</script>
+<!--<iframe src="https://calendar.google.com/calendar/embed?title=IIIF%20Community%20Calendar%20%28Eastern%20Time%29&amp;showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=America%2FNew_York" style="border-width:0; overflow:hidden; border: none;" width="100%" height="600"></iframe>-->

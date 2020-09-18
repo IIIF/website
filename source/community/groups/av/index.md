@@ -5,6 +5,8 @@ tags: []
 
 ---
 
+{% include next_call.html group="IIIF A/V Call" %}
+
 ## About
 
 While IIIF has focused primarily on Image based content, there has always been interest around the community in extending the paradigm to include Video and Audio resources, following the same [design principles][design-principles] as existing IIIF specifications.

@@ -5,6 +5,8 @@ tags: []
 
 ---
 
+{% include next_call.html group="IIIF Archives Interest Group" %}
+
 ## About
 
 Archival collections, both born-digital and digitized, are increasingly being shared online for researchers to access remotely in whole or in part. These collections are often heterogeneous and may include a variety of material types, including images, textual materials, A/V, objects, and software. Similarly, they are found across wide range of institutions, ranging from small community archives and historical societies to governments, and would greatly benefit from many of the features enabled by IIIF. Archival description is usually based on aggregates and hierarchies of context and thus presents a number of new use cases for IIIF implementation.
