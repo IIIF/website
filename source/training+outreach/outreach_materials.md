@@ -27,5 +27,5 @@ Logo color hex codes:
 ## IIIF benefits
 Need to explain IIIF to a colleague? These one-pagers provide information and benefits helpful to your audience.
 - [IIIF for CIOs and engineers](https://docs.google.com/document/d/1RJbJ8MdNWC_6Y1fyCvvtAzZfQIhHNDiFrpS2XA5TdGs/edit?usp=sharing)
-- [IIIF for Deans and other leaders](https://docs.google.com/document/d/1G62fUv1V6iUhskMDNgZlcyXVoIk4O9_FIOrL4kjlxXM/edit?usp=sharing)
+- [IIIF for deans and other leaders](https://docs.google.com/document/d/1G62fUv1V6iUhskMDNgZlcyXVoIk4O9_FIOrL4kjlxXM/edit?usp=sharing)
 - [IIIF for researchers](https://docs.google.com/document/d/1GWfh0F6HlzJtII9JxyED2CQ4eH9qwtGdO9yhMHxqvjs/edit?usp=sharing)
