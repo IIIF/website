@@ -8,7 +8,9 @@ tags: [training ]
 
 # Online Training
 
-The course will cover:
+We regularly offer workshops covering IIIF basics. No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and [JSON syntax](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) is useful but not required. Ticket availability is announced via our newsletter, Slack, and Twitter.
+
+Workshops cover:
 
 *   Getting started with the Image API
 *   Getting started with the Presentation API
@@ -17,9 +19,10 @@ The course will cover:
 *   Setting up a basic annotation server
 *   Introduction to various IIIF tools and techniques for scholarship
 
+If you have any questions on this event please reach out to us at <events@iiif.io>.
+
 <div id="announce-list">
 ### Course Structure
-The structure of the course will be as follows:
 
 *  ### Day 1 - **IIIF Basics**
     *   Introductions and course overview zoom call at 5:00pm BST / 12:00pm EST / 09:00am PST
@@ -51,13 +54,11 @@ The structure of the course will be as follows:
         *   Work on projects and presentation
 </div>
 
-No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and [JSON syntax](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) is useful but not required.
+## Workshop overview
 
-## Overview
+During the five-day workshop, participants will follow the [online workshop materials](https://training.iiif.io/iiif-online-workshop/), including watching videos on the Image, Presentation APIs, and using annotations with IIIF.  
 
-Following the success of the online workshop in June we are offering the opportunity to take part in another edition of this course. Participants will follow the [online workshop materials](https://training.iiif.io/iiif-online-workshop/) including watching videos on the Image, Presentation APIs and using annotations with IIIF.  
-
-Support will be given by the IIIF Technical Coordinator in the form of a group slack channel, daily group check-in sessions and 1 to 1 meetings. Participants will be encouraged to bring their own images to the workshop and work on a project during the week putting in to practice what they are learning and these will be demoed to other participants on the last day of the workshop.
+Support will be given by the IIIF Technical Coordinator in the form of a group Slack channel, daily group check-in sessions, and 1-on-1 meetings. Participants will be encouraged to bring their own images to the workshop and work on a project during the week putting in to practice what they are learning. These will be demoed to other participants on the last day of the workshop.
 
 After this class, participants will be able to:
 - Run a local image server
@@ -65,28 +66,23 @@ After this class, participants will be able to:
 - Build a IIIF Presentation manifest using the Bodleian Manifest editor
 - Relate existing applications of IIIF to local user needs
 
-## Course details
+## Time commitment and expectations
 
-The workshop will take place over five days (see schedule at right). Participants will typically need to dedicate 3-4 hours a day to the workshop and follow the material for one topic a day.
+Participants will typically need to dedicate 3-4 hours a day to the workshop and follow the material for one topic per day.
 
-Participants are expected to attend the Monday and Friday meetings in real time, and may drop in on the check-in meetings to meet other participants and discuss any ideas or discuss issues they are having.
+Participants are expected to attend the Monday and Friday meetings in real time, and may drop in on the mid-week check-in meetings to meet other participants and discuss ideas or issues.
 
-Participants will need a laptop on which they can install software and should be able to commit to a minimum of 3-4 hours per day for the 5 day course to get the most out of it. They will need to install Zoom, [Slack](https://slack.com/intl/en-gb/) and various workshop specific tools.
+Participants will need a laptop on which they can install software. They will need to install Zoom, [Slack](https://slack.com/intl/en-gb/) and various workshop specific tools.
 
-As well as the core sessions listed above there are a number of guest presentations that were recorded during the first online workshop available in the [Workshop notes](https://training.iiif.io/iiif-online-workshop/GuestPresentations.html). If participants are interested in hearing about other tools we will try and source extra Guest presentations during the week. These sessions will be recorded for later viewing by participants that can’t make these extra calls.
-
-If you have any questions on this event please reach out to <events@iiif.io>.
-
+In addition to the core sessions listed above there are a number of guest presentations that were recorded during our first online workshop available in the [Workshop notes](https://training.iiif.io/iiif-online-workshop/GuestPresentations.html). If participants are interested in learning about other tools we will try and source additional guest presentations during the week. These sessions will be recorded for later viewing by participants that can’t make these extra calls.
 
 ## Fellowship seats
 
-IIIF Consortium is committed to being accessible and inclusive. Toward this, we're committed to reducing barrier to people who want to learn.
+IIIF Consortium is committed to being accessible, inclusive, and to reducing barrier to people who want to learn about IIIF.
 
 We know that institutions have different policies in terms of support for training and development, as well as differing abilities to fund these activities. We don't want potential IIIF users excluded because of issues like these.
 
-Likewise, making a certain number of seats available during our online trainings and workshops is a tangible means by which the IIIF Consortium can encourage participation from a more diverse body of institutions.
-
-To these ends, we're making a set number of seats in every online workshop available as fellowship tickets with no cost to the end users (IIIF-C will cover all ticketing and platform fees associated with hosting these courses).
+We make making a set number of seats in every online workshop available as fellowship tickets with no cost to the end users (IIIF-C will cover all ticketing and platform fees associated with hosting these courses). Making free seats available during online trainings and workshops is a tangible means by which the IIIF Consortium can encourage participation from a more diverse body of institutions.
 
 These tickets are first-come, first-served, and made available on the honor system; we do not require any documentation of any kind to claim these tickets. If you count yourself among the groups listed below and your institution does not have funding for training opportunities, then these fellowship seats are available to you.
 
