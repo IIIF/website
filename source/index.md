@@ -12,15 +12,15 @@ title: International Image Interoperability Framework (IIIF)
 
 ## Great for researchers
 
-You need to **access** high-quality images, **examine** them closely, and **share** your work with collaborators. IIIF enables easy viewing of large images from multiple repositories, with comparison and annotation tools to aid research and presentation. Learn more.
+You need to **access** high-quality images, **examine** them closely, and **share** your work with collaborators. IIIF enables easy viewing of large images from multiple repositories, with comparison and annotation tools to aid research and presentation. [Learn more](https://docs.google.com/document/d/1GWfh0F6HlzJtII9JxyED2CQ4eH9qwtGdO9yhMHxqvjs/edit?usp=sharing).
 
 ## Efficient for developers
 
-Publish once, use often! When you adopt the framework, you can easily serve digital objects to your own site, or to sites using IIIF anywhere in the world--all while giving users a high-quality viewing experience for multiple file types. Learn more.
+Publish once, use often! When you adopt the framework, you can easily serve digital objects to your own site, or to sites using IIIF anywhere in the world--all while giving users a high-quality viewing experience for multiple file types. [Learn more](https://docs.google.com/document/d/1RJbJ8MdNWC_6Y1fyCvvtAzZfQIhHNDiFrpS2XA5TdGs/edit?usp=sharing).
 
 ## Powerful *and* practical for leaders
 
-It's your goal to share knowledge and collections as widely as possible. IIIF is being adopted by global leading institutions as a cost-effective way to serve billions of digital objects online without vendor lock-in and with strong open-source, community-driven ethics. Learn more.
+It's your goal to share knowledge and collections as widely as possible. IIIF is being adopted by global leading institutions as a cost-effective way to serve billions of digital objects online without vendor lock-in and with strong open-source, community-driven ethics. [Learn more](https://docs.google.com/document/d/1G62fUv1V6iUhskMDNgZlcyXVoIk4O9_FIOrL4kjlxXM/edit?usp=sharing).
 
 ---
 
