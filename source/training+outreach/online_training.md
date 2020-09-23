@@ -8,7 +8,7 @@ tags: [training ]
 
 # Online Training
 
-We regularly offer workshops covering IIIF basics. No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and [JSON syntax](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) is useful but not required. Ticket availability is announced via our newsletter, Slack, and Twitter.
+We regularly offer workshops covering IIIF basics. No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and [JSON syntax](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) is useful but not required. **Ticket availability is announced monthly via our newsletter, Slack, and Twitter.**
 
 Workshops cover:
 
@@ -66,6 +66,20 @@ After this class, participants will be able to:
 - Build a IIIF Presentation manifest using the Bodleian Manifest editor
 - Relate existing applications of IIIF to local user needs
 
+## Fellowship seats
+
+IIIF Consortium is committed to being accessible, inclusive, and to reducing barriers for people who want to learn about IIIF. We know that institutions have different policies in terms of support for training and development, as well as differing abilities to fund these activities, and don't want potential IIIF users excluded because of issues like these.
+
+To counter this, we make make a set number of seats in every online workshop available as fellowship tickets with no cost to the attendee. This a tangible means by which the IIIF Consortium can encourage participation from a more diverse body of institutions.
+
+Fellowship seats are first-come, first-served, and made available via the honor system; we do not require any documentation to claim these tickets. If you count yourself among the groups listed below and your institution does not have funding for training opportunities, then these fellowship seats are available to you.
+
+Candidates from under-represented groups in the IIIF Community -- including but not limited to:
+- people of color, ability/disability, non-binary gender identities, etc., as well as members of underrepresented and/or marginalized groups that don’t fit into these categories
+- Attendees from under-represented countries and geographic regions, particularly the Global South
+
+To claim a fellowship seat, register for a workshop on the event's EventBrite page and select the "fellowship ticket."
+
 ## Time commitment and expectations
 
 Participants will typically need to dedicate 3-4 hours a day to the workshop and follow the material for one topic per day.
@@ -75,19 +89,3 @@ Participants are expected to attend the Monday and Friday meetings in real time,
 Participants will need a laptop on which they can install software. They will need to install Zoom, [Slack](https://slack.com/intl/en-gb/) and various workshop specific tools.
 
 In addition to the core sessions listed above there are a number of guest presentations that were recorded during our first online workshop available in the [Workshop notes](https://training.iiif.io/iiif-online-workshop/GuestPresentations.html). If participants are interested in learning about other tools we will try and source additional guest presentations during the week. These sessions will be recorded for later viewing by participants that can’t make these extra calls.
-
-## Fellowship seats
-
-IIIF Consortium is committed to being accessible, inclusive, and to reducing barrier to people who want to learn about IIIF.
-
-We know that institutions have different policies in terms of support for training and development, as well as differing abilities to fund these activities. We don't want potential IIIF users excluded because of issues like these.
-
-We make making a set number of seats in every online workshop available as fellowship tickets with no cost to the end users (IIIF-C will cover all ticketing and platform fees associated with hosting these courses). Making free seats available during online trainings and workshops is a tangible means by which the IIIF Consortium can encourage participation from a more diverse body of institutions.
-
-These tickets are first-come, first-served, and made available on the honor system; we do not require any documentation of any kind to claim these tickets. If you count yourself among the groups listed below and your institution does not have funding for training opportunities, then these fellowship seats are available to you.
-
-Candidates from under-represented groups in the IIIF Community -- including but not limited to:
-- people of color, ability/disability, non-binary gender identities, etc., as well as members of underrepresented and/or marginalized groups that don’t fit into the categories listed above
-- Attendees from under-represented countries and geographic regions, particularly the Global South
-
-To claim a fellowship seat, register for the workshop and select the "fellowship ticket."
