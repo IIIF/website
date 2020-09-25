@@ -68,7 +68,7 @@ After this class, participants will be able to:
 
 ## Fellowship seats
 
-IIIF Consortium is committed to being accessible, inclusive, and to reducing barriers for people who want to learn about IIIF. We know that institutions have different policies in terms of support for training and development, as well as differing abilities to fund these activities, and don't want potential IIIF users excluded because of issues like these.
+The IIIF Consortium is committed to accessibility, inclusivity, and reducing barriers to learn about IIIF. We know that institutions have differing policies and abilities regarding support for staff training and development, and don't want potential IIIF users excluded because of issues like these.
 
 To counter this, we make make a set number of seats in every online workshop available as fellowship tickets with no cost to the attendee. This a tangible means by which the IIIF Consortium can encourage participation from a more diverse body of institutions.
 
@@ -78,7 +78,7 @@ Candidates from under-represented groups in the IIIF Community -- including but 
 - people of color, ability/disability, non-binary gender identities, etc., as well as members of underrepresented and/or marginalized groups that don’t fit into these categories
 - Attendees from under-represented countries and geographic regions, particularly the Global South
 
-To claim a fellowship seat, register for a workshop on the event's EventBrite page and select the "fellowship ticket."
+To claim a fellowship seat, register for a workshop on the event's EventBrite page and select the "fellowship ticket" option from the drop down menu.
 
 ## Time commitment and expectations
 
