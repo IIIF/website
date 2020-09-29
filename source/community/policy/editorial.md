@@ -95,11 +95,11 @@ In the event that an editor disagrees with a merge that has already happened, th
 ### 2.5 Meetings
 {: #meetings}
 
-All Editors SHOULD expect to attend one editorial committee meeting per year, either in person or online, lasting 2-3 days. Every effort will be made to ensure the timing and location of the meeting is convenient for as many of the committee as possible, and it is acknowledged that not every editorial committee member will be able to attend.
+All Editors _SHOULD_ attend one editorial committee meeting per year, either in person or online, lasting 2-3 days. Every effort will be made to ensure the timing and location of the meeting is convenient for as many of the committee as possible, and it is acknowledged that not every editorial committee member will be able to attend.
 
-All Editors SHOULD expect to attend one virtual editorial committee meeting monthly to discuss the ongoing work of the community, lasting for 1 hour. 
+All Editors _SHOULD_ attend one virtual editorial committee meeting monthly to discuss the ongoing work of the community, lasting for 1 hour. 
 
-All Editors SHOULD attend as many TSG meetings for the specifications on which they are working as possible.
+All Editors _SHOULD_ attend as many TSG meetings for the specifications on which they are working as possible.
 
 The editorial committee _MUST_ provide a summary of all meetings, and _SHOULD_ provide a summary of other interactions at which changes and new specifications are discussed.
 
@@ -108,7 +108,7 @@ The editorial committee _MUST_ provide a summary of all meetings, and _SHOULD_ p
 
  | Date       | Description                                                          |
  | ---------- | -------------------------------------------------------------------- |
- | 2020-09-28 | Revise for new editors and reduced travel                            |
+ | 2020-09-29 | Revise for new editors and reduced travel                            |
  | 2018-11-12 | Split off [membership][editors] and added [TRC][trc] role            |
  | 2017-03-17 | Updates to sections 1 and 2.1 (@srabun, @azaroth, @zimeon, @tcramer) |
  | 2015-12-22 | First release (@mikeapp, @tomcrane, @azaroth42, @jpstroop, @zimeon)  |
