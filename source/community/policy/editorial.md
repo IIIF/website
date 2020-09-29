@@ -5,7 +5,7 @@ tags: []
 cssversion: 2
 ---
 
-This document describes the process by which specifications are designed and written within the IIIF community. The first part describes the expected participation of the community throughout the process, including gathering real world use cases, discussing solutions, implementing products, and the role of the [Technical Review Committee (TRC)][trc]. The following parts describe the processes that the [editorial committee][editors] and the editors of a given specification use to ensure that the work is of the highest quality possible. The processes are intended to be as transparent and inclusive as possible, while still making progress quickly and responsibly.
+This document describes the process by which specifications are designed and written within the IIIF community. The first part describes the expected participation of the community throughout the process, including gathering real world use cases, discussing solutions, implementing products, and the role of the [Technical Review Committee (TRC)][trc]. The second section describes the processes that the [editorial committee][editors] and the editors of a given specification use to ensure that the work is of the highest quality possible. The processes are intended to be as transparent and inclusive as possible, while still making progress quickly and responsibly.
 
 Updates to this document are tracked in the [change log][change-log] at the bottom of the page.
 
@@ -34,7 +34,7 @@ In order to be considered ready for final review, new features must have two ope
 ### 1.4 Community Review
 {: #community-review}
 
-New versions of specifications at or above 1.0 must be reviewed by the [Technical Review Committee (TRC)][trc] as representative of the consortium and the community with regards to technical matters. Both the agendas and the notes from TRC meetings will be openly available.
+New versions of specifications at or above 1.0, and the first published [beta version][iiif-semver] of any specification, must be reviewed by the [Technical Review Committee (TRC)][trc] as representative of the consortium and the community with regards to technical matters. Both the agendas and the notes from TRC meetings will be openly available.
 
 Proposed new specifications and changes must be frozen for at least two weeks prior to all TRC review meetings, and this review period will be announced on [IIIF-Discuss][iiif-discuss], [IIIF-Announce][iiif-announce] and other relevant community email lists. Objections should be registered in advance of the TRC review meeting.
 
@@ -99,7 +99,7 @@ All Editors SHOULD expect to attend one editorial committee meeting per year, ei
 
 All Editors SHOULD expect to attend one virtual editorial committee meeting monthly to discuss the ongoing work of the community, lasting for 1 hour. 
 
-All Editors SHOULD attend as many in person and virtual meetings of TSGs and other groups for the specifications that they have agreed to work on.
+All Editors SHOULD attend as many TSG meetings for the specifications on which they are working as possible.
 
 The editorial committee _MUST_ provide a summary of all meetings, and _SHOULD_ provide a summary of other interactions at which changes and new specifications are discussed.
 
