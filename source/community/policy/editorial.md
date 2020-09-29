@@ -34,7 +34,7 @@ In order to be considered ready for final review, new features must have two ope
 ### 1.4 Community Review
 {: #community-review}
 
-New versions of specifications at or above 1.0, and the first published [beta version][iiif-semver] of any specification, must be reviewed by the [Technical Review Committee (TRC)][trc] as representative of the consortium and the community with regards to technical matters. Both the agendas and the notes from TRC meetings will be openly available.
+New versions of specifications at or above 1.0, and at least the first published [beta version][iiif-semver] of any specification, must be reviewed by the [Technical Review Committee (TRC)][trc] as representative of the consortium and the community with regards to technical matters. Both the agendas and the notes from TRC meetings will be openly available.
 
 Proposed new specifications and changes must be frozen for at least two weeks prior to all TRC review meetings, and this review period will be announced on [IIIF-Discuss][iiif-discuss], [IIIF-Announce][iiif-announce] and other relevant community email lists. Objections should be registered in advance of the TRC review meeting.
 
