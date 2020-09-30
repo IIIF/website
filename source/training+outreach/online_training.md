@@ -10,9 +10,7 @@ tags: [training ]
 
 This limited-seat course will run over 5 days, conducted online with video tutorials and extensive tutoring/support opportunities.
 
-Our next Workshop will run **Mon, Sep 21 - Fri, Sep 25, 2020** -- [Sign up for a spot now!](https://www.eventbrite.com/e/iiif-online-training-5-day-course-tickets-116493094983
-)
-
+Our next Workshop will run **Mon, Oct 26 - Fri, Oct 29, 2020** -- [Sign up for a spot now!](https://www.eventbrite.co.uk/e/123255298917/)
 
 ---
 
@@ -76,31 +74,31 @@ To claim a fellowship seat, register for the workshop and select the "fellowship
 The structure of the course will be as follows:
 
 *  ### Day 1 - **IIIF Basics**
-    *   Introductions and course overview zoom call at 5:00pm BST / 12:00pm EST / 09:00am PST
+    *   Introductions and course overview zoom call at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
     *   Topics:
         *   Introduction to IIIF - Video 1 hour
         *   Using IIIF for research - 1 hour
         *   Follow the exercises in the [Workshop documents](https://training.iiif.io/iiif-online-workshop/day-one/IIIFforResearch.html)
 *   ### Day 2  - **IIIF Image API**
-    *   Group check in meeting  at 5:00pm BST / 12:00pm EST / 09:00am PST
+    *   Group check in meeting  at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
     *   Topics:
         *   Image API  - video 1 hour
         *   Image API tasks in [Workshop notes](https://training.iiif.io/iiif-online-workshop/day-two/)
             *   At a minimum complete the ‘Hosted - Internet Archive’ option
 *   ### Day 3 - **Presentation API**
-    *   Group check in meeting at 5:00pm BST / 12:00pm EST / 09:00am PST
+    *   Group check in meeting at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
     *   Topics:
         *   Presentation API brief intro - video 10 mins
         *   Presentation API hands on - video 1 hour
         *   Follow Presentation API tasks in [Workshop notes](https://training.iiif.io/iiif-online-workshop/day-three/chrome-web-server/)  
             *   At a minimum create a Manifest using the Bodleian manifest editor that we can use in the Annotations session
 *   ### Day 4 - **Annotations**
-    *   Live presentation at 6:00pm BST / 1:00pm EST / 10:00am PST
+    *   Live presentation at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
     *   Topics:
         *   IIIF and Annotations - video 1 hour
         *   Follow Annotations task in [Workshop notes](https://training.iiif.io/iiif-online-workshop/day-four/annotations-and-annotation-lists.html)
 *   ### Day 5 - **Project demos**
-    *   Project demos and closing meeting - at 5:00pm BST / 12:00pm EST / 09:00am PST
+    *   Project demos and closing meeting - at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
     *   Topics:
         *   Work on projects and presentation
 
