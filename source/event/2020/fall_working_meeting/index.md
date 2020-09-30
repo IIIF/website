@@ -10,11 +10,33 @@ page: overview
 <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
 
-IIIF Fall Working Meeting Online is a series of **free** online events to develop the IIIF standards and community. There will be coordinated sessions on different aspects of IIIF and also lightning talks showing the latest developments in the IIIF Community. A detailed schedule will be announced in the coming weeks and there will be a call for lighting talks.
+The IIIF Fall Working Meeting is a series of **free** online events and working sessions held with the goal of advancing the IIIF standards and community.
+The event will include working sessions on different aspects of IIIF, lightning talks showing the latest IIIF developments, and updates on the community groups' work. A detailed schedule will be announced in the coming weeks.
 
-IIIF Fall Working Meeting is designed for both newcomers and experienced implementers, and include specially scheduled times to allow attendees to form regional community connections in the Americas, Europe, Asia, and more. **You may sign up for all events during the week, or just the ones that interest you.**
+The IIIF Fall Working Meeting welcomes both newcomers and experienced implementers to join. You may sign up for all events during the week, or just the ones that interest you.
 
-All event proceedings will be in English unless otherwise indicated, and all sessions will be recorded and made available following the conference.
+All event proceedings will be in English unless otherwise indicated. Sessions will be held using Zoom and attendees are expected to adhere to the IIIF Code of Conduct.
+
+Important dates:
+* The call for working sessions has closed. Proposals will be reviewed and submitters contacted by October 9th.
+* The call for lightning talks will open on October 5 and close on the 31st.
+
+If you have any questions, please get in touch with us via [events@iiif.io](mailto:events@iiif.io)
+
+## Event Schedule 
+Further details to come soon:
+
+**Tuesday, December 1:**
+ * Opening plenary
+ * Community updates
+ * Lightning talks
+
+**Wednesday, December 2:**
+ * Working meetings
+
+**Thursday, December 3:**
+ * Working meetings
+ * Closing plenary
 
 ## Logistics
 {:.no_toc}
@@ -28,7 +50,7 @@ If you have any questions, please get in touch with us via [events@iiif.io](mail
 
 ---
 
-## Full Event Calendar
+<!-- Full Event Calendar
 {:.no_toc}
 
 <div id="calendar-container"></div>
@@ -42,7 +64,7 @@ If you have any questions, please get in touch with us via [events@iiif.io](mail
   //var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
   var iframe_html = pref + timezone.name() + suff;
   document.getElementById('calendar-container').innerHTML = iframe_html;
-</script>
+</script>-->
 
 
 [iiif]: https://iiif.io/
