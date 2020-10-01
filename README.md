@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/IIIF/website.png?label=ready&title=Ready)](https://waffle.io/IIIF/website)
 [![Build Status](https://travis-ci.org/IIIF/website.svg?branch=master)](https://travis-ci.org/IIIF/website)
 
-# Specifications
+# Specifications/particularization
 
 Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](https://github.com/IIIF/api).
 
@@ -14,7 +14,7 @@ Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](h
 ## To Run the Tests
 
  1. `bundle install`
- 2. Install grunt `npm install -g grunt-cli`
+ 2. Install grunt 'npm install -g grunt-cli'
  3. Install grunt dependencies `npm install`
  4. Run ```bundle exec rake ci```
 
@@ -22,7 +22,7 @@ Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](h
 
 Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. The master branch is automatically loaded to the iiif.io website.
 
-## Some Things to Note
+## Some Things to Note/points to ponder
 
  * Much of the site data is in the YAML files in `_data/` (e.g. member institutions, server impls, demos, etc.) make edits there.
  * The latest versions of the APIs are set in `_config.yml`. Change there will get pushed to `.htaccess`, `technical-details/`, and any other links.
