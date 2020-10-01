@@ -22,7 +22,7 @@ Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](h
 
 Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. The master branch is automatically loaded to the iiif.io website.
 
-## Some Things to Note
+## Some Things to important note
 
  * Much of the site data is in the YAML files in `_data/` (e.g. member institutions, server impls, demos, etc.) make edits there.
  * The latest versions of the APIs are set in `_config.yml`. Change there will get pushed to `.htaccess`, `technical-details/`, and any other links.
