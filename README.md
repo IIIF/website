@@ -3,7 +3,7 @@
 
 # Specifications
 
-Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](https://github.com/IIIF/api).
+* Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](https://github.com/IIIF/api).
 
 ## To Debug the Site
 
@@ -20,7 +20,7 @@ Markdown Source of iiif.io website. For the IIIF specification see: [IIIF/api](h
 
 ## To Publish the Site to iiif.io
 
-Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. The master branch is automatically loaded to the iiif.io website.
+* Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. The master branch is automatically loaded to the iiif.io website.
 
 ## Some Things to Note
 
@@ -37,11 +37,11 @@ Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. 
 
 ### Updating dependencies:
 
-Updating Ruby dependencies:
+* Updating Ruby dependencies:
 
 ```bundle update```
 
-Updating node dependencies (`package.json`):
+* Updating node dependencies (`package.json`):
 
 ```
 # install node update program
