@@ -102,7 +102,7 @@ function addTable(destination, gtable) {
         var row = document.createElement('tr');
         for (var j = 0; j < gtable.rows[i].cells.length; j++) {
             var cell = document.createElement('td');
-            cell.innerHTML = gtable.rows[i].cells[j].innerHTML.replace('href="https://www.google.com/url?q=','href="').replace(/\&amp;sa=.*ust=[0-9]*.*$/g,'');
+            cell.innerHTML = gtable.rows[i].cells[j].innerHTML.replace('href="https://www.google.com/url?q=','href="').replace(/\&amp;sa=.*ust=[0-9]*.*\"/g,'"');
             row.appendChild(cell);
         }
         if (body.firstChild) {
