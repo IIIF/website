@@ -19,11 +19,11 @@ All event proceedings will be in English unless otherwise indicated. Sessions wi
 
 Important dates:
 * The call for working sessions has closed. Proposals will be reviewed and submitters contacted by October 9th.
-* The call for lightning talks will open on October 5 and close on the 31st.
+* The call for lightning talks will open on October 6th and close on the 29th.
 
 If you have any questions, please get in touch with us via [events@iiif.io](mailto:events@iiif.io)
 
-## Event Schedule 
+## Event Schedule
 Further details to come soon:
 
 **Tuesday, December 1:**
@@ -75,9 +75,3 @@ If you have any questions, please get in touch with us via [events@iiif.io](mail
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
-
-
-
-
-
-
