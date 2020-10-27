@@ -14,10 +14,10 @@ The IIIF Fall Working Meeting is a series of **free** online events and working 
 
 The IIIF community, events, and communications channels are guided by our Code of Conduct.
 
-##Upcoming dates:
+## Upcoming dates:
 The call for lightning talks closes on October 29th.
 
-##Logistics
+## Logistics
 * Sessions lasting more than 1 hour will include breaks
 * Hashtags: #IIIF
 * All events will be in English unless otherwise indicated
@@ -105,7 +105,7 @@ Details to come.
 
 ### Friday, December 4
 ---
-**IIIF Ambassadors: status, projects, and strategies**  
+**IIIF Ambassadors: Status, projects, and strategies**  
 **10:00-11:00am ET**  
 This meeting is intended as an introductory meeting for the current IIIF Ambassadors to meet each other and share experience about problems in their countries or projects, as well as the solutions they are developing.
 
