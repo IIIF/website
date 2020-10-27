@@ -12,19 +12,20 @@ page: overview
 
 The IIIF Fall Working Meeting is a series of **free** online events and working sessions held with the goal of collaboratively advancing the IIIF standards and community. We believe everyone has something to contribute and welcome both newcomers and experienced implementers to join--you are also welcome to join just to listen and learn!
 
-The IIIF community, events, and communications channels are guided by our Code of Conduct.
+The IIIF community, events, and communications channels are guided by our [Code of Conduct](https://iiif.io/event/conduct/#iiif-code-of-conduct).
 
 ## Upcoming dates:
-The call for lightning talks closes on October 29th.
+The [call for lightning talks](https://docs.google.com/forms/d/e/1FAIpQLSfKiEws-0YO4era5FWwosVM55r2sNyfPXf7elqsqA3HmVdzag/viewform?usp=sf_link) closes on October 29th.
 
 ## Logistics
+* Sessions will be held using Zoom and require advanced registration via [Eventbrite](https://www.eventbrite.com/e/iiif-fall-working-meeting-tickets-127044945853)
 * Sessions lasting more than 1 hour will include breaks
-* Hashtags: #IIIF
 * All events will be in English unless otherwise indicated
-* Sessions will be held using Zoom and require advanced registration
 * Recordings will be sent to registrants following the event, and later posted on the IIIF YouTube channel
 
 If you have any questions, please get in touch with us at [events@iiif.io](mailto:events@iiif.io).
+
+
 
 ## Schedule
 CALENDAR TKTK
@@ -41,7 +42,7 @@ Confused about the IIIF Community, or feel like you’re missing some informatio
 **11:00am-12:30 pm ET**  
 Josh Hadro, Managing Director of the IIIF Consortium, will welcome attendees, provide an update on where the IIIF community stands today, and explain the working meeting process and goals for the next several days of meetings.
 
-**Developing a IIIF Badge System**  
+**Developing a IIIF badge system**  
 **1:00- 2:00pm ET**  
 IIIF’s Outreach Community Group is exploring the idea of providing defined levels of interoperability in IIIF implementations and guidelines for reaching them to be used by implementers. Join a conversation to explore potential benefits, criteria, next steps.
 
@@ -49,17 +50,18 @@ IIIF’s Outreach Community Group is exploring the idea of providing defined lev
 **2:15-3:00pm ET**  
 Details to come.
 
-**IIIF China Community Vision**  
+**IIIF China Community vision**  
 **9:00-10:00pm ET**  
 IIIF Ambassador Joe Song will host a meeting for community members in China to discuss how to develop the community and involve more Chinese institutions in the framework.
 
+<br>
 ### Wednesday, December 2
 ---
 **Coffee/social time**  
 **10:30-11:00am ET**  
 Details to come.
 
-**Discovery technical specifications - APIs to promote aggregation and sharing**  
+**Discovery technical specifications: APIs to promote aggregation and sharing**  
 **11:00am-12:00pm ET**  
 Join the Discovery Technical Specification Group for a three-part session, followed by questions and open discussion:
 * Overview and update on the Change Discovery API (Rob Sanderson)
@@ -89,6 +91,7 @@ The intersection of these two patterns means that increasingly, our manifests be
 
 This session will discuss how an institution could begin to treat Canvases as a first-class resource within the underlying institutional data model, and how this would change the way that Manifests are created and used, with the goal of sharing knowledge and use cases, laying the foundation for a whitepaper-style resource targeted at back-end implementers, and identifying potential problems with this use case.
 
+<br>
 ### Thursday, December 3
 ---
 **IIIF 3D boundaries**  
@@ -103,6 +106,7 @@ This session will bring together the Auth working group and other interested par
 **1:30-2:00pm ET**  
 Details to come.
 
+<br>
 ### Friday, December 4
 ---
 **IIIF Ambassadors: Status, projects, and strategies**  
@@ -119,7 +123,7 @@ From this meeting, a Search Technical Specification Group within IIIF will take 
 **12:15-1:15pm ET**  
 Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions.
 
-**Mirador 3 workshop**  
+**Mirador 3 workshop (requires separate registration on Eventbrite)**  
 **1:30-4:30pm ET**  
 This working session will give attendees hands-on experience with customizing Mirador 3 and building a plugin. Be sure to come with your ideas for using Mirador 3 and what types of customizations you would like to make.
 
