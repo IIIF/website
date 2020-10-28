@@ -17,6 +17,9 @@ The IIIF community, events, and communications channels are guided by our [Code 
 ## Upcoming dates:
 The [call for lightning talks](https://docs.google.com/forms/d/e/1FAIpQLSfKiEws-0YO4era5FWwosVM55r2sNyfPXf7elqsqA3HmVdzag/viewform?usp=sf_link) closes on October 29th.
 
+## Registration
+Please register on [Eventbrite](https://www.eventbrite.com/e/iiif-2020-fall-working-meeting-tickets-127044945853).
+
 ## Logistics
 * Sessions will be held using Zoom and require advanced registration via [Eventbrite](https://www.eventbrite.com/e/iiif-fall-working-meeting-tickets-127044945853)
 * Sessions lasting more than 1 hour will include breaks
@@ -25,10 +28,22 @@ The [call for lightning talks](https://docs.google.com/forms/d/e/1FAIpQLSfKiEws-
 
 If you have any questions, please get in touch with us at [events@iiif.io](mailto:events@iiif.io).
 
+## Full Event Calendar
+{:.no_toc}
 
+<div id="calendar-container"></div>
 
-## Schedule
-CALENDAR TKTK
+<script type="text/javascript">
+  var timezone = jstz.determine();
+  console.log('Name is ' + timezone.name());
+  var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20201201/20201204&amp;title=Fall%20Working%20&amp;ctz=';
+  var suff = '" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>';
+  //var pref = '<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=somecalendaridentifier%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=';
+  //var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
+  var iframe_html = pref + timezone.name() + suff;
+  document.getElementById('calendar-container').innerHTML = iframe_html;
+</script>
+<br>
 
 ## Session descriptions
 
