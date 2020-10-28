@@ -18,7 +18,7 @@ The IIIF community, events, and communications channels are guided by our [Code 
 The [call for lightning talks](https://docs.google.com/forms/d/e/1FAIpQLSfKiEws-0YO4era5FWwosVM55r2sNyfPXf7elqsqA3HmVdzag/viewform?usp=sf_link) closes on October 29th.
 
 ## Registration
-Please register on [Eventbrite](https://www.eventbrite.com/e/iiif-2020-fall-working-meeting-tickets-127044945853).
+Registration will be open until Sunday, November 29 at 10:00pm ET. Please register on [Eventbrite](https://www.eventbrite.com/e/iiif-2020-fall-working-meeting-tickets-127044945853).
 
 ## Logistics
 * Sessions will be held using Zoom and require advanced registration via [Eventbrite](https://www.eventbrite.com/e/iiif-fall-working-meeting-tickets-127044945853)
