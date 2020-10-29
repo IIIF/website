@@ -12,21 +12,18 @@ page: overview
 
 The IIIF Fall Working Meeting is a series of **free** online events and working sessions held with the goal of collaboratively advancing the IIIF standards and community. We believe everyone has something to contribute and welcome both newcomers and experienced implementers to join--you are also welcome to join just to listen and learn!
 
-The IIIF community, events, and communications channels are guided by our [Code of Conduct](https://iiif.io/event/conduct/#iiif-code-of-conduct).
-
-## Upcoming dates:
-The [call for lightning talks](https://docs.google.com/forms/d/e/1FAIpQLSfKiEws-0YO4era5FWwosVM55r2sNyfPXf7elqsqA3HmVdzag/viewform?usp=sf_link) closes on October 29th.
-
-## Registration
-Registration will be open until Sunday, November 29 at 10:00pm ET. Please register on [Eventbrite](https://www.eventbrite.com/e/iiif-2020-fall-working-meeting-tickets-127044945853).
-
 ## Logistics
 * Sessions will be held using Zoom and require advanced registration via [Eventbrite](https://www.eventbrite.com/e/iiif-fall-working-meeting-tickets-127044945853)
 * Sessions lasting more than 1 hour will include breaks
 * All events will be in English unless otherwise indicated
 * Recordings will be sent to registrants following the event, and later posted on the IIIF YouTube channel
+* If you have any questions, please get in touch with us at [events@iiif.io](mailto:events@iiif.io)
 
-If you have any questions, please get in touch with us at [events@iiif.io](mailto:events@iiif.io).
+Registration will be open until Sunday, November 29 at 10:00pm ET. Registration gives you access to all events during the week. Please note that separate registration is required for the Mirador 3 workshop on December 4th (available as an option at the link below).
+
+<p class="register"><a href="https://www.eventbrite.com/e/iiif-2020-fall-working-meeting-tickets-127044945853">Register</a></p>
+
+*All registrants will receive an email from events@iiif.io on Monday, November 30 with Zoom information for the event.*
 
 ## Full Event Calendar
 {:.no_toc}
@@ -65,7 +62,7 @@ IIIF’s Outreach Community Group is exploring the idea of providing defined lev
 **2:15-3:00pm ET**  
 Details to come.
 
-**IIIF China Community vision**  
+**IIIF China Community vision (to be held in Chinese)**  
 **9:00-10:00pm ET**  
 IIIF Ambassador Joe Song will host a meeting for community members in China to discuss how to develop the community and involve more Chinese institutions in the framework.
 
@@ -147,6 +144,8 @@ By the end of the workshop, attendees will have learned:
 * Customizing and theming
 * Building a plugin
 * When and why to use different approaches to customization
+---
+The IIIF community, events, and communications channels are guided by our [Code of Conduct](https://iiif.io/event/conduct/#iiif-code-of-conduct).
 
 ---
 
