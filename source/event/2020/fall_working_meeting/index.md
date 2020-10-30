@@ -149,21 +149,89 @@ The IIIF community, events, and communications channels are guided by our [Code 
 
 ---
 
-<!-- Full Event Calendar
+<!-- Full Event Calendar -->
 {:.no_toc}
 
 <div id="calendar-container"></div>
 
 <script type="text/javascript">
-  var timezone = jstz.determine();
-  console.log('Name is ' + timezone.name());
-  var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20201130/20201206&amp;title=IIIF%20Fall%20Working%20Meeting&amp;ctz=';
-  var suff = '" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>';
-  //var pref = '<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=somecalendaridentifier%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=';
-  //var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
-  var iframe_html = pref + timezone.name() + suff;
-  document.getElementById('calendar-container').innerHTML = iframe_html;
-</script>-->
+var timezone = jstz.determine();
+var apiKey = 'AIzaSyBIB97V49ihYsXedQ0Ziw6s3SzcGf5G8z0';
+
+function text2id(text) {
+    return text.trim().toLowerCase().replace(/[:;,()]/g,'').replace(/[ ]/g,'-');
+}
+
+function loadEvents() {
+    // Initializes the client with the API key and the Translate API.
+    gapi.client.init({
+        'apiKey': apiKey,
+        // Discovery docs docs: https://developers.google.com/api-client-library/javascript/features/discovery
+        'discoveryDocs': ['https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest'],
+    }).then(function () {
+        // Use Google's "apis-explorer" for research: https://developers.google.com/apis-explorer/#s/calendar/v3/
+        // Events: list API docs: https://developers.google.com/calendar/v3/reference/events/list
+        return gapi.client.calendar.events.list({
+            'calendarId': '1hnm5h86n94ore0vnoo188ter8@group.calendar.google.com',
+            'timeMin': '2020-11-30T10:00:00-00:00',
+            'timeMax': '2020-11-07T10:00:00-00:00',
+            'showDeleted': false,
+            'singleEvents': true,
+            'timeZone': timezone.name(), // This doesn't convert the timezone
+            'orderBy': 'startTime'
+        });
+    }).then(function (response) {
+        if (response.result.items) {
+            var days = {
+                1: [],
+                2: [],
+                3: [],
+                4: [],
+                5: [],
+                6: []
+            };
+            for (var i = 0; i < response.result.items.length; i++) {
+                var day = moment(response.result.items[i].start.dateTime).day();
+                if (response.result.items[i].summary.substring('Fall Working Meeting') != -1) {
+                    days[day].push(response.result.items[i]);
+                }    
+            }   
+            var dayString = ['Monday, November 30', 'Tuesday, December 1st', 'Wednesday, December 2nd', 'Thursday, December 3rd', 'Friday, December 4th', 'Saturday, December 5th'];
+            var content = '';
+            for (var i = 1; i < (dayString.length + 1); i++) {
+                if (days[i].length > 0) {
+                    content += '<h2 id="' + text2id(dayString[i - 1].substring(0, dayString[i - 1].indexOf(','))) + '">' + dayString[i - 1] + '</h2>';
+                    for (var j = 0; j < days[i].length; j++) {
+                        var event = days[i][j];
+                        content += '<h3 id="' + text2id(event.summary) + '">' + event.summary + '</h3>';
+                        content += '<b>' + moment(event.start.dateTime).format("LT") + ' - ' + moment(event.end.dateTime).format("LT") + ' ' + moment.tz.zone(moment.tz.guess()).abbr(new Date().getTime()) + '</b>';
+
+                        if (event.hasOwnProperty('location') && event.location.length > 0 && event.location.indexOf('register') != -1) {
+                            content += '<p class="register"><a href="' + event.location.trim() + '">Register</a></p>';
+                        }    
+
+                        content += '<p>' + event.description + '</p>';
+                    }
+                    content += '<br/>';
+                    content += '<hr/>';
+                }
+            }
+
+            var div = document.getElementById('schedule');
+            div.innerHTML = content;
+            anchors.add("#schedule h2, #schedule h3");
+        }
+    }, function (reason) {
+        console.log('Error: ' + reason.result.error.message);
+    });
+}
+function loadClient() {
+    gapi.load('client', loadEvents);
+}
+
+</script>
+
+<script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" onreadystatechange="if (this.readyState === 'complete') this.onload()"></script>
 
 
 [iiif]: https://iiif.io/
