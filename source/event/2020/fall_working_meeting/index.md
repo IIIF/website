@@ -135,7 +135,7 @@ From this meeting, a Search Technical Specification Group within IIIF will take 
 **12:15-1:15pm ET**  
 Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions.
 
-**Mirador 3 workshop (requires separate registration on Eventbrite)**  
+**Mirador 3 workshop (*requires separate registration on Eventbrite*)**  
 **1:30-4:30pm ET**  
 This working session will give attendees hands-on experience with customizing Mirador 3 and building a plugin. Be sure to come with your ideas for using Mirador 3 and what types of customizations you would like to make.
 
@@ -143,8 +143,8 @@ By the end of the workshop, attendees will have learned:
 * Getting started with Mirador 3
 * Customizing and theming
 * Building a plugin
-* When and why to use different approaches to customization
----
+* When and why to use different approaches to customization    
+
 The IIIF community, events, and communications channels are guided by our [Code of Conduct](https://iiif.io/event/conduct/#iiif-code-of-conduct).
 
 ---
