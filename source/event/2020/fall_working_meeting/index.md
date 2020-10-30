@@ -19,13 +19,14 @@ The IIIF Fall Working Meeting is a series of **free** online events and working 
 * Recordings will be sent to registrants following the event, and later posted on the IIIF YouTube channel
 * If you have any questions, please get in touch with us at [events@iiif.io](mailto:events@iiif.io)
 
-Registration will be open until Sunday, November 29 at 10:00pm ET. Registration gives you access to all events during the week. Please note that separate registration is required for the Mirador 3 workshop on December 4th (available as an option at the link below).
+Registration will be open until Sunday, November 29 at 10:00pm ET. Registration gives you access to all events during the week. All registrants will receive an email from events@iiif.io on Monday, November 30 with Zoom information for the event.  
+
+Please note that separate registration is required for the Mirador 3 workshop on December 4th (available as an option at the link below).
 
 <p class="register"><a href="https://www.eventbrite.com/e/iiif-2020-fall-working-meeting-tickets-127044945853">Register</a></p>
 
-*All registrants will receive an email from events@iiif.io on Monday, November 30 with Zoom information for the event.*
-
 ## Full Event Calendar
+The times on this calendar should adjust to your current time zone.
 {:.no_toc}
 
 <div id="calendar-container"></div>
@@ -47,41 +48,41 @@ Registration will be open until Sunday, November 29 at 10:00pm ET. Registration 
 ### Tuesday, December 1
 ---
 **Newcomer welcome session**  
-**10:00-10:45am ET**  
+**10:00-10:45am ET (begins 7:00am PT/3:00pm GMT/4:00pm CET/11:00pm (+1) CST)**  
 Confused about the IIIF Community, or feel like you’re missing some information? Attend this session to learn how the IIIF community works. IIIF Consortium staff will talk about the different community groups and their various initiatives, approaches, and meetings. Come with questions!
 
 **Opening plenary**  
-**11:00am-12:30 pm ET**  
+**11:00am-12:30pm ET (begins 8:00am PT/4:00pm GMT/5:00pm CET/12:00am (+1) CST)**  
 Josh Hadro, Managing Director of the IIIF Consortium, will welcome attendees, provide an update on where the IIIF community stands today, and explain the working meeting process and goals for the next several days of meetings.
 
 **Developing a IIIF badge system**  
-**1:00- 2:00pm ET**  
+**1:00- 2:00pm ET (begins 10:00am PT/6:00pm GMT/7:00pm CET/2:00am (+1) CST)**  
 IIIF’s Outreach Community Group is exploring the idea of providing defined levels of interoperability in IIIF implementations and guidelines for reaching them to be used by implementers. Join a conversation to explore potential benefits, criteria, next steps.
 
 **Lightning talks**  
-**2:15-3:00pm ET**  
+**2:15-3:00pm ET (begins 11:15am PT/7:15pm GMT/8:15pm CET/3:15am (+1) CST)**  
 Details to come.
 
-**IIIF China Community vision (to be held in Chinese)**  
-**9:00-10:00pm ET**  
+**IIIF China Community vision (*to be held in Chinese*)**  
+**9:00-10:00pm ET (begins 6:00pm PT/2:00am GMT/3:00am CET/10:00am (+1) CST)**  
 IIIF Ambassador Joe Song will host a meeting for community members in China to discuss how to develop the community and involve more Chinese institutions in the framework.
 
 <br>
 ### Wednesday, December 2
 ---
 **Coffee/social time**  
-**10:30-11:00am ET**  
+**10:30-11:00am ET (begins 7:30am PT/3:30pm GMT/4:30pm CET/11:30pm CST)**  
 Details to come.
 
 **Discovery technical specifications: APIs to promote aggregation and sharing**  
-**11:00am-12:00pm ET**  
+**11:00am-12:00pm ET (begins 8:00am PT/4:00pm GMT/5:00pm CET/12:00am (+1) CST)**  
 Join the Discovery Technical Specification Group for a three-part session, followed by questions and open discussion:
 * Overview and update on the Change Discovery API (Rob Sanderson)
 * Details and discussion of the Content State API (Tom Crane with Demo from Richard Higgins)
 * Next steps: Notifications (Matt McGrattan)
 
 **Discovery for Humans: Site assessments**  
-**12:30-2:30pm ET**  
+**12:30-2:30pm ET (begins 9:30am PT/5:30pm GMT/6:30 pm CET/1:30am (+1) CST)**  
 Interoperable content is of no use if you can’t find it. And once you find it, you need to know how to use it. What are key features that facilitate human users’ finding and using IIIF-enabled content? The Discovery for Humans (D4H) group has undertaken a systematic review of sites from around the world to understand the range of functions and affordances currently implemented to support IIIF content. We have enumerated a set of individual features that promote IIIF findability, and examples from live sites.
 
 This session will share the findings from D4H’s survey of IIIF discovery features, highlighting key functions with exemplary implementations. It will also share the work in progress on two community resources: an assessment rubric based on the selected feature set, and a guide of successful patterns for institutions seeking to introduce better IIIF affordances to their sites.
@@ -92,7 +93,7 @@ a facilitated discussion on D4H priorities to inform the group’s work in 2021
 Information on how to begin participating in the group’s activities
 
 **Canvases as first-class citizens**  
-**3:00-4:00pm ET**  
+**3:00-4:00pm ET (begins 12:00pm PT/8:00pm GMT/9:00pm CET/4:00am (+1) CST)**  
 The IIIF manifest is the core structural element for the Presentation API. It's what we expose to the public, and it serves as the display mechanism that gathers together and orders annotations in a specific context. However, as we expand our usage of IIIF, increasingly we see two patterns:
 
 First, that digitized images are used in more than one context—this is particularly true of non-bibliographic use cases. Within the museum context, what appears within a Collection Online may differ from a given exhibition, or publication, or blog post.
@@ -107,36 +108,36 @@ This session will discuss how an institution could begin to treat Canvases as a 
 ### Thursday, December 3
 ---
 **IIIF 3D boundaries**  
-**10:00-11:00am ET**  
+**10:00-11:00am ET (begins 7:00am PT/3:00pm GMT/4:00pm CET/11:00pm (+1) CST)**  
 Updates and developments of the IIIF 3D Community will be shared by the three Co-Chairs Ed Silverton (Mnemoscene, Universal Viewer), Tom Flynn (Sketchfab), Ronald Haynes (Cambridge University) and others in the community. There will be highlights of related projects, experiments, and discussions that are helping to evolve possibilities for 3D interoperability and sustainability. Included will be an initial 3D rendering recipe example, collected user stories and samplings of 3D Workflows For Cultural Heritage, and an introduction to a 3D viewer comparison project - looking at animation, transparency, rendering, view sharing, annotations. In addition, some work concerning related model variations, metadata, and persistent identifiers for objects will be shared. The session will also serve to provide further exploration and discussion of user needs and stories, to expand existing understanding of the wider community's requirements to consider while developing 3D to better fit within existing IIIF standards for 2D, AV, etc. Please do join us!
 
 **Authentication: Challenges and next steps**  
-**11:15am-1:15pm ET**  
+**11:15am-1:15pm ET (begins 8:15am PT/4:15pm GMT/5:15pm CET/12:15am (+1) CST)**  
 This session will bring together the Auth working group and other interested parties in order to shed light on the recently uncovered issues with the IIIF Auth API (specifically in regard to third-party cookie handling) in order to discuss possible approaches to the problem, with the intended outcome of having a clear path or a shortlist of possible approaches to revamp the IIF Auth specifications.
 
 **Coffee/social time**  
-**1:30-2:00pm ET**  
+**1:30-2:00pm ET (begins 10:30am PT/6:30pm GMT/7:30pm CET/2:30am (+1) CST)**  
 Details to come.
 
 <br>
 ### Friday, December 4
 ---
 **IIIF Ambassadors: Status, projects, and strategies**  
-**10:00-11:00am ET**  
+**10:00-11:00am ET (begins 7:00am PT/3:00pm GMT/4:00pm CET/11:00pm (+1) CST)**  
 This meeting is intended as an introductory meeting for the current IIIF Ambassadors to meet each other and share experience about problems in their countries or projects, as well as the solutions they are developing.
 
 **Search 2.0: Use cases**  
-**11:00am-12:00pm ET**  
+**11:00am-12:00pm ET (begins 8:00am PT/4:00pm GMT/5:00pm CET/12:00am (+1) CST)**  
 With the release of versions 3.0 of the Image and Presentation APIs, one of the next steps is to bring the Search API in line with the changes made to the two core APIs. Join for a discussion of use cases for the IIIF API to make sure that we have all existing use cases covered, and that we add any new use cases that may have come up since the last iteration of this specification. All are welcome, but it will help to have read the Search 1.0 specification, or at least have some familiarity with existing Search API implementations.
 
 From this meeting, a Search Technical Specification Group within IIIF will take the results and determine the best path forward.
 
 **IIIF roadmap**  
-**12:15-1:15pm ET**  
+**12:15-1:15pm ET (begins 9:15am PT/5:15pm GMT/6:15pm CET/1:15am (+1) CST)**  
 Join us for a structured group conversation about the future of IIIF technical work. What would you like to see happen soon? What do you see the next five years looking like? All attendees are welcome to join in the conversation, providing feedback and asking questions.
 
 **Mirador 3 workshop (*requires separate registration on Eventbrite*)**  
-**1:30-4:30pm ET**  
+**1:30-4:30pm ET (begins 10:30am PT/6:30pm GMT/7:30pm CET/2:30am (+1) CST)**  
 This working session will give attendees hands-on experience with customizing Mirador 3 and building a plugin. Be sure to come with your ideas for using Mirador 3 and what types of customizations you would like to make.
 
 By the end of the workshop, attendees will have learned:
