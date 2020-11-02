@@ -19,13 +19,14 @@ The IIIF Fall Working Meeting is a series of **free** online events and working 
 * Recordings will be sent to registrants following the event, and later posted on the IIIF YouTube channel
 * If you have any questions, please get in touch with us at [events@iiif.io](mailto:events@iiif.io)
 
-Registration will be open until Sunday, November 29 at 10:00pm ET. Registration gives you access to all events during the week. Please note that separate registration is required for the Mirador 3 workshop on December 4th (available as an option at the link below).
+Registration will be open until Sunday, November 29 at 10:00pm ET. Registration gives you access to all events during the week. All registrants will receive an email from events@iiif.io on Monday, November 30 with Zoom information for the event.  
+
+Please note that separate registration is required for the Mirador 3 workshop on December 4th (available as an option at the link below).
 
 <p class="register"><a href="https://www.eventbrite.com/e/iiif-2020-fall-working-meeting-tickets-127044945853">Register</a></p>
 
-*All registrants will receive an email from events@iiif.io on Monday, November 30 with Zoom information for the event.*
-
 ## Full Event Calendar
+The times on this calendar should adjust to your current time zone.
 {:.no_toc}
 
 <div id="calendar-container"></div>
@@ -65,6 +66,7 @@ This working session will give attendees hands-on experience with customizing Mi
 
 <!-- Full Event Calendar -->
 {:.no_toc}
+
 
 <div id="calendar-container"></div>
 
