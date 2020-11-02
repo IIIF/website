@@ -42,8 +42,6 @@ Registration will be open until Sunday, November 29 at 10:00pm ET. Registration 
 </script>
 <br>
 
-## Session descriptions
-
 <div id="schedule"></div>
 
 <p><strong>Mirador 3 workshop (requires separate registration on Eventbrite)</strong><br />
@@ -116,7 +114,7 @@ function loadEvents() {
             var content = '';
             for (var i = 1; i < (dayString.length + 1); i++) {
                 if (days[i].length > 0) {
-                    content += '<h2 id="' + text2id(dayString[i - 1].substring(0, dayString[i - 1].indexOf(','))) + '">' + dayString[i - 1] + '</h2>';
+                    content += '<h2 id="' + text2id(dayString[i - 1].substring(0, dayString[i - 1].indexOf(','))) + '">' + dayString[i - 1] + '</h2><hr />';
                     for (var j = 0; j < days[i].length; j++) {
                         var event = days[i][j];
                         content += '<h3 id="' + text2id(event.summary) + '">' + event.summary + '</h3>';
@@ -132,8 +130,8 @@ function loadEvents() {
                             content += '<p>Description to be added...</p>';
                         }
                     }
-                    content += '<br/>';
-                    content += '<hr/>';
+                    content += '<br />';
+                    content += '<br />';
                 }
             }
 
