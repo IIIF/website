@@ -46,7 +46,22 @@ Registration will be open until Sunday, November 29 at 10:00pm ET. Registration 
 
 <div id="schedule"></div>
 
-The IIIF community, events, and communications channels are guided by our [Code of Conduct](https://iiif.io/event/conduct/#iiif-code-of-conduct).
+<p><strong>Mirador 3 workshop (requires separate registration on Eventbrite)</strong><br />
+<strong>1:30-4:30pm ET</strong><br />
+This working session will give attendees hands-on experience with customizing Mirador 3 and building a plugin. Be sure to come with your ideas for using Mirador 3 and what types of customizations you would like to make.</p>
+
+<p>By the end of the workshop, attendees will have learned:</p>
+<ul>
+  <li>Getting started with Mirador 3</li>
+  <li>Customizing and theming</li>
+  <li>Building a plugin</li>
+  <li>When and why to use different approaches to customization</li>
+</ul>
+
+
+---
+
+<p>The IIIF community, events, and communications channels are guided by our <a href="https://iiif.io/event/conduct/#iiif-code-of-conduct">Code of Conduct</a>.</p>
 
 ---
 
@@ -93,7 +108,7 @@ function loadEvents() {
             };
             for (var i = 0; i < response.result.items.length; i++) {
                 var day = moment(response.result.items[i].start.dateTime).day();
-                if (response.result.items[i].summary.indexOf('Fall Working Meeting') != -1) {
+                if (response.result.items[i].summary.indexOf('- Fall Working Meeting') != -1) {
                     days[day].push(response.result.items[i]);
                 }    
             }   
@@ -137,6 +152,8 @@ function loadClient() {
 </script>
 
 <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" onreadystatechange="if (this.readyState === 'complete') this.onload()"></script>
+
+
 
 
 [iiif]: https://iiif.io/
