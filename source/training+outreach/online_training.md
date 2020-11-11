@@ -10,7 +10,7 @@ tags: [training ]
 
 This limited-seat course will run over 5 days, conducted online with video tutorials and extensive tutoring/support opportunities.
 
-Our next Workshop will run **Mon, Oct 26 - Fri, Oct 29, 2020** -- [Sign up for a spot now!](https://www.eventbrite.co.uk/e/123255298917/)
+Our next Workshop will run **Mon, Nov. 23 - Fri, Nov 27, 2020** -- [Sign up for a spot now!](https://www.eventbrite.com/e/november-iiif-online-training-5-day-course-tickets-126834813341)
 
 ---
 
