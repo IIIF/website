@@ -49,7 +49,7 @@ Many institutions that use IIIF will use one of the common IIIF Viewers and you 
 
 Mirador is an Open-source, web based, multi-window image viewing platform with the ability to zoom, display, compare and annotate images from around the world. It comes in two major versions. Version 2 has been around for a number of years and is in production in many institutions. Version 3 was released in 2020 and is under active development. A number of institutions are running version 3 in production.
 
-A demo instance of Mirador can be found at [https://projectmirador.org/](https://projectmirador.org/) and the first two links are two Mirador 2 and the last one to Mirador 3 at [https://mirador-dev.netlify.com](https://mirador-dev.netlify.com).
+A demo instance of Mirador can be found at [https://projectmirador.org/](https://mirador-dev.netlify.app/__tests__/integration/mirador/).
 
 #### Mirador 2
 
