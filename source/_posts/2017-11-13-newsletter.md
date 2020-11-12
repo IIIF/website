@@ -282,8 +282,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 [edui]: https://github.com/sdellis/intro-to-iiif/blob/master/README.md
 [clyfford]: https://clyffordstillmuseum.org/
 [eap-cogapp]: https://www.cogapp.com/work#/endangered-archives-programme/
-[eap-uv]: http://eap.bl.uk/archive-file/EAP264-1-3-4#?cv=31&c=0&m=0&s=0&xywh=306%2C89%2C1051%2C817
-[eap-manifest]: http://eap.bl.uk/archive-file/EAP071-1-1
+[eap-uv]: https://eap.bl.uk/archive-file/EAP264-1-3-4#?cv=31&c=0&m=0&s=0&xywh=306%2C89%2C1051%2C817
+[eap-manifest]: https://eap.bl.uk/archive-file/EAP071-1-1
 [eap]: http://eap.bl.uk/
 [stackoverflow]: https://stackoverflow.com/questions/tagged/iiif
 [ronallo]: http://ronallo.com/
