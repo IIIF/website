@@ -7,7 +7,7 @@ redirect_from:
 ---
 The IIIF Code of Conduct guides our behavior as members of the IIIF Community in any forum, including remote and in-person meetings and events, email lists, Slack, GitHub, social media, and private correspondence related to IIIF. IIIF is an inclusive and safe community, committed to openness and transparency in all interactions and activities. To reflect these commitments, we agree to operate according to the following standards.
 
-*Changes to this document will be tracked within and reflected via its [internal change log][change-log].*
+*Changes to this document are reflected in its [internal change log][change-log].*
 
 ---
 
@@ -58,17 +58,36 @@ The current IIIF Code of Conduct Committee Members are:
 * Jack Reed (Stanford University)
 * Kate Lynch (Princeton University  
 
-For information about how Code of Conduct violations are evaluated, view the [Guidelines for Code of Conduct Team Members][guidelines].  
+For information about how Code of Conduct violations are evaluated, view the [Guidelines for Code of Conduct team members][guidelines].  
+
+## Process for evaluating Code of Conduct reports
+If a member of the Code of Conduct Team is involved in the incident, that member agrees to recuse themselves from the evaluation, and the further communications will not include that member. When a report is received, the Code of Conduct Team will meet to discuss the incident and determine:
+* A narrative of what happened
+* If this event constitutes a Code of Conduct violation
+* Who violated the Code of Conduct
+* Whether this is an ongoing situation, or if there is a threat to anyone’s physical safety
+* If determined to be an ongoing incident or physical threat, the Code of Conduct Team’s immediate priority will be to protect everyone involved.
+
+Actions and next steps will be determined on a case by case basis. The Code of Conduct Team will evaluate the situation and the following actions may be taken:
+* Nothing (if it is determined that no violation occurred)
+* A private reprimand
+* A public reprimand
+* A voluntary vacation (i.e. asking someone to “take a week off” from a mailing list or Slack)
+* A temporary or permanent ban from some or all IIIF spaces
+* A request for a public or private apology
+
+This evaluation and plan for action are to be completed and communicated to the reporter within one week unless it is necessary for the investigation to continue in order to respond appropriately.
+
+The committee will report the incident to the IIIF Coordinating Committee, who may choose to make a public report of the incident. All correspondence and notes related to the incident will be kept in a private folder only accessible by IIIF Consortium staff and the Code of Conduct Committee.  
 
 ## Appeal Process
-
 To appeal a decision of the Code of Conduct Team, contact the IIIF Coordinating Committee at <iiif-cocommittee@googlegroups.com> with your appeal and the IIIF Coordinating Committee members will review the case. If there is a potential conflict of interest, parties will be asked to recuse themselves.
 
 ## Acknowledgements
 The IIIF Code of Conduct has been modeled on work by [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), [Django](https://www.djangoproject.com/conduct/), [the Digital Library Federation (DLF)](https://www.diglib.org/about/code-of-conduct/), [Islandora](http://islandora.ca/codeofconduct), [Samvera](https://wiki.duraspace.org/display/samvera/Code+of+Conduct), and [DuraSpace](https://duraspace.org/about/policies/code-of-conduct/#:~:text=All%20communication%20will%20be%20treated,exclusionary%20behavior%20in%20any%20form.).  
 
  _This work is licensed under a Creative Commons Attribution 4.0 International License._  
- 
+
  ---
 
 ## Change Log
