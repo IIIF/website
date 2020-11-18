@@ -39,7 +39,7 @@ Participants asked by anyone to stop any harassing behavior must comply immediat
 ## Reporting harassment
 If you believe anyone is in physical danger, please notify appropriate law enforcement first.
 
-If you are subject to or witness harassment, please contact the Code of Conduct committee at [iiif-conduct@googlegroups.com](iiif-conduct@googlegroups.com), or individually at in-person events where committee members or event-specific contacts will be identified by badges and introductions at the beginning of the event.
+If you are subject to or witness harassment, please contact the Code of Conduct committee at [iiif-conduct@googlegroups.com](mailto:iiif-conduct@googlegroups.com), or individually at in-person events where committee members or event-specific contacts will be identified by badges and introductions at the beginning of the event.
 
 **Written or verbal Code of Conduct reports should include the following information:**
 * Your contact information
