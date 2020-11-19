@@ -87,7 +87,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * [BIREDIAL-ISTEC International Conference][istec], October 2017
 * HEAnet National Conference, November 2017
 * Museum Computer Group (MCG) Conference, November 2017
-* [Museum Computer Network (MCN) Conference][mcn], November 2017
+* Museum Computer Network (MCN) Conference, November 2017
 * BELSPO-funded INSIGHT project (Intelligent Neural Systems as Integrated Heritage Tools) launch event, November 2017
 * DAM LA, November 2017
 * Coalition for Networked Information (CNI), December 2017
@@ -332,7 +332,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [stem-poll]: http://doodle.com/poll/89db7nik6edydksk
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
-[mcn]: http://conference.mcn.edu/2017/conference_schedule.cfm
 [community-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/#community-process "IIIF Editorial Process"
 [iiif-translations]: https://drive.google.com/drive/folders/0B8biwZuDijgeT1I5bG9BTHJySk0
 [iiif-faq]:{{ site.url }}{{ site.baseurl }}/community/faq/
