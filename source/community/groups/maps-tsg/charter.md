@@ -41,7 +41,7 @@ The expected deliverables are two extensions to achieve the following objectives
 ## Communication Channels
 * Github Repository: maps
 * Slack: #maps
-* Email: iiif-discuss; subject line: [Maps-TSG]
+* Email: iiif-discuss; subject line: \[Maps-TSG\]
 * Calls: monthly on off weeks to the Maps community group call  
 
 ## Community Support
