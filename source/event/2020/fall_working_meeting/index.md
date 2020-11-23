@@ -12,6 +12,9 @@ page: overview
 
 The IIIF Fall Working Meeting is a series of **free** online events and working sessions held with the goal of collaboratively advancing the IIIF standards and community. We believe everyone has something to contribute and welcome both newcomers and experienced implementers to join--you are also welcome to join just to listen and learn!
 
+Thanks to the 2020 Fall Working Meeting Program Committee for their help organizing this event:  
+Stefano Cossu (Software Architect, J. Paul Getty Trust), Andrija Sagic (Head of Digital Development, Library Milutin Bojic), ​Rachel Senese (Digital Projects Coordinator, Georgia State University Library), and Giada di Trinca (Post-graduate, La Sapienza/University of Rome).
+
 ## Logistics
 * Sessions will be held using Zoom and require advanced registration via [Eventbrite](https://www.eventbrite.com/e/iiif-fall-working-meeting-tickets-127044945853)
 * Sessions lasting more than 1 hour will include breaks
