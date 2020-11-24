@@ -78,13 +78,13 @@ Actions and next steps will be determined on a case by case basis. The Code of C
 
 This evaluation and plan for action are to be completed and communicated to the reporter within one week unless it is necessary for the investigation to continue in order to respond appropriately.
 
-The committee will report the incident to the IIIF Coordinating Committee, who may choose to make a public report of the incident. All correspondence and notes related to the incident will be kept in a private folder only accessible by IIIF Consortium staff and the Code of Conduct Committee.  
+If the Code of Conduct Committee determines a public response is necessary following the incident, it will notify the community and/or event attendees via the most appropriate channel(s). The Committee will also provide an annual, anonymized report describing any reported incidents and actions taken in response. All correspondence and notes related to the incident will be kept in a private folder only accessible by IIIF Consortium staff and the Code of Conduct Committee.
 
 ## Appeal Process
-To appeal a decision of the Code of Conduct Team, contact the IIIF Coordinating Committee at <iiif-cocommittee@googlegroups.com> with your appeal and the IIIF Coordinating Committee members will review the case. If there is a potential conflict of interest, parties will be asked to recuse themselves.
+To appeal a decision of the Code of Conduct Committee, contact the IIIF Coordinating Committee at <iiif-cocommittee@googlegroups.com> with your appeal and the committee members will review the case. If there is a potential conflict of interest, parties will be asked to recuse themselves.
 
 ## Acknowledgements
-The IIIF Code of Conduct has been modeled on work by [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), [Django](https://www.djangoproject.com/conduct/), [the Digital Library Federation (DLF)](https://www.diglib.org/about/code-of-conduct/), [Islandora](http://islandora.ca/codeofconduct), [Samvera](https://wiki.duraspace.org/display/samvera/Code+of+Conduct), and [DuraSpace](https://duraspace.org/about/policies/code-of-conduct/#:~:text=All%20communication%20will%20be%20treated,exclusionary%20behavior%20in%20any%20form.).  
+The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), [Django](https://www.djangoproject.com/conduct/), [the Digital Library Federation (DLF)](https://www.diglib.org/about/code-of-conduct/), [Islandora](http://islandora.ca/codeofconduct), [Samvera](https://wiki.duraspace.org/display/samvera/Code+of+Conduct), and [DuraSpace](https://duraspace.org/about/policies/code-of-conduct/#:~:text=All%20communication%20will%20be%20treated,exclusionary%20behavior%20in%20any%20form.).  
 
  _This work is licensed under a Creative Commons Attribution 4.0 International License._  
 
