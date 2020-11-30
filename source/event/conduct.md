@@ -56,7 +56,7 @@ The current IIIF Code of Conduct Committee Members are:
 * Glen Robson (IIIF-C)
 * Meg O’Hearn (IIIF-C)
 * Jack Reed (Stanford University)
-* Kate Lynch (Princeton University  
+* Kate Lynch (Princeton University)
 
 For information about how Code of Conduct violations are evaluated, view the [Guidelines for Code of Conduct team members][guidelines].  
 
