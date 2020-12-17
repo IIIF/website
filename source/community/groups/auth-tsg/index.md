@@ -15,8 +15,8 @@ The IIIF Authentication API is an interaction pattern for managing access contro
 * Stefano Cossu
 
 **Communication channels:**
-* Github TBD
-* Calls TBD - see [IIIF Community Calendar][iiif-calendar] for details
+* Github: TBD
+* Calls: TBD - see [IIIF Community Calendar][iiif-calendar] for details
 * Email: [iiif-discuss][iiif-discuss] with subject line: \[Auth-TSG\]
 * General discussion on the [Authentication Slack channel][auth-slack]
 
