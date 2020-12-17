@@ -11,7 +11,8 @@ The IIIF Authentication API is an interaction pattern for managing access contro
 ## Organization
 
 **Chairs:**
-
+* Tom Crane
+* Stefano Cossu
 
 **Communication channels:**
 * Github TBD
