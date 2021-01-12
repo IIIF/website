@@ -36,7 +36,7 @@ The full charter can be found [here][auth-charter].
 [zoom-link]: https://stanford.zoom.us/j/829945399?pwd=u8KPNHGHxJk
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-[auth-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg/charter
+[auth-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg/charter/
 
 
 {% include acronyms.md %}
