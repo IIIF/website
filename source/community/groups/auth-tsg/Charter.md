@@ -57,7 +57,7 @@ Jon Stroop (Princeton University Library)
 [text-granularity]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
 [cal-ical]: https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics
 [maps-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/maps-tsg/
-[auth-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg "IIIF Authorization Technical Specification Group"
-[auth-charter]:  {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg/charter
+[auth-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg/
+[auth-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg/charter/
 
 {% include acronyms.md %}
