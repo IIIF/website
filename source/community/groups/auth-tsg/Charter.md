@@ -30,25 +30,10 @@ https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Aauth
 
 ## Roadmap
 * Group formation: October 2020
-* Delivery of new Authentication API version, given current technical /political environment: Initial draft: June 2021; Implementable Beta: November 2021; Proposed Recommendation: June 2022   
-
-## Community Support
-Please add your name and institution below to show your support to the formation of the group:   
-Andy Irving (BL)   
-Mike Appleby (Yale University Library)   
-Maria Whitaker (Indiana University)   
-Joe Padfield (NG)   
-Tom Crane (Digirati)   
-Jack Reed (Stanford)   
-Kim Pham (University of Denver)   
-Simeon Warner (Cornell)   
-Matt McGrattan (Digirati, Discovery TSG)   
-Jon Hartzler (UND)   
-Patrick Cuba (Walter J. Ong, S.J. Center for Digital Humanities @ SLU)   
-Kat Thornton (Community TRC Rep)   
-Trey Pendragon (Princeton)   
-Jeff Mixter (OCLC)   
-Stefano Cossu (Getty)   
+* Delivery of new Authentication API version, given current technical /political environment:
+    * Initial draft: June 2021
+    * Implementable Beta: November 2021
+    * Proposed Recommendation: June 2022    
 
 ## Technical Editors
 Rob Sanderson (Yale)   
