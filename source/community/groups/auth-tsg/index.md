@@ -26,7 +26,6 @@ The IIIF Authentication API is an interaction pattern for managing access contro
 **Call connection information:**
 * Online: [https://stanford.zoom.us/j/99449304468](https://stanford.zoom.us/j/99449304468)
 
-[charter]: {{ site.url }}{{ site.baseurl }}/community/groups/maps-tsg/charter
 [events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [auth-slack]: https://iiif.slack.com/messages/authentication/details/
