@@ -26,6 +26,9 @@
 - institution: IIIF TSG - Discovery
   name: Matt McGrattan
   role: 1
+- institution: IIIF TSG - Authenticaiton
+  name: Stefano Cossu
+  role: 1
 - institution: IIIF TSG - Text Granularity
   name: (declined)
   role: 1
@@ -41,7 +44,7 @@
   name: Stéphane Pillorget
   role: 2
 - institution: British Library
-  name: Andy Irving
+  name: 
   role: 2
 #- institution: Brown University
 #  name: 
@@ -68,7 +71,7 @@
   name: Stefano Cossu
   role: 2
 - institution: Gottingen State and University Library
-  name: Mustafa Dogan
+  name: Ingo Pfennigstorf
   role: 2
 - institution: Harvard University
   name: Rashmi Singhal
@@ -143,7 +146,7 @@
 #  name: 
 #  role: 2
 - institution: University of California, Los Angeles
-  name: Joshua Gomez
+  name: Kevin Clarke
   role: 2
 - institution: University of Edinburgh
   name: Scott Renton
@@ -158,7 +161,7 @@
   name: Jon Hartzler
   role: 2
 - institution: University of Oxford (Bodleian Library)
-  name: Andrew Hankinson
+  name: Andy Irving
   role: 2
 #- institution: University of Pennsylvania
 #  name: 
