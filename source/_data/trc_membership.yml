@@ -29,6 +29,9 @@
 - institution: IIIF TSG - Authenticaiton
   name: Stefano Cossu
   role: 1
+- institution: IIIF TSG - Maps
+  name: Bryan Haberberger
+  role: 1
 - institution: IIIF TSG - Text Granularity
   name: (declined)
   role: 1
@@ -44,7 +47,7 @@
   name: Stéphane Pillorget
   role: 2
 - institution: British Library
-  name: 
+  name: Paul Clements
   role: 2
 #- institution: Brown University
 #  name: 
@@ -112,9 +115,6 @@
 #- institution: National Library of Poland
 #  name: 
 #  role: 2
-- institution: National Library of Scotland
-  name: Tony Stuart
-  role: 2
 - institution: National Library of Wales
   name: Siân Thomas
   role: 2
