@@ -40,10 +40,10 @@ Below is a short list of nearby hotels with which we have been able to negotiate
 {% endif %}
 {% endfor %}
 
-In addition to the options above, there are many rooms available at a variety of price points through sites like Airbnb and others that offer listings for hotels, bed and breakfast inns, and more. 
+In addition to the options above, there are many rooms available at a variety of price points through sites like Airbnb and others that offer listings for hotels, bed and breakfast inns, and more.
 
 - [Airbnb][airbnb]
-    + A variety of options available in Cambridge, MA and Boston, MA, including rooms for rent as well as entire apartments (also worth reading this [Airbnb "Survival Guide"][airbnb-guide] from *The New York Times*)
+    + A variety of options available in Cambridge, MA and Boston, MA, including rooms for rent as well as entire apartments.
 -  [Google Hotel search][google-hotels]
     +  Includes a variety of listings for large and small hotels as well as B&Bs, Inns, and more.
 
@@ -58,7 +58,7 @@ We have also contacted nearby schools to see about on-campus housing, and we'll 
         origin: new google.maps.Point(0,0),
         anchor: new google.maps.Point(10, 34)
         };
-        // 
+        //
   }
   function initMap() {
     var CurrentInfoBox = null;
@@ -112,14 +112,14 @@ We have also contacted nearby schools to see about on-campus housing, and we'll 
     var content = "<p><a href='{{i.url}}'>{{i.name}}</a><ul><li><b>Address:</b> {{ i.address }}</li><li><b>URL: </b>{{ i.url }}</li></ul></p>";
     marker.addListener('click',wrapEventCallback(infoBoxFunction, count, content));
     markers.push(marker)
-    
+
 {% endfor %}
 
 {% for i in site.data.boston-locations %}
 
 count = count + 1
 
-{% if i.cat == 1 %} 
+{% if i.cat == 1 %}
 
     var pinColor = "5884FC";
     var pinImage = createIcon(pinColor);
@@ -127,7 +127,7 @@ count = count + 1
                         new google.maps.Size(40, 37),
                         new google.maps.Point(0, 0),
                         new google.maps.Point(12, 35));
-    
+
     marker = new google.maps.Marker({
         position: {lat: {{ i.lat }}, lng: {{ i.lng}} },
         title: "{{ i.name }}",
@@ -138,7 +138,7 @@ count = count + 1
     var content = "<p><a href='{{i.url}}'>{{i.name}}</a><ul><li><b>Address:</b> {{ i.address }}</li><li><b>URL: </b>{{ i.url }}</li></ul></p><p>{{ i.note }}</p><p>{{i.dates}}</p>";
     marker.addListener('click',wrapEventCallback(infoBoxFunction, count, content));
     markers.push(marker)
-    
+
 {% endif %}
 
 {% if i.cat == 2 %}
@@ -160,7 +160,7 @@ count = count + 1
     var content = "<p><a href='{{i.url}}'>{{i.name}}</a><ul><li><b>Address:</b> {{ i.address }}</li><li><b>URL: </b>{{ i.url }}</li></ul></p><p>{{ i.note }}</p><p>{{i.dates}}</p>";
     marker.addListener('click',wrapEventCallback(infoBoxFunction, count, content));
     markers.push(marker)
-    
+
 {% endif %}
 {% endfor %}}
 
