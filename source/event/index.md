@@ -8,9 +8,9 @@ cssversion: 2
 
 All IIIF events are subject to the [Code of Conduct][conduct].
 
-__Upcoming main IIIF Events__
+__Upcoming IIIF-Hosted Events__
 
-* Fall 2020 IIIF Online Working Meeting: [December 1-3 Online Event][fall2020]
+* 2021 IIIF Annual Conference: [June 22-24, Online][annual_conference]
 
 __Other IIIF Events__
 
@@ -26,6 +26,7 @@ Information on hosting a IIIF Event.
 
 __Previous IIIF Events__
 
+* Fall 2020 IIIF Working meeting: [Online][fall2020]
 * Spring 2020 IIIF Week: [June 1-5 Online Event][iiifweek]
 * Spring 2020 IIIF Conference: [Boston, MA][boston20] - postponed due to coronavirus
 * Fall 2019 IIIF Working Meeting: [November 4-7 in Ann Arbor, Michigan][ann_arbor19]
@@ -135,3 +136,4 @@ function addTable(destination, gtable) {
 [outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach/
 [conference]: {{ site.url }}{{ site.baseurl }}/event/conference_guidelines/
 [fall2020]: {{ site.url }}{{ site.baseurl }}/event/2020/fall_working_meeting/
+[annual_conference]: {{ site.url }}{{ site.baseurl }}/event/2021/annual_conference
