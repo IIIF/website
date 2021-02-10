@@ -142,9 +142,9 @@
 - institution: Stanford University
   name: Jack Reed
   role: 2
-#- institution: University of Basel, Digital Humanities Lab
-#  name: 
-#  role: 2
+- institution: University of Basel, Digital Humanities Lab
+  name: Julien A. Raemy 
+  role: 2
 - institution: University of California, Los Angeles
   name: Kevin Clarke
   role: 2
@@ -197,8 +197,8 @@
 - institution: Yale University, EaaSI program
   name: Katherine Thornton  
   role: 4
-- institution: Swiss Art Research Infrastructure (SARI), University of Zurich
-  name: Julien A. Raemy 
+- institution: 
+  name: 
   role: 4
 - institution: Yale University Library
   name: Trip Kirkpatrick
