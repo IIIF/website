@@ -12,11 +12,13 @@ __Upcoming IIIF-Hosted Events__
 
 * 2021 IIIF Annual Conference: [June 22-24, Online][annual_conference]
 
+<!--
 __Other IIIF Events__
 
 These are events that have a IIIF presence, presentation, workshop or other tie in. Please contact the [IIIF Outreach group][outreach] if you know of other meetings or conferences not listed below.
 
 <table id="events-2019" class="api-table"></table>
+-->
 
 __IIIF Event Guidance__
 
