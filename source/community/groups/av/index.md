@@ -22,7 +22,7 @@ The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipa
 
 **Communication Channels:**
 
-  * Calls every four weeks on Tuesdays at 12:00pm Eastern (opposite the general IIIF Community Call) - see [IIIF Community Calendar][iiif-calendar] for details
+  * Calls every four weeks on Mondays at 12:00pm Eastern - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [# av IIIF Slack channel][av-slack] ([Join Slack][slack])
 
