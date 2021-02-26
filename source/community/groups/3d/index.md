@@ -29,6 +29,7 @@ Please add examples and use cases at https://github.com/IIIF/iiif-3d-stories/iss
 
   * Ed Silverton ([Mnemoscene][mnemoscene])
   * Ronald Haynes ([Cambridge University][ronald])
+  * Julie Winchester ([Duke University][julie])
 
 **Communication Channels:**
 
@@ -57,5 +58,6 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 [mnemoscene]: https://mnemoscene.io/
 [sketchfab]: https://sketchfab.com/nebulousflynn
 [ronald]: https://www.uis.cam.ac.uk/about-us/rms/ronald-haynes
+[julie]: https://scholars.duke.edu/person/julie.winchester 
 
 {% include acronyms.md %}
