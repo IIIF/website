@@ -1,5 +1,5 @@
 ---
-title: "Online Training"
+title: "Online Training Workshops"
 id: online_training
 layout: sub-page
 tags: [training ]
@@ -8,13 +8,42 @@ tags: [training ]
 
 <section class="{{ include.class }} wrapper">
 
-This limited-seat course will run over 5 days, conducted online with video tutorials and extensive tutoring/support opportunities.
+<img class="img-center" src="{{ site.url }}{{ site.baseurl }}/img/workshop.jpg" alt="image of a painting of a sailboat" style="height: 400px;">
 
-Our next Workshop will run **Mon, Nov. 23 - Fri, Nov 27, 2020** -- [Sign up for a spot now!](https://www.eventbrite.com/e/november-iiif-online-training-5-day-course-tickets-126834813341)
+Please join us for our next workshop to learn IIIF basics!
 
----
+The next online workshop will run from March 22 to 26, and will meet daily at 10am PT / 1pm ET / 17:00 UK (note that this is the week when daylight saving time starts in the United States). 
 
-The course will cover:
+<p class="register"><a href="https://www.eventbrite.com/o/iiif-consortium-19836883937">Register</a></p>
+
+## About this Event
+
+No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and JSON syntax is useful but not required. Tutoring and support opportunities are available via Slack and one-on-one Zoom meetings. By the end of the workshop, participants will have completed a small IIIF project, which they will demo for the group at the final meeting.
+
+**Meeting structure:**
+
+DAY 1: Introduction and course overview
+
+DAY 2: Group check-in meeting
+
+DAY 3: Group check-in meeting
+
+DAY 4: Live presentation
+
+DAY 5: Project demos and closing meeting
+
+Please check the Eventbrite listing for a particular training course for exact times.
+
+Note: Although recordings will be made available, participants should expect to attend the Monday and Friday meetings in real-time, and may schedule additional check-in meetings as needed to discuss ideas or issues they are having with the instructor and other participants. 
+
+**Requirements:**
+
+*   Participants will need to plan for 3-4 additional hours per day to complete assignments outside scheduled meeting times. 
+*   Participants will also need a laptop on which they can install software, including Zoom, Slack, and various optional workshop-specific tools.
+
+**Course details:**
+
+This workshop covers:
 
 *   Getting started with the Image API
 *   Getting started with the Presentation API
@@ -23,83 +52,30 @@ The course will cover:
 *   Setting up a basic annotation server
 *   Introduction to various IIIF tools and techniques for scholarship
 
-No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and [JSON syntax](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) is useful but not required.
+After completing this workshop, participants will be able to:
 
-## Overview
+*   Run a local image server
+*   Annotate IIIF images
+*   Build a IIIF Presentation Manifest using the Bodleian Manifest Editor
+*   Relate existing applications of IIIF to local user needs
 
-Following the success of the online workshop in June we are offering the opportunity to take part in another edition of this course. Participants will follow the [online workshop materials](https://training.iiif.io/iiif-online-workshop/) including watching videos on the Image, Presentation APIs and using annotations with IIIF.  
+View the [course syllabus](https://training.iiif.io/iiif-online-workshop/index.html) for more details on what is covered.
 
-Support will be given by the IIIF Technical Coordinator in the form of a group slack channel, daily group check-in sessions and 1 to 1 meetings. Participants will be encouraged to bring their own images to the workshop and work on a project during the week putting in to practice what they are learning and these will be demoed to other participants on the last day of the workshop.
+### Diversity fellowship seats
 
-After this class, participants will be able to:
-- Run a local image server
-- Annotate IIIF images
-- Build a IIIF Presentation manifest using the Bodleian Manifest editor
-- Relate existing applications of IIIF to local user needs
+The IIIF Consortium is committed to being accessible, inclusive, and reducing barriers for people who want to learn about the Framework. That’s why we make seats available in every workshop at no cost to encourage participation from a more diverse body of community members and institutions. 
 
-## Course details
+If your institution does not have funding for training opportunities and you count yourself among the groups listed below, then these fellowship seats are available to you:
 
-The workshop will take place over five days (see schedule below). Participants will typically need to dedicate 3-4 hours a day to the workshop and follow the material for one topic a day.
+*   People of color, ability/disability, non-binary gender identities, etc.
+*   Participants from under-represented countries or geographic regions, such as (but not limited to) the Global South
+*   Members of underrepresented and/or marginalized groups that don’t fit into the categories listed above
 
-Participants are expected to attend the Monday and Friday meetings in real time, and may drop in on the check-in meetings to meet other participants and discuss any ideas or discuss issues they are having.
+These tickets are first-come, first-served, and made available by the honor system; we do not require any documentation of any kind to claim these tickets. To claim a fellowship seat, register for the workshop and select the “fellowship ticket” option.
 
-Participants will need a laptop on which they can install software and should be able to commit to a minimum of 3-4 hours per day for the 5 day course to get the most out of it. They will need to install Zoom, [Slack](https://slack.com/intl/en-gb/) and various workshop specific tools.
+--- 
 
-As well as the core sessions listed above there are a number of guest presentations that were recorded during the first online workshop available in the [Workshop notes](https://training.iiif.io/iiif-online-workshop/GuestPresentations.html). If participants are interested in hearing about other tools we will try and source extra Guest presentations during the week. These sessions will be recorded for later viewing by participants that can’t make these extra calls.
+*The header image used for this event is a IIIF Image from the Smithsonian American Art Museum titled ["Criccieth, N. Wales"](https://americanart.si.edu/artwork/criccieth-n-wales-3202).*
 
-If you have any questions on this event please reach out to <events@iiif.io>.
-
-
-## Fellowship seats
-
-IIIF Consortium is committed to being accessible and inclusive. Toward this, we're committed to reducing barrier to people who want to learn.
-
-We know that institutions have different policies in terms of support for training and development, as well as differing abilities to fund these activities. We don't want potential IIIF users excluded because of issues like these.
-
-Likewise, making a certain number of seats available during our online trainings and workshops is a tangible means by which the IIIF Consortium can encourage participation from a more diverse body of institutions.
-
-To these ends, we're making a set number of seats in every online workshop available as fellowship tickets with no cost to the end users (IIIF-C will cover all ticketing and platform fees associated with hosting these courses).
-
-If your institution does not have funding for training opportunities and you count yourself among the groups listed below, then these fellowship seats are available to you. These tickets are first-come, first-served, and made available on the honor system; we do not require any documentation of any kind to claim these tickets.
-
-Candidates from under-represented groups in the IIIF Community -- including but not limited to:
-- people of color, ability/disability, non-binary gender identities, etc., as well as members of underrepresented and/or marginalized groups that don’t fit into the categories listed above
-- Attendees from under-represented countries and geographic regions, particularly the Global South
-
-To claim a fellowship seat, register for the workshop and select the "fellowship ticket."
-
----
-
-### Course Structure
-The structure of the course will be as follows:
-
-*  ### Day 1 - **IIIF Basics**
-    *   Introductions and course overview zoom call at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
-    *   Topics:
-        *   Introduction to IIIF - Video 1 hour
-        *   Using IIIF for research - 1 hour
-        *   Follow the exercises in the [Workshop documents](https://training.iiif.io/iiif-online-workshop/day-one/IIIFforResearch.html)
-*   ### Day 2  - **IIIF Image API**
-    *   Group check in meeting  at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
-    *   Topics:
-        *   Image API  - video 1 hour
-        *   Image API tasks in [Workshop notes](https://training.iiif.io/iiif-online-workshop/day-two/)
-            *   At a minimum complete the ‘Hosted - Internet Archive’ option
-*   ### Day 3 - **Presentation API**
-    *   Group check in meeting at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
-    *   Topics:
-        *   Presentation API brief intro - video 10 mins
-        *   Presentation API hands on - video 1 hour
-        *   Follow Presentation API tasks in [Workshop notes](https://training.iiif.io/iiif-online-workshop/day-three/chrome-web-server/)  
-            *   At a minimum create a Manifest using the Bodleian manifest editor that we can use in the Annotations session
-*   ### Day 4 - **Annotations**
-    *   Live presentation at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
-    *   Topics:
-        *   IIIF and Annotations - video 1 hour
-        *   Follow Annotations task in [Workshop notes](https://training.iiif.io/iiif-online-workshop/day-four/annotations-and-annotation-lists.html)
-*   ### Day 5 - **Project demos**
-    *   Project demos and closing meeting - at 09:00am EST / 1:00pm GMT / 2:00pm CEST / 6:30pm IST / 10:00pm JST
-    *   Topics:
-        *   Work on projects and presentation
 
 </section>
