@@ -12,7 +12,7 @@ tags: [training ]
 
 Please join us for our next workshop to learn IIIF basics!
 
-The next online workshop will run from [DATES] and meet daily at [TIMES]. 
+The next online workshop will run from March 22 to 26, and will meet daily at 10am PT / 1pm ET / 17:00 UK (note that this is the week when daylight saving time starts in the United States). 
 
 <p class="register"><a href="https://www.eventbrite.com/o/iiif-consortium-19836883937">Register</a></p>
 
@@ -22,15 +22,17 @@ No prior knowledge of IIIF is required and the core sessions should be easily ac
 
 **Meeting structure:**
 
-DAY 1: Introduction and course overview 21:00 GMT / 4:00pm EST / 1:00pm PST
+DAY 1: Introduction and course overview
 
-DAY 2: Group check-in meeting at 21:00 GMT / 4:00pm EST / 1:00pm PST
+DAY 2: Group check-in meeting
 
-DAY 3: Group check-in meeting at 21:00 GMT / 4:00pm EST / 1:00pm PST
+DAY 3: Group check-in meeting
 
-DAY 4: Live presentation at 21:00 GMT / 4:00pm EST / 1:00pm PST
+DAY 4: Live presentation
 
-DAY 5: Project demos and closing meeting at 21:00 GMT / 4:00pm EST / 1:00pm PST
+DAY 5: Project demos and closing meeting
+
+Please check the Eventbrite listing for a particular training course for exact times.
 
 Note: Although recordings will be made available, participants should expect to attend the Monday and Friday meetings in real-time, and may schedule additional check-in meetings as needed to discuss ideas or issues they are having with the instructor and other participants. 
 
