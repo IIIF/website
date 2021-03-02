@@ -87,7 +87,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * [BIREDIAL-ISTEC International Conference][istec], October 2017
 * HEAnet National Conference, November 2017
 * Museum Computer Group (MCG) Conference, November 2017
-* [Museum Computer Network (MCN) Conference][mcn], November 2017
+* Museum Computer Network (MCN) Conference, November 2017
 * BELSPO-funded INSIGHT project (Intelligent Neural Systems as Integrated Heritage Tools) launch event, November 2017
 * DAM LA, November 2017
 * Coalition for Networked Information (CNI), December 2017

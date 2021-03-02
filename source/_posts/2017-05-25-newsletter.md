@@ -242,8 +242,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 [leipzig]: https://blog.ub.uni-leipzig.de/grenzenlose-bilderwelt/
 [leip-demo]: http://papyrusebers.de/
 [ipfs]: https://t.co/fSmwR2LZFU
-[hydra]: https://www.imls.gov/grants/awarded/lg-70-17-0043-17
-[imls-ava]: https://www.imls.gov/grants/awarded/lg-70-17-0042-17
+[hydra]: https://www.imls.gov/grants/awarded/lg-70-17-0043-17-0
+[imls-ava]: https://www.imls.gov/grants/awarded/lg-70-17-0042-17-0
 [crane-model]: http://resources.digirati.com/iiif/an-introduction-to-iiif/wheres-my-model.html
 [crane-intro]: http://resources.digirati.com/iiif/an-introduction-to-iiif/
 [heidel-report]: http://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/Cases_studies/Heidelbergreport-v0.9.pdf
