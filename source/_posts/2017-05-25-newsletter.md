@@ -121,7 +121,7 @@ The [IIIF Software Developers group][devs] continues to work on developing and d
 ### New Releases
 
 * Zegami now supports IIIF Image 2.1 and IIIF Presentation 2.1! [Learn more][zegami-news]
-* The Cooper Hewitt Smithsonian Design Museum is now using the IIIF Image API - see [demo][ch-demo] (200,000 images as tiles) and [blog][ch-blog] from Micah Walter, formerly of the Cooper Hewitt, collaborating with Aaron Cope on integrating IIIF/zoomable images for their collection on the web.
+* The Cooper Hewitt Smithsonian Design Museum is now using the IIIF Image API - see demo (200,000 images as tiles) and [blog][ch-blog] from Micah Walter, formerly of the Cooper Hewitt, collaborating with Aaron Cope on integrating IIIF/zoomable images for their collection on the web.
 * The Biblissima portal (focused on the history of ancient collections of manuscripts and early printed books) is now online in public beta, using Mirador:
     * Live demo
     * [Demo video][bib-vid]
@@ -217,7 +217,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [jpeg-site]: http://www.openjpeg.org/2017/04/27/Faster-OpenJPEG-is-on-track
 [jpeg-news]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
 [zegami-news]: https://zegami.com/blog/international-image-interoperability-framework-iiif-zegami/
-[ch-demo]: https://collection.cooperhewitt.org/objects/18572345/zoom
 [ch-blog]: https://labs.cooperhewitt.org/2017/parting-gifts/
 [bib-demo]: http://beta.biblissima.fr/en
 [bib-vid]: https://youtu.be/g1FQkkg23IA

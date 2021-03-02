@@ -26,6 +26,12 @@
 - institution: IIIF TSG - Discovery
   name: Matt McGrattan
   role: 1
+- institution: IIIF TSG - Authenticaiton
+  name: Stefano Cossu
+  role: 1
+- institution: IIIF TSG - Maps
+  name: Bryan Haberberger
+  role: 1
 - institution: IIIF TSG - Text Granularity
   name: (declined)
   role: 1
@@ -41,7 +47,7 @@
   name: Stéphane Pillorget
   role: 2
 - institution: British Library
-  name: Andy Irving
+  name: Paul Clements
   role: 2
 #- institution: Brown University
 #  name: 
@@ -68,7 +74,7 @@
   name: Stefano Cossu
   role: 2
 - institution: Gottingen State and University Library
-  name: Mustafa Dogan
+  name: Ingo Pfennigstorf
   role: 2
 - institution: Harvard University
   name: Rashmi Singhal
@@ -109,9 +115,6 @@
 #- institution: National Library of Poland
 #  name: 
 #  role: 2
-- institution: National Library of Scotland
-  name: Tony Stuart
-  role: 2
 - institution: National Library of Wales
   name: Siân Thomas
   role: 2
@@ -139,11 +142,11 @@
 - institution: Stanford University
   name: Jack Reed
   role: 2
-#- institution: University of Basel, Digital Humanities Lab
-#  name: 
-#  role: 2
+- institution: University of Basel, Digital Humanities Lab
+  name: Julien A. Raemy 
+  role: 2
 - institution: University of California, Los Angeles
-  name: Joshua Gomez
+  name: Kevin Clarke
   role: 2
 - institution: University of Edinburgh
   name: Scott Renton
@@ -158,7 +161,7 @@
   name: Jon Hartzler
   role: 2
 - institution: University of Oxford (Bodleian Library)
-  name: Andrew Hankinson
+  name: Andy Irving
   role: 2
 #- institution: University of Pennsylvania
 #  name: 
@@ -194,8 +197,8 @@
 - institution: Yale University, EaaSI program
   name: Katherine Thornton  
   role: 4
-- institution: Swiss Art Research Infrastructure (SARI), University of Zurich
-  name: Julien A. Raemy 
+- institution: 
+  name: 
   role: 4
 - institution: Yale University Library
   name: Trip Kirkpatrick

@@ -40,7 +40,7 @@ This is also possible using the [UniversalViewer](https://universalviewer.io/) w
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/UVM0taaT0B0" allow="encrypted-media" allowfullscreen></iframe>
 </div>    
 
-The drag and drop functionality works relatively well but does have some issues particularly in regards to accessibility and with interfaces without a mouse. To address these concerns the IIIF community has been working on a new API called [Content State](https://iiif.io/api/content-state) which offers a number of different ways to transfer content between viewers. This API is still in development so the examples below mostly use the drag and drop method. 
+The drag and drop functionality works relatively well but does have some issues particularly in regards to accessibility and with interfaces without a mouse. To address these concerns the IIIF community has been working on a new API called [Content State](https://iiif.io/api/content-state) which offers a number of different ways to transfer content between viewers. This API is still in development so the examples below mostly use the drag and drop method.
 
 ## IIIF Tools
 Many institutions that use IIIF will use one of the common IIIF Viewers and you may recognize either Mirador or the UniversalViewer in a page you are viewing. Here is a guide to importing and exporting from the different IIIF Viewers and tools.
@@ -49,7 +49,7 @@ Many institutions that use IIIF will use one of the common IIIF Viewers and you 
 
 Mirador is an Open-source, web based, multi-window image viewing platform with the ability to zoom, display, compare and annotate images from around the world. It comes in two major versions. Version 2 has been around for a number of years and is in production in many institutions. Version 3 was released in 2020 and is under active development. A number of institutions are running version 3 in production.
 
-A demo instance of Mirador can be found at [https://projectmirador.org/](https://projectmirador.org/) and the first two links are two Mirador 2 and the last one to Mirador 3 at [https://mirador-dev.netlify.com](https://mirador-dev.netlify.com).
+A demo instance of Mirador can be found at [https://projectmirador.org/](https://mirador-dev.netlify.app/__tests__/integration/mirador/).
 
 #### Mirador 2
 
@@ -167,7 +167,7 @@ The demo instance of Diva.js available below helpfully provides a text box where
 
 Below are list of links to viewers including links where you can add your own manifests:
 
- * [Mirador 2](https://projectmirador.org/demo/) - [http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=](http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=)
+ * [Mirador 2](https://projectmirador.org/) - [http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=](http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=)
  * [Mirador 3](https://mirador-dev.netlify.com/)
  * [UniversalViewer](https://universalviewer.io/examples/) - [https://universalviewer.io/uv.html?manifest=](https://universalviewer.io/uv.html?manifest=)
  * [Tify](https://demo.tify.rocks/demo.html?manifest=https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN857449303/manifest) - [https://demo.tify.rocks/demo.html?manifest=](https://demo.tify.rocks/demo.html?manifest=)

@@ -20,7 +20,7 @@ There is no set number of editors, but this does not mean that the number of exi
 
 Editors must agree to follow the [IIIF editorial process][editorial-process], including attendance at meetings, and to the [intellectual property conditions under which the specifications are published][spec-disclaimer]. They are responsible for confirming that these conditions are also acceptable to their employer, where applicable.
 
-It is not expected that every editor comment on every issue, though they should make every effort to do so.Editors may be dismissed from work on a specification, or the editorial group altogether, when they fail to meet the expectations of their colleagues, as described here.
+It is not expected that every editor comment on every issue, though they should make every effort to do so. Editors may be dismissed from work on a specification, or the editorial group altogether, when they fail to meet the expectations of their colleagues, as described here.
 
 ## Current Membership
 
@@ -35,7 +35,7 @@ It is not expected that every editor comment on every issue, though they should 
 
  | Date       | Description                                                          |
  | ---------- | -------------------------------------------------------------------- |
- | 2018-11-12 | Seperated from description of [editorial process][editorial-process] |
+ | 2018-11-12 | Separated from description of [editorial process][editorial-process] |
  | 2017-03-17 | Updated (@srabun, @azaroth, @zimeon, @tcramer)                       |
  | 2015-12-22 | First release (@mikeapp, @tomcrane, @azaroth42, @jpstroop, @zimeon)  |
 

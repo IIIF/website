@@ -33,7 +33,7 @@
   iiifc:
 - name: Brown University
   uri: https://repository.library.brown.edu
-  iiifc: 2
+  iiifc: 4
 - name: Cambridge University
   uri: https://www.cam.ac.uk/
   iiifc: 2
@@ -203,7 +203,7 @@
   iiifc: 2
 - name: National Library of Scotland
   uri: http://www.nls.uk/
-  iiifc: 2
+  iiifc: 4
 - name: National Library of Serbia
   uri: https://www.nb.rs/?change_lang=en
 - name: National Library of Wales

@@ -8,15 +8,17 @@ cssversion: 2
 
 All IIIF events are subject to the [Code of Conduct][conduct].
 
-__Upcoming main IIIF Events__
+__Upcoming IIIF-Hosted Events__
 
-* Spring 2020 IIIF Conference: [Boston, MA][boston20] - postponed due to coronavirus
+* 2021 IIIF Annual Conference: [June 22-24, Online][annual_conference]
 
+<!--
 __Other IIIF Events__
 
 These are events that have a IIIF presence, presentation, workshop or other tie in. Please contact the [IIIF Outreach group][outreach] if you know of other meetings or conferences not listed below.
 
 <table id="events-2019" class="api-table"></table>
+-->
 
 __IIIF Event Guidance__
 
@@ -26,7 +28,9 @@ Information on hosting a IIIF Event.
 
 __Previous IIIF Events__
 
+* Fall 2020 IIIF Working meeting: [Online][fall2020]
 * Spring 2020 IIIF Week: [June 1-5 Online Event][iiifweek]
+* Spring 2020 IIIF Conference: [Boston, MA][boston20] - postponed due to coronavirus
 * Fall 2019 IIIF Working Meeting: [November 4-7 in Ann Arbor, Michigan][ann_arbor19]
 * Spring 2019 IIIF Conference: [June 24-28 in Göttingen, Germany][goettingen19]
 * Fall 2018 IIIF Working Meeting: Dec. 3-6 in [Edinburgh][edinburgh18], Scotland, UK
@@ -101,7 +105,7 @@ function addTable(destination, gtable) {
         var row = document.createElement('tr');
         for (var j = 0; j < gtable.rows[i].cells.length; j++) {
             var cell = document.createElement('td');
-            cell.innerHTML = gtable.rows[i].cells[j].innerHTML.replace('href="https://www.google.com/url?q=','href="').replace(/\&amp;sa=.*ust=[0-9]*/g,'');
+            cell.innerHTML = gtable.rows[i].cells[j].innerHTML.replace('href="https://www.google.com/url?q=','href="').replace(/\&amp;sa=.*ust=[0-9]*.*\"/g,'"');
             row.appendChild(cell);
         }
         if (body.firstChild) {
@@ -133,3 +137,5 @@ function addTable(destination, gtable) {
 [london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
 [outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach/
 [conference]: {{ site.url }}{{ site.baseurl }}/event/conference_guidelines/
+[fall2020]: {{ site.url }}{{ site.baseurl }}/event/2020/fall_working_meeting/
+[annual_conference]: {{ site.url }}{{ site.baseurl }}/event/2021/annual_conference

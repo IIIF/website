@@ -282,8 +282,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 [edui]: https://github.com/sdellis/intro-to-iiif/blob/master/README.md
 [clyfford]: https://clyffordstillmuseum.org/
 [eap-cogapp]: https://www.cogapp.com/work#/endangered-archives-programme/
-[eap-uv]: http://eap.bl.uk/archive-file/EAP264-1-3-4#?cv=31&c=0&m=0&s=0&xywh=306%2C89%2C1051%2C817
-[eap-manifest]: http://eap.bl.uk/archive-file/EAP071-1-1
+[eap-uv]: https://eap.bl.uk/archive-file/EAP264-1-3-4#?cv=31&c=0&m=0&s=0&xywh=306%2C89%2C1051%2C817
+[eap-manifest]: https://eap.bl.uk/archive-file/EAP071-1-1
 [eap]: http://eap.bl.uk/
 [stackoverflow]: https://stackoverflow.com/questions/tagged/iiif
 [ronallo]: http://ronallo.com/
@@ -332,7 +332,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [stem-poll]: http://doodle.com/poll/89db7nik6edydksk
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
-[mcn]: http://conference.mcn.edu/2017/conference_schedule.cfm
 [community-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/#community-process "IIIF Editorial Process"
 [iiif-translations]: https://drive.google.com/drive/folders/0B8biwZuDijgeT1I5bG9BTHJySk0
 [iiif-faq]:{{ site.url }}{{ site.baseurl }}/community/faq/
