@@ -59,7 +59,7 @@ Specification versions prior to 1.0 should be considered experimental, are not s
 ### 2.1 Terminology
 {: #terminology}
 
-The key words _MUST_, _MUST NOT_, _REQUIRED_, _SHALL_, _SHALL NOT_, _SHOULD_, _SHOULD NOT_, _RECOMMENDED_, and _OPTIONAL_ in this document are to be interpreted as described in [RFC 2119][rfc-2119].
+The key words _MUST_, _MUST NOT_, _SHOULD_, _SHOULD NOT_, _RECOMMENDED_, and _MAY_ in this document are to be interpreted as described in [RFC 2119][rfc-2119].
 
 ### 2.2 Editorial Participation
 
