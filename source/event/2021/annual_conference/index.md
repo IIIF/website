@@ -19,14 +19,13 @@ This event will include sessions that have been traditionally held at IIIF event
 In response to the lingering effects of the pandemic, it will also include the opportunity to host and attend regionally-focused online meetings aimed at networking and knowledge sharing with local attendees.
 
 ## Deadlines
-### Call for Program Committee members now open!
-The Program Committee will help shape all aspects of the conference, including providing feedback on logistics, reviewing session proposals, and providing support for attendees during the event. **If you’re interested in joining the committee to help us plan the event, email us at [staff@iiif.io](mailto:staff@iiif.io) and express your interest by February 12.** Committee notifications will be sent out the following week on February 15th.
+### Call for Proposals now open!
+The Call for Proposals is open from March 3 - April 2. Please see details in the news section.
 
 ### Upcoming deadlines:
-* February 24: Call for presentations, lightning talks, and regional meetings opens
-* March 26: Call for presentations, regional meetings, and lightning talks closes
+* March 3: Call for presentations, lightning talks, and regional meetings opens
+* April 2: Call for presentations, regional meetings, and lightning talks closes
 * March 31: Early registration opens
-* April 9: Presentations, regional meetings, and lightning talks notified of acceptance
 * April 15: Full registration opens
 * June 15: Registration closes
 
