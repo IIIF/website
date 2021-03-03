@@ -20,7 +20,7 @@ In response to the lingering effects of the pandemic, it will also include the o
 
 ## Deadlines
 ### Call for Proposals now open!
-The Call for Proposals is open from March 3 - April 2. Please see details in the news section.
+The Call for Proposals is open from March 3 - April 2. Please see details in the [Call for Proposals](https://iiif.io/news/2021/03/03/CFP/).
 
 ### Upcoming deadlines:
 * March 3: Call for presentations, lightning talks, and regional meetings opens
