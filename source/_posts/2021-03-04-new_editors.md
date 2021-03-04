@@ -24,4 +24,4 @@ This expansion also marks an important evolution in the [editorial process](http
 
 ## More about the IIIF Editorial Committee
 
-The [IIIF Editorial Committee](https://iiif.io/community/editors/) works in collaboration with community groups to propose new technical specifications and to update existing ones. The Technical Review Committee (TRC) enables the timely review of these proposals.
+The [IIIF Editorial Committee](https://iiif.io/community/editors/) works in collaboration with community groups to propose new technical specifications and to update existing ones. The [Technical Review Committee (TRC)](https://iiif.io/community/trc/) enables the timely review of these proposals for the community.
