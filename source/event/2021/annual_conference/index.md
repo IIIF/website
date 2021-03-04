@@ -35,6 +35,16 @@ The Call for Proposals is open from March 3 - April 2. Please see details in the
 * All sessions will be recorded and made available following the conference
 * Social media hashtags: #IIIF, #IIIF2021, @iiif_io
 
+## Program committee
+Thanks for the 2021 program committee for their help with this event:
+* Dan Brennan, Princeton University
+* Alison Harvey, Cardiff University
+* Dot Porter, University of Pennsylvania
+* Julien Raemy, University of Basel
+* Andrija Sagic, Library Milutin Bojic
+* Rachel Senese, Georgia State University
+
+Questions? Email us at <events@iiif.io>.
 
 [iiif]: https://iiif.io/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
