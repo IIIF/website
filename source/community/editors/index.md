@@ -31,7 +31,7 @@ It is not expected that every editor comment on every issue, though they should 
   * **[Simeon Warner](https://orcid.org/0000-0002-7970-7855)** [![ORCID iD]({{ site.url }}{{ site.baseurl }}/img/orcid_16x16.png)](https://orcid.org/0000-0002-7970-7855), [_Cornell University_](https://www.cornell.edu/), since 16 June 2015
   * **[Dawn Childress](https://orcid.org/0000-0003-2602-2788)** [![ORCID iD]({{ site.url }}{{ site.baseurl }}/img/orcid_16x16.png)](https://orcid.org/0000-0003-2602-2788), [_UCLA_](https://www.ucla.edu/), since 03 March 2021
   * **[Jeff Mixter](https://orcid.org/0000-0002-8411-2952)** [![ORCID iD]({{ site.url }}{{ site.baseurl }}/img/orcid_16x16.png)](https://orcid.org/0000-0002-8411-2952), [_OCLC Research_](https://www.oclc.org/research/home.html), since 03 March 2021
-  * **[Maria Whitaker](https://libraries.indiana.edu/maria-whitaker)**, [_Indiana University_](https://indiana.edu), since 03 March 2021
+  * **[Maria Whitaker](https://orcid.org/0000-0002-3003-8582)** [![ORCID iD]({{ site.url }}{{ site.baseurl }}/img/orcid_16x16.png)](https://orcid.org/0000-0002-3003-8582), [_Indiana University_](https://indiana.edu), since 03 March 2021
 
 ## Change Log
 {: #change-log}
