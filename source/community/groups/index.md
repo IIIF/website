@@ -11,6 +11,7 @@ The following is a list of active IIIF community groups and technical specificat
 
   * [3D][3d]
   * [Archives][archives]
+  * [A/V][av] 
   * [Discovery for Humans][d4h]
   * [Manuscripts][manuscripts]
   * [Maps][maps]
@@ -19,9 +20,9 @@ The following is a list of active IIIF community groups and technical specificat
   * [Outreach][outreach]
   * [Software Developers][software]
 
+
 ## Technical Specification Groups  
 
-  * [A/V][av]
   * [Discovery][discovery]
   * [Text Granularity][text-granularity]
   * [Maps][maps-tsg]
