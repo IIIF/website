@@ -1,7 +1,7 @@
 ---
-title: "IIIF Authorization Charter"
+title: "IIIF Authentication TSG Charter"
 layout: spec
-tags: []
+tags: [auth-tsg, tsg]
 cssversion: 2
 ---
 ## Introduction
@@ -21,12 +21,12 @@ The expected deliverable will be a new version of the IIIF Authentication API th
 References for implementations of the third-party cookie changes:
 * Safari issue
 * Chrome plans
-* IIIF API issue: https://github.com/IIIF/api/issues/1959   
+* IIIF API issue: [https://github.com/IIIF/api/issues/1959](https://github.com/IIIF/api/issues/1959)   
 
 Stories that support this TSG work:
 * Canvas with content that will never be "seen"
 * And the following issues that have been raised on the API Github repository:
-https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Aauth   
+[https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Aauth](https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Aauth   )
 
 ## Roadmap
 * Group formation: October 2020
@@ -34,13 +34,7 @@ https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Aauth
     * Initial draft: June 2021
     * Implementable Beta: November 2021
     * Proposed Recommendation: June 2022    
-
-## Technical Editors
-Rob Sanderson (Yale)   
-Simeon Warner (Cornell)   
-Mike Appleby (Yale)   
-Tom Crane (Digirati)   
-Jon Stroop (Princeton University Library)   
+ 
 
 [3d]: {{ site.url }}{{ site.baseurl }}/community/groups/3d "IIIF 3D Community Group"
 [archives]: {{ site.url }}{{ site.baseurl }}/community/groups/archives "IIIF Archives Community Group"
