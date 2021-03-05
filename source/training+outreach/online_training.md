@@ -14,7 +14,12 @@ Please join us for our next workshop to learn IIIF basics!
 
 The next online workshop will run from March 22 to 26, and will meet daily at 10am PT / 1pm ET / 17:00 UK (note that this is the week when daylight saving time starts in the United States). 
 
-<p class="register"><a href="https://www.eventbrite.com/o/iiif-consortium-19836883937">Register</a></p>
+<p class="register"><a href="https://www.eventbrite.com/e/march-iiif-online-training-5-day-course-tickets-144662480373?aff=Website">Register</a></p>
+
+Future courses will run on the following dates:
+* April 19 - 23, 2021
+* May 17 - 21, 2021
+* July 12 - 16, 2021
 
 ## About this Event
 
