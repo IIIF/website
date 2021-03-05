@@ -26,6 +26,7 @@ The following is a list of active IIIF community groups and technical specificat
   * [Text Granularity][text-granularity]
   * [Maps][maps-tsg]
   * [Authentication][auth-tsg]
+  * [Content Search][content-search-tsg]
 
 ## IIIF Call Calendar
 
@@ -51,5 +52,6 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 [cal-ical]: https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics
 [maps-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/maps-tsg/
 [auth-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg "IIIF Authentication Technical Specification Group"
+[content-search-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/content-search-tsg "IIIF Content Search Technical Specification Group"
 
 {% include acronyms.md %}
