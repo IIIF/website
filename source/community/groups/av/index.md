@@ -5,7 +5,7 @@ tags: []
 cssversion: 2
 ---
 
-_If you're looking for the original [A/V TSG page]({{ site.url }}{{ site.baseurl }}/community/av/av-tsg), that has been moved now that this group has transition into a Community Group_
+_If you're looking for the original [A/V TSG page]({{ site.url }}{{ site.baseurl }}/community/groups/av/av-tsg), that has been moved now that this group has transition into a Community Group_
 
 ## About
 
@@ -26,6 +26,8 @@ The [IIIF A/V Community Group charter][av-charter] provides an outline and timel
   * Calls every four weeks on Mondays at 12:00pm Eastern - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [# av IIIF Slack channel][av-slack] ([Join Slack][slack])
+
+
 
 **Call Notes and Group Documents:**
 
