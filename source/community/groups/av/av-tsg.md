@@ -1,25 +1,24 @@
 ---
-title: "IIIF A/V Community Group"
+title: "IIIF A/V Technical Specification Group"
 layout: spec
 tags: []
 cssversion: 2
 ---
 
-_If you're looking for the original [A/V TSG page]({{ site.url }}{{ site.baseurl }}/community/groups/av/av-tsg), that has been moved now that this group has transition into a Community Group_
-
 ## About
 
-The IIIF Audio/Video (A/V) Community Group exists to provide a forum focused on the experiences of users and implementers working with audio, video, and moving image content and tools in the context of IIIF specifications. The Community Group was formed at the conclusion of the IIIF AV Technical Specification Group, which informed the addition of new audio and moving image capabilities in version 3.0 of the IIIF Presentation API.
+While IIIF has focused primarily on Image based content, there has always been interest around the community in extending the paradigm to include Video and Audio resources, following the same [design principles][design-principles] as existing IIIF specifications.
 
-The [IIIF A/V Community Group charter][av-charter] provides an outline and timeline for anticipated work.
+The IIIF A/V Technical Specification Group aims to extend to A/V the benefits of interoperability and the growing ecosystem of clients and servers that IIIF provides for images. The A/V specification group was formed following a workshop hosted by the British Library to gather [use cases][bl-workshop-2016-04] for extending IIIF to audio and video, and discussion at the [2016 IIIF Conference][iiif-conf-2016] in New York City. At the Fall 2016 working meeting in The Hague, the group focused on determining an initial set of features. The A/V group welcomes contributions to their collection of [audiovisual user stories][av-user-stories] and mockups and prototypes.
+
+The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipated work.
 
 ## Organization
 
 **Chairs:**
 
-* Tanya Clement (University of Texas at Austin)
-* Jon Dunn (Indiana University Bloomington)
-* Andrija Sagic (“Milutin Bojic” Library)
+  * Tom Crane (Digirati)
+  * Jon Dunn (Indiana University)
 
 **Communication Channels:**
 
@@ -27,11 +26,9 @@ The [IIIF A/V Community Group charter][av-charter] provides an outline and timel
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [# av IIIF Slack channel][av-slack] ([Join Slack][slack])
 
-
-
 **Call Notes and Group Documents:**
 
-  * [IIIF A/V Community Group folder][av-folder]
+  * [IIIF A/V Tech Spec Group folder][av-folder]
 
 **Call Connection Information:**
 
