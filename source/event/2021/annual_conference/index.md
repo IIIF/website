@@ -25,9 +25,6 @@ The Call for Proposals is open from March 3 - April 2. Please see details in the
 ### Upcoming deadlines:
 * March 3: Call for presentations, lightning talks, and regional meetings opens
 * April 2: Call for presentations, regional meetings, and lightning talks closes
-* March 31: Early registration opens
-* April 15: Full registration opens
-* June 15: Registration closes
 
 ## Logistics
 * This event is free and open to all attendees
