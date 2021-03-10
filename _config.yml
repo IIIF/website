@@ -16,11 +16,11 @@ github_username:  IIIF
 
 #  - using_iiif/about.html
 header_pages:
-  - using_iiif/index.md
+  - get_started/index.md
   - community/index.md
-  - demos/index.md
+  - showcase/index.md
   - event/index.md
-  - training+outreach/index.md
+  - training/index.md
 
 theme: minima
 

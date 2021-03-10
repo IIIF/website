@@ -1,6 +1,6 @@
 -
-  name: Using IIIF
-  url: /using_iiif
+  name: Get Started
+  url: /get_started
   sub_pages:
     # -
     #   name: How to get started
@@ -28,8 +28,8 @@
       name: The Cookbook
       url: /cookbook/
 -
-  name: Demos
-  url: /demos
+  name: Showcase
+  url: /showcase
   sub_pages:
     -
       name: IIIF Viewers
@@ -98,8 +98,8 @@
       name: Host an Events
       url: /host_your_own_IIIF_event
 -
-  name: Training & outreach
-  url: /training+outreach
+  name: Training
+  url: /training
   sub_pages:
     -
       name: Online Training

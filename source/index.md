@@ -69,7 +69,7 @@ _IIIF isn't just for images -- it supports audio/visual materials, too. Here, th
 
 ---
 
-## **For more ways to use IIIF including image viewers and more, see the [Demos]({{ site.url }}{{ site.baseurl }}/demos/) section**
+## **For more ways to use IIIF including image viewers and more, see the [Demos]({{ site.url }}{{ site.baseurl }}/showcase/) section**
 
 
 {% include acronyms.md %}
