@@ -64,7 +64,7 @@ layout: default
 
 [support-policy]: {{ site.url }}{{ site.baseurl }}/community/policy/support/
 [vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
-[apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
+[apps-demos]: {{ site.url }}{{ site.baseurl }}/showcase
 [specs]: {{ site.url }}{{ site.baseurl }}/technical-details/
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
 [news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
