@@ -24,8 +24,11 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-          <div class="join" style="float: right; background-color: pink; padding: 0 2em 0 2em;">
-            <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/join/">Join the Consortium</a>
+          <div class="join" style="float: right; line-height: 1.6">
+            <ul>
+              <li style="background-color: pink; padding: 0 1em 0 1em;"><a href="{{ page.webprefix }}/api/">API Documentation</a></li>
+            <li style="background-color: gold; padding: 0 1em 0 1em;"><a href="{{ site.url }}{{ site.baseurl }}/community/consortium/join/">Join the Consortium</a></li>
+            </ul>
           </div>
         </div>
 
