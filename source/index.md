@@ -12,7 +12,7 @@ title: International Image Interoperability Framework (IIIF)
 
 ## Great for researchers
 
-You need to **access** high-quality images, **examine** them closely, and **share** your work with collaborators. IIIF enables easy viewing of large images from multiple repositories, with comparison and annotation tools to aid research and presentation. Learn more.
+You need to **access** high-quality images, **examine** them closely, and **share** your work with collaborators. IIIF enables easy viewing of large images from multiple repositories, with comparison and annotation tools to aid research and presentation. [Learn more](https://docs.google.com/document/d/1GWfh0F6HlzJtII9JxyED2CQ4eH9qwtGdO9yhMHxqvjs/edit?usp=sharing).
 
 ## Efficient for developers
 
