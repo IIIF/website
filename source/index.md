@@ -24,6 +24,18 @@ It's your goal to share knowledge and collections as widely as possible. IIIF is
 
 ---
 
+## Try IIIF for Yourself
+
+IIIF can unite materials from one or many collections, allowing users to zoom, pan, and add additional images for comparison.
+
+Here's a simple example of a single page with annotations on it:
+
+{%- include leaflet_annotation.html -%}
+
+But IIIF is capable of so much more! See the [Showcase]({{ site.url }}{{ site.baseurl }}/showcase/) section for more examples of how IIIF can be used, including for audio/visual materials.
+
+---
+
 ## Who is using IIIF?
 
  **Aggregators** such as JSTOR, CONTENTdm, DPLA, Europeana, the Internet Archive, and more.   
@@ -38,38 +50,6 @@ It's your goal to share knowledge and collections as widely as possible. IIIF is
 
 Many institutions using IIIF's APIs become members of the <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/">IIIF Consortium</a>, sustaining the framework’s growth and serving on advisory committees.
 
----
-
-## See IIIF in action
-
-<img class="img-standout" src="https://miro.medium.com/max/2850/1*9BOu0u6fmgjCqpC_3JQgZQ.gif" alt="Video showing Drag and Drop in Mirador"/>
-
-<!-- [could show a big array of logos? Join this cool crowd?] \
-[Caption - this wall of logos is also made using IIIF Viewer, link to the Orgs/Members] -->
-
-### Compare images with **Mirador**
-
-<div>
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/0KEiGkkNVnM" allow="encrypted-media" allowfullscreen></iframe>
-</div>  
-
-_IIIF can unite materials from one or many collections, allowing users to zoom, pan, and add additional images for comparison. Here, maps from the collections of Stanford University, Kyoto University, and the National Archives of Japan are shown in the Mirador viewer. Learn more at [Project Mirador](https://projectmirador.org/)._
-
-
-### Integrate material types with **Universal Viewer**
-
-<div>
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/_P9TBJIY4UM" allow="encrypted-media" allowfullscreen></iframe>
-</div>    
-
-_IIIF isn't just for images -- it supports audio/visual materials, too. Here, the Universal Viewer displays Acts 1 and 2 of the opera L'Elisir D'Amore with hierarchical tables of contents. This viewer also displays static images. Learn more at [Universal Viewer](https://universalviewer.io/)._
-
-
-
-
----
-
-## **For more ways to use IIIF including image viewers and more, see the [Demos]({{ site.url }}{{ site.baseurl }}/showcase/) section**
 
 
 {% include acronyms.md %}
