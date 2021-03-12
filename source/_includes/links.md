@@ -35,7 +35,7 @@
 [icon3-rec]: {{ page.webprefix }}/api/presentation/3.0/img/recommended.png "Recommended"
 [icon3-req]: {{ page.webprefix }}/api/presentation/3.0/img/required.png "Required"
 [iiif-auth]: {{ page.webprefix }}/api/auth/ "IIIF Authentication API"
-[iiif-community]: {{ site.url }}/community/ "IIIF Community"
+[iiif-community]: {{ site.url }}{{ site.baseurl }}/community/ "IIIF Community"
 [iiif-discuss]: mailto:iiif-discuss@googlegroups.com "Email Discussion List"
 [image-api]: {{ page.webprefix }}/api/image/{{ site.image_api.stable.major }}.{{ site.image_api.stable.minor }}/ "Image API"
 [image-compliance-stable-version]: {{ page.webprefix }}/api/image/{{ site.image_api.stable.major }}.{{ site.image_api.stable.minor }}/ "Latest Image API Compliance Stable Version"
@@ -230,6 +230,6 @@
 [search-api]: {{ page.webprefix }}/api/search/{{ site.search_api.stable.major }}.{{ site.search_api.stable.minor }}/ "Content Search API"
 [search1-autocomplete]: {{ page.webprefix }}/api/search/1.0/#autocomplete
 [search1]: {{ page.webprefix }}/api/search/1.0/
-[shared-canvas]: {{ site.url }}{{ site.baseurl }}/model/shared-canvas/{{ site.shared_canvas.stable.major}}.{{ site.shared_canvas.stable.minor }} "Shared Canvas Data Model"
+[shared-canvas]: https://iiif.io/model/shared-canvas/1.0/ "Shared Canvas Data Model"
 [recipe-mvm-image]: {{ page.webprefix }}/api/cookbook/mvm-image/ "Simplest Manifest - Image"
 [recipe-segment-image-part]: {{ page.webprefix }}/api/cookbook/segment-image-part/ "Annotating part of an image to a canvas"
