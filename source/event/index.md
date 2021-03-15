@@ -6,7 +6,7 @@ tags: [events ]
 
 ---
 
-![IIIF Event tshirt montage]({{ site.url }}{{ site.baseurl }}/img/montage_geom.jpg "Event tshirt montage")
+![IIIF Event tshirt montage]({{ site.url }}{{ site.baseurl }}/img/event_image.jpg "Goettingen SUB event setup")
 
 We hear a lot that attending a IIIF event is the best way to get involved. One conference attendee told us:
 
