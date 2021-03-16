@@ -1,10 +1,10 @@
-# -
-#   name: Animal Crossing artwork tool
-#   github:
-#   url: https://experiments.getty.edu/ac-art-generator
-#   demo:
-#   description: Bring any IIIF Image into your Animal Crossing environment.
-#   creators: The Getty Experiments Team
+-
+  name: Animal Crossing artwork tool
+  github:
+  url: https://experiments.getty.edu/ac-art-generator
+  demo:
+  description: Bring any IIIF Image into your Animal Crossing environment.
+  creators: The Getty Experiments Team
 # -
 #   name: Storiiies Editor
 #   github:
@@ -19,13 +19,13 @@
   demo: https://www.europeana.eu/en/item/2051933/data_euscreenXL_EUS_EB001C7794C7B27B6BAA746AB17B6F23
   description: "An open source universal audiovisual player on Europeana collections that supports IIIF A/V content as well as annotations (including subtitles)."
   creators:  Europeana Media Project team
--
-  name: Serverless IIIF
-  github: https://github.com/nulib/serverless-iiif
-  url:
-  demo:
-  description: "A IIIF 2.1 Image API compliant server written as an AWS Serverless Application."
-  creators: Michael B. Klein, Justin Gondron, Edward Silverton, Trey Pendragon
+# -
+#   name: Serverless IIIF
+#   github: https://github.com/nulib/serverless-iiif
+#   url:
+#   demo:
+#   description: "A IIIF 2.1 Image API compliant server written as an AWS Serverless Application."
+#   creators: Michael B. Klein, Justin Gondron, Edward Silverton, Trey Pendragon
 # -
 #   name: Simple Site - The IIIF Mirador Extension
 #   github: https://github.com/jpadfield/simple-site/
