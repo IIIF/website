@@ -40,9 +40,9 @@
     -
       name: Experiments & Fun
       url: /experiments_and_fun
-    -
-      name: Case Studies
-      url: /case_studies
+    # -
+    #   name: Case Studies
+    #   url: /case_studies
     # -
     #   name: Awesome IIIF (on Github)
     #   url: https://github.com/IIIF/awesome-iiif
