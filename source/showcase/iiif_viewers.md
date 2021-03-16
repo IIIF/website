@@ -8,7 +8,7 @@ tags: [iiif viewers ]
 
 # IIIF Viewers
 
-There is a whole universe of [IIIF-compliant viewers and other tools](https://github.com/IIIF/awesome-iiif), each with different features and benefits. Take a look at some of the most popular. (Or check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif) for a . That’s a community-driven compendium of all things IIIF, with tons to explore related to image viewers and more.)
+There is a whole universe of [IIIF-compliant viewers and other tools](https://github.com/IIIF/awesome-iiif), each with different features and benefits. Take a look at some of the most popular. (Or check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif), community-driven compendium of all things IIIF, with tons to explore related to image viewers and more.)
 
 
 ## [Universal Viewer](https://github.com/UniversalViewer/universalviewer)
@@ -47,5 +47,6 @@ TIFY is displaying a IIIF manifest from [Göttingen State and University Library
 A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. This viewer is not embeddable but you can try it yourself[ here](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=http://codh.rois.ac.jp/pmjt/book/200024363/manifest.json&lang=en).
 
 ![curation viewer screenshot]({{ site.url }}{{ site.baseurl }}/img/curation viewer.png "curation viewer screenshot")
+
 
 {%- include acronyms.md -%}
