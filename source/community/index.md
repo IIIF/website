@@ -21,8 +21,8 @@ There are four main ways to join the conversation:
 
 1. Sign up for the **[newsletter](https://iiif.io/newsletter/#newsletter-signup)** - news about events, training, cool projects, and community updates
 2. Jump on one of the **[community calls]({{ site.url }}{{ site.baseurl }}/community/call/)** - friendly, regular calls with interested folk, from beginners to experts
-3. Subscribe to the **[iiif-discuss mailing list](https://groups.google.com/forum/#!forum/iiif-discuss)** - more technical, Q&A, project-related
-4. Join the **[IIIF Slack](http://bit.ly/iiif-slack)** team - lots of activity, specific channels for groups, and more!
+3. Subscribe to the **[iiif-discuss mailing list](https://groups.google.com/forum/#!forum/iiif-discuss)**{:.external} - more technical, Q&A, project-related
+4. Join the **[IIIF Slack](http://bit.ly/iiif-slack)**{:.external} team - lots of activity, specific channels for groups, and more!
 
 There are **[groups]({{ site.url }}{{ site.baseurl }}/community/groups/)** to discuss various elements or contexts of IIIF usage or to agree on direction (or not!) of a particular idea or initiative. Some things in IIIF require slightly more formal governance, which happens through five **[committees]({{ site.url }}{{ site.baseurl }}/community/consortium/#committees)**. For example, the [Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/consortium/trc) is the committee responsible for the IIIF APIs.
 
@@ -41,4 +41,4 @@ You can **[join the consortium]({{ site.url }}{{ site.baseurl }}/community/conso
 {% include recent_implementations.html %}
 
 
-[Let us know if you’ve made something to share](https://docs.google.com/forms/d/e/1FAIpQLSetIpJYr9yq827QD7Bl0J31q4E2w0_O-8bUjoqX4XYKm7eU8A/viewform), or check out the community-led [Awesome IIIF Index](https://github.com/IIIF/awesome-iiif). (Awesome IIIF is hosted on Github.)
+[Let us know if you’ve made something to share](https://docs.google.com/forms/d/e/1FAIpQLSetIpJYr9yq827QD7Bl0J31q4E2w0_O-8bUjoqX4XYKm7eU8A/viewform), or check out the community-led [Awesome IIIF Index](https://github.com/IIIF/awesome-iiif){:.external}. (Awesome IIIF is hosted on Github.)

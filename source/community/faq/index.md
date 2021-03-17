@@ -23,7 +23,7 @@ In short, IIIF enables better, faster and cheaper image delivery. It lets you le
 
 ## What are the benefits of IIIF?
 
-To see how IIIF serves other institutions and researchers, check out the [Demos]({{ page.webprefix }}/apps-demos/#implementation-demos) section of this site, and don't miss the [IIIF Awesome list][awesome] for lots of links to tools, demos, tutorials, and other resources.
+To see how IIIF serves other institutions and researchers, check out the [Demos]({{ page.webprefix }}/apps-demos/#implementation-demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
 
 IIIF allows for:
 

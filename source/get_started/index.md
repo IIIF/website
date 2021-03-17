@@ -10,12 +10,12 @@ tags: [get_started ]
 You’re either a **user** of digital objects served using IIIF technologies, allowing you to view, compare, search within, and annotate. Or, you’re a **developer**, setting up image and audio/visual files, servers, and APIs to make digital objects available to the world.
 
 * If you’re a **user**, start with:
-    * our [introduction](https://medium.com/@IIIF_io/how-to-use-iiif-resources-and-image-viewers-bd378a68b013) to working with IIIF materials
+    * our [introduction](https://medium.com/@IIIF_io/how-to-use-iiif-resources-and-image-viewers-bd378a68b013){:.external} to working with IIIF materials
     * our set of ["Guides to finding IIIF resources"](https://guides.iiif.io/), including ways to find IIIF materials from dozens of institutions around the world
 
 * If you’re a **developer** and not sure what you need to get started, you can:
     * Browse [The Cookbook]({{ site.url }}{{ site.baseurl }}/get_started/cookbook/), a new community initiative to string together commonly used functions into “recipes” that can be reused easily
-    * The sections on Image Viewers, Image Servers, and more on the community-maintained IIIF Awesome list (external resource)
+    * The sections on Image Viewers, Image Servers, and more on the community-maintained [Awesome IIIF list](https://github.com/IIIF/awesome-iiif){:.external}.
 
 Beyond that, explore projects people have made through their conference [talks]({{ site.url }}{{ site.baseurl }}/get_started/talks/), take a look at a [few illustrated case study examples]({{ site.url }}{{ site.baseurl }}/showcase/case_studies/), or check out the variety of [tools]({{ site.url }}{{ site.baseurl }}/get_started/community_tools/) the community has made to help.
 

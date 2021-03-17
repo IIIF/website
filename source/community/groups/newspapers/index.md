@@ -10,7 +10,7 @@ tags: []
 
 ## About
 
-The IIIF Newspapers Community Group welcomes participants with an interest in implementing IIIF in digital newspaper repositories. In addition to monthly meetings, the group also piggybacks on [IIIF face to face meetings][events]. Contributions to [newspapers user stories][user-stories] are welcome, and useful resources related to newspapers and IIIF can be found on [Awesome-IIIF][newspapers-awesome-iiif].
+The IIIF Newspapers Community Group welcomes participants with an interest in implementing IIIF in digital newspaper repositories. In addition to monthly meetings, the group also piggybacks on [IIIF face to face meetings][events]. Contributions to [newspapers user stories][user-stories] are welcome, and useful resources related to newspapers and IIIF can be found on [Awesome-IIIF][newspapers-awesome-iiif]{:.external}.
 
 ## Purpose
 

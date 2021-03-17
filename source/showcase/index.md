@@ -10,7 +10,7 @@ tags: [demos showcase ]
 
 Implementing IIIF provides flexibility and enables an amazing array of compelling user interactions. See below for a few examples ranging from basic image viewers up through IIIF-based machine learning character recognition, or take a look at the IIIF [viewers]({{ site.url }}{{ site.baseurl }}/showcase/iiif_viewers/), [servers]({{ site.url }}{{ site.baseurl }}/showcase/image_servers/) and [software tools] pages to dive deeper into how to construct examples like these.
 
-You can also check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif), a community-driven compendium of all things IIIF.
+You can also check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif){:.external}, a community-driven compendium of all things IIIF.
 
 
 ## Create possibilities with IIIF basics
