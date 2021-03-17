@@ -1,5 +1,8 @@
 <header class="site-header" role="banner">
-
+  <div style="background-color: lightblue; padding: 0 1em 0 1em;  height: 2em;">
+    <span style="float: right; height: 2em; padding: 0 29% 0 40%;">
+    <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/join/">Join the Consortium</a> | <a class="external" href="{{ page.webprefix }}/api/">API Documentation</a> </span>
+  </div>
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -24,12 +27,12 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-          <div class="join" style="float: right; line-height: 1.6">
+<!--           <div class="join" style="float: right; line-height: 1.6">
             <ul>
               <li style="background-color: pink; padding: 0 1em 0 1em;"><a href="{{ page.webprefix }}/api/">API Documentation</a></li>
             <li style="background-color: gold; padding: 0 1em 0 1em;"><a href="{{ site.url }}{{ site.baseurl }}/community/consortium/join/">Join the Consortium</a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
 
       </nav>

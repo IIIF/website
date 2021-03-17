@@ -18,3 +18,28 @@
 				min-width: 25ch;
         background-color: #fff;
 			}
+
+
+//.external:after{
+//    content: '';
+//    display: inline-block;
+//    height: 100%;  /*height of icon */
+//    width: 100%;  /*width of icon */
+//    position: relative;
+//      /* where to replace the icon */
+//    top: 0px;
+//    left: -40px;
+//      /*background */
+//    background: url(/img/link_out.svg) no-repeat 0px 0px;
+//    background-size: 2em;
+//}
+
+.external:after{
+    content: '';
+    background:url(/img/link_out.svg);
+    background-size:cover;
+        position:absolute;
+    width:22px;
+    height:22px;
+    margin-left:1px;
+}
