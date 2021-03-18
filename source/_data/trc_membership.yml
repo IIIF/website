@@ -20,6 +20,16 @@
 - institution: IIIF Editors
   name: Jon Stroop
   role: 1
+- institution: IIIF Editors
+  name: Maria Whitaker
+  role: 1
+- institution: IIIF Editors
+  name: Jeff Mixter
+  role: 1
+- institution: IIIF Editors
+  name: Dawn Childress
+  role: 1
+
 - institution: IIIF TSG - A/V
   name: Jon Dunn
   role: 1
@@ -79,9 +89,9 @@
 - institution: Harvard University
   name: Rashmi Singhal
   role: 2
-- institution: Indiana University
-  name: Maria Whitaker
-  role: 2
+#- institution: Indiana University
+#  name: 
+#  role: 2
 - institution: Johns Hopkins University
   name: Mark Patton
   role: 2
@@ -124,9 +134,9 @@
 - institution: North Carolina State University Libraries
   name: Jason Ronallo
   role: 2
-- institution: OCLC
-  name: Jeff Mixter
-  role: 2
+#- institution: OCLC
+#  name: Jeff Mixter
+#  role: 2
 #- institution: Ohio State University
 #  name: 
 #  role: 2
