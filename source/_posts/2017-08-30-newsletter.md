@@ -105,7 +105,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Science Coding Conference ([Intro to IIIF][bruno]), August 2017
 * DH Montreal Pre-Conference: Shaping Humanities Data, August 2017
 * Catholic Biblical Association Annual Meeting, August 2017
-* Introduction to IIIF Workshop at [EdUI][edui], September 2017
+* Introduction to IIIF Workshop at EdUI, September 2017
 * Comité international de paléographie latine (IIIF for medievalists workshop), September 2017
 * Digital Cultures Conference, Warsaw, September 2017
 * IIIF panel at CIDOC, September 2017
@@ -352,7 +352,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [epfl]: https://www.epfl.ch/
 [folger]: http://www.folger.edu/
 [vatican-drive]: https://drive.google.com/drive/folders/0B8biwZuDijgeZ2lnLWNJc2Z0RFU?usp=sharing  
-[edui]: http://eduiconf.org/
 [nga]: https://www.nga.gov/content/ngaweb.html
 [smithsonian]: https://www.si.edu/
 [japan]: {{ site.url }}{{ site.baseurl }}/news/2017/08/21/iiif-in-japan/
