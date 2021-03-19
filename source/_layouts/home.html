@@ -13,7 +13,7 @@ layout: default
         <script src="{{ site.url }}{{ site.baseurl }}/js/calendar_integration.js"></script>
 
         <div id="upcoming_calls">
-            <h3>Join an interest group call (calls are open to everyone!)</h3>
+            <h3>Join a call<br><small>(Newcomers welcome!)</small></h3>
             <p>Meetings happening in the next week:</p>
             <ul id="calls">
             </ul>
@@ -22,6 +22,8 @@ layout: default
         <script>
             upcomingCalls("calls", 5);
         </script>
+
+        <hr>
 
         <div class="recent_news">
             <h3 class="">{{ page.list_title | default: "Recent News" }}</h3>
@@ -39,6 +41,8 @@ layout: default
             <p>Read the <a href="{{ site.url }}{{ site.baseurl }}/news/">news archive</a> or <a href="{{ site.url }}{{ site.baseurl }}/newsletter/">sign up for the newsletter</a></p>
 
         </div>
+
+        <hr>
 
         <div class="recent_events">
             <h3 class="">Upcoming <a href="{{ site.url }}{{ site.baseurl }}/event/">Events</a></h3>
