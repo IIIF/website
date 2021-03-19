@@ -52,7 +52,7 @@ Written or verbal Code of Conduct reports should include the following informati
 
 You will receive an email or verbal confirmation that your report has been received. Within one week you will receive a resolution and course of action or explanation of why the situation is unresolved and continues to be evaluated.   
 
-Code of Conduct Committee Members
+## Code of Conduct Committee Members
 The current IIIF Code of Conduct Committee Members are:
 
 Josh Hadro (IIIF-C)
@@ -91,7 +91,7 @@ To appeal a decision of the Code of Conduct Committee, contact the IIIF Coordina
 ## Acknowledgements
 The IIIF Code of Conduct is modeled on examples from Contributor Covenant, Django, the Digital Library Federation (DLF), Islandora, Samvera, and DuraSpace.   
 
-This work is licensed under a Creative Commons Attribution 4.0 International License.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Change Log
 
