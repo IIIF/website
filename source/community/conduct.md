@@ -20,7 +20,7 @@ We believe everyone is a valuable contributor to the community regardless of phy
 ### Collaboration
 We collaborate to share the community’s workload and to ensure a variety of needs and voices are accounted for. We do our work as transparently as possible, establishing guidelines for contributing and sharing current and historical community information openly, and welcome new collaborators with enthusiasm.
 
-###Respect
+### Respect
 The IIIF community is respectful of and open to differing opinions, viewpoints, experiences, and backgrounds. When we make a mistake we accept responsibility, apologize, and learn from the experience. We give and gracefully accept constructive feedback.
 
 ### Greater good

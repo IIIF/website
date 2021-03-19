@@ -61,4 +61,4 @@ Changes to this document will be tracked within and reflected via its [internal 
 [iiif-slack]: https://iiif.slack.com
 [iiif-conduct]: {{ site.url }}{{ site.baseurl }}/community/conduct/
 [change-log]: #change-log "Change Log"
-[guidelines]: {{ site.url }}{{ site.baseurl }}/community/conduct/#reporting-guidelines
+[guidelines]: {{ site.url }}{{ site.baseurl }}/community/conduct/#reporting-harassment
