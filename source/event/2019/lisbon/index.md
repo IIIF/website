@@ -6,7 +6,7 @@ tags: [event ]
 
 ## Overview
 
-Prior to the [Europeana 2019 event][europeana-agm], the International Image Interoperability Framework (IIIF) and EuropeanaTech will hold an outreach event intended for a wide range of participants, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, other cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials. 
+Prior to the Europeana 2019 event, the International Image Interoperability Framework (IIIF) and EuropeanaTech will hold an outreach event intended for a wide range of participants, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, other cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials. 
 
 Attendees will learn about the purpose and benefits of IIIF for web-based image delivery, including demonstrations of the optimized functionality that IIIF provides. 
 
@@ -39,7 +39,6 @@ Attendees will learn about the purpose and benefits of IIIF for web-based image 
 
 The IIIF [Code of Conduct][conduct] applies to all IIIF events and related activities. Please direct any questions to Glen Robson, IIIF Technical Coordinator, at glen.robson@iiif.io.
 
-[europeana-agm]: https://pro.europeana.eu/page/europeana-2019
 [eventbrite]: https://www.eventbrite.co.uk/e/europeana-2019-pre-conference-workshops-tickets-69266930253
 [nlp]: http://www.bnportugal.gov.pt/index.php?lang=en
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
