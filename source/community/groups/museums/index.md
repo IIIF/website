@@ -53,7 +53,7 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
   [museums-slack]: https://iiif.slack.com/messages/museums/details/
   [museums-folder]:https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?usp=sharing
   [slack]: http://bit.ly/iiif-slack
-  [zoom-link]: https://stanford.zoom.us/j/948530998?pwd=u8KPNHGHxJk
+  [zoom-link]: https://stanford.zoom.us/j/93563396012?pwd=a2xxOXdLQ0hPQ0hRcWNTTWkvS0FPUT09
   [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
   [international-zoom]: https://zoom.us/zoomconference
   [iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/

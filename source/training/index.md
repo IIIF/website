@@ -3,7 +3,8 @@ title: "Training"
 id: training
 layout: default
 tags: [training outreach ]
-
+redirect_from:
+  - /training+outreach/
 ---
 # Training and Outreach
 

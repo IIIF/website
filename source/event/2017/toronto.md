@@ -28,15 +28,6 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
 * Social Media: Tweets about the event should use #iiif and @iiif_io
 
-### Lodging
-
-A hotel block with discounted rates is available for October 10-14:
-
-**Park Hyatt Hotel (4 Avenue Road)**
-
-* $269/night, single/double occupancy
-* Book at this address: <https://aws.passkey.com/go/IIIFMeeting>
-
 ### Schedule
 
 Session descriptions, agendas, and notes are available via [Sched][sched].

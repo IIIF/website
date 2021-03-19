@@ -16,7 +16,7 @@ Changes to this document will be tracked within and reflected via its [internal 
 
 ## What to do when a report is received
 
-* In-person - when a verbal report is received in-person, the person who received the initial report should take down the information listed in the [Reporting Guidelines][guidelines]. The person may take immediate action if the situation poses an immediate threat. If a threat is not immediate, the person who received the initial report should locate at least one other team member to share the report and discuss next steps. All members of the team should then be alerted, with a plan to meet and discuss the complaint in question.
+* In-person - when a verbal report is received in-person, the person who received the initial report should take down the information listed in the reporting guidelines. The person may take immediate action if the situation poses an immediate threat. If a threat is not immediate, the person who received the initial report should locate at least one other team member to share the report and discuss next steps. All members of the team should then be alerted, with a plan to meet and discuss the complaint in question.
 * Virtual - when a virtual report is received either through email, chat, or conference call, all members of the team should be alerted and incident information shared immediately if they have not been already. Discussion of the report may take place asynchronously via chat or email, or the team members may schedule a meeting to discuss the situation.
 
 ## Identification of Team members at in-person events

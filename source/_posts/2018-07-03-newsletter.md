@@ -98,7 +98,7 @@ IIIF Use Cases for Enhanced Research and Collection Engagement on a College Art 
 * [“Les protocoles IIIF : présentation des potentialités”][himanis-presentation] (in French), presentation by Régis Robineau at the HIMANIS Project Final Day (Paris, Archives Nationales, May 29).
 * Claire Knowles and Terry Brady presented at the [Open Repositories conference][or2018] at Montana State University, 4-7 June, on IIIF and DSpace.
 * Leander Seige from the University of Leipzig gave a [lightning talk on Manuscripts, IIIF and the upcoming German manuscript platform][seige-elag] at ELAG 2018 in Prague on June 6.
-* On June 25th-29th, the [Scholastic Commentaries and Text Archive][scta] held a [weeklong standards workshop][scta-linking] culminating in a [Friday showcase presentation][scta-meeting] at the University of Basel in Switzerland. Since the SCTA is working hard to make scholastic data available via IIIF both for its end users and for re-use by institutions with related content, IIIF was a central topic of discussion throughout the week.
+* On June 25th-29th, the Scholastic Commentaries and Text Archive held a [weeklong standards workshop][scta-linking] culminating in a [Friday showcase presentation][scta-meeting] at the University of Basel in Switzerland. Since the SCTA is working hard to make scholastic data available via IIIF both for its end users and for re-use by institutions with related content, IIIF was a central topic of discussion throughout the week.
 * Julien A. Raemy, Leander Seige, and Jeffrey Witt were all invited to give a recap on the 2018 IIIF Conference, to talk about the IIIF ecosystem, as well as providing ideas and best practices on how to generate manifests at the Basel University Library on June 28. Notes and presentations of this internal meeting are available on a [Google Drive directory][basel].
 * ["Mirador for Medievalists" Workshop][mirador-medievalists]: 10-12 July 2018 (Beinecke Rare Book and Manuscript Library, Yale University). Participants in this three-day workshop will be introduced to IIIF and working with Mirador, learning how this technology can facilitate new methodologies in manuscript and art history research.
 
@@ -241,7 +241,6 @@ The Outreach Community Group Co-Chairs:
 [picturae]: https://picturae.com/en/ 
 [quartex]: https://www.quartexcollections.com/ 
 [rescarta-collection]: http://demos.rescarta.org/ResCarta-Web//iiif/api/presentation/2/collection/top 
-[scta]: http://scta.info 
 [scta-linking]: http://community.scta.info/event/2018/06/14/scta-mon-thur-meeting.html 
 [scta-meeting]: http://community.scta.info/event/2018/06/01/scta-meeting.html 
 [seige-elag]: https://docs.google.com/presentation/d/1lZGHKUt93BFPS-sRmx4RN-AvW9ZfAjQGbLWCNMiHSkg/

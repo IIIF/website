@@ -22,16 +22,16 @@ Please add examples and use cases at https://github.com/IIIF/iiif-3d-stories/iss
  * To explore possibilities for viewing, search, discovery, and annotating 3D data.
  * To collect and document use cases from existing and new IIIF community members that suggest the need for interoperability of 3D data.
  * To collect, discuss and evaluate the state of the art with respect to 3D requirements for use by the cultural heritage community on the web.
- * To coordinate and connect through outreach to internal and external partners and technical experts, and related initiatives. 
- * To explore best practices for interoperability and possibilities with existing IIIF specifications and open APIs through articulating use cases and experimentation. 
+ * To coordinate and connect through outreach to internal and external partners and technical experts, and related initiatives.
+ * To explore best practices for interoperability and possibilities with existing IIIF specifications and open APIs through articulating use cases and experimentation.
 
 ## Organization
 
 **Chairs:**
 
   * Ed Silverton ([Mnemoscene][mnemoscene])
-  * Tom Flynn ([Sketchfab][sketchfab])
   * Ronald Haynes ([Cambridge University][ronald])
+  * Julie Winchester ([Duke University][julie])
 
 **Communication Channels:**
 
@@ -60,5 +60,6 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 [mnemoscene]: https://mnemoscene.io/
 [sketchfab]: https://sketchfab.com/nebulousflynn
 [ronald]: https://www.uis.cam.ac.uk/about-us/rms/ronald-haynes
+[julie]: https://scholars.duke.edu/person/julie.winchester 
 
 {% include acronyms.md %}

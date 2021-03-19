@@ -26,7 +26,7 @@ These aims are different from and complementary to the approach of the [IIIF Dis
  * Maintain a registry of existing discovery efforts
  * Build on and amplify the ongoing work of the Discovery TSG and the IIIF technical community
  * Communicate and disseminate the work of the group to the larger IIIF community, as well as allied professional communities
- 
+
 ## Organization
 
 **Chairs:**
@@ -48,7 +48,7 @@ IIIF Discovery for Users Community Group Folder ([https://drive.google.com/drive
 
 **Call Connection Information:**
 
- * Online: [https://stanford.zoom.us/j/][zoom-link]
+ * Online: [https://stanford.zoom.us/j/91556981560][zoom-link]
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack

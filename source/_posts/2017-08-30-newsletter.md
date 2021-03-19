@@ -30,7 +30,7 @@ Glen Robson has been appointed the new Technology Coordinator for the IIIF commu
 The [2018 IIIF Conference][washington2018] will be held in Washington, DC, May 21-25, 2018. Please mark your calendar and stay tuned for more details!
 
 ### Call for Volunteers: IIIF Code of Conduct Team
-The [IIIF Code of Conduct][conduct] has been revised to include a description of community norms and expectations in addition to anti-harassment and reporting guidelines. Volunteers are needed to be part of the IIIF Code of Conduct Team, as described in the [Code of Conduct document][conduct-team]. To volunteer to be part of the team, please complete the [volunteer form][conduct-form] before Monday, September 4. Volunteers will be notified of their status by Friday, September 8.
+The [IIIF Code of Conduct][conduct] has been revised to include a description of community norms and expectations in addition to anti-harassment and reporting guidelines. Volunteers are needed to be part of the [IIIF Code of Conduct][conduct]. To volunteer to be part of the team, please complete the [volunteer form][conduct-form] before Monday, September 4. Volunteers will be notified of their status by Friday, September 8.
 
 ### Newsletter Submissions
 The IIIF Community Newsletter is published quarterly to provide an at-a-glance update on the current activities and trends in the IIIF community. Anyone may submit an item for publication as long as it relates to IIIF. Please use the [IIIF Community Newsletter submission form][submission-form] to submit an item to the newsletter.
@@ -105,7 +105,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Science Coding Conference ([Intro to IIIF][bruno]), August 2017
 * DH Montreal Pre-Conference: Shaping Humanities Data, August 2017
 * Catholic Biblical Association Annual Meeting, August 2017
-* Introduction to IIIF Workshop at [EdUI][edui], September 2017
+* Introduction to IIIF Workshop at EdUI, September 2017
 * Comité international de paléographie latine (IIIF for medievalists workshop), September 2017
 * Digital Cultures Conference, Warsaw, September 2017
 * IIIF panel at CIDOC, September 2017
@@ -352,7 +352,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [epfl]: https://www.epfl.ch/
 [folger]: http://www.folger.edu/
 [vatican-drive]: https://drive.google.com/drive/folders/0B8biwZuDijgeZ2lnLWNJc2Z0RFU?usp=sharing  
-[edui]: http://eduiconf.org/
 [nga]: https://www.nga.gov/content/ngaweb.html
 [smithsonian]: https://www.si.edu/
 [japan]: {{ site.url }}{{ site.baseurl }}/news/2017/08/21/iiif-in-japan/

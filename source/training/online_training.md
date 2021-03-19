@@ -3,7 +3,8 @@ title: "Online Training Workshops"
 id: online_training
 layout: sub-page
 tags: [training ]
-
+redirect_from:
+  - /training+outreach/online_training  
 ---
 
 <section class="{{ include.class }} wrapper">
