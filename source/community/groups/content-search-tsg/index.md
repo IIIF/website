@@ -11,7 +11,7 @@ The IIIF Content Search API ([https://iiif.io/api/search/1.0/](https://iiif.io/a
 
 There is concurrent work happening to bring the Authentication specification up to date with the Image API version 3.0. The Content Search TSG will coordinate with that group to ensure that any authentication solution required for search is consistent with any new approach taken by the [Authentication TSG]({{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg).
 
-The [IIIF Search Technical Specification Group charter]({{ site.url }}{{ site.baseurl }}/community/groups/content-search-tsg/charter) provides an outline and timeline for anticipated work.
+The [IIIF Content Search Technical Specification Group charter]({{ site.url }}{{ site.baseurl }}/community/groups/content-search-tsg/charter) provides an outline and timeline for anticipated work.
 
 ## Organization
 
@@ -27,7 +27,7 @@ The [IIIF Search Technical Specification Group charter]({{ site.url }}{{ site.ba
 * General discussion on the [Content Search Slack channel][search-slack]
 
 **Call notes and group documents:**
-  * [IIIF Authentication TSG folder][search-tsg-folder]
+  * [IIIF Content Search TSG folder][search-tsg-folder]
 
 **Call connection information:**
 * Online: [https://stanford.zoom.us/j/96598012767](https://stanford.zoom.us/j/96598012767)
