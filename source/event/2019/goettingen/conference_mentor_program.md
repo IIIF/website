@@ -32,7 +32,7 @@ To become a peer mentor, or find one, let us know when you register by selecting
 
 {% include section.html class="step quick-start" content=content %}
 {% capture content %}
-TKTK
+
 {% endcapture %}
 
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
