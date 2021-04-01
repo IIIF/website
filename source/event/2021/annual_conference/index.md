@@ -41,6 +41,11 @@ Thanks to the 2021 program committee for their help with this event:
 * Andrija Sagic, Library Milutin Bojic
 * Rachel Senese, Georgia State University
 
+## Sponsors
+
+If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>. 
+
+
 Questions? Email us at <events@iiif.io>.
 
 [iiif]: https://iiif.io/
@@ -51,3 +56,4 @@ Questions? Email us at <events@iiif.io>.
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
+[sponsors]: {{ site.url }}{{ site.baseurl }}/event/2021/annual_conference/sponsorship/
