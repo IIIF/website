@@ -32,7 +32,7 @@ IIIF may also receive your data indirectly from the following sources:
 
 Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
 
-For further information, visit <https://allaboutcookies.org/>.
+For further information, visit <https://www.allaboutcookies.org/>.
 
 ## Online payment information
 
