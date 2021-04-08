@@ -203,5 +203,5 @@ Rashmi Singhal (Harvard)
 [bbmn]: http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/
 [edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
 [iiif-design]: {{ page.webprefix }}/api/annex/notes/design_patterns/
-[ycba]: http://collections.britishart.yale.edu/vufind/Record/1667701
+[ycba]: https://collections.britishart.yale.edu/catalog/tms:34
 [frick]: http://digitalcollections.frick.org/digico/#/

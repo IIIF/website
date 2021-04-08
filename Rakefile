@@ -25,7 +25,11 @@ task :check_html do
                                           'https://natlib.govt.nz/','https://www.ihg.com/holidayinn/hotels/us/en/washington/wassm/hoteldetails',
                                           'http://www.bnjm.cu/','http://projectmirador.org','http://www.nyam.org/',
                                           'https://archive.org/index.php', 'https://web.archive.org/web/20171119044524/https://or2017.net/',
-                                          /https:\/\/www.qdl.qa.*/,/https:\/\/www.europeana.eu.*/,'https://www.artic.edu/', /https:\/\/theinnatbrookline.reztrip.com*/, /https:\/\/www.researchgate.net*/, /https:\/\/eap.bl.uk*/, /https:\/\/www.medievalacademy.org*/, /https:\/\/twitter.com*/]
+                                          /https:\/\/www.qdl.qa.*/,/https:\/\/www.europeana.eu.*/,
+                                          'https://www.artic.edu/', /https:\/\/theinnatbrookline.reztrip.com*/,
+                                           /https:\/\/www.researchgate.net*/, /https:\/\/eap.bl.uk*/, 
+                                           /https:\/\/www.medievalacademy.org*/, /https:\/\/twitter.com*/,
+                                           /https:\/\/collections.britishart.yale.edu*/, 'https://www.allaboutcookies.org/']
                                           ).run
 end
 
