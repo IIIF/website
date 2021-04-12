@@ -18,16 +18,14 @@ This event will include sessions that have been traditionally held at IIIF event
 
 In response to the lingering effects of the pandemic, it will also include the opportunity to host and attend regionally-focused online meetings aimed at networking and knowledge sharing with local attendees.
 
-## Deadlines
-### Call for Proposals now open!
-The Call for Proposals is open from March 3 - April 2. Please see details in the [Call for Proposals](https://iiif.io/news/2021/03/03/CFP/).
+**Registration is open until June 15th--sign up today!**
 
-### Upcoming deadlines:
-* March 3: Call for presentations, lightning talks, and regional meetings opens
-* April 2: Call for presentations, regional meetings, and lightning talks closes
+<p class="register"><a href="https://www.eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357">Register</a></p>
+
 
 ## Logistics
 * This event is free and open to all attendees
+* This event will be held on a platform called Whova. Within 24 hours of registering on Eventbrite, you will receive an email from Whova prompting you to create an account.
 * All sessions will be in English unless otherwise noted
 * All sessions will be recorded and made available following the conference
 * Social media hashtags: #IIIF, #IIIF2021, @iiif_io
@@ -43,7 +41,7 @@ Thanks to the 2021 program committee for their help with this event:
 
 ## Sponsors
 
-If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>. 
+If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>.
 
 
 Questions? Email us at <events@iiif.io>.
