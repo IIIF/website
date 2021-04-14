@@ -20,6 +20,7 @@ The [IIIF Maps TSG Charter][charter] provides a more detailed outline of anticip
 * Michael Appleby - Yale University
 * Bryan Haberberger - Walter J. Ong, S.J., Center for Digital Humanities at Saint Louis University
 * Eliot Jordan - Princeton University
+* Bert Spaan - Freelance
 
 **Communication channels:**
 * Calls every four weeks on Wednesdays at 17:00pm CEST / 16:00pm UK / 11:00am EST / 8:00am PST - see [IIIF Community Calendar][iiif-calendar] for details

@@ -27,9 +27,9 @@ This group will look at improving the support for digitised maps and geolocated 
 ## Organization
 
 **Chairs:**
- * Bert Spaan - Freelance
  * Eliot Jordan - Princeton University
  * Stace Maples - Stanford University
+ * Virginia Boyero
 
 **Communication Channels:**
 
