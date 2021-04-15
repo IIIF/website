@@ -103,6 +103,7 @@ Sign up to receive newsletters and announcements from IIIF.
 - [IIIF Community Newsletter February 2021](https://mailchi.mp/c7c546c823d6/new-guides-iiif-and-omeka-and-more) 
 - [IIIF Community Newsletter December 2020](https://mailchi.mp/37cf8befa8fb/iiif-working-meeting-recordings-mirador-3-and-more) 
 - [IIIF Community Newsletter November 2020](https://mailchi.mp/008fa9e36d4c/upcoming-iiif-events-and-new-implementations) 
+- [IIIF Community Newsletter October 2020](https://mailchi.mp/37412a04cd2c/take-the-iiif-implementation-survey) 
 - [IIIF Community Newsletter August 2020](https://mailchi.mp/1d4187906eeb/iiif-newsletter-sign-up-for-an-upcoming-workshop) 
 - [IIIF Community Newsletter, Volume 4, Issue 3 (30 Jul 2020)](https://mailchi.mp/dda02250dbcd/iiif-newsletter-30-released-training-site-and-more-4842754)
 - [IIIF Community Newsletter, Volume 4, Issue 2 (02 Jul 2020)](https://mailchi.mp/d565082d2385/iiif-newsletter-30-released-training-site-and-more)
