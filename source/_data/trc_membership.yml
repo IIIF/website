@@ -29,10 +29,6 @@
 - institution: IIIF Editors
   name: Dawn Childress
   role: 1
-
-- institution: IIIF TSG - A/V
-  name: Jon Dunn
-  role: 1
 - institution: IIIF TSG - Discovery
   name: Matt McGrattan
   role: 1
@@ -42,10 +38,10 @@
 - institution: IIIF TSG - Maps
   name: Bryan Haberberger
   role: 1
-- institution: IIIF TSG - Text Granularity
-  name: (declined)
+- institution: IIIF TSG - Content Search
+  name: Mike Bennett
   role: 1
-  
+
 #Consortium Full Members 
 - institution: ARTstor
   name: Will Groppe
