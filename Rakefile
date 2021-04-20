@@ -29,7 +29,8 @@ task :check_html do
                                           'https://www.artic.edu/', /https:\/\/theinnatbrookline.reztrip.com*/,
                                            /https:\/\/www.researchgate.net*/, /https:\/\/eap.bl.uk*/, 
                                            /https:\/\/www.medievalacademy.org*/, /https:\/\/twitter.com*/,
-                                           /https:\/\/collections.britishart.yale.edu*/, 'https://www.allaboutcookies.org/']
+                                           /https:\/\/collections.britishart.yale.edu*/, 'https://www.allaboutcookies.org/',
+                                          /http:\/\/folgerpedia.folger.edu*/, /https:\/\/folgerpedia.folger.edu*/]
                                           ).run
 end
 
