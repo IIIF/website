@@ -22,7 +22,7 @@ The [IIIF Content Search Technical Specification Group charter]({{ site.url }}{{
 
 **Communication channels:**
 * Github: TBD
-* Calls: Calls every other week on Fridays at 11:00am Eastern - see [IIIF Community Calendar][iiif-calendar] for details
+* Calls: Calls every other week on Tuesdays at 12:00pm Eastern - see [IIIF Community Calendar][iiif-calendar] for details
 * Email: [iiif-discuss][iiif-discuss] with subject line: \[Search-TSG\]
 * General discussion on the [Content Search Slack channel][search-slack]
 
