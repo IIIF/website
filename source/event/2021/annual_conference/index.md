@@ -30,6 +30,27 @@ In response to the lingering effects of the pandemic, it will also include the o
 * All sessions will be recorded and made available following the conference
 * Social media hashtags: #IIIF, #IIIF2021, @iiif_io
 
+## Sponsors
+
+If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>.
+
+The IIIF Annual Conference is generously supported by the following Conference Sponsors:
+
+<!-- **Gold sponsors**  <br>
+<a href="https://www.phaseone.com/" style="border-bottom: none"><img src="https://www.phaseone.com/~/media/Phase%20One/ASeriesTest/logo.ashx?h=75&la=en&w=120&hash=C7DE7F6657393312DB60AC3E388019D56CB6DAD4" alt='phase one logo' style="width: 300px"></a>
+<a href="https://www.cogapp.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/Cogapp_Logo_lg_black.png" alt='Cogapp logo' style="width: 300px"></a>
+<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a> -->
+
+<!-- **Silver sponsors**  <br>
+<a href="https://www.textandbytes.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/text_and_bytes_logo.png" alt='text and bytes logo' style="width: 300px"></a>
+<a href="http://www.casalini.it/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/logo_casalini_atcult_300px.png" alt='Casalini logo' style="width: 300px"></a>
+ -->
+
+**Bronze sponsors**  <br>
+<!-- <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a> -->
+<a href=" https://gallerysystems.com/international-image-interoperability-framework-iiif/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
+<!-- <a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a> -->
+
 ## Program committee
 Thanks to the 2021 program committee for their help with this event:
 * Dan Brennan, Princeton University
@@ -39,9 +60,7 @@ Thanks to the 2021 program committee for their help with this event:
 * Andrija Sagic, Library Milutin Bojic
 * Rachel Senese, Georgia State University
 
-## Sponsors
-
-If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>.
+---
 
 
 Questions? Email us at <events@iiif.io>.
