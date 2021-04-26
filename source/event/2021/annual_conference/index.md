@@ -48,7 +48,7 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 **Bronze sponsors**  <br>
 <!-- <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a> -->
-<a href=" https://gallerysystems.com/international-image-interoperability-framework-iiif/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
+<a href="https://gallerysystems.com/international-image-interoperability-framework-iiif/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
 <!-- <a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a> -->
 
 ## Program committee
