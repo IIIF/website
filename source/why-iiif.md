@@ -12,7 +12,7 @@ For institutions, IIIF enables better, faster and cheaper image delivery, while 
 
 For end users, IIIF offers a rich set of functionality for viewing & zooming, and allows for the assembly of the best mix of resources and tools to view, compare, manipulate and work with images on the Web all of which is portable--shareable, citable, embeddable. 
 
-To see how IIIF serves other institutions and end users, check out the [Showcase]({{ page.webprefix }}/showcase) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
+To see how IIIF serves other institutions and end users, don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
 
 ---
 
@@ -59,7 +59,7 @@ Join a global network of image suppliers making content available in a common fr
 
 ## Outreach materials
 
-Anyone can reach out to their community and share information about IIIF. We’ve created some materials to make that easier (for more, see our [Outreach Materials][outreach])
+Anyone can reach out to their community and share information about IIIF. We’ve created some materials to make that easier.
 
 Need to explain IIIF to a colleague? These handouts provide relevant information and a list of benefits based on audience.
 - [IIIF for CIOs and engineers](https://docs.google.com/document/d/1RJbJ8MdNWC_6Y1fyCvvtAzZfQIhHNDiFrpS2XA5TdGs/edit?usp=sharing){:.external}
@@ -73,4 +73,3 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
 [awesome]: https://github.com/IIIF/awesome-iiif
-[outreach]: {{ site.url }}{{ site.baseurl }}/training/outreach_materials/
