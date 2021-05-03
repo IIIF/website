@@ -62,6 +62,12 @@ Thanks to the 2021 program committee for their help with this event:
 
 ---
 
+## Agenda 
+
+<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=annua8_202106&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script"></script></div>
+
+---
+
 
 Questions? Email us at <events@iiif.io>.
 
