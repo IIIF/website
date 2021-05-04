@@ -36,7 +36,7 @@
     zooming client. IIPMooViewer is IIIF-compatible and works with
     [IIPServer](https://github.com/ruven/iipsrv) or other IIIF
     compatible servers. Visit the
-    [IIP demo page](http://iipimage.sourceforge.net/demo/) to see the IIP
+    [IIP demo page](https://iipimage.sourceforge.io/demo/) to see the IIP
     viewers in action.
 - name: OpenSeadragon
   uri: http://openseadragon.github.io/

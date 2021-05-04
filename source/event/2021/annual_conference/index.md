@@ -72,6 +72,7 @@ To access all the details of the agenda and to add sessions to a customized pers
 
 Within 24 hours of registering for this event, you will receive an email notifying you that you may set up your Whova account. Once you have created your account on Whova you can add sessions to your personal agenda and calendar.
 
+__Please note times below are shown in EDT. To see the times in your timezone please open the agenda in the Whova App or Website. You will need to register above to access the Whova system.__
 
 <div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=annua8_202106&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script"></script></div>
 
