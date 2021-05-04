@@ -5,10 +5,10 @@ tags: [event ]
 page: overview
 ---
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<!-- <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script> -->
+<!-- <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script> -->
 
 **The 2021 IIIF Annual Conference will take place online from June 22-24 and is free to attend.**
 
@@ -59,6 +59,21 @@ Thanks to the 2021 program committee for their help with this event:
 * Julien Raemy, University of Basel
 * Andrija Sagic, Library Milutin Bojic
 * Rachel Senese, Georgia State University
+
+---
+
+## Agenda 
+
+See below for a basic listing of conference sessions. You can search and filter the sessions using the tools to the right of the listings.
+
+To access all the details of the agenda and to add sessions to a customized personal agenda, please register for the conference using the registration link: 
+
+<p class="register"><a href="https://www.eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357">Register</a></p>
+
+Within 24 hours of registering for this event, you will receive an email notifying you that you may set up your Whova account. Once you have created your account on Whova you can add sessions to your personal agenda and calendar.
+
+
+<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=annua8_202106&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script"></script></div>
 
 ---
 
