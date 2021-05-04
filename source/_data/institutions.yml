@@ -280,7 +280,7 @@
 - name: University of Alberta Libraries
   uri: https://www.library.ualberta.ca
   iiifc:
-- name: Data and Service Center for the Humanities, University of Basel
+- name: Data & Service Center for the Humanities (DaSCH), University of Basel
   uri: https://dasch.swiss/ 
   iiifc: 2
 - name: University of California, Los Angeles
