@@ -18,7 +18,6 @@ The following is a list of active IIIF community groups and technical specificat
   * [Museums][museums]
   * [Newspapers][newspapers]
   * [Outreach][outreach]
-  * [Software Developers][software]
 
 
 ## Technical Specification Groups  
