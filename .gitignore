@@ -7,3 +7,5 @@ scripts/factory.pyc
 *.swp
 .jekyll-cache
 .jekyll-metadata
+
+iiifc-theme

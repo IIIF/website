@@ -22,7 +22,7 @@ header_pages:
   - event/index.md
   - training/index.md
 
-theme: minima
+theme: iiifc-theme
 
 plugins:
   - jekyll-redirect-from
