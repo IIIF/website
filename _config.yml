@@ -1,58 +1,55 @@
-source: source
-permalink: /news/:year/:month/:day/:title/
+url:            ''
+baseurl:        ''
+permalink:      pretty
+title:          "IIIF | International Image Interoperability Framework"
+theme:          iiifc-theme
+source:         source
 
-title: IIIF
-email: admin@iiif.io
-description: >- # this means to ignore newlines until "baseurl:"
-  IIIF is a software system delivering high quality, attributed digital objects
-  online at large scale. IIIF is also the growing international community of
-  people who improve it.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: iiif_io
-github_username:  IIIF
-#youtube_username: channel/UClcQIkLdYra7ZnOmMJnC5OA
+sass:
+  style:        compressed
+  sass_dir:     _sass
+exclude:        [node_modules]
+collections:
+  pages:
+    output: true
 
+organization:
+  acronym:      IIIF
+  title:        International Image Interoperability Framework
+  tagline:      "International Image Interoperability Framework: A community driven image framework with well defined APIs for making the world’s image repositories interoperable and accessible"
+  email:        iiif-discuss@googlegroups.com
+  url:          //iiif.io
+  logo:         assets/images/logo-sm.png
 
-#  - using_iiif/about.html
-header_pages:
-  - get_started/index.md
-  - community/index.md
-  - showcase/index.md
-  - event/index.md
-  - training/index.md
-
-theme: iiifc-theme
-
-plugins:
-  - jekyll-redirect-from
-  - jekyll-datapage-generator
-
-page_gen-dirs: false
-page_gen:
-  - index_files: false
-    data: 'washington_submissions'
-    template: 'submission'
-    name: 'id'
-    dir: 'event/2018/washington/program'
-    extension: 'html'
-    filter_condition: "record['decision'] == 'ACCEPT'"
-  - index_files: false
-    data: '2019-conference-submissions'
-    template: '2019_submission'
-    name: 'id'
-    dir: 'event/2019/goettingen/program'
-    extension: 'html'
-
-kramdown:
-  input: GFM
-  parse_block_html: true
-  toc_levels: 2..4
-  #syntax_highlighter: rouge
-
-  syntax_highlighter_opts:
-    wrap: div
-    css: class
+navbar_menu:
+  - label: 'Home'
+    link: '/'
+  - label: 'Demos'
+    link: '/demos'
+  - label: 'News & Events'
+    link: '/news-and-events'
+  - label: 'Get Involved'
+    link: '/get-involved'
+    sub:
+      - label: 'Community Groups'
+        link: ''
+      - label: 'Consortium'
+        link: ''
+      - label: 'Join Newsletter'
+        link: ''
+      - label: 'Contact Us'
+        link: ''
+  - label: 'Get Started'
+    link: '/get-started'
+    sub:
+      - label: 'How It Works'
+        link: ''
+      - label: 'APIs & Documentation'
+        link: ''
+      - label: 'Cookbooks'
+        link: ''
+      - label: 'Training'
+        link: ''
 
 image_api:
   latest:
@@ -79,10 +76,3 @@ auth_api:
     major: 1
     minor: 0
     patch: 0
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      webprefix: "https://iiif.io"
