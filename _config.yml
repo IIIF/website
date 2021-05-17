@@ -9,6 +9,7 @@ sass:
   style:        compressed
   sass_dir:     _sass
 exclude:        [node_modules]
+include:        [iiifc-theme]
 
 collections:
   pages:
@@ -72,29 +73,3 @@ footer_menu:
         link:  ''
       - label: 'Consortium'
         link:  ''
-
-image_api:
-  latest:
-    major: 3
-    minor: 0
-    patch: 0
-presentation_api:
-  latest:
-    major: 3
-    minor: 0
-    patch: 0
-shared_canvas:
-  latest:
-    major: 1
-    minor: 0
-    patch: 0
-search_api:
-  latest:
-    major: 1
-    minor: 0
-    patch: 0
-auth_api:
-  latest:
-    major: 1
-    minor: 0
-    patch: 0
