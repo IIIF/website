@@ -9,7 +9,7 @@ redirect_from:
 {% include apis.html %}
 
 {% capture content %}
-So you've been [convinced of the benefits of IIIF][benefits], and you're ready to pursue implementing IIIF for your own resources. This brief guide will lead you through some of the decision points to help get you going or you can jump right into the [IIIF Cookbook][cookbook] to see detailed examples.
+So you've been [convinced of the benefits of IIIF][benefits], and you're ready to pursue implementing IIIF for your own resources. This brief guide will lead you through some of the decision points to help get you going. You can also jump right into the [IIIF Cookbook][cookbook] to see detailed examples.
 {% endcapture %}
 
 {% include section.html class="" content=content %}
