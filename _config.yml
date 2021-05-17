@@ -9,6 +9,7 @@ sass:
   style:        compressed
   sass_dir:     _sass
 exclude:        [node_modules]
+
 collections:
   pages:
     output: true
@@ -50,6 +51,27 @@ navbar_menu:
         link: ''
       - label: 'Training'
         link: ''
+footer_menu:
+  - heading: About
+    sub:
+      - label: 'How It Works'
+        link:  ''
+      - label: 'Documentation'
+        link:  ''
+      - label: 'Demos'
+        link:  ''
+      - label: 'Tutorials'
+        link:  ''
+  - heading: Stay Connected
+    sub:
+      - label: 'Events & News'
+        link:  ''
+      - label: 'Join Newsletter'
+        link:  ''
+      - label: 'Community Groups'
+        link:  ''
+      - label: 'Consortium'
+        link:  ''
 
 image_api:
   latest:
