@@ -9,7 +9,7 @@ redirect_from:
 {% include apis.html %}
 
 {% capture content %}
-So you've been [convinced of the benefits of IIIF][benefits], and you're ready to pursue implementing IIIF for your own resources. This brief guide will lead you through some of the decision points to help get you going.
+So you've been [convinced of the benefits of IIIF][benefits], and you're ready to pursue implementing IIIF for your own resources. This brief guide will lead you through some of the decision points to help get you going. You can also jump right into the [IIIF Cookbook][cookbook] to see detailed examples.
 {% endcapture %}
 
 {% include section.html class="" content=content %}
@@ -61,15 +61,15 @@ The other option is to implement an image server (level 1 or 2). There are [many
 {% capture content %}
 ### Presentation API
 
-While the Image API will allow you to deliver and share images, the Image API alone does not carry any descriptive metadata with it. In order to share your resources and have descriptive metadata travel with the image you will want to implement the [Presentation API][presentation api]. If you have a group of images that together form a single resource, you'll use the Presentation API to sequence those images.
+While the Image API will allow you to deliver and share images, the Image API alone does not carry any descriptive metadata with it. In order to share your resources and have descriptive metadata travel with the image you will want to implement the [Presentation API][presentation api]. If you have a group of images or videos that together form a single resource, you'll use the Presentation API to sequence them.
 
 What you create when you implement the Presentation API is a JSON document called a presentation manifest. It includes any information needed to present the whole resource to the user. Manifests can either be statically or dynamically created. The presentation API gets its name from the decision to focus on presentation of information to a user rather than on trying to agree on a new semantic metadata standard, so as you read documentation and look at examples keep this intentional decision to focus on presentation in mind.
 
-The data you'll need to create a presentation manifest for each resource may come from various systems within your environment. One element will be information about your Image API service. As there are so many different kinds of systems across so many different institutions there is no one way to implement other parts of presentation manifests. It often takes custom development to integrate data from different systems. There are some [presentation API libraries] which might help. Again, check to see if any vended products you use support IIIF, as that may be the quickest path. Consider asking the IIIF community if anyone else is using the same or similar set of applications and how they were able to implement presentation manifests.
+The data you'll need to create a presentation manifest for each resource may come from various systems within your environment. One element will be information about your Image API service. As there are so many different kinds of systems across so many different institutions there is no one way to implement other parts of presentation manifests. It often takes custom development to integrate data from different systems. There are some [presentation API libraries][prezi_libraries] which might help. Again, check to see if any vended products you use support IIIF, as that may be the quickest path. Consider asking the IIIF community if anyone else is using the same or similar set of applications and how they were able to implement presentation manifests.
 
-Manifests are highly nested JSON documents and can seem complicated, but once you learn the terminology you can learn to easily read manifests. Go through the IIIF workshop to [learn how to create a simple manifest][create manifest] and you'll be on your way to understanding the main pieces of that make up manifests.
+Manifests are highly nested JSON documents and can seem complicated, but once you learn the terminology you can learn to easily read manifests. Have a look at the community developed IIIF recipes or examples in the [IIIF Cookbook][cookbook] and you'll be on your way to understanding the main pieces of that make up manifests.
 
-Once you have a basic manifest working in a presentation viewer, you can come back later and implement other presentation features like [linking properties]. These include ways to link out to semantic descriptive metadata and renderings like PDFs.
+Once you have a basic manifest working in a presentation viewer, you can come back later and implement other presentation features like [linking properties][linking_properties]. These include ways to link out to semantic descriptive metadata and renderings like PDFs.
 
 {% endcapture %}
 
@@ -115,7 +115,7 @@ The goal of IIIF is to be interoperable allowing sharing and user choice. To ena
 
 [benefits]: {{ site.url }}{{ site.baseurl }}/community/faq/#what-are-the-benefits-of-iiif
 [community]: {{ site.url }}{{ site.baseurl }}/community/
-[workshop]: http://ronallo.com/iiif-workshop/
+[workshop]: https://training.iiif.io/iiif-online-workshop/index.html
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [slack]: http://bit.ly/iiif-slack
 [community groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
@@ -127,7 +127,7 @@ The goal of IIIF is to be interoperable allowing sharing and user choice. To ena
 [shim]: https://github.com/IIIF/awesome-iiif#image-server-shims
 [presentation API libraries]: https://github.com/IIIF/awesome-iiif#presentation-api-libraries
 [create manifest]: http://ronallo.com/iiif-workshop/presentation/manifest.html
-[linking properties]: {{ page.webprefix }}/api/presentation/2.1/#linking-properties
+[linking_properties]: {{ page.webprefix }}/api/presentation/3.0/#33-linking-properties
 [looking for a viewer]: https://github.com/IIIF/awesome-iiif#image-viewers
 [drag and drop]: https://zimeon.github.io/iiif-dragndrop/
 [osd]: https://openseadragon.github.io/examples/tilesource-iiif/
@@ -136,3 +136,5 @@ The goal of IIIF is to be interoperable allowing sharing and user choice. To ena
 [uv]: http://universalviewer.io/
 [cors]: http://enable-cors.org/
 [mixed content]: https://developer.mozilla.org/en-US/docs/Web/Security/Mixed_content
+[prezi_libraries]: https://github.com/IIIF/awesome-iiif#presentation-api-libraries
+[cookbook]: https://iiif.io/api/cookbook/index.html
