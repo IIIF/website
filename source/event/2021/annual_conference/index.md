@@ -25,7 +25,7 @@ In response to the lingering effects of the pandemic, it will also include the o
 
 ## Logistics
 * This event is free and open to all attendees
-* This event will be held on a platform called Whova. Within 24 hours of registering on Eventbrite, you will receive an email from Whova prompting you to create an account.
+* This event will be held on a platform called Whova. Within 24 hours of registering on Eventbrite, you will receive an email prompting you to create a Whova account.
 * All sessions will be in English unless otherwise noted
 * All sessions will be recorded and made available following the conference
 * Social media hashtags: #IIIF, #IIIF2021, @iiif_io
@@ -62,11 +62,11 @@ Thanks to the 2021 program committee for their help with this event:
 
 ---
 
-## Agenda 
+## Agenda
 
 See below for a basic listing of conference sessions. You can search and filter the sessions using the tools to the right of the listings.
 
-To access all the details of the agenda and to add sessions to a customized personal agenda, please register for the conference using the registration link: 
+To access all the details of the agenda and to add sessions to a customized personal agenda, please register for the conference using the registration link:
 
 <p class="register"><a href="https://www.eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357">Register</a></p>
 
