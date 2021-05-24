@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="container-block is-max-widescreen">
+  <div class="columns container is-justify-content-space-between">
+    <aside class="column is-narrow" markdown="1">
+      <div class="box toc-sidebar menu sticky">
+        {% include toc.html html=content h_max=2 %}
+      </div>
+    </aside>
+    <div class="column content" markdown="1">
+      {{ content }}
+    </div>
+  </div>
+</div>

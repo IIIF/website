@@ -5,15 +5,13 @@ title:          "IIIF | International Image Interoperability Framework"
 theme:          iiifc-theme
 source:         source
 
+markdown:       kramdown
 sass:
   style:        compressed
   sass_dir:     _sass
 exclude:        [node_modules]
 include:        [iiifc-theme]
 
-collections:
-  pages:
-    output: true
 
 organization:
   acronym:      IIIF

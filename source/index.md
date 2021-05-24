@@ -11,8 +11,9 @@ hero:
     link: "/get-started"
 community_banner:
   image: "assets/community.jpg"
-  button_label: "Learn More"
-  button_link: "/get-involved"
+  button:
+    label: "Learn More"
+    link: "/get-involved"
   title: "Join the community"
   subtitle: "Over 10 community groups (and counting) tackle a diverse range of topics relating to the Framework—from crafting new technical specifications and implementing IIIF in specific communities, to conducting outreach."
 stay_connected_cards:

@@ -7,4 +7,6 @@ scripts/factory.pyc
 .jekyll-cache
 .jekyll-metadata
 
+# local clones
 iiifc-theme
+.api
