@@ -1,16 +1,33 @@
 ---
 layout: default
 ---
-
+<style>
+  table {
+    table-layout: fixed;
+    word-wrap: break-word;
+  }
+  .rfc {
+    color: #d55;
+    font-variant: small-caps;
+    font-style: normal;
+    font-size: 1.2em;
+    line-height: 0.8333;
+  }
+</style>
+{% for word in site.data.rfc_words %}
+  {% assign upper = word | prepend: '<em>' | append: '</em>' %}
+  {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
+  {% assign content = content | replace: upper, lower %}
+{% endfor %}
 <div class="container-block is-max-widescreen">
-  <div class="columns container is-justify-content-space-between">
-    <aside class="column is-narrow" markdown="1">
+  <div class="columns container">
+    <aside class="column is-one-quarter" markdown="1">
       <div class="box toc-sidebar menu sticky">
-        {% include toc.html html=content h_max=2 %}
+        {% include toc.html html=content h_max=3 %}
       </div>
     </aside>
-    <div class="column content" markdown="1">
-      {{ content }}
+    <div class="column content is-three-quarters" markdown="1">
+      {% include anchor_headings.html html=content anchorBody="#" %}
     </div>
   </div>
 </div>

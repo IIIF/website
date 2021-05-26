@@ -1,6 +1,7 @@
 ---
-title: "Presentation API 3.0"
+title: "Presentation API 3.0 Documentation"
 title_override: "IIIF Presentation API 3.0"
+subtitle: "Retrieve images from anywhere in the world and allows the user to select an area of the image and to resize, rotate, and edit the  quality."
 id: presentation-api
 layout: spec
 cssversion: 3
@@ -48,7 +49,7 @@ __Previous Version:__ [2.1.1][prezi21]
 {% endcomment %}
 ----
 
-##  1. Introduction
+## 1. Introduction
 
 Access to digital representations of objects is a fundamental requirement for many research activities, for the transmission of cultural knowledge, and for the daily pursuits of every web citizen. Ancient scrolls, paintings, letters, books, newspapers, films, operas, albums, field recordings, and computer generated animations are compound objects: they can have many parts, and complex structures. These resources may also bear the written or spoken word, and this linguistic content is often as important as the visual or audible representation.
 
@@ -66,15 +67,15 @@ The objective of the IIIF (pronounced "Triple-Eye-Eff") Presentation API is to p
 
 Implementations of this specification will be able to:
 
-  * display to the user digitized images, video, audio, and other content types associated with a particular physical or born-digital object;
-  * allow the user to navigate between multiple views or time extents of the object, either sequentially or hierarchically;
-  * display descriptive information about the object, view or navigation structure to provide context to the user;
-  * and provide a shared environment in which both publishers and users can annotate the object and its content with additional information.
+- display to the user digitized images, video, audio, and other content types associated with a particular physical or born-digital object;
+- allow the user to navigate between multiple views or time extents of the object, either sequentially or hierarchically;
+- display descriptive information about the object, view or navigation structure to provide context to the user;
+- and provide a shared environment in which both publishers and users can annotate the object and its content with additional information.
 
 The following are __not__ in scope:
 
-  * Provision of metadata for harvesting and discovery is not directly supported. Properties to reference further descriptive resources are available, and their use is encouraged.
-  * Search within the object, which is described by the [IIIF Content Search API][search-api].
+- Provision of metadata for harvesting and discovery is not directly supported. Properties to reference further descriptive resources are available, and their use is encouraged.
+- Search within the object, which is described by the [IIIF Content Search API][search-api].
 
 This document is accompanied by the [Presentation API Cookbook][annex-cookbook], which demonstrates motivating use cases for IIIF and contains examples showing how the objectives may be achieved.
 
@@ -82,9 +83,9 @@ This document is accompanied by the [Presentation API Cookbook][annex-cookbook],
 
 This specification uses the following terms:
 
-* __embedded__: When a resource (A) is embedded within an embedding resource (B), the complete JSON representation of resource A is present within the JSON representation of resource B, and dereferencing the URI of resource A will not result in additional information. Example: Canvas A is embedded in Manifest B.
-* __referenced__: When a resource (A) is referenced from a referencing resource (B), an incomplete JSON representation of resource A is present within the JSON representation of resource B, and dereferencing the URI of resource A will result in additional information. Example:  Manifest A is referenced from Collection B.
-* __HTTP(S)__: The HTTP or HTTPS URI scheme and internet protocol.
+- __embedded__: When a resource (A) is embedded within an embedding resource (B), the complete JSON representation of resource A is present within the JSON representation of resource B, and dereferencing the URI of resource A will not result in additional information. Example: Canvas A is embedded in Manifest B.
+- __referenced__: When a resource (A) is referenced from a referencing resource (B), an incomplete JSON representation of resource A is present within the JSON representation of resource B, and dereferencing the URI of resource A will result in additional information. Example:  Manifest A is referenced from Collection B.
+- __HTTP(S)__: The HTTP or HTTPS URI scheme and internet protocol.
 
 The terms _array_, _JSON object_, _number_, _string_, and _boolean_ in this document are to be interpreted as defined by the [Javascript Object Notation (JSON)][org-rfc-8259] specification.
 
@@ -101,7 +102,7 @@ This section provides an overview of the resource types (or classes) that are us
 This specification defines the following resource types:
 
 <p style="float: right">
-  <img src="img/data-model.png" alt="Data Model" width="400"><br/>
+  <img src="img/data-model.png" alt="Data Model" width="400" style="padding-left:1em;"><br/>
 </p>
 
 ##### Collection
