@@ -1800,15 +1800,16 @@ If the server receives a request with an `Accept` header, it _SHOULD_ respond fo
 If the request does not include an `Accept` header, the HTTP `Content-Type` header of the response _SHOULD_ have the value `application/ld+json` (JSON-LD) with the `profile` parameter given as the context document: `http://iiif.io/api/presentation/3/context.json`.
 
 {% include code_header.html %}
-``` none
+```
 Content-Type: application/ld+json;profile="http://iiif.io/api/presentation/3/context.json"
 ```
+
 {: .urltemplate}
 
 If the `Content-Type` header `application/ld+json` cannot be generated due to server configuration details, then the `Content-Type` header _SHOULD_ instead be `application/json` (regular JSON), without a `profile` parameter.
 
 {% include code_header.html %}
-``` none
+```
 Content-Type: application/json
 ```
 {: .urltemplate}
@@ -1938,7 +1939,8 @@ __Behavior Values__
 
 ### B. Example Manifest Response
 
-```
+{% include code_header.html %}
+``` json
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
   "id": "https://example.org/iiif/book1/manifest",
