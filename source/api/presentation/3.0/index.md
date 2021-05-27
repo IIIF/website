@@ -185,6 +185,7 @@ The value of the property _MUST_ be a JSON object, as described in the [language
  * Other types of resource _MAY_ have the `label` property with at least one entry.<br/>
    Clients _MAY_ render `label` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "label": { "en": [ "Example Object Title" ] } }
 ```
@@ -206,6 +207,7 @@ The value of the `metadata` property _MUST_ be an array of JSON objects, where e
 
 Clients _SHOULD_ display the entries in the order provided. Clients _SHOULD_ expect to encounter long texts in the `value` property, and render them appropriately, such as with an expand button, or in a tabbed interface.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "metadata": [
@@ -232,6 +234,7 @@ The value of the property _MUST_ be a JSON object, as described in the [language
  * Other types of resource _MAY_ have the `summary` property with at least one entry.<br/>
    Clients _MAY_ render `summary` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "summary": { "en": [ "This is a summary of the object." ] } }
 ```
@@ -245,6 +248,7 @@ The value of the property _MUST_ be a JSON object, that has the `label` and `val
  * Any resource type _MAY_ have the `requiredStatement` property.<br/>
    Clients _MUST_ render `requiredStatement` on every resource type.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "requiredStatement": {
@@ -265,6 +269,7 @@ The value _MUST_ be a string. If the value is drawn from Creative Commons or Rig
  * Any resource type _MAY_ have the `rights` property.<br/>
    Clients _MAY_ render `rights` on any resource type.
 
+{% include code_header.html %}
 ``` json-doc
 { "rights": "http://creativecommons.org/licenses/by/4.0/" }
 ```
@@ -295,6 +300,7 @@ The value _MUST_ be an array of JSON objects, where each item in the array confo
  * Other types of resource _MAY_ have the `provider` property with at least one item. <br/>
    Clients _SHOULD_ render `provider` on other types of resource.
 
+{% include code_header.html %}
 ```json-doc
 {
   "provider": [
@@ -349,6 +355,7 @@ The value _MUST_ be an array of JSON objects, each of which _MUST_ have the `id`
  * Other types of resource _MAY_ have the `thumbnail` property with at least one item.<br/>
    Clients _MAY_ render `thumbnail` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "thumbnail": [
@@ -380,6 +387,7 @@ The value _MUST_ be an [XSD dateTime literal][org-w3c-xsd-datetime]. The value _
  * Other types of resource _MUST NOT_ have the `navDate` property.<br/>
    Clients _SHOULD_ ignore `navDate` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "navDate": "2010-01-01T00:00:00Z" }
 ```
@@ -403,6 +411,7 @@ The value _MUST_ be a JSON object with the `id` and `type` properties, and _MAY_
   * Other types of resource _MUST NOT_ have the `placeholderCanvas` property.<br/>
     Clients _SHOULD_ ignore `placeholderCanvas` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "placeholderCanvas": {
@@ -433,6 +442,7 @@ The value _MUST_ be a JSON object with the `id` and `type` properties, and _MAY_
  * Other types of resource _MUST NOT_ have the `accompanyingCanvas` property.<br/>
    Clients _SHOULD_ ignore `accompanyingCanvas` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "accompanyingCanvas": {
@@ -458,6 +468,7 @@ The existence of an HTTP(S) URI in the `id` property does not mean that the URI 
  * All resource types _MUST_ have the `id` property.<br/>
    Clients _MAY_ render `id` on any resource type, and _SHOULD_ render `id` on Collections, Manifests and Canvases.
 
+{% include code_header.html %}
 ``` json-doc
 { "id": "https://example.org/iiif/1/manifest" }
 ```
@@ -485,6 +496,7 @@ The value _MUST_ be a string.
 | `Video`       | Moving images, with or without accompanying audio, such as might be rendered with a &lt;video> HTML tag |
 {: .api-table #table-type}
 
+{% include code_header.html %}
 ``` json-doc
 { "type": "Image" }
 ```
@@ -502,6 +514,7 @@ The value _MUST_ be a string, and it _SHOULD_ be the value of the `Content-Type`
  * Other types of resource _MUST NOT_ have the `format` property.<br/>
    Clients _SHOULD_ ignore `format` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "format": "application/xml" }
 ```
@@ -517,6 +530,7 @@ The value _MUST_ be an array of strings. Each item in the array _MUST_ be a vali
  * Other types of resource _MUST NOT_ have the `language` property.<br/>
    Clients _SHOULD_ ignore `language` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "language": [ "en" ] }
 ```
@@ -532,6 +546,7 @@ The value _MUST_ be a string, either taken from the [profiles registry][registry
 * Other types of resource _MAY_ have the `profile` property.<br/>
   Clients _MAY_ process the `profile` of other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "profile": "https://example.org/profile/statuary" }
 ```
@@ -549,6 +564,7 @@ The value _MUST_ be a positive integer.
  * Other types of resource _MUST NOT_ have the `height` property.<br/>
    Clients _SHOULD_ ignore `height` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "height": 1800 }
 ```
@@ -566,6 +582,7 @@ The value _MUST_ be a positive integer.
  * Other types of resource _MUST NOT_ have the `width` property.<br/>
    Clients _SHOULD_ ignore `width` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "width": 1200 }
 ```
@@ -583,6 +600,7 @@ The value _MUST_ be a positive floating point number.
  * Other types of resource _MUST NOT_ have a `duration`.<br/>
    Clients _SHOULD_ ignore `duration` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "duration": 125.0 }
 ```
@@ -610,6 +628,7 @@ The value _MUST_ be a string.
 | `bottom-to-top` | The object is displayed from the bottom to the top. |
 {: .api-table #table-direction}
 
+{% include code_header.html %}
 ``` json-doc
 { "viewingDirection": "left-to-right" }
 ```
@@ -662,6 +681,7 @@ The value _MUST_ be an array of strings.
 | `hidden` | Valid on Annotation Collections, Annotation Pages, Annotations, Specific Resources and Choices. If this behavior is provided, then the client _SHOULD NOT_ render the resource by default, but allow the user to turn it on and off. This behavior does not inherit, as it is not valid on Collections, Manifests, Ranges or Canvases. |
 {: .api-table #table-behavior}
 
+{% include code_header.html %}
 ``` json-doc
 { "behavior": [ "auto-advance", "individuals" ] }
 ```
@@ -682,6 +702,7 @@ The value _MUST_ be a string.
 | `loop` | If the content resource is shorter than the `duration` of the Canvas, it _MUST_ be repeated to fill the entire duration. Resources longer than the `duration` _MUST_ be trimmed as described above. For example, if a 20 second duration audio stream is annotated onto a Canvas with duration 30 seconds, it will be played one and a half times. |
 {: .api-table #table-timemode}
 
+{% include code_header.html %}
 ``` json-doc
 { "timeMode": "trim" }
 ```
@@ -705,6 +726,7 @@ __Model Alignment__<br/>
 Please note that this specification has stricter requirements about the JSON pattern used for the `homepage` property than the [Web Annotation Data Model][org-w3c-webanno]. The IIIF requirements are compatible, but the home page of an Agent found might have only a URI, or might be a JSON object with other properties. See the section on [collisions between contexts][prezi30-context-collisions] for more information.
 {: .note}
 
+{% include code_header.html %}
 ``` json-doc
 {
   "homepage": [
@@ -731,7 +753,7 @@ The value of this property _MUST_ be an array of JSON objects, each of which _MU
  * Agent resources _SHOULD_ have the `logo` property.<br/>
    Clients _MUST_ render `logo` on Agent resources.
 
-
+{% include code_header.html %}
 ``` json-doc
 {
   "logo": [
@@ -755,6 +777,7 @@ The value _MUST_ be an array of JSON objects. Each item _MUST_ have the `id`, `t
  * Any resource type _MAY_ have the `rendering` property with at least one item.<br/>
    Clients _SHOULD_ render `rendering` on a Collection, Manifest or Canvas, and _MAY_ render `rendering` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "rendering": [
@@ -777,6 +800,7 @@ The value _MUST_ be an array of JSON objects. Each object will have properties d
  * Any resource type _MAY_ have the `service` property with at least one item.<br/>
    Clients _MAY_ process `service` on any resource type, and _SHOULD_ process the IIIF Image API service.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "service": [
@@ -804,6 +828,7 @@ For cross-version consistency, this specification defines the following values f
 
 Implementations _SHOULD_ be prepared to recognize the `@id` and `@type` property names used by older specifications, as well as `id` and `type`. Note that the `@context` key _SHOULD NOT_ be present within the `service`, but instead included at the beginning of the document. The example below includes both version 2 and version 3 IIIF Image API services.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "service": [
@@ -835,6 +860,7 @@ The value _MUST_ be an array of JSON objects. Each object _MUST_ a service resou
 * A Manifest _MAY_ have the `services` property.<br/>
   Clients _SHOULD_ process `services` on a Manifest.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "services": [
@@ -865,6 +891,7 @@ The value _MUST_ be an array of JSON objects. Each item _MUST_ have the `id` and
  * Any resource type _MAY_ have the `seeAlso` property with at least one item.<br/>
    Clients _MAY_ process `seeAlso` on any resource type.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "seeAlso": [
@@ -890,6 +917,7 @@ The value _MUST_ be an array of JSON objects. Each item _MUST_ have the `id` and
  * Any resource type _MAY_ have the `partOf` property with at least one item<br/>
    Clients _MAY_ render `partOf` on any resource type.
 
+{% include code_header.html %}
 ``` json-doc
 { "partOf": [ { "id": "https://example.org/iiif/1", "type": "Manifest" } ] }
 ```
@@ -907,10 +935,12 @@ The value _MUST_ be a JSON object, which _MUST_ have the `id` and `type` propert
  * Other types of resource _MUST NOT_ have the `start` property.<br/>
    Clients _SHOULD_ ignore `start` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "start": { "id": "https://example.org/iiif/1/canvas/1", "type": "Canvas" } }
 ```
 
+{% include code_header.html %}
 ``` json-doc
 {
   "start": {
@@ -936,6 +966,7 @@ The value _MUST_ be a JSON object, which _MUST_ have the `id` and `type` propert
  * Other types of resource _MUST NOT_ have the `supplementary` property.<br/>
    Clients _SHOULD_ ignore `supplementary` on other types of resource.
 
+{% include code_header.html %}
 ``` json-doc
 { "supplementary": { "id": "https://example.org/iiif/1/annos/1", "type": "AnnotationCollection" } }
 ```
@@ -1062,6 +1093,7 @@ Terms in JSON-LD are [case sensitive][org-w3c-json-ld-case].  The cases of prope
 
 Resource descriptions _SHOULD_ be [embedded][prezi30-terminology] within the JSON description of parent resources, and _MAY_ also be available via separate requests from the HTTP(S) URI given in the resource's `id` property. Links to resources _MUST_ be given as a JSON object with the `id` and `type` properties and _SHOULD_ have `format` or `profile` to give a hint as to what sort of resource is being referred to.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "rendering": [
@@ -1079,6 +1111,7 @@ Resource descriptions _SHOULD_ be [embedded][prezi30-terminology] within the JSO
 
 Any of the properties in the API that can have multiple values _MUST_ always be given as an array of values, even if there is only a single item in that array.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "thumbnail": [
@@ -1097,6 +1130,7 @@ Language _MAY_ be associated with strings that are intended to be displayed to t
 
 The values of these properties _MUST_ be JSON objects, with the keys being the [BCP 47][org-bcp-47] language code for the language, or if the language is either not known or the string does not have a language, then the key _MUST_ be the string `none`. The associated values _MUST_ be arrays of strings, where each item is the content in the given language.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "label": {
@@ -1141,6 +1175,7 @@ In order to avoid HTML or script injection attacks, clients _MUST_ remove:
 
 Clients _SHOULD_ allow only `a`, `b`, `br`, `i`, `img`, `p`, `small`, `span`, `sub` and `sup` tags. Clients _MAY_ choose to remove any and all tags, therefore it _SHOULD NOT_ be assumed that the formatting will always be rendered.  Note that publishers _MAY_ include arbitrary HTML content for processing using customized or experimental applications, and the requirements for clients assume an untrusted or unknown publisher.
 
+{% include code_header.html %}
 ``` json-doc
 { "summary": { "en-latn": [ "<p>Short <b>summary</b> of the resource.</p>" ] } }
 ```
@@ -1151,6 +1186,7 @@ The top level resource in the response _MUST_ have the `@context` property, and 
 
 The value of the `@context` property _MUST_ be either the URI `http://iiif.io/api/presentation/{{ page.major }}/context.json` or a JSON array with the URI `http://iiif.io/api/presentation/{{ page.major }}/context.json` as the last item. Further contexts, such as those for local or [registered extensions][registry], _MUST_ be added at the beginning of the array.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json"
@@ -1159,6 +1195,7 @@ The value of the `@context` property _MUST_ be either the URI `http://iiif.io/ap
 
 Any additional properties beyond those defined in this specification or the Web Annotation Data Model _SHOULD_ be mapped to RDF predicates using further context documents. These extensions _SHOULD_ be added to the top level `@context` property, and _MUST_ be added before the above context. The JSON-LD 1.1 functionality of predicate specific context definitions, known as [scoped contexts][org-w3c-json-ld-scoped-contexts], _MUST_ be used to minimize cross-extension collisions. Extensions intended for community use _SHOULD_ be [registered in the extensions registry][registry], but registration is not mandatory.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": [
@@ -1216,6 +1253,7 @@ Collections or Manifests [referenced][prezi30-terminology] in the `items` proper
 
 An example Collection document:
 
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
@@ -1255,6 +1293,7 @@ The identifier in `id` _MUST_ be able to be dereferenced to retrieve the JSON de
 
 The Manifest _MUST_ have an `items` property, which is an array of JSON-LD objects. Each object is a Canvas, with requirements as described in the next section. The Manifest _MAY_ also have a `structures` property listing one or more [Ranges][prezi30-range] which describe additional structure of the content, such as might be rendered as a table of contents. The Manifest _MAY_ have an `annotations` property, which includes Annotation Page resources where the Annotations have the Manifest as their `target`. These will typically be comment style Annotations, and _MUST NOT_ have `painting` as their `motivation`.
 
+{% include code_header.html %}
 ``` json-doc
 {
   // Metadata about this manifest file
@@ -1469,6 +1508,7 @@ Canvases _MAY_ be treated as content resources for the purposes of annotating on
 
 Renderers _MUST_ scale content into the space represented by the Canvas, and _SHOULD_ follow any `timeMode` value provided for time-based media. If the Canvas represents a view of a physical object, the spatial dimensions of the Canvas _SHOULD_ be the same scale as that physical object, and content _SHOULD_ represent only the object.
 
+{% include code_header.html %}
 ``` json-doc
 {
   // Metadata about this canvas
@@ -1517,7 +1557,7 @@ The Canvases and parts of Canvases need not be contiguous or in the same order a
 
 Ranges _MAY_ link to an Annotation Collection that has the content of the Range using the `supplementary` property. The [referenced][prezi30-terminology] Annotation Collection will contain Annotations that target areas of Canvases within the Range and link content resources to those Canvases.
 
-
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
@@ -1588,6 +1628,7 @@ __Incompatibility Warning__<br/>
 The definition of `label` in the Web Annotation specification does not produce JSON conformant with the structure defined in this specification for languages. Given the absolute requirement for internationalized labels and the strong desire for consistently handling properties, the `label` property on Annotation model classes does not conform to the string requirement of the Web Annotation Data Model.  This [issue has been filed with the W3C][github-webanno-437] and will hopefully be addressed in a future version of the standard.
 {: .warning}
 
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
@@ -1623,6 +1664,7 @@ Additional features of the Web Annotation data model _MAY_ also be used, such as
 
 The IIIF community has defined [additional Selector classes][annex-oa] for use with SpecificResources, especially for cases when it is not possible to use the official FragmentSelector. See the additional documentation for details.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
@@ -1653,7 +1695,7 @@ If there is a need to distinguish between content resources, then the resource _
 
 A Canvas _MAY_ be treated as a content resource for the purposes of annotating it on to other Canvases. In this situation, the Canvas _MAY_ be [embedded][prezi30-terminology] within the Annotation, or require dereferencing to obtain its description.
 
-
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
@@ -1692,6 +1734,7 @@ Annotation Collections represent groupings of Annotation Pages that should be ma
 
 Annotation Collections _MUST_ have a URI, and it _SHOULD_ be an HTTP(S) URI. They _SHOULD_ have a `label` and _MAY_ have any of the other descriptive, linking or rights properties.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
@@ -1706,6 +1749,7 @@ Annotation Collections _MUST_ have a URI, and it _SHOULD_ be an HTTP(S) URI. The
 
 For Annotation Collections with many Annotations, there will be many pages. The Annotation Collection refers to the first and last page, and then the pages refer to the previous and next pages in the ordered list.  Each page is part of the Annotation Collection.
 
+{% include code_header.html %}
 ``` json-doc
 {
   "@context": "http://iiif.io/api/presentation/{{ page.major }}/context.json",
@@ -1755,6 +1799,7 @@ If the server receives a request with an `Accept` header, it _SHOULD_ respond fo
 
 If the request does not include an `Accept` header, the HTTP `Content-Type` header of the response _SHOULD_ have the value `application/ld+json` (JSON-LD) with the `profile` parameter given as the context document: `http://iiif.io/api/presentation/3/context.json`.
 
+{% include code_header.html %}
 ``` none
 Content-Type: application/ld+json;profile="http://iiif.io/api/presentation/3/context.json"
 ```
@@ -1762,6 +1807,7 @@ Content-Type: application/ld+json;profile="http://iiif.io/api/presentation/3/con
 
 If the `Content-Type` header `application/ld+json` cannot be generated due to server configuration details, then the `Content-Type` header _SHOULD_ instead be `application/json` (regular JSON), without a `profile` parameter.
 
+{% include code_header.html %}
 ``` none
 Content-Type: application/json
 ```
