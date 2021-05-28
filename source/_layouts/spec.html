@@ -7,6 +7,7 @@ breadcrumbs: true
   {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
   {% assign content = content | replace: upper, lower %}
 {% endfor %}
+
 <div class="container-block is-max-widescreen">
   <div class="columns container">
     <aside class="column is-one-third" markdown="1">

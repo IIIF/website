@@ -30,7 +30,9 @@ editors:
   orchid: https://orcid.org/0000-0002-7970-7855
   institution: Cornell University
 ---
+
 ## Status of this Document
+{:.no_toc}
 
 __This Version:__ {{ page.major }}.{{ page.minor }}.{{ page.patch }}{% if page.pre != 'final' %}-{{ page.pre }}{% endif %}
 
@@ -40,13 +42,9 @@ __Previous Version:__ [2.1.1][prezi21]
 
 **Editors:**
 
-{% for editor in page.editors %}
-  - **[{{ editor.name }}]({{ editor.orchid }})**, {{ editor.institution }}
-{% endfor %}
+{% include editors.md editors=page.editors %}
 
-{% comment %}
 {% include copyright.md %}
-{% endcomment %}
 ----
 
 ## 1. Introduction
