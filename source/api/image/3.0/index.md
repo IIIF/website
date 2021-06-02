@@ -1,5 +1,5 @@
 ---
-title: "Image API 3.0"
+title: "Image API 3.0 Documentation"
 title_override: "IIIF Image API 3.0"
 id: image-api
 layout: spec

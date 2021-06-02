@@ -1,5 +1,5 @@
 ---
-title: "IIIF Content State API 0.3"
+title: "Content State API 0.3 Documentation"
 title_override: "IIIF Content State API 0.3"
 id: discovery-api-content-state
 layout: spec

@@ -16,7 +16,7 @@ presentation:
     major: 3
     minor: 0
     patch: 0
-authentication:
+auth:
   label: Authentication API
   description: Control and restrict access by creating a link to a user interface for logging in and services that provide credentials.
   image: assets/images/icon-auth.png
@@ -34,13 +34,13 @@ search:
     major: 1
     minor: 0
     patch: 0
-change_discovery:
+discovery:
   label: Change Discovery API
   description: Harvest any changes published by organizations that deliver digital objects.
   image: assets/images/icon-change.png
   latest:
     label: Beta v0.09
-content_state:
+content-state:
   label: Content State API
   description: Generate a very specific link to a particular view of an object, like a specific area on a particulat page rotated at a certain angle.
   image: assets/images/icon-state.png

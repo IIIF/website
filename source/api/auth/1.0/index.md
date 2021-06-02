@@ -1,5 +1,5 @@
 ---
-title: "IIIF Authentication API 1.0"
+title: "Authentication API 1.0 Documentation"
 title_override: "IIIF Authentication API 1.0"
 id: auth-api
 layout: spec
@@ -625,7 +625,7 @@ When there are no lower tiers and the user is not authorized to access the curre
   <tbody>
     <tr>
       <td>
-        <img style="max-width: 1000px" src="img/auth-flow-client.png" alt="Server Authentication Flow" class="fullPct" />
+        <img src="img/auth-flow-client.png" alt="Server Authentication Flow" class="fullPct" />
         <p><strong>1</strong> Client Authentication Workflow</p>
       </td>
     </tr>

@@ -6,7 +6,6 @@ permalink: /news-and-events/
 hero:
   image: "assets/images/possible_header_images/1977_157_Autumn_Maples_with_Poem_Slips.jpg"
 ---
-{{ block-start }}
 <div class="tabs is-centered is-medium">
   <ul>
     <li class="is-active"><a>Events</a></li>
@@ -14,4 +13,3 @@ hero:
     <li><a>News</a></li>
   </ul>
 </div>
-{{ block-end }}

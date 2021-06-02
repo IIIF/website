@@ -1,6 +1,10 @@
 ---
 layout: default
-breadcrumbs: true
+breadcrumbs:
+  - label: Get Started
+    link: 'get-started'
+  - label: APIs & Documentation
+    link: 'api'
 ---
 {% for word in site.data.rfc_words %}
   {% assign upper = word | prepend: '<em>' | append: '</em>' %}

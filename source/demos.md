@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Demos
 subtitle: >
   Get inspired by demos ranging from basic image viewers to IIIF-based machine learning character recognition built by the community.
