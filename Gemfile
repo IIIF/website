@@ -9,6 +9,7 @@ gem 'iiifc-theme', github: 'mnyrop/iiifc-theme', branch: 'main'
 group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-datapage-generator'
+  gem 'jekyll-gzip'
 end
 
 group :development, :test do

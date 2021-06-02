@@ -1,10 +1,10 @@
-- image: assets/images/demo.png
+- image: assets/images/demo-1.png
   alt_text: This is my alt text
   link: /demos/
-  label: This Amazing Organization annotates artwork
-- image: assets/images/demo.png
+  label: This Amazing Organization annotates artwork.
+- image: assets/images/demo-2.png
   link: /demos/
-  label: This Amazing Organization enables viewing
-- image: assets/images/demo.png
+  label: This Amazing Organization enables viewing.
+- image: assets/images/demo-3.png
   link: /demos/
-  label: This Amazing Organization enables research
+  label: This Amazing Organization enables research.

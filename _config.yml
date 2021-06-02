@@ -10,8 +10,10 @@ sass:
   style:        compressed
   sass_dir:     _sass
 exclude:        [node_modules]
-include:        [iiifc-theme]
 
+plugins:
+  - jekyll-redirect-from
+  - jekyll-gzip
 
 organization:
   acronym:      IIIF

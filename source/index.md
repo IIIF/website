@@ -2,7 +2,7 @@
 layout: default
 title: Home
 hero:
-  image: "assets/images/possible_header_images/Under_the_Wave_off_Kanagawa.jpg"
+  image: "assets/images/possible_header_images/Under_the_Wave_off_Kanagawa.webp"
   title: Gain richer access to the world's image and audio/visual files
   subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is stewarded by a consortium.
   button:
