@@ -1,5 +1,5 @@
 url:            ''
-baseurl:        ''
+baseurl:        '/iiif-website'
 permalink:      pretty
 title:          "IIIF | International Image Interoperability Framework"
 theme:          iiifc-theme
