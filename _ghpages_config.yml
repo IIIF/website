@@ -1,5 +1,5 @@
 url:            ''
-baseurl:        ''
+baseurl:        '/iiif-website'
 permalink:      pretty
 title:          "IIIF | International Image Interoperability Framework"
 theme:          iiifc-theme
@@ -22,13 +22,6 @@ organization:
   email:        iiif-discuss@googlegroups.com
   url:          //iiif.io
   logo:         assets/images/logo-sm.png
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      webprefix: "https://iiif.io"
 
 navbar_menu:
   - label: 'Home'
