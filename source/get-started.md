@@ -5,52 +5,52 @@ subtitle: >
   There are two main ways to get started with IIIF. As an implementer or developer, you can make digital resources available on the web using IIIF. As an end user, you may be working with materials already hosted on the Web by someone else.
 permalink: /get-started/
 hero:
-  image: "assets/images/possible_header_images/download-1.png"
+  image: ''
 developer_resources_cards:
   - label: Image Viewers
     description: There are several popular viewers, each with different capabilities.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
   - label: Image Servers
     description: See the most commonly used IIIF-compliant image servers.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
   - label: IIIF Tools
     description: Review the community-maintained Awesome IIIF list.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
   - label: IIIF Validators
     description: Try out the IIIF Validators for the Image API or the Presentation API.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
   - label: Find Recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into “recipes” that can be reused easily.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
   - label: More Resources
     description: Read guides to pre-implementation requirements, interoperability best practices, UX best practices, and more.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
 end_users_cards:
   - label: Finding IIIF Resources
     description: How to find IIIF materials from dozens of institutions around the world.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
   - label: Using IIIF Resources
     description: How to use preexisting IIIF materials for teaching and research.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
   - label: Implementation Basics
     description: Access our open training materials to learn the basics of implementing IIIF.
-    image: 'assets/images/just-a-square.png'
+    image: ''
     link_text: Learn more
     link: ''
 more_resources_cards:

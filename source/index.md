@@ -20,7 +20,7 @@ demos:
     link: /demos/
     label: This Amazing Organization enables research.
 community_banner:
-  image: "assets/community.jpg"
+  image: "assets/images/heroes/event@3x.webp"
   button:
     label: "Learn More"
     link: "/get-involved"
@@ -61,7 +61,7 @@ Join a call (newcomers welcome!)
 - **{{ call.name }}** ({{ call.date }} – {{ call.time }})
 {% endfor %}
 
-{% include misc/button.html button_label="View full calendar" button_link="/news-and-events/" %}
+{% include misc/button.html button_label="View full calendar" button_link="#" %}
 
 {{ layout.block-end }}
 

@@ -5,7 +5,7 @@ subtitle: >
   Get inspired by demos ranging from basic image viewers to IIIF-based machine learning character recognition built by the community.
 permalink: /demos/
 hero:
-  image: "assets/images/possible_header_images/13662201.jpg"
+  image: ''
 get_started_cards:
   - label: Explore API Documentation
     description: Sed ac turpis ut nisi convallis accumsan a eu sem. Vestibulum suscipit nisi nunc, in bibendum enim tempus sed.
@@ -26,7 +26,7 @@ get_started_cards:
 
 There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular.
 
-{% include content/full-width-image.html image="assets/demo-screenshot.png" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
+{% include content/full-width-image.html image="assets/uploads/demo-screenshot.png" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
 
 {{ layout.block-end }}
 
@@ -36,7 +36,7 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular.
 
-{% include content/full-width-image.html image="assets/demo-screenshot.png" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
+{% include content/full-width-image.html image="assets/uploads/demo-screenshot.png" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
 
 {{ layout.block-end }}
 
@@ -46,7 +46,7 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular.
 
-{% include content/full-width-image.html image="assets/demo-screenshot.png" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
+{% include content/full-width-image.html image="assets/uploads/demo-screenshot.png" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
 
 {{ layout.block-end }}
 
