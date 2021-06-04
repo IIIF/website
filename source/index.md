@@ -1,59 +1,106 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: International Image Interoperability Framework (IIIF)
----
-<p class="lookatme">IIIF is an open software standard for delivering high quality, attributed digital objects (like image and audio/visual files) online at scale. It's also the international community of people developing and implementing the IIIF APIs.</p>  
-
-<p class="lookatme">IIIF is stewarded by a [consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/).</p>
-
-
-## Great for researchers
-
-Access, examine, compare, and annotate high-quality images and audio/visual files, then share your work with others. IIIF enables easy viewing of large images from multiple repositories, with tools to aid research and presentation.
-
-## Efficient for developers
-
-Publish once, use often! IIIF lets you serve digital objects to your own site, or to sites using IIIF anywhere in the world--all while giving users a high-quality viewing experience for multiple file types.
-
-## Powerful *and* practical for leaders
-
-Share your collections as widely as possible. IIIF is being adopted by global leading institutions as a cost-effective way to serve billions of digital objects online without vendor lock-in and with strong open-source, community-driven ethics.   
-
-[Learn more][why].
-
----
-
-## Try it yourself
-
-IIIF can unite materials from one or many collections, allowing users to zoom, pan, and add additional images for comparison. It also allows annotations and multi-layer viewing, among many other options.
-
-First time exploring IIIF? Here's a simple, zoomable example of a single text page with annotations. Give it a try!
-
-{%- include leaflet_annotation.html -%}
-
-See our [Showcase]({{ site.url }}{{ site.baseurl }}/showcase/) for more examples of how IIIF can be used.
-
+layout: default
+title: Home
+hero:
+  image: "assets/images/possible_header_images/Under_the_Wave_off_Kanagawa.webp"
+  title: Gain richer access to the world's image and audio/visual files
+  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is stewarded by a consortium.
+  button:
+    label: "Get Started"
+    link: "/get-started"
+community_banner:
+  image: "assets/community.jpg"
+  button:
+    label: "Learn More"
+    link: "/get-involved"
+  title: "Join the community"
+  subtitle: "Over 10 community groups (and counting) tackle a diverse range of topics relating to the Framework—from crafting new technical specifications and implementing IIIF in specific communities, to conducting outreach."
+stay_connected_cards:
+  - label: Attend an event
+    description: The IIIF community hosts many virtual and in-person trainings, conferences, and other events each year.
+    link_text: Learn more
+    link: /get-involved
+  - label: Join a community group call
+    description: Connect with and learn from your peers by joining a community group, or by proposing a new one! Calls are open to everyone.
+    link_text: Learn more
+    link: /get-involved
+  - label: Become a member
+    description: Join leading global organizations large and small in supporting the IIIF community’s work by becoming a member of the Consortium.
+    link_text: Learn more
+    link: /get-involved
 ---
 
-## Who is using IIIF?
+{{ layout.block-start }}
 
- **Aggregators** such as JSTOR, CONTENTdm, DPLA, Europeana, the Internet Archive, and more.   
+## Break down silos with free APIs
+Much of the internet’s digitized image, audio, and visual resources are locked up in restricted silos. IIIF enables users to view zoom, pan, and add additional images for comparison--on one site, or across many times. It also allows annotations and multi-layer viewing, among many other options.
 
-**Universities and research institutions** like Cambridge University, Kyoto University, Stanford University, University of Toronto, and Wellcome Trust.   
+{% include blocks/demos.html items=site.data.demos %}
+{% include misc/button.html button_label="View Demos" button_link="/demos/" %}
 
-**National libraries** and **archives** like the Library of Congress, the Vatican, and the Egyptian National Library and Archives.   
-
-**Museums** such as the British Museum, The J. Paul Getty Trust, and The Walters Art Museum.   
-
-**Software companies** and **digital agencies** including Kakadu Software, Gallery Systems, Digirati, Cogapp, and more.   
-
-IIIF is open and free to use. Many institutions using IIIF's APIs become members of the <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/">IIIF Consortium</a>, sustaining the framework’s growth and serving on advisory committees.
+{{ layout.block-end }}
 
 
 
-{% include acronyms.md %}
 
-[why]: {{ site.url }}{{ site.baseurl }}/why-iiif
+
+{{ layout.block-start }}
+
+## Upcoming community calls
+Join a call (newcomers welcome!)
+{% for call in site.data.calls %}
+- **{{ call.name }}** ({{ call.date }} – {{ call.time }})
+{% endfor %}
+
+{% include misc/button.html button_label="View full calendar" button_link="/news-and-events/" %}
+
+{{ layout.block-end }}
+
+
+
+
+{{ layout.block-start }}
+
+## Simplify and enhance your work
+{% include blocks/features.html items=site.data.features %}
+{% include misc/button.html button_label="Why IIIF" button_link="/get-started/" %}
+
+{{ layout.block-end }}
+
+
+
+
+{{ layout.block-start }}
+
+## Start building with open APIs
+The six IIIF APIs fit together to deliver endless possibilities.
+
+{% include blocks/api-cards.html link_text="View Docs" items=site.data.apis %}
+
+{{ layout.block-end }}
+
+
+
+{% include blocks/hero.html hero=page.community_banner %}
+
+
+
+{{ layout.block-start }}
+
+## Trusted by global technology leaders
+IIIF is used by aggregators, universities and research institutions, national libraries, archives, museums, software companies, and digital agencies around the world.
+{% include blocks/logo-grid.html items=site.data.institutions %}
+
+{{ layout.block-end }}
+
+
+
+
+
+{{ layout.block-start }}
+
+## Get involved and stay connected
+Anyone can participate in the IIIF community. Find the way that’s right for you!
+{% include blocks/cards.html items=page.stay_connected_cards %}
+
+{{ layout.block-end }}

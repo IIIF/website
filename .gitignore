@@ -2,8 +2,11 @@ _site
 node_modules/
 scripts/factory.py
 scripts/factory.pyc
-.ruby-version
 .DS_Store
 *.swp
 .jekyll-cache
 .jekyll-metadata
+
+# local clones
+iiifc-theme
+source/api
