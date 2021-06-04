@@ -1,7 +1,6 @@
 url:            ''
 baseurl:        ''
 permalink:      pretty
-title:          "IIIF | International Image Interoperability Framework"
 theme:          iiifc-theme
 source:         source
 
@@ -15,20 +14,13 @@ plugins:
   - jekyll-redirect-from
   - jekyll-gzip
 
-organization:
-  acronym:      IIIF
-  title:        International Image Interoperability Framework
-  tagline:      "International Image Interoperability Framework: A community driven image framework with well defined APIs for making the world’s image repositories interoperable and accessible"
-  email:        iiif-discuss@googlegroups.com
-  url:          //iiif.io
-  logo:         assets/images/logo-sm.png
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      webprefix: "https://iiif.io"
+iiif:
+  logo:       assets/images/logos/logo-sm.png
+  acronym:    IIIF
+  title:      International Image Interoperability Framework
+  tagline:    "International Image Interoperability Framework: A community driven image framework with well defined APIs for making the world’s image repositories interoperable and accessible"
+  email:      iiif-discuss@googlegroups.com
+  url:        //iiif.io
 
 navbar_menu:
   - label: 'Home'
@@ -80,3 +72,12 @@ footer_menu:
         link:  ''
       - label: 'Consortium'
         link:  ''
+
+
+# organization:
+#   acronym:      IIIF
+#   title:        International Image Interoperability Framework
+#   tagline:      "International Image Interoperability Framework: A community driven image framework with well defined APIs for making the world’s image repositories interoperable and accessible"
+#   email:        iiif-discuss@googlegroups.com
+#   url:          //iiif.io
+#   logo:         assets/images/logo-sm.png
