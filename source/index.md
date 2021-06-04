@@ -2,14 +2,25 @@
 layout: default
 title: Home
 hero:
-  image: "assets/images/possible_header_images/Under_the_Wave_off_Kanagawa.webp"
+  image: "assets/images/heroes/hero-1.webp"
   title: Gain richer access to the world's image and audio/visual files
   subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is stewarded by a consortium.
   button:
     label: "Get Started"
     link: "/get-started"
+demos:
+  - image: assets/uploads/silos-1.webp
+    alt_text: This is my alt text
+    link: /demos/
+    label: This Amazing Organization annotates artwork.
+  - image: assets/uploads/silos-2.webp
+    link: /demos/
+    label: This Amazing Organization enables viewing.
+  - image: assets/uploads/silos-3.webp
+    link: /demos/
+    label: This Amazing Organization enables research.
 community_banner:
-  image: "assets/community.jpg"
+  image: "assets/images/heroes/event@3x.webp"
   button:
     label: "Learn More"
     link: "/get-involved"
@@ -35,12 +46,10 @@ stay_connected_cards:
 ## Break down silos with free APIs
 Much of the internet’s digitized image, audio, and visual resources are locked up in restricted silos. IIIF enables users to view zoom, pan, and add additional images for comparison--on one site, or across many times. It also allows annotations and multi-layer viewing, among many other options.
 
-{% include blocks/demos.html items=site.data.demos %}
+{% include blocks/demos.html items=page.demos %}
 {% include misc/button.html button_label="View Demos" button_link="/demos/" %}
 
 {{ layout.block-end }}
-
-
 
 
 
@@ -52,7 +61,7 @@ Join a call (newcomers welcome!)
 - **{{ call.name }}** ({{ call.date }} – {{ call.time }})
 {% endfor %}
 
-{% include misc/button.html button_label="View full calendar" button_link="/news-and-events/" %}
+{% include misc/button.html button_label="View full calendar" button_link="#" %}
 
 {{ layout.block-end }}
 
