@@ -2,5 +2,6 @@ theme:          iiifc-theme
 source:         source
 
 plugins:
-  - jekyll-redirect-from
+  - jekyll-data
   - jekyll-gzip
+  - jekyll-redirect-from

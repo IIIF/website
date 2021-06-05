@@ -1,10 +1,13 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: 5ca3366c988e0f3a49e3ba776dedbc335819f649
+  revision: 00394bd365a3f76f3da7cfa9eaf7cf1584e09069
   branch: main
   specs:
     iiifc-theme (0.1.0)
       jekyll (>= 4.0, < 5.0)
+      jekyll-data
+      jekyll-gzip
+      jekyll-redirect-from
 
 GEM
   remote: https://rubygems.org/
@@ -51,7 +54,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
-    jekyll-datapage-generator (1.3.0)
+    jekyll-data (1.1.1)
+      jekyll (>= 3.3, < 5.0.0)
     jekyll-gzip (2.5.1)
       jekyll (>= 3.0, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -113,9 +117,6 @@ DEPENDENCIES
   html-proofer
   iiifc-theme!
   jekyll (~> 4.1.1)
-  jekyll-datapage-generator
-  jekyll-gzip
-  jekyll-redirect-from
   rake
 
 BUNDLED WITH
