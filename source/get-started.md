@@ -80,7 +80,7 @@ Image and Presentation are the core APIs you can  install first. Choose to retri
 ### 3. Enable Other Features
 
 
-{% include misc/button.html button_label="View All Docs" button_link="/api/" %}
+{% include misc/button.html button_label="View All Docs" button_link="" %}
 
 {{ layout.block-end }}
 
