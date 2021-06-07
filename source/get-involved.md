@@ -1,9 +1,76 @@
 ---
-layout: page
+layout: default
 title: Get Involved
 subtitle: >
   The International Image Interoperability Framework (IIIF) encompasses a large and growing community of interested individuals, organizations, a Consortium.
 permalink: /get-involved/
 hero:
-  image: "assets/images/possible_header_images/download-2.png"
+  image: ''
+events:
+  - date: 2021-04-04
+    title: IIIF Museums Call
+    location: Virtual (Zoom)
+  - date: 2021-03-23
+    title: IIIF Maps Call
+    location: Virtual (Zoom)
+  - date: 2021-02-12
+    title: IIIF Archives Call
+    location: Virtual (Zoom)
+  - date: 2021-01-01
+    title: IIIF Discovery Group
+    location: Virtual (Zoom)
+more_resources_cards:
+  - label: Share your news & events
+    description: Send us your latest IIIF news and events listings for inclusion in our monthly newsletter.
+    link: ''
+  - label: Host an event
+    description: Want to host a local in-person or online event? We have a guide for that.
+    link: ''
+  - label: Watch a recording
+    description: Catch up on presentations from recent events.
+    link: ''
+  - label: Join IIIF Slack
+    description: Join the IIIF Slack team - lots of activity, specific channels for groups, and more!
+    link: ''
+  - label: Newsletter Sign up
+    description: Sign up for the newsletter - news about events, training, cool projects, and community updates
+    link: ''
+  - label: Explore our groups
+    description: Our groups discuss elements or contexts of IIIF usage or to agree on direction of an idea or initiative.
+    link: ''
 ---
+{{ layout.block-start }}
+## Join our Community
+
+Scholars, software people, researchers, and culture workers are the types who tend to gravitate around IIIF, and everything we do is guided by our code of conduct. Overall, we think there are hundreds of adopters of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.
+
+{% include blocks/cards.html items=page.more_resources_cards %}
+
+{{ layout.block-end }}
+
+
+
+
+{{ layout.block-start }}
+
+## Upcoming Events
+
+{% include blocks/event-cards.html items=page.events %}
+
+
+{{ layout.block-end }}
+
+
+
+{{ layout.block-start }}
+
+## IIIF Consortium
+
+IIIF is supported by a membership consortium, with members from all over the world including Stanford University, Europeana, Kansai University, and many more.
+
+You can join the consortium as a full or associate member. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the Technical Review Committee or Executive Committee. The consortium has staff, who are stewards looking after the community, organizing events and training, and helping things run smoothly.
+
+{% include misc/button.html button_label="Join the Consortium" button_link="#" %}
+
+
+{{ layout.block-end }}
