@@ -1,6 +1,7 @@
 baseurl:        '/iiif-website'
 theme:          iiifc-theme
 source:         source
+permalink:      pretty
 
 plugins:
   - jekyll-data
