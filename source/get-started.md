@@ -2,56 +2,60 @@
 layout: default
 title: Get Started
 subtitle: >
-  There are two main ways to get started with IIIF. As an implementer or developer, you can make digital resources available on the web using IIIF. As an end user, you may be working with materials already hosted on the Web by someone else.
+  Access a robust set of resources for implementers and end users of IIIF.
 permalink: /get-started/
 hero:
   image: ''
-developer_resources_cards:
-  - label: Image Viewers
+implement_tabs:
+  - label: 1. Integrate a Core API
+    content: Image and Presentation are the core APIs you can  install first. Choose to retrieve images with the Image API or the image’s metadata with the Presentation API.
+    cards:
+      -
+  - label: 2. Integrate Viewers
+    content: It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+    cards:
+      -
+  - label: 3. Enable Other Features
+    content: It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    cards:
+      -
+end_user_cards:
+  - label: Find IIIF resources
+    description: Discover IIIF-enabled materials from institutions around the world.
+    image: ''
+    link: ''
+  - label: Use IIIF resources
+    description: Use preexisting IIIF-enabled materials for teaching and research across sites and tools.
+    image: ''
+    link: ''
+  - label: Learn how it works
+    description: Access our open training materials to learn the basics of how resources are made available via IIIF.
+    image: ''
+    link: ''
+implementer_cards:
+  - label: Learn about image viewers
     description: There are several popular viewers, each with different capabilities.
     image: ''
-    link_text: Learn more
     link: ''
-  - label: Image Servers
+  - label: Learn about image servers
     description: See the most commonly used IIIF-compliant image servers.
     image: ''
-    link_text: Learn more
     link: ''
-  - label: IIIF Tools
-    description: Review the community-maintained Awesome IIIF list.
+  - label: Learn about IIIF tools
+    description: Review the community-maintained “Awesome IIIF” list and see what’s available to you.
     image: ''
-    link_text: Learn more
     link: ''
-  - label: IIIF Validators
-    description: Try out the IIIF Validators for the Image API or the Presentation API.
+  - label: Test an implementation
+    description: Try out the IIIF validators for the Image API or the Presentation API.
     image: ''
-    link_text: Learn more
     link: ''
-  - label: Find Recipes
-    description: Browse the Cookbook, a community initiative to string together commonly used functions into “recipes” that can be reused easily.
+  - label: Find recipes
+    description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
     image: ''
-    link_text: Learn more
     link: ''
-  - label: More Resources
-    description: Read guides to pre-implementation requirements, interoperability best practices, UX best practices, and more.
+  - label: Read guides
+    description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
     image: ''
-    link_text: Learn more
-    link: ''
-end_users_cards:
-  - label: Finding IIIF Resources
-    description: How to find IIIF materials from dozens of institutions around the world.
-    image: ''
-    link_text: Learn more
-    link: ''
-  - label: Using IIIF Resources
-    description: How to use preexisting IIIF materials for teaching and research.
-    image: ''
-    link_text: Learn more
-    link: ''
-  - label: Implementation Basics
-    description: Access our open training materials to learn the basics of implementing IIIF.
-    image: ''
-    link_text: Learn more
     link: ''
 more_resources_cards:
   - label: Talks
@@ -67,30 +71,13 @@ more_resources_cards:
     link_text: Learn more
     link: ''
 ---
+
 {{ layout.block-start }}
 
 ## Implement A Custom Experience
 
-### 1. Integrate a Core API
-
-Image and Presentation are the core APIs you can  install first. Choose to retrieve images with the Image API or the image’s metadata with the Presentation API.
-
-### 2. Integrate Viewers
-
-### 3. Enable Other Features
-
-
-{% include misc/button.html button_label="View All Docs" button_link="/api/" %}
-
-{{ layout.block-end }}
-
-
-
-{{ layout.block-start }}
-
-## Developer Resources
-
-{% include blocks/cards.html items=page.developer_resources_cards %}
+{% include blocks/tabs.html tabs=page.implement_tabs %}
+{% include misc/button.html button_label="View All Docs" button_link=theme.api_url %}
 
 {{ layout.block-end }}
 
@@ -100,9 +87,17 @@ Image and Presentation are the core APIs you can  install first. Choose to retri
 
 ## End Users
 
-There are two main ways to get started with IIIF. As an implementer or developer, you can make digital resources available on the web using IIIF. As an end user, you may be working with materials already hosted on the Web by someone else.
+{% include blocks/cards.html items=page.end_user_cards %}
 
-{% include blocks/cards.html items=page.end_users_cards %}
+{{ layout.block-end }}
+
+
+
+{{ layout.block-start }}
+
+## Implementers
+
+{% include blocks/cards.html items=page.implementer_cards %}
 
 {{ layout.block-end }}
 

@@ -19,6 +19,16 @@ demos:
   - image: assets/uploads/silos-3.webp
     link: /demos/
     label: This Amazing Organization enables research.
+features:
+  - label: Great for researchers
+    description: Access, examine, compare, and annotate high-quality resources, then share your work with others. IIIF enables easy use across repositories, with tools to aid research and presentation.
+    image: assets/images/icons/research@2x.webp
+  - label: Efficient for developers
+    description: Publish once, use often! IIIF lets you serve digital objects to your own site, or to sites using IIIF anywhere in the world–all while giving users a high-quality viewing experience for multiple file types.
+    image: assets/images/icons/developer@2x.webp
+  - label: Practical for leaders
+    description: Share your collections as widely as possible. IIIF is being adopted by global leading institutions as a cost-effective way to serve billions of digital objects online without vendor lock-in and with strong open-source, community-driven ethics.
+    image: assets/images/icons/leader@2x.webp
 community_banner:
   image: "assets/images/heroes/event@3x.webp"
   button:
@@ -71,7 +81,7 @@ Join a call (newcomers welcome!)
 {{ layout.block-start }}
 
 ## Simplify and enhance your work
-{% include blocks/features.html items=site.data.features %}
+{% include blocks/features.html items=page.features %}
 {% include misc/button.html button_label="Why IIIF" button_link="/get-started/" %}
 
 {{ layout.block-end }}
