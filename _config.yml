@@ -13,11 +13,3 @@ notification:
   subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   link: '#'
   link_label: This is a test link
-
-defaults:
--
-   scope:
-     path: ""
-     type: "pages"
-   values:
-     permalink: "/:path/:basename/"
