@@ -1,5 +1,7 @@
-PATH
-  remote: iiifc-theme
+GIT
+  remote: https://github.com/mnyrop/iiifc-theme.git
+  revision: fea4a37e90e9568953ee67aca720cf7ead250f85
+  branch: main
   specs:
     iiifc-theme (0.1.0)
       jekyll (>= 4.0, < 5.0)
