@@ -1,54 +1,54 @@
 - name: JSTOR
   link:
-  logo: http://localhost:4000/assets/uploads/logos/JSTOR_Logo2017_90_2x.png
+  logo: assets/uploads/logos/JSTOR_Logo2017_90_2x.png
 - name: OCLC/Content DM
   link:
-  logo: http://localhost:4000/assets/uploads/logos/OCLC_Logo_V_Color_NoTag.png
+  logo: assets/uploads/logos/OCLC_Logo_V_Color_NoTag.png
 - name: DPLA
   link:
-  logo: http://localhost:4000/assets/uploads/logos/DPLA_square_logo.jpg
+  logo: assets/uploads/logos/DPLA_square_logo.jpg
 - name: Europeana
   link:
-  logo: http://localhost:4000/assets/uploads/logos/logo_Europeana_basic_portrait_black.png
+  logo: assets/uploads/logos/logo_Europeana_basic_portrait_black.png
 - name: Internet Archive
   link:
-  logo: http://localhost:4000/assets/uploads/logos/ia-logo-pos-300x300.jpg
+  logo: assets/uploads/logos/ia-logo-pos-300x300.jpg
 - name: Kyoto University
   link:
-  logo: http://localhost:4000/assets/uploads/logos/kyoto_university.png
+  logo: assets/uploads/logos/kyoto_university.png
 - name: Stanford University
   link:
-  logo: http://localhost:4000/assets/uploads/logos/stanford_wordmark-nospace-stacked-red.png
+  logo: assets/uploads/logos/stanford_wordmark-nospace-stacked-red.png
 - name: Harvard University
   link:
-  logo: http://localhost:4000/assets/uploads/logos/HarvardUniversity_Horizontal_Large_Shield_RGB.png
+  logo: assets/uploads/logos/HarvardUniversity_Horizontal_Large_Shield_RGB.png
 - name: NYU
   link:
-  logo: http://localhost:4000/assets/uploads/logos/nyu_logo.png
+  logo: assets/uploads/logos/nyu_logo.png
 - name: University of Toronto
   link:
-  logo: http://localhost:4000/assets/uploads/logos/University_of_Toronto-Logo.png
+  logo: assets/uploads/logos/University_of_Toronto-Logo.png
 - name: UCLA
   link:
-  logo: http://localhost:4000/assets/uploads/logos/ucla_logo.png
+  logo: assets/uploads/logos/ucla_logo.png
 - name: Wellcome Trust
   link:
-  logo: http://localhost:4000/assets/uploads/logos/Wellcome_Collection_logo.svg.png
+  logo: assets/uploads/logos/Wellcome_Collection_logo.svg.png
 - name: Library of Congress
   link:
-  logo: http://localhost:4000/assets/uploads/logos/LOC_open-graph-logo.png
+  logo: assets/uploads/logos/LOC_open-graph-logo.png
 - name: The Vatican Library
   link:
-  logo: http://localhost:4000/assets/uploads/logos/DVL.png
+  logo: assets/uploads/logos/DVL.png
 - name: Egyptian National Library and Archives
   link: http://www.darelkotob.gov.eg/ar-eg/Pages/Home.aspx
-  logo: http://localhost:4000/assets/uploads/logos/330px-National_Library_Egypt.jpg
+  logo: assets/uploads/logos/330px-National_Library_Egypt.jpg
 - name: The British Museum
   link:
   logo:
 - name: J Paul Getty Trust
   link:
-  logo: http://localhost:4000/assets/uploads/logos/getty_signoff_horizontal.jpg
+  logo: assets/uploads/logos/getty_signoff_horizontal.jpg
 - name: Walters Art Museum
   link:
   logo:
@@ -60,4 +60,4 @@
   logo:
 - name: Coggap
   link:
-  logo: http://localhost:4000/assets/uploads/logos/cogapp_logo.jpg
+  logo: assets/uploads/logos/cogapp_logo.jpg
