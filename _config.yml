@@ -1,5 +1,6 @@
 theme:          iiifc-theme
 source:         source
+permalink:      pretty
 
 plugins:
   - jekyll-data
