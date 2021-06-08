@@ -22,6 +22,7 @@ task :check_html do
                                          validation: {report_mismatched_tags:true, report_invalid_tags: true },
                                          check_img_http:true, 
                                          disable_external: true,
+                                         empty_alt_ignore: true,
                                          ).run
 end
 
