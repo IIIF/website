@@ -66,11 +66,12 @@ Scholars, software people, researchers, and culture workers are the types who te
 
 ## IIIF Consortium
 
+{% capture capture_text %}
 IIIF is supported by a membership consortium, with members from all over the world including Stanford University, Europeana, Kansai University, and many more.
-
+<br><br>
 You can join the consortium as a full or associate member. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the Technical Review Committee or Executive Committee. The consortium has staff, who are stewards looking after the community, organizing events and training, and helping things run smoothly.
+{% endcapture %}
 
-{% include misc/button.html button_label="Join the Consortium" button_link="#" %}
-
+{% include blocks/image-and-text.html image_align='left' image='assets/images/defaults/blank-image.png' content=capture_text button_label="Join the Consortium" button_link="#" %}
 
 {{ layout.block-end }}

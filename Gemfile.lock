@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: 0e7b5eab0c41762d07aaf0ce8fd8bb5101195444
+  revision: 51e36659aea819a58932a5690ad1b144fce8c62d
   branch: main
   specs:
     iiifc-theme (0.1.0)
@@ -22,11 +22,7 @@ GEM
     ethon (0.14.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
-    eventmachine (1.2.7-x86-mingw32)
     ffi (1.15.1)
-    ffi (1.15.1-x64-mingw32)
-    ffi (1.15.1-x86-mingw32)
     forwardable-extended (2.6.0)
     html-proofer (3.19.1)
       addressable (~> 2.3)
@@ -77,10 +73,6 @@ GEM
     nokogiri (1.11.7)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
-    nokogiri (1.11.7-x64-mingw32)
-      racc (~> 1.4)
-    nokogiri (1.11.7-x86-mingw32)
-      racc (~> 1.4)
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
     parallel (1.20.1)
@@ -98,8 +90,6 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    sassc (2.4.0-x64-mingw32)
-      ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     typhoeus (1.4.0)
@@ -109,9 +99,6 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
-  x86-mingw32
-  x86-mswin32
 
 DEPENDENCIES
   html-proofer
