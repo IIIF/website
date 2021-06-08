@@ -5,7 +5,7 @@ subtitle: >
   Access a robust set of resources for implementers and end users of IIIF.
 permalink: /get-started/
 hero:
-  image: ''
+  image: "assets/images/heroes/hero-2@3x.webp"
 implement_tabs:
   - label: 1. Integrate a Core API
     content: Image and Presentation are the core APIs you can  install first. Choose to retrieve images with the Image API or the image’s metadata with the Presentation API.
