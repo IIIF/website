@@ -258,7 +258,7 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [matrix]: http://bit.ly/2PJon2F 
 [mirador-ggroup]: https://groups.google.com/forum/#!forum/mirador-tech  
 [mhn-homepage]: http://mhn.acervos.museus.gov.br  
-[mcn-sig]: http://mcn.edu/community/sigs/iiif-sig/
+[mcn-sig]: https://mcn.edu/community/mcn-sigs/iiif-sig/
 [mcn-denver]: http://conference.mcn.edu/2018/about.cfm 
 [mnemoscene]: http://mnemoscene.io/ 
 [morphosource]: https://www.morphosource.org/ 

@@ -96,7 +96,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Archiving Conference, May 2017
 * [Early Modern Manuscripts Online: New Directions in Teaching and Research][folger-event] at the Folger, May 2017
 * NISO Virtual Conference: Images: Digitization & Preservation of Special Collections in Libraries, Museums and Archives, June 2017
-* [Workshop zur Interoperabilität von digitalen Objekten und Metadaten][basel-event] (Workshop about interoperability of digital objects and metadata), hosted by the University of Basel, June 2017
+* Workshop zur Interoperabilität von digitalen Objekten und Metadaten (Workshop about interoperability of digital objects and metadata), hosted by the University of Basel, June 2017
 * [Open Repositories][or], June 2017
 * [Leeds International Medieval Congress][leeds], July 2017
 * Philadelphia Museum of Art, July 2017
@@ -270,7 +270,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [sfmoma]: https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma%7Csort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [folger-event]: http://folgerpedia.folger.edu/Early_Modern_Manuscripts_Online:_New_Directions_in_Teaching_and_Research
-[basel-event]: http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/termine-veranstaltungen/sammlungsuebergreifend-forschen/
 [or]: https://web.archive.org/web/20171119044524/https://or2017.net/
 [digipalooza]: https://digipalooza.com/
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
