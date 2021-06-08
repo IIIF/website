@@ -109,7 +109,7 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 [dlf]: https://www.diglib.org/about/code-of-conduct/
 [clir]: https://www.clir.org/about/news/deepening-resolve
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[guidelines]: {{ site.url }}{{ site.baseurl }}/event/conduct-guidelines/
+# [guidelines]: {{ site.url }}{{ site.baseurl }}/event/conduct-guidelines/
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
 [volunteer-form]: https://goo.gl/forms/KCrb3u86W0e4LhC23
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
