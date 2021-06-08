@@ -12,47 +12,56 @@ developer_resources_cards:
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
   - label: Image Servers
     description: See the most commonly used IIIF-compliant image servers.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
   - label: IIIF Tools
     description: Review the community-maintained Awesome IIIF list.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
   - label: IIIF Validators
     description: Try out the IIIF Validators for the Image API or the Presentation API.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
   - label: Find Recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into “recipes” that can be reused easily.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
   - label: More Resources
     description: Read guides to pre-implementation requirements, interoperability best practices, UX best practices, and more.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
 end_users_cards:
   - label: Finding IIIF Resources
     description: How to find IIIF materials from dozens of institutions around the world.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
   - label: Using IIIF Resources
     description: How to use preexisting IIIF materials for teaching and research.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
   - label: Implementation Basics
     description: Access our open training materials to learn the basics of implementing IIIF.
     image: ''
     link_text: Learn more
     link: ''
+    alt_text: "TKTK"
 more_resources_cards:
   - label: Talks
     description: Learn from other’s experience implementing IIIF by watching conference presentations.
