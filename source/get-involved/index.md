@@ -5,7 +5,7 @@ subtitle: >
   The International Image Interoperability Framework (IIIF) encompasses a large and growing community of interested individuals, organizations, a Consortium.
 permalink: /get-involved/
 hero:
-  image: ''
+  image: "assets/images/heroes/event@2x.webp"
 events:
   - date: 2021-04-04
     title: IIIF Museums Call
@@ -20,24 +20,27 @@ events:
     title: IIIF Discovery Group
     location: Virtual (Zoom)
 more_resources_cards:
-  - label: Share your news & events
-    description: Send us your latest IIIF news and events listings for inclusion in our monthly newsletter.
-    link: ''
-  - label: Host an event
-    description: Want to host a local in-person or online event? We have a guide for that.
-    link: ''
-  - label: Watch a recording
-    description: Catch up on presentations from recent events.
-    link: ''
-  - label: Join IIIF Slack
-    description: Join the IIIF Slack team - lots of activity, specific channels for groups, and more!
+  - label: Explore our groups
+    description: Our groups discuss elements or contexts of IIIF usage or to agree on direction of an idea or initiative.
     link: ''
   - label: Newsletter Sign up
     description: Sign up for the newsletter - news about events, training, cool projects, and community updates
     link: ''
-  - label: Explore our groups
-    description: Our groups discuss elements or contexts of IIIF usage or to agree on direction of an idea or initiative.
+ 
+  - label: Share your news & events
+    description: Send us your latest IIIF news and events listings for inclusion in our monthly newsletter.
     link: ''
+  - label: Watch a recording
+    description: Catch up on presentations from recent events.
+    link: ''
+  - label: Host an event
+    description: Want to host a local in-person or online event? We have a guide for that.
+    link: ''
+  - label: Join IIIF Slack
+    description: Join the IIIF Slack team - lots of activity, specific channels for groups, and more!
+    link: ''
+  
+  
 ---
 {{ layout.block-start }}
 ## Join our Community
