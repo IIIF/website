@@ -24,6 +24,7 @@ end_user_cards:
     description: Discover IIIF-enabled materials from institutions around the world.
     image: ''
     link: ''
+    alt: 'test'
   - label: Use IIIF resources
     description: Use preexisting IIIF-enabled materials for teaching and research across sites and tools.
     image: ''
