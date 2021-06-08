@@ -44,7 +44,7 @@ discovery:
   image: assets/images/icons/shape@2x.webp
   alt_text: Change Discovery API icon
   latest:
-    label: Draft 0.9
+    label: Draft 0.9.2
 content-state:
   label: Content State API
   description: Generate a very specific link to a particular view of an object, like a specific area on a particulat page rotated at a certain angle.
