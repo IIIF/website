@@ -3,23 +3,17 @@ title: "How to Join the IIIF Consortium, and Membership Benefits"
 id: join-consortium
 layout: page
 tags: [join ]
-notification:
-  enabled: true
-  title: This website design is in POST-beta.
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. sdflkjsadflkadksflsksaklfjasfkljsadl 
-  link: '#'
-  link_label: This is a test link
+hero:
+  image: ""
+  title: Join the IIIF Consortium
+  subtitle: IIIF is a grassroots, community-driven effort to make digital image and audio/visual resource delivery more effective and sustainable for institutions and end users.
+  button:
+    label: "Join the Consortium"
+    link: "mailto:admin@iiif.io?subject='We'd like to join the IIIF Consortium"
+
 ---
-{: class="iiif-notification message message-header subtitle" }
-To join the IIIF Consortium, send an email to [admin@iiif.io](mailto:admin@iiif.io).
 
-
-
-# Join the Consortium
-
-IIIF is a grassroots, community-driven effort to make digital image and audio/visual resource delivery more effective and sustainable for institutions and end users. We rely on IIIF Consortium (IIIF-C) members to provide leadership and sustainability in support of our shared goals:
-
-
+We rely on IIIF Consortium (IIIF-C) members to provide leadership and sustainability in support of our shared goals:
 
 *   Providing researchers--and other audiences--an unprecedented level of uniform and rich access to digitized image, audio, and video resources hosted around the world
 *   Defining and maintaining a community-driven set of APIs that support interoperability between repositories
