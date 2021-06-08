@@ -9,16 +9,18 @@ hero:
     label: "Get Started"
     link: "/get-started"
 demos:
-  - image: assets/uploads/silos-1.webp
-    alt_text: This is my alt text
+  - image: assets/uploads/biblissima_1.png
+    alt_text: "Biblissima screenshot"
     link: /demos/
-    label: This Amazing Organization annotates artwork.
-  - image: assets/uploads/silos-2.webp
+    label: Biblissima digitally reunites missing illuminations with their original pages.
+  - image: assets/uploads/kurushiji_ai.png
+    alt_text: "KuroNet screenshot"
     link: /demos/
-    label: This Amazing Organization enables viewing.
-  - image: assets/uploads/silos-3.webp
+    label: The KuroNet Cursive Script Recognition Viewer makes historical Japanese cursive readable.
+  - image: assets/uploads/exhibit_2.png
+    alt_text: "Exhibit screenshot"
     link: /demos/
-    label: This Amazing Organization enables research.
+    label: Exhibit.so allows users to easily develop guided annotation experiences for individual or grouped IIIF resources.
 community_banner:
   image: "assets/images/heroes/event@3x.webp"
   button:
