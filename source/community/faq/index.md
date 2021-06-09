@@ -21,7 +21,7 @@ In short, IIIF enables better, faster and cheaper image delivery. It lets you le
 
 ## What are the benefits of IIIF?
 
-To see how IIIF serves other institutions and researchers, check out the [Demos]({{ page.webprefix }}/apps-demos/#implementation-demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
+To see how IIIF serves other institutions and researchers, check out the [Demos]({{ site.url }}{{ site.baseurl }}/demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
 
 IIIF allows for:
 
@@ -88,15 +88,15 @@ Yes! Version 3 of the Presentation API (currently in Beta release) allows for ti
 There is no formal IIIF specification for 3D objects at this point, but there is an active and thriving [IIIF 3D Community group][3d] keeping tabs on what's happening with 3D in the cultural heritage and STEM communities.
 
 
-[search]: {{ page.webprefix }}/api/search/
-[presentation]: {{ page.webprefix }}/api/presentation/
-[image]: {{ page.webprefix }}/api/image/
-[discovery]: {{ page.webprefix }}/api/discovery/
-[apps-demos]: {{ site.url }}{{ site.baseurl }}/apps-demos
+[search]: {{ site.iiifc-theme.root_url }}/api/search/
+[presentation]: {{ site.iiifc-theme.root_url }}/api/presentation/
+[image]: {{ site.iiifc-theme.root_url }}/api/image/
+[discovery]: {{ site.iiifc-theme.root_url }}/api/discovery/
+[apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
 [community-list]: {{ site.url }}{{ site.baseurl }}/community/
-[auth]: {{ page.webprefix }}/api/auth/
+[auth]: {{ site.iiifc-theme.root_url }}/api/auth/
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/

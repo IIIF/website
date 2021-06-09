@@ -2,7 +2,7 @@
 layout: default
 title: Get Started
 subtitle: >
-  Access a robust set of resources for implementers and end users of IIIF.
+  There are two main ways to get started with IIIF. As an implementer or developer, you can make digital resources available on the web using IIIF. As an end user, you may be working with materials already hosted on the Web by someone else. 
 permalink: /get-started/
 hero:
   image: "assets/images/heroes/hero-2@3x.webp"
@@ -23,16 +23,16 @@ end_user_cards:
   - label: Find IIIF resources
     description: Discover IIIF-enabled materials from institutions around the world.
     image: ''
-    link: ''
+    link: 'https://guides.iiif.io/'
     alt: 'test'
   - label: Use IIIF resources
     description: Use preexisting IIIF-enabled materials for teaching and research across sites and tools.
     image: ''
-    link: ''
+    link: 'https://iiif.io/explainers/using_iiif_resources/'
   - label: Learn how it works
     description: Access our open training materials to learn the basics of how resources are made available via IIIF.
     image: ''
-    link: ''
+    link: 'https://training.iiif.io/iiif-online-workshop/'
 implementer_cards:
   - label: Learn about image viewers
     description: There are several popular viewers, each with different capabilities.
@@ -72,6 +72,7 @@ more_resources_cards:
     link_text: Learn more
     link: ''
 ---
+
 
 {{ layout.block-start }}
 

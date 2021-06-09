@@ -47,5 +47,5 @@ It is not expected that every editor comment on every issue, though they should 
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/ "Memorandum of Understanding covering the establishment of the IIIF Consortium"
 [acceptance-criteria-for-merging-changes]: #acceptance-criteria-for-merging-changes "Acceptance Criteria for Merging Changes"
 [editorial-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/ "IIIF Editorial Process"
-[spec-disclaimer]: {{page.webprefix}}/api/annex/notes/disclaimer/ "Specification Disclaimer"
+[spec-disclaimer]: {{ site.iiifc-theme.root_url }}/api/annex/notes/disclaimer/ "Specification Disclaimer"
 [change-log]: #change-log "Change Log"

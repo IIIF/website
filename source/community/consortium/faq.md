@@ -64,13 +64,13 @@ layout: page
 
 [vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
 [apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
-[specs]: {{ page.webprefix }}/api/
+[specs]: {{ site.iiifc-theme.root_url }}/api/
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
 [news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
 [community-list]: {{ site.url }}{{ site.baseurl }}/community/
-[auth]: {{ page.webprefix }}/api/auth/
+[auth]: {{ site.iiifc-theme.root_url }}/api/auth/
 [av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
 [iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
