@@ -60,12 +60,11 @@ layout: page
 
 ## Can I request a letter of support from the IIIF Consortium for my IIIF-related grant application?
 
- * Yes, letters of support from the IIIF-C for IIIF-related grant applications may be requested according to the [IIIF Support for Grant Proposals policy][support-policy].
+ * Yes, letters of support from the IIIF-C for IIIF-related grant applications may be requested, though preference for support is given to IIIF Consortium members; get in touch with us via admin@iiif.io.
 
-[support-policy]: {{ site.url }}{{ site.baseurl }}/community/policy/support/
 [vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
-[apps-demos]: {{ site.url }}{{ site.baseurl }}/showcase
-[specs]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
+[specs]: {{ page.webprefix }}/api/
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
 [news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq

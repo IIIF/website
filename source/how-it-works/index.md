@@ -11,7 +11,7 @@ hero:
 
 ## The basics 
 
-Not everyone reads [API docs](https://iiif.io/api/), so we've created a plain language guide to how IIIF works. IIIF can be a bit overwhelming at first, especially if you’re not a programmer. The community is here to help, so if you’re stuck, reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list, [iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss). Or if you're an end user looking for IIIF images, tools, training on how to work with materials, [we've got you covered](/get-started/#end-users).
+Not everyone reads [API docs](https://iiif.io/api/), so we've created a plain language guide to how IIIF works. IIIF can be a bit overwhelming at first, especially if you’re not a programmer. The community is here to help, so if you’re stuck, reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list, [iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss). Or if you're an end user looking for IIIF images, tools, training on how to work with materials, [we've got you covered]({{ site.url }}{{ site.baseurl }}/get-started/#end-users).
 
 ---
 
