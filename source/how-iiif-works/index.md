@@ -3,7 +3,7 @@ layout: page
 title: How IIIF Works
 subtitle: >
   Learn about the components of IIIF and how they fit together.
-permalink: /how-it-works/
+permalink: /how-iiif-works/
 hero:
   image: ""
 
