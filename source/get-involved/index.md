@@ -26,7 +26,6 @@ more_resources_cards:
   - label: Newsletter Sign up
     description: Sign up for the newsletter - news about events, training, cool projects, and community updates
     link: ''
- 
   - label: Share your news & events
     description: Send us your latest IIIF news and events listings for inclusion in our monthly newsletter.
     link: ''
@@ -39,8 +38,8 @@ more_resources_cards:
   - label: Join IIIF Slack
     description: Join the IIIF Slack team - lots of activity, specific channels for groups, and more!
     link: ''
-  
-  
+
+
 ---
 {{ layout.block-start }}
 ## Join our Community
