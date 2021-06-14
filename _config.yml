@@ -2,7 +2,7 @@ theme:          iiifc-theme
 source:         source
 permalink:      pretty
 
-url:            'https://preview.iiif.io/root/wireframe'
+url:            ''
 api_url:        'https://preview.iiif.io/api/wireframe/api'
 
 plugins:
