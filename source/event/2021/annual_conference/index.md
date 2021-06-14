@@ -36,15 +36,11 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 
 The IIIF Annual Conference is generously supported by the following Conference Sponsors:
 
-<!-- **Gold sponsors**  <br>
-<a href="https://www.phaseone.com/" style="border-bottom: none"><img src="https://www.phaseone.com/~/media/Phase%20One/ASeriesTest/logo.ashx?h=75&la=en&w=120&hash=C7DE7F6657393312DB60AC3E388019D56CB6DAD4" alt='phase one logo' style="width: 300px"></a>
-<a href="https://www.cogapp.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/Cogapp_Logo_lg_black.png" alt='Cogapp logo' style="width: 300px"></a>
-<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a> -->
 
-<!-- **Silver sponsors**  <br>
-<a href="https://www.textandbytes.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/text_and_bytes_logo.png" alt='text and bytes logo' style="width: 300px"></a>
-<a href="http://www.casalini.it/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/logo_casalini_atcult_300px.png" alt='Casalini logo' style="width: 300px"></a>
- -->
+**Silver sponsors**  <br>
+
+<a href="https://exlibrisgroup.com/products/alma-library-services-platform/digital-resources/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/ex_libris.png" alt="Ex Libris Logo" style="width: 300px;"></a>
+
 
 **Bronze sponsors**  <br>
 <!-- <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a> -->
