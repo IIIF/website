@@ -34,7 +34,6 @@ features:
     description: Share your collections as widely as possible. IIIF is a cost-effective way to serve billions of digital objects with open-source, community-driven ethics.
     image: assets/images/icons/leader@2x.webp
     alt_text: Hand holding flag icon
-
 community_banner:
   image: "assets/images/heroes/event@3x.webp"
   button:
@@ -42,6 +41,19 @@ community_banner:
     link: "/get-involved"
   title: "Join the community"
   subtitle: "IIIF community groups tackle a range of topics, from implementing IIIF for specific communities to crafting new technical specifications."
+events:
+  - date: 2021-04-04
+    title: IIIF Museums Call
+    location: Virtual (Zoom)
+  - date: 2021-03-23
+    title: IIIF Maps Call
+    location: Virtual (Zoom)
+  - date: 2021-02-12
+    title: IIIF Archives Call
+    location: Virtual (Zoom)
+  - date: 2021-01-01
+    title: IIIF Discovery Group
+    location: Virtual (Zoom)
 stay_connected_cards:
   - label: Attend an event
     description: The community hosts many virtual and in-person trainings, conferences, and other events.
@@ -64,20 +76,6 @@ Most of the images and audio/visual resources that are fundamental to research e
 
 {% include blocks/demos.html items=page.demos %}
 {% include misc/button.html button_label="View Demos" button_link="/demos/" %}
-
-{{ layout.block-end }}
-
-
-
-{{ layout.block-start }}
-
-## Upcoming community calls
-Join a call (newcomers welcome!)
-{% for call in site.data.calls %}
-- **{{ call.name }}** ({{ call.date }} – {{ call.time }})
-{% endfor %}
-
-{% include misc/button.html button_label="View full calendar" button_link="#" %}
 
 {{ layout.block-end }}
 
@@ -120,6 +118,15 @@ IIIF is leveraged by aggregators, research institutions, national libraries, arc
 {{ layout.block-end }}
 
 
+{{ layout.block-start }}
+
+## Featured Events & News
+
+{% include blocks/event-cards.html items=page.events %}
+{% include misc/button.html button_label="View All" button_link="#" %}
+
+
+{{ layout.block-end }}
 
 
 
