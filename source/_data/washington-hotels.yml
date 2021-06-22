@@ -13,13 +13,13 @@
 - name: Hyatt Place Washington DC/National Mall
   address: Hyatt Place, Washington DC National Mall, 400 E Street SW Washington, DC 20024
   tel: +1 202 803 6110
-  url: https://dcnationalmall.place.hyatt.com/en/hotel/home.html
+  url: 
   lat: 38.882960
   lng: -77.018004
 - name: Hyatt Regency Washington on Capitol Hill
   address: 400 New Jersey Avenue NW, Washington, DC 20001
   tel: +1 202 737 1234
-  url: https://washingtondc.regency.hyatt.com/en/hotel/home.html
+  url:
   lat: 38.895421
   lng: -77.011648
 - name: JW Marriott, Washington, DC

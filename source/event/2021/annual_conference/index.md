@@ -59,6 +59,13 @@ Thanks to the 2021 program committee for their help with this event:
 
 ---
 
+## IIIF Zoom background
+
+Feel free to download and use IIIF zoom background used by the IIIF-Consortium staff during the conference and beyond. (And thanks to the Art Institute of Chicago for making the source image, [Flowering Cherry and Autumn Maples with Poem Slips](https://www.artic.edu/artworks/127643/flowering-cherry-and-autumn-maples-with-poem-slips), available as a public domain download.)
+
+
+---
+
 ## Agenda
 
 See below for a basic listing of conference sessions. You can search and filter the sessions using the tools to the right of the listings.
