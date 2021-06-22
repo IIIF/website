@@ -18,10 +18,11 @@ This event will include sessions that have been traditionally held at IIIF event
 
 In response to the lingering effects of the pandemic, it will also include the opportunity to host and attend regionally-focused online meetings aimed at networking and knowledge sharing with local attendees.
 
-**Registration is open until June 15th--sign up today!**
+<!-- **Registration is open until June 15th--sign up today!**
 
 <p class="register"><a href="https://www.eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357">Register</a></p>
 
+ -->
 
 ## Logistics
 * This event is free and open to all attendees
