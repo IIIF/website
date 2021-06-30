@@ -41,30 +41,30 @@ more_resources_cards:
 
 
 ---
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 ## Join our Community
 
 Scholars, software people, researchers, and culture workers are the types who tend to gravitate around IIIF, and everything we do is guided by our code of conduct. Overall, we think there are hundreds of adopters of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.
 
 {% include blocks/cards.html items=page.more_resources_cards %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Upcoming Events
 
 {% include blocks/event-cards.html items=page.events %}
 
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## IIIF Consortium
 
@@ -76,4 +76,4 @@ You can join the consortium as a full or associate member. Consortium members ca
 
 {% include blocks/image-and-text.html image_align='left' image='assets/images/defaults/blank-image.png' content=capture_text button_label="Join the Consortium" button_link="#" alt_text="The IIIF Consortium" %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}

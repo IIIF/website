@@ -69,7 +69,7 @@ stay_connected_cards:
     link: /get-involved
 ---
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Break down silos with free APIs
 Most of the images and audio/visual resources that are fundamental to research exist in silos, with access restricted to bespoke, locally-built applications. IIIF gives you and your audience freedom to work across barriers.
@@ -77,30 +77,30 @@ Most of the images and audio/visual resources that are fundamental to research e
 {% include blocks/demos.html items=page.demos %}
 {% include misc/button.html button_label="View Demos" button_link="/demos/" %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Simplify and enhance your work
 {% include blocks/features.html items=page.features %}
 {% include misc/button.html button_label="Why IIIF" button_link="/get-started/" %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Start building with open APIs
 The six IIIF APIs fit together to deliver endless possibilities.
 
 {% include blocks/api-cards.html link_text="View Docs" items=site.data.apis %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
@@ -108,17 +108,17 @@ The six IIIF APIs fit together to deliver endless possibilities.
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Trusted by global technology leaders
 IIIF is leveraged by aggregators, research institutions, national libraries, archives, museums, software companies, and digital agencies.
 
 {% include blocks/logo-grid.html items=site.data.institutions %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Featured Events & News
 
@@ -126,15 +126,15 @@ IIIF is leveraged by aggregators, research institutions, national libraries, arc
 {% include misc/button.html button_label="View All" button_link="#" %}
 
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Get involved and stay connected
 Anyone can participate in the IIIF community. Find the way that’s right for you!
 
 {% include blocks/cards.html items=page.stay_connected_cards %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}

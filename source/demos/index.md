@@ -37,7 +37,7 @@ demos:
     alt_text: TKTK
 ---
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Create possibilities with IIIF basics
 
@@ -57,10 +57,10 @@ Implementing IIIF provides flexibility in a wide variety of use cases.
 
 
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Unite objects to enhance collections
 
@@ -75,9 +75,9 @@ Implementing IIIF provides flexibility in a wide variety of use cases.
 {% include content/full-width-image.html image="assets/uploads/science_stories_1.png" alt_text="Scientstories.io screenshot" caption="Science Stories assembles digitized resources from diverse collections to highlight the research and experiences of historical and contemporary scientists. In this example, IIIF-enabled photographs from the Smithsonian Institute Archives and National Portrait Gallery (US) show physicist Chien-Shiung Wu at work, alongside videos about her work and a timeline of her career. Each resource links back to its source repository, providing opportunities for further exploration." %}
 
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Contextualize with annotations
 
@@ -95,9 +95,9 @@ Exhibit.so
 Exhibit is an educational tool developed by the University of St Andrews and Mnemoscene in response to the sudden switch to remote teaching at the start of the 2020 global pandemic. It allows users to easily develop guided annotation experiences for individual or grouped IIIF resources. In this example, annotations guide the viewer through images illustrating Edweard Muybridge’s accidental creation of the first motion picture in the 1880’s. While the tool was developed for faculty at the University to use in teaching, they have made the tool openly available, and it works with any IIIF-enabled resource. 
 
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Break down silos with free APIs
 Much of the internet’s digitized image, audio, and visual resources are locked up in restricted silos. IIIF enables users to view zoom, pan, and add additional images for comparison--on one site, or across many times. It also allows annotations and multi-layer viewing, among many other options.
@@ -105,10 +105,10 @@ Much of the internet’s digitized image, audio, and visual resources are locked
 {% include blocks/demos.html items=page.demos %}
 {% include misc/button.html button_label="View Demos" button_link="/demos/" %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 
 ## Image Viewers
@@ -117,9 +117,9 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 {% include content/full-width-image.html image="assets/uploads/demo-screenshot.png" alt_text="A screenshot showing the National Museum of Sweden's IIIF implementation using Openseadragon" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Image Servers
 
@@ -127,9 +127,9 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 {% include content/full-width-image.html image="assets/uploads/demo-screenshot.png" alt_text="A screenshot showing the National Museum of Sweden's IIIF implementation using Openseadragon" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Experiments & Fun
 
@@ -137,14 +137,14 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 {% include content/full-width-image.html image="assets/uploads/demo-screenshot.png" alt_text="A screenshot showing the National Museum of Sweden's IIIF implementation using Openseadragon" caption="Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems." %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Get Started
 Anyone can participate in the IIIF community. Find what’s right for you!
 
 {% include blocks/cards.html items=page.get_started_cards %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}

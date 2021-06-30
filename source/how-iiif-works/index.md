@@ -62,7 +62,7 @@ From there:
 
 ________________________________________________________
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Key concepts you’ll encounter when working with IIIF
 
@@ -82,4 +82,4 @@ ________________________________________________________
 
 **Range:** a particular order of Canvases (as a basic example, think of the order of pages in a book, or the order of tracks on a music album)
 
-{{ layout.block-end }}
+{{ theme.block-end }}
