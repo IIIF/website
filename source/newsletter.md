@@ -5,6 +5,11 @@ hero:
     image: ""
 ---
 
+The IIIF newsletter comes out monthly, and features updates from the community, new implementations, and other news elements relevant to implementers and IIIF end users alike. 
+
+We accept submissions of items to the newsletter -- as long as it's IIIF related, just use [the newsletter submission form](https://docs.google.com/forms/d/e/1FAIpQLSetIpJYr9yq827QD7Bl0J31q4E2w0_O-8bUjoqX4XYKm7eU8A/viewform) and we'll add to the list of things for the next newsletter release. Thanks for helping us put it together!
+
+
 ## Newsletter signup
 
 Sign up to receive newsletters and announcements from IIIF.

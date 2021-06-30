@@ -7,3 +7,4 @@ Questions to address at some point:
 - Likewise, search for all TKTK and replace with real text
 - Figure out a proper way to handle acronyms.md issue? Without duplicating in every page
 - Need to double-check the dates of group meetings, and refresh calendar.js
+- Fix the "next call" partial idea that Glen suggested previously? 

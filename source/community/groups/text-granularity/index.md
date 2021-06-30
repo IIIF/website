@@ -39,5 +39,5 @@ The IIIF Text Granularity Technical Specification Group formed in the spring of 
 [zoom]: https://stanford.zoom.us/j/375412551
 [international-zoom]: https://zoom.us/zoomconference
 [newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
-[search]: {{ page.webprefix }}/api/search/
+[search]: {{ site.iiifc-theme.api_url }}/search/
 [charter]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/charter/

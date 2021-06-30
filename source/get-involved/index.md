@@ -22,22 +22,22 @@ events:
 more_resources_cards:
   - label: Explore our groups
     description: Our groups discuss elements or contexts of IIIF usage or to agree on direction of an idea or initiative.
-    link: ''
+    link: '/community/groups/'
   - label: Newsletter Sign up
     description: Sign up for the newsletter - news about events, training, cool projects, and community updates
-    link: ''
+    link: '/newsletter'
   - label: Share your news & events
     description: Send us your latest IIIF news and events listings for inclusion in our monthly newsletter.
-    link: ''
+    link: 'https://docs.google.com/forms/d/e/1FAIpQLSetIpJYr9yq827QD7Bl0J31q4E2w0_O-8bUjoqX4XYKm7eU8A/viewform'
   - label: Watch a recording
     description: Catch up on presentations from recent events.
-    link: ''
+    link: '/get-started/talks/'
   - label: Host an event
     description: Want to host a local in-person or online event? We have a guide for that.
-    link: ''
+    link: '/event/host-your-own-IIIF-event/'
   - label: Join IIIF Slack
     description: Join the IIIF Slack team - lots of activity, specific channels for groups, and more!
-    link: ''
+    link: 'http://bit.ly/iiif-slack'
 
 
 ---
@@ -74,6 +74,6 @@ IIIF is supported by a membership consortium, with members from all over the wor
 You can join the consortium as a full or associate member. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the Technical Review Committee or Executive Committee. The consortium has staff, who are stewards looking after the community, organizing events and training, and helping things run smoothly.
 {% endcapture %}
 
-{% include blocks/image-and-text.html image_align='left' image='assets/images/defaults/blank-image.png' content=capture_text button_label="Join the Consortium" button_link="#" alt_text="The IIIF Consortium" %}
+{% include blocks/image-and-text.html image_align='left' image='assets/images/defaults/blank-image.png' content=capture_text button_label="Join the Consortium" button_link="/community/consortium/join" alt_text="The IIIF Consortium" %}
 
 {{ layout.block-end }}
