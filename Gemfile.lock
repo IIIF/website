@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: 1dca7ea11987b33a97b144e147d90daa559f4588
-  branch: feature/block-handling
+  revision: 8589045a270c1694a2b521751ebaaef1a1d50b77
+  branch: main
   specs:
     iiifc-theme (0.1.0)
       jekyll (>= 4.0, < 5.0)
