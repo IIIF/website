@@ -1,7 +1,9 @@
-baseurl:        '/iiif-website'
 theme:          iiifc-theme
 source:         source
 permalink:      pretty
+
+root_url:       'https://marii.info/iiif-website'
+api_url:        'https://marii.info/iiif-api/api/'
 
 plugins:
   - jekyll-data
