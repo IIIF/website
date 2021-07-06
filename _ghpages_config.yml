@@ -4,7 +4,7 @@ theme:          iiifc-theme
 source:         source
 permalink:      pretty
 
-root_url:       ''
+root_url:       '/iiif-website'
 api_url:        'https://marii.info/iiif-api/api/'
 
 plugins:
