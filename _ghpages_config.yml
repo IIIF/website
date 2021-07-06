@@ -1,8 +1,10 @@
+url:            ''
+baseurl:        '/iiif-website'
 theme:          iiifc-theme
 source:         source
 permalink:      pretty
 
-root_url:       'https://marii.info/iiif-website'
+root_url:       ''
 api_url:        'https://marii.info/iiif-api/api/'
 
 plugins:
