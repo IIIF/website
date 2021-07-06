@@ -2,13 +2,14 @@ theme:          iiifc-theme
 source:         source
 permalink:      pretty
 
-url:            ''
-api_url:        'https://preview.iiif.io/api/wireframe/api'
+root_url:       ''
+api_url:        https://preview.iiif.io/api/wireframe/api
 
 plugins:
   - jekyll-data
   - jekyll-gzip
   - jekyll-redirect-from
+  - jekyll-liquify
 
 notification:
   enabled: true

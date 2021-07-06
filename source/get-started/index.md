@@ -53,7 +53,7 @@ implementer_cards:
   - label: Find recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
     image: ''
-    link: ''
+    link: "{{ site.api_url }}/cookbook/"
   - label: Read guides
     description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
     image: ''
