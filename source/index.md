@@ -86,7 +86,7 @@ Most of the images and audio/visual resources that are fundamental to research e
 
 ## Simplify and enhance your work
 {% include blocks/features.html items=page.features %}
-{% include misc/button.html button_label="Why IIIF" button_link="/get-started/" %}
+{% include misc/button.html button_label="Why IIIF" button_link="/get-started/why-iiif/" %}
 
 {{ theme.block-end }}
 
