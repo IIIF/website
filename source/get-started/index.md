@@ -2,7 +2,7 @@
 layout: default
 title: Get Started
 subtitle: >
-  There are two main ways to get started with IIIF. As an implementer or developer, you can make digital resources available on the web using IIIF. As an end user, you may be working with materials already hosted on the Web by someone else. 
+  There are two main ways to get started with IIIF. As an implementer or developer, you can make digital resources available on the web using IIIF. As an end user, you may be working with materials already hosted on the Web by someone else.
 permalink: /get-started/
 hero:
   image: "assets/images/heroes/hero-2@3x.webp"
@@ -53,7 +53,7 @@ implementer_cards:
   - label: Find recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
     image: ''
-    link: ''
+    link: "{{ site.api_url }}/cookbook/"
   - label: Read guides
     description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
     image: ''
@@ -73,42 +73,41 @@ more_resources_cards:
     link: ''
 ---
 
-
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Implement A Custom Experience
 
 {% include blocks/tabs.html tabs=page.implement_tabs %}
 {% include misc/button.html button_label="View All Docs" button_link=theme.api_url %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## End Users
 
 {% include blocks/cards.html items=page.end_user_cards %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## Implementers
 
 {% include blocks/cards.html items=page.implementer_cards %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
 
 
 
-{{ layout.block-start }}
+{{ theme.block-center-start }}
 
 ## More Resources
 
 {% include blocks/cards.html items=page.more_resources_cards %}
 
-{{ layout.block-end }}
+{{ theme.block-end }}
