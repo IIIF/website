@@ -20,7 +20,7 @@ Anyone can host a IIIF-related event in their region. You can use our short [gui
 
 ## Hosting the Annual Conference
 
-The annual conference is the main in-person gathering for the community. The IIIF Consortium puts out a call for hosts each year. Take a look at a [previous event schedule]({{ site.url }}{{ site.baseurl }}/event/past_events/), and if you’re interested in hosting, read on to learn about the typical format (which, we should add, is open to modification):
+The annual conference is the main in-person gathering for the community. The IIIF Consortium puts out a call for hosts each year. Take a look at a <span style="text-decoration:underline;">previous event schedule</span>, and if you’re interested in hosting, read on to learn about the typical format (which, we should add, is open to modification):
 
 **Day 1:**
 

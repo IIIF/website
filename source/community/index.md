@@ -2,6 +2,8 @@
 title: IIIF Community
 id: community
 layout: page
+hero:
+    image: "assets/uploads/2019-06-IIIF-Conference-0705.jpg"
 ---
 
 Scholars, software people, researchers, and culture workers are the types who tend to gravitate around IIIF, and everything we do is guided by our **[code of conduct]({{ site.url }}{{ site.baseurl }}/event/conduct/)**.

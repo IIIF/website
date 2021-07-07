@@ -111,7 +111,7 @@ Much of the internet’s digitized image, audio, and visual resources are locked
 {{ theme.block-center-start }}
 
 
-## Image Viewers
+## Choose Your Own Image Viewers
 
 There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular.
 
@@ -121,7 +121,7 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 {{ theme.block-center-start }}
 
-## Image Servers
+## Take Advantage of Open Image Servers
 
 There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular.
 
@@ -131,7 +131,7 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 {{ theme.block-center-start }}
 
-## Experiments & Fun
+## Explore Experiments & Fun
 
 There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular.
 

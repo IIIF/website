@@ -8,11 +8,11 @@ layout: page
 
 The IIIF Manuscripts Group formed following an [IIIF meeting in Ghent][ghent], Belgium in December 2015. Attendees at the Ghent meeting agreed that there needed to be a separate IIIF interest group focused on the experience of users working with images of hand-written materials in particular.
 
-The IIIF is a constantly expanding community; it covers a range of disciplines, institutions, research and national libraries, and non­profit image repositories. IIIF Manuscripts currently welcomes participation from all IIIF repositories with manuscript materials, scholars working with hand-written materials, and software developers interested in the particular problems presented by those materials.
+The IIIF is a constantly expanding community; it covers a range of disciplines, institutions, research and national libraries, and non-profit image repositories. IIIF Manuscripts currently welcomes participation from all IIIF repositories with manuscript materials, scholars working with hand-written materials, and software developers interested in the particular problems presented by those materials.
 
 ## Purpose
 
-The IIIF MSS Group seeks to advance aims of the [IIIF­C][iiifc], which are to reduce inefficiency and needless redundancy born from incompatibility in the current image delivery ecosystem. The group is committed to furthering the [goals of the IIIF][about], as well as its own specific goals:
+The IIIF MSS Group seeks to advance aims of the [IIIF-C][iiifc], which are to reduce inefficiency and needless redundancy born from incompatibility in the current image delivery ecosystem. The group is committed to furthering the [goals of the IIIF][about], as well as its own specific goals:
 
   * To keep interested institutions and projects up to date on advances in the IIIF initiative as they affect users of digitized manuscripts
   * To provide feedback to the IIIF community on repository and user experience from the perspective of manuscript curators and scholars
@@ -40,7 +40,7 @@ The IIIF MSS Group seeks to advance aims of the [IIIF­C][iiifc], which are to r
 
   * Online: [https://stanford.zoom.us/j/674108679][zoom-link]
 
-[ghent]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent/ "IIIF: Access to the World's Images - Ghent 2015"
+[ghent]: https://iiif.io/event/2015/ghent/ "IIIF: Access to the World's Images - Ghent 2015"
 [iiifc]: {{ site.url }}{{ site.baseurl }}/community/consortium/ "IIIF Consortium"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [manuscripts-folder]: https://drive.google.com/open?id=0B1IxI8f59JQkRHpqQUE3S04tSlU "IIIF Manuscripts Group"

@@ -121,13 +121,13 @@ The editorial committee _MUST_ provide a summary of all meetings, and _SHOULD_ p
 [use-cases]: https://github.com/IIIF/iiif-stories/issues "IIIF user stories and use cases"
 [iiif-github-issues]: https://github.com/IIIF/api/issues "IIIF issues"
 [iiif-github]: https://github.com/IIIF/api "IIIF Specifications on Github"
-[iiif-io]: {{ site.iiifc-theme.root_url }} "iiif.io"
-[iiif-semver]: {{ site.iiifc-theme.root_url }}/api/annex/notes/semver/ "Versioning of APIs"
+[iiif-io]: {{ site.root_url }} "iiif.io"
+[iiif-semver]: {{ site.api_url }}/annex/notes/semver/ "Versioning of APIs"
 [rfc-2119]: https://www.ietf.org/rfc/rfc2119.txt "RFC 2119"
 [mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/ "Memorandum of Understanding covering the establishment of the IIIF Consortium"
 [comm-call]: {{ site.url }}{{ site.baseurl }}/community/call/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[design-patterns]: {{ site.iiifc-theme.root_url }}/api/annex/notes/design_patterns/
-[image-30-changelog]: {{ site.iiifc-theme.root_url }}/api/image/3.0/change-log/ "Changes for IIIF Image API Version 3.0"
+[design-patterns]: {{ site.api_url }}/annex/notes/design_patterns/
+[image-30-changelog]: {{ site.api_url }}/image/3.0/change-log/ "Changes for IIIF Image API Version 3.0"
 [tsg-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/#iiif-technical-specification-groups
 [trc-process]: {{ site.url }}{{ site.baseurl }}/community/trc/#process "TRC Process"

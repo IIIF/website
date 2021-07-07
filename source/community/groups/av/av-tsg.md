@@ -35,8 +35,8 @@ The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipa
 
 [av-user-stories]: https://github.com/IIIF/iiif-av/issues "Audiovisual User Stories"
 [bl-workshop-2016-04]: https://goo.gl/iVXEFD "Use cases and notes from April 2015 workshop at British Library"
-[iiif-conf-2016]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/ "IIIF Conference 2016"
-[events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
+[iiif-conf-2016]: https://iiif.io/event/2016/newyork/ "IIIF Conference 2016"
+[events]: https://iiif.io/event/ "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [av-slack]: https://iiif.slack.com/messages/av/details/
 [av-folder]: https://drive.google.com/drive/folders/0B8SS5OUXWs4GZ0ZfbEhIclhzb0k?usp=sharing
@@ -44,5 +44,5 @@ The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipa
 [zoom-link]: https://stanford.zoom.us/j/538552143?pwd=u8KPNHGHxJk
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-[design-principles]: {{ site.iiifc-theme.api_url }}annex/notes/design_patterns/
+[design-principles]: {{ site.api_url }}/annex/notes/design_patterns/
 [av-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/av/charter

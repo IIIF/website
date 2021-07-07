@@ -88,15 +88,15 @@ Yes! Version 3 of the Presentation API (currently in Beta release) allows for ti
 There is no formal IIIF specification for 3D objects at this point, but there is an active and thriving [IIIF 3D Community group][3d] keeping tabs on what's happening with 3D in the cultural heritage and STEM communities.
 
 
-[search]: {{ site.iiifc-theme.root_url }}/api/search/
-[presentation]: {{ site.iiifc-theme.root_url }}/api/presentation/
-[image]: {{ site.iiifc-theme.root_url }}/api/image/
-[discovery]: {{ site.iiifc-theme.root_url }}/api/discovery/
+[search]: {{ site.api_url }}/search/
+[presentation]: {{ site.api_url }}/presentation/
+[image]: {{ site.api_url }}/image/
+[discovery]: {{ site.api_url }}/discovery/
 [apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
 [iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
 [iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
 [community-list]: {{ site.url }}{{ site.baseurl }}/community/
-[auth]: {{ site.iiifc-theme.root_url }}/api/auth/
+[auth]: {{ site.api_url }}/auth/
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/

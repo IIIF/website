@@ -2,6 +2,8 @@
 title: IIIF Consortium
 id: consortium
 layout: page
+hero:
+    image: 'assets/uploads/consortium_map.png'
 ---
 
 # About the IIIF Consortium

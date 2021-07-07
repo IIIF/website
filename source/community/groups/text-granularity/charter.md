@@ -102,6 +102,6 @@ Relevant use cases will be collected in [IIIF-Stories][stories] using the text-g
 [ocr]: https://github.com/IIIF/iiif-stories/issues/77
 [gran-search]: https://github.com/IIIF/iiif.io/issues/764
 [anno]: https://github.com/IIIF/iiif.io/issues/758
-[search]: {{ site.iiifc-theme.api_url }}/search/
+[search]: {{ site.api_url }}/search/
 [alto]: https://github.com/altoxml/schema/issues/33
 [international-zoom]: https://zoom.us/zoomconference
