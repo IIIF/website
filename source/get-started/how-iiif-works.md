@@ -78,7 +78,7 @@ From there:
 
 {{ theme.block-center-start }}
 
-## Key concepts
+## Key concepts you’ll encounter when working with IIIF
 
 <div class="has-text-justified" markdown=1>
 
