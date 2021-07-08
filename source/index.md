@@ -58,20 +58,20 @@ stay_connected_cards:
   - label: Attend an event
     description: The community hosts many virtual and in-person trainings, conferences, and other events.
     link_text: Learn more
-    link: /get-involved
+    link: 
   - label: Join a community group call
     description: Connect with peers and learn the latest through regular calls open to everyone.
     link_text: Learn more
-    link: /get-involved
+    link: /community/groups/#calendar
   - label: Become a member
     description: Join global organizations large and small in supporting the IIIF community’s work.
     link_text: Learn more
-    link: /get-involved
+    link: /community/consortium/join
 ---
 
 {{ theme.block-center-start }}
 
-## Break down silos with free APIs
+## Break down silos with open APIs
 Most of the images and audio/visual resources that are fundamental to research exist in silos, with access restricted to bespoke, locally-built applications. IIIF gives you and your audience freedom to work across barriers.
 
 {% include blocks/demos.html items=page.demos %}
@@ -113,7 +113,10 @@ The six IIIF APIs fit together to deliver endless possibilities.
 ## Trusted by global technology leaders
 IIIF is leveraged by aggregators, research institutions, national libraries, archives, museums, software companies, and digital agencies.
 
+
 {% include blocks/logo-grid.html items=site.data.institutions %}
+
+{% include misc/button.html button_label="View All Consortium Members" button_link="/community/consortium/members" %}
 
 {{ theme.block-end }}
 

@@ -10,7 +10,7 @@ layout: page
 
 \* indicates Founding Member of the IIIF Consortium
 <ul>
-  {% for i in site.data.institutions %}
+  {% for i in site.data.old.institutions %}
     {% if i.iiifc < 3 %}
    <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
@@ -30,7 +30,7 @@ layout: page
 ## Associate Members
 
 <ul>
-{% for i in site.data.institutions %}
+{% for i in site.data.old.institutions %}
     {% if i.iiifc == 4 %}
   <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}

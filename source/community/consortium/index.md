@@ -5,8 +5,7 @@ layout: page
 hero:
     image: 'assets/uploads/consortium_map.png'
 ---
-
-# About the IIIF Consortium
+## About the IIIF Consortium
 
 IIIF was first conceived on a napkin at a Cuban restaurant in Palo Alto, California by a group of technologists from Stanford University, Oxford University, and the British Library, who wanted to de-silo digitized image collections. They envisioned a world where digitized visual materials were made available to global researchers efficiently, uniformly, and without platform redundancy.
 
@@ -21,6 +20,10 @@ Today, the consortium unites a growing number of research libraries, national li
 While IIIF’s origins are in libraries, the community is expanding organically to include museums, archives, commercial design and technology companies, and image services of all types, creating new opportunities for exchange and collaboration across sectors.
 
 
+{% include misc/button.html button_label="Join the Consortium" button_link="/community/consortium/join" %}
+
+
+
 ### Committees
 
 There are three committees that oversee how the consortium operates.
@@ -31,6 +34,11 @@ There are three committees that oversee how the consortium operates.
 *   <span style="text-decoration:underline;">Operating Committee</span> - watches that strategic direction set by Exec is being achieved; meets monthly.
 
 All full Consortium member institutions are eligible to serve on the Executive Committee, and all are represented on the Technical Review Committee.
+
+## Members
+
+{% include misc/button.html button_label="View All Consortium Members" button_link="/community/consortium/members" %}
+
 
 On the map below Full Members of the Consortium are listed as blue markers, while Associate Members are listed as red markers.
 
