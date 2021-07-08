@@ -8,7 +8,7 @@ For institutions, IIIF enables better, faster and cheaper image delivery, while 
 
 For end users, IIIF offers a rich set of functionality for viewing & zooming, and allows for the assembly of the best mix of resources and tools to view, compare, manipulate and work with images on the Web all of which is portable--shareable, citable, embeddable. 
 
-To see how IIIF serves other institutions and end users, check out the [Demos]({{ page.webprefix }}/demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
+To see how IIIF serves other institutions and end users, check out the [Demos]({{ site.url }}{{ site.baseurl }}/demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
 
 ---
 
