@@ -29,8 +29,8 @@ jobs:
         ruby-version: 2.7.2 # Not needed with a .ruby-version file
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
    
-    - name: Test site
-      run: bundle exec rake ci
+    # - name: Test site
+    #   run: bundle exec rake ci
 
     # Build jekyll site
     - name: Build Jekyll
