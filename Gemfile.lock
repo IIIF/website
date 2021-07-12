@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: 4cbc2e044be679d628c5818d55734b402929f3fd
+  revision: f751adb89f63708514091b642db86d742302b3bc
   branch: main
   specs:
     iiifc-theme (0.1.0)
