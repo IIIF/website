@@ -32,7 +32,7 @@ task :check_html do
                                            /https:\/\/collections.britishart.yale.edu*/, 'https://www.allaboutcookies.org/',
                                           /http:\/\/folgerpedia.folger.edu*/, /https:\/\/folgerpedia.folger.edu*/,
                                           /http:\/\/mhn.acervos.museus.gov.br*/, /https:\/\/images.is.ed.ac.uk*/, /https:\/\/blogs.getty.edu*/,
-                                          /http:\/\/IndigenousDigitalArchive.org/]
+                                          /http:\/\/IndigenousDigitalArchive.org/, /https:\/\/www.tripadvisor.co.uk*/, /https:\/\/www.tripadvisor.com*/]
                                           ).run
 end
 
