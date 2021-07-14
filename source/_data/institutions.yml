@@ -95,8 +95,8 @@
   uri: http://getty.edu/
   iiifc: 2
 - name: Ghent University
-  uri: https://www.ugent.be/en
-  iiifc:
+  uri: https://lib.ugent.be/
+  iiifc: 3
 - name: Göttingen State and University Library
   uri: https://www.sub.uni-goettingen.de
   iiifc: 2
