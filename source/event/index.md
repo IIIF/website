@@ -10,7 +10,9 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming IIIF-Hosted Events__
 
-* 2021 IIIF Annual Conference: [June 22-24, Online][annual_conference]
+* 2021 Fall Working Meeting (week of November 15, 2021, online)
+* 2022 Annual Conference (week of June 6, 2022, Cambridge, MA)
+
 
 <!--
 __Other IIIF Events__
@@ -28,6 +30,7 @@ Information on hosting a IIIF Event.
 
 __Previous IIIF Events__
 
+* 2021 IIIF Annual Conference: [June 22-24, Online][annual_conference]
 * Fall 2020 IIIF Working meeting: [Online][fall2020]
 * Spring 2020 IIIF Week: [June 1-5 Online Event][iiifweek]
 * Spring 2020 IIIF Conference: [Boston, MA][boston20] - postponed due to coronavirus
