@@ -114,20 +114,20 @@ The editorial committee _MUST_ provide a summary of all meetings, and _SHOULD_ p
 
 [change-log]: #change-log "Change Log"
 [slack-signup]: https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform "Slack Signup"
-[trc]: {{ site.url }}{{ site.baseurl }}/community/trc/ "IIIF Technical Review Committee"
-[editors]: {{ site.url }}{{ site.baseurl }}/community/editors/ "IIIF Editorial Committee"
+[trc]: {{ site.root_url | absolute_url }}/community/trc/ "IIIF Technical Review Committee"
+[editors]: {{ site.root_url | absolute_url }}/community/editors/ "IIIF Editorial Committee"
 [iiif-announce]: https://groups.google.com/forum/#!forum/iiif-announce "IIIF Email Announcement List"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF Email Discussion List"
 [use-cases]: https://github.com/IIIF/iiif-stories/issues "IIIF user stories and use cases"
 [iiif-github-issues]: https://github.com/IIIF/api/issues "IIIF issues"
 [iiif-github]: https://github.com/IIIF/api "IIIF Specifications on Github"
 [iiif-io]: {{ site.root_url }} "iiif.io"
-[iiif-semver]: {{ site.api_url }}/annex/notes/semver/ "Versioning of APIs"
+[iiif-semver]: {{ site.api_url | absolute_url }}/annex/notes/semver/ "Versioning of APIs"
 [rfc-2119]: https://www.ietf.org/rfc/rfc2119.txt "RFC 2119"
-[mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/ "Memorandum of Understanding covering the establishment of the IIIF Consortium"
-[comm-call]: {{ site.url }}{{ site.baseurl }}/community/call/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[design-patterns]: {{ site.api_url }}/annex/notes/design_patterns/
-[image-30-changelog]: {{ site.api_url }}/image/3.0/change-log/ "Changes for IIIF Image API Version 3.0"
-[tsg-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/#iiif-technical-specification-groups
-[trc-process]: {{ site.url }}{{ site.baseurl }}/community/trc/#process "TRC Process"
+[mou]: {{ site.root_url | absolute_url }}/community/consortium/mou/ "Memorandum of Understanding covering the establishment of the IIIF Consortium"
+[comm-call]: {{ site.root_url | absolute_url }}/community/call/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[design-patterns]: {{ site.api_url | absolute_url }}/annex/notes/design_patterns/
+[image-30-changelog]: {{ site.api_url | absolute_url }}/image/3.0/change-log/ "Changes for IIIF Image API Version 3.0"
+[tsg-framework]: {{ site.root_url | absolute_url }}/community/groups/framework/#iiif-technical-specification-groups
+[trc-process]: {{ site.root_url | absolute_url }}/community/trc/#process "TRC Process"

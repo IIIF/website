@@ -54,6 +54,6 @@ Changes to this document will be tracked within and reflected via its [internal 
   | 2019-01-22 | Update IIIF reference to refer to any IIIF staff member             |
 
 [iiif-slack]: https://iiif.slack.com
-[iiif-conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[iiif-conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [change-log]: #change-log "Change Log"
-[guidelines]: {{ site.url }}{{ site.baseurl }}/event/conduct/#reporting-guidelines
+[guidelines]: {{ site.root_url | absolute_url }}/event/conduct/#reporting-guidelines

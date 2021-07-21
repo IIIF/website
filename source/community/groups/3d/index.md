@@ -46,14 +46,14 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 
 
 [3d-user-stories]: https://github.com/IIIF/iiif-3d-stories "3D User Stories"
-[events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
+[events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [3d-slack]: https://iiif.slack.com/messages/3d/details/
 [slack]: http://bit.ly/iiif-slack
 [zoom-link]: https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-[3d-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/3d/charter
+[3d-charter]: {{ site.root_url | absolute_url }}/community/groups/3d/charter
 [mnemoscene]: https://mnemoscene.io/
 [sketchfab]: https://sketchfab.com/nebulousflynn
 [ronald]: https://www.uis.cam.ac.uk/about-us/rms/ronald-haynes

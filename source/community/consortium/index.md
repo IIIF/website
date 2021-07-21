@@ -30,7 +30,7 @@ There are three committees that oversee how the consortium operates.
 
 
 *   <span style="text-decoration:underline;">Executive Committee</span>: Steering strategic direction and budget approval, this committee meets twice annually and is composed of staff from the first eleven founding members of the Consortium, plus two additional elected members. Starting in 2020, seats on this committee will begin opening to new members by vote.
-*   [Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/consortium/trc) - approves or rejects proposed changes to the specifications or new technical groups.
+*   [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc) - approves or rejects proposed changes to the specifications or new technical groups.
 *   <span style="text-decoration:underline;">Operating Committee</span> - watches that strategic direction set by Exec is being achieved; meets monthly.
 
 All full Consortium member institutions are eligible to serve on the Executive Committee, and all are represented on the Technical Review Committee.

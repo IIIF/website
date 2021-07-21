@@ -140,8 +140,8 @@ If you have any questions about this document or any of the community groups or 
 [hydra-groups]: https://wiki.duraspace.org/pages/viewpage.action?pageId=67241635
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform
-[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [iiif-drive]: https://drive.google.com/drive/folders/0B9EeoRu2zWeraXpHNXpnZThUZVE
 [iiif-slack]: http://iiif.slack.com
-[editors]: {{ site.url }}{{ site.baseurl }}/community/editors/ "IIIF Editorial Committee"
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[editors]: {{ site.root_url | absolute_url }}/community/editors/ "IIIF Editorial Committee"
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/

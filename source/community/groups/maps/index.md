@@ -46,6 +46,6 @@ IIIF Maps Group Folder ([https://drive.google.com/drive/folders/12XGcqb1qQp64C9B
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [zoom-link]: https://stanford.zoom.us/j/99449304468?pwd=UUNzMmFtV2dXSWs2MjVicnplS29LUT09

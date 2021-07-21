@@ -39,12 +39,12 @@ The IIIF Newspapers Community Group welcomes participants with an interest in im
   * Online: [https://stanford.zoom.us/j/948530998][zoom-link]
 
 [newspapers-awesome-iiif]: https://github.com/IIIF/awesome-iiif#newspapers "Newspapers on Awesome-IIIF"
-[events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
+[events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [newspapers-folder]: https://drive.google.com/open?id=0BxETo9Nbsh6wODZYZGVZLXFPR00 "IIIF Newspapers Folder"
 [user-stories]: https://github.com/IIIF/iiif-stories/issues?q=is%3Aopen+is%3Aissue+label%3Anewspapers "Newspapers User Stories"
 [newspapers-slack]: https://iiif.slack.com/messages/newspapers/details/
 [join-slack]: http://bit.ly/iiif-slack
-[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [zoom-link]: https://stanford.zoom.us/j/948530998?pwd=u8KPNHGHxJk
 [international-zoom]: https://zoom.us/zoomconference

@@ -18,6 +18,6 @@ The IIIF community calls providing a forum for new and existing participants to 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [comm-notes]: https://drive.google.com/drive/u/0/folders/0B9EeoRu2zWerNkktNVp5bDhleE0
 [zoom_link]: https://stanford.zoom.us/j/95368086973?pwd=b0ZqUnZ3aVp6bm5vemhCMEpJS2tMUT09
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 

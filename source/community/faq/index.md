@@ -21,7 +21,7 @@ In short, IIIF enables better, faster and cheaper image delivery. It lets you le
 
 ## What are the benefits of IIIF?
 
-To see how IIIF serves other institutions and researchers, check out the [Demos]({{ site.url }}{{ site.baseurl }}/demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
+To see how IIIF serves other institutions and researchers, check out the [Demos]({{ site.root_url | absolute_url }}/demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
 
 IIIF allows for:
 
@@ -88,18 +88,18 @@ Yes! Version 3 of the Presentation API (currently in Beta release) allows for ti
 There is no formal IIIF specification for 3D objects at this point, but there is an active and thriving [IIIF 3D Community group][3d] keeping tabs on what's happening with 3D in the cultural heritage and STEM communities.
 
 
-[search]: {{ site.api_url }}/search/
-[presentation]: {{ site.api_url }}/presentation/
-[image]: {{ site.api_url }}/image/
-[discovery]: {{ site.api_url }}/discovery/
-[apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
-[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
-[community-list]: {{ site.url }}{{ site.baseurl }}/community/
-[auth]: {{ site.api_url }}/auth/
+[search]: {{ site.api_url | absolute_url }}/search/
+[presentation]: {{ site.api_url | absolute_url }}/presentation/
+[image]: {{ site.api_url | absolute_url }}/image/
+[discovery]: {{ site.api_url | absolute_url }}/discovery/
+[apps-demos]: {{ site.root_url | absolute_url }}/demos
+[iiifc-faq]: {{ site.root_url | absolute_url }}/community/consortium/faq
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium
+[community-list]: {{ site.root_url | absolute_url }}/community/
+[auth]: {{ site.api_url | absolute_url }}/auth/
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
-[get-started]: {{ site.url }}{{ site.baseurl }}/get-started/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[av]: {{ site.root_url | absolute_url }}/community/groups/av/
+[get-started]: {{ site.root_url | absolute_url }}/get-started/
 [awesome]: https://github.com/IIIF/awesome-iiif
-[3d]: {{ site.url }}{{ site.baseurl }}/community/groups/3d/
+[3d]: {{ site.root_url | absolute_url }}/community/groups/3d/
