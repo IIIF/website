@@ -287,7 +287,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [getty-pr]: http://news.getty.edu/article_display.cfm?article_id=6172
 [getty-blog]: https://blogs.getty.edu/iris/30000-getty-museum-images-published-iiif/
 [ycba-news]: https://news.yale.edu/2017/06/02/yale-center-british-art-adds-online-collection-images-international-system-research
-[colby]: http://www.colby.edu/museum/?s=Whistler&obj=Obj183
+[colby]: https://www.colby.edu/museum/?s=Whistler&obj=Obj183
 <!-- [manuscriptorium]: http://www.manuscriptorium.com/ -->
 [elife]: https://elifesciences.org/
 [elife-blog]: https://medium.com/@g.sironi/the-iiif-elife-implementation-d1f940005517
