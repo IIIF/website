@@ -83,7 +83,7 @@ more_resources_cards:
   - label: Talks
     description: Learn from other’s experience implementing IIIF by watching conference presentations.
     link_text: Learn more
-    link: ''
+    link: '/get-started/talks/'
   - label: Illustrated Case Studies
     description: See a breakdown of how major institutions are using IIIF to make their collections available.
     link_text: Learn more

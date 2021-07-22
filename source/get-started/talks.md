@@ -1,23 +1,34 @@
 ---
 title: Talks and Videos
-layout: page
-
+layout: spec
+breadcrumbs:
+ - label: Get Started
+   link: /get-started/
 ---
 
 Community members have given talks about IIIF at conferences and other gatherings over the years, and we hear they are a great way to learn about IIIF. You can take a deeper dive on our [YouTube channel](https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA).
 
-**Introduction to IIIF**
+## Intro Videos
+A useful place to start if you're just getting familiar with IIIF. 
 
-A non-technical introduction to how IIIF solves several common problems in delivering and viewing visual and audio materials on the web.
+### General Introduction to IIIF
 
-[https://www.youtube.com/watch?v=wVjrqsqzwNI](https://www.youtube.com/watch?v=wVjrqsqzwNI)
+A non-technical introduction to how IIIF solves several common problems in delivering and viewing visual and audio materials on the web, featuring many examples of how IIIF is used in production.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wVjrqsqzwNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[](https://www.youtube.com/watch?v=K4i7YlZEMGA&list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h&index=66)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K4i7YlZEMGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Introduction to the IIIF Community
+
+
+An overview of the the groups within the IIIF Community, as well as the IIIF Consortium.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0IkJc9hm0A8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-**Benefits of institutional adoption**
+### **Benefits of institutional adoption**
 
 David Haskiya (Europeana), Matthieu Bonicel (Bibliothèque nationale de France), and Emmanuelle Delmas-Glass (Yale Center for British Art) discuss why they adopted IIIF at their respective institutions.
 
@@ -27,7 +38,7 @@ David Haskiya (Europeana), Matthieu Bonicel (Bibliothèque nationale de France),
 
 ---
 
-**Teaching with IIIF**
+### **Teaching with IIIF**
 
 Rashmi Singhal shares Harvard University’s use of IIIF in teaching and research--including how they improve image accessibility with annotations.
 
@@ -35,17 +46,17 @@ Rashmi Singhal shares Harvard University’s use of IIIF in teaching and researc
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OcMHwULtRb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+<!-- ---
 
-**Avalon and IIIF for audio and video**
+### **Avalon and IIIF for audio and video**
 
 [https://www.youtube.com/watch?v=BiEijTlWqvc](https://www.youtube.com/watch?v=BiEijTlWqvc)
 
 Avalon worked alongside the IIIF community to develop specifications for version 3.0 of the Presentation API, which moves beyond two-dimensional images to include audio and video.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiEijTlWqvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
+ -->
+<!-- ---
 
 **Linking text and image**
 
@@ -53,18 +64,25 @@ Avalon worked alongside the IIIF community to develop specifications for version
 
 Paolo Monella (Venice Centre for Digital and Public Humanities) discusses IIIF and transcribing images of manuscripts.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yu-eCBqVu9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yu-eCBqVu9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---
 
 ## Playlists of interest
 
-[**IIIF Online Workshop**](https://youtu.be/uTZD0a4ofno?list=PLYPP1-8uH9c4oThYWbbOtTQA-3kPhTNp7)
+
+### [**2021 IIIF Annual Conference**](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### [**IIIF Online Workshop**](https://youtu.be/uTZD0a4ofno?list=PLYPP1-8uH9c4oThYWbbOtTQA-3kPhTNp7)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c4oThYWbbOtTQA-3kPhTNp7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[**IIIF Week online conference**](https://youtu.be/k1VsUZZTDNE?list=PLYPP1-8uH9c4QFWKf-dbv3Il4ukkuFAje)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c4QFWKf-dbv3Il4ukkuFAje" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[**IIIF Community Calls**](https://youtu.be/RDNWYrZrocw?list=PLYPP1-8uH9c6VZbIlaNSj1WV9AEAnkmGC)
+### [**IIIF Community Calls**](https://youtu.be/RDNWYrZrocw?list=PLYPP1-8uH9c6VZbIlaNSj1WV9AEAnkmGC)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c6VZbIlaNSj1WV9AEAnkmGC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [**IIIF Services & Tools Webinar (from the Toward a National Collection Project)**](https://youtu.be/RDNWYrZrocw?list=PLRIxrpy54RHb36a-D6y1rUzwIvMxMKRHR)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRIxrpy54RHb36a-D6y1rUzwIvMxMKRHR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [**Showcasing the practical use of IIIF Webinar (from the Toward a National Collection Project)**](https://youtu.be/RDNWYrZrocw?list=PLRIxrpy54RHax12i7_H1KXhvuBG2nSAc-)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRIxrpy54RHax12i7_H1KXhvuBG2nSAc-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
