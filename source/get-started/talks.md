@@ -48,18 +48,23 @@ Rashmi Singhal shares Harvard University’s use of IIIF in teaching and researc
 ## Playlists of interest
 
 
-### [2021 IIIF Annual Conference](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h)
+### 2021 IIIF Annual Conference
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### [IIIF Online Workshop](https://youtu.be/uTZD0a4ofno?list=PLYPP1-8uH9c4oThYWbbOtTQA-3kPhTNp7)
+### IIIF Online Workshop
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c4oThYWbbOtTQA-3kPhTNp7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [IIIF Community Calls](https://youtu.be/RDNWYrZrocw?list=PLYPP1-8uH9c6VZbIlaNSj1WV9AEAnkmGC)
+### IIIF Community Calls
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c6VZbIlaNSj1WV9AEAnkmGC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [IIIF Services & Tools Webinar (from the Toward a National Collection Project)](https://youtu.be/RDNWYrZrocw?list=PLRIxrpy54RHb36a-D6y1rUzwIvMxMKRHR)
+### IIIF Services & Tools Webinar (from the Toward a National Collection Project)
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRIxrpy54RHb36a-D6y1rUzwIvMxMKRHR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Showcasing the practical use of IIIF Webinar (from the Toward a National Collection Project)](https://youtu.be/RDNWYrZrocw?list=PLRIxrpy54RHax12i7_H1KXhvuBG2nSAc-)
+### Showcasing the practical use of IIIF Webinar (from the Toward a National Collection Project)
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRIxrpy54RHax12i7_H1KXhvuBG2nSAc-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
