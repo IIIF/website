@@ -15,8 +15,6 @@ A useful place to start if you're just getting familiar with IIIF.
 
 A non-technical introduction to how IIIF solves several common problems in delivering and viewing visual and audio materials on the web, featuring many examples of how IIIF is used in production.
 
-[](https://www.youtube.com/watch?v=K4i7YlZEMGA&list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h&index=66)
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K4i7YlZEMGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Introduction to the IIIF Community
@@ -46,27 +44,6 @@ Rashmi Singhal shares Harvard University’s use of IIIF in teaching and researc
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OcMHwULtRb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- ---
-
-### **Avalon and IIIF for audio and video**
-
-[https://www.youtube.com/watch?v=BiEijTlWqvc](https://www.youtube.com/watch?v=BiEijTlWqvc)
-
-Avalon worked alongside the IIIF community to develop specifications for version 3.0 of the Presentation API, which moves beyond two-dimensional images to include audio and video.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiEijTlWqvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- -->
-<!-- ---
-
-**Linking text and image**
-
-[https://www.youtube.com/watch?v=Yu-eCBqVu9Y](https://www.youtube.com/watch?v=Yu-eCBqVu9Y)
-
-Paolo Monella (Venice Centre for Digital and Public Humanities) discusses IIIF and transcribing images of manuscripts.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yu-eCBqVu9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
----
 
 ## Playlists of interest
 
