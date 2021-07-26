@@ -4,8 +4,6 @@ id: members
 layout: page
 ---
 
-# Consortium Members
-
 ## Full Members
 
 \* indicates Founding Member of the IIIF Consortium
