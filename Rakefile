@@ -6,3 +6,11 @@ task :dev do
   sh 'bundle exec jekyll clean'
   sh 'bundle exec jekyll serve --watch --drafts'
 end
+
+desc 'Build CI site, run html-proofer and link tests'
+task :ci do
+  Rake::Task['build:ci'].invoke
+  Rake::Task['test:html'].invoke
+  Rake::Task['test:links:internal'].invoke
+  Rake::Task['test:links:iiif'].invoke
+end 
