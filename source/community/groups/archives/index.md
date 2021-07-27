@@ -48,6 +48,6 @@ By participating in the IIIF Archives Community Group, you will help set best pr
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
 [zoom-link]: https://stanford.zoom.us/j/97950308605?pwd=MUl6dDFqSkhOWkY5b2FjalhSVHI5Zz09
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [archives-cg-folder]: https://drive.google.com/open?id=1-HM9O26iBzMcCpC1zELcOlrsaC3ty4En

@@ -110,10 +110,10 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 [samvera]: https://wiki.duraspace.org/display/samvera/Code+of+Conduct
 [dlf]: https://www.diglib.org/about/code-of-conduct/
 [clir]: https://www.clir.org/about/news/deepening-resolve
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[guidelines]: {{ site.url }}{{ site.baseurl }}/event/conduct-guidelines/
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[guidelines]: {{ site.root_url | absolute_url }}/event/conduct-guidelines/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [volunteer-form]: https://goo.gl/forms/KCrb3u86W0e4LhC23
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[ed-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/
-[design-patterns]: {{ page.webprefix }}/api/annex/notes/design_patterns/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[ed-process]: {{ site.root_url | absolute_url }}/community/policy/editorial/
+[design-patterns]: {{ site.api_url | absolute_url }}annex/notes/design_patterns/

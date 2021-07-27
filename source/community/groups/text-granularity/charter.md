@@ -94,7 +94,7 @@ Relevant use cases will be collected in [IIIF-Stories][stories] using the text-g
 
 [text-slack]: https://iiif.slack.com/messages/text-granularity/details/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[design-principles]: {{ page.webprefix }}/api/annex/notes/design_patterns/
+[design-principles]: {{ site.api_url | absolute_url }}annex/notes/design_patterns/
 [av-gist]: https://docs.google.com/document/d/1X7b7zQGDsiEvAfvb1WboDXe360mz7Zmm0o0LT43nozk/edit
 [zoom]: https://stanford.zoom.us/j/375412551
 [stories]: https://github.com/IIIF/iiif-stories/issues/
@@ -102,6 +102,6 @@ Relevant use cases will be collected in [IIIF-Stories][stories] using the text-g
 [ocr]: https://github.com/IIIF/iiif-stories/issues/77
 [gran-search]: https://github.com/IIIF/iiif.io/issues/764
 [anno]: https://github.com/IIIF/iiif.io/issues/758
-[search]: {{ site.api_url }}/search/
+[search]: {{ site.api_url | absolute_url }}/search/
 [alto]: https://github.com/altoxml/schema/issues/33
 [international-zoom]: https://zoom.us/zoomconference

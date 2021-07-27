@@ -42,7 +42,7 @@ The [IIIF A/V charter][av-charter] provides an outline and timeline for anticipa
 [av-folder]: https://drive.google.com/drive/folders/0B8SS5OUXWs4GZ0ZfbEhIclhzb0k?usp=sharing
 [slack]: http://bit.ly/iiif-slack
 [zoom-link]: https://stanford.zoom.us/j/538552143?pwd=u8KPNHGHxJk
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-[design-principles]: {{ site.api_url }}/annex/notes/design_patterns/
-[av-charter]: {{ site.url }}{{ site.baseurl }}/community/groups/av/charter
+[design-principles]: {{ site.api_url | absolute_url }}/annex/notes/design_patterns/
+[av-charter]: {{ site.root_url | absolute_url }}/community/groups/av/charter

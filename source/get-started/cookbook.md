@@ -16,23 +16,27 @@ There’s a **#cookbook** channel on the IIIF Slack team too, if you’d like to
 
 ### Quick links:
 
-- [The Cookbook of IIIF Recipes](https://iiif.io/api/cookbook/) 
+- [The Cookbook of IIIF Recipes]({{ site.cookbook_url | absolute_url }}) 
 - [Cookbook Recipes Github repository](https://github.com/IIIF/cookbook-recipes/issues)
-- [Cookbook Process](https://iiif.io/api/cookbook/recipe/)
+- [Cookbook Process]({{ site.cookbook_url | absolute_url }}/recipe/)
 
 
 ## Recipes
 
 Here are a few examples, and more are being added each month for a wide variety of common use cases. 
 
-*   [Simplest Manifest - Image]({{ site.cookbook_url | absolute_url }}/recipe/0001-mvm-image/) \
+*   [Simplest Manifest - Image]({{site.cookbook_url | absolute_url }}/recipe/0001-mvm-image/) \
 _You’ll need: a text editor and an image_ \
 If all you have for an object is one image on the web and a label, this pattern turns it into a IIIF Presentation resource.
 
-*   Annotating part of an image to a Canvas  \
-Extract parts, or segments, of resources from a canvas
-*   [Anyone can deep zoom, auth reqd for hi-res download](https://digirati-co-uk.github.io/iiif-auth-client/?image=https://iiifauth.digtest.co.uk/img/11_kitty_joyner.jpg/info.json) \
-Set up a login step for your image viewer
+*   [Support Deep Viewing with Basic Use of a IIIF Image Service]({{site.cookbook_url | absolute_url }}/recipe/0005-image-service/)  \
+Paint a Canvas using an image with an associated IIIF Image API service.
+
+* [Simplest Manifest - Video]({{site.cookbook_url | absolute_url }}/recipe/0003-mvm-video/)
+The simplest viable manifest for video content. This pattern presents a single video file in a IIIF Presentation resource.
+
+*    [Geographic coordinates]({{site.cookbook_url | absolute_url }}/recipe/0139-geolocate-canvas-fragment/)
+Use Web Annotation to provide geocoordinates for a fragment of an IIIF Presentation API 3.0 Canvas.
 
 ## Creating Recipes
 
@@ -55,7 +59,7 @@ To make sure your submission is not abandoned, please make sure to include the f
 
 ### Writing a recipe
 
-If you're interested in helping author a recipe, please see the [Cookbook Process document](https://iiif.io/api/cookbook/recipe/) for full details on that front.
+If you're interested in helping author a recipe, please see the [Cookbook Process document]({{ site.cookbook_url | absolute_url }}/recipe/) for full details on that front.
 
 There’s [a big list of ideas in the IIIF Cookbook Github repo](https://github.com/IIIF/cookbook-recipes/issues), and you’re very welcome to grab one of them and build it! We're grateful for all the help we can get to build this important community resource. 
 

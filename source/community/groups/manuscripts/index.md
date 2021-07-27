@@ -41,13 +41,13 @@ The IIIF MSS Group seeks to advance aims of the [IIIF-C][iiifc], which are to re
   * Online: [https://stanford.zoom.us/j/674108679][zoom-link]
 
 [ghent]: https://iiif.io/event/2015/ghent/ "IIIF: Access to the World's Images - Ghent 2015"
-[iiifc]: {{ site.url }}{{ site.baseurl }}/community/consortium/ "IIIF Consortium"
+[iiifc]: {{ site.root_url | absolute_url }}/community/consortium/ "IIIF Consortium"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [manuscripts-folder]: https://drive.google.com/open?id=0B1IxI8f59JQkRHpqQUE3S04tSlU "IIIF Manuscripts Group"
 [iiif-manuscripts]: https://groups.google.com/forum/#!forum/iiif-manuscripts "IIIF-Manuscripts Forum"
-[about]: {{ site.url }}{{ site.baseurl }}/about/ "About IIIF"
+[about]: {{ site.root_url | absolute_url }}/about/ "About IIIF"
 [manuscripts-slack]: https://iiif.slack.com/messages/manuscripts/details/
 [join-slack]: http://bit.ly/iiif-slack
-[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [zoom-link]: https://stanford.zoom.us/j/674108679?pwd=V3ZPbFgzQnlQTHJXWnZqME02MmViZz09
 [international-zoom]: https://zoom.us/zoomconference

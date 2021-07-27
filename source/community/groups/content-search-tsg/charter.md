@@ -6,13 +6,13 @@ layout: page
 
 ## Introduction
 
-The IIIF Content Search API ([https://iiif.io/api/search/1.0/](https://iiif.io/api/search/1.0/)) was published in 2016 and has seen successful implementation in a number of institutions. The Content Search API allows IIIF compatible viewers to ‘search within’ a IIIF resource and returns annotations that can be presented by a client. Version 3.0 of the IIIF Presentation and Image APIs have introduced incompatibilities with version 1.0 of the Content Search API. These incompatibilities include:
+The IIIF Content Search API ([https://iiif.io/api/search/1.0/]({{ site.api_url | absolute_url }}/search/1.0/)) was published in 2016 and has seen successful implementation in a number of institutions. The Content Search API allows IIIF compatible viewers to ‘search within’ a IIIF resource and returns annotations that can be presented by a client. Version 3.0 of the IIIF Presentation and Image APIs have introduced incompatibilities with version 1.0 of the Content Search API. These incompatibilities include:
 
 *   Presentation 3.0 uses W3C Web Annotations whereas Content Search 1.0 uses the deprecated Open Annotation specification.
 *   Presentation 3.0 uses JSON-LD 1.1, and related best practices, whereas Content Search 1.0 is based on JSON-LD 1.0. 
 *   Presentation 3.0 allows the use of time-based media whereas Content Search 1.0 does not specify how to search such resources.
 
-There is concurrent work happening to bring the Authentication specification up to date with the Image API version 3.0. The Content Search TSG will coordinate with that group to ensure that any authentication solution required for search is consistent with any new approach taken by the [Authentication TSG]({{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg).
+There is concurrent work happening to bring the Authentication specification up to date with the Image API version 3.0. The Content Search TSG will coordinate with that group to ensure that any authentication solution required for search is consistent with any new approach taken by the [Authentication TSG]({{ site.root_url | absolute_url }}/community/groups/auth-tsg).
 
 Use cases for a new version of the Content Search API are implicit and extensive in the following issues raised on the IIIF API Github repository, and will be further documented by the TSG:
 
@@ -50,10 +50,10 @@ The expected deliverable will be a version 2.0 of the Content Search API. Alignm
 **Call notes and group documents:**
   * [IIIF Content Search TSG folder][search-tsg-folder]
 
-[events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
+[events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [search-slack]: https://iiif.slack.com/archives/C01Q2G09U7N
 [search-tsg-folder]: https://drive.google.com/drive/u/1/folders/15Zpng8lwANB5BsBt9wwTswfkjoxcB9oJ
 [slack]: http://bit.ly/iiif-slack
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference

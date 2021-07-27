@@ -106,8 +106,8 @@ Community members and consortium members representing IIIF-C Associate members w
 
 
 
-[groups-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/
+[groups-framework]: {{ site.root_url | absolute_url }}/community/groups/framework/
 [w3c-good-standing]: https://www.w3.org/2014/Process-20140801/#good-standing
-[tsg-channels]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/#communication-channels
-[editors]: {{ site.url }}{{ site.baseurl }}/community/editors/
-[editors-process]: {{ site.url }}{{ site.baseurl }}/community/policy/editorial/
+[tsg-channels]: {{ site.root_url | absolute_url }}/community/groups/framework/#communication-channels
+[editors]: {{ site.root_url | absolute_url }}/community/editors/
+[editors-process]: {{ site.root_url | absolute_url }}/community/policy/editorial/

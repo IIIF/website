@@ -16,4 +16,4 @@ IIIF (International Image Interoperability Framework) has the following goals:
 - To define a set of common application programming interfaces that support interoperability between image repositories.
 - To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images.
 
-For more details, please see the [IIIF FAQ]({{ site.url }}{{ site.baseurl }}/community/faq/).
+For more details, please see the [IIIF FAQ]({{ site.root_url | absolute_url }}/community/faq/).

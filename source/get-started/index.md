@@ -50,6 +50,10 @@ end_user_cards:
     description: Access our open training materials to go hands-on and learn how resources are made available via IIIF.
     image: ''
     link: 'https://training.iiif.io/iiif-online-workshop/'
+  - label: Find Non-English Language Resource
+    description: Take a look and see what materials have been created by the IIIF Community in a variety of languages. 
+    image: ''
+    link: '/get-started/non-english/'
 implementer_cards:
   - label: Learn about IIIF viewers
     description: There are several popular viewers, each with different capabilities.

@@ -15,7 +15,7 @@ anchor_headings: true
 
 ## The basics
 
-Not everyone reads [API docs](https://iiif.io/api/), so we've created a plain language guide to how IIIF works. IIIF can be a bit overwhelming at first, especially if you’re not a programmer. The community is here to help, so if you’re stuck, reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list, [iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss). Or if you're an end user looking for IIIF images, tools, training on how to work with materials, [we've got you covered]({{ site.url }}{{ site.baseurl }}/get-started/#end-users).
+Not everyone reads [API docs]({{ site.api_url | absolute_url }}), so we've created a plain language guide to how IIIF works. IIIF can be a bit overwhelming at first, especially if you’re not a programmer. The community is here to help, so if you’re stuck, reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list, [iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss). Or if you're an end user looking for IIIF images, tools, training on how to work with materials, [we've got you covered]({{ site.root_url | absolute_url }}/get-started/#end-users).
 
 
 IIIF is a way to standardize the delivery of images and audio/visual files from servers to different environments on the Web where they can be viewed and interacted with in many ways.

@@ -50,9 +50,9 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
   [outreach-slack]: https://iiif.slack.com/messages/outreach/details
   [outreach-folder]: https://drive.google.com/drive/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw?
   [slack]: http://bit.ly/iiif-slack
-  [iiif-website]: {{ site.url }}{{ site.baseurl }}/
+  [iiif-website]: {{ site.root_url | absolute_url }}/
   [iiif-translation]: https://docs.google.com/document/d/1kfFp1Yg68RdMameghAAdg4DyjqzI0Wk64dboQGsHqtw
   [zoom-link]:  https://stanford.zoom.us/j/97934431714?pwd=UFBkUGZDaHZqaDcvK2ZsVE1MZys5UT09
-  [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+  [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
   [international-zoom]: https://zoom.us/zoomconference
-  [iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/
+  [iiif-faq]: {{ site.root_url | absolute_url }}/community/faq/

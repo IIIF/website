@@ -10,7 +10,7 @@ Community members can **host local events** like workshops, meetings, and workin
 
 ## Hosting a local event
 
-Anyone can host a IIIF-related event in their region. You can use our short [guide to hosting an event]({{ site.url }}{{ site.baseurl }}/event/host_your_own_IIIF_event/) and <span style="text-decoration:underline;">marketing materials</span> (including pre-made “Introduction to IIIF” presentations). Plus, community members with firsthand experience put together thoughtful presentations and outlines to help you get started:
+Anyone can host a IIIF-related event in their region. You can use our short [guide to hosting an event]({{ site.root_url | absolute_url }}/event/host_your_own_IIIF_event/) and <span style="text-decoration:underline;">marketing materials</span> (including pre-made “Introduction to IIIF” presentations). Plus, community members with firsthand experience put together thoughtful presentations and outlines to help you get started:
 
 
 

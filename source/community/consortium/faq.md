@@ -62,17 +62,17 @@ layout: page
 
  * Yes, letters of support from the IIIF-C for IIIF-related grant applications may be requested, though preference for support is given to IIIF Consortium members; get in touch with us via admin@iiif.io.
 
-[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
-[apps-demos]: {{ site.url }}{{ site.baseurl }}/demos
-[specs]: {{ site.api_url }}
-[mou]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/
-[news]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
-[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium
-[community-list]: {{ site.url }}{{ site.baseurl }}/community/
-[auth]: {{ site.api_url }}/auth/
-[av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
-[iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
+[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican/
+[apps-demos]: {{ site.root_url | absolute_url }}/demos
+[specs]: {{ site.api_url | absolute_url }}
+[mou]: {{ site.root_url | absolute_url }}/community/consortium/mou/
+[news]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/
+[iiifc-faq]: {{ site.root_url | absolute_url }}/community/consortium/faq
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium
+[community-list]: {{ site.root_url | absolute_url }}/community/
+[auth]: {{ site.api_url | absolute_url }}/auth/
+[av]: {{ site.root_url | absolute_url }}/community/groups/av/
+[iiif-events]: {{ site.root_url | absolute_url }}/event/
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[iiif-faq]: {{ site.root_url | absolute_url }}/community/faq/

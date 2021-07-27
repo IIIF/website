@@ -35,9 +35,9 @@ The IIIF Text Granularity Technical Specification Group formed in the spring of 
 [text-slack]: https://iiif.slack.com/messages/C5R68LH51/details/
 [join-slack]: http://bit.ly/iiif-slack
 [text-folder]: https://drive.google.com/drive/folders/0B8biwZuDijgeVlQxQTBzZXlJck0?usp=sharing
-[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [zoom]: https://stanford.zoom.us/j/375412551
 [international-zoom]: https://zoom.us/zoomconference
-[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
-[search]: {{ site.api_url }}/search/
-[charter]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/charter/
+[newspapers]: {{ site.root_url | absolute_url }}/community/groups/newspapers/
+[search]: {{ site.api_url | absolute_url }}/search/
+[charter]: {{ site.root_url | absolute_url }}/community/groups/text-granularity/charter/
