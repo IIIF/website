@@ -40,7 +40,7 @@ end_user_cards:
   - label: Use IIIF resources
     description: Use preexisting IIIF-enabled materials for teaching and research across sites and tools.
     image: ''
-    link: 'https://iiif.io/explainers/using_iiif_resources/'
+    link: '/get-started/explainers/using_iiif_resources/'
   - label: Learn the basics of IIIF
     description: Read our plain language description of IIIF technology.
     image: ''
@@ -74,7 +74,7 @@ implementer_cards:
   - label: Find recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
     image: ''
-    link: "{{ site.cookbook_url }}"
+    link: "/get-started/cookbook"
   - label: Read guides
     description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
     image: ''
@@ -83,7 +83,7 @@ more_resources_cards:
   - label: Talks
     description: Learn from other’s experience implementing IIIF by watching conference presentations.
     link_text: Learn more
-    link: ''
+    link: '/get-started/talks/'
   - label: Illustrated Case Studies
     description: See a breakdown of how major institutions are using IIIF to make their collections available.
     link_text: Learn more

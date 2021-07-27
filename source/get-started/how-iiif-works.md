@@ -36,7 +36,7 @@ There are two main components to IIIF: delivering digital objects to sites and v
 The Image API defines how image servers deliver image pixels to a viewer. It allows the image to be sent as a full-sized image or as a smaller size, a zoomed portion, a rotated view, or as a black and white version. The Image API can be implemented on its own, or alongside the Presentation API for additional viewing capabilities.
 {% endcapture %}
 
-{% include blocks/image-and-text.html image_align='right' image='assets/uploads/image-api-filler.png' content=capture_text caption='The image API controls the form in which an image is delivered to a location on the Web.' %}
+{% include blocks/image-and-text.html image_align='right' image='assets/uploads/image-api-filler.png' alt_text="Image API filler" content=capture_text caption='The image API controls the form in which an image is delivered to a location on the Web.' %}
 
 <br>
 
@@ -48,7 +48,7 @@ The Presentation API attaches metadata and structure to digital objects, definin
 There are many IIIF viewers. Some are general purpose tools while others specialize in particular kinds of content or functionality. IIIF-compatible viewers allow users to pan, zoom, rotate, and resize image objects, and play audio/visual files. Some allow annotation with text, audio, location, and more. Others allow comparison of objects from a single collection side-by-side (or even objects from multiple collections if the object’s Manifest is made available to users).
 {%- endcapture -%}
 
-{% include blocks/image-and-text.html image_align='right' image='assets/uploads/presentation-api-filler.png' content=capture_text caption='The presentation API delivers data and structure about an image to a viewer.' %}
+{% include blocks/image-and-text.html image_align='right' image='assets/uploads/presentation-api-filler.png' alt_text="API filler image" content=capture_text caption='The presentation API delivers data and structure about an image to a viewer.' %}
 
 
 ### Advanced use cases

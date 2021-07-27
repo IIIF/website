@@ -1,9 +1,12 @@
+site_id:        root
 theme:          iiifc-theme
 source:         source
 permalink:      pretty
 
 root_url:       ''
 api_url:        https://preview.iiif.io/api/wireframe/api
+cookbook_url:   https://preview.iiif.io/cookbook/wireframe
+
 
 plugins:
   - jekyll-data
