@@ -38,6 +38,14 @@ David Haskiya (Europeana), Matthieu Bonicel (Bibliothèque nationale de France),
 
 ### Teaching with IIIF
 
+- Mario Einaudi, Digital Repository Manager at the Henry E. Huntington Library and Art Gallery, discusses how educators at the Huntington use IIIF resources to teach with maps and photographs from their collections. 
+- Laura Morreale, independent scholar and instructor, shares how she creates engaging learning activities using FromThePage to collaboratively transcribe IIIF-compliant manuscript images with students. 
+- Sara and Ben Brumfield, developers of FromThePage, discuss trends they have seen in transcription projects in the classroom.
+
+<https://www.youtube.com/watch?v=ILrmRxPcK-o>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ILrmRxPcK-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Rashmi Singhal shares Harvard University’s use of IIIF in teaching and research--including how they improve image accessibility with annotations.
 
 [https://www.youtube.com/watch?v=OcMHwULtRb8](https://www.youtube.com/watch?v=OcMHwULtRb8)
