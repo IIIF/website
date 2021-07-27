@@ -6,6 +6,7 @@ permalink:      pretty
 root_url:       ''
 api_url:        https://preview.iiif.io/api/wireframe/api
 cookbook_url:   https://preview.iiif.io/cookbook/wireframe
+guides_url:     https://preview.iiif.io/guides/wireframe
 
 
 plugins:
