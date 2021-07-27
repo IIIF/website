@@ -56,6 +56,6 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 [3d-charter]: {{ site.root_url | absolute_url }}/community/groups/3d/charter
 [mnemoscene]: https://mnemoscene.io/
 [sketchfab]: https://sketchfab.com/nebulousflynn
-[ronald]: https://www.uis.cam.ac.uk/about-us/rms/ronald-haynes
+[ronald]: https://www.uis.cam.ac.uk/about-us/rm/ronald-haynes
 [julie]: https://scholars.duke.edu/person/julie.winchester 
 
