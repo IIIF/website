@@ -22,7 +22,7 @@ Georeferencing Historical IIIF Maps
 * [Using IIIF Maps in a GIS System](https://github.com/IIIF/iiif-stories/issues/126)
 
 ## Scope
-It is the intention of this group to create a number of [IIIF Extensions]({{ site.api_url | absolute_url }}/registry/extensions/) and avoid changing the core IIIF specifications. If after a period of time and if there is wide implementation of these extensions there may be a case made to import them into the Presentation API.  
+It is the intention of this group to create a number of [IIIF Extensions]({{ site.api_url | absolute_url }}/extension/) and avoid changing the core IIIF specifications. If after a period of time and if there is wide implementation of these extensions there may be a case made to import them into the Presentation API.  
 
 This group will initially focus on the areas mentioned above but during the course of its work it may need to discuss wider Geo and IIIF issues.  
 
