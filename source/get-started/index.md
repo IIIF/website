@@ -2,7 +2,7 @@
 layout: default
 title: Get Started
 subtitle: >
-  Whether you're an end user or a software developer, start your IIIF journey with these resources. 
+  Whether you're a developer, researcher, librarian, collection manager, or someone else, your work with digital collections can benefit from IIIF technology and tools. 
 permalink: /get-started/
 hero:
   image: "assets/images/heroes/hero-2@3x.webp"
@@ -32,22 +32,22 @@ implement_tabs:
     cards:
       -
 end_user_cards:
-  - label: Find IIIF resources
-    description: Discover IIIF-enabled materials from institutions around the world.
-    image: ''
-    link: 'https://guides.iiif.io/'
-    alt: 'test'
-  - label: Use IIIF resources
-    description: Use preexisting IIIF-enabled materials for teaching and research across sites and tools.
-    image: ''
-    link: '/get-started/explainers/using_iiif_resources/'
-  - label: Learn the basics of IIIF
-    description: Read our plain language description of IIIF technology.
+  - label: How IIIF Works
+    description: Get a simple overview of how IIIF works.
     image: ''
     link: '/get-started/how-iiif-works'
     alt: 'test'
-  - label: Learn the details of how it works
-    description: Access our open training materials to go hands-on and learn how resources are made available via IIIF.
+  - label: Find IIIF resources
+    description: Discover IIIF-enabled materials from institutions around the world.
+    image: ''
+    link: '{{ site.guides_url | absolute_url }}/finding_resources/'
+    alt: 'test'
+  - label: Use IIIF resources
+    description: Learn how to use existing IIIF resources for teaching and research.
+    image: ''
+    link: '{{ site.guides_url | absolute_url }}/using_iiif_resources/'
+  - label: Learn to do it yourself
+    description: Take your knowledge a step further and use our open training materials to learn hands-on how resources are made available via IIIF.
     image: ''
     link: 'https://training.iiif.io/iiif-online-workshop/'
   - label: Find Non-English Language Resource
@@ -55,27 +55,27 @@ end_user_cards:
     image: ''
     link: '/get-started/non-english/'
 implementer_cards:
-  - label: Learn about IIIF viewers
-    description: There are several popular viewers, each with different capabilities.
+  - label: IIIF-compliant vendors and tools
+    description: View a list of vendors that allow you to serve your resources via IIIF without building your own ecosystem. 
+    image: ''
+    link: '/get-started/vendors/'
+  - label: IIIF viewers
+    description: There are several popular viewers, each with different capabilities. 
     image: ''
     link: '/get-started/iiif-viewers/'
-  - label: Learn about image servers
+  - label: IIIF image servers
     description: See the most commonly used IIIF-compliant image servers.
     image: ''
     link: '/get-started/image-servers/'
-  - label: Learn about IIIF tools
-    description: Review the community-maintained “Awesome IIIF” list and see what’s available to you. (External link)
+  - label: Community tools list
+    description: From tools for annotation to tools for building exhibits, see the best of what’s available to you and benefit from the work of others on the IIIF-Awesome list. (External link)
     image: ''
     link: 'https://github.com/IIIF/awesome-iiif/'
-  - label: Test an Image API implementation
-    description: Try out the IIIF validator for the Image API.
+  - label: Test an API implementation
+    description: Try out the IIIF validators for the Image and Presentation APIs.
     image: ''
-    link: '{{site.api_url}}/image/validator/'
-  - label: Test a Presentation API implementation
-    description: Try out the IIIF validators for the Presentation API.
-    image: ''
-    link: '{{site.api_url}}/presentation/validator/service/'
-  - label: Find recipes
+    link: '{{site.api_url}}/validators/'
+  - label: Get recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
     image: ''
     link: "/get-started/cookbook"
@@ -101,24 +101,13 @@ more_resources_cards:
 {{ theme.block-center-start }}
 
 
-## User or Developer? 
+## End user or implementer?
 
+There are two main ways to get started with IIIF. 
 
-<div class="has-text-justified" markdown=1>
-
-There are two main ways to get started with IIIF. As an [implementer/developer](#implementers), you can make digital resources available on the web using IIIF. As an [end user](#end-users), you may be working with materials already hosted on the Web by someone else. 
-
-
-{% include blocks/tabs.html tabs=page.intro_tabs %}
-
-
-{% assign users = page.url | append: "#end-users"  %}
-{% include misc/button.html button_label="Go to User Resources" button_link= users %}
-
-{% assign implementers = page.url | append: "#implementers"  %}
-{% include misc/button.html button_label="Go to Developer Resources" button_link=implementers %}
-
-</div>
+|If you’re a researcher, educator, or in a similar role, you are likely an end user, and you can use IIIF resources already hosted on the Web by someone else--all without having to learn to code. | As an implementer, you can make digital resources available on the Web via IIIF using a variety of products, tools, and resources. Coding skills may or may not be required.|
+|[View end user resources](#end-users)|[View implementer resources](#implementers)|
+{: .api-table}
 
 
 {{ theme.block-end }}
@@ -126,10 +115,10 @@ There are two main ways to get started with IIIF. As an [implementer/developer](
 
 {{ theme.block-center-start }}
 
-<a name='end-users'></a>
-## End Users: Explore the Rich World of IIIF Content
+## Resources for end users
+{: #end-users}
 
-Whether you're a researcher, an educator, or just someone exploring the possibilities, IIIF makes your life easier when it comes to working with digital collections.
+Take the first step to exploring the rich world of IIIF-enabled materials.
 
 {% include blocks/cards.html items=page.end_user_cards %}
 
@@ -139,9 +128,11 @@ Whether you're a researcher, an educator, or just someone exploring the possibil
 {{ theme.block-center-start }}
 
 <a name='implementers'></a>
-## Developers: Implement A Custom Experience
+## Implement IIIF for your materials
+{: #implementers}
 
-You don't have to be a sofware developer or coder to be curious about how IIIF tools work under the hood -- there's a variety of resources ready to solve your problems and show you how it all works.
+Make your digital collections available via IIIF so you and your users can benefit from interoperability.
+
 
 {% include blocks/tabs.html tabs=page.implement_tabs %}
 
@@ -168,3 +159,6 @@ You don't have to be a sofware developer or coder to be curious about how IIIF t
 {% include blocks/cards.html items=page.more_resources_cards %}
 
 {{ theme.block-end }}
+
+<a href="http://test.com">Test 1</a>
+[Test 2](http://test.com){:data-proofer-ignore=''}
