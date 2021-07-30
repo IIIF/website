@@ -74,7 +74,7 @@ implementer_cards:
   - label: Test an API implementation
     description: Try out the IIIF validators for the Image and Presentation APIs.
     image: ''
-    link: '{{site.api_url}}/validators/'
+    link: 'https://github.com/IIIF/awesome-iiif/#official-resources'
   - label: Get recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
     image: ''
