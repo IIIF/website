@@ -144,6 +144,3 @@ Make your digital collections available via IIIF so you and your users can benef
 {% include blocks/cards.html items=page.more_resources_cards %}
 
 {{ theme.block-end }}
-
-<a href="http://test.com">Test 1</a>
-[Test 2](http://test.com){:data-proofer-ignore=''}

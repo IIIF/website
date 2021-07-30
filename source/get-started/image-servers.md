@@ -4,8 +4,6 @@ layout: page
 
 ---
 
-# Image Servers
-
 Here are a few of the most popular IIIF image servers, though there are many [possible options](https://github.com/IIIF/awesome-iiif){:.external}:
 
 ### [Loris](https://github.com/loris-imageserver/loris){:.external}
