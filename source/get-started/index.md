@@ -133,24 +133,9 @@ Take the first step to exploring the rich world of IIIF-enabled materials.
 
 Make your digital collections available via IIIF so you and your users can benefit from interoperability.
 
-
-{% include blocks/tabs.html tabs=page.implement_tabs %}
-
-
-{% include misc/button.html button_label="View All Docs" button_link=site.api_url %}
-
-
-{{ theme.block-end }}
-
-{{ theme.block-center-start }}
-
-## More for Implementers
-
 {% include blocks/cards.html items=page.implementer_cards %}
 
 {{ theme.block-end }}
-
-
 
 {{ theme.block-center-start }}
 
