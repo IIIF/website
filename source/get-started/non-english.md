@@ -28,3 +28,8 @@ breadcrumbs:
 
 - [Regional Meeting: IIIF for Chinese Culture - 2021 IIIF Annual Conference [video]](https://www.youtube.com/watch?v=Bh21b1pBLzE)
 - [IIIF Week 2020 - China Showcase [video]](https://www.youtube.com/watch?v=F01VY4St76U)
+
+
+## русский / Russian
+
+- [Отчет об онлайн-обучении IIIF / Report on IIIF Online Training](https://www.beautiful.ai/player/-MfiQLZf_6WUKeNfTtGl)/IIIF-July-2021
