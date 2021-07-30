@@ -50,12 +50,16 @@ end_user_cards:
     description: Take your knowledge a step further and use our open training materials to learn hands-on how resources are made available via IIIF.
     image: ''
     link: 'https://training.iiif.io/iiif-online-workshop/'
-  - label: Find Non-English Language Resource
+  - label: Find Non-English resources
     description: Take a look and see what materials have been created by the IIIF Community in a variety of languages. 
     image: ''
     link: '/get-started/non-english/'
+  - label: Popular IIIF tools
+    description: Try making an exhibit with IIIF materials, or setting up a crowd-sourcing project.
+    link: '/get-started/tools'
+    image: ''
 implementer_cards:
-  - label: IIIF-compliant vendors and tools
+  - label: IIIF-compliant vendors
     description: View a list of vendors that allow you to serve your resources via IIIF without building your own ecosystem. 
     image: ''
     link: '/get-started/vendors/'
