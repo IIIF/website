@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: b70f5cf9d99d279502edb751c0933af18deb8c59
+  revision: 4d6dba4e4be207e65bad34e8e73d96c894f1efa4
   branch: feature/carousel-include-11
   specs:
     iiifc-theme (0.1.0)
