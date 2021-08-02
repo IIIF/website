@@ -32,6 +32,4 @@ breadcrumbs:
 
 ## русский / Russian
 
-## Italian
-
 - [Отчет об онлайн-обучении IIIF / Report on IIIF Online Training](https://www.beautiful.ai/player/-MfiQLZf_6WUKeNfTtGl)/IIIF-July-2021
