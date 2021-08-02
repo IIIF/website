@@ -3,6 +3,11 @@ title: "IIIF Code of Conduct"
 layout: page
 tags: [event]
 anchor_headings: true
+breadcrumbs:
+  - label: News & Events
+    link: '{{ site.root_url }}/news-and-events/'
+  - label: All Events
+    link: '{{ site.root_url }}/event/'
 ---
 The IIIF Code of Conduct guides our behavior as members of the IIIF Community in any forum, including remote and in-person meetings and events, email lists, Slack, GitHub, social media, and private correspondence related to IIIF. IIIF is an inclusive and safe community, committed to openness and transparency in all interactions and activities. To reflect these commitments, we agree to operate according to the following standards.
 
