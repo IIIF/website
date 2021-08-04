@@ -2,7 +2,7 @@
 layout: default
 title: Get Involved
 subtitle: >
-  The International Image Interoperability Framework (IIIF) encompasses a large and growing community of interested individuals, organizations, a Consortium.
+  IIIF encompasses a large and growing community of individuals and organizations.
 permalink: /get-involved/
 hero:
   image: "assets/images/heroes/event@2x.webp"
@@ -20,11 +20,11 @@ events:
     title: IIIF Discovery Group
     location: Virtual (Zoom)
 more_resources_cards:
-  - label: Explore our groups
-    description: Our groups discuss elements or contexts of IIIF usage or to agree on direction of an idea or initiative.
+  - label: Explore community groups
+    description: Our community groups are affinity and technical groups that meet regularly to discuss ways of using IIIF.
     link: '/community/groups/'
-  - label: Newsletter Sign up
-    description: Sign up for the newsletter - news about events, training, cool projects, and community updates
+  - label: Newsletter sign up
+    description: Sign up for the newsletter to receive monthly updates about the framework, community, training and events, and new projects.
     link: '/newsletter'
   - label: Share your news & events
     description: Send us your latest IIIF news and events listings for inclusion in our monthly newsletter.
@@ -33,18 +33,18 @@ more_resources_cards:
     description: Catch up on presentations from recent events.
     link: '/get-started/talks/'
   - label: Host an event
-    description: Want to host a local in-person or online event? We have a guide for that.
+    description: You can host a local in-person or online event, and we have a guide for that.
     link: '/event/host-your-own-IIIF-event/'
-  - label: Join IIIF Slack
-    description: Join the IIIF Slack team - lots of activity, specific channels for groups, and more!
+  - label: Join the IIIF Slack
+    description: Join the IIIF Slack team to ask questions and join discussions, network, learn about new initiatives, and more.
     link: 'http://bit.ly/iiif-slack'
 
 
 ---
 {{ theme.block-center-start }}
-## Join our Community
+## Join our community
 
-Scholars, software people, researchers, and culture workers are the types who tend to gravitate around IIIF, and everything we do is guided by our code of conduct. Overall, we think there are hundreds of adopters of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.
+Scholars, developers, researchers, librarians, and cultural workers at libraries, museums, archives, universities, and companies tend to gravitate to the IIIF community. All calls and events (virtual and in person) are guided by our code of conduct.
 
 {% include blocks/cards.html items=page.more_resources_cards %}
 
@@ -69,9 +69,9 @@ Scholars, software people, researchers, and culture workers are the types who te
 ## IIIF Consortium
 
 {% capture capture_text %}
-IIIF is supported by a membership consortium, with members from all over the world including Stanford University, Europeana, Kansai University, and many more.
+IIIF is supported by a global consortium which includes institutions like Stanford University, Europeana, Kansai University, the and many more.
 <br><br>
-You can join the consortium as a full or associate member. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the Technical Review Committee or Executive Committee. The consortium has staff, who are stewards looking after the community, organizing events and training, and helping things run smoothly.
+Organizations and institutions can join the consortium as Full or Associate members with a range of benefits attached to membership. The consortium has staff, who support the community by organizing events and training, and ensuring things run smoothly.
 {% endcapture %}
 
 {% include blocks/image-and-text.html image_align='left' image='assets/uploads/consortium_map.png' content=capture_text button_label="Join the Consortium" button_link="/community/consortium/join" alt_text="The IIIF Consortium map" %}
