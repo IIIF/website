@@ -38,4 +38,6 @@ Makes ContentDM images available through IIIF. Python. Built by Rob Sanderson.
 
 Flask extension to support IIIF in Python/Flask applications. Built by 16 contributors.
 
+## Other resources
+
 You should also check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif){:.external}. That’s a community-driven compendium of all things IIIF, and there’s a ton of stuff to explore related to the above categories and more.
