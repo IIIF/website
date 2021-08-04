@@ -15,23 +15,15 @@ iiif_basics_carousel:
       alt_text: "Wellcome Collection screenshot"
       caption: 'The Wellcome Collection features incredible medical and scientific materials in an elegant and intuitive interface.'
     link:
-      url: /demos/
+      url: "/demos"
       label: 'Open Demos'
-  # - resource:
-  #     url: 'assets/uploads/mirador viewer.png'
-  #     type: image
-  #     alt_text: "Mirador screenshot"
-  #     caption: 'The Mirador viewer allows for comparison if images across silos.'
-  #   link:
-  #     url: '/demos/'
-  #     label: 'Open Demos'
   - resource:
       url: 'assets/uploads/micrio-night-watch.png'
       type: image
       alt_text: "Micrio screenshot"
       caption: 'The Rijksmuseum features rich exhibitions driven by IIIF annotations.'
     link:
-      url: '/demos/'
+      url: "/demos"
       label: 'Open Demos'
   - resource:
       url: 'assets/uploads/SAT Taishōzō Image DB.png'
@@ -39,7 +31,7 @@ iiif_basics_carousel:
       alt_text: "SAT Taishōzō Image DB screenshot"
       caption: 'The SAT Daizokyo Database Project includes mandalas with over 400 annotations using Mirador.'
     link:
-      url: '/demos/'
+      url: "/demos"
       label: 'Open Demos'
   - resource:
       url: 'assets/uploads/ddmal_section.gif'
@@ -47,7 +39,7 @@ iiif_basics_carousel:
       alt_text: "DDMAL screenshot"
       caption: "The latest version of the IIIF Presentation API integrates audio and moving image options, as seen in this proof of concept from McGill's Distributed Digital Music Archives & Libraries Lab."
     link:
-      url: '/demos/'
+      url: "/demos"
       label: 'Open Demos'
 demos:
   - image: assets/uploads/biblissima_1.png
@@ -59,19 +51,6 @@ demos:
     link: /demos/
     label: The KuroNet Cursive Script Recognition Viewer makes historical Japanese cursive readable.
   - image: assets/uploads/exhibit_2.png
-    alt_text: "Exhibit screenshot"
-    link: /demos/
-    label: Exhibit.so allows users to easily develop guided annotation experiences for individual or grouped IIIF resources.
-demos2:
-  - image: assets/uploads/wellcome_zebrafish.png
-    alt_text: "Biblissima screenshot"
-    link: /demos/
-    label: Biblissima digitally reunites missing illuminations with their original pages.
-  - image: assets/uploads/kurushiji_ai.png
-    alt_text: "KuroNet screenshot"
-    link: /demos/
-    label: The KuroNet Cursive Script Recognition Viewer makes historical Japanese cursive readable.
-  - image: assets/uploads/wellcome_1.png
     alt_text: "Exhibit screenshot"
     link: /demos/
     label: Exhibit.so allows users to easily develop guided annotation experiences for individual or grouped IIIF resources.
