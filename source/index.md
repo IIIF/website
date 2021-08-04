@@ -2,7 +2,7 @@
 layout: default
 title: Home
 hero:
-  image: "assets/uploads/doshisha_103500.jpg"
+  image: "assets/uploads/doshisha_103500_.webp"
   title: Gain richer access to the world's image and audio/visual files
   subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions.
   button:
@@ -10,7 +10,7 @@ hero:
     link: "/get-started"
 iiif_basics_carousel:
   - resource:
-      url: 'assets/uploads/wellcome_zebrafish.png'
+      url: 'assets/uploads/wellcome_zebrafish.webp'
       type: image
       alt_text: "Wellcome Collection screenshot"
       caption: 'The Wellcome Collection features incredible medical and scientific materials in an elegant and intuitive interface.'
@@ -18,7 +18,7 @@ iiif_basics_carousel:
       url: "/demos"
       label: 'Open Demos'
   - resource:
-      url: 'assets/uploads/micrio-night-watch.png'
+      url: 'assets/uploads/micrio-night-watch.webp'
       type: image
       alt_text: "Micrio screenshot"
       caption: 'The Rijksmuseum features rich exhibitions driven by IIIF annotations.'
@@ -26,7 +26,7 @@ iiif_basics_carousel:
       url: "/demos"
       label: 'Open Demos'
   - resource:
-      url: 'assets/uploads/SAT Taishōzō Image DB.png'
+      url: 'assets/uploads/SAT Taishōzō Image DB.webp'
       type: image
       alt_text: "SAT Taishōzō Image DB screenshot"
       caption: 'The SAT Daizokyo Database Project includes mandalas with over 400 annotations using Mirador.'
