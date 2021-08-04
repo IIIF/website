@@ -1,18 +1,45 @@
-- name: JSTOR
-  link:
-  logo: assets/uploads/logos/JSTOR_Logo2017_90_2x.png
+# - name:
+#   link: 
+#   logo:
+# - name:
+#   link: 
+#   logo:
+# - name:
+#   link: 
+#   logo:
+# - name:
+#   link: 
+#   logo:
+- name: Ghent University
+  link: https://lib.ugent.be/
+  logo: assets/uploads/logos/ghent_logo.svg
+- name: National Institute of Japanese Literature
+  link: https://www.nijl.ac.jp/en/
+  logo: assets/uploads/logos/nijl_logo_ogp.png
+- name: National Institute of Informatics
+  link: https://www.nii.ac.jp/
+  logo: assets/uploads/logos/NII_mainLogo.gif
+- name: Niedersächsische Staats- und Universitätsbibliothek Göttingen
+  link: https://www.sub.uni-goettingen.de/sub-aktuell/
+  logo: assets/uploads/logos/uni-goettingen-logo.svg
+- name: Chinese University of Hong Kong
+  link: https://repository.lib.cuhk.edu.hk/en/IIIF-Guide
+  logo: assets/uploads/logos/CUHK.svg
+- name: ITHAKA
+  link: https://www.ithaka.org/
+  logo: assets/uploads/logos/ITHAKA_logo.png
 - name: OCLC/Content DM
   link:
   logo: assets/uploads/logos/OCLC_Logo_V_Color_NoTag.png
-- name: DPLA
-  link:
-  logo: assets/uploads/logos/DPLA_square_logo.jpg
+# - name: DPLA
+#   link:
+#   logo: assets/uploads/logos/DPLA_square_logo.jpg
 - name: Europeana
   link:
   logo: assets/uploads/logos/logo_Europeana_basic_portrait_black.png
-- name: Internet Archive
-  link:
-  logo: assets/uploads/logos/ia-logo-pos-300x300.jpg
+# - name: Internet Archive
+#   link:
+#   logo: assets/uploads/logos/ia-logo-pos-300x300.jpg
 - name: Kyoto University
   link:
   logo: assets/uploads/logos/kyoto_university.png
@@ -34,30 +61,54 @@
 - name: Wellcome Trust
   link:
   logo: assets/uploads/logos/Wellcome_Collection_logo.svg.png
-- name: Library of Congress
-  link:
-  logo: assets/uploads/logos/LOC_open-graph-logo.png
+# - name: Library of Congress
+#   link:
+#   logo: assets/uploads/logos/LOC_open-graph-logo.png
 - name: The Vatican Library
   link:
   logo: assets/uploads/logos/DVL.png
-- name: Egyptian National Library and Archives
-  link: http://www.darelkotob.gov.eg/ar-eg/Pages/Home.aspx
-  logo: assets/uploads/logos/330px-National_Library_Egypt.jpg
-- name: The British Museum
-  link:
-  logo:
+# - name: Egyptian National Library and Archives
+#   link: http://www.darelkotob.gov.eg/ar-eg/Pages/Home.aspx
+#   logo: assets/uploads/logos/330px-National_Library_Egypt.jpg
+# - name: The British Museum
+#   link:
+#   logo:
 - name: J Paul Getty Trust
   link:
   logo: assets/uploads/logos/getty_signoff_horizontal.jpg
-- name: Walters Art Museum
-  link:
-  logo:
-- name: Gallery Systems
-  link:
-  logo:
-- name: Digirati
-  link:
-  logo:
-- name: Coggap
-  link:
-  logo: assets/uploads/logos/cogapp_logo.jpg
+# - name: Walters Art Museum
+#   link:
+#   logo:
+# - name: Gallery Systems
+#   link:
+#   logo:
+# - name: Digirati
+#   link:
+#   logo:
+# - name: Coggap
+#   link:
+#   logo: assets/uploads/logos/cogapp_logo.jpg
+- name: La Bibliothèque nationale de France
+  link: https://www.bnf.fr/fr
+  logo: assets/uploads/logos/bnf_logo.svg
+- name: Bayerische Staatsbibliothek
+  link: https://www.bsb-muenchen.de/
+  logo: assets/uploads/logos/bsb_logo_claim_large.svg
+- name: The British Library
+  link: https://www.bl.uk/#
+  logo: assets/uploads/logos/bl_logo_100.gif
+- name: University of Cambridge
+  link: https://www.cam.ac.uk/
+  logo: assets/uploads/logos/cambridge_university2.svg
+- name: Cornell University Library
+  link: https://www.library.cornell.edu/
+  logo: assets/uploads/logos/Cornell_University_seal.svg
+- name: École polytechnique fédérale de Lausanne (EPFL)
+  link: https://www.epfl.ch/en/
+  logo: assets/uploads/logos/epfl-logo-new.svg
+# - name:
+#   link: 
+#   logo: assets/uploads/logos/
+# - name:
+#   link: 
+#   logo: assets/uploads/logos/
