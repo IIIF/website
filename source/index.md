@@ -2,12 +2,53 @@
 layout: default
 title: Home
 hero:
-  image: "assets/images/heroes/hero-1.webp"
+  image: "assets/uploads/doshisha_103500.jpg"
   title: Gain richer access to the world's image and audio/visual files
   subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions.
   button:
     label: "Get Started"
     link: "/get-started"
+iiif_basics_carousel:
+  - resource:
+      url: 'assets/uploads/wellcome_zebrafish.png'
+      type: image
+      alt_text: "Wellcome Collection screenshot"
+      caption: 'The Wellcome Collection features incredible medical and scientific materials in an elegant and intuitive interface.'
+    link:
+      url: /demos/
+      label: 'Open Demos'
+  # - resource:
+  #     url: 'assets/uploads/mirador viewer.png'
+  #     type: image
+  #     alt_text: "Mirador screenshot"
+  #     caption: 'The Mirador viewer allows for comparison if images across silos.'
+  #   link:
+  #     url: '/demos/'
+  #     label: 'Open Demos'
+  - resource:
+      url: 'assets/uploads/micrio-night-watch.png'
+      type: image
+      alt_text: "Micrio screenshot"
+      caption: 'The Rijksmuseum features rich exhibitions driven by IIIF annotations.'
+    link:
+      url: '/demos/'
+      label: 'Open Demos'
+  - resource:
+      url: 'assets/uploads/SAT Taishōzō Image DB.png'
+      type: image
+      alt_text: "SAT Taishōzō Image DB screenshot"
+      caption: 'The SAT Daizokyo Database Project includes mandalas with over 400 annotations using Mirador.'
+    link:
+      url: '/demos/'
+      label: 'Open Demos'
+  - resource:
+      url: 'assets/uploads/ddmal_section.gif'
+      type: image
+      alt_text: "DDMAL screenshot"
+      caption: "The latest version of the IIIF Presentation API integrates audio and moving image options, as seen in this proof of concept from McGill's Distributed Digital Music Archives & Libraries Lab."
+    link:
+      url: '/demos/'
+      label: 'Open Demos'
 demos:
   - image: assets/uploads/biblissima_1.png
     alt_text: "Biblissima screenshot"
@@ -18,6 +59,19 @@ demos:
     link: /demos/
     label: The KuroNet Cursive Script Recognition Viewer makes historical Japanese cursive readable.
   - image: assets/uploads/exhibit_2.png
+    alt_text: "Exhibit screenshot"
+    link: /demos/
+    label: Exhibit.so allows users to easily develop guided annotation experiences for individual or grouped IIIF resources.
+demos2:
+  - image: assets/uploads/wellcome_zebrafish.png
+    alt_text: "Biblissima screenshot"
+    link: /demos/
+    label: Biblissima digitally reunites missing illuminations with their original pages.
+  - image: assets/uploads/kurushiji_ai.png
+    alt_text: "KuroNet screenshot"
+    link: /demos/
+    label: The KuroNet Cursive Script Recognition Viewer makes historical Japanese cursive readable.
+  - image: assets/uploads/wellcome_1.png
     alt_text: "Exhibit screenshot"
     link: /demos/
     label: Exhibit.so allows users to easily develop guided annotation experiences for individual or grouped IIIF resources.
@@ -74,8 +128,7 @@ stay_connected_cards:
 ## Break down silos with open APIs
 Most of the images and audio/visual resources that are fundamental to research exist in silos, with access restricted to bespoke, locally-built applications. IIIF gives you and your audience freedom to work across barriers.
 
-{% include blocks/demos.html items=page.demos %}
-{% include misc/button.html button_label="View Demos" button_link="/demos/" %}
+{% include blocks/carousel.html items=page.iiif_basics_carousel %}
 
 {{ theme.block-end }}
 
@@ -113,8 +166,10 @@ The six IIIF APIs fit together to deliver endless possibilities.
 ## Trusted by global technology leaders
 IIIF is leveraged by aggregators, research institutions, national libraries, archives, museums, software companies, and digital agencies.
 
+{% assign logos = site.data.institutions | sample: 8 %}
+{% include blocks/logo-grid.html items=logos %}
 
-{% include blocks/logo-grid.html items=site.data.institutions %}
+... and 51 more leading organizations. 
 
 {% include misc/button.html button_label="View All Consortium Members" button_link="/community/consortium/members" %}
 
