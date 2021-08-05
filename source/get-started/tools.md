@@ -10,7 +10,8 @@ These tools offer a user interface for working with IIIF, so all that's needed t
 
 - [From the Page](https://fromthepage.com/) - FromThePage is software for transcribing documents and collaborating on transcriptions with others.
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/).
-
+- [Allmaps](https://allmaps.org/) - Allmaps is a set of open source tools that make it easier and more fun to search, explore, georeference and work with collections of digitised maps. 
+- [Digital Mappa](https://www.digitalmappa.org/) - An open-source digital humanities platform for open-access workspaces, projects and publications.
 
 ### Exhibition and Guided Viewing Tools
 
