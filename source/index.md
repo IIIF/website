@@ -2,37 +2,37 @@
 layout: default
 title: Home
 hero:
-  image: "assets/uploads/doshisha_103500.jpg"
+  image: "assets/uploads/doshisha_103500_.webp"
   title: Gain richer access to the world's image and audio/visual files
-  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading cultural institutions.
+  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions.
   button:
-    label: "Get started"
+    label: "Get Started"
     link: "/get-started"
 iiif_basics_carousel:
   - resource:
-      url: 'assets/uploads/wellcome_zebrafish.png'
+      url: 'assets/uploads/wellcome_zebrafish.webp'
       type: image
       alt_text: "Wellcome Collection screenshot"
       caption: 'The Wellcome Collection features incredible medical and scientific materials in an elegant and intuitive interface.'
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'Open Demos'
   - resource:
-      url: 'assets/uploads/micrio-night-watch.png'
+      url: 'assets/uploads/micrio-night-watch.webp'
       type: image
       alt_text: "Micrio screenshot"
       caption: 'The Rijksmuseum features rich exhibitions driven by IIIF annotations.'
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'Open Demos'
   - resource:
-      url: 'assets/uploads/SAT Taishōzō Image DB.png'
+      url: 'assets/uploads/SAT Taishōzō Image DB.webp'
       type: image
       alt_text: "SAT Taishōzō Image DB screenshot"
       caption: 'The SAT Daizokyo Database Project includes mandalas with over 400 annotations using Mirador.'
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'Open Demos'
   - resource:
       url: 'assets/uploads/ddmal_section.gif'
       type: image
@@ -40,7 +40,7 @@ iiif_basics_carousel:
       caption: "The latest version of the IIIF Presentation API integrates audio and moving image options, as seen in this proof of concept from McGill's Distributed Digital Music Archives & Libraries Lab."
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'Open Demos'
 demos:
   - image: assets/uploads/biblissima_1.png
     alt_text: "Biblissima screenshot"
@@ -70,28 +70,28 @@ features:
 community_banner:
   image: "assets/images/heroes/event@3x.webp"
   button:
-    label: "Learn more"
+    label: "Learn More"
     link: "/get-involved"
   title: "Join the community"
   subtitle: "IIIF community groups tackle a range of topics, from implementing IIIF for specific communities to crafting new technical specifications."
 events:
   - date: 2021-04-04
-    title: IIIF Museums group call
+    title: IIIF Museums Call
     location: Virtual (Zoom)
   - date: 2021-03-23
-    title: IIIF Maps group call
+    title: IIIF Maps Call
     location: Virtual (Zoom)
   - date: 2021-02-12
-    title: IIIF Archives group call
+    title: IIIF Archives Call
     location: Virtual (Zoom)
   - date: 2021-01-01
-    title: IIIF Discovery group call
+    title: IIIF Discovery Group
     location: Virtual (Zoom)
 stay_connected_cards:
   - label: Attend an event
     description: The community hosts many virtual and in-person trainings, conferences, and other events.
     link_text: Learn more
-    link:
+    link: 
   - label: Join a community group call
     description: Connect with peers and learn the latest through regular calls open to everyone.
     link_text: Learn more
@@ -148,7 +148,7 @@ IIIF is leveraged by aggregators, research institutions, national libraries, arc
 {% assign logos = site.data.institutions | sample: 8 %}
 {% include blocks/logo-grid.html items=logos %}
 
-... and 51 more leading organizations.
+... and 51 more leading organizations. 
 
 {% include misc/button.html button_label="View All Consortium Members" button_link="/community/consortium/members" %}
 
@@ -157,7 +157,7 @@ IIIF is leveraged by aggregators, research institutions, national libraries, arc
 
 {{ theme.block-center-start }}
 
-## Featured events and news
+## Featured Events & News
 
 {% include blocks/event-cards.html items=page.events %}
 {% include misc/button.html button_label="View All" button_link="#" %}
