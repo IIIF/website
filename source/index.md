@@ -145,7 +145,9 @@ The six IIIF APIs fit together to deliver endless possibilities.
 ## Trusted by global technology leaders
 IIIF is leveraged by aggregators, research institutions, national libraries, archives, museums, software companies, and digital agencies.
 
-{% assign logos = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3' | where_exp: "org", 'org.logo and org.logo != nil' | sample: 8 %}
+{% assign new = site.data.institutions | where_exp: "org", 'org.new == true' %}
+{% assign consortium = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3' | where_exp: "org", 'org.logo and org.logo != nil and org.new != true' | sample: 7 %} 
+{% assign logos = new | concat: consortium %}
 
 {% include blocks/logo-grid.html items=logos %}
 
