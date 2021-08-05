@@ -4,9 +4,9 @@ title: Home
 hero:
   image: "assets/uploads/doshisha_103500_.webp"
   title: Gain richer access to the world's image and audio/visual files
-  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions.
+  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading cultural institutions.
   button:
-    label: "Get Started"
+    label: "Get started"
     link: "/get-started"
 iiif_basics_carousel:
   - resource:
@@ -16,7 +16,7 @@ iiif_basics_carousel:
       caption: 'The Wellcome Collection features incredible medical and scientific materials in an elegant and intuitive interface.'
     link:
       url: "/demos"
-      label: 'Open Demos'
+      label: 'Open demos'
   - resource:
       url: 'assets/uploads/micrio-night-watch.webp'
       type: image
@@ -24,7 +24,7 @@ iiif_basics_carousel:
       caption: 'The Rijksmuseum features rich exhibitions driven by IIIF annotations.'
     link:
       url: "/demos"
-      label: 'Open Demos'
+      label: 'Open demos'
   - resource:
       url: 'assets/uploads/SAT Taishōzō Image DB.webp'
       type: image
@@ -32,7 +32,7 @@ iiif_basics_carousel:
       caption: 'The SAT Daizokyo Database Project includes mandalas with over 400 annotations using Mirador.'
     link:
       url: "/demos"
-      label: 'Open Demos'
+      label: 'Open demos'
   - resource:
       url: 'assets/uploads/ddmal_section.gif'
       type: image
@@ -40,7 +40,7 @@ iiif_basics_carousel:
       caption: "The latest version of the IIIF Presentation API integrates audio and moving image options, as seen in this proof of concept from McGill's Distributed Digital Music Archives & Libraries Lab."
     link:
       url: "/demos"
-      label: 'Open Demos'
+      label: 'Open demos'
 demos:
   - image: assets/uploads/biblissima_1.png
     alt_text: "Biblissima screenshot"
@@ -70,22 +70,22 @@ features:
 community_banner:
   image: "assets/images/heroes/event@3x.webp"
   button:
-    label: "Learn More"
+    label: "Learn more"
     link: "/get-involved"
   title: "Join the community"
   subtitle: "IIIF community groups tackle a range of topics, from implementing IIIF for specific communities to crafting new technical specifications."
 events:
   - date: 2021-04-04
-    title: IIIF Museums Call
+    title: IIIF Museums group call
     location: Virtual (Zoom)
   - date: 2021-03-23
-    title: IIIF Maps Call
+    title: IIIF Maps group call
     location: Virtual (Zoom)
   - date: 2021-02-12
-    title: IIIF Archives Call
+    title: IIIF Archives group call
     location: Virtual (Zoom)
   - date: 2021-01-01
-    title: IIIF Discovery Group
+    title: IIIF Discovery group call
     location: Virtual (Zoom)
 stay_connected_cards:
   - label: Attend an event
@@ -157,7 +157,7 @@ IIIF is leveraged by aggregators, research institutions, national libraries, arc
 
 {{ theme.block-center-start }}
 
-## Featured Events & News
+## Featured events & news
 
 {% include blocks/event-cards.html items=page.events %}
 {% include misc/button.html button_label="View All" button_link="#" %}
