@@ -1,6 +1,9 @@
 ---
 title: IIIF Community and Technical Specification Groups
 layout: page
+breadcrumbs:
+ - label: Community
+   link: /community/
 ---
 
 The IIIF groups meet regularly to help get things done, and anyone can join a group or attend a meeting. They’ve sprung up organically, usually around a desired set of features like handling a massive newspaper archive. There are more community-oriented groups around usability and helping new folks get up and running, too.

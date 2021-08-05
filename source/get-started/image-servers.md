@@ -1,7 +1,9 @@
 ---
 title: "Image Servers"
 layout: page
-
+breadcrumbs:
+ - label: Get Started
+   link: /get-started/
 ---
 
 Here are a few of the most popular IIIF image servers, though there are many [possible options](https://github.com/IIIF/awesome-iiif){:.external}:

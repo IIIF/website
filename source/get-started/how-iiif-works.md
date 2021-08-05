@@ -7,6 +7,9 @@ permalink: /get-started/how-iiif-works/
 hero:
   image: ""
 anchor_headings: true
+breadcrumbs:
+ - label: Get Started
+   link: /get-started/
 ---
 {{ theme.block-start }}
 <div class="content" markdown="1">

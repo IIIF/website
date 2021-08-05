@@ -10,7 +10,11 @@ hero:
   button:
     label: "Join the Consortium"
     link: "mailto:admin@iiif.io?subject='We'd like to join the IIIF Consortium"
-
+breadcrumbs:
+ - label: Community
+   link: /community/
+ - label: Consortium
+   link: /community/consortium
 ---
 
 We rely on IIIF Consortium (IIIF-C) members to provide leadership and sustainability in support of our shared goals:

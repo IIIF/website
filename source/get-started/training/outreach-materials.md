@@ -2,7 +2,11 @@
 title: "Outreach materials"
 id: outreach_materials
 layout: page
-
+breadcrumbs:
+ - label: Get Started
+   link: /get-started/
+ - label: Training
+   link: /get-started/training
 ---
 
 # Outreach materials

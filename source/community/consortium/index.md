@@ -4,6 +4,9 @@ id: consortium
 layout: page
 hero:
     image: 'assets/uploads/consortium_map.png'
+breadcrumbs:
+ - label: Community
+   link: /community/
 ---
 ## About the IIIF Consortium
 

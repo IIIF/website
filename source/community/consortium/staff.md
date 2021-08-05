@@ -1,6 +1,11 @@
 ---
 title: Meet the Staff
 layout: page
+breadcrumbs:
+ - label: Community
+   link: /community/
+ - label: Consortium
+   link: /community/consortium
 ---
 
 ## Josh Hadro, Managing Director
