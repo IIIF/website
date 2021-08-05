@@ -1,0 +1,73 @@
+-
+  name: Animal Crossing artwork tool
+  github:
+  url: https://experiments.getty.edu/ac-art-generator
+  demo:
+  description: Bring any IIIF Image into your Animal Crossing environment.
+  creators: The Getty Experiments Team
+# -
+#   name: Storiiies Editor
+#   github:
+#   url: https://storiiies-editor.cogapp.com/
+#   demo:
+#   description: "A free online storytelling platform for working with IIIF materials."
+#   creators: Cogapp
+-
+  name: Europeana Media project new audiovisual player
+  github: https://github.com/europeana/media-player
+  url: https://pro.europeana.eu/post/europeana-media-rolling-out-the-new-audiovisual-player
+  demo: https://www.europeana.eu/en/item/2051933/data_euscreenXL_EUS_EB001C7794C7B27B6BAA746AB17B6F23
+  description: "An open source universal audiovisual player on Europeana collections that supports IIIF A/V content as well as annotations (including subtitles)."
+  creators:  Europeana Media Project team
+# -
+#   name: Serverless IIIF
+#   github: https://github.com/nulib/serverless-iiif
+#   url:
+#   demo:
+#   description: "A IIIF 2.1 Image API compliant server written as an AWS Serverless Application."
+#   creators: Michael B. Klein, Justin Gondron, Edward Silverton, Trey Pendragon
+# -
+#   name: Simple Site - The IIIF Mirador Extension
+#   github: https://github.com/jpadfield/simple-site/
+#   url: https://jpadfield.github.io/simple-site/IIIF%20viewer.html
+#   demo: https://jpadfield.github.io/simple-site/IIIF%20viewer.html
+#   description: "Uses Github Pages to store and serve IIIF manifests and presents them via Mirador IIIF Viewer."
+#   creators: Joseph Padfield, The National Gallery
+-
+  name: Archiviiify
+  github: https://github.com/atomotic/archiviiify
+  url: https://literarymachin.es/archiviiify/
+  demo:
+  description: "A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search."
+  creators: Raffaele Messuti
+-
+  name: New version of Curation Viewer
+  github:
+  url: http://codh.rois.ac.jp/software/iiif-curation-viewer/
+  demo:
+  description: "IIIF Curation Viewerを更新しました。バージョン1.9の主な改良点は、「アノテーションビューモード」の文字マーカーで、フォントサイズの自動調整や背景色の自動調整などの新機能によって、画像に文字を重ねて表示する場合の可読性が大きく向上しました。"
+  creators: Center for Open Data in the Humanities (CODH)
+-
+  name: Readux 2 # Required
+  github:
+  url: https://readux2.ecdsdev.org
+  demo: https://scholarblogs.emory.edu/ecds/resources-feature-ecds-launches-readux-2/
+  description: A platform for browsing, taking notes, and teaching or publishing with digitized books that can be used in teaching or adopted at your institution. # Required
+  creators: Emory Center for Digital Scholarship (ECDS) # Required
+# -
+#   name: # Required
+#   github:
+#   url:
+#   demo:
+#   description: # Required
+#   creators: # Required
+
+
+
+# -
+#   name: # Required
+#   github:
+#   url:
+#   demo:
+#   description: # Required
+#   creators: # Required
