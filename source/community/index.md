@@ -25,14 +25,15 @@ There are **[groups]({{ site.root_url | absolute_url }}/community/groups/)** to 
 
 IIIF is supported by a membership **[consortium]({{ site.root_url | absolute_url }}/community/consortium)**, with members from all over the world including Stanford University, Europeana, Kansai University, and many more.
 
-You can **[join the consortium]({{ site.root_url | absolute_url }}/community/consortium/join/)** as a _full_ or _associate member_. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/trc/) or <span style="text-decoration:underline;">Executive Committee</span>. The consortium has [staff]({{ site.root_url | absolute_url }}/community/consortium/staff), who are stewards looking after the community, organizing events and training, and helping things run smoothly.
+You can **[join the consortium]({{ site.root_url | absolute_url }}/community/consortium/join/)** as a _full_ or _associate member_. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/trc/) or [Executive Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#executive-committee). The consortium has [staff]({{ site.root_url | absolute_url }}/community/consortium/staff), who are stewards looking after the community, organizing events and training, and helping things run smoothly.
 
-## Recent Community Tools
+--- 
 
+## Recent Implementations from the Community
 
-
-## Recent Implementations
-
+{% for i in site.data.recent_implementations %}
+- [{{i.name}}]({{i.url}}){%if i.creators%} by {{i.creators}}{% endif %} - {{i.description}} {%if i.example %}(<a href="{{i.example}}">Example</a>){% endif %} {%if i.github%}(<a href="{{i.github}}">Github</a>){% endif %}
+{% endfor %}
 
 
 

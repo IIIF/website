@@ -2,6 +2,11 @@
 title: IIIF Consortium Frequently Asked Questions (FAQs)
 id: consortium
 layout: page
+breadcrumbs:
+ - label: Community
+   link: /community/
+ - label: Consortium
+   link: /community/consortium
 ---
 
 ## Why IIIF?

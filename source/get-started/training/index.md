@@ -5,6 +5,9 @@ redirect_from:
   - /training+outreach/
 hero:
   image: ""
+breadcrumbs:
+ - label: Get Started
+   link: /get-started/
 ---
 
 ## Online workshops

@@ -1,7 +1,9 @@
 ---
 title: "Image Servers"
 layout: page
-
+breadcrumbs:
+ - label: Get Started
+   link: /get-started/
 ---
 
 Here are a few of the most popular IIIF image servers, though there are many [possible options](https://github.com/IIIF/awesome-iiif){:.external}:
@@ -37,5 +39,7 @@ Makes ContentDM images available through IIIF. Python. Built by Rob Sanderson.
 ### [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif){:.external}
 
 Flask extension to support IIIF in Python/Flask applications. Built by 16 contributors.
+
+## Other resources
 
 You should also check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif){:.external}. That’s a community-driven compendium of all things IIIF, and there’s a ton of stuff to explore related to the above categories and more.

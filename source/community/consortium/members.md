@@ -2,6 +2,15 @@
 title: Consortium Members
 id: members
 layout: page
+hero:
+  button:
+    label: "Join the Consortium"
+    link: "/community/consortium/join"
+breadcrumbs:
+ - label: Community
+   link: /community/
+ - label: Consortium
+   link: /community/consortium
 ---
 
 ## Full Members

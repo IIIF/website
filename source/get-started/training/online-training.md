@@ -6,6 +6,11 @@ tags: [training ]
 redirect_from:
   - /training+outreach/online_training  
   - /training/online_training
+breadcrumbs:
+ - label: Get Started
+   link: /get-started/
+ - label: Training
+   link: /get-started/training
 ---
 
 Please join us for our next workshop to learn IIIF basics!

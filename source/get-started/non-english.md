@@ -8,11 +8,11 @@ breadcrumbs:
 
 - Translations of Specs
 
-## Deutsch / German 
+## Deutsch / German
 
 - [IIIF Crashkurs [German] ](https://pieckh.github.io/IIIF-Crashkurs/IIIF-Crashkurs/?mc_cid=c8cc01e228&mc_eid=UNIQID)
 - [Was ist IIIF?](https://www.youtube.com/playlist?list=PLxDekeBVQtVJeRqoTgsif7fJki2X96O-1)
-- [IIIF Intro](https://drive.google.com/file/d/1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC/view) 
+- [IIIF Intro](https://drive.google.com/file/d/1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC/view)
 
 ## Français / French
 
