@@ -52,7 +52,7 @@ Benefits of full membership include:
 *   Discounts on training and workshops held throughout the year
 *   Institution-wide special rates for IIIF Conference registration
 *   Representation on the IIIF [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ) which guides technical development of IIIF specs
-*   Eligibility to serve on the <span style="text-decoration:underline;">Executive Committee</span> and <span style="text-decoration:underline;">Operating Committee</span>, which provide IIIF governance
+*   Eligibility to serve on the [Executive Committee and Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/), which provide IIIF governance
 *   Priority attendance at IIIF Working meetings and other events
 *   Priority technical advice and discounted consulting
 
