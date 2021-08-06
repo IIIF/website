@@ -12,3 +12,4 @@ Questions to address at some point:
 - remaining demo screenshots
 - Address remaining editor tweaks
 - Add recent community tools and implementations from newsletter
+- figure out CC license for zebrafish and credits for headers
