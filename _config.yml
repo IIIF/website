@@ -8,6 +8,13 @@ api_url:        https://preview.iiif.io/api/wireframe
 cookbook_url:   https://preview.iiif.io/cookbook/wireframe
 guides_url:     https://preview.iiif.io/guides/wireframe
 
+collections:
+  news:
+    output: true
+    permalink: /:collection/:path
+  events:
+    permalink: /:collection/:path
+    output: true
 
 plugins:
   - jekyll-data

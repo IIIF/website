@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: 74b45266e815105634fc3fe1e33d83fe1c454b20
-  branch: main
+  revision: 566adfd3d9cac3ff7d37359fb610f989bbe3895f
+  branch: feature/news-and-events-12-13
   specs:
     iiifc-theme (0.1.0)
       html-proofer
