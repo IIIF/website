@@ -55,17 +55,6 @@ There are many ways to join and stay in touch with our community, from attending
 
 {{ theme.block-center-start }}
 
-## Upcoming events
-
-{% include blocks/event-cards.html items=page.events %}
-
-
-{{ theme.block-end }}
-
-
-
-{{ theme.block-center-start }}
-
 ## Join the IIIF Consortium
 
 {% capture capture_text %}
@@ -77,3 +66,14 @@ Organizations and institutions can join the consortium, with a range of benefits
 {% include blocks/image-and-text.html image_align='left' image='assets/uploads/consortium_map.png' content=capture_text button_label="Learn more" button_link="/community/consortium/join" alt_text="The IIIF Consortium map" %}
 
 {{ theme.block-end }}
+
+## Upcoming events
+
+{% include blocks/event-cards.html items=page.events %}
+
+
+{{ theme.block-end }}
+
+
+
+{{ theme.block-center-start }}
