@@ -37,7 +37,8 @@ iiif_basics_carousel:
       url: 'assets/uploads/ddmal_section.gif'
       type: image
       alt_text: "DDMAL screenshot"
-        caption: "McGill University's Distributed Digital Music Archives & Libraries Lab uses the Presentation API to integrate audio and moving images.
+      caption: "McGill University's Distributed Digital Music Archives & Libraries Lab uses the Presentation API to integrate audio and moving images."
+    link:
       url: "/demos"
       label: 'View demos'
 demos:
