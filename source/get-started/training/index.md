@@ -24,14 +24,6 @@ To learn how to use existing IIIF materials for research or teaching, visit our 
 ## Teach others about IIIF
 If you are already familiar with IIIF and want to help others learn, you can use our [outreach materials]({{ site.root_url | absolute_url }}/get-started/training/outreach-materials) to get started on presentations and information sharing. (If you find yourself doing this often, consider joining our [IIIF Ambassador Program]({{ site.root_url | absolute_url }}/community/ambassadors)!)
 
-## LYRASIS partnership
-
-IIIF and [LYRASIS](https://www.lyrasis.org/Leadership/Pages/LYRASIS-Learning.aspx) are working together to create online training on IIIF. One upcoming session is currently scheduled:
-
-- [Introduction to IIIF](https://www.lyrasis.org/Content/Pages/Event-Details.aspx?Eid=F26BCB02-CACA-EA11-80EB-00155DE5EC03) (October 8th, 11:00 am ET)
-
-New classes will be added to the [LYRASIS online class schedule](https://www.lyrasis.org/Leadership/Pages/LYRASIS-Learning.aspx) in the coming months.
-
 
 <script>
     function addEvent(parentDiv, event) {
@@ -45,7 +37,7 @@ New classes will be added to the [LYRASIS online class schedule](https://www.lyr
         logo.alt = 'Event Logo';
         logo.height = 100;
         li.appendChild(logo);*/
-        
+
         let div = document.createElement('div');
         div.style = "flex: auto; padding-left: 20px;";
         li.appendChild(div);
@@ -62,7 +54,7 @@ New classes will be added to the [LYRASIS online class schedule](https://www.lyr
         let button = document.createElement('button')
         button.style = '-webkit-transform: translateZ(0); transform: translateZ(0); position: relative; height: 44px; padding: 0 30px 1px; -webkit-box-sizing: border-box; box-sizing: border-box; text-align: center; text-decoration: none; line-height: 24px; font-weight: 600; letter-spacing: .2px; color: #39364f; color: var(--eds-ui-800,#39364f); fill: #39364f; fill: var(--eds-ui-800,#39364f); background: transparent; background-color: transparent; border: 2px solid #a9a8b3; border: 2px solid var(--eds-ui-500,#a9a8b3); border-radius: 4px; cursor: pointer; -webkit-transition: all .4s cubic-bezier(.4,0,.3,1); transition: all .4s cubic-bezier(.4,0,.3,1); border-color: var(--eds-primary-brand--hover,#f05537);background-color: var(--eds-primary-brand--hover,#f05537);color: var(--eds-inverse-primary-brand,#fff);';
         button.innerHTML = 'Register'
-        button.onclick = function () { 
+        button.onclick = function () {
             window.open(
               event.url,
               '_blank' // <- This is what makes it open in a new window.
@@ -89,7 +81,7 @@ New classes will be added to the [LYRASIS online class schedule](https://www.lyr
       }).then(data => {
         if (data.hasOwnProperty('events')) {
             let p = document.createElement('p');
-            p.innerHTML = 'The following training sessions are available:'; 
+            p.innerHTML = 'The following training sessions are available:';
             div.insertBefore(p, ul);
             data.events.forEach(event => addEvent(ul, event));
         }
@@ -97,5 +89,5 @@ New classes will be added to the [LYRASIS online class schedule](https://www.lyr
       }).catch(err => {
         console.log('Failed due to ' + err);
       });
-        
+
 </script>
