@@ -67,6 +67,8 @@ Organizations and institutions can join the consortium, with a range of benefits
 
 {{ theme.block-end }}
 
+{{ theme.block-center-start }}
+
 ## Upcoming events
 
 {% include blocks/event-cards.html items=page.events %}
