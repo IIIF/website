@@ -2,17 +2,17 @@
 layout: default
 title: Get Started
 subtitle: >
-  Whether you're a developer, researcher, librarian, collection manager, or someone else, your work with digital collections can benefit from IIIF technology and tools. 
+  Whether you're a developer, researcher, librarian, collection manager, or someone else, your work with digital collections can benefit from IIIF technology and tools.
 permalink: /get-started/
 hero:
   image: "assets/images/heroes/hero-2@3x.webp"
-intro_tabs: 
+intro_tabs:
   - label: End User
     content: Whether you're a researcher, an educator, or just someone exploring the possibilities, IIIF makes your life easier when it comes to working with digital collections.
   - label: Developer
     content: As an implementer/developer, you can make digital resources available on the web using IIIF.
 implement_tabs:
-  - label: 1. Explore the Core APIs
+  - label: 1. Explore the core APIs
     content: Image and Presentation are the core APIs most institutions start with. Choose to retrieve images with the Image API or the image’s metadata with the Presentation API.
     cards:
       - label: Learn about image viewers
@@ -23,16 +23,16 @@ implement_tabs:
         description: There are several popular viewers, each with different capabilities.
         image: 'assets/images/icons/image@2x.webp'
         link: '{{site.api_url}}/image'
-  - label: 2. Integrate Viewers
+  - label: 2. Integrate viewers
     content: It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
     cards:
       -
-  - label: 3. Enable Other Features
+  - label: 3. Enable other features
     content: It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     cards:
       -
 end_user_cards:
-  - label: How IIIF Works
+  - label: How IIIF works
     description: Get a simple overview of how IIIF works.
     image: ''
     link: '/get-started/how-iiif-works'
@@ -50,8 +50,8 @@ end_user_cards:
     description: Take your knowledge a step further and use our open training materials to learn hands-on how resources are made available via IIIF.
     image: ''
     link: 'https://training.iiif.io/iiif-online-workshop/'
-  - label: Find Non-English resources
-    description: Take a look and see what materials have been created by the IIIF Community in a variety of languages. 
+  - label: Find non-English resources
+    description: Take a look and see what materials have been created by the IIIF Community in a variety of languages.
     image: ''
     link: '/get-started/non-english/'
   - label: Popular IIIF tools
@@ -60,11 +60,11 @@ end_user_cards:
     image: ''
 implementer_cards:
   - label: IIIF-compliant vendors
-    description: View a list of vendors that allow you to serve your resources via IIIF without building your own ecosystem. 
+    description: View a list of vendors that allow you to serve your resources via IIIF without building your own ecosystem.
     image: ''
     link: '/get-started/vendors/'
   - label: IIIF viewers
-    description: There are several popular viewers, each with different capabilities. 
+    description: There are several popular viewers, each with different capabilities.
     image: ''
     link: '/get-started/iiif-viewers/'
   - label: IIIF image servers
@@ -107,7 +107,7 @@ more_resources_cards:
 
 ## End user or implementer?
 
-There are two main ways to get started with IIIF. 
+There are two main ways to get started with IIIF.
 
 |If you’re a researcher, educator, or in a similar role, you are likely an end user, and you can use IIIF resources already hosted on the Web by someone else--all without having to learn to code. | As an implementer, you can make digital resources available on the Web via IIIF using a variety of products, tools, and resources. Coding skills may or may not be required.|
 |[View end user resources](#end-users)|[View implementer resources](#implementers)|
@@ -143,7 +143,7 @@ Make your digital collections available via IIIF so you and your users can benef
 
 {{ theme.block-center-start }}
 
-## More Resources
+## More resources
 
 {% include blocks/cards.html items=page.more_resources_cards %}
 
