@@ -11,10 +11,7 @@ breadcrumbs:
 ---
 
 ## Online workshops
-We regularly offer [online workshops]({{ site.root_url | absolute_url }}/get-started/training/online-training) led by expert instructors. These are one week long and cover working with the Image and Presentation APIs, and annotating images, through asynchronous learning, Zoom meetings, and a dedicated Slack channel.
-
-<div id="upcoming_training"></div>
-
+We regularly offer 5-day [online workshops]({{ site.root_url | absolute_url }}/get-started/training/online-training) led by expert instructors. These cover working with the Image and Presentation APIs and annotating images using a combination of asynchronous learning, Zoom meetings, and a dedicated Slack channel.
 
 ## Self-directed learning
 You can use our [workshop training site](https://training.iiif.io/iiif-online-workshop/) to learn about IIIF on your own.
@@ -22,7 +19,7 @@ You can use our [workshop training site](https://training.iiif.io/iiif-online-wo
 To learn how to use existing IIIF materials for research or teaching, visit our [explainer]({{ site.guides_url | absolute_url }}/using_iiif_resources/) on using IIIF resources and viewers.
 
 ## Teach others about IIIF
-If you are already familiar with IIIF and want to help others learn, you can use our [outreach materials]({{ site.root_url | absolute_url }}/get-started/training/outreach-materials) to get started on presentations and information sharing. (If you find yourself doing this often, consider joining our [IIIF Ambassador Program]({{ site.root_url | absolute_url }}/community/ambassadors)!)
+If you are already familiar with IIIF and want to help others learn, you can use our [outreach materials]({{ site.root_url | absolute_url }}/get-started/training/outreach-materials) to get started on presentations and information sharing. (If you find yourself doing this often, consider joining our [Ambassador Program]({{ site.root_url | absolute_url }}/community/ambassadors)!)
 
 
 <script>
