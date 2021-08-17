@@ -4,10 +4,6 @@
 - name: Art Institute of Chicago
   uri:  https://www.artic.edu/
   iiifc:
-- name: ITHAKA
-  uri: http://www.ithaka.org
-  iiifc: 1
-  logo: assets/uploads/logos/ITHAKA_logo.png
 - name: Art Gallery of Ontario
   uri: http://boxwood.ago.ca
   iiifc:
