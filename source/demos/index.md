@@ -22,7 +22,7 @@ get_started_cards:
     alt_text: "TKTK"
 iiif_basics_carousel:
   - resource:
-      url: 'assets/uploads/demo-screenshot.png'
+      url: 'assets/uploads/nationalmuseum.webp'
       type: image
       alt_text: 'Nationalmuseum screenshot'
       caption: 'Nationalmuseum has implemented the IIIF Image API and the OpenSeadragon viewer, which allows smooth, deep zoom on images as well as the ability to easily switch out front end tools and back end systems.'
@@ -30,13 +30,21 @@ iiif_basics_carousel:
       url: 'http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=direct/1/ResultDetailView/result.inline.lightbox.t1.collection_lightbox.$TspTitleImageLink.link&sp=13&sp=Sexhibition&sp=SfilterDefinition&sp=0&sp=2&sp=3&sp=SdetailView&sp=11&sp=Sdetail&sp=1&sp=T&sp=0&sp=Slightbox_3x4&sp=0&sp=T&sp=1#exhibitionReferences'
       label: 'Open Demo'
   - resource:
-      url: 'assets/uploads/stanford_newspaper.png'
+      url: 'assets/uploads/stanford_newspaper.webp'
       type: image
       alt_text: 'Stanford screenshot'
       caption: "Stanford University has implemented the IIIF Image and Presentation APIs, which allow smooth, deep zoom on images and the ability to easily switch front end tools and back end systems, plus the ability to display multi-image objects such as the newspaper shown here, and work with them across sites and tools."
     link:
       url: 'https://searchworks.stanford.edu/view/10384606'
       label: 'Open Demo'
+  - resource:
+      url: 'assets/uploads/wellcome_zebrafish.webp'
+      type: image
+      alt_text: "Wellcome Collection screenshot"
+      caption: 'The Wellcome Collection uses IIIF to make medical and scientific materials available via a Mirador viewer, and to offer multiple image download sizes to users.'
+    link:
+      url: "/demos"
+      label: 'Open demo'
 enhance_collections_carousel:
   - resource:
       url: 'assets/uploads/biblissima_1.png'
