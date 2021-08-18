@@ -13,7 +13,7 @@ breadcrumbs:
 
 \* indicates Founding Member of the IIIF Consortium
 <ul>
-  {% for i in site.data.old.institutions %}
+  {% for i in site.data.institutions %}
     {% if i.iiifc < 3 %}
    <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
@@ -33,7 +33,7 @@ breadcrumbs:
 ## Associate Members
 
 <ul>
-{% for i in site.data.old.institutions %}
+{% for i in site.data.institutions %}
     {% if i.iiifc == 4 %}
   <li>
       {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
