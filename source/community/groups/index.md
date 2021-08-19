@@ -8,7 +8,7 @@ breadcrumbs:
 
 Community Groups provide an opportunity for discussing and advancing IIIF-related issues with peers. They meet regularly and are open to all.
 
-If you'd like to propose a technical or community topic that would benefit the community, please review the [IIIF Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework).
+If you'd like to propose a technical or community topic that would benefit the community, please review the [Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework).
 
 
 ## Current Groups

@@ -8,7 +8,7 @@ layout: page
 
 This document provides a framework for the formation and management of community and Technical Specification Groups within the IIIF community. Given the breadth and scale of IIIF, groups allow for focused work in concentrated areas of common interest, while also providing appropriate transparency and inclusiveness across the community.
 
-The IIIF Groups Framework is derived from the [Hydra Project group structure][hydra-groups], which is in turn informed by the experiences and guidelines of related organizations, including the W3C, the Research Data Alliance, and the Apache Software Foundation. The IIIF Groups Framework aims to:
+The Groups Framework is derived from the [Hydra Project group structure][hydra-groups], which is in turn informed by the experiences and guidelines of related organizations, including the W3C, the Research Data Alliance, and the Apache Software Foundation. The IIIF Groups Framework aims to:
 
   * Be lightweight enough that work is not prevented from being done
   * Facilitate visibility and discovery of ongoing beneficial work
@@ -29,7 +29,7 @@ Successful groups:
   * Develop high quality products through agreed processes and timeframes
   * Encourage participation based on a breadth of familiarity with IIIF and openly support new participants in an inclusive environment that fosters participation and contributions from throughout the community
 
-## Communication Channels
+## Communication channels
 
 To facilitate coordination within and across groups, IIIF maintains a common set of communications channels. IIIF Groups make use of these to ensure appropriate access, transparency and retention of discussions. These channels are:
 
@@ -45,7 +45,7 @@ To facilitate coordination within and across groups, IIIF maintains a common set
 
   * **Code Repositories**: GitHub is widely used within IIIF for code, documentation and issue tracking. The IIIF organization (<https://github.com/IIIF>) is used for core community products (such as the iiif.io website, technical infrastructure and specifications). Groups are encouraged to make use of GitHub repositories to manage the production of their deliverables and tracking issues and actions.
 
-  * **IIIF Working Meetings**: IIIF groups are encouraged to participate in regular in-person IIIF events, including helping to shape the agenda and allocating time/space for group discussion.
+  * **Working Meetings**: IIIF groups are encouraged to participate in regular in-person IIIF events, including helping to shape the agenda and allocating time/space for group discussion.
 
 ## IIIF Community Groups
 
@@ -66,15 +66,15 @@ Community Groups provide interest-specific forums for general discussion, brains
   * Community Groups must always have at least one member designated as Chair, and preferably two or at most three. Chairs are responsible for promoting continued activity within the group, but have no additional powers or rights than any other participant.
   * The discussions of the Community Group must be transparent and public, with notes made available through the [IIIF Google Drive][iiif-drive].
 
-### Community Group Dissolution
+### Community Group dissolution
 
 Community Groups can be dissolved if the participants decide that the topic has been fully explored.  The document describing the group should be updated to state this termination of the group, and otherwise left intact for future reference.
 
-## IIIF Technical Specification Groups
+## Technical Specification Groups
 
 Technical Specification Groups are the main working vehicle for adding new APIs or making changes to existing specifications within the IIIF Community. Technical Specification Groups are typically created to perform specific tasks in a defined realm and timescale, thereby allowing collaborative work to flourish in a structured environment.
 
-### Technical Specification Group Formation and Approval
+### Technical Specification Group formation and approval
 
   * Technical Specification Groups should emerge naturally from discussions and needs within the community, as discussed on the [IIIF-discuss mailing list][iiif-discuss]. If the discussion happens offline or in a smaller group, then summaries must be posted to solicit the input of the wider community.
   * Participants in discussions that show promise of inter-institutional convergence on common models or methods should document the shared needs and requirements in a Google document, resulting in a common understanding of:
@@ -103,7 +103,7 @@ Technical Specification Groups are the main working vehicle for adding new APIs 
     7. Regular call schedule
     8. Call connection information
 
-### Technical Specification Group Requirements
+### Technical Specification Group requirements
 
 All members of a Technical Specification Group must agree to have any contributed work licensed under a CC-BY license, or similar.  Participants meeting this requirement may join at any time, without any prior approval process: the gateway is activity, not reputation.
 
@@ -117,7 +117,7 @@ Technical Specification Groups must strive to meet their timelines and produce t
 
 Technical Specification Groups may self-organize in the most convenient manner to accomplish their tasks, including creation and assignment of additional roles and responsibilities as appropriate.  Sub groups may be formed and disbanded at will, consisting only of members of the group, often called Task Forces. They do not need to separately meet the requirements of the group, such as having their own Chair.
 
-### Technical Specification Group Dissolution
+### Technical Specification Group dissolution
 
 Technical Specification Groups are dissolved under the following circumstances:
 
@@ -133,7 +133,7 @@ Technical Specification Groups are dissolved under the following circumstances:
 
 This community framework is an evolving document, and will be updated by the IIIF Coordinating Committee as required. *Last updated: 13 January 2017*.
 
-## IIIF Community and Communications Contact
+## Questions
 
 If you have any questions about this document or any of the community groups or communications mechanisms, please email <admin@iiif.io>.
 
