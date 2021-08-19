@@ -6,7 +6,7 @@ layout: page
 
 ## About
 
-The IIIF Content Search API ([https://iiif.io/api/search/1.0/]({{ site.api_url | absolute_url }}/search/1.0/)) was published in 2016 and has seen successful implementation in a number of institutions. The Content Search API allows IIIF compatible viewers to ‘search within’ a IIIF resource and returns annotations that can be presented by a client. Version 3.0 of the IIIF Presentation and Image APIs have introduced incompatibilities with version 1.0 of the Content Search API. 
+The Content Search API ([https://iiif.io/api/search/1.0/]({{ site.api_url | absolute_url }}/search/1.0/)) was published in 2016 and has seen successful implementation in a number of institutions. The Content Search API allows IIIF compatible viewers to ‘search within’ a IIIF resource and return annotations that can be presented by a client. Version 3.0 of the IIIF Presentation and Image APIs have introduced incompatibilities with version 1.0 of the Content Search API.
 
 There is concurrent work happening to bring the Authentication specification up to date with the Image API version 3.0. The Content Search TSG will coordinate with that group to ensure that any authentication solution required for search is consistent with any new approach taken by the [Authentication TSG]({{ site.root_url | absolute_url }}/community/groups/auth-tsg).
 

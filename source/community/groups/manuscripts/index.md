@@ -6,13 +6,13 @@ layout: page
 
 ## About
 
-The IIIF Manuscripts Group formed following an [IIIF meeting in Ghent][ghent], Belgium in December 2015. Attendees at the Ghent meeting agreed that there needed to be a separate IIIF interest group focused on the experience of users working with images of hand-written materials in particular.
+The Manuscripts Group formed following an [IIIF meeting in Ghent][ghent], Belgium in December 2015. Attendees at the Ghent meeting agreed that there needed to be a separate interest group focused on the experience of users working with images of hand-written materials in particular.
 
-The IIIF is a constantly expanding community; it covers a range of disciplines, institutions, research and national libraries, and non-profit image repositories. IIIF Manuscripts currently welcomes participation from all IIIF repositories with manuscript materials, scholars working with hand-written materials, and software developers interested in the particular problems presented by those materials.
+The IIIF community is constantly expanding; it covers a range of disciplines, institutions, research and national libraries, and non-profit image repositories. The IIIF Manuscripts Group currently welcomes participation from all IIIF repositories with manuscript materials, scholars working with hand-written materials, and software developers interested in the particular problems presented by those materials.
 
-## Purpose
+## Goals
 
-The IIIF MSS Group seeks to advance aims of the [IIIF-C][iiifc], which are to reduce inefficiency and needless redundancy born from incompatibility in the current image delivery ecosystem. The group is committed to furthering the [goals of the IIIF][about], as well as its own specific goals:
+The IIIF Manuscripts Group seeks to advance aims of the [IIIF Consortium][iiifc], which are to reduce inefficiency and needless redundancy born from incompatibility in the current image delivery ecosystem. The group is committed to furthering the [goals of IIIF][about], as well as its own specific goals:
 
   * To keep interested institutions and projects up to date on advances in the IIIF initiative as they affect users of digitized manuscripts
   * To provide feedback to the IIIF community on repository and user experience from the perspective of manuscript curators and scholars
@@ -26,17 +26,17 @@ The IIIF MSS Group seeks to advance aims of the [IIIF-C][iiifc], which are to re
   * Rachel Di Cresce (University of Toronto)
   * Jeffrey Witt (Loyola University Maryland)
 
-**Communication Channels:**
+**Communication channels:**
 
   * Calls on the second Wednesday of every month at 11am Eastern - see [IIIF Community Calendar][calendar] for details
   * Virtual meetings announced on the [IIIF-Manuscripts][iiif-manuscripts] and [IIIF-Discuss][iiif-discuss] email lists.
   * General discussion on the [# manuscripts IIIF Slack channel][manuscripts-slack] ([Join Slack][join-slack])
 
-**Call Notes and Group Documents:**
+**Call notes and group documents:**
 
   * [IIIF Manuscripts Community Group Folder][manuscripts-folder]
 
-**Call Connection Information:**
+**Call connection information:**
 
   * Online: [https://stanford.zoom.us/j/674108679][zoom-link]
 

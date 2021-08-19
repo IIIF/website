@@ -8,7 +8,7 @@ _If you're looking for the original [A/V TSG Charter]({{ site.root_url | absolut
 
 ## About
 
-The IIIF Audio/Video (A/V) Community Group exists to provide a forum focused on the experiences of users and implementers working with audio, video, and moving image content and tools in the context of IIIF specifications. The Community Group was formed at the conclusion of the IIIF AV Technical Specification Group, which informed the addition of new audio and moving image capabilities in version 3.0 of the IIIF Presentation API.
+The Audio/Video (A/V) Community Group exists to provide a forum focused on the experiences of users and implementers working with audio, video, and moving image content and tools in the context of IIIF specifications. The Community Group was formed at the conclusion of the IIIF AV Technical Specification Group, which informed the addition of new audio and moving image capabilities in version 3.0 of the IIIF Presentation API.
 
 ## Purpose
 
@@ -23,12 +23,12 @@ The IIIF A/V Community Group was formed to facilitate discussion of A/V-specific
 
 ## Organization
 
-Chairs:
+### Chairs:
 
 *   Tanya Clement (University of Texas at Austin)
 *   Jon Dunn (Indiana University Bloomington)
 *   Andrija Sagic (“Milutin Bojic” Library)
 
-Call Notes and Group Documents:
+### Call notes and group documents:
 
 *   [A/V Community Group folder](https://drive.google.com/drive/folders/0B8SS5OUXWs4GZ0ZfbEhIclhzb0k?usp=sharing)
