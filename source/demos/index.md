@@ -128,7 +128,7 @@ viewers:
     link:
       url: 'http://codh.rois.ac.jp/icp/index.html.en'
       label: 'Open Demo'
-fun: 
+fun:
   - resource:
       url: 'assets/uploads/movie_maps.webp'
       type: image
@@ -211,7 +211,7 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 ## Explore Experiments & Fun
 
-While IIIF is often used for scholarship and research, there are also a wide varitey 
+While IIIF is often used for scholarship and research, there are also a wide varitey
 
 There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular.
 
@@ -222,6 +222,17 @@ There is a whole universe of IIIF-compliant viewers and other tools, each with d
 
 
 {{ theme.block-center-start }}
+
+
+## Recent Implementations from the Community
+
+{% for i in site.data.recent_implementations %}
+- [{{i.name}}]({{i.url}}){%if i.creators%} by {{i.creators}}{% endif %} - {{i.description}} {%if i.example %}(<a href="{{i.example}}">Example</a>){% endif %} {%if i.github%}(<a href="{{i.github}}">Github</a>){% endif %}
+{% endfor %}
+
+
+
+[Let us know if you’ve made something to share](https://docs.google.com/forms/d/e/1FAIpQLSetIpJYr9yq827QD7Bl0J31q4E2w0_O-8bUjoqX4XYKm7eU8A/viewform), or check out the community-led [Awesome IIIF Index](https://github.com/IIIF/awesome-iiif){:.external}. (Awesome IIIF is hosted on Github.)
 
 ## Ready to Get Started?
 
