@@ -1,7 +1,9 @@
 ---
 title: Why IIIF?
 layout: page
-
+redirect_from:
+  - /about.html
+  - /about/
 ---
 
 For institutions, IIIF enables better, faster and cheaper image delivery, while reducing long term maintenance and technological lock in.

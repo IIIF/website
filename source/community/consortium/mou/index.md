@@ -1,5 +1,5 @@
 ---
-title: "Memorandum of Understanding covering the establishment of the IIIF Consortium"
+title: "Original Memorandum of Understanding covering the establishment of the IIIF Consortium"
 id: iiifc_mou
 layout: page
 ---

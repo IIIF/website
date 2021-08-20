@@ -7,6 +7,8 @@ breadcrumbs:
    link: /community/
  - label: Consortium
    link: /community/consortium
+redirect_to:
+  - /community/consortium/
 ---
 
 ## Why IIIF?

@@ -1,7 +1,8 @@
 ---
 title: "IIIF Community Calls"
 layout: page
-tags: []
+redirect_to:
+  - community/groups/#calendar
 ---
 
 The IIIF community calls providing a forum for new and existing participants to share their work, learn about activities across the community, and discuss IIIF technology and future directions. Anyone with an interest in IIIF may join the regularly scheduled calls.
