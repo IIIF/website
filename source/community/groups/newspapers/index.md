@@ -7,9 +7,9 @@ layout: page
 
 ## About
 
-The IIIF Newspapers Community Group welcomes participants with an interest in implementing IIIF in digital newspaper repositories. In addition to monthly meetings, the group also piggybacks on [IIIF face to face meetings][events]. Contributions to [newspapers user stories][user-stories] are welcome, and useful resources related to newspapers and IIIF can be found on [Awesome-IIIF][newspapers-awesome-iiif]{:.external}.
+The Newspapers Community Group welcomes participants with an interest in implementing IIIF in digital newspaper repositories. In addition to monthly meetings, the group also piggybacks on [IIIF face to face meetings][events]. Contributions to [newspapers user stories][user-stories] are welcome, and useful resources related to newspapers and IIIF can be found on [Awesome-IIIF][newspapers-awesome-iiif]{:.external}.
 
-## Purpose
+## Goals
 
   * To determine development and usage of IIIF for digital newspapers
   * To demonstrate best practice in exploitation of IIIF for newspapers
@@ -24,17 +24,17 @@ The IIIF Newspapers Community Group welcomes participants with an interest in im
   * Karen Estlund (Pennsylvania State University)
   * Glen Robson (National Library of Wales)
 
-**Communication Channels:**
+**Communication channels:**
 
   * Quarterly calls - see [IIIF Community Calendar][calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [# newspapers IIIF Slack channel][newspapers-slack] ([Join Slack][join-slack])
 
-**Call Notes and Group Documents:**
+**Call notes and group documents:**
 
   * [IIIF Newspapers Community Group Folder][newspapers-folder]
 
-**Call Connection Information:**
+**Call connection information:**
 
   * Online: [https://stanford.zoom.us/j/948530998][zoom-link]
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: How IIIF Works
+title: How it Works
 subtitle: >
-  Learn about the components of IIIF and how they fit together.
+  A plain-langauge guide to how the APIs work together.
 permalink: /get-started/how-iiif-works/
 hero:
   image: ""
@@ -16,18 +16,19 @@ breadcrumbs:
 
 {% include content/inline-image.html image="assets/images/zeplin/webp/delivery@3x.webp" alt_text="delivery diagram" caption="A diagram of how IIIF delivery works." float="right"%}
 
+
+## Introduction
+Learning about IIIF can be overwhelming at first, especially if you’re not a programmer, so we've created a plain-language guide for newcomers. As you're learning, know that the community is here to help. Feel free to reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list, [iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss) with any questions.
+
 ## The basics
 
-Not everyone reads [API docs]({{ site.api_url | absolute_url }}), so we've created a plain language guide to how IIIF works. IIIF can be a bit overwhelming at first, especially if you’re not a programmer. The community is here to help, so if you’re stuck, reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list, [iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss). Or if you're an end user looking for IIIF images, tools, training on how to work with materials, [we've got you covered]({{ site.root_url | absolute_url }}/get-started/#end-users).
-
-
-IIIF is a way to standardize the delivery of images and audio/visual files from servers to different environments on the Web where they can be viewed and interacted with in many ways.
+IIIF is a way to standardize the delivery of images and audio/visual files from servers to different environments on the Web where they can then be viewed and interacted with in many ways.
 
 Browsers understand how to display formats like .jpg and .mp4 at defined sizes, but cannot do much else. The IIIF specifications align with general Web standards that define how all browsers work to enable richer functionality beyond viewing an image or audio/visual files. For images, that means enabling deep zoom, comparison, structure (i.e., for an object such as a book, structure = page order) and annotation. For audio/visual materials, that means being able to deliver complex structures (such as several reels of film that make up a single movie) along with things like captions, transcriptions/translations, annotations, and more.
 
-IIIF makes these objects work in a consistent way. That enables portability across viewers, the ability to connect materials across institutional boundaries, and more.
+IIIF makes these objects work in a consistent way. That enables portability across viewers, the ability to connect and unite materials across institutional boundaries, and more.
 
-## Use cases
+## The Image and Presentation APIs
 
 There are two main components to IIIF: delivering digital objects to sites and viewing them.
 
@@ -72,7 +73,7 @@ From there:
 - Make images and audio/video materials available using the Image API and an IIIF image server, or a IIIF-compatible image server from a vendor or other web host
 - Combine your images and structural data (like pagination or ordering) from your metadata source into a IIIF Manifest using the Presentation API (there are many vendor products that handle this).
 - Choose a viewer to show your images
-- Consider making your image manifests available publicly on your collection site so users can work with your images across collections.
+- Consider making your image **manifests** (definition below) available publicly on your collection site so users can work with your images across collections.
 
 </div>
 {{ theme.block-end }}

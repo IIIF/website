@@ -21,15 +21,11 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 
 ## Introductory presentations
 These presentations include speaker notes, and can be copied, modified, and combined as needed.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhNOcdxvEOzRy4pI_2Te6VaOFOrBqfSHbtzUe51RFE2OIPy0qc1XsUURzRDAVfz0RFA6-dcC0ZR_e7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlxRY9vyi4c_ypTWRi5jtYruUOsbpKbQ-rUKFWQ824MHk9wuZPYf2y01qw8fN3GXl_zp75OLuMpUzb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-- [Technical Introduction to IIIF: How does it work?](https://docs.google.com/presentation/d/1wsS_hNzxFxkJTnXto7rRLCN7nMVGxGsjvlOA-rZmCDw/edit?usp=sharing)
+- [Introduction to IIIF](https://docs.google.com/presentation/d/1Qg6fHn6p040crWf8bbE4v3heVQepqa9DnDP8yks3tk0/edit?usp=sharing)
+- [Introduction to the IIIF community](https://docs.google.com/presentation/d/1JGjboM1PzOggrAt3WaEPZ-j2MuO2vTlI_kKlzF8n4Yw/edit?usp=sharing)
 
 ## Logos
-IIIF Logos can be downloaded from the IIIF [Google Drive](https://drive.google.com/drive/folders/0B8APFBow4sHvY044Sm10SFdNWG8?usp=sharing).
+IIIF logos can be downloaded from the IIIF [Google Drive](https://drive.google.com/drive/folders/0B8APFBow4sHvY044Sm10SFdNWG8?usp=sharing).
 
 Logo color hex codes:
 - Red: #EF2536;

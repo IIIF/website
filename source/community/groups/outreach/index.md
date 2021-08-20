@@ -8,14 +8,14 @@ layout: page
 
 The IIIF Outreach Group is a standing committee with representatives from across the IIIF community, dedicated to guiding IIIF outreach efforts and goals related to the presentation of IIIF to the public.
 
-## Purpose
+## Goals
 
 The Group's primary responsibilities are in the following areas:
 
 1. Content and organization of the [IIIF website][iiif-website] to ensure clarity of conceptual information and value of IIIF
 	* Continuously assess impact audience, objectives, quality of outreach materials
 2. Marketing and promotional materials (deciding upon, designing, and distributing swag materials, including consulting on IIIF event t-shirts)
-3. Support for local events including developing recipes and resources 
+3. Support for local events including developing recipes and resources
 4. IIIF outreach events and related documentation
 5. IIIF presence at conferences and meetings (keep track of and help to organize IIIF representation at relevant conferences, meetings, and other presentation opportunities)
 6. Identify areas for IIIF adoption, including commercial outreach, potential IIIF-related collaborations, grants, and projects, and potential IIIF Consortium members
@@ -32,17 +32,17 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
   * Claire Knowles (Leeds University Library)
   * Dawn Childress (University of California, Los Angeles)
 
-**Communication Channels:**
+**Communication channels:**
 
   * Calls on the last Tuesday of every month at 11:00am Eastern - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [# outreach IIIF Slack channel][outreach-slack] ([Join Slack][slack])
 
-**Call Notes and Group Documents:**
+**Call notes and group documents:**
 
   * [IIIF Outreach Community Group folder][outreach-folder]
 
-**Call Connection Information:**
+**Call connection information:**
 
   * Online: [https://stanford.zoom.us/j/97934431714][zoom-link]
 

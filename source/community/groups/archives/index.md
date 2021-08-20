@@ -10,7 +10,7 @@ Archival collections, both born-digital and digitized, are increasingly being sh
 
 In addition, archival materials are increasingly displayed with full-text from OCR or crowdsourced transcriptions, so they also can be annotated with a textual layer. Enabling access to archival materials through IIIF also offers exciting opportunities for collaborative cross-institution storytelling, and allows researchers to recreate dispersed collections and create new collections based on specific research questions.
 
-By participating in the IIIF Archives Community Group, you will help set best practices for IIIF and archival content and influence the international collaborations for providing archival content via open APIs.
+By participating in the Archives Community Group, you will help set best practices for IIIF and archival content and influence the international collaborations for providing archival content via open APIs.
 
 ## Goals
 
@@ -30,17 +30,17 @@ By participating in the IIIF Archives Community Group, you will help set best pr
   * Mark Matienzo (Stanford University)
   * Adrian Stevenson (Jisc)
 
-**Communication Channels:**
+**Communication channels:**
 
   * Bimonthly calls - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [#archives-cg IIIF Slack channel][slack]
 
-**Call Notes and Group Documents**
+**Call notes and group documents:**
 
 [IIIF Archives Community Group Folder][archives-cg-folder]
 
-**Call Connection Information:**
+**Call connection information:**
 
  * Online: [https://stanford.zoom.us/j/97950308605][zoom-link]
 

@@ -40,4 +40,3 @@ The [IIIF Maps TSG Charter][charter] provides a more detailed outline of anticip
 [zoom-link]: https://stanford.zoom.us/j/829945399?pwd=u8KPNHGHxJk
 [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-
