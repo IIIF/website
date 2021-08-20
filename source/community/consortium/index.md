@@ -22,7 +22,7 @@ While IIIF’s origins are in libraries, the community is expanding organically 
 
 {% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
 
-The IIIF-C now comprises {{ members.size }} full and associate members across the globe who have signed the [IIIF-C Memorandum of Understanding](/community/consortium/mou), committing to support the growth and adoption of IIIF. 
+The IIIF-C now comprises {{ members.size }} full and associate members across the globe who have signed the [IIIF-C Memorandum of Understanding]({{ site.root_url | absolute_url }}/community/consortium/mou), committing to support the growth and adoption of IIIF. 
 
 ## Oversight
 There are three committees that oversee the Consortium's operations:
