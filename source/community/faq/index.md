@@ -2,6 +2,8 @@
 title: IIIF Frequently Asked Questions (FAQs)
 id: consortium
 layout: page
+redirect_to:
+   - /get-started/why-iiif/
 ---
 
 ## What is IIIF?

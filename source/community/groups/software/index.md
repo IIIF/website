@@ -1,6 +1,6 @@
 ---
 title: "Software Developers Community Group"
-layout: default
+layout: page
 
 ---
 

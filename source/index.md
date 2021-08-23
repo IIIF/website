@@ -4,7 +4,7 @@ title: Home
 hero:
   image: "assets/uploads/doshisha_103500_.webp"
   title: Gain richer access to the world's image and audio/visual files
-  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading cultural institutions.
+  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading academic and cultural institutions.
   button:
     label: "Get started"
     link: "/get-started"
@@ -13,47 +13,47 @@ iiif_basics_carousel:
       url: 'assets/uploads/wellcome_zebrafish.webp'
       type: image
       alt_text: "Wellcome Collection screenshot"
-      caption: 'The Wellcome Collection features incredible medical and scientific materials in an elegant and intuitive interface.'
+      caption: 'The Wellcome Collection uses IIIF to make medical and scientific materials available via a Mirador viewer, and to offer multiple image download sizes to users.'
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'View demos'
   - resource:
       url: 'assets/uploads/micrio-night-watch.webp'
       type: image
       alt_text: "Micrio screenshot"
-      caption: 'The Rijksmuseum features rich exhibitions driven by IIIF annotations.'
+      caption: 'The Rijksmuseum features rich online exhibitions driven by IIIF annotations.'
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'View demos'
   - resource:
       url: 'assets/uploads/SAT Taishōzō Image DB.webp'
       type: image
       alt_text: "SAT Taishōzō Image DB screenshot"
-      caption: 'The SAT Daizokyo Database Project includes mandalas with over 400 annotations using Mirador.'
+      caption: 'The SAT Daizokyo Database Project includes individual mandalas with over 400 IIIF annotations, using Mirador.'
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'View demos'
   - resource:
       url: 'assets/uploads/ddmal_section.gif'
       type: image
       alt_text: "DDMAL screenshot"
-      caption: "The latest version of the IIIF Presentation API integrates audio and moving image options, as seen in this proof of concept from McGill's Distributed Digital Music Archives & Libraries Lab."
+      caption: "McGill University's Distributed Digital Music Archives & Libraries Lab uses the Presentation API to integrate audio and moving images."
     link:
       url: "/demos"
-      label: 'Open demos'
+      label: 'View demos'
 demos:
   - image: assets/uploads/biblissima_1.png
     alt_text: "Biblissima screenshot"
     link: /demos/
-    label: Biblissima digitally reunites missing illuminations with their original pages.
+    label: Biblissima pulls images from separate IIIF-enabled collections to digitally reunite missing manuscript illuminations with their original pages.
   - image: assets/uploads/kurushiji_ai.png
     alt_text: "KuroNet screenshot"
     link: /demos/
-    label: The KuroNet Cursive Script Recognition Viewer makes historical Japanese cursive readable.
+    label: The KuroNet Cursive Script Recognition Viewer translates historical Japanese cursive using IIIF.
   - image: assets/uploads/exhibit_2.png
     alt_text: "Exhibit screenshot"
     link: /demos/
-    label: Exhibit.so allows users to easily develop guided annotation experiences for individual or grouped IIIF resources.
+    label: Exhibit.so allows non-technical users to create guided viewing experiences for one or many IIIF resources using IIIF annotations.
 features:
   - label: Great for researchers
     description: Examine, compare, annotate, and share. IIIF enables easy use across repositories, with tools to aid research and presentation.
@@ -91,7 +91,7 @@ stay_connected_cards:
   - label: Attend an event
     description: The community hosts many virtual and in-person trainings, conferences, and other events.
     link_text: Learn more
-    link: 
+    link:
   - label: Join a community group call
     description: Connect with peers and learn the latest through regular calls open to everyone.
     link_text: Learn more
@@ -105,7 +105,7 @@ stay_connected_cards:
 {{ theme.block-center-start }}
 
 ## Break down silos with open APIs
-Most of the images and audio/visual resources that are fundamental to research exist in silos, with access restricted to bespoke, locally-built applications. IIIF gives you and your audience freedom to work across barriers.
+Many of the images and audio/visual resources that are fundamental to research exist in silos, with access restricted to locally-built applications. IIIF gives you and your audience freedom to work across barriers.
 
 {% include blocks/carousel.html items=page.iiif_basics_carousel %}
 
@@ -146,12 +146,10 @@ The six IIIF APIs fit together to deliver endless possibilities.
 IIIF is leveraged by aggregators, research institutions, national libraries, archives, museums, software companies, and digital agencies.
 
 {% assign new = site.data.institutions | where_exp: "org", 'org.new == true' %}
-{% assign consortium = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3' | where_exp: "org", 'org.logo and org.logo != nil and org.new != true' | sample: 7 %} 
+{% assign consortium = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3' | where_exp: "org", 'org.logo and org.logo != nil and org.new != true' | sample: 7 %}
 {% assign logos = new | concat: consortium %}
 
 {% include blocks/logo-grid.html items=logos %}
-
-... and 51 more leading organizations. 
 
 {% include misc/button.html button_label="View All Consortium Members" button_link="/community/consortium/members" %}
 

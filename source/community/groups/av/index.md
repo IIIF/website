@@ -9,7 +9,7 @@ layout: page
 _If you're looking for the original [A/V TSG page]({{ site.root_url | absolute_url }}/community/groups/av/av-tsg), that has been moved now that this group has transition into a Community Group_
 
 
-The IIIF Audio/Video (A/V) Community Group exists to provide a forum focused on the experiences of users and implementers working with audio, video, and moving image content and tools in the context of IIIF specifications. The Community Group was formed at the conclusion of the IIIF AV Technical Specification Group, which informed the addition of new audio and moving image capabilities in version 3.0 of the IIIF Presentation API.
+The Audio/Video (A/V) community group exists to provide a forum focused on the experiences of users and implementers working with audio, video, and moving image content and tools in the context of IIIF specifications. The Community Group was formed at the conclusion of the IIIF AV Technical Specification Group, which informed the addition of new audio and moving image capabilities in version 3.0 of the IIIF Presentation API.
 
 The [IIIF A/V Community Group charter][av-charter] provides an outline and timeline for anticipated work.
 
@@ -21,7 +21,7 @@ The [IIIF A/V Community Group charter][av-charter] provides an outline and timel
 * Jon Dunn (Indiana University Bloomington)
 * Andrija Sagic (“Milutin Bojic” Library)
 
-**Communication Channels:**
+**Communication channels:**
 
   * Calls every four weeks on Mondays at 12:00pm Eastern - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
@@ -29,11 +29,11 @@ The [IIIF A/V Community Group charter][av-charter] provides an outline and timel
 
 
 
-**Call Notes and Group Documents:**
+**Call notes and group documents:**
 
   * [IIIF A/V Community Group folder][av-folder]
 
-**Call Connection Information:**
+**Call connection information:**
 
   * Online: [https://stanford.zoom.us/j/538552143][zoom-link]
 

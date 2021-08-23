@@ -113,7 +113,7 @@ The Manuscripts Community Group will continue with quarterly calls in 2019, with
 
 ### [Museums Community Group][groups-museums]
 Richard Palmer, Senior Web Developer, Digital Media, V&A, London, will become a new co-chair of the Museums Community Group as Michael Appleby has stepped down. Tina and Emmanuelle Delmas-Glass are still the other two co-chairs.
-IIIF is now an official [Special Interest Group of Museum Computer Network][mcn-sig]. The Chair is Stefano Cossu, Getty Trust, the co-chair is Emmanuelle Delmas-Glass, Yale Center for British Art. This year is the first time that the SIG was created and held a SIG panel at the [MCN conference][mcn-denver], with Stefano Cossu, Getty Trust, Deborah Howes, National Gallery of Art, DC, Emmanuelle Delmas-Glass, Yale Center for British Art, Luca Carnia, V&A, and Rob Sanderson, Getty Trust. The IIIF MCN SIG also held an informal lunch during the conference.
+IIIF is now an official Special Interest Group of Museum Computer Network. The Chair is Stefano Cossu, Getty Trust, the co-chair is Emmanuelle Delmas-Glass, Yale Center for British Art. This year is the first time that the SIG was created and held a SIG panel at the [MCN conference][mcn-denver], with Stefano Cossu, Getty Trust, Deborah Howes, National Gallery of Art, DC, Emmanuelle Delmas-Glass, Yale Center for British Art, Luca Carnia, V&A, and Rob Sanderson, Getty Trust. The IIIF MCN SIG also held an informal lunch during the conference.
 
 ### [Newspapers Community Group][groups-newspapers]
 #### IIIF Newspapers Community Group 2018 in Review
@@ -258,7 +258,6 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [matrix]: http://bit.ly/2PJon2F
 [mirador-ggroup]: https://groups.google.com/forum/#!forum/mirador-tech  
 [mhn-homepage]: http://mhn.acervos.museus.gov.br  
-[mcn-sig]: http://mcn.edu/community/sigs/iiif-sig/
 [mcn-denver]: http://conference.mcn.edu/2018/about.cfm
 [mnemoscene]: http://mnemoscene.io/
 [morphosource]: https://www.morphosource.org/

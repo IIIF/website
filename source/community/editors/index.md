@@ -4,24 +4,24 @@ layout: page
 
 ---
 
-The IIIF Editorial Committee works in collaboration with [community groups][groups-framework] to propose new technical specifications and to update existing ones. The [Technical Review Committee (TRC)][trc] enables the timely review of these proposals.
+The IIIF Editorial Committee works in collaboration with [community groups][groups-framework] to propose new technical specifications and to update existing ones. The [Technical Review Committee (TRC)][trc] reviews and approves these proposals.
 
 ## Selection
 {: #selection}
 
-The initial membership of the Editorial Committee was set in [Memorandum of Understanding][mou] that established the IIIF Consortium in 2015.
+The initial membership of the Editorial Committee was set in the [Memorandum of Understanding][mou] that established the Consortium in 2015.
 
-Per the [Memorandum of Understanding][mou], the editors may nominate additional editors at any time. All current editors must agree before an invitation is issued. Editors will choose from participants within the community and/or experts willing to lend their knowledge and experience to new specifications. Opportunities to better the gender, race, and age balance of the existing editorial team will also be a consideration. New editors must be approved by the IIIF Executive Group.
+Per the Memorandum, the Editors may nominate additional Editors at any time. All current Editors must agree before an invitation is issued. Editors will choose from participants within the community and/or experts willing to lend their knowledge and experience to new specifications. Opportunities to better the gender, race, and age balance of the existing editorial team will also be a consideration. New Editors must be approved by the Executive Committee.
 
-There is no set number of editors, but this does not mean that the number of existing editors will not be taken into account when considering new editors. The existing editors will seek out new or additional editors when they are lacking knowledge or significant empathy for use cases in an area that the community has agreed is important.
+There is no set number of Editors, but this does not mean that the number of existing Editors will not be taken into account when considering new Editors. The existing Editors will seek out new or additional Editors when they are lacking knowledge or significant empathy for use cases in an area that the community has agreed is important.
 
 ## Process
 
 Editors must agree to follow the [IIIF editorial process][editorial-process], including attendance at meetings, and to the [intellectual property conditions under which the specifications are published][spec-disclaimer]. They are responsible for confirming that these conditions are also acceptable to their employer, where applicable.
 
-It is not expected that every editor comment on every issue, though they should make every effort to do so. Editors may be dismissed from work on a specification, or the editorial group altogether, when they fail to meet the expectations of their colleagues, as described here.
+It is not expected that every Editor comment on every issue, though they should make every effort to do so. Editors may be dismissed from work on a specification, or the Editorial group altogether, when they fail to meet the expectations of their colleagues, as described here.
 
-## Current Membership
+## Current membership
 
   * **[Michael Appleby](https://orcid.org/0000-0002-1266-298X)** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](https://orcid.org/0000-0002-1266-298X), [_Yale University_](http://www.yale.edu/), since 16 June 2015
   * **[Tom Crane](https://orcid.org/0000-0003-1881-243X)** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](https://orcid.org/0000-0003-1881-243X), [_Digirati_](http://digirati.com/), since 16 June 2015
@@ -32,12 +32,12 @@ It is not expected that every editor comment on every issue, though they should 
   * **[Jeff Mixter](https://orcid.org/0000-0002-8411-2952)** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](https://orcid.org/0000-0002-8411-2952), [_OCLC Research_](https://www.oclc.org/research/home.html), since 03 March 2021
   * **[Maria Whitaker](https://orcid.org/0000-0002-3003-8582)** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](https://orcid.org/0000-0002-3003-8582), [_Indiana University_](https://indiana.edu), since 03 March 2021
 
-## Change Log
+## Change log
 {: #change-log}
 
  | Date       | Description                                                          |
  | ---------- | -------------------------------------------------------------------- |
- | 2021-03-04 | Updated to include Maria, Jeff, and Dawn, update Rob's affiliation | 
+ | 2021-03-04 | Updated to include Maria, Jeff, and Dawn, update Rob's affiliation |
  | 2018-11-12 | Separated from description of [editorial process][editorial-process] |
  | 2017-03-17 | Updated (@srabun, @azaroth, @zimeon, @tcramer)                       |
  | 2015-12-22 | First release (@mikeapp, @tomcrane, @azaroth42, @jpstroop, @zimeon)  |

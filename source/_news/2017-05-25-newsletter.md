@@ -111,7 +111,7 @@ In addition to making preparations for a number of manuscripts-related presentat
 The museums community recently sent an [open letter to Digital Asset Management (DAM) software vendors][dams], urging the adoption of IIIF. As interest in institutional adoption of IIIF grows in the museums community, the group is working on adding information to the general [IIIF FAQ][iiif-faq], including details on examples of museums that are already using IIIF in their digital repositories. The IIIF Conference in The Vatican (first week of June) will feature a [museums track][museums-sched] on Thursday, 8 June.
 
 ### Newspapers Community Group
-The [IIIF Newspapers group][newspapers] congratulates the Bavarian State Library on their implementation of [IIIF for newspapers][bsb-news], and the National Library of Wales’ recent release of [IIIF-compliant journals][wales-journals]. Interest in IIIF and text is growing, and the group is preparing to contribute to work on specifying text granularity for IIIF annotations. The community is also preparing to work with Boston Public Library and the University of Utah on their recently awarded [IMLS grant][hydra] to develop IIIF-compliant Hydra solutions for digitized newspapers.
+The [IIIF Newspapers group][newspapers] congratulates the Bavarian State Library on their implementation of [IIIF for newspapers][bsb-news], and the National Library of Wales’ recent release of [IIIF-compliant journals][wales-journals]. Interest in IIIF and text is growing, and the group is preparing to contribute to work on specifying text granularity for IIIF annotations. The community is also preparing to work with Boston Public Library and the University of Utah on their recently awarded IMLS grant to develop IIIF-compliant Hydra solutions for digitized newspapers.
 
 ### Software Developers Community Group
 The [IIIF Software Developers group][devs] continues to work on developing and documenting IIIF client components that can be mixed and matched in various viewing environments. While demonstrations of IIIF implementations typically occur on the bi-weekly [IIIF Community Calls][comm-call], the Software Developers group invites more in-depth technical discussion of implementations, for sharing strategies and advice on the technical aspects of IIIF implementation in software.
@@ -150,8 +150,8 @@ The [IIIF Software Developers group][devs] continues to work on developing and d
 * [UB Leipzig adoption of IIIF][leipzig] - try a [live demo][leip-demo]
 * [Experimentation with IIIF and IPFS][ipfs] by Edward Silverton (Holoscene)
 * IMLS awarded two grant projects that will include support for IIIF:
-    * [Newspapers in Hydra][hydra] (Boston Public Library and University of Utah)
-    * [Improvement and integration for the Avalon Media System][imls-ava] (Northwestern University and Indiana University)
+    * Newspapers in Hydra (Boston Public Library and University of Utah)
+    * Improvement and integration for the Avalon Media System (Northwestern University and Indiana University)
 
 ### Recommended Reading
 * New intro to IIIF writing by Tom Crane (Digirati): [An Intro to IIIF][crane-intro] & Second installment: [Where's My Model?][crane-model]
@@ -241,8 +241,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [leipzig]: https://blog.ub.uni-leipzig.de/grenzenlose-bilderwelt/
 [leip-demo]: http://papyrusebers.de/
 [ipfs]: https://t.co/fSmwR2LZFU
-[hydra]: https://www.imls.gov/grants/awarded/lg-70-17-0043-17-0
-[imls-ava]: https://www.imls.gov/grants/awarded/lg-70-17-0042-17-0
 [crane-model]: http://resources.digirati.com/iiif/an-introduction-to-iiif/wheres-my-model.html
 [crane-intro]: http://resources.digirati.com/iiif/an-introduction-to-iiif/
 [heidel-report]: http://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/Cases_studies/Heidelbergreport-v0.9.pdf

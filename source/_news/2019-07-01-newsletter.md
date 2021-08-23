@@ -132,7 +132,7 @@ Rebecca Hirsch wrote a short article about IIIF and the Archives Community Group
 
 ### [Manuscripts Community Group][groups-manuscripts]
 
-The IIIF Manuscripts Community Group reports a successful ad hoc meeting at the recent IIIF 2019 Conference. In order to increase involvement from our European members, we will be shifting to earlier times for our quarterly calls. Our next call will be Aug. 14, 2019 and will be hosted by Rafael Schwemmer. Details and an agenda, focused on manuscript aggregation and discovery, to follow. We also saw a large number of manuscripts-focused presentations at the conference - congratulations to all who presented and participated. Additionally, outreach to the communities of manuscript users has continued with a successful workshop at the International Medieval Congress in Kalamazoo, MI, in May, and the upcoming ["Interoperability and Medieval Manuscripts"][medieval-interoperability] workshop hosted by the Beinecke Library at Yale University in July. If you are giving a workshop or doing other manuscripts-related outreach (or if you would like to host a workshop), please do let us know on the mailing list or the Slack channel.
+The IIIF Manuscripts Community Group reports a successful ad hoc meeting at the recent IIIF 2019 Conference. In order to increase involvement from our European members, we will be shifting to earlier times for our quarterly calls. Our next call will be Aug. 14, 2019 and will be hosted by Rafael Schwemmer. Details and an agenda, focused on manuscript aggregation and discovery, to follow. We also saw a large number of manuscripts-focused presentations at the conference - congratulations to all who presented and participated. Additionally, outreach to the communities of manuscript users has continued with a successful workshop at the International Medieval Congress in Kalamazoo, MI, in May, and the upcoming "Interoperability and Medieval Manuscripts" workshop hosted by the Beinecke Library at Yale University in July. If you are giving a workshop or doing other manuscripts-related outreach (or if you would like to host a workshop), please do let us know on the mailing list or the Slack channel.
 
 ### [Museums Community Group][groups-museums]
 
@@ -282,7 +282,6 @@ With contributions from:
 [yale-8]: http://click.message.yale.edu/?qs=8d792628b393d7316dd6af1f01139e134693fc75ad0561a39d88fcbfb923bd2432d040310a3d373222050e5f24d36a69b99e41d674bc5dab
 [yale-9]: http://click.message.yale.edu/?qs=8d792628b393d7312f35769b180d7d0ad3304f1571cbdd878cbca1eacdf919e44ae5a0663b312eba74781d50deb7129baa0693345d66a0dd
 [yale-10]: http://click.message.yale.edu/?qs=8d792628b393d731f4fbb87c59470ca1141552fad585c4f130981313b020df5866e3e157decf7e0c30f1f6f1ef4f490631025682a75b8aaf
-[medieval-interoperability]: https://www.medievalacademy.org/page/interoperability
 [wtf-iiif]: https://blog.cogapp.com/wtf-iiif-995ca796e654
 [awesome-iiif]: https://github.com/IIIF/awesome-iiif
 [groups]: https://iiif.io/community/groups/

@@ -4,10 +4,6 @@
 - name: Art Institute of Chicago
   uri:  https://www.artic.edu/
   iiifc:
-- name: ITHAKA
-  uri: http://www.ithaka.org
-  iiifc: 1
-  logo: assets/uploads/logos/ITHAKA_logo.png
 - name: Art Gallery of Ontario
   uri: http://boxwood.ago.ca
   iiifc:
@@ -412,7 +408,7 @@
   uri: http://www.wdl.org
 - name: Yale Center for British Art
   uri: http://britishart.yale.edu/
-  iiifc: 1
+  iiifc:
   logo: assets/uploads/logos/ycba.png
 - name: Yale University
   uri: https://www.yale.edu/

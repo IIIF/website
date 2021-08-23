@@ -6,17 +6,17 @@ layout: page
 
 ## Introduction
 
-The IIIF Content Search API ([https://iiif.io/api/search/1.0/]({{ site.api_url | absolute_url }}/search/1.0/)) was published in 2016 and has seen successful implementation in a number of institutions. The Content Search API allows IIIF compatible viewers to ‘search within’ a IIIF resource and returns annotations that can be presented by a client. Version 3.0 of the IIIF Presentation and Image APIs have introduced incompatibilities with version 1.0 of the Content Search API. These incompatibilities include:
+The Content Search API ([https://iiif.io/api/search/1.0/]({{ site.api_url | absolute_url }}/search/1.0/)) was published in 2016 and has seen successful implementation in a number of institutions. The Content Search API allows IIIF compatible viewers to ‘search within’ a IIIF resource and return annotations that can be presented by a client. Version 3.0 of the IIIF Presentation and Image APIs have introduced incompatibilities with version 1.0 of the Content Search API. These incompatibilities include:
 
 *   Presentation 3.0 uses W3C Web Annotations whereas Content Search 1.0 uses the deprecated Open Annotation specification.
-*   Presentation 3.0 uses JSON-LD 1.1, and related best practices, whereas Content Search 1.0 is based on JSON-LD 1.0. 
+*   Presentation 3.0 uses JSON-LD 1.1, and related best practices, whereas Content Search 1.0 is based on JSON-LD 1.0.
 *   Presentation 3.0 allows the use of time-based media whereas Content Search 1.0 does not specify how to search such resources.
 
 There is concurrent work happening to bring the Authentication specification up to date with the Image API version 3.0. The Content Search TSG will coordinate with that group to ensure that any authentication solution required for search is consistent with any new approach taken by the [Authentication TSG]({{ site.root_url | absolute_url }}/community/groups/auth-tsg).
 
 Use cases for a new version of the Content Search API are implicit and extensive in the following issues raised on the IIIF API Github repository, and will be further documented by the TSG:
 
-*  [https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Asearch](https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Asearch) 
+*  [https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Asearch](https://github.com/IIIF/api/issues?q=is%3Aissue+is%3Aopen+label%3Asearch)
 
 
 ## Scope
@@ -34,7 +34,7 @@ The expected deliverable will be a version 2.0 of the Content Search API. Alignm
 ## Roadmap
 
 *   Group formation: January 2021
-*   Delivery of search use cases: May 2021 
+*   Delivery of search use cases: May 2021
 *   Delivery of syntax alignment update draft: May 2021
 *   Delivery of implementable Beta Content Search API: May 2022
 *   Delivery of Proposed Recommendation Content Search API: October 2022

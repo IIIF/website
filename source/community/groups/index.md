@@ -6,12 +6,12 @@ breadcrumbs:
    link: /community/
 ---
 
-The IIIF groups meet regularly to help get things done, and anyone can join a group or attend a meeting. They’ve sprung up organically, usually around a desired set of features like handling a massive newspaper archive. There are more community-oriented groups around usability and helping new folks get up and running, too.
+Community Groups provide an opportunity for discussing and advancing IIIF-related issues with peers. They meet regularly and are open to all.
 
-IIIF groups are open to participation from all interested parties. New groups may be formed according to the [IIIF Groups Framework]({{ site.root_url | absolute_url }}/community/groups/framework).
+If you'd like to propose a technical or community topic that would benefit the community, please review the [Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework).
 
 
-## Current groups
+## Current Groups
 
 ### Community Groups
   *   [3D]({{ site.root_url | absolute_url }}/community/groups/3d) - Calls on the 3rd Thursday of the month
@@ -25,8 +25,7 @@ IIIF groups are open to participation from all interested parties. New groups ma
   *   [Outreach]({{ site.root_url | absolute_url }}/community/groups/outreach) - Calls on the last Tuesday of the month
 
 ### Technical Specification Groups (TSGs)
-   *   [Discovery for Machines]({{ site.root_url | absolute_url }}/community/groups/discovery) - Calls every other week on Wednesdays
-  *   [Text Granularity]({{ site.root_url | absolute_url }}/community/groups/text-granularity/) - Calls every two weeks on Tuesdays
+   *   [Discovery]({{ site.root_url | absolute_url }}/community/groups/discovery) - Calls every other week on Wednesdays
   * [Maps][maps-tsg]
   * [Authentication][auth-tsg]
   * [Content Search][content-search-tsg]

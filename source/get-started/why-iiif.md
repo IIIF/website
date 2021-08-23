@@ -1,65 +1,60 @@
 ---
 title: Why IIIF?
+subtitle: >
+  IIIF provides benefits to collection-hosting instititons and end users alike.
 layout: page
-
+redirect_from:
+  - /about.html
+  - /about/
 ---
 
-For institutions, IIIF enables better, faster and cheaper image delivery, while reducing long term maintenance and technological lock in.
+## Rich image delivery
 
-For end users, IIIF offers a rich set of functionality for viewing & zooming, and allows for the assembly of the best mix of resources and tools to view, compare, manipulate and work with images on the Web all of which is portable--shareable, citable, embeddable. 
-
-To see how IIIF serves other institutions and end users, check out the [Demos]({{ site.root_url | absolute_url }}/demos) section of this site, and don't miss the [IIIF Awesome list][awesome]{:.external} for lots of links to tools, demos, tutorials, and other resources.
-
----
-
-### Rich Image Delivery
-
-Fast, rich zoom & pan delivery of images via the Internet, with options for size, scale, region of interest, rotation, quality and format. 
+Fast, rich zoom & pan delivery of images via the Internet, with options for size, scale, region of interest, rotation, quality and format.
 
 
-### Plug and Play Software
+## Plug and play software
 
-Use any IIIF-compatible software for viewing, comparing and manipulating images from any IIIF-compatible image site, regardless of the back-end server. Swap parts of the stack at any time, or run multiple components in parallel at once. 
-
-
-### Publish Once, Reuse Often
-
-Deliver images from your own site for many uses; host a single copy and embed in other sites. No need to transfer images to others for them to locally load and use them for one off analysis or republishing. 
+Use any IIIF-compatible software for viewing, comparing and manipulating images from any IIIF-compatible image site, regardless of the back-end server. Swap parts of the stack at any time, or run multiple components in parallel at once.
 
 
-### Remix Content
+## Publish once, reuse often
 
-Assemble and use image-based resources from across the Web, regardless of source. Compare pages, build an exhibit, or view a virtual collection of items served from different sites. 
-
-
-### Annotation
-
-IIIF has native compatibility with the [W3C Web Annotation model][wadm], which supports annotating content on the Web. Comment on, transcribe, and mark up resources using the Web’s inherent architecture. 
+Deliver images from your own site for many uses; host a single copy and embed in other sites. No need to transfer images to others for them to locally load and use them for one off analysis or republishing.
 
 
-### Cite and Share
+## Remix content
 
-IIIF APIs give portable views onto images or any of its regions, and provide incentive for URIs that persist through image server migrations. Cite an image with a stable URI, or share it for reference by others--or yourself in a different environment. 
+Assemble and reuse IIIF resources from across the Web, regardless of source. Compare pages, import into tools, build exhibits, or view items served from different sites in one place.
 
 
-### Support for Attribution and Access Control
+## Annotate
+
+IIIF has native compatibility with the [W3C Web Annotation model][wadm], which supports annotating content on the Web. Comment on, transcribe, and mark up resources using the Web’s inherent architecture--even for Audiovisual resources.
+
+
+## Cite and share
+
+IIIF APIs give portable views onto images or any of its regions, and provide incentive for URIs that persist through image server migrations. Cite an image with a stable URI, or share it for reference by others--or yourself in a different environment.
+
+
+### Support for attribution and access control
 
 Built in API calls support attribution and access control: the Authentication API ([http://iiif.io/api/auth/](http://iiif.io/api/auth/)), is integral and consistent with the IIIF conception.
 
 
-### Global Network
+## Global network
 
 Join a global network of image suppliers making content available in a common framework. Tap a growing suite of software tools and platforms. Maximize the use of your images on the Web. Unlock new potential with interoperability. Bring together content from multiple sources (organizational and technical)
 
 ---
 
-## Outreach materials
+## Spread the word
 
-Anyone can reach out to their community and share information about IIIF. We’ve created some materials to make that easier (for more, see our [Outreach Materials][outreach])
+Need to explain IIIF's benefits to a colleague? These handouts provide relevant information and a list of benefits based on audience. For more resources, see our [Outreach Materials][outreach]).
 
-Need to explain IIIF to a colleague? These handouts provide relevant information and a list of benefits based on audience.
-- [IIIF for CIOs and engineers](https://docs.google.com/document/d/1RJbJ8MdNWC_6Y1fyCvvtAzZfQIhHNDiFrpS2XA5TdGs/edit?usp=sharing){:.external}
-- [IIIF for deans and other leaders](https://docs.google.com/document/d/1G62fUv1V6iUhskMDNgZlcyXVoIk4O9_FIOrL4kjlxXM/edit?usp=sharing){:.external}
+- [IIIF for CIOs and Engineers](https://docs.google.com/document/d/1RJbJ8MdNWC_6Y1fyCvvtAzZfQIhHNDiFrpS2XA5TdGs/edit?usp=sharing){:.external}
+- [IIIF for Deans and other leaders](https://docs.google.com/document/d/1G62fUv1V6iUhskMDNgZlcyXVoIk4O9_FIOrL4kjlxXM/edit?usp=sharing){:.external}
 - [IIIF for researchers](https://docs.google.com/document/d/1GWfh0F6HlzJtII9JxyED2CQ4eH9qwtGdO9yhMHxqvjs/edit?usp=sharing){:.external}
 
 

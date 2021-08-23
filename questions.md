@@ -7,10 +7,5 @@ Questions to address at some point:
 - Likewise, search for all TKTK and replace with real text
 - Figure out a proper way to handle acronyms.md issue? Without duplicating in every page
 - Need to double-check the dates of group meetings, and refresh calendar.js
-- Fix the "next call" partial idea that Glen suggested previously? 
-- breadcrumbs for all pages
-- remaining demo screenshots
-- Address remaining editor tweaks
-- Add recent community tools and implementations from newsletter
-- figure out CC license for zebrafish and credits for headers
-- Add newsletters to newsletter page
+- Fix the "next call" partial idea that Glen suggested previously?
+- Add privacy policy to the footer

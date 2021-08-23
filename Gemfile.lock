@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: 566adfd3d9cac3ff7d37359fb610f989bbe3895f
+  revision: 4e293326c669960fe30a38b5d9819d35386169e3
   branch: feature/news-and-events-12-13
   specs:
     iiifc-theme (0.1.0)

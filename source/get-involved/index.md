@@ -2,7 +2,7 @@
 layout: default
 title: Get Involved
 subtitle: >
-  There are many ways to get involved in our large and growing international community. Find the way that works for you!
+  There are many ways to get involved with IIIF as an individual, a team, or an organization. Find the way that works for you!
 permalink: /get-involved/
 hero:
   image: "assets/images/heroes/event@2x.webp"
@@ -44,7 +44,7 @@ more_resources_cards:
 {{ theme.block-center-start }}
 ## Join our community
 
-Scholars, developers, researchers, librarians, and cultural workers at libraries, museums, archives, universities, and companies tend to gravitate to the IIIF community. All calls and events are guided by our code of conduct.
+There are many ways to join and stay in touch with our community, from attending one of our group calls to hosting a local event.
 
 {% include blocks/cards.html items=page.more_resources_cards %}
 
@@ -55,25 +55,23 @@ Scholars, developers, researchers, librarians, and cultural workers at libraries
 
 {{ theme.block-center-start }}
 
+## Join the IIIF Consortium
+
+{% capture capture_text %}
+IIIF is supported by a global consortium which includes institutions like Stanford University, Europeana, Kansai University, and more.
+<br><br>
+Organizations and institutions can join the consortium, with a range of benefits attached to their membership.
+{% endcapture %}
+
+{% include blocks/image-and-text.html image_align='left' image='assets/uploads/consortium_map.png' content=capture_text button_label="Learn more" button_link="/community/consortium/join" alt_text="The IIIF Consortium map" %}
+
+{{ theme.block-end }}
+
+{{ theme.block-center-start }}
+
 ## Upcoming events
 
 {% include blocks/event-cards.html items=page.events %}
 
-
-{{ theme.block-end }}
-
-
-
-{{ theme.block-center-start }}
-
-## Join the IIIF Consortium
-
-{% capture capture_text %}
-IIIF is supported by a global consortium which includes institutions like Stanford University, Europeana, Kansai University, the and many more.
-<br><br>
-Organizations and institutions can join the consortium as Full or Associate members with a range of benefits attached to their membership.
-{% endcapture %}
-
-{% include blocks/image-and-text.html image_align='left' image='assets/uploads/consortium_map.png' content=capture_text button_label="Learn more" button_link="/community/consortium/join" alt_text="The IIIF Consortium map" %}
 
 {{ theme.block-end }}
