@@ -20,11 +20,11 @@ events:
     location: Virtual (Zoom)
 top_tabs:
   - label: Events
-    content: "{%- include blocks/event-cards.html items=page.events -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
+    content: "{%- include blocks/event-cards.html items=page.events limit=4 -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
   - label: Community Meetings
-    content: "{% include community_calendar.html %}"
+    content: "{% include misc/community_calendar.html %}"
   - label: News
-    content: "{% include recent_news.html limit=10 %}{% include misc/button.html button_label='View All' button_link='/news' %}"
+    content: "{% include blocks/news-cards.html limit=6 %}{% include misc/button.html button_label='View All' button_link='/news' %}"
 banner:
   title: "Get monthly updates on IIIF"
   color: '#001927'

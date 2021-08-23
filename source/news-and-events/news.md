@@ -1,12 +1,8 @@
 ---
-layout: page
+layout: default
 title: All News
 permalink: /news/
 ---
-<ul>
-{% for item in site.news %}
-  <li>
-    <a href="{{ item.url | absolute_url }}">{{ item.title}}</a>
-  </li>
-{% endfor %}
-</ul>
+{{ theme.block-center-start }}
+{% include blocks/news-cards.html %}
+{{ theme.block-end }}
