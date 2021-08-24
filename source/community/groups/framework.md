@@ -8,7 +8,7 @@ layout: page
 
 This document provides a framework for the formation and management of community and Technical Specification Groups within the IIIF community. Given the breadth and scale of IIIF, groups allow for focused work in concentrated areas of common interest, while also providing appropriate transparency and inclusiveness across the community.
 
-The Groups Framework is derived from the [Hydra Project group structure][hydra-groups], which is in turn informed by the experiences and guidelines of related organizations, including the W3C, the Research Data Alliance, and the Apache Software Foundation. The IIIF Groups Framework aims to:
+The Groups Framework is derived from the [Samvera Project group structure][samvera-groups], which is in turn informed by the experiences and guidelines of related organizations, including the W3C, the Research Data Alliance, and the Apache Software Foundation. The IIIF Groups Framework aims to:
 
   * Be lightweight enough that work is not prevented from being done
   * Facilitate visibility and discovery of ongoing beneficial work
@@ -43,15 +43,15 @@ To facilitate coordination within and across groups, IIIF maintains a common set
 
   * **Documents**: IIIF uses the [IIIF Google Drive][iiif-drive] as a common platform to produce and organize its documents. Each Community Group should use this as a place for collaborative note taking and storing relevant documents.
 
-  * **Code Repositories**: GitHub is widely used within IIIF for code, documentation and issue tracking. The IIIF organization (<https://github.com/IIIF>) is used for core community products (such as the iiif.io website, technical infrastructure and specifications). Groups are encouraged to make use of GitHub repositories to manage the production of their deliverables and tracking issues and actions.
+  * **Code repositories**: GitHub is widely used within IIIF for code, documentation and issue tracking. The IIIF organization (<https://github.com/IIIF>) is used for core community products (such as the iiif.io website, technical infrastructure and specifications). Groups are encouraged to make use of GitHub repositories to manage the production of their deliverables and tracking issues and actions.
 
-  * **Working Meetings**: IIIF groups are encouraged to participate in regular in-person IIIF events, including helping to shape the agenda and allocating time/space for group discussion.
+  * **Working meetings**: IIIF groups are encouraged to participate in regular in-person IIIF events, including helping to shape the agenda and allocating time/space for group discussion.
 
 ## IIIF Community Groups
 
 Community Groups provide interest-specific forums for general discussion, brainstorming, sharing of use cases and demos, as well as working to produce tutorials and presentations based on existing IIIF APIs. Content-specific best practices and guides may be produced from Community Groups in conjunction with the wider community and technical editors. While technical issues related to existing APIs may arise from within Community Groups, such issues will need to be raised to the wider community via the [IIIF-Discuss][iiif-discuss] email list, and upon discussion added as issues to GitHub for prioritization and action as necessary.
 
-### Community Group Formation and Approval
+### Community Group formation and approval
 
   * Community Groups should emerge naturally from discussions and needs within the community. The focus, scope and objectives of the group are ideally identified via open discussion on the [IIIF-Discuss][iiif-discuss] email list.
   * Community Groups can be formed as needed by sending a lightweight statement of the topic, scope, and objectives of discussion for the proposed Community Group to the IIIF staff at <admin@iiif.io>. Proposals will then be assessed by the IIIF Coordinating Committee.
@@ -131,13 +131,13 @@ Technical Specification Groups are dissolved under the following circumstances:
 
 ## Updates
 
-This community framework is an evolving document, and will be updated by the IIIF Coordinating Committee as required. *Last updated: 13 January 2017*.
+This community framework is an evolving document, and will be updated by the IIIF Coordinating Committee as required. *Last updated: 24 August 2021*.
 
 ## Questions
 
 If you have any questions about this document or any of the community groups or communications mechanisms, please email <admin@iiif.io>.
 
-[hydra-groups]: https://wiki.duraspace.org/pages/viewpage.action?pageId=67241635
+[samvera-groups]: https://samvera.org/samvera-partners/community-framework
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform
 [calendar]: {{ site.root_url | absolute_url }}/community/groups/
