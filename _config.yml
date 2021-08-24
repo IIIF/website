@@ -11,7 +11,7 @@ guides_url:     https://preview.iiif.io/guides/wireframe
 collections:
   news:
     output: true
-    permalink: /:collection/:path
+    permalink: /news/:year/:month/:day/:title/
   events:
     permalink: /:collection/:path
     output: true

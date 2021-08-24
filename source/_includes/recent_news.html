@@ -1,8 +1,0 @@
-{% assign sorted_news = site.news | sort: 'date' | reverse %}
-<ul>
-  {% for n in sorted_news | limit: include.limit | default: 5 %}
-  <li>
-    <a href='{{ n.url | absolute_url }}'>{{ n.date | date: "%m/%d/%Y"  }} | {{ n.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
