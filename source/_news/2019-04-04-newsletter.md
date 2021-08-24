@@ -56,7 +56,7 @@ The [Discovery Technical Specification Group][groups-discovery] has made good pr
 IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <https://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group.
 
 ### [3D Community Group][groups-3d]
-There has been a great deal of activity in the IIIF 3D Community Group. Most recently Ronald Haynes (Cambridge University) gave a presentation introducing the [Veholder project][veholder], examined the long history of stereography, covered a recent  VR workshop held at Central St Martins, and detailed the future 3D aspirations of Cambridge University.
+There has been a great deal of activity in the IIIF 3D Community Group. Most recently Ronald Haynes (Cambridge University) gave a presentation introducing the Veholder project, examined the long history of stereography, covered a recent  VR workshop held at Central St Martins, and detailed the future 3D aspirations of Cambridge University.
 Chris Edwards (J. Paul Getty Trust), told the group about how they are testing CultArm3D from Fraunhofer and talked about the need to document practices around storytelling, display, and dissemination of 3D content.
 Tassie Gniady (Indiana University) gave a presentation about the activities of CS3DP group, with a call to action to participate in an upcoming publication on 3D preservation best practices.
 Tom Flynn (sketchfab) gave demos of mapping images to geometries (photos of plates to corresponding meshes) and gltf files loading in Mozilla Hubs.
@@ -114,7 +114,6 @@ Wikidata has released a [tool which shows relative position within image qualifi
 * Jeffrey Witt (Loyola University Maryland)
 
 [veridian]: https://www.veridiansoftware.com/
-[veholder]: http://veholder.org/
 [2019-conf]: https://iiif.io/event/2019/goettingen/
 [bern-register]: https://app.hesge.ch/enquetes/index.php/667387
 [ticks-rg]: https://www.researchgate.net/project/Towards-IIIF-Compliance-Knowledge-in-Switzerland-TICKS
