@@ -6,7 +6,7 @@ breadcrumbs:
    link: /get-started/
 ---
 
-## Digital Asset Management (DAMs), Collections Management, and Repository tools that support IIIF
+## Digital asset management (DAMs), collections management, and repository tools that support IIIF
 
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
  - [Avalon Media System](https://www.avalonmediasystem.org/)
