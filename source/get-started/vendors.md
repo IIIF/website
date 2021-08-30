@@ -8,6 +8,8 @@ breadcrumbs:
 
 ## Digital asset management (DAMs), collections management, and repository tools that support IIIF
 
+If you don't have the time or resources to build your own IIIF infrastructure, you can still implement IIIF for your collections by using products that already support IIIF.
+
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
  - [Avalon Media System](https://www.avalonmediasystem.org/)
  - [CollectiveAccess](https://collectiveaccess.org)
