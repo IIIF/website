@@ -11,9 +11,9 @@ breadcrumbs:
 ---
 
 
-Community members can **host local events** like workshops, meetings, and working groups in order to promote IIIF within their community. They can also submit proposals to **host the annual conference**. We have handy guides to help with both!
+Community members can host local events like workshops, meetings, and working groups in order to promote IIIF within their community. They can also submit proposals to host the annual conference. We have handy guides to help with both!
 
-## Hosting a local event
+## Host a local event
 
 Anyone can host a IIIF-related event in their region. You can use our short [guide to hosting an event]({{ site.root_url | absolute_url }}/event/host_your_own_IIIF_event/) and [outreach materials]({{ site.root_url | absolute_url }}/get-started/training/outreach-materials/) (including pre-made “Introduction to IIIF” presentations). Plus, community members with firsthand experience put together thoughtful presentations and outlines to help you get started:
 
@@ -21,7 +21,7 @@ Anyone can host a IIIF-related event in their region. You can use our short [gui
 *   [Hosting a local IIIF event in Texas](https://docs.google.com/presentation/d/1lSQ7m9R-hpyj6ZrwJM_mpyN8kIUyCfvhjOKZ6UZ25Kw/edit?usp=sharing)
 *   [Outline for IIIF event in Rotterdam](https://docs.google.com/document/d/1mZ9przMZHF0TLQFMdQWgB-abbfq6OGjsKwxqLzmbFYc/edit?usp=sharing)
 
-## Hosting the Annual Conference
+## Host the Annual Conference
 
 Each year the IIIF Consortium puts out a call for hosts for the Annual Conference, which is the main event bringing together community members from across the globe. If you are you’re interested in hosting, read on to learn about the typical format and requirements (which, we should add, is open to modification):
 
