@@ -6,7 +6,7 @@ breadcrumbs:
    link: /get-started/
 ---
 
-There is a whole universe of [IIIF-compliant viewers and other tools](https://github.com/IIIF/awesome-iiif){:.external}, each with different features and benefits. Take a look at some of the most popular. (Or check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif){:.external}, community-driven compendium of all things IIIF, with tons to explore related to image viewers and more.)
+There is a whole universe of IIIF-compliant viewers and other tools, each with different features and benefits. Take a look at some of the most popular, or check out the [Awesome IIIF page on Github](https://github.com/IIIF/awesome-iiif){:.external}, a community-driven compendium of all things IIIF, to explore image viewers and more.
 
 
 ## [Universal Viewer](https://github.com/UniversalViewer/universalviewer){:.external}
