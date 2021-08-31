@@ -1,0 +1,22 @@
+{% assign paper = include.paper %}
+{% if paper and paper != '' %}
+    {% assign submission_list = site.data.washington_submissions | where: "id",paper %}
+    {% if submission_list[0] %}
+        {% assign submission = submission_list[0] %}
+        {% if submission.type == '60 minute discussion'%}
+            {% assign rowspan = 2 %}
+        {% elsif submission.type == '90 minute discussion'%}
+            {% assign rowspan = 3 %}
+        {% else %}
+            {% assign rowspan = 1 %}
+        {% endif %}
+        {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id | replace: 'Paper ', 'paper-'}}/{% endcapture %}
+        <td rowspan="{{rowspan}}"><a href="{{ dest_url }}">{{ submission.submission_title}}</a></td>
+        <td rowspan="{{rowspan}}">{% for author in submission.authors %}
+                {{ author.firstname }} {{ author.lastname}}{% if forloop.last == false %}, {% endif %}
+        {% endfor %}</td>
+    {% else %}
+        <td>{{ paper }}</td>
+        <td></td>
+    {% endif %}
+{% endif %}
