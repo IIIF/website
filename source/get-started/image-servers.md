@@ -8,7 +8,7 @@ breadcrumbs:
 
 Interested in hosting your own IIIF resources? Check out some of the most popular IIIF-compatible servers, or review a growing list of community selections on the [Awesome IIIF](https://github.com/IIIF/awesome-iiif){:.external} list. You can also make an existing image server IIIF-compatible.
 
-### [Loris](https://github.com/loris-imageserver/loris){:.external}
+### Loris
 
 A IIIF image server written in Python.   
 <https://github.com/loris-imageserver/loris>
