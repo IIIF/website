@@ -8,4 +8,3 @@ Questions to address at some point:
 - Figure out a proper way to handle acronyms.md issue? Without duplicating in every page
 - Need to double-check the dates of group meetings, and refresh calendar.js
 - Fix the "next call" partial idea that Glen suggested previously?
-- Add privacy policy to the footer
