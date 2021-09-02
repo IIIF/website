@@ -126,8 +126,6 @@ redirect_from:
 
 ## Il Cortilo
 
-[http://il-cortile-nl.restofactory.com/contact/](http://il-cortile-nl.restofactory.com/contact/)
-
 * Kraanlei, 53
   9000 Gent
 * Phone: +32 9 234 2741
