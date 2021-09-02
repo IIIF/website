@@ -148,7 +148,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 
 * The J. Paul Getty Museum has published over 30,000 images using IIIF (see [press release][getty-pr] and [blog][getty-blog])
 * Yale Center for British Art [recently announced the addition of more IIIF images][ycba-news] to their online collections
-* Colby College Museum of Art has added IIIF support to their collections (see [example][colby])
+* Colby College Museum of Art has added IIIF support to their collections
 * Manuscriptorium Digital Library at the National Library of the Czech Republic now supports the IIIF Image and Presentation APIs
 * [eLife Sciences][elife] now supports IIIF for all images (using Loris 2.x to serve all images) (visit their [blog][elife-blog] for implementation details)
 * University College Dublin digital library has added [image thumbnails and IIIF icon][ucd-thumbs]
@@ -287,7 +287,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [getty-pr]: http://news.getty.edu/article_display.cfm?article_id=6172
 [getty-blog]: https://blogs.getty.edu/iris/30000-getty-museum-images-published-iiif/
 [ycba-news]: https://news.yale.edu/2017/06/02/yale-center-british-art-adds-online-collection-images-international-system-research
-[colby]: http://www.colby.edu/museum/?s=Whistler&obj=Obj183
 <!-- [manuscriptorium]: http://www.manuscriptorium.com/ -->
 [elife]: https://elifesciences.org/
 [elife-blog]: https://medium.com/@g.sironi/the-iiif-elife-implementation-d1f940005517
