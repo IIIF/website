@@ -8,8 +8,6 @@ redirect_from:
 
 ## Het Pand
 
-[http://www.ugent.be/het-pand/en](http://www.ugent.be/het-pand/en)
-
 * Club Het Pand
   Onderbergen 1
   9000 Ghent
@@ -127,8 +125,6 @@ redirect_from:
 
 
 ## Il Cortilo
-
-[http://il-cortile-nl.restofactory.com/contact/](http://il-cortile-nl.restofactory.com/contact/)
 
 * Kraanlei, 53
   9000 Gent
