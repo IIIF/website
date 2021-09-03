@@ -80,7 +80,7 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 Both the IIIF Göttingen Conference and the IIIF Showcase are generously supported by the following Conference Sponsors:
 
 **Gold sponsors**  <br>
-<a href="https://www.phaseone.com/" style="border-bottom: none"><img src="https://www.phaseone.com/~/media/Phase%20One/ASeriesTest/logo.ashx?h=75&la=en&w=120&hash=C7DE7F6657393312DB60AC3E388019D56CB6DAD4" alt='phase one logo' style="width: 300px"></a>
+<a href="https://www.phaseone.com/" style="border-bottom: none">PhaseOne</a>
 <a href="https://www.cogapp.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/assets/event/sponsors/Cogapp_Logo_lg_black.png" alt='Cogapp logo' style="width: 300px"></a>
 <a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
 
