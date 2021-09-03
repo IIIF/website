@@ -16,28 +16,28 @@ hero:
 
 <div class="mc-field-group">
 
-<label for="mce-EMAIL">Email address:
-</label><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+<label for="mce-EMAIL" class="label">Email address:
+</label><input type="email" value="" name="EMAIL" class="required email input is-danger" id="mce-EMAIL">
 
 </div>
 
 <div class="mc-field-group">
 
-<label for="mce-FNAME">First name:
-</label><input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+<label for="mce-FNAME" class="label">First name:
+</label><input type="text" value="" name="FNAME" class="required input is-danger" id="mce-FNAME">
 
 </div>
 
 <div class="mc-field-group">
 
-<label for="mce-LNAME">Last name:
-</label><input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
+<label for="mce-LNAME" class="label">Last name:
+</label><input type="text" value="" name="LNAME" class="required input is-danger" id="mce-LNAME">
 
 </div>
 
 <div class="mc-field-group">
-<label for="mce-MMERGE6">Institution:
-</label><input type="text" value="" name="MMERGE6" class="required" id="mce-MMERGE6">
+<label for="mce-MMERGE6" class="label">Institution:
+</label><input type="text" value="" name="MMERGE6" class="required input is-danger" id="mce-MMERGE6">
 
 </div>
 
@@ -46,7 +46,7 @@ hero:
 <div class="content__gdpr">
 <br>
 <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-<label class="checkbox subfield" for="gdpr_24489"><input type="checkbox" id="gdpr_24489" name="gdpr[24489]" value="Y" class="av-checkbox gdpr"><span> I would like to receive news and announcements from IIIF.</span> </label>
+<label class="checkbox subfield label" for="gdpr_24489"><input type="checkbox" id="gdpr_24489" name="gdpr[24489]" value="Y" class="av-checkbox checkbox gdpr"><span> I would like to receive news and announcements from IIIF.</span> </label>
 </fieldset>
 <br>
 
