@@ -36,4 +36,4 @@ Sincerely and on behalf of the community,
 [iipserver]: https://github.com/ruven/iipsrv
 [osd]: http://openseadragon.github.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
+[london]: {{ site.root_url | absolute_url }}/event/2014/london/

@@ -56,4 +56,4 @@ Spaces are limited, so table space will be allocated in order of sponsor sign up
 
 To indicate your interest in sponsorship, please contact <admin@iiif.io> as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
 
-[boston]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/
+[boston]:  {{ site.root_url | absolute_url }}/event/2020/boston/

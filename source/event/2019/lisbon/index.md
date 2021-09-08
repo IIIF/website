@@ -41,5 +41,5 @@ The IIIF [Code of Conduct][conduct] applies to all IIIF events and related activ
 
 [eventbrite]: https://www.eventbrite.co.uk/e/europeana-2019-pre-conference-workshops-tickets-69266930253
 [nlp]: http://www.bnportugal.gov.pt/index.php?lang=en
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 

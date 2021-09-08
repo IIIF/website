@@ -69,20 +69,20 @@ Please also see the full list of [accepted presentations][program].
 
 Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
 
-[home-page]: {{ site.url }}{{ site.baseurl }}/
+[home-page]: {{ site.root_url | absolute_url }}/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[consortium]: {{ site.root_url | absolute_url }}/community/consortium/
 [cfp]: https://easychair.org/cfp/IIIF-2018
 [registration-form]: https://goo.gl/forms/18EKOxsZn38Cvs3k2
-[sponsor]: {{ site.url }}{{ site.baseurl }}/event/2018/washington-sponsors
-[hotels]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-hotels
-[workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
-[tuesday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/tuesday/
-[wednesday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/wednesday/
-[thursday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/thursday/
-[friday]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/friday/
-[program]:{{ site.url }}{{ site.baseurl }}/event/2018/washington/program/
+[sponsor]: {{ site.root_url | absolute_url }}/event/2018/washington-sponsors
+[hotels]:{{ site.root_url | absolute_url }}/event/2018/washington-hotels
+[workshops]:{{ site.root_url | absolute_url }}/event/2018/washington-workshops
+[tuesday]:{{ site.root_url | absolute_url }}/event/2018/washington/tuesday/
+[wednesday]:{{ site.root_url | absolute_url }}/event/2018/washington/wednesday/
+[thursday]:{{ site.root_url | absolute_url }}/event/2018/washington/thursday/
+[friday]:{{ site.root_url | absolute_url }}/event/2018/washington/friday/
+[program]:{{ site.root_url | absolute_url }}/event/2018/washington/program/
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-washington-showcase-tickets-44860722629
 [FromThePage]: https://fromthepage.com/

@@ -118,5 +118,5 @@ Hover your mouse over the marker to see the name of the location.
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>
 
-[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social

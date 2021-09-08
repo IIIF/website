@@ -15,7 +15,7 @@ Speakers at the July event included active IIIF community participants such as A
 This gathering has laid the foundation for a series of IIIF events in Tokyo and Kyoto during the week of October 16, 2017, with details to be announced on the [IIIF-Discuss][iiif-discuss] email list.
 
 [codh]: http://codh.rois.ac.jp/
-[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [info]: http://codh.rois.ac.jp/seminar/iiif-image-access-20170727/index.html.en
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss

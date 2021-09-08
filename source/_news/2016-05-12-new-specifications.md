@@ -15,7 +15,7 @@ These are minor revisions which do not impose any backward-incompatible changes,
 
 Additionally, we would like to announce the first release of the [IIIF Search API][search10]. This API defines a syntax for searching within resources and is designed to be idiomatic to annotations that are implemented as described the IIIF Presentation API.
 
-Thank you, as always, to the IIIF community for your feedback, questions, and use cases. New questions and use cases are always welcome, and we encourage you to submit them to the [IIIF Discussion Listserv](mailto:{{ site.data.organization.email }}).
+Thank you, as always, to the IIIF community for your feedback, questions, and use cases. New questions and use cases are always welcome, and we encourage you to submit them to the [IIIF Discussion Listserv](mailto:iiif-discuss@googlegroups.com).
 
 Sincerely,
 

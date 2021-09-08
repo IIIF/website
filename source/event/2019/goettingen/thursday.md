@@ -78,5 +78,5 @@ space for 3 panels on Friday...
 
 [registration]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
 
-[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social

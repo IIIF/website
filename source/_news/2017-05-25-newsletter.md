@@ -74,7 +74,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 
 
 ### Museums Community Letter to Digital Asset Management (DAM) Software Vendors
-Led by the IIIF Museums Community Group, with support from museums and other cultural heritage institutions across the globe, an open letter has been sent to a number of DAM software vendors encouraging the adoption of IIIF in DAM products. The letter is available for viewing and sharing online at [{{ site.url }}{{ site.baseurl }}/news/2017/05/01/letter-to-dams/][dams].
+Led by the IIIF Museums Community Group, with support from museums and other cultural heritage institutions across the globe, an open letter has been sent to a number of DAM software vendors encouraging the adoption of IIIF in DAM products. The letter is available for viewing and sharing online at [{{ site.root_url | absolute_url }}/news/2017/05/01/letter-to-dams/][dams].
 
 ### Europeana IIIF Task Force
 The Europeana IIIF Task Force is working to identify the current trends and tendencies among Europeana content providers towards the handling of the emerging IIIF technology.
@@ -99,7 +99,7 @@ The [IIIF Discovery Technical Specification Group][iiif-discovery] is working to
 As more institutions and vendors are working with annotations and text in the context of IIIF, a need has grown to specify degrees of granularity for text annotations (such as word, sentence, paragraph, etc.) in relation to the [IIIF Search API][search]. The IIIF Text Granularity Technical Specification Group has just formed to begin this work. If you are interested in participating in Text Granularity group discussions, please review the [group charter][text-charter] and indicate your interest. Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for more details.
 
 ### OpenJPEG Improvement Project
-Several institutions in the IIIF community have come together to launch the first phase of a collaborative effort to facilitate improvement of [OpenJPEG][openjpeg], an open source [JPEG 2000][jpeg2000] codec, freely available under a [BSD license][bsd]. A project is currently underway to improve performance, scalability, security, and robustness of OpenJPEG, with the initial phase focused on improving decoding speed, region-of-interest decoding, and memory footprint. Project status can be tracked via [GitHub][jpeg-git], and more details can be found on the [OpenJPEG website][jpeg-site]. The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Glen Robson, IIIF Technical Coordinator, at <glen.robson@iiif.io>. See more details at [{{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/][jpeg-news].
+Several institutions in the IIIF community have come together to launch the first phase of a collaborative effort to facilitate improvement of [OpenJPEG][openjpeg], an open source [JPEG 2000][jpeg2000] codec, freely available under a [BSD license][bsd]. A project is currently underway to improve performance, scalability, security, and robustness of OpenJPEG, with the initial phase focused on improving decoding speed, region-of-interest decoding, and memory footprint. Project status can be tracked via [GitHub][jpeg-git], and more details can be found on the [OpenJPEG website][jpeg-site]. The project team welcomes additional funding institutions to contribute to future phases and sustain the effort to bring OpenJPEG up to speed with proprietary implementations of the JPEG 2000 standard. To learn more and get involved, please contact Glen Robson, IIIF Technical Coordinator, at <glen.robson@iiif.io>. See more details at [{{ site.root_url | absolute_url }}/news/2017/04/27/openjpeg-improvement/][jpeg-news].
 
 ## Community Groups:
 Please see the [IIIF Community Groups page][iiif-calendar] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Conference][vatican] in June.
@@ -177,15 +177,15 @@ Sheila Rabun, IIIF Community and Communications Officer
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
-[iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
-[iiif-av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
-[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/
-[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers
-[devs]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
+[iiif-events]: {{ site.root_url | absolute_url }}/event/
+[iiif-av]: {{ site.root_url | absolute_url }}/community/groups/av/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
+[manuscripts]: {{ site.root_url | absolute_url }}/community/groups/manuscripts/
+[museums]: {{ site.root_url | absolute_url }}/community/groups/museums/
+[newspapers]: {{ site.root_url | absolute_url }}/community/groups/newspapers
+[devs]: {{ site.root_url | absolute_url }}/community/groups/software/
 [mirador]: http://projectmirador.org
 [survey-basic]: https://goo.gl/forms/47OmXfgXMUNMBVI93
 [survey-extended]: https://goo.gl/forms/wHXWrvIMtUbmJRN52
@@ -194,8 +194,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [uv]: https://digirati.com/technology/our-solutions/universal-viewer/
-[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
-[iiif-discovery]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery
+[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
+[iiif-discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery
 [av-fixtures]: https://github.com/IIIF/iiif-av/tree/master/source/api/av/examples
 [vra]: https://vra34.sched.com/
 [cni]: https://www.cni.org/event/cni-spring-2017-membership-meeting
@@ -204,7 +204,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [kalamazoo]: https://wmich.edu/sites/default/files/attachments/u434/2017/medieval-congress-program-2017-for-web.pdf
 [tcdl]: https://www.tdl.org/tcdl/2017-tcdl/
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
-[dams]: {{ site.url }}{{ site.baseurl }}/news/2017/05/01/letter-to-dams/
+[dams]: {{ site.root_url | absolute_url }}/news/2017/05/01/letter-to-dams/
 [av-challenges]: https://docs.google.com/document/d/1lcef8tjqfzBqRSmWLkJZ46Pj0pm8nSD11hbCAd7Hqxg/edit?usp=sharing
 [avalon]: https://github.com/avalonmediasystem/avalon-iiif-player
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
@@ -215,7 +215,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [bsd]: https://github.com/uclouvain/openjpeg/blob/master/LICENSE
 [jpeg-git]: https://github.com/uclouvain/openjpeg/projects/1
 [jpeg-site]: http://www.openjpeg.org/2017/04/27/Faster-OpenJPEG-is-on-track
-[jpeg-news]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
+[jpeg-news]: {{ site.root_url | absolute_url }}/news/2017/04/27/openjpeg-improvement/
 [zegami-news]: https://zegami.com/blog/international-image-interoperability-framework-iiif-zegami/
 [ch-blog]: https://labs.cooperhewitt.org/2017/parting-gifts/
 [bib-demo]: http://beta.biblissima.fr/en
@@ -250,11 +250,11 @@ Sheila Rabun, IIIF Community and Communications Officer
 [gitbook]: https://iiif.github.io/training/intro-to-iiif/
 [edin]: http://bit.ly/2ngOwfi
 [https]: https://www.jack-reed.com/2017/05/23/the-case-for-serving-your-iiif-content-over-https.html
-[comm]: {{ site.url }}{{ site.baseurl }}/community/
+[comm]: {{ site.root_url | absolute_url }}/community/
 [preconf-sched]: https://2017iiifconferencethevatican.sched.com/tag/Pre-conference
 [showcase-sched]: https://2017iiifconferencethevatican.sched.com/tag/Showcase
 [conf-sched]: https://2017iiifconferencethevatican.sched.com/tag/Conference
-[conf-news]: {{ site.url }}{{ site.baseurl }}/news/2017/04/12/vatican-conference/
+[conf-news]: {{ site.root_url | absolute_url }}/news/2017/04/12/vatican-conference/
 [cogapp]: http://www.cogapp.com/iiif
 [oclc]: http://www.oclc.org/en/contentdm.html
 [digirati]: https://digirati.com/
@@ -263,6 +263,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [zegami]: https://zegami.com/
 [4science]: http://www.4science.it/en/iiif-image-viewer/
 [search]: {{ site.api_url | absolute_url }}/search/
-[iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/
+[iiif-faq]: {{ site.root_url | absolute_url }}/community/faq/
 [museums-sched]: https://2017iiifconferencethevatican.sched.com/overview/type/Museums
-[comm-call]: {{ site.url }}{{ site.baseurl }}/community/call/
+[comm-call]: {{ site.root_url | absolute_url }}/community/call/

@@ -192,14 +192,14 @@ Ask the conference hosts for other suggestions, if you have something particular
 ## Childcare
 For details of childcare in the conference vicinity please see www.childcare.co.uk
 
-[home-page]: {{ site.url }}{{ site.baseurl }}/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[home-page]: {{ site.root_url | absolute_url }}/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [edinburgh]: https://www.ed.ac.uk/
 [nls]: https://www.nls.uk/
 [IIIF-Discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[showcase]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/showcase/
-[workingmeeting]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/workingmeeting/
+[showcase]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/showcase/
+[workingmeeting]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/workingmeeting/
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-edinburgh-showcase-tickets-51020491664
 [working-eventbrite]: https://www.eventbrite.com/e/2018-iiif-working-meeting-edinburgh-tickets-50777559046
 [ed-airport]: http://www.edinburghairport.com/

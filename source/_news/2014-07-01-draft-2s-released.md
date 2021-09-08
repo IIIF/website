@@ -31,7 +31,7 @@ Since the release of the first drafts. a few significant changes have been made:
   * Reduced focus on presenting digitized physical objects
   * Explicit definition of physical scale algorithm
 
-As always, we welcome your feedback, questions, and use cases, and encourage you to submit them to the [IIIF Discussion Listserv](mailto:{{ site.data.organization.email }}). Drafts will be kept open for comment until the beginning of August, with the goal of final release in September. However, we would appreciate feedback early in order to work on and gain consensus for any necessary changes.
+As always, we welcome your feedback, questions, and use cases, and encourage you to submit them to the [IIIF Discussion Listserv](mailto:iiif-discuss@googlegroups.com). Drafts will be kept open for comment until the beginning of August, with the goal of final release in September. However, we would appreciate feedback early in order to work on and gain consensus for any necessary changes.
 
 Sincerely,
 

@@ -26,9 +26,9 @@ Details on previous conferences can be found below:
 
 All IIIF events are subject to the [Code of Conduct][conduct].
 
-[guidance]: {{ site.url }}{{ site.baseurl }}/event/conference_guidelines/
+[guidance]: {{ site.root_url | absolute_url }}/event/host_your_own_IIIF_event/
 [form]: https://goo.gl/forms/pzyXE4a57JIzy5SC3
-[washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
-[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
-[nyc]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[washington2018]: {{ site.root_url | absolute_url }}/event/2018/washington/
+[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
+[nyc]: {{ site.root_url | absolute_url }}/event/2016/newyork/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/

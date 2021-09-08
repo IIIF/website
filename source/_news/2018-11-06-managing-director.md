@@ -18,4 +18,4 @@ Josh will be attending the IIIF Working Group meeting in [Edinburgh][edinburgh] 
 
 Please join us in welcoming Josh Hadro to IIIF as we work together to help IIIF grow and thrive.
 
-[edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/
+[edinburgh]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/

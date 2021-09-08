@@ -13,5 +13,5 @@ The [IIIF Consortium][iiif-c] recently hosted a productive [IIIF Working Meeting
 We also want to take this opportunity to thank all the folks that made the Working Meeting possible -- our local host partners at the University of Michigan Libraries, and at Artstor/Ithaka; our incredible Planning Committee that set the agenda for the meeting and the Showcase; and of course Glen Robson and Aliya Reich from IIIF-C and CLIR for putting in so many hours to make things run smoothly.
 
 [ann-arbor]: https://iiif.io/event/2019/ann_arbor/
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [notes]: https://docs.google.com/document/d/1H5Oareex3Oefhf4iPY6f6BOUBAoYJ9Llj5jRdxjTxIc/edit?ts=5dcafcb0#

@@ -99,12 +99,12 @@ Session descriptions, agendas, and notes are available via [Sched][sched].
 {: .api-table .msched-table}
 
 [home-page]: {{ site.root_url | absolute_url }}
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [UT]: https://onesearch.library.utoronto.ca/library-info/ROBARTS
 [IIIF-Discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [registration]: https://iiif-toronto.eventbrite.com
 [holiday-inn]: https://drive.google.com/file/d/0B8biwZuDijgeeWkzWjcxcF9EZGs/view?usp=sharing
-[toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase/
+[toronto-showcase]: {{ site.root_url | absolute_url }}/event/2017/toronto-showcase/
 [showcase-reg]: https://iiifshowcase-toronto.eventbrite.com
 [sched]: https://iiifworkingmeetingtoronto2017.sched.com

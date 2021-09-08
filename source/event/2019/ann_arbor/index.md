@@ -72,8 +72,8 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [iiif]: https://iiif.io/
 [umich]: https://drive.google.com/open?id=0B8BKX2ayzQsUejAyMi1UNUtDQ0Q3R3k3YU1aUmZwa2kyUkhj
 [ithaka]: https://www.ithaka.org/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/ann-arbor-hotels/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[hotels]: {{ site.root_url | absolute_url }}/event/2019/ann_arbor/ann-arbor-hotels/
 [rackham]: https://rackham.umich.edu/about/rackham-building/available-facilities/amphitheatre/
 [travel]: https://campusinfo.umich.edu/article/and-airport
 [airride]: https://www.theride.org/Services/Airport-Service
@@ -88,4 +88,4 @@ For Monday’s Showcase in [Rackham Amphitheatre][rackham]:
 [reed]: mailto:pjreed@stanford.edu
 [hadro]: mailto:josh.hadro@iiif.io
 [reich]: mailto:areich@clir.org
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/

@@ -12,13 +12,13 @@ Although new to the Consortium, the University of Tokyo has been involved with I
 
 Welcome and congratulations, University of Tokyo!
 
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [japanese-announce]: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php?IIIF-C
 [iidh]: http://www.dhii.jp/
 [blogs]: http://digitalnagasaki.hatenablog.com/search?q=IIIF
 [image-wall]: http://lab.ndl.go.jp/dhii/kunidecoview/
 [workshop]: http://conf2016.jadh.org/workshop/
 [sat]: http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php
-[apis]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[apis]: {{ site.root_url | absolute_url }}/get-started/
 [image]: {{ site.api_url | absolute_url }}/image/
 [prezi]: {{ site.api_url | absolute_url }}/presentation/

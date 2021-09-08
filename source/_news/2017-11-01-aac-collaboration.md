@@ -36,6 +36,6 @@ The 8 museums that were part of this project were:
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [ronallo]: https://ronallo.com
 [iiif-workshop]: http://ronallo.com/iiif-workshop/
-[quick-start]: {{ site.url }}{{ site.baseurl }}/technical-details/
-[acc-guide]: {{ site.url }}{{ site.baseurl }}/assets/acc_implementation_guide_011017.pdf
-[acc-quest]: {{ site.url }}{{ site.baseurl }}/assets/acc_implementation_questionnaire_011017.pdf
+[quick-start]: {{ site.root_url | absolute_url }}/get-started/
+[acc-guide]: {{ site.root_url | absolute_url }}/assets/acc_implementation_guide_011017.pdf
+[acc-quest]: {{ site.root_url | absolute_url }}/assets/acc_implementation_questionnaire_011017.pdf

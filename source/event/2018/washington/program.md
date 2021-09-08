@@ -18,4 +18,4 @@ Program for the 2018 IIIF Washington conference. This is a list of the accepted 
 
 {% include submission_table.html type='60 minute discussion' %}
 
-[workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
+[workshops]:{{ site.root_url | absolute_url }}/event/2018/washington-workshops

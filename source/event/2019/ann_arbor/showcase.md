@@ -166,9 +166,9 @@ Accessible parking is available in both lots. A state-issued disability placard/
     })
 </script>
 
-[logistics]:  {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/#logistics
+[logistics]:  {{ site.root_url | absolute_url }}/event/2019/ann_arbor/#logistics
 [eventbrite]: https://www.eventbrite.co.uk/e/iiif-ann-arbor-showcase-tickets-70171899039
-[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
-[parking-map]: {{ site.url }}{{ site.baseurl }}/assets/event/UM_parking_map.pdf
+[parking-map]: {{ site.root_url | absolute_url }}/assets/event/UM_parking_map.pdf
 [time]: https://time.is/

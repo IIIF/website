@@ -25,5 +25,5 @@ And of course, feel free to make yourself available beyond the expectations abov
 To become a peer mentor, or find one, let us know when you register by selecting the option you prefer. The conference program committee will then be in touch with interested participants about the next steps. 
 
 
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[conference]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[conference]: {{ site.root_url | absolute_url }}/event/2019/goettingen/

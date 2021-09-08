@@ -208,11 +208,11 @@ The IIIF Showcase will be held in the Alte Mensa conference venue in Göttingen.
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Blick auf Goettingen aus der Vogelschau nach Nordwesten, Friedrich Besemann. Public Domain">
         <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" height="200">
     </a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.url }}{{ site.baseurl }}/assets/event/goettingen-thumb.png" height="200">
+    <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-thumb.png" height="200">
     </a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/event/goettingen-conference-location-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the Conference location. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.url }}{{ site.baseurl }}/assets/event/goettingen-conference-location-thumb.png" height="200">
+    <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the Conference location. Photo: Frank Stefan Kimmel">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-thumb.png" height="200">
     </a>
 </div>
 
@@ -226,8 +226,8 @@ The IIIF Showcase will be held in the Alte Mensa conference venue in Göttingen.
     })
 </script>
 
-[workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
-[logistics]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/#logistics
+[workshops]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/workshops/
+[logistics]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/#logistics
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
-[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social

@@ -6,9 +6,9 @@ page: overview
 ---
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<!-- <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script> -->
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
+<!-- <script src="{{ site.root_url | absolute_url }}/js/vendor/add-to-calendar.min.js"></script> -->
+<script src="{{ site.root_url | absolute_url }}/js/vendor/moment-with-locales.min.js"></script>
+<script src="{{ site.root_url | absolute_url }}/js/vendor/moment-timezone-with-data.js"></script>
 
 The IIIF Fall Working Meeting is a series of **free** online events and working sessions held with the goal of collaboratively advancing the IIIF standards and community. We believe everyone has something to contribute and welcome both newcomers and experienced implementers to join--you are also welcome to join just to listen and learn!
 
@@ -160,10 +160,10 @@ function loadClient() {
 
 
 [iiif]: https://iiif.io/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[consortium]: {{ site.root_url | absolute_url }}/community/consortium/
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io

@@ -49,4 +49,4 @@ Thank you!
 IIIF 2018 Conference program committee.
 
 [cfp]: https://easychair.org/conferences/?conf=iiif2018
-[iiif-conf]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
+[iiif-conf]: {{ site.root_url | absolute_url }}/event/2018/washington/

@@ -128,7 +128,7 @@ The [OpenJPEG improvement project][open-jpeg] is well underway, with [OpenJPEG v
 The IIIF Consortium is partnering with the American Art Collaborative (AAC) to provide technical consulting for eight AAC museums as part of a grant from the Andrew W. Mellon foundation. In collaboration with Sara and Ben Brumfield of [Brumfield Labs][Brumfield-Labs], and Jason Ronallo, head of Digital Library Initiatives at NCSU Libraries, the museums will receive hands-on guidance and specific recommendations for implementing IIIF. The documentation and learnings from this engagement will be used to improve the [IIIF Quick Start Guide][quick-start] as well as launch a service for implementation consulting for future prospective adopters. For more info, contact Glen Robson at <admin@iiif.io>.
 
 ## Community Groups:
-IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <{{ site.url }}{{ site.baseurl }}/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Working Meeting in Toronto][toronto], October 11-13.
+IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <{{ site.root_url | absolute_url }}/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group. All of the community groups will be meeting in person at the [2017 IIIF Working Meeting in Toronto][toronto], October 11-13.
 
 ### Manuscripts Community Group
 In addition to a multitude of manuscript-related presentations, the [IIIF Manuscripts Community Group][manuscripts] held a two-hour meeting with over 45 people at the 2017 IIIF Conference in The Vatican. The group plans to focus on metadata and manifest best practices, outreach in the manuscripts community, and follow the work of the IIIF Text Granularity Specification Group. The IIIF Manuscripts group will meet in-person again at the 2017 IIIF Working Meeting in Toronto, October 11-13.
@@ -242,8 +242,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Jeffrey Witt (Loyola University Maryland)
 * Petr Zabicka (Moravian Library)
 
-[washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
-[glen]: {{ site.url }}{{ site.baseurl }}/news/2017/08/30/technical-coordinator/
+[washington2018]: {{ site.root_url | absolute_url }}/event/2018/washington/
+[glen]: {{ site.root_url | absolute_url }}/news/2017/08/30/technical-coordinator/
 [digirati-search]: http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html
 [leeds]: https://www.leeds.ac.uk/ims/imc/imc2017.html
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
@@ -254,18 +254,18 @@ Sheila Rabun, IIIF Community and Communications Officer
 [synaptica]: http://www.synaptica.com/
 [zegami]: https://zegami.com/
 [4science]: http://www.4science.it/en/iiif-image-viewer/
-[london]: {{ site.url }}{{ site.baseurl }}/event/2017/london/
+[london]: {{ site.root_url | absolute_url }}/event/2017/london/
 [bruno]: https://kinow.github.io/scico-2017/#/
-[quick-start]: {{ site.url }}{{ site.baseurl }}/technical-details/
-[toronto]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto/
-[toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase/
+[quick-start]: {{ site.root_url | absolute_url }}/get-started/
+[toronto]: {{ site.root_url | absolute_url }}/event/2017/toronto/
+[toronto-showcase]: {{ site.root_url | absolute_url }}/event/2017/toronto-showcase/
 [submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
-[av-group]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[av-group]: {{ site.root_url | absolute_url }}/community/groups/av/
 [masahide]: http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2017/test/iiifav-bl-fixture-collection.json
-[textgran]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
-[open-jpeg]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
+[textgran]: {{ site.root_url | absolute_url }}/community/groups/text-granularity/
+[open-jpeg]: {{ site.root_url | absolute_url }}/news/2017/04/27/openjpeg-improvement/
 [open-jpeg221]: https://groups.google.com/forum/#!searchin/iiif-discuss/openjpeg%7Csort:relevance/iiif-discuss/LWVEIg0-xOg/zYyxc09cAQAJ
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
 [avalon-poc]: https://github.com/avalonmediasystem/avalon-iiif-player
 [sfmoma]: https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma%7Csort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ
 [Brumfield-Labs]: http://www.brumfieldlabs.com
@@ -277,14 +277,14 @@ Sheila Rabun, IIIF Community and Communications Officer
 [slu]: https://github.com/CenterForDigitalHumanities
 [avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/
 [presi3]: http://prezi3.iiif.io/api/presentation/3.0
-[discovery-group]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery/
+[discovery-group]: {{ site.root_url | absolute_url }}/community/groups/discovery/
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
 [openjpeg]: http://www.openjpeg.org/
 [openjpeg-github]: https://github.com/uclouvain/openjpeg/projects/1
-[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/
-[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
-[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
-[devs-group]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
+[museums]: {{ site.root_url | absolute_url }}/community/groups/museums/
+[manuscripts]: {{ site.root_url | absolute_url }}/community/groups/manuscripts/
+[newspapers]: {{ site.root_url | absolute_url }}/community/groups/newspapers/
+[devs-group]: {{ site.root_url | absolute_url }}/community/groups/software/
 [getty-pr]: http://news.getty.edu/article_display.cfm?article_id=6172
 [getty-blog]: http://blogs.getty.edu/iris/30000-getty-museum-images-published-iiif/
 [ycba-news]: https://news.yale.edu/2017/06/02/yale-center-british-art-adds-online-collection-images-international-system-research
@@ -303,10 +303,10 @@ Sheila Rabun, IIIF Community and Communications Officer
 [reunification]: http://demos.biblissima-condorcet.fr/chateauroux/demo/
 [beyond-words]: http://beyondwords2016.org/
 [software-survey]: https://goo.gl/forms/ejJUIUP9gqOXnvPI2
-[conduct-team]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct-team]: {{ site.root_url | absolute_url }}/event/conduct/
 [conduct-form]: https://goo.gl/forms/o79VAMHEAl72fPmV2
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[iiifc-faq]: {{ site.url }}{{ site.baseurl }}/community/consortium/faq/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[iiifc-faq]: {{ site.root_url | absolute_url }}/community/consortium/faq/
 [georgetown]: https://wiki.duraspace.org/display/DSPACE/IIIF+Experimentation+at+Georgetown+-+June+2017
 [georeferencer]: http://www.georeferencer.com/compare
 [compariscope]: https://vanda.github.io/iiif-features/
@@ -343,13 +343,13 @@ Sheila Rabun, IIIF Community and Communications Officer
 [luca-blog]: http://www.vam.ac.uk/blog/digital-media/easy-image-alignment-with-iiif
 [auto-image]: https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32
 [survey]: https://goo.gl/forms/47OmXfgXMUNMBVI93
-[comm-list]: {{ site.url }}{{ site.baseurl }}/community/
+[comm-list]: {{ site.root_url | absolute_url }}/community/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [epfl]: https://www.epfl.ch/
 [folger]: http://www.folger.edu/
 [vatican-drive]: https://drive.google.com/drive/folders/0B8biwZuDijgeZ2lnLWNJc2Z0RFU?usp=sharing  
 [nga]: https://www.nga.gov/content/ngaweb.html
 [smithsonian]: https://www.si.edu/
-[japan]: {{ site.url }}{{ site.baseurl }}/news/2017/08/21/iiif-in-japan/
+[japan]: {{ site.root_url | absolute_url }}/news/2017/08/21/iiif-in-japan/

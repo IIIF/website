@@ -108,28 +108,28 @@ Drew Winget (Stanford University Libraries)
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [hague-notes]: https://drive.google.com/drive/folders/0B8biwZuDijgednFqMG91WDZjdUE
 [hague-slides]: https://drive.google.com/drive/folders/0B8biwZuDijgeWktQSk9pd0pqNTA
 [outreach-slides]: https://drive.google.com/drive/folders/0B8biwZuDijgeUDJLY3hoREVTVEU
 [iptc]: https://iptc.org/
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
-[iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
+[iiif-events]: {{ site.root_url | absolute_url }}/event/
 [av-notes]: https://docs.google.com/document/d/1cnkOPm7rC9uKeSxorFpu004ZzJxolVLWex5NdxMKnHY/edit?usp=sharing
-[iiif-av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[iiif-av]: {{ site.root_url | absolute_url }}/community/groups/av/
 [disc-overview]: https://docs.google.com/document/d/1sqn61RAYH2fyc2Bh_ERzT8fA-_HwUDio6O1tSpicfyc/edit?usp=sharing
 [disc-technical]: https://docs.google.com/document/d/16_n_CCY9cuIPC_tAdkA-WbsKJpugZKk5GeEajpXA0CQ/edit?usp=sharing
 [iiif-auth]: {{ site.api_url | absolute_url }}/auth/0.9/
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [auth-notes]: https://docs.google.com/document/d/1k_q1gCC_CGqE-DavRlxU1FP7TgC70eHVO_UAWgKlX0E/edit?usp=sharing
-[shared-canvas]: {{ site.root_url | absolute_url }}/model/shared-canvas/1.0/
+[shared-canvas]: https://iiif.io/model/shared-canvas/1.0/
 [shared-canvas-hague]: https://docs.google.com/document/d/1pfArbdTDOoS0ufKKiknyWLnEhi5CNENcakasN2-ugb8/edit?usp=sharing
-[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
-[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/
-[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers
-[devs]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
+[manuscripts]: {{ site.root_url | absolute_url }}/community/groups/manuscripts/
+[museums]: {{ site.root_url | absolute_url }}/community/groups/museums/
+[newspapers]: {{ site.root_url | absolute_url }}/community/groups/newspapers
+[devs]: {{ site.root_url | absolute_url }}/community/groups/software/
 [newspaper-guidelines]: https://docs.google.com/document/d/1rz-Dm_LMguPD_Zi6Z1uf61XaPrdhd3mgK9_SV3EBdlE/edit?usp=sharing
-[mirador]: {{ site.url }}{{ site.baseurl }}/news/2016/09/16/mirador-upgrade-released/
+[mirador]: {{ site.root_url | absolute_url }}/news/2016/09/16/mirador-upgrade-released/
 [manifest-editor]: https://github.com/bodleian/iiif-manifest-editor
 [bodleian-editor]: http://iiif.bodleian.ox.ac.uk/manifest-editor/#/?_k=g92i8r
 [from-the-page]: http://fromthepage.com/

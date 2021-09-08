@@ -98,8 +98,8 @@ The session schedule is available through [sched][sched].
 
 
 [home-page]: {{ site.root_url | absolute_url }}
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
 [eventbrite]: https://iiif-wg-2016.eventbrite.com
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [KB]: https://www.kb.nl/en/visitors/address-and-directions
 [sched]: https://iiifthehague2016.sched.org/

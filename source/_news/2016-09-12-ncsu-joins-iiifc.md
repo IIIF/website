@@ -22,9 +22,9 @@ Welcome and congratulations to NCSU Libraries!
 [nubian-issues]: http://d.lib.ncsu.edu/collections/catalog?_=1472754815045&f%5Bispartof_facet%5D%5B%5D=Nubian+Message
 [ncsu-news]: https://www.lib.ncsu.edu/news/the-%22nubian-message%22-goes-digital
 [uv]: http://uvviewsoft.com/uviewer/
-[iiif-apis]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[iiif-apis]: {{ site.root_url | absolute_url }}/get-started/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[av-group]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[av-group]: {{ site.root_url | absolute_url }}/community/groups/av/
 [technician]: http://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=Technician
 [agromeck]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true&f%5Bispartof_facet%5D%5B%5D=Agromeck+Yearbooks
 [pinetum]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true&f%5Bispartof_facet%5D%5B%5D=Pinetum
@@ -32,4 +32,4 @@ Welcome and congratulations to NCSU Libraries!
 [course]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true&f%5Bispartof_facet%5D%5B%5D=Course+Catalogs
 [archival]: http://d.lib.ncsu.edu/collections/catalog?f%5Bformat%5D%5B%5D=Folder&f%5Bfulltext_bs%5D%5B%5D=true
 [others]: http://d.lib.ncsu.edu/collections/catalog?f%5Bfulltext_bs%5D%5B%5D=true
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/

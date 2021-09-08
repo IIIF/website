@@ -417,4 +417,4 @@ The schedule for the evening is as follows:
 [nls-map]: https://goo.gl/maps/Sx1vhteqp3s
 [stCs-map]: https://goo.gl/maps/kifsKPh1e5o 
 
-[lunch]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh
+[lunch]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/#locations-in-edinburgh

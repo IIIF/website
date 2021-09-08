@@ -46,7 +46,7 @@ Reference implementations of the Image API and collections of fixture Manifests 
 These will continue to be developed, but are ready for testing and comment before the release of the final versions of the specifications.
 
 
-As always, we welcome your feedback, questions, and use cases, and encourage you to submit them to the [IIIF Discussion Listserv](mailto:{{ site.data.organization.email }}). Comments on the current drafts are still welcomed for the next two weeks, with a view to releasing the final version of the specifications at the beginning of September.
+As always, we welcome your feedback, questions, and use cases, and encourage you to submit them to the [IIIF Discussion Listserv](mailto:iiif-discuss@googlegroups.com). Comments on the current drafts are still welcomed for the next two weeks, with a view to releasing the final version of the specifications at the beginning of September.
 
 
 Sincerely,

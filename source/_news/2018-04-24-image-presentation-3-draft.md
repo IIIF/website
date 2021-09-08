@@ -22,6 +22,6 @@ The IIIF Editors: Michael Appleby, Tom Crane, Robert Sanderson, Jon Stroop, Sime
 
 [image-3]: {{ site.api_url | absolute_url }}/image/3.0/
 [prezi-3]: {{ site.api_url | absolute_url }}/presentation/3.0/
-[iiif-conf]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
+[iiif-conf]: {{ site.root_url | absolute_url }}/event/2018/washington/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [api-github]: https://github.com/IIIF/api/issues

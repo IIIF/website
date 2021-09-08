@@ -22,4 +22,4 @@ See the [latest update][update] on this project.
 [github]: https://github.com/uclouvain/openjpeg/projects/1
 [openjpeg-news]: http://www.openjpeg.org/2017/04/27/Faster-OpenJPEG-is-on-track
 [intopix]: http://www.intopix.com/
-[update]: {{ site.url }}{{ site.baseurl }}/news/2017/10/06/openjpeg-survey/
+[update]: {{ site.root_url | absolute_url }}/news/2017/10/06/openjpeg-survey/

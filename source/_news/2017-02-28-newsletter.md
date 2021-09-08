@@ -140,19 +140,19 @@ Rashmi Singhal (Harvard)
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: http://bit.ly/iiif-slack
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [iptc]: https://iptc.org/
 [outreach-survey]: https://docs.google.com/forms/d/e/1FAIpQLScDBfjLTLsC4trMGVXETeEiU1oqNQZd3H9cDApO1jx2M18BBw/viewform?c=0&w=1
-[iiif-events]: {{ site.url }}{{ site.baseurl }}/event/
-[iiif-av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
+[iiif-events]: {{ site.root_url | absolute_url }}/event/
+[iiif-av]: {{ site.root_url | absolute_url }}/community/groups/av/
 [disc-overview]: https://docs.google.com/document/d/1sqn61RAYH2fyc2Bh_ERzT8fA-_HwUDio6O1tSpicfyc/edit?usp=sharing
 [disc-technical]: https://docs.google.com/document/d/16_n_CCY9cuIPC_tAdkA-WbsKJpugZKk5GeEajpXA0CQ/edit?usp=sharing
 [iiif-auth]: {{ site.api_url | absolute_url }}/auth/1.0/
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
-[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/
-[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers
-[devs]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
+[manuscripts]: {{ site.root_url | absolute_url }}/community/groups/manuscripts/
+[museums]: {{ site.root_url | absolute_url }}/community/groups/museums/
+[newspapers]: {{ site.root_url | absolute_url }}/community/groups/newspapers
+[devs]: {{ site.root_url | absolute_url }}/community/groups/software/
 [mirador]: http://projectmirador.org
 [survey-basic]: https://goo.gl/forms/47OmXfgXMUNMBVI93
 [survey-extended]: https://goo.gl/forms/wHXWrvIMtUbmJRN52
@@ -161,8 +161,8 @@ Rashmi Singhal (Harvard)
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [uv]: https://digirati.com/technology/our-solutions/universal-viewer/
-[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
-[vatican-sponsors]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican-sponsors/
+[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
+[vatican-sponsors]: {{ site.root_url | absolute_url }}/event/2017/vatican-sponsors/
 [ola-super]: http://www.olasuperconference.ca/
 [c4l]: http://2017.code4lib.org/
 [ldcx]: http://library.stanford.edu/projects/ldcx/2017-conference
@@ -170,7 +170,7 @@ Rashmi Singhal (Harvard)
 [dplafest]: https://dp.la/info/get-involved/dplafest/april-2017/
 [taskforce-more]: http://pro.europeana.eu/page/issue-6-iiif
 [smithsonian]: https://dpo.si.edu/2017-smithsonian-digitization-fair-welcome-0
-[iiif-discovery]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery
+[iiif-discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery
 [av-gist]: https://docs.google.com/document/d/1X7b7zQGDsiEvAfvb1WboDXe360mz7Zmm0o0LT43nozk/edit?usp=sharing
 [av-fixtures]: https://github.com/IIIF/iiif-av/tree/master/source/api/av/examples
 [jubilees]: http://jubilees.stmarytx.edu/
@@ -179,8 +179,8 @@ Rashmi Singhal (Harvard)
 [iiif-commons]: https://iiif-commons.github.io/
 [ontario]: http://boxwood.ago.ca/collection
 [harvard-art]: http://www.harvardartmuseums.org/collections/
-[ftp-news]: {{ site.url }}{{ site.baseurl }}/news/2017/02/17/from-the-page/
-[pontiiif-news]: {{ site.url }}{{ site.baseurl }}/news/2017/02/17/pontiiif/
+[ftp-news]: {{ site.root_url | absolute_url }}/news/2017/02/17/from-the-page/
+[pontiiif-news]: {{ site.root_url | absolute_url }}/news/2017/02/17/pontiiif/
 [web-anno]: https://www.w3.org/blog/2017/02/making-it-easier-to-share-annotations-on-the-web/
 [leaflet]: https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2
 [dlcs]: https://www.gitbook.com/book/dlcs/book/details
@@ -201,7 +201,7 @@ Rashmi Singhal (Harvard)
 [eLife]: https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif
 [eLife-anno]: https://via.hypothes.is/https://www.nature.com/news/annotating-the-scholarly-web-1.18900?error=cookies_not_supported&code=28673ef0-3aa0-40fa-912a-ff3b8078c397
 [bbmn]: http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/
-[edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
+[edinburgh]: {{ site.root_url | absolute_url }}/event/2017/edinburgh
 [iiif-design]: {{ site.api_url | absolute_url }}/annex/notes/design_patterns/
 [ycba]: http://collections.britishart.yale.edu/vufind/Record/1667701
 [frick]: http://digitalcollections.frick.org/digico/#/

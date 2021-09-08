@@ -6,9 +6,9 @@ page: overview
 ---
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<!-- <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script> -->
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
+<!-- <script src="{{ site.root_url | absolute_url }}/js/vendor/add-to-calendar.min.js"></script> -->
+<script src="{{ site.root_url | absolute_url }}/js/vendor/moment-with-locales.min.js"></script>
+<script src="{{ site.root_url | absolute_url }}/js/vendor/moment-timezone-with-data.js"></script>
 
 IIIF Week Online is a series of **free** online events introducing IIIF’s capabilities and community, sharing demonstrations of IIIF implementations, and discussing the future of IIIF, digital strategy for cultural heritage, and digital research needs. 
 
@@ -451,11 +451,11 @@ function loadClient() {
 
 
 [iiif]: https://iiif.io/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[consortium]: {{ site.root_url | absolute_url }}/community/consortium/
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
 

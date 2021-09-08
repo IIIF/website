@@ -26,4 +26,4 @@ The [OpenJPEG improvement project][improvement] has been made possible with fund
 [latest]: https://github.com/uclouvain/openjpeg/releases/latest
 [survey]: https://goo.gl/forms/491bK2sv9Fj0Y0Cf2
 [v2]: http://www.openjpeg.org/2017/08/10/OpenJPEG-2.2.0-released
-[improvement]: {{ site.url }}{{ site.baseurl }}/news/2017/04/27/openjpeg-improvement/
+[improvement]: {{ site.root_url | absolute_url }}/news/2017/04/27/openjpeg-improvement/

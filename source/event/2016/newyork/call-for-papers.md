@@ -28,9 +28,9 @@ Submissions will be accepted up until March 21st, 2016 and no extensions to this
 [home-page]: {{ site.root_url | absolute_url }}
 [eventbrite]: http://iiif-advantages-nyc.eventbrite.com/
 [eventbrite-conf]: http://iiif-conference-nyc.eventbrite.com/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
-[tech-details]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[iiif-c]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/
+[tech-details]: {{ site.root_url | absolute_url }}/get-started/
 [proposals]: mailto:iiif-proposals@googlegroups.com
 [moma]: http://www.moma.org/
 [moma-map]: https://goo.gl/maps/9wFHb2ZzVE72

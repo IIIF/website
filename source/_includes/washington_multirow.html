@@ -10,7 +10,7 @@
         {% else %}
             {% assign rowspan = 1 %}
         {% endif %}
-        {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id | replace: 'Paper ', 'paper-'}}/{% endcapture %}
+        {% capture dest_url %}{{ site.root_url | absolute_url }}/event/2018/washington/program/{{submission.id | replace: 'Paper ', 'paper-'}}/{% endcapture %}
         <td rowspan="{{rowspan}}"><a href="{{ dest_url }}">{{ submission.submission_title}}</a></td>
         <td rowspan="{{rowspan}}">{% for author in submission.authors %}
                 {{ author.firstname }} {{ author.lastname}}{% if forloop.last == false %}, {% endif %}

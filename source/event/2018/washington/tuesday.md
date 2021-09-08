@@ -48,7 +48,7 @@ For those looking for an introduction to IIIF for the first time, this will be t
     {% include washington_slot_row.html title='IIIF for Teaching and Research' authors='Rashmi Singhal, Harvard University' %}
     <tr>
         <td>12:00pm - 1:30pm</td>
-        <td colspan="2"><b>Lunch (on your own) - <a href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/lunch-locations/">lunch leader sessions and lunch locations</a></b></td>
+        <td colspan="2"><b>Lunch (on your own) - <a href="{{ site.root_url | absolute_url }}/event/2018/washington/lunch-locations/">lunch leader sessions and lunch locations</a></b></td>
     </tr>
     <tr>
         <td>1:30pm - 2:00pm</td>

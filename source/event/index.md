@@ -41,24 +41,24 @@ __Previous IIIF-Hosted Events__
 * Fall 2011: Cambridge, England
 
 
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[boston20]: {{ site.url }}{{ site.baseurl }}/event/2020/boston/
-[iiifweek]: {{ site.url }}{{ site.baseurl }}/event/2020/iiifweek/
-[ann_arbor19]: {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/
-[goettingen19]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
-[edinburgh18]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/
-[washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
-[toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase
-[london-va]: {{ site.url }}{{ site.baseurl }}/event/2017/london/
-[toronto]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto/
-[edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
-[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
-[hague]: {{ site.url }}{{ site.baseurl }}/event/2016/thehague/
-[nyc]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/
-[ghent]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent/
-[dc]: {{ site.url }}{{ site.baseurl }}/event/2015/washington/
-[london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
-[outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach/
-[conference]: {{ site.url }}{{ site.baseurl }}/event/conference_guidelines/
-[fall2020]: {{ site.url }}{{ site.baseurl }}/event/2020/fall_working_meeting/
-[annual_conference]: {{ site.url }}{{ site.baseurl }}/event/2021/annual_conference
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[boston20]: {{ site.root_url | absolute_url }}/event/2020/boston/
+[iiifweek]: {{ site.root_url | absolute_url }}/event/2020/iiifweek/
+[ann_arbor19]: {{ site.root_url | absolute_url }}/event/2019/ann_arbor/
+[goettingen19]: {{ site.root_url | absolute_url }}/event/2019/goettingen/
+[edinburgh18]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/
+[washington2018]: {{ site.root_url | absolute_url }}/event/2018/washington/
+[toronto-showcase]: {{ site.root_url | absolute_url }}/event/2017/toronto-showcase
+[london-va]: {{ site.root_url | absolute_url }}/event/2017/london/
+[toronto]: {{ site.root_url | absolute_url }}/event/2017/toronto/
+[edinburgh]: {{ site.root_url | absolute_url }}/event/2017/edinburgh
+[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
+[hague]: {{ site.root_url | absolute_url }}/event/2016/thehague/
+[nyc]: {{ site.root_url | absolute_url }}/event/2016/newyork/
+[ghent]: {{ site.root_url | absolute_url }}/event/2015/ghent/
+[dc]: {{ site.root_url | absolute_url }}/event/2015/washington/
+[london]: {{ site.root_url | absolute_url }}/event/2014/london/
+[outreach]: {{ site.root_url | absolute_url }}/community/groups/outreach/
+[conference]: {{ site.root_url | absolute_url }}/event/host_your_own_IIIF_event/
+[fall2020]: {{ site.root_url | absolute_url }}/event/2020/fall_working_meeting/
+[annual_conference]: {{ site.root_url | absolute_url }}/event/2021/annual_conference

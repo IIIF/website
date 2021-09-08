@@ -41,7 +41,7 @@ The International Image Interoperability Framework (IIIF) is a set of shared app
 
 The Digital Humanities Summer Institute provides an ideal environment for discussing and learning about new computing technologies and how they are influencing teaching, research, dissemination, creation, and preservation in different disciplines, via a community-based approach. A time of intensive coursework, seminars, and lectures, participants at DHSI share ideas and methods, and develop expertise in using advanced technologies. Every summer, the institute brings together faculty, staff, and students from the Arts, Humanities, Library, and Archives communities as well as independent scholars and participants from areas beyond. Described by one participant as an event that “combines the best aspects of a skills workshop, international conference, and summer camp,” the DHSI prides itself on its friendly, informal, and collegial atmosphere.
 
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[iiif-c]: {{ site.root_url | absolute_url }}/community/consortium/
 [dhsi]: http://www.dhsi.org/index.php
 [application]: https://forms.gle/JDsQcw9x8MFPFrRQ7
-[faq]: {{ site.url }}{{ site.baseurl }}/community/faq/
+[faq]: {{ site.root_url | absolute_url }}/community/faq/

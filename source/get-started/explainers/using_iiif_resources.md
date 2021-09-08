@@ -36,7 +36,7 @@ Many institutions provide the IIIF logo which can be dragged into another viewer
 
 This is also possible using the [UniversalViewer](https://universalviewer.io/) which is another popular IIIF viewer:
 
-<!--<img class="img-standout" src="{{ site.url }}{{ site.baseurl }}/explainers/images/tools/UV2Mirador.gif" alt="A gif showing drag and drop"/> -->
+<!--<img class="img-standout" src="{{ site.root_url | absolute_url }}/explainers/images/tools/UV2Mirador.gif" alt="A gif showing drag and drop"/> -->
 <div class="video-container">
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/UVM0taaT0B0" allow="encrypted-media" allowfullscreen></iframe>
 </div>    

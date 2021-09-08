@@ -35,4 +35,4 @@ The International Image Interoperability Framework (IIIF) conference offers an e
 
 To indicate your interest in sponsorship, please contact admin@iiif.io as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), administrative home of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
 
-[iiif-washington]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
+[iiif-washington]: {{ site.root_url | absolute_url }}/event/2018/washington/
