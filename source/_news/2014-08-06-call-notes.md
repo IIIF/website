@@ -46,14 +46,14 @@ Welcome new participants: JHU is beginning a new project that will use the share
 ## Presentation API Discussion
 
 ### Thumbnail, Logo, Related
-[link]({{ page.webprefix }}/api/presentation/2.0/#linking-properties)
+[link]({{ site.api_url | absolute_url }}/presentation/2.0/#linking-properties)
 
 Thumbnails can be associated with an object so users can more easily identify it (use recommended). A logo can be added, e.g. unique distinguishing graphic for a library or university (optional).
 
 __Discussion:__ can links be added to the logo? Answer: not now, and would be difficult. A logo just points to a single image. Discussion: there can only be one logo per page. An example was given of an institution that serves as a clearinghouse, directing users to other repositories from other institutions. In that case, a bulleted list of other institutions would not have logos but could instead have an attribution hold this link data.
 
 ### Page turning and table of contents
-[link]({{ page.webprefix }}/api/presentation/2.0/#ranges)
+[link]({{ site.api_url | absolute_url }}/presentation/2.0/#ranges)
 
 Ranges (7.1) are a method to provide more structural information about an object beyond sequences. In version 2.0, a range could display a table of contents or top of hierarchy with viewer hints.
 
@@ -70,12 +70,12 @@ Michael agrees with Simeon and says that it depends upon what the content creato
 
 Do we need to have a blank page indicator? Yes.
 
-Markus brought up the case of multiple images of the same manuscript. Will we need to indicate which should be displayed first? Yes, use "choice" as defined in the API. For example, choice allows creators to default to showing the color image of a manuscript, despite the same manuscript  also being available in black and white. Cf. [link]({{ page.webprefix }}/api/presentation/2.0/#choice-of-alternative-resources)
+Markus brought up the case of multiple images of the same manuscript. Will we need to indicate which should be displayed first? Yes, use "choice" as defined in the API. For example, choice allows creators to default to showing the color image of a manuscript, despite the same manuscript  also being available in black and white. Cf. [link]({{ site.api_url | absolute_url }}/presentation/2.0/#choice-of-alternative-resources)
 
 Question about ranges by Glen: suitable for newspaper articles across pages or multiple articles on one page? Answer: yes, both.
 
 ### HTML in Properties
-[link]({{ page.webprefix }}/api/presentation/2.0/#content-details)
+[link]({{ site.api_url | absolute_url }}/presentation/2.0/#content-details)
 
 HTML may be in description, attribution, or metadata properties. It needs to be well formed XML, wrapped in <p> or <span>. However don't assume that HTML formatting will be included – it may well be stripped out. This is designed to allow for basic HTML links, but disallow injection of bad data.
 

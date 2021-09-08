@@ -58,7 +58,7 @@ The 2017 IIIF Conference is sponsored by:
 Please see the [Call for Sponsors][vatican-sponsors] for more information, or to become a sponsor.
 
 
-[home-page]: {{ page.webprefix }}
+[home-page]: {{ site.root_url | absolute_url }}
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [institute]: http://www.patristicum.org/en/conference-center
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss

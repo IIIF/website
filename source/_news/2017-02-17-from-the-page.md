@@ -14,8 +14,8 @@ For projects whose images have been uploaded directly to FromThePage, whether bu
 
 FromThePage is an open source tool supported by Brumfield Labs, and can be downloaded at [https://github.com/benwbrum/fromthepage][fromthepage]. Hosted FromThePage accounts are available at [FromThePage.com][fromthepage.com]. A demo video is available at [https://www.youtube.com/watch?v=92Blut3l2ds][demo]
 
-[iiif-image]: {{ page.webprefix }}/api/image/
-[iiif-prezi]: {{ page.webprefix }}/api/presentation/
+[iiif-image]: {{ site.api_url | absolute_url }}/image/
+[iiif-prezi]: {{ site.api_url | absolute_url }}/presentation/
 [fromthepage]: https://github.com/benwbrum/fromthepage
 [fromthepage.com]: http://fromthepage.com/
 [demo]: https://www.youtube.com/watch?v=92Blut3l2ds

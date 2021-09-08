@@ -20,5 +20,5 @@ Welcome and congratulations, University of Tokyo!
 [workshop]: http://conf2016.jadh.org/workshop/
 [sat]: http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php
 [apis]: {{ site.url }}{{ site.baseurl }}/technical-details/
-[image]: {{ page.webprefix }}/api/image/
-[prezi]: {{ page.webprefix }}/api/presentation/
+[image]: {{ site.api_url | absolute_url }}/image/
+[prezi]: {{ site.api_url | absolute_url }}/presentation/

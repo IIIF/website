@@ -119,10 +119,10 @@ Drew Winget (Stanford University Libraries)
 [iiif-av]: {{ site.url }}{{ site.baseurl }}/community/groups/av/
 [disc-overview]: https://docs.google.com/document/d/1sqn61RAYH2fyc2Bh_ERzT8fA-_HwUDio6O1tSpicfyc/edit?usp=sharing
 [disc-technical]: https://docs.google.com/document/d/16_n_CCY9cuIPC_tAdkA-WbsKJpugZKk5GeEajpXA0CQ/edit?usp=sharing
-[iiif-auth]: {{ page.webprefix }}/api/auth/0.9/
+[iiif-auth]: {{ site.api_url | absolute_url }}/auth/0.9/
 [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [auth-notes]: https://docs.google.com/document/d/1k_q1gCC_CGqE-DavRlxU1FP7TgC70eHVO_UAWgKlX0E/edit?usp=sharing
-[shared-canvas]: {{ page.webprefix }}/model/shared-canvas/1.0/
+[shared-canvas]: {{ site.root_url | absolute_url }}/model/shared-canvas/1.0/
 [shared-canvas-hague]: https://docs.google.com/document/d/1pfArbdTDOoS0ufKKiknyWLnEhi5CNENcakasN2-ugb8/edit?usp=sharing
 [manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts/
 [museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums/

@@ -98,7 +98,7 @@ Session descriptions, agendas, and notes are available via [Sched][sched].
 | 4:00 - 5:30   | Closing Plenary |  |  |
 {: .api-table .msched-table}
 
-[home-page]: {{ page.webprefix }}
+[home-page]: {{ site.root_url | absolute_url }}
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [UT]: https://onesearch.library.utoronto.ca/library-info/ROBARTS

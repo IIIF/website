@@ -130,7 +130,7 @@ Some possible additions to security around the events:
 We continue to look forwards to the discussions in Ghent, and hope that we'll see you there.
 
 
-[home-page]: {{ page.webprefix }}
+[home-page]: {{ site.root_url | absolute_url }}
 [event-brite]: http://iiif-ghent-2015.eventbrite.com/
 [event-brite-wg]: https://iiif-winter-2015.eventbrite.com/
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/

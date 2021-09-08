@@ -126,7 +126,7 @@ A [sched][sched] site with the details will be available.
 | 4:15 - 5:00   | Feedback, Next Steps, Close |  | Manuscript WG |
 {: .api-table .msched-table}
 
-[home-page]: {{ page.webprefix }}
+[home-page]: {{ site.root_url | absolute_url }}
 [eventbrite]: http://iiif-advantages-nyc.eventbrite.com/
 [eventbrite-conf]: http://iiif-conference-nyc.eventbrite.com/
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
