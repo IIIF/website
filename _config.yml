@@ -21,6 +21,23 @@ plugins:
   - jekyll-gzip
   - jekyll-redirect-from
   - jekyll-liquify
+  - jekyll-datapage-generator
+
+page_gen-dirs: false
+page_gen:
+  - index_files: false
+    data: 'old.washington_submissions'
+    template: 'submission'
+    name: 'id'
+    dir: 'event/2018/washington/program'
+    extension: 'html'
+    filter_condition: "record['decision'] == 'ACCEPT'"
+  - index_files: false
+    data: 'old.2019-conference-submissions'
+    template: '2019_submission'
+    name: 'id'
+    dir: 'event/2019/goettingen/program'
+    extension: 'html'
 
 # notification:
 #   enabled: true
