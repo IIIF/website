@@ -19,7 +19,7 @@ There are four main ways to join the conversation:
 3. Subscribe to the **[iiif-discuss mailing list](https://groups.google.com/forum/#!forum/iiif-discuss)**{:.external} - more technical, Q&A, project-related
 4. Join the **[IIIF Slack](http://bit.ly/iiif-slack)**{:.external} team - lots of activity, specific channels for groups, and more!
 
-There are **[groups]({{ site.root_url | absolute_url }}/community/groups/)** to discuss various elements or contexts of IIIF usage or to agree on direction (or not!) of a particular idea or initiative. Some things in IIIF require slightly more formal governance, which happens through five **[committees]({{ site.root_url | absolute_url }}/community/consortium/#committees)**. For example, the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc) is the committee responsible for the IIIF APIs.
+There are **[groups]({{ site.root_url | absolute_url }}/community/groups/)** to discuss various elements or contexts of IIIF usage or to agree on direction (or not!) of a particular idea or initiative. Some things in IIIF require slightly more formal governance, which happens through a number of **[committees]({{ site.root_url | absolute_url }}/community/consortium/#oversight)**. For example, the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc) is the committee responsible for the IIIF APIs.
 
 ## About the IIIF Consortium
 

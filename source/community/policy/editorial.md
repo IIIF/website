@@ -129,5 +129,5 @@ The editorial committee _MUST_ provide a summary of all meetings, and _SHOULD_ p
 [groups]: {{ site.root_url | absolute_url }}/community/groups/
 [design-patterns]: {{ site.api_url | absolute_url }}/annex/notes/design_patterns/
 [image-30-changelog]: {{ site.api_url | absolute_url }}/image/3.0/change-log/ "Changes for IIIF Image API Version 3.0"
-[tsg-framework]: {{ site.root_url | absolute_url }}/community/groups/framework/#iiif-technical-specification-groups
+[tsg-framework]: {{ site.root_url | absolute_url }}/community/groups/framework/#technical-specification-groups
 [trc-process]: {{ site.root_url | absolute_url }}/community/trc/#process "TRC Process"
