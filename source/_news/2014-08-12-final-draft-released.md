@@ -34,8 +34,8 @@ Since the release of the previous drafts only a small number of changes have bee
 
 In addition, tools to aid in the creation and testing of conforming applications and systems are being implemented and added to the iiif.io website.  These include validators for the Image and Presentation APIs:
 
- * [Image API Validator]({{ site.api_url | absolute_url }}/image/validator/)
- * [Presentation API Validator]({{ site.api_url | absolute_url }}/presentation/validator/)
+ * [Image API Validator](https://iiif.io/api/image/validator/)
+ * [Presentation API Validator](https://iiif.io/api/presentation/validator/service/)
 
 Reference implementations of the Image API and collections of fixture Manifests for the Presentation API:
 
