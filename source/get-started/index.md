@@ -59,6 +59,10 @@ end_user_cards:
     link: '/get-started/tools'
     image: ''
 implementer_cards:
+  - label: IIIF APIs
+    description: Go straight to the documentation describing the current and draft specifications.
+    image: ''
+    link: '{{ site.api_url | absolute_url }}'
   - label: IIIF-compliant vendors
     description: View a list of vendors that allow you to serve your resources via IIIF without building your own ecosystem.
     image: ''
