@@ -1,6 +1,7 @@
 ---
 title: Community Map
 layout: page
+breadcrumbs: 
  - label: "Get Involved"
    link: /get-involved/
  - label: "Community"
