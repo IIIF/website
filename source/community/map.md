@@ -1,6 +1,10 @@
 ---
 title: Community Map
 layout: page
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: "/get-involved/community/"
 ---
 
 There are around hundreds of adopters of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.
