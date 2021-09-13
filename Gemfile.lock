@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mnyrop/iiifc-theme.git
-  revision: 38dfb1005aa1b69bbf475619cee7acf7d8b4c8a5
+  revision: bb37537f2f8c531fb586ae1ddb6d5d27e6dea029
   branch: main
   specs:
     iiifc-theme (0.1.0)
@@ -85,7 +85,7 @@ GEM
       racc (~> 1.4)
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
-    parallel (1.20.1)
+    parallel (1.21.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
