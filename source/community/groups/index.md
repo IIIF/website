@@ -6,29 +6,43 @@ breadcrumbs:
    link: /community/
 ---
 
-Community Groups provide an opportunity for discussing and advancing IIIF-related issues with peers. They meet regularly and are open to all.
+Community Groups provide an opportunity for discussing and advancing IIIF-related issues with peers. They meet regularly and **are open to all**.
 
 If you'd like to propose a technical or community topic that would benefit the community, please review the [Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework).
 
-
 ## Current Groups
 
+All of the meetings for the groups listed below are open to the public and can be joined at any time -- newcomers welcome!
+
 ### Community Groups
+
+Community Groups meet to discuss issues related to current themes and topics, and also often feature demos of relevant work and recent implementations.
+
   *   [3D]({{ site.root_url | absolute_url }}/community/groups/3d) - Calls on the 3rd Thursday of the month
   *   [Archives]({{ site.root_url | absolute_url }}/community/groups/archives) - Calls every two months on Tuesdays
   *   [A/V]({{ site.root_url | absolute_url }}/community/groups/av) - Calls on the 3rd Tuesday of the month
   *   [Discovery for Humans]({{ site.root_url | absolute_url }}/community/groups/D4H) - Calls on the 4th Wednesday of the month
   *   [Manuscripts]({{ site.root_url | absolute_url }}/community/groups/manuscripts) - Quarterly calls on Wednesdays
-  *   [Maps]({{ site.root_url | absolute_url }}/community/groups/maps) - Calls every other week on Wednesdays
+  *   [Maps]({{ site.root_url | absolute_url }}/community/groups/maps) - Calls every other week on Wednesdays (alternating with Maps TSG listed below)
   *   [Museums]({{ site.root_url | absolute_url }}/community/groups/museums) - Calls on the first Tuesday of the month
   *   [Newspapers]({{ site.root_url | absolute_url }}/community/groups/newspapers) - Quarterly calls
   *   [Outreach]({{ site.root_url | absolute_url }}/community/groups/outreach) - Calls on the last Tuesday of the month
 
 ### Technical Specification Groups (TSGs)
-   *   [Discovery]({{ site.root_url | absolute_url }}/community/groups/discovery) - Calls every other week on Wednesdays
-  * [Maps][maps-tsg]
-  * [Authentication][auth-tsg]
-  * [Content Search][content-search-tsg]
+
+Technical Specification Groups are specifically chartered to update existing specifications or create new ones (to see how take a look at the [Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework)). Like Community Groups, all of the meetings for the groups listed below are open to the public and can be joined at any time.
+
+*   [Discovery][discovery] - Calls every other week on Wednesdays
+* [Maps][maps-tsg] -- Calls every other week on Wednesdays (alternating with Maps Community group)
+* [Authentication][auth-tsg] -- Calls every other week on Tuesdays
+* [Content Search][content-search-tsg] -- Calls every other week on Tuesdays
+
+
+## Completed Groups and TSGs
+
+* Text Granularity TSG -- This group completed its work in 2019 with the publication of the [Text Granularity Extension]({{ site.api_url | absolute_url }}/extension/text-granularity/).
+* A/V TSG -- with the publication of the [Presentation API 3.0]({{ site.api_url | absolute_url }}/presentation/3.0/) in June 2020, this TSG completed its work and evolved in the A/V community group listed above. 
+* Software Developers Community Group
 
 <h2><a name="calendar"></a>Community call calendar</h2>
 
@@ -36,7 +50,7 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 
 {% include community_calendar.html %}
 
-
 [maps-tsg]: {{ site.root_url | absolute_url }}/community/groups/maps-tsg/
 [auth-tsg]: {{ site.root_url | absolute_url }}/community/groups/auth-tsg "IIIF Authentication Technical Specification Group"
 [content-search-tsg]: {{ site.root_url | absolute_url }}/community/groups/content-search-tsg "IIIF Content Search Technical Specification Group"
+[discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery

@@ -46,7 +46,7 @@ All our work is guided by our [Code of Conduct]({{ site.root_url | absolute_url 
 
 <a name="calendar"></a>
 
-This calendar provides a bird's eye view of all the IIIF group calls, which take place regularly via Zoom. See something you're interested in here, or in the list of groups? Add it to your own calendar and join! 
+This calendar provides a bird's eye view of all the [IIIF group calls]({{ site.root_url | absolute_url }}/community/groups), which take place regularly via Zoom. See something you're interested in here, or in the list of groups? Add it to your own calendar and join! 
 
 To load this calendar into external applications like Outlook or Mac Calendar please download the calendar in this [ical format](https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics). 
 
