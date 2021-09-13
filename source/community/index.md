@@ -38,7 +38,7 @@ Overall, we think there are [hundreds of adopters]({{ site.root_url | absolute_u
 There are lots of ways to get involved and join the conversation!
 
 ## Community and Technical Specification Groups
-IIIF Groups meet regularly to discuss various contexts of IIIF usage for a particular idea or initiative. View a full list of active and completed croups along with their charters, chairs, and meeting times [on the Groups page]({{ site.root_url | absolute_url }}/community/groups).
+IIIF Groups meet regularly to discuss various contexts of IIIF usage for a particular idea or initiative. View a full list of active and completed croups along with their charters, chairs, and meeting times [on the Groups page][groups].
 
 All our work is guided by our [Code of Conduct]({{ site.root_url | absolute_url }}/event/conduct/).
 
@@ -46,7 +46,7 @@ All our work is guided by our [Code of Conduct]({{ site.root_url | absolute_url 
 
 <a name="calendar"></a>
 
-This calendar provides a bird's eye view of all the [IIIF group calls]({{ site.root_url | absolute_url }}/community/groups), which take place regularly via Zoom. See something you're interested in here, or in the list of groups? Add it to your own calendar and join! 
+This calendar provides a bird's eye view of all the [IIIF group calls][groups], which take place regularly via Zoom. See something you're interested in here, or in the list of groups? Add it to your own calendar and join! 
 
 To load this calendar into external applications like Outlook or Mac Calendar please download the calendar in this [ical format](https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics). 
 
@@ -84,11 +84,11 @@ You can [join the consortium]({{ site.root_url | absolute_url }}/community/conso
 
 ## The Editorial Committee
 
-The IIIF Editorial Committee meets regularly and works in collaboration with [Community and Technical Specification Groups](/community/groups) to propose new technical specifications and to update existing ones. Learn about their work and current membership [on the Editors page][editors].
+The IIIF Editorial Committee meets regularly and works in collaboration with [Community and Technical Specification Groups][groups] to propose new technical specifications and to update existing ones. Learn about their work and current membership [on the Editors page][editors].
 
 ## IIIF Ambassadors
 IIIF Ambassadors are deputized to work with Consortium staff to take a formal role in championing IIIF adoption in their communities. Ambassadors focus their efforts around different domains, associations, tools, or regions. Learn more about [the program and meet the current Ambassadors][ambassadors].
 
-
+[groups]:{{site.root_url | absolute_url }}/community/groups/
 [editors]:{{site.root_url | absolute_url }}/community/editors/
 [ambassadors]:{{site.root_url | absolute_url }}/community/ambassadors
