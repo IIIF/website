@@ -11,26 +11,13 @@ intro_tabs:
     content: Whether you're a researcher, an educator, or just someone exploring the possibilities, IIIF makes your life easier when it comes to working with digital collections.
   - label: Developer
     content: As an implementer/developer, you can make digital resources available on the web using IIIF.
-implement_tabs:
-  - label: 1. Explore the core APIs
-    content: Image and Presentation are the core APIs most institutions start with. Choose to retrieve images with the Image API or the image’s metadata with the Presentation API.
-    cards:
-      - label: Learn about image viewers
-        description: There are several popular viewers, each with different capabilities.
-        image: 'assets/images/icons/image@2x.webp'
-        link: '{{site.api_url}}/image'
-      - label: Learn about image viewers
-        description: There are several popular viewers, each with different capabilities.
-        image: 'assets/images/icons/image@2x.webp'
-        link: '{{site.api_url}}/image'
-  - label: 2. Integrate viewers
-    content: It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    cards:
-      -
-  - label: 3. Enable other features
-    content: It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    cards:
-      -
+implementer_text_cols:
+  - content: "If you’re a researcher, educator, or in a similar role, you are likely an end user, and you can use IIIF resources already hosted on the Web by someone else--all without having to learn to code."
+    button_label: View end user resources
+    button_link: '{{ page.url | absolute_url }}#end-users'
+  - content: "As an implementer, you can make digital resources available on the Web via IIIF using a variety of products, tools, and resources. Coding skills may or may not be required."
+    button_label: 'View implementer resources'
+    button_link: '{{ page.url | absolute_url }}#implementers'
 end_user_cards:
   - label: How IIIF works
     description: Get a simple overview of how IIIF works.
@@ -113,10 +100,13 @@ more_resources_cards:
 
 There are two main ways to get started with IIIF.
 
-|If you’re a researcher, educator, or in a similar role, you are likely an end user, and you can use IIIF resources already hosted on the Web by someone else--all without having to learn to code. | As an implementer, you can make digital resources available on the Web via IIIF using a variety of products, tools, and resources. Coding skills may or may not be required.|
-|[View end user resources](#end-users)|[View implementer resources](#implementers)|
-{: .api-table}
-
+{% include blocks/text-and-text.html   
+    content_1=page.implementer_text_cols.first.content
+    button_label_1=page.implementer_text_cols.first.button_label
+    button_link_1=page.implementer_text_cols.first.button_link
+    content_2=page.implementer_text_cols.last.content
+    button_label_2=page.implementer_text_cols.last.button_label
+    button_link_2=page.implementer_text_cols.last.button_link %}
 
 {{ theme.block-end }}
 
