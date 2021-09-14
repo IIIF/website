@@ -14,10 +14,10 @@ intro_tabs:
 implementer_text_cols:
   - content: "If you’re a researcher, educator, or in a similar role, you are likely an end user, and you can use IIIF resources already hosted on the Web by someone else--all without having to learn to code."
     button_label: View end user resources
-    button_link: '{{ page.url | absolute_url }}#end-users'
+    button_link: '{{ site.root_url | absolute_url }}get-started/#end-users'
   - content: "As an implementer, you can make digital resources available on the Web via IIIF using a variety of products, tools, and resources. Coding skills may or may not be required."
     button_label: 'View implementer resources'
-    button_link: '{{ page.url | absolute_url }}#implementers'
+    button_link: '{{ site.root_url | absolute_url }}get-started/#implementers'
 end_user_cards:
   - label: How IIIF works
     description: Get a simple overview of how IIIF works.
