@@ -21,7 +21,7 @@ events:
 top_tabs:
   - label: Events
     content: "{%- include blocks/event-cards.html items=page.events limit=4 -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
-  - label: Community Meetings
+  - label: Call Calendar
     content: "{% include misc/community_calendar.html %}"
   - label: News
     content: "{% include blocks/news-cards.html limit=6 %}{% include misc/button.html button_label='View All' button_link='/news' %}"
