@@ -4,6 +4,8 @@ title: Get Started
 subtitle: >
   Whether you're a developer, researcher, librarian, collection manager, or someone else, your work with digital collections can benefit from IIIF technology and tools.
 permalink: /get-started/
+redirect_from:
+  - /technical-details/
 hero:
   image: "assets/images/heroes/hero-2@3x.webp"
 intro_tabs:
@@ -69,15 +71,15 @@ implementer_cards:
   - label: Test an API implementation
     description: Try out the IIIF validators for the Image and Presentation APIs.
     image: ''
-    link: 'https://github.com/IIIF/awesome-iiif/#official-resources'
+    link: '{{ site.api_url | absolute_url}}/#validators'
   - label: Get recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
     image: ''
-    link: "/get-started/cookbook"
+    link: "{{ site.cookbook_url | absolute_url }}"
   - label: Read guides
     description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
     image: ''
-    link: ''
+    link: '{{ site.guides_url | absolute_url }}'
 more_resources_cards:
   - label: Talks
     description: Learn from other’s experience implementing IIIF by watching conference presentations.
