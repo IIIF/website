@@ -24,7 +24,7 @@ top_tabs:
   - label: Call Calendar
     content: "{% include misc/community_calendar.html %}"
   - label: News
-    content: "{% include blocks/news-cards.html limit=6 %}{% include misc/button.html button_label='View All' button_link='/news' %}"
+    content: "{% include blocks/news-cards.html limit=3 %}{% include misc/button.html button_label='View All' button_link='/news' %}"
 banner:
   title: "Get monthly updates on IIIF"
   color: '#001927'
