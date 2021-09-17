@@ -4,22 +4,6 @@ title: Demos
 subtitle: >
   Get inspired by the work of our community.
 permalink: /demos/
-get_started_cards:
-  - label: Explore API documentation
-    description: Sed ac turpis ut nisi convallis accumsan a eu sem. Vestibulum suscipit nisi nunc, in bibendum enim tempus sed.
-    link_text: Learn more
-    link: ''
-    alt_text: "TKTK"
-  - label: How it works
-    description: Get a simple overview of how IIIF works.
-    link_text: Learn more
-    link: '/get-started/how-iiif-works'
-    alt_text: "TKTK"
-  - label: Join community group calls
-    description: Connect with and learn from your peers by joining a community group, or by proposing a new one! Calls are open to everyone.
-    link_text: Learn more
-    link: ''
-    alt_text: "TKTK"
 iiif_basics_carousel:
   - resource:
       url: 'assets/uploads/wellcome_zebrafish.webp'
@@ -105,7 +89,7 @@ viewers:
       url: 'https://projectmirador.org'
       label: 'View more'
   - resource:
-      url: 'assets/uploads/osd.webp'
+      url: 'assets/uploads/open_seadragon_viewer.webp'
       type: image
       alt_text: 'OpenSeaDragon screenshot'
       caption: "OpenSeaDragon"

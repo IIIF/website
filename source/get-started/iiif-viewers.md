@@ -35,7 +35,7 @@ An open-source, web-based viewer for high-resolution zoomable images, implemente
 
 ![open seadragon viewer screenshot]({{ site.root_url | absolute_url }}/assets/uploads/open_seadragon_viewer.png "open seadragon viewer screenshot")
 
-This screenshot shows OpenSeadragon displaying a IIIF Manifest from ____.
+This screenshot shows OpenSeadragon displaying a [IIIF Manifest](https://figgy.princeton.edu/concern/scanned_resources/484e82f7-1b84-4df7-a15d-c9b34ac2407a/manifest) of a Gutenberg Bible from [Princeton University](https://catalog.princeton.edu/catalog/9946093213506421).
 
 ---   
 
