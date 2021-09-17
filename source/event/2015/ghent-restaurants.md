@@ -126,17 +126,6 @@ redirect_from:
 * Price: €15-30
 
 
-## Il Cortilo
-
-[http://il-cortile-nl.restofactory.com/contact/](http://il-cortile-nl.restofactory.com/contact/)
-
-* Kraanlei, 53
-  9000 Gent
-* Phone: +32 9 234 2741
-* Cuisine : Italian
-* Price: €13-19
-
-
 ## Brasserie De Lieve
 
 [http://www.eetkaffee-delieve.be/](http://www.eetkaffee-delieve.be/)

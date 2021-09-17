@@ -38,7 +38,7 @@ Many thanks to the 70 institutions who have completed the [Basic IIIF Adopters S
 
 ### 2017 IIIF Conference
 The 2017 International Image Interoperability Framework (IIIF) [Conference in The Vatican][vatican] is quickly approaching the first week of June. Intended for a wide range of participants and interested parties, conference events include:
- * **Monday, June 5** - Pre-conference meetings for [Mirador Viewer][mirador] and [Universal Viewer][uv]
+ * **Monday, June 5** - Pre-conference meetings for [Mirador Viewer][mirador] and Universal Viewer
      * No registration needed
      * [View Schedule][preconf-sched]
 
@@ -193,7 +193,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [uk-tech]: https://iiiftechnicaledinburgh.eventbrite.co.uk/
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
-[uv]: https://digirati.com/technology/our-solutions/universal-viewer/
 [vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
 [iiif-discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery
 [av-fixtures]: https://github.com/IIIF/iiif-av/tree/master/source/api/av/examples

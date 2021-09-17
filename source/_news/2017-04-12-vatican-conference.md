@@ -32,7 +32,7 @@ Schedule information for the Showcase is available via [Sched][showcase-sched]. 
 
 After the Showcase, stay for the [2017 IIIF Conference][conference-reg], Wednesday, 7 June – Friday, 9 June. The 3-day Conference will feature:
 
-* Optional pre-conference meetings on Monday, 5 June for the [Mirador][mirador] and [Universal Viewer][uv] user groups.
+* Optional pre-conference meetings on Monday, 5 June for the [Mirador][mirador] and Universal Viewer user groups.
 * Lightning talks, demos, and presentations from across the IIIF community
 * Reception on Wednesday, 7 June
 * On-boarding workshops for implementers and end users
@@ -44,7 +44,7 @@ Schedule information for the Conference is available via [Sched][conf-sched]. Th
 
 * The [IIIF Consortium][iiif-c]
 * [Cogapp][cogapp] - Silver Sponsor
-* [Digirati][digirati] - Silver Sponsor
+* [Digirati] - Silver Sponsor
 * [Klokan Technologies][klokan] - Silver Sponsor
 * [OCLC][oclc] - Silver Sponsor
 * [Synaptica][synaptica] - Silver Sponsor
@@ -61,13 +61,11 @@ For more event information, please see the [Vatican event page][vatican]. Questi
 [showcase-sched]: https://2017iiifconferencethevatican.sched.com/tag/Showcase
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [mirador]: http://projectmirador.org
-[uv]: http://digirati.com/technology/our-solutions/universal-viewer/
 [conf-sched]: https://2017iiifconferencethevatican.sched.com/tag/Conference
 [vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican/
 [cogapp]: http://www.cogapp.com/iiif
 [oclc]: http://www.oclc.org/en/contentdm.html
 [iiif-c]: {{ site.root_url | absolute_url }}/community/consortium
-[digirati]: https://digirati.com/
 [klokan]: https://www.klokantech.com/
 [synaptica]: http://www.synaptica.com/
 [zegami]: https://zegami.com/

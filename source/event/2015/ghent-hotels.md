@@ -57,8 +57,6 @@ Hoogstraat 36
 Tel: +32 9 325 4070
 Tel: +32 9 235 4076
 
-[https://www.sandton.eu/sandton-grand-hotel-reylof/en/](https://www.sandton.eu/sandton-grand-hotel-reylof/en/)
-
 Prices:
 
   * Single Charme Room: 142,50€ breakfast included
