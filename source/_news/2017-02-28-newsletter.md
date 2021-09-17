@@ -34,7 +34,7 @@ March 17, 2017: IIIF Showcase: Improving Access to Image Collections
 
 
 ### 2017 IIIF Conference
-The 2017 International Image Interoperability Framework (IIIF) [Conference in The Vatican][vatican] is intended for a wide range of participants and interested parties across the IIIF community. A [Call for Sponsors][vatican-sponsors] is now open, with an initial deadline of March 15. The conference will consist of pre-conference meetings for [Mirador][mirador] and [Universal Viewer][uv], followed by two events with separate capacity and registration:
+The 2017 International Image Interoperability Framework (IIIF) [Conference in The Vatican][vatican] is intended for a wide range of participants and interested parties across the IIIF community. A [Call for Sponsors][vatican-sponsors] is now open, with an initial deadline of March 15. The conference will consist of pre-conference meetings for [Mirador][mirador] and Universal Viewer, followed by two events with separate capacity and registration:
 
 June 6, 2017: IIIF Showcase: Unlocking the World’s Digital Images
 
@@ -160,7 +160,6 @@ Rashmi Singhal (Harvard)
 [uk-tech]: https://iiiftechnicaledinburgh.eventbrite.co.uk/
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
-[uv]: https://digirati.com/technology/our-solutions/universal-viewer/
 [vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
 [vatican-sponsors]: {{ site.root_url | absolute_url }}/event/2017/vatican-sponsors/
 [ola-super]: http://www.olasuperconference.ca/
