@@ -151,7 +151,7 @@ fun:
 
 ## Create possibilities with IIIF basics
 
-Even the simplest implementations provide front and back end flexibility, as well as a simple and seamless user experience for working with high-quality digital resources.
+Even the simplest implementations provide front and back end flexibility alongside features that allow researchers to engage meaningfully with many types of digitized resources.
 
 
 {% include blocks/carousel.html items=page.iiif_basics_carousel %}
