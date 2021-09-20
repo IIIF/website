@@ -48,21 +48,19 @@ There are two main components to IIIF: delivering digital objects to sites and v
 {%- capture capture_text1 -%}
 ###   Delivering objects
 
-The Image API defines how image servers deliver image pixels to a viewer. It allows the image to be sent as a full-sized image or as a smaller size, a zoomed portion, a rotated view, or as a black and white version. All of these settings are designated by changing portions of the URL for an Image API resource. The Image API can be implemented on its own (most commonly to enable fast, deep zoom of very high resolution files like TIF and JP200), or alongside the Presentation API for additional viewing capabilities.
+The Image API defines how image servers deliver image pixels to a viewer. It allows the image to be sent as a full-sized image or as a smaller size, a zoomed portion, a rotated view, or as a black and white version. All of these settings are designated by changing portions of the URL for an Image API resource. The Image API can be implemented on its own (most commonly to enable fast, deep zoom of very high resolution files like TIF and JP2000), or alongside the Presentation API for additional viewing capabilities.
 {% endcapture -%}
 
 {%- include blocks/image-and-text.html image_align='right' image='assets/uploads/image-api-filler.png' alt_text="Image API filler" content=capture_text1 caption='The image API controls the form in which an image is delivered to a location on the Web.' -%}
 
-<br>
-
 {%- capture capture_text2 -%}
 ###   Viewing objects
 
-The Presentation API attaches basic metadata and structure to digital objects, defining how they appear in viewers. It does this via the Manifest, a JSON file which bundles up all the different elements of an IIIF object (such as a single image, or a series of images) with basic metadata (like title, description, and rights information) and structural information (such as page order).{%- endcapture -%}
-
-There are many IIIF viewers. Some are general purpose tools while others specialize in particular kinds of content or functionality. IIIF-compatible viewers generally allow users to pan, zoom, rotate, and resize image objects, and play audio/visual files. Some allow annotation with text, audio, location, and more. Others allow comparison of objects from a single collection side-by-side (or even objects from multiple collections if the object’s Manifest is made available to users).
+The Presentation API attaches basic metadata and structure to digital objects, defining how they appear in viewers. It does this via the Manifest, a JSON file which bundles up all the different elements of an IIIF object (such as a single image, or a series of images) with basic metadata (like title, description, and rights information) and structural information (such as page order). ([See the glossary below]({{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif) for more definitions of common IIIF terms.){%- endcapture -%}
 
 {%- include blocks/image-and-text.html image_align='right' image='assets/uploads/presentation-api-filler.png' alt_text="API filler image" content=capture_text2 caption='The presentation API delivers data and structure about an image to a viewer.' -%}
+
+There are many [IIIF viewers](/get-started/iiif-viewers/). Some are general purpose tools while others specialize in particular kinds of content or functionality. IIIF-compatible viewers generally allow users to pan, zoom, rotate, and resize image objects, and play audio/visual files. Some allow annotation with text, audio, location, and more. Others allow comparison of objects from a single collection side-by-side (or even objects from multiple collections if the object’s Manifest is made available to users).
 
 
 ### Advanced use cases
@@ -80,9 +78,9 @@ If you have your own images you want to put online using IIIF you’ll need high
 
 From there:
 
-- Make images and audio/video materials available using the Image API and an IIIF image server, or a IIIF-compatible image server from a vendor or other web host
-- Combine your images and structural data (like pagination or ordering) from your metadata source into a IIIF Manifest using the Presentation API (there are many vendor products that handle this).
-- Choose a viewer to show your images
+- Make images and audio/video materials available using the Image API and an [IIIF image server](/get-started/image-servers/), or a [IIIF-compatible image server from a vendor or other web host](/get-started/vendors/).
+- Combine your images and structural data (like pagination or ordering) from your metadata source into a IIIF Manifest using the Presentation API (there are many [open source or vendor products that help handle this](https://github.com/IIIF/awesome-iiif#presentation-api-libraries)).
+- Choose a [viewer](/get-started/iiif-viewers/) to show your images
 - Consider making your image **manifests** (definition below) available publicly on your collection site so users can work with your images across collections.
 
 </div>
