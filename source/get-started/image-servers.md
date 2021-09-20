@@ -8,25 +8,26 @@ breadcrumbs:
 
 Interested in hosting your own IIIF resources? Check out some of the most popular IIIF-compatible servers, or review a growing list of community selections on the [Awesome IIIF](https://github.com/IIIF/awesome-iiif){:.external} list. You can also make an existing image server IIIF-compatible.
 
-### Loris
+### [Cantaloupe](https://cantaloupe-project.github.io/){:.external}
 
-A IIIF image server written in Python.   
-<https://github.com/loris-imageserver/loris>
+An open-source dynamic image server for on-demand generation of derivatives of high-resolution source images, written in Java.
+<https://cantaloupe-project.github.io/>
 
 ### [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/){:.external}
 
 A high-performance image server for web-based streamed viewing and zooming of high-resolution images, written in C++.
 <http://iipimage.sourceforge.net/documentation/server/>
 
-### [Cantaloupe](https://cantaloupe-project.github.io/){:.external}
-
-An open-source dynamic image server for on-demand generation of derivatives of high-resolution source images, written in Java.
-<https://cantaloupe-project.github.io/>
-
 ### [Serverless-iiif](https://github.com/nulib/serverless-iiif){:.external}
 
 A IIIF Image API 2.1 server as an AWS Serverless Application.   
 <https://github.com/nulib/serverless-iiif>
+
+### [Loris](https://github.com/loris-imageserver/loris)
+
+A IIIF image server written in Python.   
+<https://github.com/loris-imageserver/loris>
+
 
 ---   
 
