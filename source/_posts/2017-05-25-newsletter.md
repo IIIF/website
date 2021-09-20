@@ -193,7 +193,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [uk-tech]: https://iiiftechnicaledinburgh.eventbrite.co.uk/
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
-[uv]: https://digirati.com/technology/our-solutions/universal-viewer/
+[uv]: https://universalviewer.io/
 [vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
 [iiif-discovery]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery
 [av-fixtures]: https://github.com/IIIF/iiif-av/tree/master/source/api/av/examples
