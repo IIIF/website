@@ -10,7 +10,7 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming IIIF-Hosted Events__
 
-* 2021 Fall Working Meeting (week of November 15, 2021, online)
+* [2021 Fall Working Meeting (November 16-18 2021, online)](fall_working_meeting)
 * 2022 Annual Conference (week of June 6, 2022, Cambridge, MA)
 
 
@@ -142,3 +142,4 @@ function addTable(destination, gtable) {
 [conference]: {{ site.url }}{{ site.baseurl }}/event/conference_guidelines/
 [fall2020]: {{ site.url }}{{ site.baseurl }}/event/2020/fall_working_meeting/
 [annual_conference]: {{ site.url }}{{ site.baseurl }}/event/2021/annual_conference
+[fall_working_meeting]: {{ site.url }}{{ site.baseurl }}/event/2021/fall_working_meeting
