@@ -2,10 +2,9 @@
   "author": "",
   "name": "",
   "version": "",
-  "dependencies": {},
   "devDependencies": {
-    "grunt": ">=1.1.0",
-    "grunt-html": ">=14.1.0"
+    "grunt": "^1.4.1",
+    "grunt-html": "^15.0.1"
   },
   "scripts": {
     "test": "grunt test"
