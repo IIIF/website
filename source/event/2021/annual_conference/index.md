@@ -18,7 +18,7 @@ This event will include sessions that have been traditionally held at IIIF event
 
 In response to the lingering effects of the pandemic, it will also include the opportunity to host and attend regionally-focused online meetings aimed at networking and knowledge sharing with local attendees.
 
-<!-- **Registration is open until June 15th--sign up today!**
+<!-- **Registration is open until June 15th sign up today** -->
 
 <p class="register"><a href="https://www.eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357">Register</a></p>
 
@@ -79,7 +79,7 @@ Within 24 hours of registering for this event, you will receive an email notifyi
 
 __Please note times below are shown in EDT. To see the times in your timezone please open the agenda in the Whova App or Website. You will need to register above to access the Whova system.__
 
-<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=annua8_202106&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script"></script></div>
+<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=annua8_202106&host=https://whova.com" id="embeded-agenda-script"></script></div>
 
 ---
 
