@@ -11,6 +11,7 @@ install:
   - npm install grunt grunt-html --save-dev
   - pip install --user awscli
   - chmod 755 $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh && export iiifsite=root && $TRAVIS_BUILD_DIR/scripts/updatePullRequest.sh;
+  -- cat Gruntfile.js
 
 
 # environment
