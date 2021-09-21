@@ -61,7 +61,7 @@ For more event information, please see the [Vatican event page][vatican]. Questi
 [showcase-sched]: https://2017iiifconferencethevatican.sched.com/tag/Showcase
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [mirador]: http://projectmirador.org
-[uv]: http://digirati.com/technology/our-solutions/universal-viewer/
+[uv]: https://universalviewer.io/
 [conf-sched]: https://2017iiifconferencethevatican.sched.com/tag/Conference
 [vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican/
 [cogapp]: http://www.cogapp.com/iiif
