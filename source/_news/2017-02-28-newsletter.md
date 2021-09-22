@@ -160,8 +160,9 @@ Rashmi Singhal (Harvard)
 [uk-tech]: https://iiiftechnicaledinburgh.eventbrite.co.uk/
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
-[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
-[vatican-sponsors]: {{ site.root_url | absolute_url }}/event/2017/vatican-sponsors/
+[uv]: https://universalviewer.io/
+[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
+[vatican-sponsors]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican-sponsors/
 [ola-super]: http://www.olasuperconference.ca/
 [c4l]: http://2017.code4lib.org/
 [ldcx]: http://library.stanford.edu/projects/ldcx/2017-conference
@@ -200,7 +201,7 @@ Rashmi Singhal (Harvard)
 [eLife]: https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif
 [eLife-anno]: https://via.hypothes.is/https://www.nature.com/news/annotating-the-scholarly-web-1.18900?error=cookies_not_supported&code=28673ef0-3aa0-40fa-912a-ff3b8078c397
 [bbmn]: http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/
-[edinburgh]: {{ site.root_url | absolute_url }}/event/2017/edinburgh
 [iiif-design]: {{ site.api_url | absolute_url }}/annex/notes/design_patterns/
-[ycba]: http://collections.britishart.yale.edu/vufind/Record/1667701
+[edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
+[ycba]: https://collections.britishart.yale.edu/catalog/tms:34
 [frick]: http://digitalcollections.frick.org/digico/#/

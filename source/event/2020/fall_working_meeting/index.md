@@ -34,7 +34,7 @@ The times on this calendar should adjust to your current time zone.
 
 <div id="calendar-container"></div>
 
-<script type="text/javascript">
+<script>
   var timezone = jstz.determine();
   console.log('Name is ' + timezone.name());
   var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20201201/20201204&amp;title=Fall%20Working%20&amp;ctz=';
@@ -67,13 +67,7 @@ This working session will give attendees hands-on experience with customizing Mi
 
 ---
 
-<!-- Full Event Calendar -->
-{:.no_toc}
-
-
-<div id="calendar-container"></div>
-
-<script type="text/javascript">
+<script>
 var timezone = jstz.determine();
 var apiKey = 'AIzaSyBIB97V49ihYsXedQ0Ziw6s3SzcGf5G8z0';
 
@@ -154,7 +148,7 @@ function loadClient() {
 
 </script>
 
-<script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" onreadystatechange="if (this.readyState === 'complete') this.onload()"></script>
+<script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" ></script>
 
 
 

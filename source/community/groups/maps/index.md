@@ -26,9 +26,9 @@ This group will look at improving the support for digitised maps and geolocated 
 ## Organization
 
 **Chairs:**
- * Bert Spaan - Freelance
  * Eliot Jordan - Princeton University
  * Stace Maples - Stanford University
+ * Virginia Boyero - [Swedish National Heritage Board Incubator](http://kaink.se/welcome-to-the-cultural-heritage-incubator/) / [Beyond the Map](https://www.raa.se/om-riksantikvarieambetet/projekt/kulturarvsinkubatorn/entreprenorer-i-kulturarvsinkubatorn/beyond-the-map/)
 
 **Communication channels:**
 

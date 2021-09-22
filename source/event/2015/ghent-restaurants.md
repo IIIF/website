@@ -8,8 +8,6 @@ redirect_from:
 
 ## Het Pand
 
-[http://www.ugent.be/het-pand/en](http://www.ugent.be/het-pand/en)
-
 * Club Het Pand
   Onderbergen 1
   9000 Ghent

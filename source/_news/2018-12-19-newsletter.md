@@ -258,13 +258,14 @@ The Stanford Libraries has made it easier to find and use IIIF-compatible resour
 [matrix]: http://bit.ly/2PJon2F
 [mirador-ggroup]: https://groups.google.com/forum/#!forum/mirador-tech  
 [mhn-homepage]: http://mhn.acervos.museus.gov.br  
-[mcn-denver]: http://conference.mcn.edu/2018/about.cfm
-[mnemoscene]: http://mnemoscene.io/
-[morphosource]: https://www.morphosource.org/
-[news-guide]: https://github.com/kestlund/iiif-newspaper-guide
-[news-samvera]:https://wiki.duraspace.org/display/samvera/Newspapers+in+Samvera+IMLS+Grant
-[nls]: https://www.nls.uk/
-[norway-iiif]: https://www.nb.no/hva-skjer/iiif-conference/
+[mcn-sig]: https://mcn.edu/community/mcn-sigs/iiif-sig/
+[mcn-denver]: http://conference.mcn.edu/2018/about.cfm 
+[mnemoscene]: http://mnemoscene.io/ 
+[morphosource]: https://www.morphosource.org/ 
+[news-guide]: https://github.com/kestlund/iiif-newspaper-guide 
+[news-samvera]:https://wiki.duraspace.org/display/samvera/Newspapers+in+Samvera+IMLS+Grant 
+[nls]: https://www.nls.uk/ 
+[norway-iiif]: https://www.nb.no/hva-skjer/iiif-conference/ 
 [norway-fantastic]: https://www.nb.no/artikler/fantastic-futures/
 [oclc-discovery]: https://researchworks.oclc.org/digital/discovery-index
 [oclc-prezi]: https://www.oclc.org/content/dam/research/presentations/mixter/2018-mixter-CONTENTdm-IIIF-Discovery-API.pptx  

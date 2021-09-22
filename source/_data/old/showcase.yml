@@ -106,7 +106,7 @@
   - >
     The Yale Center for British Art uses IIPMooviewer's IIIF Image API support
     to provide access to high-resolution images.
-  url:  http://collections.britishart.yale.edu/
+  url:  https://collections.britishart.yale.edu/
 
 - name: e-codices
   id: e-codices

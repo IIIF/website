@@ -45,7 +45,7 @@ If you have any questions, please get in touch with us via [events@iiif.io](mail
   var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20200601/20200605&amp;title=IIIF%20Week&amp;ctz=';
   var suff = '" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>';
   //var pref = '<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=somecalendaridentifier%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=';
-  //var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
+  //var suff = '" style=" border-width:0 " width="800" height="600" scrolling="no"></iframe>';
   var iframe_html = pref + timezone.name() + suff;
   document.getElementById('calendar-container').innerHTML = iframe_html;
 </script>
@@ -75,7 +75,7 @@ The sessions below are listed in chronological order.
   * Christy Henshaw, Digital Production Manager at Wellcome Collection
   * Kate Zwaard, Director of Digital Strategy at the Library of Congress
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k1VsUZZTDNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1VsUZZTDNE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description**: This panel will focus on the strategies developed and
 deployed by major IIIF-implementing institutions. Digital Strategy has
@@ -98,7 +98,7 @@ experience with IIIF required.
 ## IIIF Week: Brazil Welcome Session
 **Facilitator / Facilitadores:** Bruno Buccalon (Instituto Moreira Salles), Leonardo Germani (Tainacan)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/npIAkH7q4cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npIAkH7q4cE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description**: A non-technical conversation welcoming to IIIF newcomers,
 and a time for references and Q&A in Portuguese. Don't miss this
@@ -124,7 +124,7 @@ aqui e no canal #IIIF-Week do Slack em data próxima ao evento.
 
 **Presenter**: Meg O’Hearn, Community & Events Coordinator, IIIF Consortium
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVjrqsqzwNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVjrqsqzwNI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description**: This non-technical session will cover the basics of IIIF
 technology and the IIIF Community, including why the framework is
@@ -145,7 +145,7 @@ want more info on how to connect with the IIIF Community.
 
 **Facilitator**: Joe Song
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F01VY4St76U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F01VY4St76U" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Although the adoption of IIIF in China is in its infancy,
 it's exciting to see that institutions with applications like
@@ -166,7 +166,7 @@ levels of IIIF experience are welcome.
 
 **Presenter**: Glen Robson, Technical Coordinator, IIIF Consortium
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QLTKVBgyrN0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLTKVBgyrN0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description**: This non-technical session will cover the basics of IIIF
 technology and the IIIF Community, including why the framework is
@@ -183,7 +183,7 @@ want more info on how to connect with the IIIF Community.
 
 **Facilitators:** IIIF Museums Community Group Co-Chairs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XmbEgUe44v8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmbEgUe44v8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Learn about how museums are using IIIF to further
 education, provide access to their collections and be relevant amongst
@@ -201,7 +201,7 @@ _Open to Executive Committee members only_
 
 **Facilitators:** Jack Reed and Camille Villa, Stanford University Libraries
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P1P2dHaYvgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1P2dHaYvgg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** This session will showcase the Mirador 3 IIIF viewer
 [https://projectmirador.org/], an open source, web based, multi-window
@@ -212,7 +212,7 @@ new features which we will highlight.
 
 **Facilitators:** IIIF Maps Community Group Co-Chairs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U41urr-YU0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U41urr-YU0E" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** This session will showcase the work of the IIIF Maps
 Community Group in its efforts to add support to the Presentation API
@@ -230,7 +230,7 @@ IIIF, no extensive IIIF experience required.
 
 **Facilitator**: Akihiko Takano, National Institute of Informatics
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F2s6yJZ_uZE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2s6yJZ_uZE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** This session will showcase the recent activities related
 to IIIF in Japan.  The following nine speakers will report about their
@@ -249,7 +249,7 @@ IIIF required.
 
 **Facilitators:** IIIF 3D Community Group Co-Chairs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NXBbJQLwq4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXBbJQLwq4Q" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Updates and developments of the IIIF 3D Community will be
 shared by the three Co-Chairs Ed Silverton (Mnemoscene, Universal
@@ -273,7 +273,7 @@ existing IIIF standards for 2D, AV, etc. Please do join us!
 Community and Events Coordinator, Glen Robson, IIIF Technical
 Coordinator, & the IIIF Editors
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGoEdFBVf3E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGoEdFBVf3E" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Learn about the latest updates to the APIs and the status
 of IIIF technical efforts, as well as how the various IIIF Community
@@ -289,7 +289,7 @@ interest groups.
 
 **Facilitators:** IIIF Manuscripts Community Group Co-Chairs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NSbu1SE7WWA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSbu1SE7WWA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** During this meeting the IIIF Manuscripts Community Group
 will highlight new and exceptional cases of IIIF images to advance the
@@ -301,7 +301,7 @@ field of manuscript studies.
 
 ## IIIF Week: Looking forward - a path for IIIF’s APIs (Technical Roadmap Session)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Vx0W5XQcWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Vx0W5XQcWQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Join us for a structured group conversation about the
 future of IIIF technical work. What would you like to see happen soon?
@@ -311,7 +311,7 @@ questions. Or, you may simply join and listen.
 
 ## IIIF Week: The future of the IIIF community (Community Roadmap Session)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fPxfLcFQyBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fPxfLcFQyBE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Join us for a structured group conversation about the
 future of the IIIF community and help shape future plans and
@@ -326,7 +326,7 @@ providing feedback and asking questions. Or, you may simply join and listen.
 
 **Facilitator:** Tristan Roddis, Cogapp
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QitjH_nFdMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QitjH_nFdMk" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Description:** Most of the uses of the International Image
 Interoperability Framework (IIIF) have rightly focused on scholarly and
@@ -369,7 +369,7 @@ The week following the online conference there will be a chance to get hands on 
 
 Participants will need a laptop on which they can install software and should be able to commit a minimum of 2 hours per day for the 5 day course. No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Optional sessions will give those interested the opportunity to tackle more complex tasks. 
 
-<script type="text/javascript">
+<script>
 /*var timezone = jstz.determine();
 var apiKey = 'AIzaSyBIB97V49ihYsXedQ0Ziw6s3SzcGf5G8z0';
 

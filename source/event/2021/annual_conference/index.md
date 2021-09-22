@@ -16,8 +16,7 @@ In response to the lingering effects of the pandemic, it will also include the o
 <!-- **Registration is open until June 15th--sign up today!**
 
 <p class="register"><a href="https://www.eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357">Register</a></p>
-
- -->
+-->
 
 ## Logistics
 * This event is free and open to all attendees
@@ -59,7 +58,6 @@ Thanks to the 2021 program committee for their help with this event:
 
 Feel free to download and use [IIIF zoom background]({{ site.root_url | absolute_url }}/assets/event/IIIF_Zoom_Background_Maple.jpg) used by the IIIF-Consortium staff during the conference and beyond. (And thanks to the Art Institute of Chicago for making the source image, [Flowering Cherry and Autumn Maples with Poem Slips](https://www.artic.edu/artworks/127643/flowering-cherry-and-autumn-maples-with-poem-slips), available as a public domain download.)
 
-
 ---
 
 ## Agenda
@@ -74,7 +72,7 @@ Within 24 hours of registering for this event, you will receive an email notifyi
 
 __Please note times below are shown in EDT. To see the times in your timezone please open the agenda in the Whova App or Website. You will need to register above to access the Whova system.__
 
-<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=annua8_202106&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script"></script></div>
+<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=annua8_202106&host=https://whova.com" id="embeded-agenda-script"></script></div>
 
 ---
 

@@ -4,6 +4,8 @@ layout: page
 
 ---
 
+_Note: this group has been decommissioned given the development of the [Technical Review Committee][trc] and other flexible outlets for discussion like the [IIIF Slack channel][join-slack]._
+
 ## About
 
 The Software Developers Community Group formed in response to the growing need for shared, composable libraries for IIIF viewer software following the IIIF Meeting in New York in May 2016. Software developers from several institutions involved in developing user experiences on top of the IIIF APIs were duplicating each other’s efforts and finding it difficult to consistently apply the specifications.
@@ -48,3 +50,6 @@ To advance the growth and adoption of interoperable software with IIIF, the Soft
 [calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [zoom]: https://stanford.zoom.us/j/641742844
 [international-zoom]: https://zoom.us/zoomconference
+[trc]: {{ site.url }}{{ site.baseurl }}/community/trc/
+
+{% include acronyms.md %}

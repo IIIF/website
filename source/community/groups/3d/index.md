@@ -58,3 +58,5 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 [sketchfab]: https://sketchfab.com/nebulousflynn
 [ronald]: https://www.uis.cam.ac.uk/about-us/rm/ronald-haynes
 [julie]: https://scholars.duke.edu/person/julie.winchester
+
+{% include acronyms.md %}

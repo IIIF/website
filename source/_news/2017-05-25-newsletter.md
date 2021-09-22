@@ -195,6 +195,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
 [iiif-discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery
+[uv]: https://universalviewer.io/
 [av-fixtures]: https://github.com/IIIF/iiif-av/tree/master/source/api/av/examples
 [vra]: https://vra34.sched.com/
 [cni]: https://www.cni.org/event/cni-spring-2017-membership-meeting

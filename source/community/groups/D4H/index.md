@@ -32,7 +32,7 @@ These aims are different from and complementary to the approach of the [IIIF Dis
  * Arcadia Falcone, Stanford (D4H Staff)
  * Paola Manoni, Vatican Library
  * Jeff Mixter, OCLC
- * Tom Scott, Wellcome
+ * Ben Bakelaar, St. Louis University / Rutgers University
 
 **Communication channels:**
 
