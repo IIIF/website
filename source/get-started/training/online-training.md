@@ -52,6 +52,10 @@ Diversity fellowship tickets are available via the honor system; we do not requi
 
 <script>
     function addEvent(parentDiv, event) {
+        if (!event.name.text.includes("Online Training")) {
+            return;
+        }
+
         let li = document.createElement('li');
         parentDiv.appendChild(li);
         li.style = "display: flex; box-shadow: 0 1px 2px 1px #ddd;padding: 15px; margin: 10px 3px;";
