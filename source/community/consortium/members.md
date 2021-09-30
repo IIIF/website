@@ -9,6 +9,12 @@ breadcrumbs:
    link: /community/consortium
 ---
 
+## Join the Consortium
+Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership are available.
+<br>
+{% include misc/button.html button_label="Join the Consortium" button_link="/community/consortium/join" %}
+
+
 ## Full Members
 
 \* indicates Founding Member of the IIIF Consortium
