@@ -315,6 +315,9 @@
 - name: University of Pennsylvania
   uri: http://www.upenn.edu/
   iiifc: 4
+- name: University of Tennessee, Knoxville
+  uri: https://www.lib.utk.edu/
+  iiifc: 3
 - name: University of Tokyo
   uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 2
