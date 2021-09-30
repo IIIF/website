@@ -74,7 +74,7 @@ Notes:
 Hoogpoort 63
 9000 Gent
 
-[http://www.nh-hotels.com/](http://www.nh-hotels.com/)
+http://www.nh-hotels.com/
 
 Prices:
 
