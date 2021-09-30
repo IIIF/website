@@ -1,6 +1,6 @@
 ---
 title: "2021 Fall Working Meeting, November 16-18, 2021"
-layout: online_event
+layout: event
 tags: [event ]
 page: overview
 ---
