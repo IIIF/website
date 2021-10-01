@@ -67,7 +67,7 @@ Please see the [Call for Sponsors][vatican-sponsors] for more information, or to
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
 [mirador]: http://projectmirador.org
-[uv]: https://digirati.com/technology/our-solutions/universal-viewer/
+[uv]: https://universalviewer.io/
 [pre-conf]: https://2017iiifconferencethevatican.sched.com/tag/Pre-conference
 [conf-sched]: https://2017iiifconferencethevatican.sched.com/
 [cogapp]: http://www.cogapp.com/iiif

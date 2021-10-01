@@ -214,7 +214,7 @@
 - name: New York University Libraries
   uri: http://library.nyu.edu/
   iiifc: 2
-- name: North Carolina State University Libraries
+- name: NC State University Libraries
   uri: https://www.lib.ncsu.edu/
   iiifc: 2
 - name: OCLC
@@ -315,6 +315,9 @@
 - name: University of Pennsylvania
   uri: http://www.upenn.edu/
   iiifc: 4
+- name: University of Tennessee, Knoxville
+  uri: https://www.lib.utk.edu/
+  iiifc: 3
 - name: University of Tokyo
   uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 2
