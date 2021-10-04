@@ -22,7 +22,7 @@ Further session details will be released in early October.
 * All sessions will be in English unless otherwise noted
 
 ## Registration
-Early registration is open now! Please register on [Eventbrite](https://www.eventbrite.co.uk/e/2021-iiif-fall-working-meeting-tickets-176398561847.)
+Early registration is open now. You can register on [Eventbrite](https://www.eventbrite.co.uk/e/2021-iiif-fall-working-meeting-tickets-176398561847.)
 
 
 Questions? Email us at <events@iiif.io>.
