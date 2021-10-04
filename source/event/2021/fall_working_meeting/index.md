@@ -18,11 +18,11 @@ Further session details will be released in early October.
 
 ## Logistics
 * This event is free and open to all attendees
-* This event will be held on Zoom and sessions will be recorded. Breakout room discussions will not be recorded.
+* This event will be held on Zoom and sessions will be recorded. Breakout room discussions will not be recorded. If you are unable to attend at the time of a session, you may watch the recording (to be posted following the session) and add comments to the notes document for the day.
 * All sessions will be in English unless otherwise noted
 
 ## Registration
-Early registration is open now! Please register on Eventbrite.
+Early registration is open now. You can register on [Eventbrite](https://www.eventbrite.co.uk/e/2021-iiif-fall-working-meeting-tickets-176398561847.)
 
 
 Questions? Email us at <events@iiif.io>.
