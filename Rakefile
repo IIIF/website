@@ -29,7 +29,11 @@ task :check_html do
                                           'https://www.artic.edu/', /https:\/\/theinnatbrookline.reztrip.com*/,
                                            /https:\/\/www.researchgate.net*/, /https:\/\/eap.bl.uk*/, 
                                            /https:\/\/www.medievalacademy.org*/, /https:\/\/twitter.com*/,
-                                           /https:\/\/collections.britishart.yale.edu*/, 'https://www.allaboutcookies.org/']
+                                           /https:\/\/collections.britishart.yale.edu*/, 'https://www.allaboutcookies.org/',
+                                          /http:\/\/folgerpedia.folger.edu*/, /https:\/\/folgerpedia.folger.edu*/,
+                                          /http:\/\/mhn.acervos.museus.gov.br*/, /https:\/\/images.is.ed.ac.uk*/, /https:\/\/blogs.getty.edu*/,
+                                          /http:\/\/IndigenousDigitalArchive.org/, /https:\/\/www.tripadvisor.co.uk*/, 
+                                          /https:\/\/www.tripadvisor.com*/, /https:\/\/www.morphosource.org*/]
                                           ).run
 end
 

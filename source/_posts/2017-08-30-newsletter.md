@@ -96,7 +96,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * Archiving Conference, May 2017
 * [Early Modern Manuscripts Online: New Directions in Teaching and Research][folger-event] at the Folger, May 2017
 * NISO Virtual Conference: Images: Digitization & Preservation of Special Collections in Libraries, Museums and Archives, June 2017
-* [Workshop zur Interoperabilität von digitalen Objekten und Metadaten][basel-event] (Workshop about interoperability of digital objects and metadata), hosted by the University of Basel, June 2017
+* Workshop zur Interoperabilität von digitalen Objekten und Metadaten (Workshop about interoperability of digital objects and metadata), hosted by the University of Basel, June 2017
 * [Open Repositories][or], June 2017
 * [Leeds International Medieval Congress][leeds], July 2017
 * Philadelphia Museum of Art, July 2017
@@ -148,7 +148,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 
 * The J. Paul Getty Museum has published over 30,000 images using IIIF (see [press release][getty-pr] and [blog][getty-blog])
 * Yale Center for British Art [recently announced the addition of more IIIF images][ycba-news] to their online collections
-* Colby College Museum of Art has added IIIF support to their collections (see [example][colby])
+* Colby College Museum of Art has added IIIF support to their collections
 * Manuscriptorium Digital Library at the National Library of the Czech Republic now supports the IIIF Image and Presentation APIs
 * [eLife Sciences][elife] now supports IIIF for all images (using Loris 2.x to serve all images) (visit their [blog][elife-blog] for implementation details)
 * University College Dublin digital library has added [image thumbnails and IIIF icon][ucd-thumbs]
@@ -270,7 +270,6 @@ Sheila Rabun, IIIF Community and Communications Officer
 [sfmoma]: https://groups.google.com/forum/#!searchin/iiif-discuss/sfmoma%7Csort:relevance/iiif-discuss/AVT-pWEFKmQ/R01chYh6BwAJ
 [Brumfield-Labs]: http://www.brumfieldlabs.com
 [folger-event]: http://folgerpedia.folger.edu/Early_Modern_Manuscripts_Online:_New_Directions_in_Teaching_and_Research
-[basel-event]: http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/termine-veranstaltungen/sammlungsuebergreifend-forschen/
 [or]: https://web.archive.org/web/20171119044524/https://or2017.net/
 [digipalooza]: https://digipalooza.com/
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
@@ -286,9 +285,8 @@ Sheila Rabun, IIIF Community and Communications Officer
 [newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
 [devs-group]: {{ site.url }}{{ site.baseurl }}/community/groups/software/
 [getty-pr]: http://news.getty.edu/article_display.cfm?article_id=6172
-[getty-blog]: http://blogs.getty.edu/iris/30000-getty-museum-images-published-iiif/
+[getty-blog]: https://blogs.getty.edu/iris/30000-getty-museum-images-published-iiif/
 [ycba-news]: https://news.yale.edu/2017/06/02/yale-center-british-art-adds-online-collection-images-international-system-research
-[colby]: http://www.colby.edu/museum/?s=Whistler&obj=Obj183
 <!-- [manuscriptorium]: http://www.manuscriptorium.com/ -->
 [elife]: https://elifesciences.org/
 [elife-blog]: https://medium.com/@g.sironi/the-iiif-elife-implementation-d1f940005517

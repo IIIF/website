@@ -15,17 +15,17 @@ Since the release of the first drafts. a few significant changes have been made:
 
 ### Image API
 
- * Added `services` to info.json [ [Changes](https://github.com/IIIF/iiif.io/commit/801e9e1628f34c77001d2b151df8efb88e1c688a) \| [Discussion](https://groups.google.com/d/msg/iiif-discuss/4rp3OvK0jtI/Gow0pF45bMIJ) ]
- * Added mirroring option to rotation syntax [ [Changes](https://github.com/IIIF/iiif.io/commit/93869af7e4fee290c044392e0858d1805cf26e80) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/J7u9cyKZKU4) ]
- * Added clarification of `default` quality [ [Changes](https://github.com/IIIF/iiif.io/commit/dd54d7dfaf4bd2b5ade8b1ab16b8ada8687eb7bb) ] and rotation/background [ [Changes](https://github.com/IIIF/iiif.io/commit/b2d6bfe59bd3fdbe3147c88333d2c922f4caf1d6) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/AnXBvw_gVI0) ]
- * Expanded `info.json` descriptions [ [Changes](https://github.com/IIIF/iiif.io/commit/044da46a2eea17374f2604036bd4c066788cf95b) ]
- * Clarified and cleanly separated information about support for tiles vs. support for preferred sizes in `info.json` [ [Changes](https://github.com/IIIF/iiif.io/commit/15c8445403d8ed72f300f8a3da6de2ce05cc8475) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/YOAAcALqoAE) ]
+ * Added `services` to info.json [ [Changes](https://github.com/IIIF/api/commit/801e9e1628f34c77001d2b151df8efb88e1c688a) \| [Discussion](https://groups.google.com/d/msg/iiif-discuss/4rp3OvK0jtI/Gow0pF45bMIJ) ]
+ * Added mirroring option to rotation syntax [ [Changes](https://github.com/IIIF/api/commit/93869af7e4fee290c044392e0858d1805cf26e80) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/J7u9cyKZKU4) ]
+ * Added clarification of `default` quality [ [Changes](https://github.com/IIIF/api/commit/dd54d7dfaf4bd2b5ade8b1ab16b8ada8687eb7bb) ] and rotation/background [ [Changes](https://github.com/IIIF/api/commit/b2d6bfe59bd3fdbe3147c88333d2c922f4caf1d6) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/AnXBvw_gVI0) ]
+ * Expanded `info.json` descriptions [ [Changes](https://github.com/IIIF/api/commit/044da46a2eea17374f2604036bd4c066788cf95b) ]
+ * Clarified and cleanly separated information about support for tiles vs. support for preferred sizes in `info.json` [ [Changes](https://github.com/IIIF/api/commit/15c8445403d8ed72f300f8a3da6de2ce05cc8475) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/YOAAcALqoAE) ]
 
 
 ### Presentation API
 
-* Added server side rotation option with iiif:ImageApiSelector [ [Changes](https://github.com/IIIF/iiif.io/commit/f94fda233731b4140a922ee673f09fd2f04dc053) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/k2Lu6INn5KM) ]
-* Improved JSON to RDF mapping [ [Changes](https://github.com/IIIF/iiif.io/commit/522f1664f244d3a6f35b05db4d66a7833b9b6bd2) ]
+* Added server side rotation option with iiif:ImageApiSelector [ [Changes](https://github.com/IIIF/api/commit/f94fda233731b4140a922ee673f09fd2f04dc053) \| [Discussion](https://groups.google.com/forum/#!topic/iiif-discuss/k2Lu6INn5KM) ]
+* Improved JSON to RDF mapping [ [Changes](https://github.com/IIIF/api/commit/522f1664f244d3a6f35b05db4d66a7833b9b6bd2) ]
 * Minor Clarifications:
   * Cannot reference locations outside of a Canvas
   * Reduced focus on presenting digitized physical objects

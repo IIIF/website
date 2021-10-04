@@ -36,12 +36,13 @@ Why embrace the IIIF Consortium?
 
 ### Full Membership - $10,000 annual sustaining contrbution
 
-- Discounts on training and workshops
-- Institution-wide special rates for IIIF Conference registration
+- Membership pricing on custom institutional training and workshops
+- Membership pricing on consulting services
+- Institution-wide discount rates for IIIF Conference registration
 - Representation on the [IIIF Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/trc/) which guides technical development of IIIF specs
 - Eligibility to serve on the Executive Committee and Operating Committee, which provide IIIF governance
 - Priority attendance at IIIF Working meetings and other events
-- Priority technical advice and consulting
+
 
 ### Associate Membership - $2,500 annual sustaining contrbution
 

@@ -14,7 +14,7 @@ Attendees will learn about the purpose and benefits of IIIF for web-based image 
 
 * Date: 27th November 2019
 * Registration: [Pre-conference Workshops Eventbrite][eventbrite]
-* Location: [National Library of Portugal][nlp]
+* Location: National Library of Portugal
 * Cost: Free but please register above to ensure you have a space. 
 
 ## Agenda
@@ -40,6 +40,5 @@ Attendees will learn about the purpose and benefits of IIIF for web-based image 
 The IIIF [Code of Conduct][conduct] applies to all IIIF events and related activities. Please direct any questions to Glen Robson, IIIF Technical Coordinator, at glen.robson@iiif.io.
 
 [eventbrite]: https://www.eventbrite.co.uk/e/europeana-2019-pre-conference-workshops-tickets-69266930253
-[nlp]: http://www.bnportugal.gov.pt/index.php?lang=en
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 

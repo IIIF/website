@@ -160,7 +160,7 @@ Rashmi Singhal (Harvard)
 [uk-tech]: https://iiiftechnicaledinburgh.eventbrite.co.uk/
 [showcase-reg]: https://iiif-showcase-vatican2017.eventbrite.com
 [conference-reg]: https://iiif-conference-vatican2017.eventbrite.com
-[uv]: https://digirati.com/technology/our-solutions/universal-viewer/
+[uv]: https://universalviewer.io/
 [vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
 [vatican-sponsors]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican-sponsors/
 [ola-super]: http://www.olasuperconference.ca/

@@ -95,8 +95,8 @@
   uri: http://getty.edu/
   iiifc: 2
 - name: Ghent University
-  uri: https://www.ugent.be/en
-  iiifc:
+  uri: https://lib.ugent.be/
+  iiifc: 3
 - name: Göttingen State and University Library
   uri: https://www.sub.uni-goettingen.de
   iiifc: 2
@@ -154,7 +154,7 @@
   uri: https://www.wdl.org
   iiifc:
 - name: LUNA Imaging
-  uri: http://www.lunaimaging.com/blog/2015/12/3/luna-and-iiif-1
+  uri: http://www.lunaimaging.com/iiif
 - name: LYRASIS
   uri: https://www.lyrasis.org
   iiifc: 4
@@ -214,7 +214,7 @@
 - name: New York University Libraries
   uri: http://library.nyu.edu/
   iiifc: 2
-- name: North Carolina State University Libraries
+- name: NC State University Libraries
   uri: https://www.lib.ncsu.edu/
   iiifc: 2
 - name: OCLC
@@ -280,7 +280,7 @@
 - name: University of Alberta Libraries
   uri: https://www.library.ualberta.ca
   iiifc:
-- name: Data and Service Center for the Humanities, University of Basel
+- name: Data & Service Center for the Humanities (DaSCH), University of Basel
   uri: https://dasch.swiss/ 
   iiifc: 2
 - name: University of California, Los Angeles
@@ -315,6 +315,9 @@
 - name: University of Pennsylvania
   uri: http://www.upenn.edu/
   iiifc: 4
+- name: University of Tennessee, Knoxville
+  uri: https://www.lib.utk.edu/
+  iiifc: 3
 - name: University of Tokyo
   uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 2
