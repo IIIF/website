@@ -75,19 +75,17 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 
 ---
 
-## About the IIIF Consortium
-
-IIIF is supported by a membership [consortium]({{ site.root_url | absolute_url }}/community/consortium), with members from all over the world including Stanford University, Europeana, Kansai University, and many more.
-
-You can [join the consortium]({{ site.root_url | absolute_url }}/community/consortium/join/) as a _full_ or _associate member_. Consortium members can access customized training, and have voting rights on the overall direction of the framework via the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/trc/) or [Executive Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#executive-committee). The consortium has [staff]({{ site.root_url | absolute_url }}/community/consortium/staff), who are stewards looking after the community, organizing events and training, and helping things run smoothly.
-
-
 ## The Editorial Committee
 
 The IIIF Editorial Committee meets regularly and works in collaboration with [Community and Technical Specification Groups][groups] to propose new technical specifications and to update existing ones. Learn about their work and current membership [on the Editors page][editors].
 
 ## IIIF Ambassadors
-IIIF Ambassadors are deputized to work with Consortium staff to take a formal role in championing IIIF adoption in their communities. Ambassadors focus their efforts around different domains, associations, tools, or regions. Learn more about [the program and meet the current Ambassadors][ambassadors].
+IIIF Ambassadors are deputized to work with Consortium staff to take a formal role in championing IIIF adoption in their communities. Ambassadors focus their efforts around different domains, associations, tools, or regions. Learn more about [program and the current Ambassadors][ambassadors].
+
+## The IIIF Consortium
+
+IIIF is supported by a membership [consortium]({{ site.root_url | absolute_url }}/community/consortium), with members from all over the world including Stanford University, Europeana, Kansai University, and many more. In addition to supporting the IIIF community financially, these institutions contribute to the APIs, Community Groups, and more.
+
 
 [groups]:{{site.root_url | absolute_url }}/community/groups/
 [editors]:{{site.root_url | absolute_url }}/community/editors/
