@@ -67,22 +67,6 @@ Notes:
   * Contact [Reservations.reylof@sandton.eu](mailto:Reservations.reylof@sandton.eu) and use code "Ugent Shared Canvas"
 
 
-## &nbsp; NH Gent Belfort
-
-Hoogpoort 63
-9000 Gent
-
-[http://www.nh-hotels.com/](http://www.nh-hotels.com/)
-
-Prices:
-
-  * Single: 144€ breakfast included
-  * Double: 159€ breakfast included
-
-Notes:
-
-  * Contact Thomas van Rossem [nhgentbelfort@nh-hotels.com](mailto:nhgentbelfort@nh-hotels.com) and use code "Ugent Shared Canvas"
-
 ## &nbsp; Ghent River Hotel
 
 Waaistraat 5
