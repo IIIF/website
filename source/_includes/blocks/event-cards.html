@@ -1,0 +1,41 @@
+<div class="block columns is-multiline">
+  {% assign items = include.items | limit: include.limit %}
+  {% if include.sticky %}{% assign items = items | where: 'sticky', true %}{% endif %}
+  {% if include.type %}{% assign items = items | where: 'type', include.type %}{% endif %}
+  {% for event in items %}
+  <div class="column is-half same-height-column">
+    <div class="event-card card box hover-box columns is-gapless is-mobile">
+      <div class="date-block-container column is-narrow">
+        <div class="card-content date-block has-text-centered">
+          {% assign date = event.time.start.dateTime %}
+          <span class="title date-month is-size-4">{{ date | date: "%b" }}</span>
+          <br>
+          <span class="subtitle is-size-1 date-num">{{ date | date: "%d" }}</span>
+        </div>
+      </div>
+      <div class="column">
+        <div class="event-info card-content">
+          <h3 class="event-title is-size-5 has-text-left">{{ event.label }}</h3>
+          <p class="event-details has-text-left" style="margin-bottom:0">
+            <i class="fas fa-map-marked-alt"></i>&nbsp;
+            {% if event.location.link %}
+              <a href="{{ event.location.link | absolute_url }}">{{ event.location.label | default: "Virtual (Zoom)" }}</a>
+            {% else %}
+              {{ event.location.label | default: "Virtual (Zoom)" }}
+            {% endif %}
+            <br>
+            <i class="far fa-calendar-alt"></i>&nbsp;
+            <time datetime="{{ date | date: '%Y-%m-%d' }}">{{ date | date: "%A, %B %e, %Y at %I:%M%P" }}</time>
+            {% if event.links %}
+              <br><i class="fas fa-link"></i>&nbsp;
+              {% for l in event.links %}
+                <a href="{{ l.link | absolute_url }}">{{ l.label }}</a>{% unless forloop.last %} | {% endunless %}
+              {% endfor %}
+            {% endif %}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
