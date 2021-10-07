@@ -10,9 +10,9 @@ breadcrumbs:
 ---
 
 ## Join the Consortium
-Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership are available.
+Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework, and includes a range of benefits based on level of membership.
 <br>
-{% include misc/button.html button_label="Join the Consortium" button_link="/community/consortium/join" %}
+<center>{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}</center>
 
 
 ## Full Members
