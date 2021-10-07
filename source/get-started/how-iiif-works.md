@@ -2,7 +2,7 @@
 layout: default
 title: How it Works
 subtitle: >
-  A plain-langauge guide to how the APIs work together.
+  A plain-langauge guide to how the APIs work.
 permalink: /get-started/how-iiif-works/
 hero:
   image: ""
@@ -11,7 +11,7 @@ breadcrumbs:
  - label: Get Started
    link: /get-started/
 next_resources:
- - label: Get Started
+ - label: Get started
    link: /get-started/
    description: Take the first step to exploring the rich world of IIIF-enabled materials.
  - label: Try out a guide
