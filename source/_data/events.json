@@ -1,0 +1,138 @@
+[
+  {
+    "label": "IIIF 3D",
+    "type": "community_call",
+    "description": "<a href=\"https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09\" id=\"ow1680\" __is_owner=\"true\">https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09</a>",
+    "links": [
+      {
+        "label": "View in Google Calendar",
+        "link": "https://www.google.com/calendar/event?eid=OGUzZjc5OW5oNHNqM2I1YXIwOWEzdjAwODhfMjAyMTEwMDdUMTYwMDAwWiAxaG5tNWg4Nm45NG9yZTB2bm9vMTg4dGVyOEBn"
+      },
+      {
+        "label": "Community Homepage",
+        "link": "community/groups/3d/"
+      }
+    ],
+    "time": {
+      "start": {
+        "dateTime": "2021-10-07T09:00:00-07:00",
+        "timezone": "Europe/London"
+      },
+      "end": {
+        "dateTime": "2021-10-07T10:00:00-07:00",
+        "timezone": "Europe/London"
+      }
+    },
+    "location": {
+      "type": "online",
+      "link": "https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09"
+    }
+  },
+  {
+    "label": "DLF Forum, NDSA's Digital Preservation, and Learn@DLF",
+    "type": "community_event",
+    "description": "",
+    "links": [
+      {
+        "label": "Event Details",
+        "link": "https://www.forum2021.diglib.org"
+      }
+    ],
+    "time": {
+      "start": {
+        "dateTime": "2021-11-01T00:00:00Z"
+      },
+      "end": {
+        "dateTime": "2021-11-10T00:00:00Z"
+      }
+    }
+  },
+  {
+    "label": "2021 IIIF Fall Working Meeting",
+    "type": "conference",
+    "sticky": true,
+    "description": "The Fall Working Meeting is held annually to make tangible progress on issues important to the IIIF community.",
+    "links": [
+      {
+        "label": "Register",
+        "link": "https://www.eventbrite.com/e/2021-iiif-fall-working-meeting-tickets-176398561847"
+      }
+    ],
+    "time": {
+      "start": {
+        "dateTime": "2021-11-16T16:00:00Z",
+        "timezone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2021-11-18T20:00:00Z",
+        "timezone": "America/New_York"
+      }
+    },
+    "location": {
+      "type": "online"
+    }
+  },
+  {
+    "label": "Glen's test event",
+    "type": "community_event",
+    "description": "",
+    "links": [
+      {
+        "label": "Event Details",
+        "link": "https://iiif.io"
+      }
+    ],
+    "time": {
+      "start": {
+        "dateTime": "2021-12-03T00:00:00Z"
+      },
+      "end": {
+        "dateTime": "2021-12-03T00:00:00Z"
+      }
+    }
+  },
+  {
+    "label": "January IIIF Online Training (5-Day Course)",
+    "sticky": true,
+    "type": "training",
+    "description": "This limited-seat course will run Jan 24- 28 and is conducted online with video tutorials and extensive tutoring/support opportunities.",
+    "links": [
+      {
+        "label": "Register",
+        "link": "https://www.eventbrite.com/e/january-iiif-online-training-5-day-course-tickets-176371781747"
+      }
+    ],
+    "time": {
+      "start": {
+        "dateTime": "2022-01-24T11:00:00Z",
+        "timezone": "Europe/London"
+      },
+      "end": {
+        "dateTime": "2022-01-28T11:00:00Z",
+        "timezone": "Europe/London"
+      }
+    },
+    "location": {
+      "type": "online"
+    }
+  },
+  {
+    "label": "Glen's second test event",
+    "type": "community_event",
+    "description": "This is my second test event",
+    "links": [
+      {
+        "label": "Event Details",
+        "link": "https://iiif.io"
+      }
+    ],
+    "time": {
+      "start": {
+        "dateTime": "2022-03-11T00:00:00Z"
+      },
+      "end": {
+        "dateTime": "2022-03-12T00:00:00Z"
+      }
+    }
+  }
+]
