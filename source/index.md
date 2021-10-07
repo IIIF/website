@@ -165,14 +165,3 @@ IIIF is funded by a global consortium, and leveraged by aggregators, research in
 
 
 {{ theme.block-end }}
-
-
-
-{{ theme.block-center-start }}
-
-## Get involved and stay connected
-Anyone can participate in the IIIF community. Find the way that’s right for you!
-
-{% include blocks/cards.html items=page.stay_connected_cards %}
-
-{{ theme.block-end }}
