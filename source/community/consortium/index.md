@@ -27,7 +27,7 @@ The IIIF-C now comprises [{{ members.size }} members]({{ site.root_url | absolut
 ## Join the Consortium
 Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership include a range of benefits.
 <br>
-{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}
+<center>{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}</center>
 
 ## Oversight
 The Consortium is guided by three committees which members may join:
