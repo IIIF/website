@@ -32,7 +32,7 @@ Additional benefits for full members include:
 *   Guaranteed representation on the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ), which guides development of the IIIF specifications and approves all updates and additions to the APIs
 *   Eligibility to serve on the [Executive Committee and Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/), which governs the community
 *   Voting rights in Executive Committee elections
-*   Priority attendance at Working Meetings and other events
+*   Priority attendance at conferences, meetings and other events
 *   Priority technical advice 
 *   Discounted consulting
 
@@ -42,7 +42,8 @@ Additional benefits for associate members include:
 
 *   Institution-wide discounts on training and workshops
 *   Institution-wide discounts for Annual Conference registration
-*   Priority attendance at IIIF conferences, working meetings, and other events
+*   Eligibility to serve on the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ), which guides development of the IIIF specifications and approves all updates and additions to the APIs
+*   Priority attendance at conferences, meetings and other events
 
 **Conditions of membership:**
 *   Only full members are eligible for voting rights on the Executive Committee
