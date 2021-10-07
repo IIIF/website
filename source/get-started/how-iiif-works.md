@@ -14,7 +14,7 @@ next_resources:
  - label: Get started
    link: /get-started/
    description: Take the first step to exploring the rich world of IIIF-enabled materials.
- - label: Try out a guide
+ - label: Guides
    link: https://preview.iiif.io/guides/wireframe/
    description: A set of resources to help you find and work with IIIF materials, built by members of the IIIF community.
  - label: Talks
@@ -63,7 +63,7 @@ The Presentation API attaches basic metadata and structure to digital objects, d
 There are many [IIIF viewers](/get-started/iiif-viewers/). Some are general purpose tools while others specialize in particular kinds of content or functionality. IIIF-compatible viewers generally allow users to pan, zoom, rotate, and resize image objects, and play audio/visual files. Some allow annotation with text, audio, location, and more. Others allow comparison of objects from a single collection side-by-side (or even objects from multiple collections if the object’s Manifest is made available to users).
 
 
-### Advanced use cases
+## Advanced use cases
 
 IIIF also enables you to use the same standardized principles to manage other needs related to your IIIF objects.
 

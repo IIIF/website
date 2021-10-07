@@ -6,8 +6,6 @@ breadcrumbs:
    link: /get-started/
 ---
 
-- Translations of Specs
-
 ## Deutsch/German
 
 - [IIIF Crashkurs [German] ](https://pieckh.github.io/IIIF-Crashkurs/IIIF-Crashkurs/?mc_cid=c8cc01e228&mc_eid=UNIQID)
