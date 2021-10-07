@@ -5,26 +5,13 @@ subtitle: Stay up to date on the latest events, community calls, and news.
 permalink: /news-and-events/
 hero:
   image: ''
-events:
-  - date: 2021-04-04
-    title: IIIF Museums Call
-    location: Virtual (Zoom)
-  - date: 2021-03-23
-    title: IIIF Maps Call
-    location: Virtual (Zoom)
-  - date: 2021-02-12
-    title: IIIF Archives Call
-    location: Virtual (Zoom)
-  - date: 2021-01-01
-    title: IIIF Discovery Group
-    location: Virtual (Zoom)
 top_tabs:
-  - label: Events
-    content: "{%- include blocks/event-cards.html items=page.events limit=4 -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
-  - label: Call Calendar
+  - label: Featured IIIF events
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 sticky='true' -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
+  - label: Community group meetings
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=4 type='community_call' -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
+  - label: Call calendar
     content: "{% include misc/community_calendar.html %}"
-  - label: News
-    content: "{% include blocks/news-cards.html limit=3 %}{% include misc/button.html button_label='View All' button_link='/news' %}"
 banner:
   title: "Get monthly updates on IIIF"
   color: '#001927'
@@ -52,7 +39,33 @@ cards:
 
 {{ theme.block-center-start }}
 
+
 {% include blocks/tabs.html  tabs=page.top_tabs %}
+
+
+{% comment %}
+<h2>Featured Events & Meetings</h2>
+
+<h3>Upcoming IIIF events</h3>
+
+{%- include blocks/event-cards.html items=page.events limit=2 -%}
+{%- include misc/button.html button_label='View All' button_link='/events' -%}
+
+<h3>Community group meetings</h3>
+
+{%- include blocks/event-cards.html items=page.events limit=4 -%}
+{%- include misc/button.html button_label='View All' button_link='/events' -%}
+{% endcomment %}
+
+{{ theme.block-end }}
+
+
+
+{{ theme.block-center-start }}
+
+## Featured News
+
+{% include blocks/news-cards.html limit=2 %}{% include misc/button.html button_label='View All' button_link='/news' %}
 
 {{ theme.block-end }}
 
