@@ -35,12 +35,3 @@ The Consortium is guided by three committees which members may join:
 *   [Executive Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#executive-committee) - Steering strategic direction and budget approval, this committee meets twice annually and is composed of staff from the first eleven founding members of the Consortium, plus two additional elected members. Starting in 2020, seats on this committee will begin opening to new members by vote.
 *   [Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#operating-committee) - A group consisting of a Chair, Vice-Chair, Secretary, and Treasurer selected from the Executive Committee who meet monthly to ensure the strategic direction set by the Executive Committee is being achieved.
 *   [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc) - This committee is made up of appointees from Consortium member institutions with technical backgrounds, who vote monthly to approve or reject proposed changes to the specifications, cookbook recipes, and technical community groups.
-
-## Members
-The IIIF Consortium--like our community--is global.
-
-<div style="width: 100%; margin: 0 auto;">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_ios5waTvJLj4qIL0o5kAxFjKi2ijLd-" style="width: 100%; height: 480px;"></iframe>
-</div>
-<br>
-{% include misc/button.html button_label="View all members" button_link="/community/consortium/members" %}

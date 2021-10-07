@@ -17,7 +17,7 @@ breadcrumbs:
    link: /community/consortium
 ---
 
-We rely on IIIF Consortium (IIIF-C) members to provide leadership and sustainability in support of our shared goals:
+We rely on Consortium members to provide leadership and sustainability in support of our shared goals:
 
 *   Providing researchers--and other audiences--an unprecedented level of uniform and rich access to digitized image, audio, and video resources hosted around the world
 *   Defining and maintaining a community-driven set of APIs that support interoperability between repositories
@@ -29,7 +29,7 @@ We rely on IIIF Consortium (IIIF-C) members to provide leadership and sustainabi
 *   Fund IIIF’s supporting staff, who steward strategy, training, communications, infrastructure, outreach, growth, community-building, and adoption
 *   Join a community of forward-thinking global technology leaders
 *   Access discounted training
-*   Receive reduced-price tickets to the IIIF Annual Conference
+*   Receive reduced-price tickets to the Annual Conference
 
 Take a look at a list of [consortium members]({{ site.root_url | absolute_url }}/community/consortium/members/) to see who else is involved.
 
