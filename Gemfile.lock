@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/iiif/iiifc-theme.git
   revision: 8f8e92bc467fa8d8b0dad136b186596f9f32d3eb
-  branch: main
+  branch: feature/dynamic-events-17
   specs:
     iiifc-theme (0.1.0)
       html-proofer
