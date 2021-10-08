@@ -43,7 +43,7 @@ This is also possible using the [UniversalViewer](https://universalviewer.io/) w
 
 The drag and drop functionality works relatively well but does have some issues particularly in regards to accessibility and with interfaces without a mouse. To address these concerns the IIIF community has been working on a new API called [Content State](https://iiif.io/api/content-state) which offers a number of different ways to transfer content between viewers. This API is still in development so the examples below mostly use the drag and drop method.
 
-## Tools for Viewing IIIF Manifests
+## Tools for viewing IIIF Manifests
 Many institutions that use IIIF will use one of the common IIIF Viewers and you may recognize either Mirador or the UniversalViewer in a page you are viewing. Here is a guide to importing and exporting from the different IIIF Viewers and tools.
 
 ### Mirador
