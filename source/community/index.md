@@ -26,19 +26,18 @@ more_resources_cards:
   - label: Community tools list
     description: From tools for annotation to tools for building exhibits, see the best of what’s available to you and benefit from the work of others on the IIIF-Awesome list. (External link)
     link: 'https://github.com/IIIF/awesome-iiif/'
-  - label: IIIF Github Organization
+  - label: IIIF Github organization
     description: A set of repositories used by the IIIF Community to transparently track specification work, as well as to identify, track, and resolve issues as they arise. 
     link: https://github.com/IIIF/
 
 
 ---
 
-Overall, we think there are [hundreds of adopters]({{ site.root_url | absolute_url }}/community/map) of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.
-
-There are lots of ways to get involved and join the conversation!
+# Join a vibrant community
+There are lots of ways to get involved with IIIF, and not all require coding skills! The IIIF community has many facets focusing on international outreach, affinity groups, developing the APIs, and more.
 
 ## Community and Technical Specification Groups
-IIIF Groups meet regularly to discuss various contexts of IIIF usage for a particular idea or initiative. View a full list of active and completed croups along with their charters, chairs, and meeting times [on the Groups page][groups].
+IIIF Groups meet regularly to discuss various contexts of IIIF usage for a particular idea or initiative from technical and non-technical perspectives. View a full list of active and completed croups along with their charters, chairs, and meeting times [on the Groups page][groups].
 
 All our work is guided by our [Code of Conduct]({{ site.root_url | absolute_url }}/event/conduct/).
 
@@ -54,7 +53,7 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 
 ---
 
-## Group communication channels
+## Communication channels
 
 {{ theme.block-center-start }}
 
@@ -65,7 +64,7 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 
 ---
 
-## Community tools
+## Other community channels
 
 {{ theme.block-center-start }}
 
@@ -75,14 +74,14 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 
 ---
 
-## The Editorial Committee
+## Editorial Committee
 
 The IIIF Editorial Committee meets regularly and works in collaboration with [Community and Technical Specification Groups][groups] to propose new technical specifications and to update existing ones. Learn about their work and current membership [on the Editors page][editors].
 
 ## IIIF Ambassadors
 IIIF Ambassadors are deputized to work with Consortium staff to take a formal role in championing IIIF adoption in their communities. Ambassadors focus their efforts around different domains, associations, tools, or regions. Learn more about [program and the current Ambassadors][ambassadors].
 
-## The IIIF Consortium
+## IIIF Consortium
 
 IIIF is supported by a membership [consortium]({{ site.root_url | absolute_url }}/community/consortium), with members from all over the world including Stanford University, Europeana, Kansai University, and many more. In addition to supporting the IIIF community financially, these institutions contribute to the APIs, Community Groups, and more.
 
