@@ -26,7 +26,7 @@ There are various ways to find a manifest URL, and this is easier on some websit
 
 Overall, the easiest method is to look for the IIIF logo on a content provider's site:
 
-<img class="img-center" src="{{ site.root_url | absolute_url }}//assets/uploads/logos/logo-iiif-34x30.png" alt="IIIF Logo"/>
+<img class="img-center" src="{{ site.root_url | absolute_url }}/assets/uploads/logos/logo-iiif-34x30.png" alt="IIIF Logo"/>
 
 Many institutions provide the IIIF logo which can be dragged into another viewer. See this example below where content is dragged from the Yale Centre for British Art and the Bodleian Library to an instance of the [IIIF Mirador viewer](https://projectmirador.org/).
 
