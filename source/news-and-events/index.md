@@ -42,21 +42,6 @@ cards:
 
 {% include blocks/tabs.html  tabs=page.top_tabs %}
 
-
-{% comment %}
-<h2>Featured Events & Meetings</h2>
-
-<h3>Upcoming IIIF events</h3>
-
-{%- include blocks/event-cards.html items=page.events limit=2 -%}
-{%- include misc/button.html button_label='View All' button_link='/events' -%}
-
-<h3>Community group meetings</h3>
-
-{%- include blocks/event-cards.html items=page.events limit=4 -%}
-{%- include misc/button.html button_label='View All' button_link='/events' -%}
-{% endcomment %}
-
 {{ theme.block-end }}
 
 
