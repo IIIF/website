@@ -4,9 +4,9 @@ source:         source
 permalink:      pretty
 
 root_url:       ''
-api_url:        https://preview.iiif.io/api/wireframe
-cookbook_url:   https://preview.iiif.io/cookbook/wireframe
-guides_url:     https://preview.iiif.io/guides/wireframe
+api_url:        https://beta.iiif.io/api
+cookbook_url:   https://beta.iiif.io/api/cookbook
+guides_url:     https://beta.iiif.io/guides
 training_url:   https://training.iiif.io
 
 collections:
