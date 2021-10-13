@@ -48,7 +48,7 @@ jobs: # A workflow run is made up of one or more jobs that can run sequentially 
     - name: Deploy to S3
       uses: glenrobson/s3-sync-action@v0.5.1
       with:
-        args: 
+        args: --acl public-read
       env:
         AWS_S3_BUCKET: "iiif-website"
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
