@@ -5,18 +5,9 @@ permalink: /events/
 ---
 {{ theme.block-center-start }}
 
-<h2>All Featured Events</h2>
+<h2>All Upcoming Events</h2>
 
-{%- include blocks/event-cards.html items=site.data.events sticky='true' -%}
-
-{{ theme.block-end }}
-
-
-
-{{ theme.block-center-start }}
-
-<h2>All Upcoming Community Calls</h2>
-{%- include blocks/event-cards.html items=site.data.events type='community_call' -%}
+{%- include blocks/event-cards.html items=site.data.events -%}
 
 {{ theme.block-end }}
 
