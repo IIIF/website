@@ -60,7 +60,7 @@ The Presentation API attaches basic metadata and structure to digital objects, d
 
 {%- include blocks/image-and-text.html image_align='right' image='assets/uploads/presentation-api-filler.png' alt_text="API filler image" content=capture_text2 caption='The presentation API delivers data and structure about an image to a viewer.' -%}
 
-There are many [IIIF viewers](/get-started/iiif-viewers/). Some are general purpose tools while others specialize in particular kinds of content or functionality. IIIF-compatible viewers generally allow users to pan, zoom, rotate, and resize image objects, and play audio/visual files. Some allow annotation with text, audio, location, and more. Others allow comparison of objects from a single collection side-by-side (or even objects from multiple collections if the object’s Manifest is made available to users).
+There are many [IIIF viewers]({{ site.root_url | absolute_url }}/get-started/iiif-viewers/). Some are general purpose tools while others specialize in particular kinds of content or functionality. IIIF-compatible viewers generally allow users to pan, zoom, rotate, and resize image objects, and play audio/visual files. Some allow annotation with text, audio, location, and more. Others allow comparison of objects from a single collection side-by-side (or even objects from multiple collections if the object’s Manifest is made available to users).
 
 
 ## Advanced use cases
@@ -78,9 +78,9 @@ If you have your own images you want to put online using IIIF you’ll need high
 
 From there:
 
-- Make images and audio/video materials available using the Image API and an [IIIF image server](/get-started/image-servers/), or a [IIIF-compatible image server from a vendor or other web host](/get-started/vendors/).
+- Make images and audio/video materials available using the Image API and an [IIIF image server]({{ site.root_url | absolute_url }}/get-started/image-servers/), or a [IIIF-compatible image server from a vendor or other web host]({{ site.root_url | absolute_url }}/get-started/vendors/).
 - Combine your images and structural data (like pagination or ordering) from your metadata source into a IIIF Manifest using the Presentation API (there are many [open source or vendor products that help handle this](https://github.com/IIIF/awesome-iiif#presentation-api-libraries)).
-- Choose a [viewer](/get-started/iiif-viewers/) to show your images
+- Choose a [viewer]({{ site.root_url | absolute_url }}/get-started/iiif-viewers/) to show your images
 - Consider making your image **manifests** (definition below) available publicly on your collection site so users can work with your images across collections.
 
 </div>

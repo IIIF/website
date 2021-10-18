@@ -155,7 +155,7 @@ BSB TECHNOLOGY:
 
 ### New Releases
 
-* The British Library’s [Endangered Archives Program][eap] (EAP), funded by Arcadia Fund has released 6 million images via IIIF Image API with [Presentation manifests][eap-manifest] displayed via [Universal Viewer][eap-uv]. See [Cogapp case study][eap-cogapp] for more details.
+* The British Library’s [Endangered Archives Program][eap] (EAP), funded by Arcadia Fund has released 6 million images via IIIF Image API with [Presentation manifests][eap-manifest] displayed via [Universal Viewer][eap-uv]{:data-proofer-ignore=''}. See [Cogapp case study][eap-cogapp] for more details.
 * The [Clyfford Still Museum][clyfford] has implemented the IIIF Image API using Cogapp’s “slow looking” functionality for their online art collections - view [demo][clyf-demo], see [blog post][slow], and read the [case study][clyfford-case] from Cogapp that explains the underlying technology (Luna).
 * [TIFY viewer][tify], see [demo][tify-demo]
 * Art Institute of Chicago went live with support for the IIIF Image API v. 2.0, using the Cantaloupe image server, JP2 access files, and a custom content shim which fetches  and caches the JP2 from Fedora, if not already on local disk, and provides the local JP2's location to Cantaloupe for serving.
