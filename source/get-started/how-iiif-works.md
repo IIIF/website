@@ -24,7 +24,7 @@ next_resources:
 {{ theme.block-start }}
 <div class="content" markdown="1">
 
-{% include content/inline-image.html image="assets/images/zeplin/webp/delivery@3x.webp" alt_text="delivery diagram" caption="A diagram of how IIIF delivery works." float="right"%}
+{% include content/inline-image.html image="assets/images/zeplin/delivery@3x.png" alt_text="delivery diagram" caption="A diagram of how IIIF delivery works." float="right"%}
 
 
 ## Introduction
