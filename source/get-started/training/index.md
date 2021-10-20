@@ -29,6 +29,9 @@ If you are already familiar with IIIF and want to help others learn, you can use
 
 <script>
     function addEvent(parentDiv, event) {
+        if (!event.name.text.includes("Online Training")) {
+            return;
+        }
         let li = document.createElement('li');
         parentDiv.appendChild(li);
         li.style = "display: flex; box-shadow: 0 1px 2px 1px #ddd;padding: 15px; margin: 10px 3px;";
@@ -56,7 +59,7 @@ If you are already familiar with IIIF and want to help others learn, you can use
         let button = document.createElement('button')
         button.style = '-webkit-transform: translateZ(0); transform: translateZ(0); position: relative; height: 44px; padding: 0 30px 1px; -webkit-box-sizing: border-box; box-sizing: border-box; text-align: center; text-decoration: none; line-height: 24px; font-weight: 600; letter-spacing: .2px; color: #39364f; color: var(--eds-ui-800,#39364f); fill: #39364f; fill: var(--eds-ui-800,#39364f); background: transparent; background-color: transparent; border: 2px solid #a9a8b3; border: 2px solid var(--eds-ui-500,#a9a8b3); border-radius: 4px; cursor: pointer; -webkit-transition: all .4s cubic-bezier(.4,0,.3,1); transition: all .4s cubic-bezier(.4,0,.3,1); border-color: var(--eds-primary-brand--hover,#f05537);background-color: var(--eds-primary-brand--hover,#f05537);color: var(--eds-inverse-primary-brand,#fff);';
         button.innerHTML = 'Register'
-        button.onclick = function () {
+        button.onclick = function () { 
             window.open(
               event.url,
               '_blank' // <- This is what makes it open in a new window.
