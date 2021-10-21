@@ -7,7 +7,7 @@ redirect_from:
 
 Access to image-based resources is fundamental to research, scholarship and the transmission of cultural knowledge. Digital images are a container for much of the information content in the Web-based delivery of images, books, newspapers, manuscripts, maps, scrolls, single sheet collections, and archival materials. Yet much of the Internet’s image-based resources are locked up in silos, with access restricted to bespoke, locally built applications.
 
-A growing community of the world’s leading research libraries and image repositories have embarked on an effort to collaboratively produce an interoperable technology and community framework for image delivery.
+A growing community of the world’s leading research libraries, museums and image repositories have embarked on an effort to collaboratively produce an interoperable technology and community framework for image delivery.
 
 IIIF (International Image Interoperability Framework) has the following goals:
 
