@@ -1,0 +1,17 @@
+- label: DLF Forum, NDSA's Digital Preservation, and Learn@DLF
+  time:
+    start: 2021-11-01T00:00:00Z
+    end: 2021-11-10T00:00:00Z
+  location:
+    label: Midspace
+    link: https://midspace.forum2021.diglib.org/conference/clir-events
+  links:
+    - label: Event Details
+      link: https://forum2021.diglib.org/
+- label: 2021 IIIF Fall Working Meeting
+  time:
+    start: 2021-11-16T16:00:00Z
+    end: 2021-11-18T20:00:00Z
+  links:
+    - label: Register
+      link: https://www.eventbrite.com/e/2021-iiif-fall-working-meeting-tickets-176398561847
