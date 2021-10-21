@@ -1,41 +1,189 @@
 <div class="block columns is-multiline">
-  {% assign items = include.items | limit: include.limit %}
-  {% if include.sticky %}{% assign items = items | where: 'sticky', true %}{% endif %}
-  {% if include.type %}{% assign items = items | where: 'type', include.type %}{% endif %}
-  {% for event in items %}
-  <div class="column is-half same-height-column">
-    <div class="event-card card box hover-box columns is-gapless is-mobile">
-      <div class="date-block-container column is-narrow">
-        <div class="card-content date-block has-text-centered">
-          {% assign date = event.time.start.dateTime %}
-          <span class="title date-month is-size-4">{{ date | date: "%b" }}</span>
-          <br>
-          <span class="subtitle is-size-1 date-num">{{ date | date: "%d" }}</span>
+  {% if include.items %} 
+      {% for event in include.items limit: include.limit %}
+      <div class="column is-half same-height-column">
+        <div class="event-card card box hover-box columns is-gapless is-mobile">
+          <div class="date-block-container column is-narrow">
+            <div class="card-content date-block has-text-centered">
+              {% assign date = event.time.start %}
+              <span class="title date-month is-size-4">{{ date | date: "%b" }}</span>
+              <br>
+              <span class="subtitle is-size-1 date-num">{{ date | date: "%d" }}</span>
+            </div>
+          </div>
+          <div class="column">
+            <div class="event-info card-content">
+              <h3 class="event-title is-size-5 has-text-left">{{ event.label }}</h3>
+              <p class="event-details has-text-left" style="margin-bottom:0">
+                <i class="fas fa-map-marked-alt"></i>&nbsp;
+                {% if event.location.link %}
+                  <a href="{{ event.location.link | absolute_url }}">{{ event.location.label | default: "Virtual (Zoom)" }}</a>
+                {% else %}
+                  {{ event.location.label | default: "Virtual (Zoom)" }}
+                {% endif %}
+                <br>
+                <i class="far fa-calendar-alt"></i>&nbsp;
+                <time datetime="{{ date | date: '%Y-%m-%d' }}">{{ date | date: "%A, %B %e, %Y at %I:%M%P" }}</time>
+                {% if event.links %}
+                  <br><i class="fas fa-link"></i>&nbsp;
+                  {% for l in event.links %}
+                    <a href="{{ l.link | absolute_url }}">{{ l.label }}</a>{% unless forloop.last %} | {% endunless %}
+                  {% endfor %}
+                {% endif %}
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="column">
-        <div class="event-info card-content">
-          <h3 class="event-title is-size-5 has-text-left">{{ event.label }}</h3>
-          <p class="event-details has-text-left" style="margin-bottom:0">
-            <i class="fas fa-map-marked-alt"></i>&nbsp;
-            {% if event.location.link %}
-              <a href="{{ event.location.link | absolute_url }}">{{ event.location.label | default: "Virtual (Zoom)" }}</a>
-            {% else %}
-              {{ event.location.label | default: "Virtual (Zoom)" }}
-            {% endif %}
-            <br>
-            <i class="far fa-calendar-alt"></i>&nbsp;
-            <time datetime="{{ date | date: '%Y-%m-%d' }}">{{ date | date: "%A, %B %e, %Y at %I:%M%P" }}</time>
-            {% if event.links %}
-              <br><i class="fas fa-link"></i>&nbsp;
-              {% for l in event.links %}
-                <a href="{{ l.link | absolute_url }}">{{ l.label }}</a>{% unless forloop.last %} | {% endunless %}
-              {% endfor %}
-            {% endif %}
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  {% endfor %}
+      {% endfor %}
+  {% else %}
+      <script>
+        function createDiv(parentNode, cssClasses) {
+            return createNode(parentNode, "div", cssClasses);
+        }
+        function createSpan(parentNode, cssClasses) {
+            return createNode(parentNode, "span", cssClasses);
+        }
+        function createNode(parentNode, tag, cssClasses) {
+            let div = document.createElement(tag);
+            div.className = cssClasses;
+
+            parentNode.appendChild(div);
+
+            return div;
+        }
+
+        function buildCard(parent, startDate, label, location, links) {
+
+            let container = createDiv(parent, "column is-half same-height-column");
+            let card = createDiv(container, "event-card card box hover-box columns is-gapless is-mobile");
+            let dateContainer = createDiv(card, "date-block-container column is-narrow");
+            let dateContent = createDiv(dateContainer, 'card-content date-block has-text-centered');
+
+            let month = createSpan(dateContent, "title date-month is-size-4");
+            const monthNames = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC" ];
+            month.innerHTML = monthNames[startDate.getMonth()];
+
+            dateContent.appendChild(document.createElement("br"));
+
+            let day = createSpan(dateContent, "subtitle is-size-1 date-num");
+            day.innerHTML = startDate.getDate();
+
+            let column = createDiv(card, "column");
+            let cardContent = createDiv(column, "event-info card-content");
+
+            let title = createNode(cardContent, "h3", "event-title is-size-5 has-text-left");
+            title.innerHTML = label;
+
+            let eventDetails = createDiv(cardContent, "event-details has-text-left");
+            eventDetails.style.marginBottom = "0";
+
+            createNode(eventDetails, "i", "fas fa-map-marked-alt");
+            eventDetails.appendChild(document.createTextNode(" "));
+            if (location) {
+                if (location.link) {
+                  let anchor =  document.createElement("a");
+                  anchor.href = location.link;
+                  anchor.innerHTML = location.label;
+                  eventDetails.appendChild(anchor);
+                } else {
+                    if (location.label) {
+                        eventDetails.appendChild(document.createTextNode(location.label));
+                    } else {
+                        eventDetails.appendChild(document.createTextNode("Virtual (Zoom)"));
+                    }
+                }
+            } else {
+                eventDetails.appendChild(document.createTextNode("Virtual (Zoom)"));
+            }
+
+
+            eventDetails.appendChild(document.createElement("br"));
+            createNode(eventDetails, "i", "far fa-calendar-alt");
+            eventDetails.appendChild(document.createTextNode(" "));
+            const options = Intl.DateTimeFormat().resolvedOptions();
+            let time = document.createElement("time");
+            time.datetime = startDate.toISOString();
+            time.innerHTML = startDate.toLocaleString(options.locale, {timeZone: options.timeZone });
+            eventDetails.appendChild(time);
+            // <time datetime="2021-10-13"> Wednesday, October 13, 2021 at 10:00am
+
+            if (links) {
+                eventDetails.appendChild(document.createElement("br"));
+                createNode(eventDetails, "i", "fas fa-link");
+                eventDetails.appendChild(document.createTextNode(" "));
+                for (var i = 0; i < links.length; i++) {
+                    if (links[i].link) {
+                        let anchor =  document.createElement("a");
+                        anchor.href = links[i].link;
+                        anchor.innerHTML = links[i].label;
+                        eventDetails.appendChild(anchor);
+
+                        if (i != links.length - 1) {
+                            eventDetails.appendChild(document.createTextNode(" | "));
+                        }
+                    }
+                }
+            }
+        }
+
+        function addCalls(parent, events, limit) {
+            let weeksCalls = events.week;
+            if (weeksCalls.length < limit) {
+                limit = weeksCalls.length;
+            }
+            for (var i = 0; i < limit; i++) {
+                let event = weeksCalls[i];
+                let group_page = ""
+                for (const [key, value] of Object.entries(events.meetings)) {
+                    if (key.toLowerCase().includes(event.summary.toLowerCase())) {
+                        group_page = "{{ site.root_url | absolute_url }}" + value.link;
+                        break;
+                    }
+                }
+                if (event.summary.toLowerCase().includes("humans") || event.summary.toLowerCase().includes("d4h")) {
+                    group_page = "{{ site.root_url | absolute_url }}" + events.meetings['Discovery for Humans'].link;
+                } else if (event.summary.toLowerCase().includes("discovery")) {
+                    group_page = "{{ site.root_url | absolute_url }}" + events.meetings['IIIF Discovery Technical Specification Group call'].link;
+                }
+                buildCard(parent, new Date(event.start.dateTime), event.summary, null, [{
+                    'label': 'View in Google Calendar',
+                    'link': event.htmlLink
+                },
+                {
+                    'label': 'Homepage',
+                    'link': group_page
+                }]);
+            }
+        }
+
+        function addEvents(parent, events, limit) {
+            if (limit == 0 || events.length < limit) {
+                limit = events.length;
+            }
+            for (var i = 0; i < limit; i++) {
+                let event = events[i];
+                buildCard(parent, new Date(event.time.start.dateTime), event.label, event.location, event.links);
+            }
+        }
+
+      </script>
+    <!-- Javascript -->
+      {% if include.type and include.type == 'community_call' %}
+            <script>
+                let parent = document.currentScript.parentElement;
+                fetch('https://iiif.io/calendar.json')
+                  .then(response => response.json())
+                  .then(data => addCalls(parent, data, {{ include.limit | default: 10 }}));
+            </script>
+      {% else %}
+            <script>
+                // Show all events
+                let parent = document.currentScript.parentElement;
+                fetch('https://iiif.io/events.json')
+                  .then(response => response.json())
+                  .then(data => addEvents(parent, data, {{ include.limit | default: 0 }}));
+            </script>
+      {% endif %}
+  {% endif %}
 </div>

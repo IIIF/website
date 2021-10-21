@@ -7,9 +7,9 @@ hero:
   image: ''
 top_tabs:
   - label: Featured IIIF events
-    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 sticky='true' -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
   - label: Community group meetings
-    content: "{%- include blocks/event-cards.html items=site.data.events limit=4 type='community_call' -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
+    content: "{%- include blocks/event-cards.html limit=4 type='community_call' -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
   - label: Call calendar
     content: "{% include misc/community_calendar.html %}"
 banner:

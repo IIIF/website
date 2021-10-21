@@ -7,7 +7,7 @@ permalink: /events/
 
 <h2>All Upcoming Events</h2>
 
-{%- include blocks/event-cards.html items=site.data.events -%}
+{%- include blocks/event-cards.html -%}
 
 {{ theme.block-end }}
 
@@ -15,7 +15,7 @@ permalink: /events/
 
 {{ theme.block-center-start }}
 
-<h2>Past Featured Events</h2>
+<h2>Past Events</h2>
 
 <div class="block columns is-multiline">
   {% assign items = site.data.pastevents | sort: 'start_date' | reverse  %}

@@ -160,8 +160,8 @@ IIIF is funded by a global consortium, and leveraged by aggregators, research in
 
 ## Featured events & news
 
-{% include blocks/event-cards.html items=page.events %}
-{% include misc/button.html button_label="View All" button_link="#" %}
+{% include blocks/event-cards.html items=site.data.events limit=4 %}
+{% include misc/button.html button_label="View All" button_link="/events" %}
 
 
 {{ theme.block-end }}
