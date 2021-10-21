@@ -40,7 +40,7 @@ The simplest viable manifest for video content. This pattern presents a single v
 *    [Geographic coordinates]({{site.cookbook_url | absolute_url }}/recipe/0139-geolocate-canvas-fragment/)
 Use Web Annotation to provide geocoordinates for a fragment of an IIIF Presentation API 3.0 Canvas.
 
-## Creating Recipes
+## Creating recipes
 
 ### Do you have an idea for a recipe?
 

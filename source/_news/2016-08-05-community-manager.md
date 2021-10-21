@@ -10,7 +10,7 @@ Sheila Rabun has been appointed the new Community and Communications Officer for
 
 IIIF has seen remarkable growth since June 2015, when 11 institutions joined together to formally organize the [IIIF Consortium][iiif-c] (IIIF-C). There has been rapid evolution in its specifications, IIIF-compatible software, institutions with interoperable content, and community members. Rabun's is the first dedicated staff position for the global community, and will focus on coordinating the expanding suite of IIIF features and functionality, facilitating communication within and beyond the current community, and helping implementers and individual users engage in the Framework.
 
-"I am excited to join the IIIF community and build upon the excellent accomplishments of the initiative thus far," Rabun said in a written statement. Formerly the Digital Project Manager and Interim Director of the University of Oregon Libraries' Digital Scholarship Center, Rabun managed the development of the [Oregon Digital Hydra][oregondigital] repository, the [Oregon Digital Newspaper Program][odnp] (ODNP) and [Historic Oregon Newspapers online][oregonnews], the collaborative [Open Online Newspaper Initiative][open-oni] (Open ONI) software development project, and a variety of [digital scholarship projects][uoregon].
+"I am excited to join the IIIF community and build upon the excellent accomplishments of the initiative thus far," Rabun said in a written statement. Formerly the Digital Project Manager and Interim Director of the University of Oregon Libraries' Digital Scholarship Center, Rabun managed the development of the Oregon Digital Hydra repository, the Oregon Digital Newspaper Program (ODNP) and Historic Oregon Newspapers online oregonnews, the collaborative Open Online Newspaper Initiative (Open ONI) software development project, and a variety of digital scholarship projects.
 
 "I am passionate about digital literacy and encouraging the use of digital applications to conduct research, analysis, and dissemination as an extension of traditional academia, and I look forward to strengthening internal and external communication within the IIIF Consortium and broader community, organizing documentation and training efforts, and building new partnerships through increased outreach and advocacy," said Rabun.
 
@@ -20,10 +20,5 @@ Rabun will serve as an employee of the Council on Library Information Resources 
 
 The Community & Communications Officer role is made possible with funding from the IIIF Consortium. Nearly three dozen institutions that have banded together to provide financial, logistical, technological support and content to advance IIIF. If you would like to join IIIF-C as a Founding Member, please email [iiif-secretariat@googlegroups.com][iiif-secretariat].
 
-[iiif-secretariat]: mailto:iiif-secretariat@googlegroups.com
-[oregondigital]: https://oregondigital.org/catalog/
-[odnp]: http://odnp.uoregon.edu/
-[oregonnews]: http://oregonnews.uoregon.edu/
-[open-oni]: https://github.com/open-oni/open-oni
-[uoregon]: https://library.uoregon.edu/digitalscholarship/digital-projects
+[iiif-secretariat]: mailto:iiif-staff@iiif.io
 [iiif-c]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/

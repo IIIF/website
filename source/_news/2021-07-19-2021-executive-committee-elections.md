@@ -5,13 +5,13 @@ date: 2021-07-19
 tags: [news, announcements]
 layout: post
 excerpt: >
-  We are happy to announce that Ghent University Library has joined the Consortium as a full member. 
+  All full members of the IIIF Consortium are eligible to stand in the October 2021 elections for one of 11 Executive Committee seats. 
 ---
 
-All [full members of the IIIF Consortium]({{ site.baseurl }}/community/consortium/#full-members) are eligible to stand in the October 2021 elections for to one of 11 Executive Committee seats. Please send nominations, including self-nominations, to [Josh Hadro, managing director of the IIIF Consortium](mailto:josh.hadro@iiif.io) and [Michael A. Keller, chair of the IIIF Consortium and its Executive Committee](mailto:makeller@stanford.edu ) by 15 September 2021.
+All [full members of the IIIF Consortium]({{ site.root_url | absolute_url }}/community/consortium/members/) are eligible to stand in the October 2021 elections for one of 11 Executive Committee seats. Please send nominations, including self-nominations, to [Josh Hadro, managing director of the IIIF Consortium](mailto:josh.hadro@iiif.io) and [Michael A. Keller, chair of the IIIF Consortium and its Executive Committee](mailto:makeller@stanford.edu ) by 15 September 2021.
 
 ## Background
-Under the terms of our ["Next Steps"](https://iiif.io/community/consortium/next_steps/ ), agreed on in April 2018, 11 of 13 members of the Executive Committee have expiring terms this year. IIIF-C will conduct an election in October 2021 to elect 11 institutions to the Executive Committee for one-, two-, or three-year terms, from among the full membership of the consortium. 
+Under the terms of our ["Next Steps"]({{ site.root_url | absolute_url }}/community/consortium/next_steps/ ), agreed on in April 2018, 11 of 13 members of the Executive Committee have expiring terms this year. IIIF-C will conduct an election in October 2021 to elect 11 institutions to the Executive Committee for one-, two-, or three-year terms, from among the full membership of the consortium. 
 
 All members of the IIIF Executive Committee are eligible to stand for re-election. The J. Paul Getty Trust and Europeana were re-elected last year, and will continue to serve on the Executive Committee for two more years.
 

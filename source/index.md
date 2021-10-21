@@ -2,7 +2,7 @@
 layout: default
 title: Home
 hero:
-  image: "assets/uploads/doshisha_103500_.webp"
+  image: "assets/uploads/doshisha_103500_.jpg"
   title: Gain richer access to the world's image and audio/visual files
   subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading academic and cultural institutions.
   button:
@@ -10,7 +10,7 @@ hero:
     link: "/get-started"
 iiif_basics_carousel:
   - resource:
-      url: 'assets/uploads/wellcome_zebrafish.webp'
+      url: 'assets/uploads/wellcome_zebrafish.png'
       type: image
       alt_text: "Wellcome Collection screenshot"
       caption: 'The Wellcome Collection uses IIIF to make medical and scientific materials available via a Mirador viewer, and to offer multiple image download sizes to users.'
@@ -18,7 +18,7 @@ iiif_basics_carousel:
       url: "/demos"
       label: 'View demos'
   - resource:
-      url: 'assets/uploads/micrio-night-watch.webp'
+      url: 'assets/uploads/micrio-night-watch.png'
       type: image
       alt_text: "Micrio screenshot"
       caption: 'The Rijksmuseum features rich online exhibitions driven by IIIF annotations.'
@@ -26,7 +26,7 @@ iiif_basics_carousel:
       url: "/demos"
       label: 'View demos'
   - resource:
-      url: 'assets/uploads/SAT Taishōzō Image DB.webp'
+      url: 'assets/uploads/SAT Taishōzō Image DB.png'
       type: image
       alt_text: "SAT Taishōzō Image DB screenshot"
       caption: 'The SAT Daizokyo Database Project includes individual mandalas with over 400 IIIF annotations, using Mirador.'
@@ -57,15 +57,15 @@ demos:
 features:
   - label: Great for researchers
     description: Examine, compare, annotate, and share. IIIF enables easy use across repositories, with tools to aid research and presentation.
-    image: assets/images/icons/research@2x.webp
+    image: assets/images/icons/research@2x.png
     alt_text: Magnifying glass icon
   - label: Efficient for developers
     description: Publish once, reuse often. IIIF serves high-quality digital objects to your own site and others in many formats, without vendor lock-in.
-    image: assets/images/icons/developer@2x.webp
+    image: assets/images/icons/developer@2x.png
     alt_text: Code prompt icon
   - label: Practical for leaders
     description: Share your collections as widely as possible. IIIF is a cost-effective way to serve billions of digital objects with open-source, community-driven ethics.
-    image: assets/images/icons/leader@2x.webp
+    image: assets/images/icons/leader@2x.png
     alt_text: Hand holding flag icon
 community_banner:
   image: "assets/images/heroes/event@3x.webp"
@@ -162,17 +162,5 @@ IIIF is funded by a global consortium, and leveraged by aggregators, research in
 
 {% include blocks/event-cards.html items=site.data.events limit=4 %}
 {% include misc/button.html button_label="View All" button_link="/events" %}
-
-
-{{ theme.block-end }}
-
-
-
-{{ theme.block-center-start }}
-
-## Get involved and stay connected
-Anyone can participate in the IIIF community. Find the way that’s right for you!
-
-{% include blocks/cards.html items=page.stay_connected_cards %}
 
 {{ theme.block-end }}

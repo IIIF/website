@@ -66,13 +66,12 @@ Notes:
 
   * Contact [Reservations.reylof@sandton.eu](mailto:Reservations.reylof@sandton.eu) and use code "Ugent Shared Canvas"
 
-
 ## &nbsp; NH Gent Belfort
 
 Hoogpoort 63
 9000 Gent
 
-[http://www.nh-hotels.com/](http://www.nh-hotels.com/)
+http://www.nh-hotels.com/
 
 Prices:
 
