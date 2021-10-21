@@ -4,6 +4,12 @@ title: Demos
 subtitle: >
   Get inspired by the work of our community.
 permalink: /demos/
+redirect_from:
+  - /apps-demos/
+  - /showcase/e-codices/
+  - /showcase/satdb/
+  - /showcase/ycba/
+  - /showcase/georeferencer/
 iiif_basics_carousel:
   - resource:
       url: 'assets/uploads/wellcome_zebrafish.png'

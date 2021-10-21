@@ -6,6 +6,7 @@ subtitle: >
 permalink: /get-started/
 redirect_from:
   - /technical-details/
+  - /explainers/using_iiif_resources/
 hero:
   image: "assets/images/heroes/hero-2@3x.webp"
 intro_tabs:

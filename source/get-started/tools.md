@@ -27,8 +27,9 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [StrollView](https://seige.digital/en/strollview/) - StrollView is a cross-institutional storytelling application.
 - [Wax](https://minicomp.github.io/wax/) - a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility.
 
-### Recent community tools
+<!-- ### Recent community tools
 
 {% for example in site.data.recent_tools %}
 - [{{example.name}}]({{example.url}}){%if example.creators%} by {{example.creators}}{% endif %} - {{example.description}} {%if example.demo%}(<a href="{{example.demo}}">Demo</a>){% endif %} {%if example.github%}(<a href="{{example.github}}">Github</a>){% endif %}
 {% endfor %}
+ -->
