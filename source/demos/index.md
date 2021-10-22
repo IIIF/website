@@ -83,8 +83,8 @@ viewers:
       type: image
       alt_text: 'Universal Viewer screenshot'
       caption: "Universal Viewer"
-    link: 'get-started/iiif-viewers/'
-      url:
+    link: 
+      url: 'https://universalviewer.io/'
       label: 'View more'
   - resource:
       url: 'assets/uploads/mirador.png'
