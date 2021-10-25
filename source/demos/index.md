@@ -77,6 +77,14 @@ annotations_carousel:
     link:
       url: 'https://exhibit.so/exhibits/CroUAX4iXUatej7Jy8aP'
       label: 'View more'
+  - resource:
+      url: 'assets/uploads/movie_maps.png'
+      type: image
+      alt_text: 'Movie Maps screenshot'
+      caption: "The Leventhal Center at the Boston Public Library's Movie Maps project uses IIIF annotations to provide video narration timed with guided viewing, enabling an engaging tour through an image such as the map shown here."
+    link:
+      url: 'https://www.leventhalmap.org/articles/roll-the-tape-with-moviemaps/'
+      label: 'View more'
 fun: 
   - resource:
       url: 'assets/uploads/getty_animal_crossing_art_generator.png'
@@ -87,22 +95,6 @@ fun:
       url: 'https://experiments.getty.edu/ac-art-generator'
       label: 'View more'
   - resource:
-      url: 'assets/uploads/movie_maps.png'
-      type: image
-      alt_text: 'Movie Maps screenshot'
-      caption: "Movie Maps"
-    link:
-      url: 'https://www.leventhalmap.org/articles/roll-the-tape-with-moviemaps/'
-      label: 'View more'
-  - resource:
-      url: 'assets/uploads/manuscript_puzzle.png'
-      type: image
-      alt_text: 'Manuscript Puzzle screenshot'
-      caption: "Slider manuscript puzzles - drag-and-drop puzzles and a Medieval Word Maker, created by Ben Albritton, Stanford University Libraries."
-    link:
-      url: 'http://blalbrit.github.io/puzzles'
-      label: 'View more'
-  - resource:
       url: 'assets/uploads/ccdragontv.png'
       type: image
       alt_text: 'OpenCCTVdragon screenshot'
@@ -110,6 +102,22 @@ fun:
     link:
       url: 'http://opencctvdragon.cogapp.com/'
       label: 'View more'
+  - resource:
+      url: 'assets/uploads/antlitz-ninja.png'
+      type: image
+      alt_text: 'Antlitz Ninja'
+      caption: "Antlitz Ninja, created by Leander Siege as part of Germany's Coding da Vinci hackathon, uses an OpenSeadrgaon viewer along with the Image and Presentation APIs to enable zooming and realignment of paintings to create of Exquisite Corpse portraits on the fly."
+    link:
+      url: 'https://antlitz.ninja/'
+      label: 'View more'
+  - resource:
+      url: 'assets/uploads/manuscript_puzzle.png'
+      type: image
+      alt_text: 'Manuscript Puzzle screenshot'
+      caption: "Ben Albritton of Stanford University Libraries created drag-and-drop puzzles featuring Medieval manuscripts using the IIIF Image API and HTML canvases."
+    link:
+      label: 'View more'
+      url: 'http://blalbrit.github.io/puzzles'
 ---
 
 {{ theme.block-center-start }}
