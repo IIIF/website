@@ -25,15 +25,15 @@ cards:
   - label: Share your news & events
     description: Send us your latest IIIF news and events listings for inclusion in our monthly newsletter.
     link_text: Share
-    link: ''
-  - label: Host event
+    link: 'https://docs.google.com/forms/d/e/1FAIpQLSetIpJYr9yq827QD7Bl0J31q4E2w0_O-8bUjoqX4XYKm7eU8A/viewform'
+  - label: Host an event
     description: Want to host a local in-person or online event? We have a guide for that.
-    link_text: Read
-    link: ''
+    link: '/event/host-your-own-IIIF-event/'
+    link_text: Learn more
   - label: Watch a recording
-    description: Catch up on presentations from recent events.
+    description: Catch up on presentations from recent calls and events.
+    link: '/get-started/talks/'
     link_text: Watch
-    link: ''
 
 ---
 
