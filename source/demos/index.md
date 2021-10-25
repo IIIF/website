@@ -70,7 +70,7 @@ annotations_carousel:
       url: 'http://codh.rois.ac.jp/software/kuronet-text-editor/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json//02fb226f-a249-4403-9363-c032324aa1e8&mode=annotation&lang=en'
       label: 'View more'
   - resource:
-      url: 'assets/uploads/exhibit.png'
+      url: 'assets/uploads/exhibit-muybridge.png'
       type: image
       alt_text: 'Exhibit.so exhibition and education tool screenshot'
       caption: 'Exhibit is an educational tool developed by the University of St Andrews and Mnemoscene in response to remote teaching needs during the Covid-19 pandemic. It allows users to easily develop guided annotation experiences for individual or grouped IIIF resource using the <a href="https://universalviewer.io/">Universal Viewer</a> and IIIF annotations. In this example, annotation text guides the viewer through IIIF-enabled images from the collection at St Andrews which depict Edweard Muybridge’s accidental creation of the first motion picture. While the tool was developed for faculty at the University to use in teaching, it is openly available to users anywhere and works with any IIIF-enabled resource that makes a Manifest file openly available.'
