@@ -23,7 +23,7 @@ iiif_basics_carousel:
       url: 'assets/uploads/nationalmuseum.png'
       type: image
       alt_text: 'Nationalmuseum screenshot'
-      caption: 'Nationalmuseum has implemented the IIIF Image API and an <a href="https:openseadragon.github.io">OpenSeadragon</a> viewer. Combined, these allow smooth, deep zooming on high-resolution images as well as provding the ability for the museum to switch out front end tools such as viewers and back end systems such as servers without a major rebuild of their site.'
+      caption: 'Nationalmuseum has implemented the IIIF Image API and an <a href="https://openseadragon.github.io">OpenSeadragon</a> viewer. Combined, these allow smooth, deep zooming on high-resolution images as well as provding the ability for the museum to switch out front end tools such as viewers and back end systems such as servers without a major rebuild of their site.'
     link:
       url: 'http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=direct/1/ResultDetailView/result.inline.lightbox.t1.collection_lightbox.$TspTitleImageLink.link&sp=13&sp=Sexhibition&sp=SfilterDefinition&sp=0&sp=2&sp=3&sp=SdetailView&sp=11&sp=Sdetail&sp=1&sp=T&sp=0&sp=Slightbox_3x4&sp=0&sp=T&sp=1#exhibitionReferences'
       label: 'View more'
@@ -40,7 +40,7 @@ enhance_collections_carousel:
       url: 'assets/uploads/biblissima_1.png'
       type: image
       alt_text: 'Biblissima screenshot'
-      caption: 'Biblissima uses the IIIF Image and Presentation APIs with an <a href="https:openseadragon.github.io">OpenSeadragon</a> viewer to re-unite separated objects. At some point in history, illustrations were cut from the pages of Manuscript 5 of the Municipal Library of Châteauroux and sold. Today, the manuscript is held in the collections of the Bibliothèque virtuelle des manuscrits médiévaux, and the missing illustrations are held in the collection of the Bibliothèque nationale de France. Both institutions make their collections openly available via IIIF, allowing Biblissima to digitally reunite the missing illustrations with their pages so researchers can view them as intended.'
+      caption: 'Biblissima uses the IIIF Image and Presentation APIs with an <a href="https://openseadragon.github.io">OpenSeadragon</a> viewer to re-unite separated objects. At some point in history, illustrations were cut from the pages of Manuscript 5 of the Municipal Library of Châteauroux and sold. Today, the manuscript is held in the collections of the Bibliothèque virtuelle des manuscrits médiévaux, and the missing illustrations are held in the collection of the Bibliothèque nationale de France. Both institutions make their collections openly available via IIIF, allowing Biblissima to digitally reunite the missing illustrations with their pages so researchers can view them as intended.'
     link:
       url: 'https://demos.biblissima.fr/chateauroux/osd-demo/'
       label: 'View more'
@@ -98,7 +98,7 @@ fun:
       url: 'assets/uploads/ccdragontv.png'
       type: image
       alt_text: 'OpenCCTVdragon screenshot'
-      caption: 'Using a combination of IIIF images, <a href="https:openseadragon.github.io">OpenSeadragon</a> and WebSockets, Cogapp playfully explores what surveillance of visitor activity might look like in a scenario where up to 9 participants can browse a collection of zoomable images, whilst having their activity monitored in real time in a simulated control room.'
+      caption: 'Using a combination of IIIF images, <a href="https://openseadragon.github.io">OpenSeadragon</a> and WebSockets, Cogapp playfully explores what surveillance of visitor activity might look like in a scenario where up to 9 participants can browse a collection of zoomable images, whilst having their activity monitored in real time in a simulated control room.'
     link:
       url: 'http://opencctvdragon.cogapp.com/'
       label: 'View more'
@@ -106,7 +106,7 @@ fun:
       url: 'assets/uploads/antlitz-ninja.png'
       type: image
       alt_text: 'Antlitz Ninja screenshot'
-      caption: 'Antlitz Ninja, created by Leander Siege for the Coding da Vinci hackathon in Germany, uses an <a href="https:openseadragon.github.io">OpenSeadragon</a> viewer along with the Image and Presentation APIs to enable zooming and realignment of paintings to create Exquisite Corpse portraits on the fly.'
+      caption: 'Antlitz Ninja, created by Leander Siege for the Coding da Vinci hackathon in Germany, uses an <a href="https://openseadragon.github.io">OpenSeadragon</a> viewer along with the Image and Presentation APIs to enable zooming and realignment of paintings to create Exquisite Corpse portraits on the fly.'
     link:
       url: 'https://antlitz.ninja/'
       label: 'View more'
