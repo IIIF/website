@@ -5,20 +5,7 @@ subtitle: >
   There are many ways to get involved with IIIF as an individual, a team, or an organization. Find the way that works for you!
 permalink: /get-involved/
 hero:
-  image: "assets/images/heroes/event@2x.webp"
-events:
-  - date: 2021-04-04
-    title: IIIF Museums group call
-    location: Virtual (Zoom)
-  - date: 2021-03-23
-    title: IIIF Maps group call
-    location: Virtual (Zoom)
-  - date: 2021-02-12
-    title: IIIF Archives group call
-    location: Virtual (Zoom)
-  - date: 2021-01-01
-    title: IIIF Discovery group call
-    location: Virtual (Zoom)
+  image: "assets/images/heroes/event_2.webp"
 more_resources_cards:
   - label: Explore community groups
     description: Our community groups include affinity and technical groups and meet regularly to discuss ways of using IIIF.
@@ -69,9 +56,12 @@ Organizations and institutions can join the consortium, with a range of benefits
 
 {{ theme.block-center-start }}
 
-## Upcoming events
+## Upcoming community group meetings
 
-{% include blocks/event-cards.html items=page.events %}
+{% include blocks/event-cards.html limit=4 type='community_call' %}
+
+{% include misc/button.html button_label='View All' button_link='/news-and-events/#community-group-meetings' %}
+
 
 
 {{ theme.block-end }}
