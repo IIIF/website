@@ -68,7 +68,7 @@ features:
     image: assets/images/icons/leader@2x.png
     alt_text: Hand holding flag icon
 community_banner:
-  image: "assets/images/heroes/event@3x.webp"
+  image: "assets/images/heroes/event_2.webp"
   button:
     label: "Learn more"
     link: "/get-involved"
