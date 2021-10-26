@@ -3,6 +3,7 @@ layout: page
 title: Host your own IIIF event
 redirect_from:
   - /event/host_your_own_IIIF_event/
+  - /event/conference_guidelines/
 breadcrumbs:
   - label: News & Events
     link: '{{ site.root_url }}/news-and-events/'
