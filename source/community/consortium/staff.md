@@ -8,6 +8,8 @@ breadcrumbs:
    link: /community/consortium
 redirect_from:
   - /community/policy/support/
+  - /community/policy/
+
 ---
 
 ## Josh Hadro, Managing Director
