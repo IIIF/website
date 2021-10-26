@@ -5,10 +5,8 @@ subtitle: >
   Whether you're a developer, researcher, librarian, collection manager, or someone else, your work with digital collections can benefit from IIIF technology and tools.
 permalink: /get-started/
 redirect_from:
-  - /technical-details/
   - /explainers/using_iiif_resources/
   - /comingsoon/
-  - /technical-details-old/
 hero:
   image: "assets/images/heroes/hero-2@3x.webp"
 intro_tabs:
