@@ -6,6 +6,7 @@ layout: page
 redirect_from:
   - /about.html
   - /about/
+  - /why-iiif/
 ---
 
 ## Rich image delivery

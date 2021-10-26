@@ -4,6 +4,8 @@ subtitle: >
   The IIIF community has many facets, from Community and Technical Specification Groups to Editors, committees, and more. All our work is guided by our Code of Conduct.
 id: community
 layout: page
+redirect_from:
+  - /community/cfp/
 hero:
     image: "assets/uploads/2019-06-IIIF-Conference-0705.jpg"
 breadcrumbs:

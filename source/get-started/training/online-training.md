@@ -6,6 +6,7 @@ tags: [training ]
 redirect_from:
   - /training+outreach/online_training  
   - /training/online_training
+  - /training+outreach/online_training/
 breadcrumbs:
  - label: Get Started
    link: /get-started/
