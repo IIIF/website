@@ -53,6 +53,14 @@ implementer_cards:
     description: Go straight to the documentation describing the current and draft specifications.
     image: ''
     link: '{{ site.api_url | absolute_url }}'
+  - label: Get recipes
+    description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
+    image: ''
+    link: "{{ site.cookbook_url | absolute_url }}"
+  - label: Read guides
+    description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
+    image: ''
+    link: '{{ site.guides_url | absolute_url }}'
   - label: IIIF-compliant vendors
     description: View a list of vendors that allow you to serve your resources via IIIF without building your own ecosystem.
     image: ''
@@ -73,27 +81,19 @@ implementer_cards:
     description: Try out the IIIF validators for the Image and Presentation APIs.
     image: ''
     link: '{{ site.api_url | absolute_url}}/#validators'
-  - label: Get recipes
-    description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
-    image: ''
-    link: "{{ site.cookbook_url | absolute_url }}"
-  - label: Read guides
-    description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
-    image: ''
-    link: '{{ site.guides_url | absolute_url }}'
 more_resources_cards:
   - label: Talks
     description: Learn from other’s experience implementing IIIF by watching conference presentations.
     link_text: Learn more
     link: '/get-started/talks/'
-  - label: Illustrated Case Studies
-    description: See a breakdown of how major institutions are using IIIF to make their collections available.
+  - label: Outreach Materials
+    description: Anyone can reach out to their community and share information about IIIF. We’ve created some materials to make that easier.
     link_text: Learn more
-    link: ''
+    link: '/get-started/training/outreach-materials/'
   - label: Tools
     description: Check out a variety of tools created by the community.
     link_text: Learn more
-    link: ''
+    link: '/get-started/tools/'
 ---
 
 {{ theme.block-center-start }}
