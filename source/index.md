@@ -74,19 +74,13 @@ community_banner:
     link: "/get-involved"
   title: "Join the community"
   subtitle: "IIIF community groups tackle a range of topics, from implementing IIIF for specific communities to crafting new technical specifications."
-events:
-  - date: 2021-04-04
-    title: IIIF Museums group call
-    location: Virtual (Zoom)
-  - date: 2021-03-23
-    title: IIIF Maps group call
-    location: Virtual (Zoom)
-  - date: 2021-02-12
-    title: IIIF Archives group call
-    location: Virtual (Zoom)
-  - date: 2021-01-01
-    title: IIIF Discovery group call
-    location: Virtual (Zoom)
+top_tabs:
+  - label: Featured IIIF events
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
+  - label: Upcoming Community group meetings
+    content: "<h3>IIIF Calls are always open to anyone!</h3> {% include blocks/event-cards.html limit=4 type='community_call' %}{%- include misc/button.html button_label='View All' button_link='/news-and-events/#call-calendar' -%}"
+  - label: Call calendar
+    content: "{% include misc/community_calendar.html %}"
 stay_connected_cards:
   - label: Attend an event
     description: The community hosts many virtual and in-person trainings, conferences, and other events.
@@ -158,9 +152,20 @@ IIIF is funded by a global consortium, and leveraged by aggregators, research in
 
 {{ theme.block-center-start }}
 
-## Featured events & news
+## Latest news
 
-{% include blocks/event-cards.html items=site.data.events limit=4 %}
-{% include misc/button.html button_label="View All" button_link="/events" %}
+{% include blocks/news-cards.html limit=2 %}{% include misc/button.html button_label='View All News' button_link='/news' %}
+
+{{ theme.block-end }}
+
+
+{{ theme.block-center-start }}
+
+## Events & meetings
+
+{% include blocks/tabs.html  tabs=page.top_tabs %}
+
+
+
 
 {{ theme.block-end }}
