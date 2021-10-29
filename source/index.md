@@ -78,7 +78,7 @@ top_tabs:
   - label: Featured events
     content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
   - label: Group meetings
-    content: "<h3>IIIF Calls are open to all.</h3> {% include blocks/event-cards.html limit=4 type='community_call' %}{%- include misc/button.html button_label='View all' button_link='/news-and-events/#call-calendar' -%}"
+    content: "<h3>IIIF group calls are open to all.</h3> {% include blocks/event-cards.html limit=4 type='community_call' %}{%- include misc/button.html button_label='View all' button_link='/news-and-events/#call-calendar' -%}"
   - label: Call calendar
     content: "{% include misc/community_calendar.html %}"
 stay_connected_cards:
