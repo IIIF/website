@@ -75,10 +75,10 @@ community_banner:
   title: "Join the community"
   subtitle: "IIIF community groups tackle a range of topics, from implementing IIIF for specific communities to crafting new technical specifications."
 top_tabs:
-  - label: Featured IIIF events
-    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
-  - label: Upcoming Community group meetings
-    content: "<h3>IIIF Calls are always open to anyone!</h3> {% include blocks/event-cards.html limit=4 type='community_call' %}{%- include misc/button.html button_label='View All' button_link='/news-and-events/#call-calendar' -%}"
+  - label: Featured events
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
+  - label: Group meetings
+    content: "<h3>IIIF group calls are open to all.</h3> {% include blocks/event-cards.html limit=4 type='community_call' %}{%- include misc/button.html button_label='View all' button_link='/news-and-events/#call-calendar' -%}"
   - label: Call calendar
     content: "{% include misc/community_calendar.html %}"
 stay_connected_cards:
@@ -121,10 +121,10 @@ Many of the images and audio/visual resources that are fundamental to research e
 
 {{ theme.block-center-start }}
 
-## Start building with open APIs
+## Start building
 The six IIIF APIs fit together to deliver endless possibilities.
 
-{% include blocks/api-cards.html link_text="View Docs" items=site.data.apis %}
+{% include blocks/api-cards.html link_text="View docs" items=site.data.apis %}
 
 {{ theme.block-end }}
 
@@ -145,7 +145,7 @@ IIIF is funded by a global consortium, and leveraged by aggregators, research in
 
 {% include blocks/logo-grid.html items=logos %}
 
-{% include misc/button.html button_label="View All Consortium Members" button_link="/community/consortium/members" %}
+{% include misc/button.html button_label="View members" button_link="/community/consortium/members" %}
 
 {{ theme.block-end }}
 
@@ -154,7 +154,7 @@ IIIF is funded by a global consortium, and leveraged by aggregators, research in
 
 ## Latest news
 
-{% include blocks/news-cards.html limit=2 %}{% include misc/button.html button_label='View All News' button_link='/news' %}
+{% include blocks/news-cards.html limit=2 %}{% include misc/button.html button_label='View all' button_link='/news' %}
 
 {{ theme.block-end }}
 
