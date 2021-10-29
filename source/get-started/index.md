@@ -46,19 +46,10 @@ implementer_cards:
     link: '{{ site.api_url | absolute_url }}'
   - label: Get recipes
     description: Browse the Cookbook, a community initiative to string together commonly used functions into code “recipes” that can be easily reused.
-<<<<<<< HEAD
-    image: ''
-    link: "{{ site.cookbook_url | absolute_url }}"
-  - label: Read guides
-    description: Topics include pre-implementation requirements, interoperability best practices, UX best practices, and more.
-    image: ''
-    link: '{{ site.guides_url | absolute_url }}'
-=======
     link: "{{ site.cookbook_url | absolute_url }}"
   - label: Guide for IIIF Implementers
     description: This brief guide will lead you through some of the decision points to help get you going with IIIF.
     link: "{{ site.guides_url | absolute_url }}/guide_for_implementers/"
->>>>>>> wireframe
   - label: IIIF-compliant vendors
     description: View a list of vendors that allow you to serve your resources via IIIF without building your own ecosystem.
     link: '/get-started/vendors/'
