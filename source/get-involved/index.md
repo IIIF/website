@@ -60,7 +60,7 @@ Organizations and institutions can join the consortium, with a range of benefits
 
 {% include blocks/event-cards.html limit=4 type='community_call' %}
 
-{% include misc/button.html button_label='View all' button_link='/news-and-events/#community-group-meetings' %}
+{% include misc/button.html button_label='View all' button_link='/news-and-events/#group-meetings' %}
 
 
 
