@@ -1,22 +1,22 @@
 ---
 layout: default
 title: News & Events
-subtitle: Stay up to date on the latest events, community calls, and news.
+subtitle: Stay up to date on events, upcoming community calls, and news.
 permalink: /news-and-events/
 hero:
   image: ''
 top_tabs:
-  - label: Featured IIIF events
+  - label: Featured events
     content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
-  - label: Community group meetings
+  - label: Group meetings
     content: "{%- include blocks/event-cards.html limit=4 type='community_call' -%}{%- include misc/button.html button_label='View All' button_link='/events' -%}"
   - label: Call calendar
     content: "{% include misc/community_calendar.html %}"
 banner:
-  title: "Get monthly updates on IIIF"
+  title: "Get monthly updates"
   color: '#001927'
   button:
-    label: "Sign Up for Newsletter"
+    label: "Sign up"
     link: "/newsletter/"
 quote:
   text: "The technical stuff is hard. It’s dealing with a hard thing. It’s modelling something that’s complex. It’s going to be tricky to get to grips with. The thing that made the difference was attending my first IIIF conference."
@@ -48,9 +48,9 @@ cards:
 
 {{ theme.block-center-start }}
 
-## Featured News
+## Featured news
 
-{% include blocks/news-cards.html limit=2 %}{% include misc/button.html button_label='View All' button_link='/news' %}
+{% include blocks/news-cards.html limit=2 %}{% include misc/button.html button_label='View all' button_link='/news' %}
 
 {{ theme.block-end }}
 
@@ -62,7 +62,7 @@ cards:
 
 {{ theme.block-center-start }}
 
-## What People Are Saying
+## What people are saying
 
 {% include blocks/pullquote.html quote=page.quote %}
 
@@ -74,7 +74,7 @@ cards:
 
 {{ theme.block-center-start }}
 
-## Contribute To Our Community
+## Contribute to the community
 
 {% include blocks/cards.html items=page.cards %}
 

@@ -31,7 +31,7 @@ The Consortium is guided by three committees which members may join:
 *   [Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#operating-committee) - A group consisting of a Chair, Vice-Chair, Secretary, and Treasurer selected from the Executive Committee who meet monthly to ensure the strategic direction set by the Executive Committee is being achieved.
 *   [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc) - This committee is made up of appointees from Consortium member institutions with technical backgrounds, who vote monthly to approve or reject proposed changes to the specifications, cookbook recipes, and technical community groups.
 
-## Join the Consortium
-Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership include a range of benefits.
+## Join
+Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership include a range of benefits.   
 <br>
 <div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}</div>
