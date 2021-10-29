@@ -124,7 +124,7 @@ Many of the images and audio/visual resources that are fundamental to research e
 ## Start building
 The six IIIF APIs fit together to deliver endless possibilities.
 
-{% include blocks/api-cards.html link_text="View Docs" items=site.data.apis %}
+{% include blocks/api-cards.html link_text="View docs" items=site.data.apis %}
 
 {{ theme.block-end }}
 
