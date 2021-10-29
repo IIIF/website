@@ -5,7 +5,7 @@ permalink: /events/
 ---
 {{ theme.block-center-start }}
 
-<h2>All Upcoming Events</h2>
+<h2>All upcoming events</h2>
 
 {%- include blocks/event-cards.html -%}
 
@@ -15,7 +15,7 @@ permalink: /events/
 
 {{ theme.block-center-start }}
 
-<h2>Past Events</h2>
+<h2>Past events</h2>
 
 <div class="block columns is-multiline">
   {% assign items = site.data.pastevents | sort: 'start_date' | reverse  %}
@@ -40,7 +40,7 @@ permalink: /events/
         <p class="has-text-left margin-unset">
             
           {% if event.url %} 
-              <b><a class="serif" href="{{ event.url | absolute_url }}">Read More</a></b>
+              <b><a class="serif" href="{{ event.url | absolute_url }}">Read more</a></b>
           {% endif %}
         </p>
       </div>

@@ -17,16 +17,16 @@ The IIIF Code of Conduct guides our behavior as members of the IIIF Community in
 
 ## Community ideals
 
-**Inclusivity**
+**Inclusivity**   
 We believe everyone is a valuable contributor to the community regardless of physical or intellectual ability, gender, sexual orientation, physical appearance, race, religion, nationality, language, employment source or status, financial ability, and any other facets of community dynamics not mentioned here. While the community primarily communicates in English at this point, we recognize that it is not the native language for many in the community and strive to express ourselves simply and clearly. We provide opportunities for participation despite challenges of ability, time, geography, finances, etc.
 
-**Collaboration**
+**Collaboration**   
 We collaborate to share the community’s workload and to ensure a variety of needs and voices are accounted for. We do our work as transparently as possible, establishing guidelines for contributing and sharing current and historical community information openly, and welcome new collaborators with enthusiasm.
 
-**Respect**
+**Respect**   
 The IIIF community is respectful of and open to differing opinions, viewpoints, experiences, and backgrounds. When we make a mistake we accept responsibility, apologize, and learn from the experience. We give and gracefully accept constructive feedback.
 
-**Greater good**
+**Greater good**   
 We do work that benefits the community. We notice, call attention to, and help resolve potential problems. Community members should model good behavior and feel empowered to be [active bystanders](https://www.diglib.org/active-bystander-orientation/) to call out improper behavior and step in to help resolve issues without waiting to escalate to a higher power.
 
 ## Unacceptable behaviors
@@ -54,7 +54,7 @@ If you are subject to or witness harassment, please contact the Code of Conduct 
 
 You will receive an email or verbal confirmation that your report has been received. Within one week you will receive a resolution and course of action or explanation of why the situation is unresolved and continues to be evaluated.
 
-## Code of Conduct Committee Members
+## Committee members
 The current IIIF Code of Conduct Committee Members are:
 * Josh Hadro (IIIF-C)
 * Glen Robson (IIIF-C)
@@ -84,7 +84,7 @@ This evaluation and plan for action are to be completed and communicated to the 
 
 If the Code of Conduct Committee determines a public response is necessary following the incident, it will notify the community and/or event attendees via the most appropriate channel(s). The Committee will also provide an annual, anonymized report describing any reported incidents and actions taken in response. All correspondence and notes related to the incident will be kept in a private folder only accessible by IIIF Consortium staff and the Code of Conduct Committee.
 
-## Appeal Process
+## Appeal process
 To appeal a decision of the Code of Conduct Committee, contact the IIIF Coordinating Committee at <iiif-cocommittee@googlegroups.com> with your appeal and the committee members will review the case. If there is a potential conflict of interest, parties will be asked to recuse themselves.
 
 ## Acknowledgements
@@ -94,7 +94,7 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 
 <hr>
 
-## Change Log
+## Change log
 
 | Date       | Description                                                         |
 | ---------- | ------------------------------------------------------------------- |

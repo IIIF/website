@@ -174,6 +174,6 @@ IIIF's flexibility extends beyond research environments. Take a look at some of 
 
 Whether you're a developer, researcher, librarian, collection manager, or someone else, your work with digital collections can benefit from IIIF technology and tools.
 
-{% include misc/button.html button_label="Get Started" button_link="/get-started" %}
+{% include misc/button.html button_label="Get started" button_link="/get-started" %}
 
 {{ theme.block-end }}
