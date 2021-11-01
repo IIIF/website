@@ -13,5 +13,7 @@
     start: 2021-11-16T16:00:00Z
     end: 2021-11-18T20:00:00Z
   links:
+    - label: More info
+      link: "event/2021/fall_working_meeting/"
     - label: Register
       link: https://www.eventbrite.com/e/2021-iiif-fall-working-meeting-tickets-176398561847
