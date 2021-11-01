@@ -24,14 +24,14 @@ next_resources:
 {{ theme.block-start }}
 <div class="content" markdown="1">
 
-{% include content/inline-image.html image="assets/images/zeplin/delivery@3x.png" alt_text="delivery diagram" caption="A diagram of how IIIF delivery works." float="right"%}
-
-
 ## Introduction
 Learning about IIIF (generally pronounced "triple-eye-eff") can be overwhelming at first, especially if you’re not a programmer, so we've created a plain-language guide for newcomers. We've also created a glossary of ["Key concepts you’ll encounter when working with IIIF"]({{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif) which you'll find at the end of this page.
 
+As you are learning, please know that the community is here to help. Feel free to reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list ([iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss)) with any questions. There's also a [self-paced online tutorial]({{ site.training_url | absolute_url }}/iiif-online-workshop/) that may be a useful next step for newcomers. 
 
-As you're learning, know that the community is here to help. Feel free to reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list, [iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss) with any questions. There's also a [self-paced online tutorial]({{ site.training_url | absolute_url }}/iiif-online-workshop/) that may be a useful next step for newcomers. 
+
+{% include content/full-width-image.html image="assets/images/zeplin/delivery@3x.png" image_link="/assets/images/zeplin/delivery@3x.png" alt_text="delivery diagram" caption="A diagram of how the core IIIF APIs work together." %}
+
 
 ## The basics
 
@@ -45,20 +45,21 @@ IIIF makes these objects work in a consistent way. That enables portability acro
 
 There are two main components to IIIF: delivering digital objects to sites and viewing them.
 
-{%- capture capture_text1 -%}
 ###   Delivering objects
 
-The Image API defines how image servers deliver image pixels to a viewer. It allows the image to be sent as a full-sized image or as a smaller size, a zoomed portion, a rotated view, or as a black and white version. All of these settings are designated by changing portions of the URL for an Image API resource. The Image API can be implemented on its own (most commonly to enable fast, deep zoom of very high resolution files like TIF and JP2000), or alongside the Presentation API for additional viewing capabilities.
-{% endcapture -%}
+The Image API defines how image servers deliver image pixels to a viewer. It allows the image to be sent as a full-sized image or as a smaller size, a zoomed portion, a rotated view, or as a black and white version. All of these settings are designated by changing portions of the URL for an Image API resource. To try it out for yourself, head over to this [Image API Playrground](https://www.learniiif.org/image-api/playground) and adjust some of the Image API parameters to see how they work with real images.
 
-{%- include blocks/image-and-text.html image_align='right' image='assets/uploads/image-api-filler.png' alt_text="Image API filler" content=capture_text1 caption='The image API controls the form in which an image is delivered to a location on the Web.' -%}
 
-{%- capture capture_text2 -%}
+The Image API can be implemented on its own (most commonly to enable fast, deep zoom of very high resolution files like TIF and JP2000), or alongside the Presentation API for additional viewing capabilities.
+
+{% include content/full-width-image.html image='https://iiif.io/api/image/1.0/images/iiif-order.png' image_link='https://iiif.io/api/image/1.0/images/iiif-order.png' alt_text="Image API filler" caption='The image API controls the form in which an image is delivered to a location on the Web.' %}
+
+
 ###   Viewing objects
 
-The Presentation API attaches basic metadata and structure to digital objects, defining how they appear in viewers. It does this via the Manifest, a JSON file which bundles up all the different elements of an IIIF object (such as a single image, or a series of images) with basic metadata (like title, description, and rights information) and structural information (such as page order). ([See the glossary below]({{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif) for more definitions of common IIIF terms.){%- endcapture -%}
+The Presentation API attaches basic metadata and structure to digital objects, defining how they appear in viewers. It does this via the Manifest, a JSON file which bundles up all the different elements of an IIIF object (such as a single image, or a series of images) with basic metadata (like title, description, and rights information) and structural information (such as page order). ([See the glossary below]({{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif) for more definitions of common IIIF terms.)
 
-{%- include blocks/image-and-text.html image_align='right' image='assets/uploads/presentation-api-filler.png' alt_text="API filler image" content=capture_text2 caption='The presentation API delivers data and structure about an image to a viewer.' -%}
+{% include content/inline-image.html image='assets/uploads/presentation-api-filler.png' image_link='/assets/uploads/presentation-api-filler.png' alt_text="API filler image" caption='The presentation API delivers data and structure about an image to a viewer.' %}
 
 There are many [IIIF viewers]({{ site.root_url | absolute_url }}/get-started/iiif-viewers/). Some are general purpose tools while others specialize in particular kinds of content or functionality. IIIF-compatible viewers generally allow users to pan, zoom, rotate, and resize image objects, and play audio/visual files. Some allow annotation with text, audio, location, and more. Others allow comparison of objects from a single collection side-by-side (or even objects from multiple collections if the object’s Manifest is made available to users).
 
