@@ -146,7 +146,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 
 ### New Releases
 
-* The J. Paul Getty Museum has published over 30,000 images using IIIF (see press release and [blog][getty-blog])
+* The J. Paul Getty Museum has published over 30,000 images using IIIF (see [blog][getty-blog])
 * Yale Center for British Art [recently announced the addition of more IIIF images][ycba-news] to their online collections
 * Colby College Museum of Art has added IIIF support to their collections
 * Manuscriptorium Digital Library at the National Library of the Czech Republic now supports the IIIF Image and Presentation APIs
