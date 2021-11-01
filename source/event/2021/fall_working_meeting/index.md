@@ -1,8 +1,6 @@
 ---
 title: "2021 Fall Working Meeting, November 16-18, 2021"
-layout: online_event
-tags: [event ]
-page: overview
+layout: event
 ---
 
 **The 2021 Fall Working Meeting will take place online November 16-18 and is free to attend.**
