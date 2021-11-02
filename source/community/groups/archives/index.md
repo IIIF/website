@@ -33,7 +33,7 @@ By participating in the IIIF Archives Community Group, you will help set best pr
 
 **Communication Channels:**
 
-  * Bimonthly calls - see [IIIF Community Calendar][iiif-calendar] for details
+  * Quarterly calls - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [#archives-cg IIIF Slack channel][slack]
 
