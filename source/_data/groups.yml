@@ -107,7 +107,7 @@
   link: https://beta.iiif.io/community/groups/auth-tsg #link to charter
   type: tsg #TSG or community
   notes: https://drive.google.com/drive/u/0/folders/1HF2J5xXl48pVD7WGNlITtcYtyNJaelAb #link to Google Drive folder
-  meeting_frequency:  #One-liner, e.g. Quarterly calls on Wednesdays
+  meeting_frequency: Every 2 weeks on Tuesday #One-liner, e.g. Quarterly calls on Wednesdays
 - id: content-search-tsg # Slug in IIIF url, e.g. D4H
   label: Content Search #Group name
   alternate_names: 
@@ -117,12 +117,12 @@
   type: tsg #TSG or community
   notes: https://drive.google.com/drive/u/0/folders/15Zpng8lwANB5BsBt9wwTswfkjoxcB9oJ #link to Google Drive folder
   meeting_frequency: Every 2 weeks on Tuesday #One-liner, e.g. Quarterly calls on Wednesdays
-- id: # Slug in IIIF url, e.g. D4H
-  label: #Group name
-  alternate_names: 
-    -  #Discovery for humans, D4H; A/V, AV, Audio-visual, audio/visual
-  description: #One sentence description for car
-  link: #link to charter
-  type: #TSG or community
-  notes: #link to Google Drive folder
-  meeting_frequency: #One-liner, e.g. Quarterly calls on Wednesdays
+# - id: # Slug in IIIF url, e.g. D4H
+#   label: #Group name
+#   alternate_names: 
+#     -  #Discovery for humans, D4H; A/V, AV, Audio-visual, audio/visual
+#   description: #One sentence description for car
+#   link: #link to charter
+#   type: #TSG or community
+#   notes: #link to Google Drive folder
+#   meeting_frequency: #One-liner, e.g. Quarterly calls on Wednesdays
