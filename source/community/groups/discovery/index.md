@@ -18,7 +18,7 @@ If successful, the work will enable the collaborative development of global or t
 
   * Antoine Isaac (Europeana)
   * Matt McGrattan (Digirati)
-  * Robert Sanderson (The J. Paul Getty Trust)
+  * Robert Sanderson (Yale University)
 
 **Communication channels:**
 
