@@ -53,7 +53,7 @@
             return div;
         }
 
-        function buildCard(parent, startDate, label, location, links) {
+        function buildCard(parent, startDate, dateOnly, label, location, links) {
 
             let container = createDiv(parent, "column is-half same-height-column");
             let card = createDiv(container, "event-card card box hover-box columns is-gapless is-mobile");
@@ -84,7 +84,11 @@
                 if (location.link) {
                   let anchor =  document.createElement("a");
                   anchor.href = location.link;
-                  anchor.innerHTML = location.label;
+                  if (location.label) {
+                      anchor.innerHTML = location.label;
+                  } else {
+                      anchor.innerHTML = "Virtual (Zoom)";
+                  }
                   eventDetails.appendChild(anchor);
                 } else {
                     if (location.label) {
@@ -103,8 +107,12 @@
             eventDetails.appendChild(document.createTextNode(" "));
             const options = Intl.DateTimeFormat().resolvedOptions();
             let time = document.createElement("time");
-            time.datetime = startDate.toISOString();
-            time.innerHTML = startDate.toLocaleString(options.locale, {timeZone: options.timeZone });
+            if (dateOnly) {
+                time.innerHTML = startDate.toLocaleDateString(options.locale, {timeZone: options.timeZone });
+            } else {
+                time.datetime = startDate.toISOString();
+                time.innerHTML = startDate.toLocaleString(options.locale, {timeZone: options.timeZone });
+            }
             eventDetails.appendChild(time);
             // <time datetime="2021-10-13"> Wednesday, October 13, 2021 at 10:00am
 
@@ -146,7 +154,7 @@
                 } else if (event.summary.toLowerCase().includes("discovery")) {
                     group_page = "{{ site.root_url | absolute_url }}" + events.meetings['IIIF Discovery Technical Specification Group call'].link;
                 }
-                buildCard(parent, new Date(event.start.dateTime), event.summary, null, [{
+                buildCard(parent, new Date(event.start.dateTime), false, event.summary, null, [{
                     'label': 'View in Google Calendar',
                     'link': event.htmlLink
                 },
@@ -161,9 +169,20 @@
             if (limit == 0 || events.length < limit) {
                 limit = events.length;
             }
+            
             for (var i = 0; i < limit; i++) {
                 let event = events[i];
-                buildCard(parent, new Date(event.time.start.dateTime), event.label, event.location, event.links);
+                let start = null;
+                let dateOnly = true;
+                if (event.time.start.dateTime) { 
+                    start = new Date(event.time.start.dateTime);
+                    dateOnly = false;
+                } else {
+                    start = new Date(event.time.start.date);
+                    dateOnly = true;
+                }
+
+                buildCard(parent, start, dateOnly, event.label, event.location, event.links);
             }
         }
 
