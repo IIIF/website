@@ -199,7 +199,7 @@ Rashmi Singhal (Harvard)
 [bodleian-buttons]: http://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+,t+,rsrs+0,rsps+10,fa+ox%3Acollection%5EEphemera,so+ox%3Asort%5Easc,scids+,pid+,vi+
 [4science]: http://www.4science.it/en/iiif-image-viewer/
 [eLife]: https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif
-[eLife-anno]: https://via.hypothes.is/https://www.nature.com/news/annotating-the-scholarly-web-1.18900?error=cookies_not_supported&code=28673ef0-3aa0-40fa-912a-ff3b8078c397
+[eLife-anno]: https://via.hypothes.is/https://www.nature.com/news/annotating-the-scholarly-web-1.18900
 [bbmn]: http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/
 [iiif-design]: {{ site.api_url | absolute_url }}/annex/notes/design_patterns/
 [edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
