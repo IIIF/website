@@ -3,6 +3,8 @@ layout: default
 title: Demos
 subtitle: >
   Get inspired by the work of our community.
+hero:
+  image: "assets/uploads/Shin-Nihon-chokanzu-rumsey.webp"
 permalink: /demos/
 redirect_from:
   - /apps-demos/
