@@ -17,26 +17,19 @@ All of the meetings for the groups listed below are open to the public and can b
 ### Community Groups
 
 Community Groups meet to discuss issues related to current themes and topics, and also often feature demos of relevant work and recent implementations.
-
-  *   [3D]({{ site.root_url | absolute_url }}/community/groups/3d) - Calls on the 3rd Thursday of the month
-  *   [Archives]({{ site.root_url | absolute_url }}/community/groups/archives) - Calls every two months on Tuesdays
-  *   [A/V]({{ site.root_url | absolute_url }}/community/groups/av) - Calls on the 3rd Tuesday of the month
-  *   [Discovery for Humans]({{ site.root_url | absolute_url }}/community/groups/D4H) - Calls on the 4th Wednesday of the month
-  *   [Manuscripts]({{ site.root_url | absolute_url }}/community/groups/manuscripts) - Quarterly calls on Wednesdays
-  *   [Maps]({{ site.root_url | absolute_url }}/community/groups/maps) - Calls every other week on Wednesdays (alternating with Maps TSG listed below)
-  *   [Museums]({{ site.root_url | absolute_url }}/community/groups/museums) - Calls on the first Tuesday of the month
-  *   [Newspapers]({{ site.root_url | absolute_url }}/community/groups/newspapers) - Quarterly calls
-  *   [Outreach]({{ site.root_url | absolute_url }}/community/groups/outreach) - Calls on the last Tuesday of the month
+{% assign community = site.data.groups | where_exp: "group","group.type == 'community'" %}
+{% for group in community %}
+ * [{{group.label}}]({{ site.root_url | absolute_url }}{{group.link}}) - {{group.meeting_frequency }}
+{% endfor%}
 
 ### Technical Specification Groups (TSGs)
 
 Technical Specification Groups are specifically chartered to update existing specifications or create new ones (to see how take a look at the [Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework)). Like Community Groups, all of the meetings for the groups listed below are open to the public and can be joined at any time.
 
-*   [Discovery][discovery] - Calls every other week on Wednesdays
-* [Maps][maps-tsg] -- Calls every other week on Wednesdays (alternating with Maps Community group)
-* [Authentication][auth-tsg] -- Calls every other week on Tuesdays
-* [Content Search][content-search-tsg] -- Calls every other week on Tuesdays
-
+{% assign tsgs = site.data.groups | where_exp: "group","group.type == 'tsg'" %}
+{% for group in tsgs %}
+ * [{{group.label}}]({{ site.root_url | absolute_url }}{{group.link}}) - {{group.meeting_frequency }}
+{% endfor%}
 
 ## Completed Groups and TSGs
 
