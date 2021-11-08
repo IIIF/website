@@ -23,7 +23,7 @@
                 {% endif %}
                 <br>
                 <i class="far fa-calendar-alt"></i>&nbsp;
-                <time datetime="{{ date | date: '%Y-%m-%d' }}">{{ date | date: "%A, %B %e, %Y at %I:%M%P" }}</time>
+                <time datetime="{{ event.time.start | date_to_xmlschema}}">{{ date | date: "%A, %B %e, %Y " }}</time>
                 {% if event.links %}
                   <br><i class="fas fa-link"></i>&nbsp;
                   {% for l in event.links %}
@@ -53,7 +53,19 @@
             return div;
         }
 
-        function buildCard(parent, startDate, dateOnly, label, location, links) {
+        function fixGroupLinks(link) {
+            if (link.indexOf(".") == -1 && !link.endsWith("/")) {
+                link += "/";
+            }
+            let path = "{{ site.root_url | absolute_url }}";
+            if (path.endsWith("/")) {
+                return path + link.substring(1);
+            } else {
+                return path + link.link;
+            }
+        }
+
+        function buildCard(parent, startDate, dateOnly, label, description, organiser, location, links) {
 
             let container = createDiv(parent, "column is-half same-height-column");
             let card = createDiv(container, "event-card card box hover-box columns is-gapless is-mobile");
@@ -78,6 +90,10 @@
             let eventDetails = createDiv(cardContent, "event-details has-text-left");
             eventDetails.style.marginBottom = "0";
 
+            createNode(eventDetails, "i", "fas fa-bullhorn");
+            eventDetails.appendChild(document.createTextNode(" " + organiser));
+            eventDetails.appendChild(document.createElement("br"));
+            
             createNode(eventDetails, "i", "fas fa-map-marked-alt");
             eventDetails.appendChild(document.createTextNode(" "));
             if (location) {
@@ -101,7 +117,6 @@
                 eventDetails.appendChild(document.createTextNode("Virtual (Zoom)"));
             }
 
-
             eventDetails.appendChild(document.createElement("br"));
             createNode(eventDetails, "i", "far fa-calendar-alt");
             eventDetails.appendChild(document.createTextNode(" "));
@@ -123,7 +138,11 @@
                 for (var i = 0; i < links.length; i++) {
                     if (links[i].link) {
                         let anchor =  document.createElement("a");
-                        anchor.href = links[i].link;
+                        if (links[i].link.startsWith('/')) {
+                            anchor.href = fixGroupLinks(links[i].link);
+                        } else {
+                            anchor.href = links[i].link;
+                        }
                         anchor.innerHTML = links[i].label;
                         eventDetails.appendChild(anchor);
 
@@ -132,6 +151,10 @@
                         }
                     }
                 }
+            }
+            if (description) {
+                let desc = createNode(eventDetails, "p", "");
+                desc.innerHTML = description;
             }
         }
 
@@ -143,23 +166,13 @@
             for (var i = 0; i < limit; i++) {
                 let event = weeksCalls[i];
                 let group_page = ""
-                for (const [key, value] of Object.entries(events.meetings)) {
-                    if (key.toLowerCase().includes(event.summary.toLowerCase())) {
-                        group_page = "{{ site.root_url | absolute_url }}" + value.link;
-                        break;
-                    }
-                }
-                if (event.summary.toLowerCase().includes("humans") || event.summary.toLowerCase().includes("d4h")) {
-                    group_page = "{{ site.root_url | absolute_url }}" + events.meetings['Discovery for Humans'].link;
-                } else if (event.summary.toLowerCase().includes("discovery")) {
-                    group_page = "{{ site.root_url | absolute_url }}" + events.meetings['IIIF Discovery Technical Specification Group call'].link;
-                }
-                buildCard(parent, new Date(event.start.dateTime), false, event.summary, null, [{
+                group_page = fixGroupLinks(events.meetings[event.id].link);
+                buildCard(parent, new Date(event.start.dateTime), false, event.name, event.summary, "IIIF Community", null, [{
                     'label': 'View in Google Calendar',
                     'link': event.htmlLink
                 },
                 {
-                    'label': 'Homepage',
+                    'label': 'Group Info Page',
                     'link': group_page
                 }]);
             }
@@ -182,7 +195,7 @@
                     dateOnly = true;
                 }
 
-                buildCard(parent, start, dateOnly, event.label, event.location, event.links);
+                buildCard(parent, start, dateOnly, event.label, event.summary, event.organiser, event.location, event.links);
             }
         }
 
