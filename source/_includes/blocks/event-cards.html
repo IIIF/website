@@ -23,7 +23,7 @@
                 {% endif %}
                 <br>
                 <i class="far fa-calendar-alt"></i>&nbsp;
-                <time datetime="{{ event.time.start | date_to_xmlschema}}">{{ date | date: "%A, %B %e, %Y " }}</time>
+                <time datetime="{{ event.time["start"]}}">{{ date | date: "%A, %B %e, %Y " }}</time>
                 {% if event.links %}
                   <br><i class="fas fa-link"></i>&nbsp;
                   {% for l in event.links %}
@@ -201,6 +201,18 @@
 
       </script>
     <!-- Javascript -->
+      <script>
+        // sort out time elements to be timezone specific
+        let timeTags = document.getElementsByTagName("time");
+        const options = Intl.DateTimeFormat().resolvedOptions();
+        for (var i = 0; i < timeTags.length; i++) {
+            let time = timeTags[i];
+            if (time.dateTime && time.dateTime.includes("T")) {
+                let dateObj = new Date(time.dateTime);
+                time.innerHTML = dateObj.toLocaleString(options.locale, {timeZone: options.timeZone });
+            }
+        }
+      </script>
       {% if include.type and include.type == 'community_call' %}
             <script>
                 let parent = document.currentScript.parentElement;
