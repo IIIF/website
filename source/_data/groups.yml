@@ -12,7 +12,7 @@
   label: Archives 
   alternate_names: 
     - IIIF Archives Interest Group
-  description: The IIIF Archives gropu helps set best practices for IIIF and archival content and influence the international collaborations for providing archival content via open APIs. 
+  description: The IIIF Archives gropu helps set best practices for IIIF and archival content.
   link: /community/groups/archives 
   type: community 
   notes: https://drive.google.com/drive/folders/1-HM9O26iBzMcCpC1zELcOlrsaC3ty4En 
@@ -21,21 +21,21 @@
   label: A/V 
   alternate_names: 
     - IIIF A/V Call
-  description: The Audio/Video (A/V) community group exists to provide a forum focused on the experiences of users and implementers working with audio, video, and moving image content and tools in the context of IIIF specifications.  
+  description: The Audio/Video (A/V) group showcases the work of integrating IIIF audio, video, and moving image content. 
   link: /community/groups/av 
   type: community 
   notes: https://drive.google.com/drive/folders/1gz7OBW8JEK_WUnhLxQ7FD0vSWv9umJ31 
   meeting_frequency: Every four weeks, on Mondays 
 - id: D4H 
   label: Discovery for Humans 
-  description: This group aims to foster user-focused approaches enabling the targeted discovery, spanning institutional and domain silos, of IIIF resources.
+  description: This group aims to foster user-focused approaches enabling the targeted discovery of IIIF resources.
   link: /community/groups/D4H 
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7 
   meeting_frequency: Calls every 4 weeks on Wednesdays 
 - id: manuscripts 
   label: Manuscripts 
-  description: A group focused on the experience of users working with images of hand-written materials in particular. 
+  description: A group focused on working with images of hand-written materials in particular. 
   link: /community/groups/manuscripts 
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/0B1IxI8f59JQkRHpqQUE3S04tSlU?resourcekey=0-UCq-FICM6sNFoVLd-SrdDA 
@@ -44,7 +44,7 @@
   label: Maps 
   alternate_names: 
     - IIIF Maps 
-  description: This group explores and promotes best practices in associating geographical information with IIIF materials.  
+  description: This group explores best practices in associating geographical information with IIIF materials. 
   link: /community/groups/maps 
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/12XGcqb1qQp64C9BggoDuXGOFS317Jk8D 
@@ -53,14 +53,14 @@
   label: Museums 
   alternate_names: 
     - IIIF Museum Interest Group Call 
-  description: The IIIF Museums Community Group facilitates the discussion of museum-specific topics in relation to IIIF. 
+  description: The Museums community group facilitates discussion of museum-specific topics in relation to IIIF.
   link: /community/groups/museums 
   type: community 
   notes: https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?resourcekey=0-fsM1GLwObMrueeXyuw9kVg 
   meeting_frequency: Monthly on the first Tuesday 
 - id: newspapers 
   label: Newspapers 
-  description: The Newspapers Community Group welcomes participants with an interest in implementing IIIF in digital newspaper repositories. 
+  description: The Newspapers group welcomes all interested in implementing IIIF digital newspaper repositories.
   link: /community/groups/newspapers 
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/0BxETo9Nbsh6wODZYZGVZLXFPR00?resourcekey=0-2CxzauVi2Zb9fTYTZ9_n-A 
@@ -69,7 +69,7 @@
   label: Outreach 
   alternate_names: 
     - IIIF Outreach Community Group 
-  description: The IIIF Outreach Group is is dedicated to guiding IIIF outreach efforts and goals related to the presentation of IIIF to the public. 
+  description: The Outreach group guides IIIF efforts and goals related to the presentation of IIIF to the public.
   link: /community/groups/outreach 
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw 
@@ -79,14 +79,14 @@
   alternate_names: 
     -  Discovery TSG 
     -  IIIF Discovery Technical Specification Group call
-  description: The IIIF Discovery Technical Specification Group will create specifications that improve the discovery process for IIIF resources, with a focus on leveraging existing techniques and tools, and promoting widespread adoption within the community.  
+  description: The IIIF Discovery TSG creates specifications that improve the discovery process for IIIF resources.
   link: /community/groups/discovery 
   type: tsg #TSG or community
   notes: https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU?resourcekey=0-DNjPINrKrQ2qjf0_tSmwuA 
   meeting_frequency: Every 2 weeks on Wednesday 
 - id: maps-tsg 
   label: Maps TSG 
-  description: The IIIF Maps Technical Specification Group works to promote interoperability around geospatial description of digitized resources and further support the Linked Data exchange of geospatial data on the Web. 
+  description: The IIIF Maps TSG promotes interoperability around geospatial description of digitized resources.
   link: /community/groups/maps-tsg 
   type: tsg #TSG or community
   notes: https://drive.google.com/drive/u/0/folders/1oBgyRa4VMreCCBDefpjjxzg3Zp2b2yDg 
@@ -95,7 +95,7 @@
   label: Authentication 
   alternate_names: 
     - IIIF Auth
-  description: The Authentication API is an interaction pattern for managing access control to IIIF image resources, and this group works on keeping the API up to date. 
+  description: The Auth group works on interaction patterns for managing access control to IIIF resources.
   link: /community/groups/auth-tsg 
   type: tsg 
   notes: https://drive.google.com/drive/u/0/folders/1HF2J5xXl48pVD7WGNlITtcYtyNJaelAb 
@@ -104,7 +104,7 @@
   label: Content Search 
   alternate_names: 
     - IIIF Search TSG
-  description: The Content Search API allows IIIF compatible viewers to ‘search within’ a IIIF resource and return annotations that can be presented by a client. 
+  description: The Content Search API allows users to ‘search within’ annotations associated with a IIIF resource.
   link: /community/groups/content-search-tsg 
   type: tsg 
   notes: https://drive.google.com/drive/u/0/folders/15Zpng8lwANB5BsBt9wwTswfkjoxcB9oJ 
@@ -113,7 +113,7 @@
   label: Cookbook 
   alternate_names: 
     -  IIIF Cookbook
-  description: The IIIF Cookbook is a community initiative to put together commonly used functions into code “recipes” that can be easily reused. #One sentence description for car
+  description: The IIIF Cookbook is a community initiative to create reusable “recipes” of common functions. #One sentence description for car
   link: /api/cookbook/ 
   #type: #TSG or community
   notes: https://drive.google.com/drive/folders/1YiddTr7OeJoIqH_GGwqGv9PVnQSFTL3x 
