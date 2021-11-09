@@ -4,7 +4,7 @@ title: News & Events
 subtitle: Stay up to date on events, upcoming community calls, and news.
 permalink: /news-and-events/
 hero:
-  image: "assets/uploads/wellcome-telegraph.webp"
+  image: "assets/uploads/nypl_5180606.webp"
 top_tabs:
   - label: Featured events
     content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"

@@ -2,6 +2,8 @@
 layout: default
 title: Events
 permalink: /events/
+hero:
+  image: "assets/uploads/nypl_5180606.webp"
 ---
 {{ theme.block-center-start }}
 
