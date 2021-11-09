@@ -27,7 +27,7 @@ next_resources:
 ## Introduction
 Learning about IIIF (generally pronounced "triple-eye-eff") can be overwhelming at first, especially if you’re not a programmer, so we've created a plain-language guide for newcomers. We've also created a glossary of ["Key concepts you’ll encounter when working with IIIF"]({{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif) which you'll find at the end of this page.
 
-As you are learning, please know that the community is here to help. Feel free to reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list ([iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss)) with any questions. There's also a [self-paced online tutorial]({{ site.training_url | absolute_url }}/iiif-online-workshop/) that may be a useful next step for newcomers. 
+As you are learning, please know that the community is here to help. Feel free to reach out on [Slack](http://bit.ly/iiif-slack) or our email discussion list ([iiif-discuss](https://groups.google.com/forum/#!forum/iiif-discuss)) with any questions. There's also a [self-paced online tutorial]({{ site.training_url | absolute_url }}/iiif-online-workshop/) that may be a useful next step for newcomers, or check out our general set of resources for [getting started with IIIF]({{ site.root_url | absolute_url }}/get-started/). 
 
 
 {% include content/full-width-image.html image="assets/images/zeplin/delivery@3x.png" image_link="/assets/images/zeplin/delivery@3x.png" alt_text="delivery diagram" caption="A diagram of how the core IIIF APIs work together." %}
