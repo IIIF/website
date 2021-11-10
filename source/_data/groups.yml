@@ -114,7 +114,7 @@
   alternate_names: 
     -  IIIF Cookbook
   description: The IIIF Cookbook is a community initiative to create reusable “recipes” of common functions. #One sentence description for car
-  link: /api/cookbook/ 
+  #link: /api/cookbook/  # needs to link to website to work and this isn't really a about the Cookbook page
   #type: #TSG or community
   notes: https://drive.google.com/drive/folders/1YiddTr7OeJoIqH_GGwqGv9PVnQSFTL3x 
   meeting_frequency: As needed 
