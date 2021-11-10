@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/iiif/iiifc-theme.git
-  revision: 88ae79ef068f92c171c33ace9052811497423ac9
+  revision: ed7379b131617c444ad82bd2c45bbd0369682421
   branch: main
   specs:
     iiifc-theme (0.1.0)
@@ -37,7 +37,7 @@ GEM
       typhoeus (~> 1.3)
       yell (~> 2.0)
     http_parser.rb (0.6.0)
-    i18n (1.8.10)
+    i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     jekyll (4.1.1)
       addressable (~> 2.4)
