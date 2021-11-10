@@ -1,8 +1,7 @@
 ---
 title: "Software Developers Community Group"
-layout: spec
-tags: [components, software development, implementation]
-cssversion: 2
+layout: page
+
 ---
 
 _Note: this group has been decommissioned given the development of the [Technical Review Committee][trc] and other flexible outlets for discussion like the [IIIF Slack channel][join-slack]._
@@ -48,7 +47,7 @@ To advance the growth and adoption of interoperable software with IIIF, the Soft
 [devs-slack]: https://iiif.slack.com/messages/softwaredevs/details/
 [join-slack]: http://bit.ly/iiif-slack
 [devs-folder]: https://drive.google.com/drive/folders/0B8WLA_XCC1koZUF6TEFmQW5Vc0E?usp=sharing
-[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [zoom]: https://stanford.zoom.us/j/641742844
 [international-zoom]: https://zoom.us/zoomconference
 [trc]: {{ site.url }}{{ site.baseurl }}/community/trc/

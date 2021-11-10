@@ -1,0 +1,82 @@
+<script src="https://unpkg.com/mirador@beta/dist/mirador.min.js"></script>
+
+
+<!-- By default uses Roboto font. Be sure to load this or change the font -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+<!-- Container element of Mirador whose id should be passed to the instantiating call as "id" -->
+ <div id="iiif-viewer" class="mirador" allowfullscreen="allowfullscreen"></div>
+
+<style>
+  .mirador{
+    display: block;
+    position: relative;
+    height: 60vh;
+    margin-bottom: 50px;
+    margin-left: -5vw;
+    margin-right: -5vw;
+  }
+  .mirador a {
+    color: inherit !important;
+  }
+</style>
+{%- if include.manifest_3 -%}
+<script type="text/javascript">
+var mirador = Mirador.viewer({
+  "id": "iiif-viewer",
+  "windows": [
+  {
+    "loadedManifest": "{{include.manifest_1}}",
+    "canvasIndex": 0,
+    allowClose: false,
+      defaultSideBarPanel: 'info',
+      sideBarOpenByDefault: true,
+  },
+  {
+      "loadedManifest": "{{include.manifest_2}}",
+      "canvasIndex": 0,
+      allowClose: false,
+      	defaultSideBarPanel: 'info',
+      	sideBarOpenByDefault: true,
+    },
+
+    {
+      "loadedManifest": "{{include.manifest_3}}",
+      "canvasIndex": 0,
+      allowClose: false,
+      	defaultSideBarPanel: 'info',
+      	sideBarOpenByDefault: true,
+    }
+    ],
+    "workspace": {
+	showZoomControls: true
+  }
+}
+);
+</script>
+{%- else -%}
+<script type="text/javascript">
+var mirador = Mirador.viewer({
+  "id": "iiif-viewer",
+  "windows": [
+  {
+    "loadedManifest": "{{include.manifest_1}}",
+    "canvasIndex": 0,
+    allowClose: false,
+      defaultSideBarPanel: 'info',
+      sideBarOpenByDefault: true,
+  },
+  {
+      "loadedManifest": "{{include.manifest_2}}",
+      "canvasIndex": 0,
+      allowClose: false,
+      	defaultSideBarPanel: 'info',
+      	sideBarOpenByDefault: true,
+    }
+    ],
+    "workspace": {
+	showZoomControls: true
+  }
+}
+);
+</script>
+{%-endif-%}

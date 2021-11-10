@@ -1,0 +1,129 @@
+- id: 3d # Slug in IIIF url, e.g. D4H
+  label: 3D #Group name
+  alternate_names:  # name used on IIIF calendar
+    - 3D  
+    - IIIF 3D Community Group
+  description: The IIIF 3D group explores the prospects and promise of 3D data interoperability on the web. #One sentence description for car
+  link: /community/groups/3d #link to charter
+  type: community #TSG or community
+  notes: https://drive.google.com/drive/folders/1S_Yz5d_IEcjcw61iWA2x2290uSJ7Lvzk #link to Google Drive folder
+  meeting_frequency: Calls on the 3rd Thursday of the month #One-liner, e.g. Quarterly calls on Wednesdays
+- id: archives 
+  label: Archives 
+  alternate_names: 
+    - IIIF Archives Interest Group
+  description: The IIIF Archives group helps set best practices for IIIF and archival content.
+  link: /community/groups/archives 
+  type: community 
+  notes: https://drive.google.com/drive/folders/1-HM9O26iBzMcCpC1zELcOlrsaC3ty4En 
+  meeting_frequency: Calls every quarter on Tuesdays 
+- id: av 
+  label: A/V 
+  alternate_names: 
+    - IIIF A/V Call
+  description: The A/V group showcases best practices related to integrating audio & moving image content in IIIF. 
+  link: /community/groups/av 
+  type: community 
+  notes: https://drive.google.com/drive/folders/1gz7OBW8JEK_WUnhLxQ7FD0vSWv9umJ31 
+  meeting_frequency: Every four weeks, on Mondays 
+- id: D4H 
+  label: Discovery for Humans 
+  description: This group aims to foster user-focused approaches enabling the targeted discovery of IIIF resources.
+  link: /community/groups/D4H 
+  type: community 
+  notes: https://drive.google.com/drive/u/0/folders/1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7 
+  meeting_frequency: Calls every 4 weeks on Wednesdays 
+- id: manuscripts 
+  label: Manuscripts 
+  description: A group focused on working with images of hand-written materials in particular. 
+  link: /community/groups/manuscripts 
+  type: community 
+  notes: https://drive.google.com/drive/u/0/folders/0B1IxI8f59JQkRHpqQUE3S04tSlU?resourcekey=0-UCq-FICM6sNFoVLd-SrdDA 
+  meeting_frequency: On hiatus currently 
+- id: maps 
+  label: Maps 
+  alternate_names: 
+    - IIIF Maps 
+  description: This group explores best practices in associating geographical information with IIIF materials. 
+  link: /community/groups/maps 
+  type: community 
+  notes: https://drive.google.com/drive/u/0/folders/12XGcqb1qQp64C9BggoDuXGOFS317Jk8D 
+  meeting_frequency: Every 2 weeks on Wednesday (alternates with Maps TSG) 
+- id: museums 
+  label: Museums 
+  alternate_names: 
+    - IIIF Museum Interest Group Call 
+  description: The Museums community group facilitates discussion of museum-specific topics in relation to IIIF.
+  link: /community/groups/museums 
+  type: community 
+  notes: https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?resourcekey=0-fsM1GLwObMrueeXyuw9kVg 
+  meeting_frequency: Monthly on the first Tuesday 
+- id: newspapers 
+  label: Newspapers 
+  description: The Newspapers group welcomes all interested in implementing IIIF digital newspaper repositories.
+  link: /community/groups/newspapers 
+  type: community 
+  notes: https://drive.google.com/drive/u/0/folders/0BxETo9Nbsh6wODZYZGVZLXFPR00?resourcekey=0-2CxzauVi2Zb9fTYTZ9_n-A 
+  meeting_frequency: On hiatus currently 
+- id: outreach 
+  label: Outreach 
+  alternate_names: 
+    - IIIF Outreach Community Group 
+  description: The Outreach group guides IIIF efforts and goals related to the presentation of IIIF to the public.
+  link: /community/groups/outreach 
+  type: community 
+  notes: https://drive.google.com/drive/u/0/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw 
+  meeting_frequency: Monthly on the last Tuesday 
+- id: discovery 
+  label: Discovery 
+  alternate_names: 
+    -  Discovery TSG 
+    -  IIIF Discovery Technical Specification Group call
+  description: The IIIF Discovery TSG creates specifications that improve the discovery process for IIIF resources.
+  link: /community/groups/discovery 
+  type: tsg #TSG or community
+  notes: https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU?resourcekey=0-DNjPINrKrQ2qjf0_tSmwuA 
+  meeting_frequency: Every 2 weeks on Wednesday 
+- id: maps-tsg 
+  label: Maps TSG 
+  description: The IIIF Maps TSG promotes interoperability around geospatial description of digitized resources.
+  link: /community/groups/maps-tsg 
+  type: tsg #TSG or community
+  notes: https://drive.google.com/drive/u/0/folders/1oBgyRa4VMreCCBDefpjjxzg3Zp2b2yDg 
+  meeting_frequency: Every 2 weeks on Wednesday (alternates with Maps Community Group) 
+- id: auth-tsg 
+  label: Authentication 
+  alternate_names: 
+    - IIIF Auth
+  description: The Auth group works on interaction patterns for managing access control to IIIF resources.
+  link: /community/groups/auth-tsg 
+  type: tsg 
+  notes: https://drive.google.com/drive/u/0/folders/1HF2J5xXl48pVD7WGNlITtcYtyNJaelAb 
+  meeting_frequency: Every 2 weeks on Tuesday 
+- id: content-search-tsg 
+  label: Content Search 
+  alternate_names: 
+    - IIIF Search TSG
+  description: The Content Search API allows users to ‘search within’ annotations associated with a IIIF resource.
+  link: /community/groups/content-search-tsg 
+  type: tsg 
+  notes: https://drive.google.com/drive/u/0/folders/15Zpng8lwANB5BsBt9wwTswfkjoxcB9oJ 
+  meeting_frequency: Every 2 weeks on Tuesday 
+- id: cookbook 
+  label: Cookbook 
+  alternate_names: 
+    -  IIIF Cookbook
+  description: The IIIF Cookbook is a community initiative to create reusable “recipes” of common functions. #One sentence description for car
+  #link: /api/cookbook/  # needs to link to website to work and this isn't really a about the Cookbook page
+  #type: #TSG or community
+  notes: https://drive.google.com/drive/folders/1YiddTr7OeJoIqH_GGwqGv9PVnQSFTL3x 
+  meeting_frequency: As needed 
+# - id: # Slug in IIIF url, e.g. D4H
+#   label: #Group name
+#   alternate_names: 
+#     -  # name of group in IIIF calendar
+#   description: #One sentence description for car
+#   link: #link to charter
+#   type: #TSG or community
+#   notes: #link to Google Drive folder
+#   meeting_frequency: #One-liner, e.g. Quarterly calls on Wednesdays

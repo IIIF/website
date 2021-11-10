@@ -1,14 +1,14 @@
 ---
 title: "IIIF Week -- Online Events - June 1-5, 2020"
-layout: online_event
+layout: event
 tags: [event ]
 page: overview
 ---
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<!-- <script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script> -->
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script>
+<!-- <script src="{{ site.root_url | absolute_url }}/js/vendor/add-to-calendar.min.js"></script> -->
+<script src="{{ site.root_url | absolute_url }}/js/vendor/moment-with-locales.min.js"></script>
+<script src="{{ site.root_url | absolute_url }}/js/vendor/moment-timezone-with-data.js"></script>
 
 IIIF Week Online is a series of **free** online events introducing IIIF’s capabilities and community, sharing demonstrations of IIIF implementations, and discussing the future of IIIF, digital strategy for cultural heritage, and digital research needs. 
 
@@ -369,7 +369,6 @@ The week following the online conference there will be a chance to get hands on 
 
 Participants will need a laptop on which they can install software and should be able to commit a minimum of 2 hours per day for the 5 day course. No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. Optional sessions will give those interested the opportunity to tackle more complex tasks. 
 
-
 <script>
 /*var timezone = jstz.determine();
 var apiKey = 'AIzaSyBIB97V49ihYsXedQ0Ziw6s3SzcGf5G8z0';
@@ -452,11 +451,11 @@ function loadClient() {
 
 
 [iiif]: https://iiif.io/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[consortium]: {{ site.root_url | absolute_url }}/community/consortium/
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
 

@@ -1,6 +1,6 @@
 ---
 title: "Access to the World's Images - New York 2016"
-layout: spec
+layout: event
 tags: [event ]
 ---
 
@@ -126,16 +126,16 @@ A [sched][sched] site with the details will be available.
 | 4:15 - 5:00   | Feedback, Next Steps, Close |  | Manuscript WG |
 {: .api-table .msched-table}
 
-[home-page]: {{ page.webprefix }}
+[home-page]: {{ site.root_url | absolute_url }}
 [eventbrite]: http://iiif-advantages-nyc.eventbrite.com/
 [eventbrite-conf]: http://iiif-conference-nyc.eventbrite.com/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
-[tech-details]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[iiif-c]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/
+[tech-details]: {{ site.root_url | absolute_url }}/get-started/
 [proposals]: mailto:iiif-proposals@googlegroups.com
 [moma]: http://www.moma.org/
 [moma-map]: https://goo.gl/maps/9wFHb2ZzVE72
 [nyam]: http://www.nyam.org/
 [nyam-map]: https://goo.gl/maps/ffTbs7UmjN42
-[cfp]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/call-for-papers/
+[cfp]: {{ site.root_url | absolute_url }}/event/2016/newyork/call-for-papers/
 [sched]: https://sched.org/

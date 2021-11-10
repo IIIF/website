@@ -1,6 +1,6 @@
 ---
 title: "2018 IIIF Working meeting - Edinburgh, Scotland, UK"
-layout: edinburgh
+layout: event
 tags: [event ]
 ---
 
@@ -47,7 +47,7 @@ A brief schedule is below and follow the links to see more details including tim
     </tr>
     <tr>
             <td>12:00pm to 1:00pm</td>
-            <td colspan="3">Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</td>
+            <td colspan="3">Lunch - on your own, see <a href="{{ site.root_url | absolute_url }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</td>
     </tr>
     <tr>
             <td>Afternoon, 1:00pm to 5:00pm</td>
@@ -190,7 +190,7 @@ Location: {{ site.data.edinburgh-locations[0].name }}
     </tr>
     <tr>
         <td>12:00pm to 1:00pm</td>
-        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</b></td>
+        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.root_url | absolute_url }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</b></td>
     </tr>    
     <tr>
         <td>1:00pm to 3:00pm</td>
@@ -237,7 +237,7 @@ Location: {{ site.data.edinburgh-locations[0].name }}
     </tr>
     <tr>
         <td>12:00pm to 1:00pm</td>
-        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</b></td>
+        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.root_url | absolute_url }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>.</b></td>
     </tr>    
     <tr>
         <td>1:00pm to 3:00pm</td>
@@ -290,7 +290,7 @@ Location: {{ site.data.edinburgh-locations[0].name }} in the morning and {{ site
     </tr>
     <tr>
         <td>12:00pm to 2:00pm</td>
-        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>. Also transfer to the {{ site.data.edinburgh-locations[3].name }} for the afternoon sessions.</b></td>
+        <td colspan="2"><b>Lunch - on your own, see <a href="{{ site.root_url | absolute_url }}/event/2018/edinburgh/#locations-in-edinburgh">lunch options</a>. Also transfer to the {{ site.data.edinburgh-locations[3].name }} for the afternoon sessions.</b></td>
     </tr>    
     <tr>
         <td>2:00pm to 3:30pm</td>
@@ -394,5 +394,5 @@ Location: {{ site.data.edinburgh-locations[0].name }} in the morning and {{ site
 
 
 [working-eventbrite]: https://www.eventbrite.com/e/2018-iiif-working-meeting-edinburgh-tickets-50777559046
-[lunch]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh
+[lunch]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/#locations-in-edinburgh
 [talk]: https://goo.gl/forms/R7RzG54WFRZxRdtk1  

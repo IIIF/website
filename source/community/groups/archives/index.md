@@ -1,8 +1,7 @@
 ---
 title: "IIIF Archives Community Group"
-layout: spec
-tags: []
-cssversion: 2
+layout: page
+
 ---
 
 ## About
@@ -11,7 +10,7 @@ Archival collections, both born-digital and digitized, are increasingly being sh
 
 In addition, archival materials are increasingly displayed with full-text from OCR or crowdsourced transcriptions, so they also can be annotated with a textual layer. Enabling access to archival materials through IIIF also offers exciting opportunities for collaborative cross-institution storytelling, and allows researchers to recreate dispersed collections and create new collections based on specific research questions.
 
-By participating in the IIIF Archives Community Group, you will help set best practices for IIIF and archival content and influence the international collaborations for providing archival content via open APIs.
+By participating in the Archives Community Group, you will help set best practices for IIIF and archival content and influence the international collaborations for providing archival content via open APIs.
 
 ## Goals
 
@@ -31,17 +30,17 @@ By participating in the IIIF Archives Community Group, you will help set best pr
   * Mark Matienzo (Stanford University)
   * Adrian Stevenson (Jisc)
 
-**Communication Channels:**
+**Communication channels:**
 
   * Quarterly calls - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [#archives-cg IIIF Slack channel][slack]
 
-**Call Notes and Group Documents**
+**Call notes and group documents:**
 
 [IIIF Archives Community Group Folder][archives-cg-folder]
 
-**Call Connection Information:**
+**Call connection information:**
 
  * Online: [https://stanford.zoom.us/j/97950308605][zoom-link]
 
@@ -49,8 +48,6 @@ By participating in the IIIF Archives Community Group, you will help set best pr
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
 [zoom-link]: https://stanford.zoom.us/j/97950308605?pwd=MUl6dDFqSkhOWkY5b2FjalhSVHI5Zz09
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [archives-cg-folder]: https://drive.google.com/open?id=1-HM9O26iBzMcCpC1zELcOlrsaC3ty4En
-
-{% include acronyms.md %}

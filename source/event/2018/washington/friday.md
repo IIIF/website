@@ -1,6 +1,6 @@
 ---
 title: "Friday 25th, Madison Building, Library of Congress"
-layout: washington
+layout: event
 tags: [event ]
 page: friday
 ---

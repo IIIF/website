@@ -1,60 +1,56 @@
 ---
-title: "How to Join the IIIF Consortium and Membership Benefits"
+title: "How to Join the IIIF Consortium, and Membership Benefits"
 id: join-consortium
-layout: sub-page
-tags: [event ]
+layout: page
+tags: [join ]
+hero:
+  image: ""
+  title: Join the Consortium
+  subtitle: Support the development of community-driven APIs and shared technologies providing rich access to digitized image, audio, and video resources.
+  button:
+    label: "Email to join"
+    link: "mailto:admin@iiif.io?subject='We'd like to join the IIIF Consortium"
+breadcrumbs:
+ - label: Community
+   link: /community/
+ - label: Consortium
+   link: /community/consortium
 ---
 
-{% capture content %}
+## Membership benefits
 
-{: class="alert"}
-To join the IIIF Consortium, send an email to [admin@iiif.io][admin]
+Becoming a member of the Consortium allows you to shape the IIIF agenda and drive the development roadmap for an open, international standard alongside a community of forward-thinking global technology leaders. Additionally, membership funds IIIF’s supporting staff, who steward strategy, training, communications, infrastructure, outreach, growth, community-building, and adoption. Membership includes a number of other benefits dependent on the the level of contribution you choose. Question about membership? Email us at staff@iiif.io.
 
-IIIF is a grassroots, community-driven effort to make digital image and audio/visual resource delivery more effective and sustainable for institutions and end users. We rely on [IIIF Consortium (IIIF-C)]({{ site.url }}{{ site.baseurl }}/community/consortium/) members to provide leadership and sustainability in support of our shared goals:
+## Membership levels
 
-- To give scholars an unprecedented level of uniform and rich access to image and audio/visual resources hosted around the world.
-- To define and adopt a set of common application programming interfaces that support interoperability between digitized asset repositories.
-- To develop, cultivate and document shared technologies, such as media servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating image and audio/visual resources.
+**Full membership - $10,000 annual sustaining contribution**
 
-IIIF-C Membership contributions provide direct funding for supporting staff, training and communications infrastructure, outreach, growth, and adoption of the IIIF initiative.
+Additional benefits for full members include:
 
-IIIF-C Members are: 
-
-- Shaping the IIIF agenda and roadmap for future development
-- Driving local and community benefits via interoperability by formally supporting and implementing IIIF in its successive versions
-- Serving as a global technology leaders
-
-The potential for the use of IIIF and growth of the IIIF community is endless — wherever digital  image and audio/visual resources are present, there is an opportunity for interoperability via IIIF. Lead the effort to expand the benefits of interoperability for all as part of the IIIF-C.
-
-Why embrace the IIIF Consortium?
-
-- A chance to be at the forefront of digital innovation with a global community of leaders
-- Reap the benefits of driving development and adoption of an open, international standard
-- Get access to a peer community of like-minded and forward-thinking institutions
-
-## Benefits
-
-### Full Membership - $10,000 annual sustaining contrbution
-
-- Membership pricing on custom institutional training and workshops
-- Membership pricing on consulting services
-- Institution-wide discount rates for IIIF Conference registration
-- Representation on the [IIIF Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/trc/) which guides technical development of IIIF specs
-- Eligibility to serve on the Executive Committee and Operating Committee, which provide IIIF governance
-- Priority attendance at IIIF Working meetings and other events
+*   Insitution-wide discounts on training and workshops
+*   Institution-wide discounts for Annual Conference registration
+*   Guaranteed representation on the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ), which guides development of the IIIF specifications and approves all updates and additions to the APIs
+*   Discounted consulting rates
+*   Eligibility to serve on the [Executive Committee and Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/), which governs the community
+*   Voting rights in annual Executive Committee elections
+*   Priority attendance at conferences, meetings and other events
+*   Priority technical advice 
 
 
-### Associate Membership - $2,500 annual sustaining contrbution
+**Associate membership - $2,500 annual sustaining contribution**
 
-- Discounts on training and workshops
-- Priority attendance at IIIF Working meetings and other events
-- Ability to nominate a representative to serve on the [IIIF Technical Review Committee]({{ site.url }}{{ site.baseurl }}/community/trc/) which guides technical development of IIIF specs (a number up to half the total number of associate member institutions (rounding up) may be elected to serve on the TRC)
+Additional benefits for associate members include:
+
+*   Institution-wide discounts on training and workshops
+*   Institution-wide discounts for Annual Conference registration
+*   Eligibility to serve on the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ), which guides development of the IIIF specifications and approves all updates and additions to the APIs
+*   Priority attendance at conferences, meetings and other events
+
+**Conditions of membership:**
+*   Only full members are eligible for voting rights on the Executive Committee
+*   A limit of three seats on the Executive Committee may be held by commercial organizations. Non-commercial organizations include libraries, museums, and archives - individuals who work for commercial organizations are welcome and encouraged to serve in community groups and committees
+
+## Join
+To join the consortium, please email staff@iiif.io with your intent to join and we will begin the membership process.
 
 
-To join the IIIF Consortium, send an email to [admin@iiif.io][admin].
-
-{% endcapture %}
-
-{% include section.html class="step quick-start" content=content %}
-
-[admin]: mailto:admin@iiif.io

@@ -1,6 +1,6 @@
 ---
 title: "IIIF: Access to the World's Images - Ghent 2015"
-layout: spec
+layout: event
 tags: [event ]
 redirect_from:
   - /event/2015/ghent.html
@@ -130,17 +130,17 @@ Some possible additions to security around the events:
 We continue to look forwards to the discussions in Ghent, and hope that we'll see you there.
 
 
-[home-page]: {{ page.webprefix }}
+[home-page]: {{ site.root_url | absolute_url }}
 [event-brite]: http://iiif-ghent-2015.eventbrite.com/
 [event-brite-wg]: https://iiif-winter-2015.eventbrite.com/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [logistics]: #logistics
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
-[tech-details]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[iiif-c]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/
+[tech-details]: {{ site.root_url | absolute_url }}/get-started/
 [ghent-lib]: http://lib.ugent.be/
 [visit-gent]: http://www.visitgent.be/en/
-[ghent-hotels]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent-hotels/
-[ghent-restaurants]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent-restaurants/
+[ghent-hotels]: {{ site.root_url | absolute_url }}/event/2015/ghent-hotels/
+[ghent-restaurants]: {{ site.root_url | absolute_url }}/event/2015/ghent-restaurants/
 [universal-viewer]: https://github.com/UniversalViewer/universalviewer
 [manifesto]: https://github.com/UniversalViewer/manifesto
 [sched]: http://iiifghent2015.sched.org/

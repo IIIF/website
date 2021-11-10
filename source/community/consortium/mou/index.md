@@ -1,7 +1,12 @@
 ---
-title: "Memorandum of Understanding covering the establishment of the IIIF Consortium"
+title: "Original Memorandum of Understanding covering the establishment of the IIIF Consortium"
 id: iiifc_mou
-layout: spec
+layout: page
+breadcrumbs:
+ - label: Community
+   link: /community/
+ - label: Consortium
+   link: /community/consortium/
 ---
 
 16 June 2015
@@ -17,7 +22,7 @@ layout: spec
   * "International Image Interoperability Framework" (**IIIF**), coined by Stanford University in 2011, has emerged as the sum-to-date of these activities and work products, including related standards, advocacy, outreach and some software development, and
   * IIIF as a framework supports access control, licensing, attribution, and is agnostic about whether institutions provide constrained or openly accessible content, and
   * The IIIF rubric is now associated with a small, multi-institutional group of API editors that works by mutual consent and a larger group composed of individuals who have attended one or more of seven "working group" meetings, and
-  * The IIIF "brand" is manifest as a website ([iiif.io]({{ page.webprefix }})), two active Google Groups and well-attended outreach meetings held since 2012 in several venues, and
+  * The IIIF "brand" is manifest as a website ([iiif.io]({{ site.root_url | absolute_url }})), two active Google Groups and well-attended outreach meetings held since 2012 in several venues, and
   * A near-term agenda for IIIF has been created in draft form by individuals closely involved with activities to date and vetted in discussions with the working group.
 
 **And whereas,**
@@ -83,6 +88,6 @@ Agreed on 16 June 2015 by:
   * [Exhibit B: Current Membership and Institutional Affiliations of the Coordinating and Editorial Committees][exhibit_b]
   * [Exhibit C: Role and Functions of a Host Institution][exhibit_c]
 
-[exhibit_a]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/exhibit_a/ "Exhibit A: Agenda for IIIF 2015-"
-[exhibit_b]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/exhibit_b/ "Exhibit B: Current Membership and Institutional Affiliations of the Coordinating and Editorial Committees"
-[exhibit_c]: {{ site.url }}{{ site.baseurl }}/community/consortium/mou/exhibit_c/ "Exhibit C: Role and Functions of a Host Institution"
+[exhibit_a]: {{ site.root_url | absolute_url }}/community/consortium/mou/exhibit_a/ "Exhibit A: Agenda for IIIF 2015-"
+[exhibit_b]: {{ site.root_url | absolute_url }}/community/consortium/mou/exhibit_b/ "Exhibit B: Current Membership and Institutional Affiliations of the Coordinating and Editorial Committees"
+[exhibit_c]: {{ site.root_url | absolute_url }}/community/consortium/mou/exhibit_c/ "Exhibit C: Role and Functions of a Host Institution"

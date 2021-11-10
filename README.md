@@ -27,8 +27,8 @@ Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. 
  * Much of the site data is in the YAML files in `_data/` (e.g. member institutions, server impls, demos, etc.) make edits there.
  * The latest versions of the APIs are set in `_config.yml`. Change there will get pushed to `.htaccess`, `technical-details/`, and any other links.
  * The website is now split with the root website living here and the api website living in [IIIF/api](https://github.com/IIIF/api). Links internal and external should be in the following forms:
-    * Internal relative link inside the root website `[hyperlink text]({{ site.url }}{{ site.baseurl }}/end/point)`
-    * link from the root website to the api website (not relative to this repo) `[hyperlink text]({{ page.webprefix }}/end/point)`
+    * Internal relative link inside the root website `[hyperlink text]({{ site.root_url | absolute_url }}/end/point)`
+    * link from the root website to the api website (not relative to this repo) `[hyperlink text]({{ site.api_url | absolute_url }}/end/point)`
     * External link `[anchor-text](http://example.com/end/point)`
     * Reference link `[text][link_name]` where link_name is expanded at the bottom of the page.
 

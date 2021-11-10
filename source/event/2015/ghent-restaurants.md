@@ -1,6 +1,6 @@
 ---
 title: "Restaurant List: Ghent 2015"
-layout: spec
+layout: event
 tags: [event ]
 redirect_from:
   - /event/2015/ghent-restaurants.html
@@ -122,15 +122,6 @@ redirect_from:
 * Phone: +32 494 077 250
 * Cuisine: Indonesian, Asian
 * Price: €15-30
-
-
-## Il Cortilo
-
-* Kraanlei, 53
-  9000 Gent
-* Phone: +32 9 234 2741
-* Cuisine : Italian
-* Price: €13-19
 
 
 ## Brasserie De Lieve

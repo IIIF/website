@@ -1,0 +1,28 @@
+- label: IIIF Workshop at Learn@DLF (coinciding with DLF Forum and NDSA's Digital Preservation)
+  time:
+    start: "2021-11-09T16:00:00Z"
+    end: "2021-11-09T18:00:00Z"
+  location:
+    label: Midspace
+    link: https://midspace.forum2021.diglib.org/conference/clir-events
+  links:
+    - label: Event details
+      link: https://forum2021.diglib.org/
+- label: 2021 IIIF Fall Working Meeting
+  time:
+    start: "2021-11-16"
+    end: "2021-11-18"
+  links:
+    - label: More info
+      link: "event/2021/fall_working_meeting/"
+    - label: Register
+      link: https://www.eventbrite.com/e/2021-iiif-fall-working-meeting-tickets-176398561847
+- label: January IIIF Online Training (5-Day Course)
+  time:
+    start: 2022-01-24T06:00:00Z
+    end: 2022-01-28T07:00:00Z
+  links:
+    - label: More info
+      link: "get-started/training/online-training/"
+    - label: Register
+      link: https://www.eventbrite.com/e/january-iiif-online-training-5-day-course-tickets-176371781747

@@ -1,25 +1,20 @@
 ---
-title: "IIIF Events"
-id: events
-layout: spec
-tags: [events ]
-cssversion: 2
+title: IIIF Events
+layout: page
+permalink: /event/
+breadcrumbs:
+  - label: News & Events
+    link: '{{ site.root_url }}/news-and-events/'
 ---
 
 All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Upcoming IIIF-Hosted Events__
 
-* [2021 Fall Working Meeting (November 16-18 2021, online)][fall_working_meeting]
+* 2021 Fall Working Meeting (week of November 15, 2021, online)
 * 2022 Annual Conference (week of June 6, 2022, Cambridge, MA)
 
-__IIIF Event Guidance__
-
-Information on hosting a IIIF Event.
-
- * [Hosting a IIIF Conference][conference]
-
-__Previous IIIF Events__
+__Previous IIIF-Hosted Events__
 
 * 2021 IIIF Annual Conference: [June 22-24, Online][annual_conference]
 * Fall 2020 IIIF Working meeting: [Online][fall2020]
@@ -45,92 +40,25 @@ __Previous IIIF Events__
 * Spring 2012: The Hague, Netherlands
 * Fall 2011: Cambridge, England
 
-<script>
-window.onload = function(){
-$.ajax({
-      type: 'GET',
-      url: 'https://docs.google.com/document/d/e/2PACX-1vTRJwJCj5r_CnJSuOPgS11gDD-L2ar2Wg5_SwyUqItUPer2obrvRgivbZUP5rYXCyOY-sOn52haRaBS/pub',
-      dataType: 'html',
-      success: function(data) {
 
-        //cross platform xml object creation from w3schools
-        try //Internet Explorer
-          {
-          xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
-          xmlDoc.async="false";
-          xmlDoc.loadXML(data);
-          }
-        catch(e)
-          {
-          try // Firefox, Mozilla, Opera, etc.
-            {
-            parser=new DOMParser();
-            xmlDoc=parser.parseFromString(data,"text/html");
-            }
-          catch(e)
-            {
-            alert(e.message);
-            return;
-            }
-          }
-          addTable(document.getElementById("events-2019"), xmlDoc.getElementsByTagName("table")[0]);
-          //addTable(document.getElementById("events-2019"), xmlDoc.getElementsByTagName("table")[1]);
-      }
-});
-}
-function addTable(destination, gtable) {
-    var body = document.createElement('tbody');
-    var header = document.createElement('thead');
-    headerRow = document.createElement('tr');
-    for (var i = gtable.rows[0].cells.length - 1; i >= 0; i--) {
-        var th = document.createElement('th');
-        th.innerHTML = gtable.rows[0].cells[i].innerHTML;
-        if (headerRow.firstChild) {
-            headerRow.insertBefore(th, headerRow.firstChild);
-        } else {
-            headerRow.appendChild(th);
-        }    
-    }
-
-    header.appendChild(headerRow); // need to convert td's into th
-
-    destination.appendChild(header);
-    for (var i = gtable.rows.length - 1; i > 0; i--) {
-        var row = document.createElement('tr');
-        for (var j = 0; j < gtable.rows[i].cells.length; j++) {
-            var cell = document.createElement('td');
-            cell.innerHTML = gtable.rows[i].cells[j].innerHTML.replace('href="https://www.google.com/url?q=','href="').replace(/\&amp;sa=.*ust=[0-9]*.*\"/g,'"');
-            row.appendChild(cell);
-        }
-        if (body.firstChild) {
-            body.insertBefore(row, body.firstChild);
-        } else {
-            body.appendChild(row)
-        }
-    }
-    destination.appendChild(body);
-}
-</script>
-
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[boston20]: {{ site.url }}{{ site.baseurl }}/event/2020/boston/
-[iiifweek]: {{ site.url }}{{ site.baseurl }}/event/2020/iiifweek/
-[ann_arbor19]: {{ site.url }}{{ site.baseurl }}/event/2019/ann_arbor/
-[goettingen19]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
-[edinburgh18]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/
-[washington2018]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
-[toronto-showcase]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto-showcase
-[london-va]: {{ site.url }}{{ site.baseurl }}/event/2017/london/
-[toronto]: {{ site.url }}{{ site.baseurl }}/event/2017/toronto/
-[edinburgh]: {{ site.url }}{{ site.baseurl }}/event/2017/edinburgh
-[vatican]: {{ site.url }}{{ site.baseurl }}/event/2017/vatican
-[hague]: {{ site.url }}{{ site.baseurl }}/event/2016/thehague/
-[nyc]: {{ site.url }}{{ site.baseurl }}/event/2016/newyork/
-[ghent]: {{ site.url }}{{ site.baseurl }}/event/2015/ghent/
-[dc]: {{ site.url }}{{ site.baseurl }}/event/2015/washington/
-[london]: {{ site.url }}{{ site.baseurl }}/event/2014/london/
-[outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach/
-[conference]: {{ site.url }}{{ site.baseurl }}/event/conference_guidelines/
-[fall2020]: {{ site.url }}{{ site.baseurl }}/event/2020/fall_working_meeting/
-[annual_conference]: {{ site.url }}{{ site.baseurl }}/event/2021/annual_conference
-[fall_working_meeting]: {{ site.url }}{{ site.baseurl }}/event/2021/fall_working_meeting
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[boston20]: {{ site.root_url | absolute_url }}/event/2020/boston/
+[iiifweek]: {{ site.root_url | absolute_url }}/event/2020/iiifweek/
+[ann_arbor19]: {{ site.root_url | absolute_url }}/event/2019/ann_arbor/
+[goettingen19]: {{ site.root_url | absolute_url }}/event/2019/goettingen/
+[edinburgh18]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/
+[washington2018]: {{ site.root_url | absolute_url }}/event/2018/washington/
+[toronto-showcase]: {{ site.root_url | absolute_url }}/event/2017/toronto-showcase
+[london-va]: {{ site.root_url | absolute_url }}/event/2017/london/
+[toronto]: {{ site.root_url | absolute_url }}/event/2017/toronto/
+[edinburgh]: {{ site.root_url | absolute_url }}/event/2017/edinburgh
+[vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
+[hague]: {{ site.root_url | absolute_url }}/event/2016/thehague/
+[nyc]: {{ site.root_url | absolute_url }}/event/2016/newyork/
+[ghent]: {{ site.root_url | absolute_url }}/event/2015/ghent/
+[dc]: {{ site.root_url | absolute_url }}/event/2015/washington/
+[london]: {{ site.root_url | absolute_url }}/event/2014/london/
+[outreach]: {{ site.root_url | absolute_url }}/community/groups/outreach/
+[conference]: {{ site.root_url | absolute_url }}/event/host_your_own_IIIF_event/
+[fall2020]: {{ site.root_url | absolute_url }}/event/2020/fall_working_meeting/
+[annual_conference]: {{ site.root_url | absolute_url }}/event/2021/annual_conference

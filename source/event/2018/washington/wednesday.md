@@ -1,6 +1,6 @@
 ---
 title: "Wednesday 23rd, Jefferson Building, Library of Congress"
-layout: washington
+layout: event
 tags: [event ]
 page: wednesday
 ---
@@ -45,7 +45,7 @@ This is the agenda for Wednesday the 23rd of May, the first full day of the conf
 
         <tr>
             <td>12:30pm - 2:00pm</td>
-            <td colspan="2"><b>Lunch (on your own)</b> - <a href="{{ site.url }}{{ site.baseurl }}/event/2018/washington/lunch-locations/">lunch leader sessions and lunch locations</a></td>
+            <td colspan="2"><b>Lunch (on your own)</b> - <a href="{{ site.root_url | absolute_url }}/event/2018/washington/lunch-locations/">lunch leader sessions and lunch locations</a></td>
         </tr>
 
         {% include washington_slot_row.html time='2:00pm - 3:20pm' rowspan='8' paper='Paper 38' %}
@@ -73,11 +73,11 @@ This is the agenda for Wednesday the 23rd of May, the first full day of the conf
 
 \* Due to the amount of attendees and available space we are unable to provide refreshments during breaks.
 
-[workshops]:{{ site.url }}{{ site.baseurl }}/event/2018/washington-workshops
+[workshops]:{{ site.root_url | absolute_url }}/event/2018/washington-workshops
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510
-[manuscripts]:{{ site.url }}{{ site.baseurl }}/community/groups/manuscripts
-[museum]:{{ site.url }}{{ site.baseurl }}/community/groups/museum
-[newspaper]:{{ site.url }}{{ site.baseurl }}/community/groups/newspapers
-[softdev]:{{ site.url }}{{ site.baseurl }}/community/groups/software
-[3d]:{{ site.url }}{{ site.baseurl }}/community/groups/3d
-[outreach]:{{ site.url }}{{ site.baseurl }}/community/groups/outreach
+[manuscripts]:{{ site.root_url | absolute_url }}/community/groups/manuscripts
+[museum]:{{ site.root_url | absolute_url }}/community/groups/museum
+[newspaper]:{{ site.root_url | absolute_url }}/community/groups/newspapers
+[softdev]:{{ site.root_url | absolute_url }}/community/groups/software
+[3d]:{{ site.root_url | absolute_url }}/community/groups/3d
+[outreach]:{{ site.root_url | absolute_url }}/community/groups/outreach

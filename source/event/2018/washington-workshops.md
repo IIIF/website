@@ -1,6 +1,6 @@
 ---
 title: "Workshops: 2018 IIIF Conference in Washington - Monday May 21st"
-layout: washington
+layout: event
 tags: [event ]
 page: monday
 ---
@@ -192,6 +192,6 @@ Annotations are an exciting part of IIIF and allow things like transcriptions, O
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>
 <!-- Link not working: https://www.si.edu/museums/ripley-center -->
 
-[washington]: {{ site.url }}{{ site.baseurl }}/event/2018/washington/
+[washington]: {{ site.root_url | absolute_url }}/event/2018/washington/
 [ripley-building]: https://en.wikipedia.org/wiki/S._Dillon_Ripley_Center
 [washington-registration]: https://www.eventbrite.com/e/2018-iiif-conference-in-washington-tickets-44377905510

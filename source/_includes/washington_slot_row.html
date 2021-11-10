@@ -22,7 +22,7 @@
 {% if include.paper %}
     {% assign submission_list = site.data.washington_submissions | where: "id",include.paper %}
     {% assign submission = submission_list[0] %}
-    {% capture dest_url %}{{ site.url}}{{site.baseurl}}/event/2018/washington/program/{{submission.id | replace: 'Paper ', 'paper-'}}/{% endcapture %}
+    {% capture dest_url %}{{ site.root_url | absolute_url }}/event/2018/washington/program/{{submission.id | replace: 'Paper ', 'paper-'}}/{% endcapture %}
     <td><a href="{{ dest_url }}">{{ submission.submission_title}}</a></td>
     <td>{% for author in submission.authors %}
             {{ author.firstname }} {{ author.lastname}}{% if forloop.last == false %}, {% endif %}

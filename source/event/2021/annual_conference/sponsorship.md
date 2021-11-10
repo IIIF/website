@@ -1,6 +1,6 @@
 ---
 title: "Call for Sponsors: 2021 IIIF Conference"
-layout: online_event
+layout: event
 tags: [event ]
 ---
 

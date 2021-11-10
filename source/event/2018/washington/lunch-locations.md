@@ -1,6 +1,6 @@
 ---
 title: "Lunch locations - Wednesday May 23rd"
-layout: washington
+layout: event
 tags: [event ]
 page:
 ---

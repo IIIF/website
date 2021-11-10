@@ -1,0 +1,28 @@
+
+<style media="screen">
+  #viewer {
+    height: 60vw;
+    width: 70vw;
+    margin-bottom: 50px;
+    margin-left: -5vw;
+    margin-right: -5vw;
+    position: relative;
+  }
+</style>
+
+<div id="viewer"></div>
+
+<script type="text/javascript">
+
+tifyOptions = {
+    container: '#viewer',
+  	immediateRender: true,
+  	init: true,
+  	language: 'en',
+  	manifest: '{{include.manifest}}',
+  	//stylesheet: '../styles/my-very-own-tify-styles.css',
+  	title: null,
+  }
+</script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/tify@0.23.1/dist/tify.js"></script>

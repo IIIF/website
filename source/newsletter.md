@@ -1,15 +1,10 @@
 ---
-title: IIIF Newsletter
-layout: sub-page
-tags: [newsletter ]
+title: Newsletter
+layout: page
+hero:
+    image: ""
 ---
-
-<section class="about-content wrapper">
-
-## Newsletter signup
-
-Sign up to receive newsletters and announcements from IIIF.
-
+## Get updates on new implementations, tools, events, and more in your inbox.
 <!-- Begin Mailchimp Signup Form -->
 
 <div id="mc_embed_signup">
@@ -17,62 +12,43 @@ Sign up to receive newsletters and announcements from IIIF.
 
 <div id="mc_embed_signup_scroll">
 
-<h2>Subscribe</h2>
+</div>
 
-<div class="indicates-required">
+<div class="mc-field-group">
 
-<span class="asterisk">*</span> indicates required
+<label for="mce-EMAIL" class="label">Email address:
+</label><input type="email" value="" name="EMAIL" class="required email input is-danger" id="mce-EMAIL">
 
 </div>
 
 <div class="mc-field-group">
 
-<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+<label for="mce-FNAME" class="label">First name:
+</label><input type="text" value="" name="FNAME" class="required input is-danger" id="mce-FNAME">
 
 </div>
 
 <div class="mc-field-group">
 
-<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
-</label><input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+<label for="mce-LNAME" class="label">Last name:
+</label><input type="text" value="" name="LNAME" class="required input is-danger" id="mce-LNAME">
 
 </div>
 
 <div class="mc-field-group">
-
-<label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
-</label><input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
-
-</div>
-
-<div class="mc-field-group">
-<label for="mce-MMERGE6">Institution  <span class="asterisk">*</span>
-</label><input type="text" value="" name="MMERGE6" class="required" id="mce-MMERGE6">
+<label for="mce-MMERGE6" class="label">Institution:
+</label><input type="text" value="" name="MMERGE6" class="required input is-danger" id="mce-MMERGE6">
 
 </div>
 
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
 
 <div class="content__gdpr">
-
-<span><label>Contact permissions</label>: Please opt in by checking the box below.</span>
-
+<br>
 <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-<label class="checkbox subfield" for="gdpr_24489"><input type="checkbox" id="gdpr_24489" name="gdpr[24489]" value="Y" class="av-checkbox gdpr"><span>I would like to receive news and announcements from IIIF.</span> </label>
+<label class="checkbox subfield label" for="gdpr_24489"><input type="checkbox" id="gdpr_24489" name="gdpr[24489]" value="Y" class="av-checkbox checkbox gdpr"><span> I would like to receive news and announcements from IIIF.</span> </label>
 </fieldset>
-
-<p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit <a href="https://iiif.io/privacy/">our website.</a></p>
-
-</div>
-
-<div class="content__gdprLegal">
-
-<p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
-
-</div>
-
-</div>
+<br>
 
 <div id="mce-responses" class="clear">
 
@@ -87,7 +63,16 @@ Sign up to receive newsletters and announcements from IIIF.
 
 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
 </div>
+<br>
+<p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit <a href="https://iiif.io/privacy/">our website.</a></p>
 
+</div>
+<br>
+<div class="content__gdprLegal">
+
+<p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+
+</div>
 </div>
 
 </form>
@@ -95,29 +80,3 @@ Sign up to receive newsletters and announcements from IIIF.
 </div>
 
 <!--End mc_embed_signup-->
-
---- 
-
-## Newsletter archive
-- [IIIF Community Newsletter March 2021](https://mailchi.mp/28174381e58f/submit-a-conference-proposal-new-iiif-editors)
-- [IIIF Community Newsletter February 2021](https://mailchi.mp/c7c546c823d6/new-guides-iiif-and-omeka-and-more) 
-- [IIIF Community Newsletter December 2020](https://mailchi.mp/37cf8befa8fb/iiif-working-meeting-recordings-mirador-3-and-more) 
-- [IIIF Community Newsletter November 2020](https://mailchi.mp/008fa9e36d4c/upcoming-iiif-events-and-new-implementations) 
-- [IIIF Community Newsletter October 2020](https://mailchi.mp/37412a04cd2c/take-the-iiif-implementation-survey) 
-- [IIIF Community Newsletter August 2020](https://mailchi.mp/1d4187906eeb/iiif-newsletter-sign-up-for-an-upcoming-workshop) 
-- [IIIF Community Newsletter, Volume 4, Issue 3 (30 Jul 2020)](https://mailchi.mp/dda02250dbcd/iiif-newsletter-30-released-training-site-and-more-4842754)
-- [IIIF Community Newsletter, Volume 4, Issue 2 (02 Jul 2020)](https://mailchi.mp/d565082d2385/iiif-newsletter-30-released-training-site-and-more)
-- [IIIF Community Newsletter, Volume 4, Issue 1 (31 Mar 2020)](https://iiif.io/news/2020/03/31/newsletter/)
-- [IIIF Community Newsletter, Volume 3 Issue 4 (18 Dec 2019)](https://iiif.io/news/2019/12/18/newsletter/)
-- [IIIF Community Newsletter, Volume 3 Issue 3 (02 Oct 2019)](https://iiif.io/news/2019/10/02/newsletter/)
-- [IIIF Community Newsletter, Volume 3 Issue 2 (01 Jul 2019)](https://iiif.io/news/2019/07/01/newsletter/)
-- [IIIF Community Newsletter, Volume 3 Issue 1 (04 Apr 2019)](https://iiif.io/news/2019/04/04/newsletter/)
-- [IIIF Community Newsletter, Volume 2 Issue 3 (19 Dec 2018)](https://iiif.io/news/2018/12/19/newsletter/)
-- [IIIF Community Newsletter, Volume 2 Issue 2 (03 Jul 2018)](https://iiif.io/news/2018/07/03/newsletter/)
-- [IIIF Community Newsletter, Volume 2 Issue 1 (13 Nov 2017)](https://iiif.io/news/2017/11/13/newsletter/)
-- [IIIF Community Newsletter, Volume 1 Issue 4 (30 Aug 2017)](https://iiif.io/news/2017/08/30/newsletter/)
-- [IIIF Community Newsletter, Volume 1 Issue 3 (25 May 2017)](https://iiif.io/news/2017/05/25/newsletter/)
-- [IIIF Community Newsletter, Volume 1 Issue 2 (28 Feb 2017)](https://iiif.io/news/2017/02/28/newsletter/)
-- [IIIF Community Newsletter, Volume 1 Issue 1 (15 Nov 2016)](https://iiif.io/news/2016/11/15/newsletter/)
-
-</section>

@@ -1,7 +1,11 @@
 ---
 title: "Next Steps for the International Image Interoperability Framework"
-id: iiifc_next_steps
-layout: spec
+layout: page
+breadcrumbs:
+ - label: Community
+   link: /community/
+ - label: Consortium
+   link: /community/consortium
 ---
 
 ### 180411 (Final Version)

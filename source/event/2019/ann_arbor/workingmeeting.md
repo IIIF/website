@@ -1,8 +1,11 @@
 ---
 title: "2019 IIIF Working meeting - Ann Arbor, Michigan"
-layout: ann_arbor
+layout: event
 tags: [event ]
 page: workingmeeting
+location:
+  - label: "Ann Arbor, Michigan"
+datetime: "November 5, 2019"
 ---
 
 The 2019 IIIF working meeting is hosted by the [The University of Michigan Library][umich] and [ITHAKA][ithaka] in collaboration with the IIIF Community.
@@ -233,6 +236,6 @@ Museum galleries will be open!
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-working-meeting-ann-arbor-tickets-70170260137
 [umich]: https://www.lib.umich.edu
 [ithaka]: https://www.ithaka.org/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
 [cookbook]: https://github.com/IIIF/cookbook-recipes/issues
 [time]: https://time.is/

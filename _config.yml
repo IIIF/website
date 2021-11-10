@@ -1,68 +1,44 @@
-markdown: kramdown
-source: source
-safe: false
-permalink: /news/:year/:month/:day/:title/
+site_id:        root
+theme:          iiifc-theme
+source:         source
+permalink:      pretty
+
+root_url:       ''
+
+collections:
+  news:
+    output: true
+    permalink: /news/:year/:month/:day/:title/
+  events:
+    permalink: /:collection/:path
+    output: true
 
 plugins:
-  - jekyll-sitemap
+  - jekyll-data
+  - jekyll-gzip
   - jekyll-redirect-from
+  - jekyll-liquify
+  - jekyll-datapage-generator
 
 page_gen-dirs: false
 page_gen:
   - index_files: false
-    data: 'washington_submissions'
+    data: 'old.washington_submissions'
     template: 'submission'
     name: 'id'
     dir: 'event/2018/washington/program'
     extension: 'html'
     filter_condition: "record['decision'] == 'ACCEPT'"
   - index_files: false
-    data: '2019-conference-submissions'
+    data: 'old.2019-conference-submissions'
     template: '2019_submission'
     name: 'id'
     dir: 'event/2019/goettingen/program'
     extension: 'html'
 
-kramdown:
-  input: GFM
-  parse_block_html: true
-  toc_levels: 2..4
-  enable_coderay: true
-  syntax_highlighter: rouge
-
-  syntax_highlighter_opts:
-    wrap: div
-    css: class
-
-image_api:
-  latest:
-    major: 3
-    minor: 0
-    patch: 0
-presentation_api:
-  latest:
-    major: 3
-    minor: 0
-    patch: 0
-shared_canvas:
-  latest:
-    major: 1
-    minor: 0
-    patch: 0
-search_api:
-  latest:
-    major: 1
-    minor: 0
-    patch: 0
-auth_api:
-  latest:
-    major: 1
-    minor: 0
-    patch: 0
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      webprefix: "https://iiif.io"
+# notification:
+#   enabled: true
+#   title: This website design is in pre-beta.
+#   subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#   link: '#'
+#   link_label: This is a test link

@@ -1,0 +1,38 @@
+<nav class="site-nav">
+  <div class='secondary_navigation'>
+  {% for item in site.data.navigation %}
+    {% if page.url == item.url or page.url contains item.url %}
+      {% for sub_page in item.sub_pages %}
+        {%if sub_page.url contains "http" %}
+          <a href="{{sub_page.url}}">{{ sub_page.name }}</a>
+        {% else %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}{{sub_page.url}}">{{ sub_page.name }}</a>
+        {% endif %}
+        {% if forloop.last %}
+        {%else %} |
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+  </div>
+
+<div class="tertiary_navigation">
+  {% for item in site.data.navigation %}
+    {% for sub_page in item.sub_pages %}
+      {% if page.url contains sub_page.url %}
+        {% for third_page in sub_page.sub_pages %}
+            {%if third_page.url contains "http" %}
+            <a href="{{third_page.url}}">{{ third_page.name }}</a>
+            {% else %}
+            <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}{{sub_page.url}}{{third_page.url}}">{{ third_page.name }}</a>
+            {% endif %}
+          {% if forloop.last %}
+          {%else %} |
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>
+
+</nav>

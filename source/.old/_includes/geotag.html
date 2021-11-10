@@ -1,0 +1,130 @@
+<!-- Bert version -->
+
+<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-geotag-photo/dist/Leaflet.GeotagPhoto.css" />
+<script src="https://unpkg.com/leaflet-geotag-photo/dist/Leaflet.GeotagPhoto.min.js"></script>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+
+<style>
+
+
+      #map-container, #map {
+        position: relative;
+        height: 70vh;
+        width: 50vw;
+      }
+
+      #sidebar {
+        width: 20vw;
+        padding: 1em;
+        overflow: auto;
+      }
+
+      pre {
+        margin: 0;
+      }
+
+      #sidebar, .hljs {
+        background-color: #fafafa;
+      }
+    </style>
+
+<div id="map-container">
+  <div id="map">
+  </div>
+</div>
+<div id="sidebar">
+  <h1>Leaflet.GeotagPhoto</h1>
+  <h2>Mode: Crosshair <span class="light">(switch to <a href="camera.html">Camera</a>)</span></h2>
+  <p>
+    Leaflet plugin for photo geotagging. See <a href="https://github.com/nypl-spacetime/Leaflet.GeotagPhoto">GitHub</a> for details.
+  </p>
+  <h2>Output:</h2>
+  <pre><samp id="output">
+  </samp></pre>
+</div>
+<script>
+  var map = L.map('map', {
+    center: [52.43369, 6.83442],
+    zoom: 17,
+    minZoom: 6,
+    maxZoom: 18
+  })
+
+  var baseLayer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  }).addTo(map)
+
+  var geotagPhotoCrosshair = L.geotagPhoto.crosshair().addTo(map)
+    .on('input', function (event) {
+      updateSidebar()
+    })
+
+  var outputElement = document.getElementById('output')
+  function updateSidebar() {
+    var point = geotagPhotoCrosshair.getCrosshairPoint()
+    outputElement.innerHTML = JSON.stringify(point, null, 2)
+    hljs.highlightBlock(outputElement)
+  }
+
+  updateSidebar()
+</script> -->
+
+
+<!-- Mapbox version -->
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet" />
+<style>
+	/* body { margin: 0; padding: 0; } */
+	/* #map { position: absolute; top: 0; bottom: 0; width: 100%; } */
+#map{
+  height: 70vh;
+  width: 100%;
+}
+
+</style>
+
+<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" /> -->
+<!-- <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script> -->
+<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
+<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css" type="text/css"
+/>
+<!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+
+<div id="map"></div>
+
+<script>
+
+// var members = omnivore.kml("https://www.google.com/maps/d/u/0/kml?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp&forcekml=1");
+
+
+
+
+	// TO MAKE THE MAP APPEAR YOU MUST
+	// ADD YOUR ACCESS TOKEN FROM
+	// https://account.mapbox.com
+mapboxgl.accessToken = 'pk.eyJ1IjoiaGFkcm8iLCJhIjoicDk1NGp5SSJ9.2voUgiy8nVA7jOH-JBN1aw';
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/mapbox/streets-v11',
+center: [-5.427, 35.845],
+zoom: 10
+});
+
+// members.addTo(map);
+
+map.addControl(
+new MapboxGeocoder({
+accessToken: mapboxgl.accessToken,
+mapboxgl: mapboxgl
+})
+);
+</script>
+
+<button type="button" name="button" style="background-color: pink; height: 4em; margin: 0 auto;">SUBMIT!</button>

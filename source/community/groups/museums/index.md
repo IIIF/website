@@ -1,13 +1,12 @@
 ---
 title: "IIIF Museums Community Group"
-layout: spec
-tags: []
-cssversion: 2
+layout: page
+
 ---
 
 ## About
 
-Several museums have started to adopt IIIF for their digitized collections, including the Art Gallery of Ontario, the Art Institute of Chicago, the Carnegie Museum of Art, the Cooper Hewitt Smithsonian Design Museum, the Frick Collection, the J. Paul Getty Trust, Harvard Art Museums, the Hill Museum and Manuscript Library (HMML), the National Gallery of Art, the Paul Mellon Centre, and the Yale Center for British Art.
+Many museums have adopted IIIF for their digitized collections, including the Art Gallery of Ontario, the Art Institute of Chicago, the Carnegie Museum of Art, the Cooper Hewitt Smithsonian Design Museum, the Frick Collection, the J. Paul Getty Trust, Harvard Art Museums, the Hill Museum and Manuscript Library (HMML), the National Gallery of Art, the Paul Mellon Centre, the Yale Center for British Art, and more.
 
 As museums across the globe continue to make digital images available online, the implications and benefits of IIIF for the museums community are increasingly clear:
 
@@ -16,7 +15,7 @@ As museums across the globe continue to make digital images available online, th
 * **Creating diverse and interactive exhibits:** Thanks to its visualization features and image manipulation functionality, IIIF-compatible solutions can deliver various means of displaying content (definition, zoom, quality), and therefore extend the possibilities offered to enhance user experience on a broader level. Image viewing clients that support IIIF offer the ability to create dynamic, interactive digital exhibits, using IIIF images from across repositories.
 * For more details on the general benefits of IIIF and more, see the **[IIIF FAQ][iiif-faq]**.
 
-## Purpose
+## Goals
 
 The IIIF Museums Community Group was formed in order to facilitate the discussion of museum-specific topics in relation to IIIF, including:
 
@@ -33,17 +32,17 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
   * Richard Palmer (Victoria & Albert Museum)
   * Tina Shah (Art Institute of Chicago)
 
-**Communication Channels:**
+**Communication channels:**
 
   * Calls on the first Tuesday of every month at 11:00am Eastern - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [# museums IIIF Slack channel][museums-slack] ([Join Slack][slack])
 
-**Call Notes and Group Documents:**
+**Call notes and group documents:**
 
   * [IIIF Museums Community Group folder][museums-folder]
 
-**Call Connection Information:**
+**Call connection information:**
 
   * Online: [https://stanford.zoom.us/j/948530998][zoom-link]
 
@@ -52,8 +51,6 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
   [museums-folder]:https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?usp=sharing
   [slack]: http://bit.ly/iiif-slack
   [zoom-link]: https://stanford.zoom.us/j/93563396012?pwd=a2xxOXdLQ0hPQ0hRcWNTTWkvS0FPUT09
-  [iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+  [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
   [international-zoom]: https://zoom.us/zoomconference
-  [iiif-faq]: {{ site.url }}{{ site.baseurl }}/community/faq/
-
-{% include acronyms.md %}
+  [iiif-faq]: {{ site.root_url | absolute_url }}/community/faq/

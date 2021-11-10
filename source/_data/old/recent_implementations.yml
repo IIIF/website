@@ -1,0 +1,77 @@
+-
+  name: New National Library of Luxembourg Digital Newspaper viewer
+  github:
+  url:
+  demo: https://viewer.eluxemburgensia.lu/ark:70795/zhnzxq/pages/15/articles/DTL523
+  description: "A new viewer for digitised newspapers, books, manuscripts and more."
+  creators: National Library of Luxembourg
+-
+  name: CoinHoards
+  github:
+  url: http://coinhoards.org
+  demo: http://coinhoards.org/id/igch0012
+  description: "A new web-based, linked open data tool for research in ancient Greek numismatics and ancient economies."
+  creators: American Numismatic Society
+-
+  name: The National Brewery Centre Archives # Required
+  github:
+  url: https://www.nbcarchives.co.uk/
+  demo: https://www.nbcarchives.co.uk/collections/getrecord/GB2779_BAH_CHR_CHRPREM_96_0379_00_96_0379_3192
+  description: The National Brewery Centre is home to an unrivalled array of historical collections that relate to brewing. # Required
+  creators: # Required
+-
+  name: The iconography of illuminated manuscripts from French libraries # Required
+  github:
+  url: https://portail.biblissima.fr/
+  demo: https://portail.biblissima.fr/en/ark:/43093/descdaab5a040a9096c4c35dced093a5baec44fa6253
+  description: A major update of the Biblissima web portal, which adds 306,000+ records describing manuscripts illuminations and decoration coming from two major iconographic databases in France. # Required
+  creators:  Biblissima # Required
+-
+  name: Digital Library of the Middle East # Required
+  github:
+  url: https://dlmenetwork.org/library
+  demo:
+  description: Digital Library of the Middle East is an open platform that aims to become one of the world’s largest online archives of Middle Eastern and North African artifacts. # Required
+  creators: CLIR and Stanford Libraries # Required
+-
+  name: Piranesi image database # Required
+  github:
+  url: https://piranesi.dl.itc.u-tokyo.ac.jp/
+  demo:
+  description: The University of Tokyo Library has launched Opere di Giovanni Battista Piranesi, a new database of etchings by the 18th-century Italian artist from a volume held in the collection / ピラネージ画像データベースは、東京大学総合図書館所蔵の亀井文庫『ピラネージ版画集 Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri 』（1835〜39年，パリ，フィルマン・ディド兄弟出版社刊）全29巻に収録されたオリジナル版画1,440点をデータベース化したものです。 # Required
+  creators: University of Tokyo Library # Required
+-
+  name: Arthistoricum.net # Required
+  github:
+  url: https://www.arthistoricum.net/
+  demo:
+  description:  This site for Art History researchers to discover resources and publish their work has updated its platform to deliver new collection items using IIIF and the Mirador viewer. # Required
+  creators: # Required
+-
+  name: Sephardic Studies Digital Collection # Required
+  github:
+  url: https://content.lib.washington.edu/sephardicweb/index.html
+  demo: https://jewishstudies.washington.edu/sephardic-studies/how-to-use-mirador-sephardic-digital-collection/
+  description: The Stroum Center has enabled the use of the Mirador viewer. Now, users can closely examine, compare, manipulate, and annotate images from the collection by following their user guide, which outlines the benefits of using IIIF in research. # Required
+  creators:  The Stroum Center for Jewish Studies at University of Washington # Required
+# # -
+# #   name: # Required
+# #   github:
+# #   url:
+# #   demo:
+# #   description: # Required
+# #   creators: # Required
+# # -
+# #   name: # Required
+# #   github:
+# #   url:
+# #   demo:
+# #   description: # Required
+# #   creators: # Required
+# # -
+# #   name: # Required
+# #   github:
+# #   url:
+# #   demo:
+# #   description: # Required
+# #   creators: # Required

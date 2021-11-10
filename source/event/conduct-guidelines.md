@@ -1,7 +1,11 @@
 ---
 title: "Guidelines for IIIF Code of Conduct Team Members"
-layout: spec
-tags: [event ]
+layout: page
+breadcrumbs:
+  - label: News & Events
+    link: '{{ site.root_url }}/news-and-events/'
+  - label: All Events
+    link: '{{ site.root_url }}/event/'
 ---
 
 The IIIF Code of Conduct Team comprises all dedicated IIIF staff, plus a minimum of four representatives from different IIIF Consortium (IIIF-C) member institutions, and four individuals from across the IIIF community (not from IIIF-Consortium institutions). The team is composed based on a first-come, first-served volunteer approach, with rolling turnover. The following points are designed to provide continuity and guidance for addressing conduct issues per the [IIIF Code of Conduct][iiif-conduct].
@@ -55,6 +59,6 @@ Changes to this document will be tracked within and reflected via its [internal 
   | 2019-01-22 | Update IIIF reference to refer to any IIIF staff member             |
 
 [iiif-slack]: https://iiif.slack.com
-[iiif-conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[iiif-conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [change-log]: #change-log "Change Log"
-[guidelines]: {{ site.url }}{{ site.baseurl }}/event/conduct/#reporting-guidelines
+[guidelines]: {{ site.root_url | absolute_url }}/event/conduct/#reporting-guidelines

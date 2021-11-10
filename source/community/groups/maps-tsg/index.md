@@ -1,8 +1,7 @@
 ---
 title: "IIIF Maps Technical Specification Group"
-layout: spec
-tags: []
-cssversion: 2
+layout: page
+
 ---
 
 ## About
@@ -33,15 +32,12 @@ The [IIIF Maps TSG Charter][charter] provides a more detailed outline of anticip
 **Call connection information:**
 * Online: [https://stanford.zoom.us/j/99449304468](https://stanford.zoom.us/j/99449304468?pwd=UUNzMmFtV2dXSWs2MjVicnplS29LUT09)
 
-[charter]: {{ site.url }}{{ site.baseurl }}/community/groups/maps-tsg/charter
-[events]: {{ site.url }}{{ site.baseurl }}/event "IIIF Events"
+[charter]: {{ site.root_url | absolute_url }}/community/groups/maps-tsg/charter
+[events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [maps-slack]: https://iiif.slack.com/messages/maps/details/
 [maps-tsg-folder]: https://drive.google.com/drive/folders/1oBgyRa4VMreCCBDefpjjxzg3Zp2b2yDg
 [slack]: http://bit.ly/iiif-slack
 [zoom-link]: https://stanford.zoom.us/j/829945399?pwd=u8KPNHGHxJk
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-
-
-{% include acronyms.md %}

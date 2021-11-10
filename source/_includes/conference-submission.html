@@ -1,4 +1,4 @@
-{%  assign submission_list = site.data.2019-conference-submissions | where: "id",include.paper %}
+{%  assign submission_list = site.data.old.2019-conference-submissions | where: "id",include.paper %}
 {% assign submission = submission_list[0] %}
 {% if include.mode=='full' %}
 

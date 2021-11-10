@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers: Access to the World's Images - New York 2016"
-layout: spec
+layout: event
 tags: [event ]
 ---
 
@@ -25,12 +25,12 @@ Submissions should be sent to [iiif-proposals@googlegroups.com][proposals] as PD
 
 Submissions will be accepted up until March 21st, 2016 and no extensions to this date are expected.  They will be reviewed by a program committee consisting of members from the IIIF Editorial Board and the Coordinating Committee. An announcement as to the accepted presentations will be made in the week of March 28th, and a schedule available shortly thereafter. As with all IIIF Community events, the [Code of Conduct][conduct] applies and diversity of participation is strongly encouraged. No formal proceedings are anticipated, however crowd-sourced notes and reports are likely.
 
-[home-page]: {{ page.webprefix }}
+[home-page]: {{ site.root_url | absolute_url }}
 [eventbrite]: http://iiif-advantages-nyc.eventbrite.com/
 [eventbrite-conf]: http://iiif-conference-nyc.eventbrite.com/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[iiif-c]: {{ site.url }}{{ site.baseurl }}/news/2015/06/17/iiif-consortium/
-[tech-details]: {{ site.url }}{{ site.baseurl }}/technical-details/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
+[iiif-c]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/
+[tech-details]: {{ site.root_url | absolute_url }}/get-started/
 [proposals]: mailto:iiif-proposals@googlegroups.com
 [moma]: http://www.moma.org/
 [moma-map]: https://goo.gl/maps/9wFHb2ZzVE72

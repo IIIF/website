@@ -1,8 +1,7 @@
 ---
 title: "IIIF Maps Technical Specification Group Charter"
-layout: spec
-tags: []
-cssversion: 2
+layout: page
+
 ---
 
 
@@ -11,19 +10,19 @@ Digitized maps and geo-located images are some of the best resources for connect
 
 During discussions in the Maps Community group it has become clear that to add Geo support to version 3.0 of the IIIF Presentation API will require extending the existing specification and this is best done as a Technical Specification Group. In an early in-person gathering of the Maps Community Group, a number of Use Cases were developed which can be split into two main themes; geolocating IIIF Content (images, video or Manifests) and specific georeferencing functionality around historical maps. Both of these themes are likely to be seperate extensions. A selection of use cases include:  
 
-Geolocating IIIF Content  
+### Geolocating IIIF content  
 * [Link a IIIF resource to a point on a map](https://github.com/IIIF/iiif-stories/issues/135)
 * [Linking a geo bounding box for a map](https://github.com/IIIF/iiif-stories/issues/133)
 * [Geo-coding a page of an atlas](https://github.com/IIIF/iiif-stories/issues/132)
 * [Presenting Aerial Surveys in IIIF](https://github.com/IIIF/iiif-stories/issues/117)
 
-Georeferencing Historical IIIF Maps  
+### Georeferencing historical IIIF maps  
 * [Georeferencing a IIIF Map](https://github.com/IIIF/iiif-stories/issues/129)
 * [Masking or identifying the region of a page which contains a map](https://github.com/IIIF/iiif-stories/issues/127)
 * [Using IIIF Maps in a GIS System](https://github.com/IIIF/iiif-stories/issues/126)
 
 ## Scope
-It is the intention of this group to create a number of [IIIF Extensions](https://iiif.io/api/registry/extensions/) and avoid changing the core IIIF specifications. If after a period of time and if there is wide implementation of these extensions there may be a case made to import them into the Presentation API.  
+It is the intention of this group to create a number of [IIIF Extensions]({{ site.api_url | absolute_url }}/extension/) and avoid changing the core IIIF specifications. If after a period of time and if there is wide implementation of these extensions there may be a case made to import them into the Presentation API.  
 
 This group will initially focus on the areas mentioned above but during the course of its work it may need to discuss wider Geo and IIIF issues.  
 
@@ -38,13 +37,13 @@ The expected deliverables are two extensions to achieve the following objectives
 * Delivery of linking extension January 2021
 * Delivery of georeferencing extension June 2021
 
-## Communication Channels
+## Communication channels
 * Github Repository: maps
 * Slack: #maps
 * Email: iiif-discuss; subject line: \[Maps-TSG\]
 * Calls: monthly on off weeks to the Maps community group call  
 
-## Community Support
+## Community support
 Please add your institution below to show your support to the formation of the group:  
 * OCLC
 * Stanford University Libraries (Stace Maples & Jack Reed)
@@ -54,7 +53,7 @@ Please add your institution below to show your support to the formation of the g
 * Moravian Library (Petr Žabička)
 * Leiden University Libraries (Ben Companjen)
 
-## Technical Editors
+## Technical editors
 * Rob Sanderson (J Paul Getty Trust)
 * Michael Appleby (Yale University)
 * Simeon Warner (Cornell University)
@@ -68,6 +67,4 @@ Please add your institution below to show your support to the formation of the g
 
 [discovery-slack]: https://iiif.slack.com/messages/discovery/details/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[events]: {{ site.url }}{{ site.baseurl }}/event
-
-{% include acronyms.md %}
+[events]: {{ site.root_url | absolute_url }}/event

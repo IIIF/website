@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+
+ <h2 class="post-list-heading">{{ page.list_title | default: "Upcoming Events" }}</h2>
+     {%- if site.data.event_calendar.size > 0 -%}
+    <table>
+  {%- for event in site.data.event_calendar limit: 3 -%}
+      <tr>
+       <td>{{ event.date | escape }}
+       </td>
+       <td><a class="post-link" href="{{ event.url | relative_url }}">{{ event.title | escape }}</a>
+       </td>
+       <td>{{ event.location | escape }}
+       </td>
+      </tr>
+      {%- endfor -%}
+    </table>
+     {%- endif -%}
+
+<ul>
+  <li>See <a href=" {{ site.url }}{{ site.baseurl }}/event/past_events">past events</a></li>
+</ul>
+
+</div>

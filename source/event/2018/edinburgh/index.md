@@ -1,6 +1,6 @@
 ---
 title: "2018 IIIF Working meeting - Edinburgh, Scotland, UK"
-layout: edinburgh
+layout: event
 tags: [event ]
 ---
 
@@ -46,7 +46,6 @@ There are many places to stay in Edinburgh – we recommend using the search eng
 General booking sites:
  * [https://www.booking.com](https://www.booking.com)
  * https://www.trivago.co.uk
- * Hotel review site: [https://www.tripadvisor.co.uk/](https://www.tripadvisor.co.uk/)
  * University Accommodation: [https://www.edinburghfirst.co.uk/](https://www.edinburghfirst.co.uk/)
 
 ## Weather in Edinburgh in December
@@ -55,7 +54,7 @@ December in Edinburgh means long nights as it will be getting dark early, about 
 ## Travel to Edinburgh
 
  * **Edinburgh Airport**. Flights to Edinburgh arrive into [Edinburgh Airport][ed-airport] (EDI). More information is available on [flights to Edinburgh][eds-flights]. To get from the airport to the city centre it is possible to take either a bus or a tram.
-   * **Airport Bus**. The [Airlink 100][airlink] bus service runs between the airport and the city centre and takes approximately 30 minutes. Tickets cost £4.50 for an adult single, or £7.50 for an airport return, and can be bought at the airport information desk, at the bus stop, from the driver or online. [Airport Buses – Lothian Buses][lothian-airport] also offer connections to and from the airport on bus lines N22, 200, 300. For information on bus services in and around Edinburgh, please visit [Lothian Buses][lothian-bus].
+   * **Airport Bus**. The Airlink 100 bus service runs between the airport and the city centre and takes approximately 30 minutes. Tickets cost £4.50 for an adult single, or £7.50 for an airport return, and can be bought at the airport information desk, at the bus stop, from the driver or online. [Airport Buses – Lothian Buses][lothian-airport] also offer connections to and from the airport on bus lines N22, 200, 300. For information on bus services in and around Edinburgh, please visit [Lothian Buses][lothian-bus].
    * **Airport Tram**. Trams run frequently from Edinburgh Airport to York place, running through the city centre en-route. For more information please [click here][tram].  
  * **Travel by Train**. If travelling from within the UK, Edinburgh is easily accessed by the [national rail service][nrs] arriving into either Haymarket Station or [Edinburgh Waverley Station][waverley], which is the closest to the University.
  * **Travel by Car**. Travel times by road are less than you might think. From the south: Birmingham is about 5 hours away; Manchester and York, 3 hours; Newcastle, 2 hours. From the north: Inverness is about 3 hours away; Aberdeen, 2 hours.
@@ -192,21 +191,18 @@ Ask the conference hosts for other suggestions, if you have something particular
 ## Childcare
 For details of childcare in the conference vicinity please see www.childcare.co.uk
 
-{% include edinburgh-images.html %}
-
-[home-page]: {{ site.url }}{{ site.baseurl }}/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[home-page]: {{ site.root_url | absolute_url }}/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [edinburgh]: https://www.ed.ac.uk/
 [nls]: https://www.nls.uk/
 [IIIF-Discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[showcase]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/showcase/
-[workingmeeting]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/workingmeeting/
+[showcase]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/showcase/
+[workingmeeting]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/workingmeeting/
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-edinburgh-showcase-tickets-51020491664
 [working-eventbrite]: https://www.eventbrite.com/e/2018-iiif-working-meeting-edinburgh-tickets-50777559046
 [ed-airport]: http://www.edinburghairport.com/
 [eds-flights]: http://edinburgh.org/travel/flights-to-edinburgh/
-[airlink]: https://lothianbuses.co.uk/timetables-and-maps/timetables/100
 [lothian-airport]: https://www.lothianbuses.com/our-services/airport-buses/
 [lothian-bus]: https://lothianbuses.co.uk/
 [tram]:https://edinburghtrams.com/

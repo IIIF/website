@@ -1,7 +1,10 @@
 ---
 title: "Hotels for the 2019 IIIF Working Meeting - Ann Arbor, Michigan, USA"
-layout: ann_arbor
+layout: event
 tags: [event ]
+location:
+  - label: "Ann Arbor, Michigan"
+datetime: "November 4, 2019"
 ---
 
 This is a short list of nearby hotels with which we have been able to negotiate special rates and pre-arranged room bookings. In some cases, web-reservations do not reflect the special rates. Please then make your reservation by email/telephone.

@@ -1,0 +1,23 @@
+<table>
+  {%- for example in site.data.popular_tools reversed limit: 5 -%}
+  <tr>
+    <td>
+      <h3><strong>{{example.name}}</strong>{%if example.creators%} by {{example.creators}}{% endif %}</h3>
+    </td>
+    <td>{{example.description}}</td>
+    <td>
+      <ul>
+      {%if example.url%}
+      <li><a href="{{example.url}}">Site</a></li>
+      {% endif %}
+      {%if example.demo%}
+      <li><a href="{{example.demo}}">Demo</a></li>
+      {% endif %}
+      {%if example.github%}
+      <li><a href="{{example.github}}">Github</a></li>
+      {% endif %}
+      </ul>
+    </td>
+  </tr>
+  {% endfor %}
+</table>

@@ -1,10 +1,8 @@
 ---
 title: "2019 IIIF Conference Travel Scholarship"
-layout: sub-page
+layout: event
 tags: [event ]
 ---
-
-{% capture content %}
 
 ### Overview
 
@@ -53,9 +51,4 @@ If you have any questions, please contact <admin@iiif.io>
 
 [^code4lib_note]: This criterion closely mirrors the way the Code4Lib community describes requirements for their scholarship (https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form)
 
-{% endcapture %}
-
-{% include section.html class="step quick-start" content=content %}
-
-
-[conference]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/
+[conference]: {{ site.root_url | absolute_url }}/event/2019/goettingen/

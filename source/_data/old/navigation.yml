@@ -1,0 +1,109 @@
+-
+  name: Get Started
+  url: /get_started
+  sub_pages:
+    # -
+    #   name: How to get started
+    #   url: /how_to_get_started/
+    -
+      name: API Docs
+      url: /api_docs/
+      sub_pages:
+        -
+          name: API Documentation Home
+          url: https://iiif.io/api/
+        -
+          name: Github Repositories (external link)
+          url: https://github.com/IIIF
+        -
+          name: Technical Review Committee (TRC)
+          url: https://iiif.io/community/trc/
+    -
+      name: Talks
+      url: /talks/
+    -
+      name: Community Tools
+      url: /community_tools/
+    -
+      name: The Cookbook
+      url: /cookbook/
+-
+  name: Showcase
+  url: /showcase
+  sub_pages:
+    -
+      name: IIIF Viewers
+      url: /iiif_viewers
+    -
+      name: Image Servers
+      url: /image_servers
+    -
+      name: Experiments & Fun
+      url: /experiments_and_fun
+    # -
+    #   name: Case Studies
+    #   url: /case_studies
+    # -
+    #   name: Awesome IIIF (on Github)
+    #   url: https://github.com/IIIF/awesome-iiif
+-
+  name: Community
+  url: /community/
+  sub_pages:
+
+    -
+      name: About the IIIF Consortium
+      url: consortium
+      sub_pages:
+        -
+          name: Consortium Members
+          url: /members/
+        -
+          name: Join the Consortium
+          url: /join/
+        -
+          name: Meet the Staff
+          url: /staff/
+        -
+          name: Founding Documents
+          url: /documents/
+
+
+    -
+      name: Code of Conduct
+      url: conduct/
+    -
+      name: Community Groups
+      url: groups
+      sub_pages:
+        -
+          name: How Groups Work
+          url: /how_groups_work/
+        -
+          name: Committees
+          url: /committees/
+    -
+      name: Ambassadors
+      url: ambassadors/
+
+
+-
+  name: Events
+  url: /event
+  sub_pages:
+    -
+      name: Past Events
+      url: /past_events
+    -
+      name: Host an Events
+      url: /host_your_own_IIIF_event
+-
+  name: Training
+  url: /training
+  sub_pages:
+    -
+      name: Online Training
+      url: /online_training
+    -
+      name: Outreach materials
+      url: /outreach_materials

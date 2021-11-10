@@ -1,8 +1,7 @@
 ---
 title: "IIIF Discovery for Humans Community Group"
-layout: spec
-tags: []
-cssversion: 2
+layout: page
+
 ---
 
 ## About
@@ -35,25 +34,23 @@ These aims are different from and complementary to the approach of the [IIIF Dis
  * Jeff Mixter, OCLC
  * Ben Bakelaar, St. Louis University / Rutgers University
 
-**Communication Channels:**
+**Communication channels:**
 
   * Monthly calls - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [#d4h--discovery-for-humans IIIF Slack channel][slack]
 
-**Call Notes and Group Documents**
+**Call notes and group documents:**
 
 IIIF Discovery for Users Community Group Folder ([https://drive.google.com/drive/folders/1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7](https://drive.google.com/drive/folders/1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7))
 
-**Call Connection Information:**
+**Call connection information:**
 
  * Online: [https://stanford.zoom.us/j/91556981560][zoom-link]
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
 [zoom-link]: https://stanford.zoom.us/j/91556981560?pwd=SGFaVnNxYnE2dGd4bjYwT05Fb2h3QT09
-[iiif-calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-[discovery-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery "IIIF Discovery Technical Specification Group"
-
-{% include acronyms.md %}
+[discovery-tsg]: {{ site.root_url | absolute_url }}/community/groups/discovery "IIIF Discovery Technical Specification Group"

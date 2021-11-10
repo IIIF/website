@@ -1,0 +1,218 @@
+#Ex Officio
+- institution: IIIF Managing Director
+  name: Josh Hadro
+  role: 1
+- institution: IIIF Technical Coordinator
+  name: Glen Robson
+  role: 1
+- institution: IIIF Editors
+  name: Rob Sanderson
+  role: 1
+- institution: IIIF Editors
+  name: Mike Appleby
+  role: 1
+- institution: IIIF Editors
+  name: Tom Crane
+  role: 1
+- institution: IIIF Editors
+  name: Simeon Warner
+  role: 1
+- institution: IIIF Editors
+  name: Jon Stroop
+  role: 1
+- institution: IIIF Editors
+  name: Maria Whitaker
+  role: 1
+- institution: IIIF Editors
+  name: Jeff Mixter
+  role: 1
+- institution: IIIF Editors
+  name: Dawn Childress
+  role: 1
+
+- institution: IIIF TSG - A/V
+  name: Jon Dunn
+  role: 1
+- institution: IIIF TSG - Discovery
+  name: Matt McGrattan
+  role: 1
+- institution: IIIF TSG - Authenticaiton
+  name: Stefano Cossu
+  role: 1
+- institution: IIIF TSG - Maps
+  name: Bryan Haberberger
+  role: 1
+- institution: IIIF TSG - Text Granularity
+  name: (declined)
+  role: 1
+  
+#Consortium Full Members 
+- institution: ARTstor
+  name: Will Groppe
+  role: 2
+#- institution: Bayerische Staatsbibliothek (Bavarian State Library)
+#  name: 
+#  role: 2
+- institution: La Bibliothèque nationale de France
+  name: Stéphane Pillorget
+  role: 2
+- institution: British Library
+  name: Paul Clements
+  role: 2
+#- institution: Brown University
+#  name: 
+#  role: 2
+#- institution: Cambridge University
+#  name: 
+#  role: 2
+#- institution: Chinese University of Hong Kong
+#  name: 
+#  role: 2
+#- institution: Cornell University
+#  name:
+#  role: 2
+#- institution: École polytechnique fédérale de Lausanne (EPFL)
+#  name: 
+#  role: 2
+- institution: Europeana
+  name: Nuno Freire
+  role: 2
+- institution: Folger Shakespeare Library
+  name: Mike Poston
+  role: 2
+- institution: The J. Paul Getty Trust
+  name: Stefano Cossu
+  role: 2
+- institution: Gottingen State and University Library
+  name: Ingo Pfennigstorf
+  role: 2
+- institution: Harvard University
+  name: Rashmi Singhal
+  role: 2
+#- institution: Indiana University
+#  name: 
+#  role: 2
+- institution: Johns Hopkins University
+  name: Mark Patton
+  role: 2
+#- institution: Kansai University
+#  name: 
+#  role: 2
+- institution: Kyoto University Library Network
+  name: Chifumi Nishioka
+  role: 2
+#- institution: Leiden University
+#  name: 
+#  role: 2
+#- institution: MIT Libraries
+#  name: 
+#  role: 2
+- institution: National Gallery of Art
+  name: David Beaudet
+  role: 2
+- institution: National Institute of Informatics
+  name: Akihiko Takano
+  role: 2
+- institution: National Institute of Japanese Literature
+  name: Kazuhiro Okada
+  role: 2
+#- institution: Nasjonalbiblioteket (National Library of Norway)
+#  name: 
+#  role: 2
+#- institution: National Library of Israel
+#  name: 
+#  role: 2
+#- institution: National Library of Poland
+#  name: 
+#  role: 2
+- institution: National Library of Wales
+  name: Siân Thomas
+  role: 2
+- institution: New York University Libraries
+  name: Alberto Ortiz Flores
+  role: 2
+- institution: North Carolina State University Libraries
+  name: Jason Ronallo
+  role: 2
+#- institution: OCLC
+#  name: Jeff Mixter
+#  role: 2
+#- institution: Ohio State University
+#  name: 
+#  role: 2
+- institution: Pennsylvania State University Libraries
+  name: Adam Wead
+  role: 2
+- institution: Princeton University Library
+  name: Trey Pendragon
+  role: 2
+- institution: Smithsonian institution
+  name: Andrew Gunther
+  role: 2
+- institution: Stanford University
+  name: Jack Reed
+  role: 2
+- institution: University of Basel, Digital Humanities Lab
+  name: Julien A. Raemy 
+  role: 2
+- institution: University of California, Los Angeles
+  name: Kevin Clarke
+  role: 2
+- institution: University of Edinburgh
+  name: Scott Renton
+  role: 2
+#- institution: University of Hong Kong
+#  name: 
+#  role: 2
+#- institution: University of Michigan
+#  name: 
+#  role: 2
+- institution: University of Notre Dame
+  name: Jon Hartzler
+  role: 2
+- institution: University of Oxford (Bodleian Library)
+  name: Andy Irving
+  role: 2
+#- institution: University of Pennsylvania
+#  name: 
+#  role: 2
+- institution: University of Tokyo
+  name: Kiyonori Nagasaki
+  role: 2
+#- institution: University of Toronto
+#  name:  
+#  role: 2
+- institution: Vatican Library
+  name: Paola Manoni
+  role: 2
+- institution: Walter J. Ong, S.J. Center for Digital Humanities at Saint Louis University
+  name: Patrick Cuba
+  role: 2
+- institution: Wellcome Trust
+  name: Jonathan Tweed
+  role: 2
+- institution: Yale University
+  name: Seong-June Kim 
+  role: 2
+  
+#Consortium Associate Members
+#- institution: LYRASIS 
+#  name: 
+#  role: 3
+  
+#Community representatives
+- institution: University College Dublin
+  name: Pete Clarke
+  role: 4
+- institution: Yale University, EaaSI program
+  name: Katherine Thornton  
+  role: 4
+- institution: 
+  name: 
+  role: 4
+- institution: Yale University Library
+  name: Trip Kirkpatrick
+  role: 4
+- institution: Biblissima - Campus Condorcet - EPHE-PSL
+  name: Régis Robineau  
+  role: 4

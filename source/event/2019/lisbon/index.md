@@ -1,6 +1,6 @@
 ---
 title: "2019 IIIF Mini Conference - National Library of Portugal, Lisbon, Portugal"
-layout: spec
+layout: event
 tags: [event ]
 ---
 
@@ -40,5 +40,5 @@ Attendees will learn about the purpose and benefits of IIIF for web-based image 
 The IIIF [Code of Conduct][conduct] applies to all IIIF events and related activities. Please direct any questions to Glen Robson, IIIF Technical Coordinator, at glen.robson@iiif.io.
 
 [eventbrite]: https://www.eventbrite.co.uk/e/europeana-2019-pre-conference-workshops-tickets-69266930253
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-
+[nlp]: http://www.bnportugal.gov.pt/index.php?lang=en
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/

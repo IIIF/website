@@ -1,0 +1,11 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.min.js" integrity="sha512-pZ0i46J1zsMwPd2NQZ4IaL427jXE2RVHMk3uv/wPTNlBVp9AbB1L65/4YdrXRPLEmyZCkY9qYOOsQp44V4orHg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<div id="calendar-container"></div>
+
+<script type="text/javascript">
+  var timezone = jstz.determine();
+  var pref = '<iframe src="https://calendar.google.com/calendar/embed?title=IIIF%20Community%20Calendar&amp;src=1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com&ctz=';
+  var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
+  var iframe_html = pref + timezone.name() + suff;
+  document.getElementById('calendar-container').innerHTML = iframe_html;
+</script>

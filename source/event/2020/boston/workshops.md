@@ -1,6 +1,6 @@
 ---
 title: "Workshops: 2020 IIIF Conference in Boston, MA - Tuesday June 2, 2020"
-layout: boston
+layout: event
 tags: [event ]
 page: workshops
 ---

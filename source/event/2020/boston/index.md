@@ -1,6 +1,6 @@
 ---
 title: "IIIF Annual Conference and Showcase Overview - Boston, MA - June 1-4, 2020"
-layout: boston
+layout: event
 tags: [event ]
 page: overview
 ---
@@ -107,19 +107,17 @@ The final program will continue to develop over the next few months but please s
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 85%; height: 600px"></iframe>
 
 
-{% include boston-images.html %}
-
 [iiif]: https://iiif.io/
 [harvard]: https://www.harvard.edu/
 [mit]: https://mit.edu/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[consortium]: {{ site.root_url | absolute_url }}/community/consortium/
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
 [cfp]: https://docs.google.com/forms/d/e/1FAIpQLSd2Fts7cA9dmLzuIytA0awCzpUrtzPzneTR7o47KiOb5mgueg/viewform
-[sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/sponsorship
-[boston-hotels]: {{ site.url }}{{ site.baseurl }}/event/2020/boston/boston-hotels
-[workshops]:  {{ site.url }}{{ site.baseurl }}/event/2020/boston/workshops/
+[sponsors]:  {{ site.root_url | absolute_url }}/event/2020/boston/sponsorship
+[boston-hotels]: {{ site.root_url | absolute_url }}/event/2020/boston/boston-hotels
+[workshops]:  {{ site.root_url | absolute_url }}/event/2020/boston/workshops/

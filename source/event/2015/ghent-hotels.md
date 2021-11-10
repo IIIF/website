@@ -1,6 +1,6 @@
 ---
 title: "Hotel List: Ghent 2015"
-layout: spec
+layout: event
 tags: [event ]
 redirect_from:
   - /event/2015/ghent-hotels.html
@@ -57,8 +57,6 @@ Hoogstraat 36
 Tel: +32 9 325 4070
 Tel: +32 9 235 4076
 
-https://www.sandton.eu/sandton-grand-hotel-reylof/en/
-
 Prices:
 
   * Single Charme Room: 142,50€ breakfast included
@@ -67,7 +65,6 @@ Prices:
 Notes:
 
   * Contact [Reservations.reylof@sandton.eu](mailto:Reservations.reylof@sandton.eu) and use code "Ugent Shared Canvas"
-
 
 ## &nbsp; NH Gent Belfort
 

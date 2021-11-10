@@ -1,0 +1,30 @@
+---
+title: News Archive
+layout: sub-page
+---
+
+<ul>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/newsletter">Sign up for the IIIF newsletter</a></li>
+</ul>
+
+<hr>
+
+<table>
+{%- for post in site.posts -%}
+{%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+  <tr>
+   <td>{{ post.date | date: date_format }}
+   </td>
+   <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> <em>by {{ post.author | escape }}</em>
+     {% if post.excerpt %}<br>
+     {{ post.excerpt }}
+     {%endif%}
+   </td>
+   <td>
+    {% for tag in post.tags %}
+    {{ tag | escape }}
+    {%- endfor -%}
+   </td>
+  </tr>
+  {%- endfor -%}
+</table>

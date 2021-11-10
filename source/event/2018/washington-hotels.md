@@ -1,6 +1,6 @@
 ---
 title: "2018 Hotels for the IIIF Conference - Washington, DC"
-layout: washington
+layout: event
 tags: [event ]
 ---
 This is a short list of nearby hotels. There are no special rates and no room bookings have been held.

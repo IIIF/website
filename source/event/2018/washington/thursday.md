@@ -1,6 +1,6 @@
 ---
 title: "Thursday 24th, Madison Building, Library of Congress"
-layout: washington
+layout: event
 tags: [event ]
 page: thursday
 ---

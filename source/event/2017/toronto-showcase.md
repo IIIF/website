@@ -1,6 +1,6 @@
 ---
 title: "IIIF Showcase - Toronto - 2017"
-layout: spec
+layout: event
 tags: [event ]
 ---
 
@@ -63,7 +63,7 @@ For those who may choose to stay overnight, we have a hotel block with discounte
 | 6:00PM - 8:00   | Light Reception (appetizers, beer, wine) |  |
 {: .api-table .msched-table}
 
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [UT]: https://onesearch.library.utoronto.ca/library-info/ROBARTS
 [registration]: https://iiifshowcase-toronto.eventbrite.com
 [holiday-inn]: https://drive.google.com/file/d/0B8biwZuDijgeeWkzWjcxcF9EZGs/view?usp=sharing

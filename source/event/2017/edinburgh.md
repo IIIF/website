@@ -1,6 +1,6 @@
 ---
 title: "IIIF Showcase and Technical Workshop"
-layout: spec
+layout: event
 tags: [event ]
 ---
 
@@ -36,7 +36,7 @@ The IIIF Technical Workshop unconference, hosted by the University of Edinburgh 
 
 [edinburgh]: https://www.ed.ac.uk/
 [nls]: https://www.nls.uk/
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [showcase-reg]: https://iiifshowcaseedinburgh.eventbrite.co.uk/
 [technical-reg]: https://iiiftechnicaledinburgh.eventbrite.co.uk/
 [nls-map]: http://www.nls.uk/info/locationmap/index.cfm

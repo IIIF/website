@@ -1,6 +1,6 @@
 ---
 title: "Friday 28th, Alte Mensa, Göttingen"
-layout: gottingen
+layout: event
 tags: [event ]
 page: friday
 ---
@@ -55,7 +55,7 @@ This is the agenda for Friday the 28th of June, the last day of the conference. 
                 <ul>
                     <li>Andrew Walsøe, National Library of Norway</li>
                     <li>Sonia Wronkowska, National Library of Poland</li>
-                    <li><a href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/program/63/">Jens Dobberthin - Museum für Naturkunde Berlin</a></li>
+                    <li><a href="{{ site.root_url | absolute_url }}/event/2019/goettingen/program/63/">Jens Dobberthin - Museum für Naturkunde Berlin</a></li>
                     <li>Hannah Busch - Huygens ING</li>
                </ul>
            </td>
@@ -71,5 +71,5 @@ Also check out the [#göttingen-social][slack-channel] on the IIIF Slack for rea
 
 
 [registration]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
-[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social

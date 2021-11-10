@@ -1,6 +1,6 @@
 ---
 title: "2018 IIIF Showcase - Edinburgh, Scotland, UK"
-layout: edinburgh
+layout: event
 tags: [event ]
 ---
 
@@ -409,8 +409,6 @@ The schedule for the evening is as follows:
   }
 </script>
 
-{% include edinburgh-images.html %}
-
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>
 
 [showcase-eventbrite]: https://www.eventbrite.com/e/iiif-edinburgh-showcase-tickets-51020491664
@@ -419,4 +417,4 @@ The schedule for the evening is as follows:
 [nls-map]: https://goo.gl/maps/Sx1vhteqp3s
 [stCs-map]: https://goo.gl/maps/kifsKPh1e5o 
 
-[lunch]: {{ site.url }}{{ site.baseurl }}/event/2018/edinburgh/#locations-in-edinburgh
+[lunch]: {{ site.root_url | absolute_url }}/event/2018/edinburgh/#locations-in-edinburgh

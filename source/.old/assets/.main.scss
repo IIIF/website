@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
+
+			#announce-list {
+				float: right;
+				width: 25%;
+				// padding-left: 30px;
+        padding: 1em 2em;
+        margin: 0 10em 0 0;
+				min-width: 25ch;
+        background-color: #fff;
+			}
+
+.external:after{
+    content: '';
+    background:url({{ site.url }}{{ site.baseurl }}/img/link_out.svg);
+    background-size:cover;
+    //    position:absolute;
+    width: 1em;
+    height: 1em;
+    margin-left:1px;
+    display: inline-block;
+}

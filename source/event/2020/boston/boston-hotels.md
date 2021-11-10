@@ -1,6 +1,6 @@
 ---
 title: "Hotels for the 2020 Annual Conference - Boston, MA, USA"
-layout: boston
+layout: event
 tags: [event ]
 ---
 

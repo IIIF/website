@@ -1,14 +1,9 @@
 ---
 title: "2021 IIIF Annual Conference, June 22-24, Online"
-layout: online_event
+layout: event
 tags: [event ]
 page: overview
 ---
-
-<!-- <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/add-to-calendar.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-with-locales.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/vendor/moment-timezone-with-data.js"></script> -->
 
 **The 2021 IIIF Annual Conference will take place online from June 22-24 and is free to attend.**
 
@@ -18,11 +13,10 @@ This event will include sessions that have been traditionally held at IIIF event
 
 In response to the lingering effects of the pandemic, it will also include the opportunity to host and attend regionally-focused online meetings aimed at networking and knowledge sharing with local attendees.
 
-<!-- **Registration is open until June 15th sign up today** -->
+<!-- **Registration is open until June 15th--sign up today!**
 
 <p class="register"><a href="https://www.eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357">Register</a></p>
-
- -->
+-->
 
 ## Logistics
 * This event is free and open to all attendees
@@ -40,14 +34,14 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 **Silver sponsors**  <br>
 
-<a href="https://exlibrisgroup.com/products/alma-library-services-platform/digital-resources/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/ex_libris.png" alt="Ex Libris Logo" style="width: 300px;"></a>
+<a href="https://exlibrisgroup.com/products/alma-library-services-platform/digital-resources/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/ex_libris.png" alt="Ex Libris Logo" style="width: 300px;"></a>
 
 
 **Bronze sponsors**  <br>
-<!-- <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a> -->
-<a href="https://gallerysystems.com/international-image-interoperability-framework-iiif/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
-<a href="https://seige.digital" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/seige.digital-logo-1600.png" alt="seige.digital logo" style="width: 300px; padding-left: 4em;"></a>
-<!-- <a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a> -->
+<!-- <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a> -->
+<a href="https://gallerysystems.com/international-image-interoperability-framework-iiif/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
+<a href="https://seige.digital" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/seige.digital-logo-1600.png" alt="seige.digital logo" style="width: 300px; padding-left: 4em;"></a>
+<!-- <a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a> -->
 
 ## Program committee
 Thanks to the 2021 program committee for their help with this event:
@@ -62,8 +56,7 @@ Thanks to the 2021 program committee for their help with this event:
 
 ## IIIF Zoom background
 
-Feel free to download and use [IIIF zoom background]({{ site.url }}{{ site.baseurl }}/img/event/IIIF_Zoom_Background_Maple.jpg) used by the IIIF-Consortium staff during the conference and beyond. (And thanks to the Art Institute of Chicago for making the source image, [Flowering Cherry and Autumn Maples with Poem Slips](https://www.artic.edu/artworks/127643/flowering-cherry-and-autumn-maples-with-poem-slips), available as a public domain download.)
-
+Feel free to download and use [IIIF zoom background]({{ site.root_url | absolute_url }}/assets/event/IIIF_Zoom_Background_Maple.jpg) used by the IIIF-Consortium staff during the conference and beyond. (And thanks to the Art Institute of Chicago for making the source image, [Flowering Cherry and Autumn Maples with Poem Slips](https://www.artic.edu/artworks/127643/flowering-cherry-and-autumn-maples-with-poem-slips), available as a public domain download.)
 
 ---
 
@@ -87,11 +80,11 @@ __Please note times below are shown in EDT. To see the times in your timezone pl
 Questions? Email us at <events@iiif.io>.
 
 [iiif]: https://iiif.io/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
+[groups]: {{ site.root_url | absolute_url }}/community/groups/
+[consortium]: {{ site.root_url | absolute_url }}/community/consortium/
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
-[sponsors]: {{ site.url }}{{ site.baseurl }}/event/2021/annual_conference/sponsorship/
+[sponsors]: {{ site.root_url | absolute_url }}/event/2021/annual_conference/sponsorship/

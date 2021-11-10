@@ -1,22 +1,82 @@
 ---
 title: "2019 IIIF Conference - Göttingen, Germany"
-layout: gottingen
+layout: event
 tags: [event ]
 ---
 
 <hr/>
 <div class="row" markdown="0">
 <div class="column left" style="width:15%">
-<img style="width: 100%" alt="IIIF Logo" src="{{ site.url }}{{ site.baseurl }}/img/IIIF-logo-with-text-500w.png"/>
+<img style="width: 100%" alt="IIIF Logo" src="{{ site.root_url | absolute_url }}/assets/IIIF-logo-with-text-500w.png"/>
 </div>
 <div class="column center" style="width:35%">
 &nbsp;
 </div>
 <div class="column right" style="width:50%">
-<a href="https://www.sub.uni-goettingen.de/en" style="border-bottom: none"><img style="width:100%" alt="University of Göttingen logo" src="{{ site.url }}{{ site.baseurl }}/img/event/SUB_right_horizontal.png"/></a>
+<a href="https://www.sub.uni-goettingen.de/en" style="border-bottom: none"><img style="width:100%" alt="University of Göttingen logo" src="{{ site.root_url | absolute_url }}/assets/event/SUB_right_horizontal.png"/></a>
 </div>
 </div>
 <hr/>
+
+
+<div class="sub-pages-container">
+  <div class="{{ page.id }} clearfix">
+    <section class="washington-links">
+        <nav class="washington-nav">
+        <ul>
+            {% if page.page contains 'overview' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/">Overview / Logistics</a></li>
+            {% if page.page contains 'monday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/">Monday - showcase</a></li>
+            {% if page.page contains 'tuesday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/">Tuesday - Workshops</a></li>
+            {% if page.page contains 'wednesday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/wednesday/">Wednesday - Conference</a></li>
+            {% if page.page contains 'thursday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/thursday/">Thursday - Conference</a></li>
+            {% if page.page contains 'friday' %}
+                {% assign class = 'is-selected' %}
+            {% else %}
+                {% assign class = '' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}/event/2019/goettingen/friday/">Friday - Conference</a></li> 
+        </ul>
+    </nav>
+    </section>
+    <article>
+      {% include sub-page_header.html %}
+      {% for word in site.data.rfc_words %}
+        {% assign upper = word | prepend: '<em>' | append: '</em>' %}
+        {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
+        {% assign content = content | replace: upper, lower %}
+      {% endfor %}
+      <div class="specbody">
+      {{ content }}
+      </div>
+    </article>
+  </div>
+</div>
+   
 
 ### Overview
 
@@ -80,18 +140,18 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 Both the IIIF Göttingen Conference and the IIIF Showcase are generously supported by the following Conference Sponsors:
 
 **Gold sponsors**  <br>
-Phase One <https://www.phaseone.com/>
-<a href="https://www.cogapp.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/Cogapp_Logo_lg_black.png" alt='Cogapp logo' style="width: 300px"></a>
-<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
+<a href="https://www.phaseone.com/" style="border-bottom: none">PhaseOne</a>
+<a href="https://www.cogapp.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/Cogapp_Logo_lg_black.png" alt='Cogapp logo' style="width: 300px"></a>
+<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
 
 **Silver sponsors**  <br>
-<a href="https://www.textandbytes.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/text_and_bytes_logo.png" alt='text and bytes logo' style="width: 300px"></a>
-<a href="http://www.casalini.it/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/logo_casalini_atcult_300px.png" alt='Casalini logo' style="width: 300px"></a>
+<a href="https://www.textandbytes.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/text_and_bytes_logo.png" alt='text and bytes logo' style="width: 300px"></a>
+<a href="http://www.casalini.it/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/logo_casalini_atcult_300px.png" alt='Casalini logo' style="width: 300px"></a>
 
 **Bronze sponsors**  <br>
-<a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a>
-<a href="https://www.gallerysystems.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
-<a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.url }}{{ site.baseurl }}/img/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a>
+<a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a>
+<a href="https://www.gallerysystems.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
+<a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a>
 
 If you are interested in becoming a conference sponsor, please see the benefits and costs on the [sponsorship page][sponsors] and contact <admin@iiif.io>. 
 
@@ -111,11 +171,11 @@ If you are interested in becoming a conference sponsor, please see the benefits 
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg/768px-G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Gänseliesel fountain on the market square in Göttingen. Image taken by Daniel Schwen on march 3rd 2006.">
         <img class="thumb-lightbox" alt="Gänseliesel fountain on the market square in Göttingen. Old townhall in the background. Image taken by Daniel Schwen on march 3rd 2006." src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg/360px-G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg" height="200">
     </a>
-    <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-thumb.png" height="200">
+    <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-thumb.png" height="200">
     </a>
-    <a href="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-conference-location-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the Conference location. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.url }}{{ site.baseurl }}/img/event/goettingen-conference-location-thumb.png" height="200">
+    <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the Conference location. Photo: Frank Stefan Kimmel">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-thumb.png" height="200">
     </a>
 </div>
 
@@ -130,17 +190,17 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 
 [home-page]: http://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
+[conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
-[sponsors]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/sponsorship/
-[showcase]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/showcase/
-[workshops]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/workshops/
-[goettingen-hotels]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-hotels/
-[wednesday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/wednesday/
-[thursday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/thursday/
-[friday]:  {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/friday/
+[sponsors]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/sponsorship/
+[showcase]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/showcase/
+[workshops]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/workshops/
+[goettingen-hotels]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-hotels/
+[wednesday]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/wednesday/
+[thursday]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/thursday/
+[friday]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/friday/
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
-[scholarship]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/annual_conference_travel_scholarship/
+[scholarship]: {{ site.root_url | absolute_url }}/event/2019/goettingen/annual_conference_travel_scholarship/
 [phaseone]: https://www.phaseone.com/
 [cogapp]: https://www.cogapp.com/
 [textbytes]: https://www.textandbytes.com/
@@ -148,7 +208,7 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [gallerysystems]: https://www.gallerysystems.com/
 [slack]: http://bit.ly/iiif-slack
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
-[social]: {{ site.url }}{{ site.baseurl }}/event/2019/goettingen/goettingen-social/
+[social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [conduct-list]: mailto:iiif-conduct@googlegroups.com
 [hirsch]: mailto:rebecca.hirsch@yale.edu
 [matienzo]: mailto:matienzo@stanford.edu

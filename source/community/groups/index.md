@@ -1,57 +1,49 @@
 ---
-title: "IIIF Community and Technical Specification Groups"
-layout: spec
-tags: []
-cssversion: 2
+title: IIIF Community and Technical Specification Groups
+layout: page
+breadcrumbs:
+ - label: Community
+   link: /community/
 ---
 
-The following is a list of active IIIF community groups and technical specification groups. IIIF groups are open to participation from all interested parties. New groups may be formed according to the [IIIF Groups Framework][groups-framework].
+Community Groups provide an opportunity for discussing and advancing IIIF-related issues with peers. They meet regularly and **are open to all**.
 
-## Community Groups
+If you'd like to propose a technical or community topic that would benefit the community, please review the [Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework).
 
-  * [3D][3d]
-  * [Archives][archives]
-  * [A/V][av] 
-  * [Discovery for Humans][d4h]
-  * [Manuscripts][manuscripts]
-  * [Maps][maps]
-  * [Museums][museums]
-  * [Newspapers][newspapers]
-  * [Outreach][outreach]
+## Current Groups
 
+All of the meetings for the groups listed below are open to the public and can be joined at any time -- newcomers welcome!
 
-## Technical Specification Groups  
+### Community Groups
 
-  * [Discovery][discovery]
-  * [Text Granularity][text-granularity]
-  * [Maps][maps-tsg]
-  * [Authentication][auth-tsg]
-  * [Content Search][content-search-tsg]
+Community Groups meet to discuss issues related to current themes and topics, and also often feature demos of relevant work and recent implementations.
+{% assign community = site.data.groups | where_exp: "group","group.type == 'community'" %}
+{% for group in community %}
+ * [{{group.label}}]({{ site.root_url | absolute_url }}{{group.link}}) - {{group.meeting_frequency }}
+{% endfor%}
 
-## IIIF Call Calendar
+### Technical Specification Groups (TSGs)
 
-To load this calendar into external applications like Outlook or Mac Calendar please download the calendar in this [ical format][cal-ical].
+Technical Specification Groups are specifically chartered to update existing specifications or create new ones (to see how take a look at the [Groups framework]({{ site.root_url | absolute_url }}/community/groups/framework)). Like Community Groups, all of the meetings for the groups listed below are open to the public and can be joined at any time.
 
-<iframe src="https://calendar.google.com/calendar/embed?title=IIIF%20Community%20Calendar%20%28Eastern%20Time%29&amp;showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=America%2FNew_York" style="border-width:0; overflow:hidden; border: none;" width="800" height="600"></iframe>
+{% assign tsgs = site.data.groups | where_exp: "group","group.type == 'tsg'" %}
+{% for group in tsgs %}
+ * [{{group.label}}]({{ site.root_url | absolute_url }}{{group.link}}) - {{group.meeting_frequency }}
+{% endfor%}
 
-<br/>
+## Completed Groups and TSGs
 
-[3d]: {{ site.url }}{{ site.baseurl }}/community/groups/3d "IIIF 3D Community Group"
-[archives]: {{ site.url }}{{ site.baseurl }}/community/groups/archives "IIIF Archives Community Group"
-[av]: {{ site.url }}{{ site.baseurl }}/community/groups/av "IIIF A/V Technical Specification Group"
-[d4h]: {{ site.url }}{{ site.baseurl }}/community/groups/D4H "IIIF Discovery for Humans Community Group"
-[manuscripts]: {{ site.url }}{{ site.baseurl }}/community/groups/manuscripts "IIIF Manuscripts Community Group"
-[museums]: {{ site.url }}{{ site.baseurl }}/community/groups/museums "IIIF Museums Community Group"
-[maps]: {{ site.url }}{{ site.baseurl }}/community/groups/maps "IIIF Maps Community Group"
-[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers "IIIF Newspapers Community Group"
-[software]: {{ site.url }}{{ site.baseurl }}/community/groups/software "Software Developers Community Group"
-[discovery]: {{ site.url }}{{ site.baseurl }}/community/groups/discovery "IIIF Discovery Technical Specification Group"
-[outreach]: {{ site.url }}{{ site.baseurl }}/community/groups/outreach "IIIF Outreach Community Group"
-[groups-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework
-[text-granularity]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/
-[cal-ical]: https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics
-[maps-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/maps-tsg/
-[auth-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/auth-tsg "IIIF Authentication Technical Specification Group"
-[content-search-tsg]: {{ site.url }}{{ site.baseurl }}/community/groups/content-search-tsg "IIIF Content Search Technical Specification Group"
+* Text Granularity TSG -- This group completed its work in 2019 with the publication of the [Text Granularity Extension]({{ site.api_url | absolute_url }}/extension/text-granularity/).
+* A/V TSG -- with the publication of the [Presentation API 3.0]({{ site.api_url | absolute_url }}/presentation/3.0/) in June 2020, this TSG completed its work and evolved in the A/V community group listed above. 
+* Software Developers Community Group
 
-{% include acronyms.md %}
+<h2><a name="calendar"></a>Community call calendar</h2>
+
+To load this calendar into external applications like Outlook or Mac Calendar please download the calendar in this [ical format](https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics).
+
+{% include community_calendar.html %}
+
+[maps-tsg]: {{ site.root_url | absolute_url }}/community/groups/maps-tsg/
+[auth-tsg]: {{ site.root_url | absolute_url }}/community/groups/auth-tsg "IIIF Authentication Technical Specification Group"
+[content-search-tsg]: {{ site.root_url | absolute_url }}/community/groups/content-search-tsg "IIIF Content Search Technical Specification Group"
+[discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery

@@ -1,9 +1,9 @@
 ---
 title: "Text Granularity Technical Specification Group"
-layout: spec
-tags: [text granularity]
-cssversion: 2
+layout: page
+
 ---
+
 ## About
 
 The IIIF Text Granularity Technical Specification Group formed in the spring of 2017 based on discussions within the [IIIF Newspapers Community Group][newspapers] and wider IIIF community regarding levels of granularity for textual annotations within the IIIF framework, especially in relation to the [IIIF Content Search API][search]. The Text Granularity group [charter][charter] outlines the group's goals and scope of work.
@@ -35,12 +35,9 @@ The IIIF Text Granularity Technical Specification Group formed in the spring of 
 [text-slack]: https://iiif.slack.com/messages/C5R68LH51/details/
 [join-slack]: http://bit.ly/iiif-slack
 [text-folder]: https://drive.google.com/drive/folders/0B8biwZuDijgeVlQxQTBzZXlJck0?usp=sharing
-[calendar]: {{ site.url }}{{ site.baseurl }}/community/groups/
+[calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [zoom]: https://stanford.zoom.us/j/375412551
 [international-zoom]: https://zoom.us/zoomconference
-[newspapers]: {{ site.url }}{{ site.baseurl }}/community/groups/newspapers/
-[search]: {{ page.webprefix }}/api/search/
-[charter]: {{ site.url }}{{ site.baseurl }}/community/groups/text-granularity/charter/
-
-
-{% include acronyms.md %}
+[newspapers]: {{ site.root_url | absolute_url }}/community/groups/newspapers/
+[search]: {{ site.api_url | absolute_url }}/search/
+[charter]: {{ site.root_url | absolute_url }}/community/groups/text-granularity/charter/
