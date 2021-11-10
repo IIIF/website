@@ -30,7 +30,7 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Storiiies Editor](https://storiiies-editor.cogapp.com/) – a free online storytelling platform for creating guided tours of a single IIIF manifest using annotations.
 - [StrollView](https://seige.digital/en/strollview/) - StrollView is a cross-institutional storytelling application.
 - [Wax](https://minicomp.github.io/wax/) - a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility.
-- [Juncture Digital](https://juncture-digital.org/) - a free-to-use, open source framework for converting simple text files into an engaging visual essay incorporating IIIF materials and more. (Also see: [a few examples essays](https://juncture-digital.org/examples/).)
+- [Juncture Digital](https://juncture-digital.org/) - a free-to-use, open source framework for converting simple text files into an engaging visual essay incorporating IIIF materials and more.
 
 ### Manifest generation and templates
 

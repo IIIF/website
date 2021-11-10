@@ -118,7 +118,7 @@ The [IIIF Software Developers group][devs] meets every other week to share their
  * KU Leuven using Mirador for several projects, including: Lectio, Alamire, Codex Eyckensis and 8th century evangelarium ([demo][leuven-demo])
  * Stanford University Libraries integration of IIIF and Spotlight, using the Leaflet-IIIF cropping tool ([demo][spotlight-demo])
  * The National Library of Wales and Digirati to begin work on a [crowdsourcing platform for Wales][wales-news], supporting IIIF and Web Annotations.
- * University of California, Los Angeles, leveraging IIIF and multispectral imaging for the [Sinai Palimpsests Scholar’s site][sanai]
+ * University of California, Los Angeles, leveraging IIIF and multispectral imaging for the Sinai Palimpsests Scholar’s site.
  * [Harvard Art Museums coin images made available via IIIF at nomisma.org][harvard-coins]
  * [The Polonsky Project and IIIF][polonsky] collaboration between the Bodleian Libraries and the Biblioteca Apostolica Vaticana
  * [Demetsiiify][demetsiiify] tool creates IIIF manifests from METS/MODS files, by Johannes Baiter (Bayerische Staatsbibliothek)
@@ -191,7 +191,6 @@ Rashmi Singhal (Harvard)
 [wales-news]: https://www.llgc.org.uk/blog/?p=14496
 [ld-notifications]: http://lombardpress.org/2017/02/28/datasharing-iiif-and-ldn/
 [wales-tech]: http://digirati.com/updates/insights/a-crowdsourcing-platform-for-wales/
-[sanai]: http://sinaipalimpsests.org/
 [harvard-coins]: http://numishare.blogspot.com/2017/02/harvard-art-museums-coins-reprocessed.html
 [polonsky]: http://bav.bodleian.ox.ac.uk/news/the-polonsky-project-and-iiif
 [Plaoul]: http://mirador.scta.info/#/peter-plaoul?_k=4933sr
