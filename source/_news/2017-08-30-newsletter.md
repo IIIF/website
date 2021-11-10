@@ -150,7 +150,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 * Yale Center for British Art [recently announced the addition of more IIIF images][ycba-news] to their online collections
 * Colby College Museum of Art has added IIIF support to their collections
 * Manuscriptorium Digital Library at the National Library of the Czech Republic now supports the IIIF Image and Presentation APIs
-* [eLife Sciences][elife] now supports IIIF for all images (using Loris 2.x to serve all images) (visit their [blog][elife-blog] for implementation details)
+* [eLife Sciences][elife]{:data-proofer-ignore=''} now supports IIIF for all images (using Loris 2.x to serve all images) (visit their [blog][elife-blog] for implementation details)
 * University College Dublin digital library has added [image thumbnails and IIIF icon][ucd-thumbs]
 * [Wolsey Manuscripts][wolsey] using IIIF and Mirador
 * Artstor Digital Library [enhancements][artstor] include support for IIIF and comparison
@@ -199,7 +199,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 * Blog from Ioannis Moutsatsos: [Librarians and IIIF to the rescue of scientific imaging][rescue]
 * Blog from Cogapp on [An introduction to the Drupal IIIF Image Field Module][cogapp-embed]
 * Blog from Cogapp on [How to create a virtual 3D gallery using IIIF][virtual-gallery]
-* Blog from eLife on [Dynamically Serving Scientific Images Using IIIF][elife-blog2]
+* Blog from eLife on [Dynamically Serving Scientific Images Using IIIF][elife-blog2]{:data-proofer-ignore=''}
 * First bachelor's thesis on [IIIF and usability of Mirador and Universal Viewer][julien] by Julien A. Raemy
 * Blog from Luca Carini at the V&A on [Easy Image Alignment with IIIF][luca-blog]
 * Article from Cogapp on [automated image analysis with IIIF][auto-image]
