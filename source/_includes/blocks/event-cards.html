@@ -214,7 +214,7 @@
       {% if include.type and include.type == 'community_call' %}
             <script>
                 let parent = document.currentScript.parentElement;
-                fetch('https://iiif.io/calendar.json')
+                fetch('https://iiif.io/events/calendar.json')
                   .then(response => response.json())
                   .then(data => addCalls(parent, data, {{ include.limit | default: 10 }}));
             </script>
@@ -222,7 +222,7 @@
             <script>
                 // Show all events
                 let parent = document.currentScript.parentElement;
-                fetch('https://iiif.io/events.json')
+                fetch('https://iiif.io/events/events.json')
                   .then(response => response.json())
                   .then(data => addEvents(parent, data, {{ include.limit | default: 0 }}));
             </script>
