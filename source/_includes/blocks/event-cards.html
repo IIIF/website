@@ -165,15 +165,13 @@
             }
             for (var i = 0; i < limit; i++) {
                 let event = weeksCalls[i];
-                let group_page = ""
-                group_page = fixGroupLinks(events.meetings[event.id].link);
                 buildCard(parent, new Date(event.start.dateTime), false, event.name, event.summary, "IIIF Community", null, [{
                     'label': 'View in Google Calendar',
                     'link': event.htmlLink
                 },
                 {
                     'label': 'Group info page',
-                    'link': group_page
+                    'link': events.meetings[event.id].link 
                 }]);
             }
         }
