@@ -2,7 +2,7 @@
 title: The Cookbook of IIIF Recipes
 layout: page
 hero:
-    image: ""
+  image: "assets/images/heroes/smithsonian_cookbook.webp"
 breadcrumbs:
  - label: Get Started
    link: /get-started/
