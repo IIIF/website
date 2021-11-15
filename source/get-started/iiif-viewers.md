@@ -9,6 +9,8 @@ redirect_from:
   - /showcase/osd-viewer/
   - /showcase/leaflet-iiif-viewer/
   - /showcase/tify/
+hero:
+  image: "assets/images/heroes/hero-2@3x.webp"
 ---
 
 Take advantage of the universe of IIIF-compliant viewers (and other tools), each with different features and benefits. You can try out some of the most popular options here, or explore more on [Awesome IIIF](https://github.com/IIIF/awesome-iiif){:.external}, a community-built compendium of all things IIIF managed on GitHub.

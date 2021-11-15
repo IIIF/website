@@ -4,6 +4,8 @@ layout: spec
 breadcrumbs:
  - label: Get Started
    link: /get-started/
+hero:
+  image: "assets/images/heroes/hero-2@3x.webp"
 ---
 
 These tools offer user interfaces for working with IIIF resources in various ways--such as creating exhibitions, annotating images, and more--and often only require a link to one or more IIIF Manifests to use (see our [Guide to Finding IIIF resources]({{ site.guides_url | absolute_url }}/finding_resources/) for details).

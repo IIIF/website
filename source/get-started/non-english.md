@@ -4,6 +4,8 @@ layout: spec
 breadcrumbs:
  - label: Get Started
    link: /get-started/
+hero:
+  image: "assets/images/heroes/hero-2@3x.webp"
 ---
 
 As IIIF grows around the world, more and more resources have been created in a variety of languages. Below are a few selections and examples, but if you have one or more items you'd like to suggest, please reach out to <staff@iiif.io> and let us know.

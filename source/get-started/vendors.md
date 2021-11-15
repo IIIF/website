@@ -4,6 +4,8 @@ layout: page
 breadcrumbs:
  - label: Get Started
    link: /get-started/
+hero:
+  image: "assets/images/heroes/hero-2@3x.webp"
 ---
 
 ## Digital asset management (DAMs), collections management, and repository tools that support IIIF
