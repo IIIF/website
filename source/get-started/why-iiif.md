@@ -25,7 +25,7 @@ next_resources:
 
 *Some of the major selling points institutions have found useful in advocating for IIIF adoption.*
 
-> If you're just getting started, see also: ["How IIIF Works"]({{site.base_url | absolute_url }}/get-started/how-iiif-works)
+> If you're just getting started, see also: ["How IIIF Works"]({{ site.root_url | absolute_url }}/get-started/how-iiif-works)
 
 ## Rich image delivery
 
