@@ -2,7 +2,7 @@
 layout: default
 title: How it Works
 subtitle: >
-  A plain-langauge guide to how the APIs work.
+  A plain-language guide to how the APIs work.
 permalink: /get-started/how-iiif-works/
 hero:
   image: ""
