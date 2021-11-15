@@ -7,7 +7,25 @@ redirect_from:
   - /about.html
   - /about/
   - /why-iiif/
+hero:
+  image: "assets/uploads/kandinsky.webp"
+next_resources:
+ - label: Get started
+   link: /get-started/
+   description: Take the first step to exploring the rich world of IIIF-enabled materials.
+ - label: Guides
+   link: https://preview.iiif.io/guides/wireframe/
+   description: A set of resources to help you find and work with IIIF materials, built by members of the IIIF community.
+ - label: Talks
+   link: /get-started/talks
+   description: Watch selected talks from conferences and other events to learn more about IIIF directly from the community.
 ---
+
+{{ theme.block-start }}
+
+*Some of the major selling points institutions have found useful in advocating for IIIF adoption.*
+
+> If you're just getting started, see also: ["How IIIF Works"]({{site.base_url | absolute_url }}/get-started/how-iiif-works)
 
 ## Rich image delivery
 
@@ -48,7 +66,9 @@ Built in API calls support attribution and access control: the Authentication AP
 
 Join a global network of image suppliers making content available in a common framework. Tap a growing suite of software tools and platforms. Maximize the use of your images on the Web. Unlock new potential with interoperability. Bring together content from multiple sources (organizational and technical)
 
----
+{{ theme.block-end }}
+
+{{ theme.block-start }}
 
 ## Spread the word
 
@@ -57,6 +77,18 @@ Need to explain IIIF's benefits to a colleague? These handouts provide relevant 
 - [IIIF for CIOs and Engineers](https://docs.google.com/document/d/1RJbJ8MdNWC_6Y1fyCvvtAzZfQIhHNDiFrpS2XA5TdGs/edit?usp=sharing){:.external}
 - [IIIF for Deans and other leaders](https://docs.google.com/document/d/1G62fUv1V6iUhskMDNgZlcyXVoIk4O9_FIOrL4kjlxXM/edit?usp=sharing){:.external}
 - [IIIF for researchers](https://docs.google.com/document/d/1GWfh0F6HlzJtII9JxyED2CQ4eH9qwtGdO9yhMHxqvjs/edit?usp=sharing){:.external}
+
+{{ theme.block-end }}
+
+{{ theme.block-start }}
+
+## Next steps
+
+Feel like you have a handle on the reasons IIIF is adopted all over the world? Try out some of these resources as a next step, or see our "Get Started" page for the full set of ways to get started with IIIF.
+
+{% include blocks/cards.html items=page.next_resources %}
+
+{{ theme.block-end }}
 
 
 [wadm]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
