@@ -4,6 +4,8 @@ layout: page
 breadcrumbs:
  - label: Get Started
    link: /get-started/
+hero:
+  image: "assets/images/heroes/hero-2@3x.webp"
 ---
 
 Interested in hosting your own IIIF resources? Check out some of the most popular IIIF-compatible servers, or review a growing list of community selections on the [Awesome IIIF](https://github.com/IIIF/awesome-iiif){:.external} list. You can also make an existing image server IIIF-compatible.

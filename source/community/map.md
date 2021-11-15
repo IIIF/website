@@ -1,6 +1,13 @@
 ---
 title: Community Map
 layout: page
+hero:
+    image: "assets/uploads/2019-06-IIIF-Conference-0705.jpg"
+breadcrumbs:
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: /community/
 ---
 
 There are around hundreds of adopters of IIIF all around the world, at libraries, museums, archives, universities, and some companies, too.

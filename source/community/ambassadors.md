@@ -1,7 +1,13 @@
 ---
 title: Ambassadors
 layout: page
-
+hero:
+    image: "assets/uploads/2019-06-IIIF-Conference-0705.jpg"
+breadcrumbs:
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: /community/
 ---
 
 The ambassador program deputizes community members to take a more formal role in championing IIIF adoption in their communities. Ambassadors focus their efforts around different domains, associations, tools, or regions and meet with IIIF-C staff periodically to provide updates and feedback.

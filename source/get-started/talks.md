@@ -4,6 +4,8 @@ layout: spec
 breadcrumbs:
  - label: Get Started
    link: /get-started/
+hero:
+  image: "assets/images/heroes/hero-2@3x.webp"
 ---
 
 Watch talks from conferences and other events to learn more about IIIF directly from the community. You can take a deeper dive on our [YouTube channel](https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA).

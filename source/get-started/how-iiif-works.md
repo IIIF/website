@@ -4,9 +4,9 @@ title: How it Works
 subtitle: >
   A plain-language guide to how the APIs work.
 permalink: /get-started/how-iiif-works/
+anchor_headings: false
 hero:
-  image: ""
-anchor_headings: true
+  image: "assets/images/heroes/hero-2@3x.webp"
 breadcrumbs:
  - label: Get Started
    link: /get-started/
