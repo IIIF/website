@@ -76,7 +76,7 @@ If you are already familiar with IIIF and want to help others learn, you can use
     let ul = document.createElement('ul');
     ul.style = "padding-left: 0px;"
     div.appendChild(ul);
-    fetch('https://iiif.io/eventbrite.json')
+    fetch('https://iiif.io/events/eventbrite.json')
       .then(resp => {
          if (resp.ok) {
            return resp.json();
