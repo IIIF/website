@@ -27,7 +27,7 @@ iiif_basics_carousel:
       alt_text: 'Nationalmuseum screenshot'
       caption: 'Nationalmuseum has implemented the IIIF Image API and an <a href="https://openseadragon.github.io">OpenSeadragon</a> viewer. Combined, these allow smooth, deep zooming on high-resolution images as well as provding the ability for the museum to switch out front end tools such as viewers and back end systems such as servers without a major rebuild of their site.'
     link:
-      url: 'http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=direct/1/ResultDetailView/result.inline.lightbox.t1.collection_lightbox.$TspTitleImageLink.link&sp=13&sp=Sexhibition&sp=SfilterDefinition&sp=0&sp=2&sp=3&sp=SdetailView&sp=11&sp=Sdetail&sp=1&sp=T&sp=0&sp=Slightbox_3x4&sp=0&sp=T&sp=1#exhibitionReferences'
+      url: 'http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19222&viewType=detailView'
       label: 'View more'
   - resource:
       url: 'assets/uploads/stanford_newspaper.png'
