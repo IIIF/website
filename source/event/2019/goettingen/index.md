@@ -63,17 +63,6 @@ tags: [event ]
         </ul>
     </nav>
     </section>
-    <article>
-      {% include sub-page_header.html %}
-      {% for word in site.data.rfc_words %}
-        {% assign upper = word | prepend: '<em>' | append: '</em>' %}
-        {% assign lower = upper | downcase | replace: '<em>', '<em class="rfc">' %}
-        {% assign content = content | replace: upper, lower %}
-      {% endfor %}
-      <div class="specbody">
-      {{ content }}
-      </div>
-    </article>
   </div>
 </div>
    
@@ -115,7 +104,7 @@ The local organizers have prepared a [few social activity suggestions][social] f
 
 | Name | Mobile number | E-mail address | IIIF Slack | Twitter |
 | ---- | ------------- | -------------- | ---------- | ------- |
-| Josh Hadro (IIIF Consortium Staff) | +1 917 428 4152 |  [josh.hadro@iiif.io][hadro] | josh.hadro | hadro |
+| Josh Hadro (IIIF Consortium Staff) |  |  [josh.hadro@iiif.io][hadro] | josh.hadro | hadro |
 | Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
 | Aliya Reich (CLIR/DLF Staff) | | [areich@clir.org][reich] | aliya | aliyareich |
 | Rebecca Hirsch | | [rebecca.hirsch@yale.edu][hirsch] |  rhirsch |bibliobeka |
