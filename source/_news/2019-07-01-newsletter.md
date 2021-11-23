@@ -178,7 +178,7 @@ Avalon 6.5 also includes IIIF Presentation 3 manifest generation for all items; 
 
 ### TICKS White paper - Suggested measures for deploying IIIF in Swiss cultural heritage institutions
 
-The first version of the white paper, titled [“Suggested measures for deploying IIIF in Swiss cultural heritage institutions”][ticks-wp], carried out by Julien A. Raemy and René Schneider in the context of the Towards IIIF-Compliance Knowledge in Switzerland (TICKS) project is now available. As part of the white paper, a [IIIF step-by-step diagram][ticks-steps] giving a high perspective to support institutions in implementing IIIF, has also been created. Suggestions and comments via [the Google Doc version][ticks-wp-google] are always welcome to improve and update this white paper.
+The first version of the white paper, titled [“Suggested measures for deploying IIIF in Swiss cultural heritage institutions”][ticks-wp], carried out by Julien A. Raemy and René Schneider in the context of the Towards IIIF-Compliance Knowledge in Switzerland (TICKS) project is now available. As part of the white paper, a [IIIF step-by-step diagram][ticks-steps] giving a high perspective to support institutions in implementing IIIF, has also been created. Suggestions and comments via the Google Doc version are always welcome to improve and update this white paper.
 
 More information about the TICKS white paper and the perspectives of a possible follow-up project to continue raising awareness of IIIF in Switzerland can be found in [this blog post](https://julsraemy.github.io/posts/2019/07/01/ticks-white-paper-iiif/).
 
