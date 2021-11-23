@@ -336,7 +336,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [cogapp-embed]: https://blog.cogapp.com/drupal-iiif-image-field-module-ce578c4906ef
 [virtual-gallery]: https://blog.cogapp.com/how-to-create-a-virtual-3d-gallery-using-iiif-and-three-js-ad6766e45d3f
 [elife-blog2]: https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif
-[julien]: http://goo.gl/jm33wX
+[julien]: https://doc.rero.ch/record/306498
 [luca-blog]: http://www.vam.ac.uk/blog/digital-media/easy-image-alignment-with-iiif
 [auto-image]: https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32
 [survey]: https://goo.gl/forms/47OmXfgXMUNMBVI93
