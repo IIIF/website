@@ -25,7 +25,7 @@ These presentations include speaker notes, and can be copied, modified, and comb
 - [Introduction to the IIIF community](https://docs.google.com/presentation/d/1JGjboM1PzOggrAt3WaEPZ-j2MuO2vTlI_kKlzF8n4Yw/edit?usp=sharing)
 
 ## Logos
-IIIF logos can be downloaded from the IIIF [Google Drive](https://drive.google.com/drive/folders/0B8APFBow4sHvY044Sm10SFdNWG8?usp=sharing).
+IIIF logos can be downloaded from the IIIF [Google Drive](https://drive.google.com/drive/folders/0B8APFBow4sHvY044Sm10SFdNWG8?resourcekey=0-y2_phm4tC7Mp_UKbaM0j0g&usp=sharing).
 
 Logo color hex codes:
 - Red: #EF2536;
