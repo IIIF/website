@@ -25,10 +25,8 @@ By participating in the Archives Community Group, you will help set best practic
 
 **Chairs:**
 
-  * Rebecca Hirsch (Yale University)
-  * Josh Schneider (Stanford University)
+  * Alison Harvey (Cardiff University)
   * Mark Matienzo (Stanford University)
-  * Adrian Stevenson (Jisc)
 
 **Communication channels:**
 
