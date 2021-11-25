@@ -1,12 +1,12 @@
-- label: 2021 IIIF Fall Working Meeting
+- label: Les Futurs Fantastiques 
   time:
-    start: "2021-11-16"
-    end: "2021-11-18"
+    start: "2021-12-09"
+    end: "2021-12-10"
   links:
     - label: More info
-      link: "event/2021/fall_working_meeting/"
-    - label: Register
-      link: https://www.eventbrite.com/e/2021-iiif-fall-working-meeting-tickets-176398561847
+      link: "https://www.bnf.fr/en/les-futurs-fantastiques"
+    - label: Pre-conference workshops (1st - 7th December)
+      link: "https://www.bnf.fr/en/agendaEN/workshops-tutorials-les-futurs-fantastiques-3rd-conference-about-artificial-intelligence"
 - label: January IIIF Online Training (5-Day Course)
   time:
     start: 2022-01-24T06:00:00Z
