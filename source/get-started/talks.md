@@ -56,6 +56,9 @@ Rashmi Singhal shares Harvard University’s use of IIIF in teaching and researc
 
 ## Playlists
 
+### 2021 Fall Working Meeting
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c4zxPRQCNkKwp4Io20oS2br" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2021 Annual Conference
 
