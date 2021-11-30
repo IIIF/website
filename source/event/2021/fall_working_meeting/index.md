@@ -3,6 +3,13 @@ title: "2021 Fall Working Meeting, November 16-18, 2021"
 layout: event
 ---
 
+## Videos of the 2021 Fall Working Meeting now available
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLYPP1-8uH9c4zxPRQCNkKwp4Io20oS2br" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
 **The 2021 Fall Working Meeting will take place online November 16-18 and is free to attend.**
 
 ## Join us to help shape the future of the community
