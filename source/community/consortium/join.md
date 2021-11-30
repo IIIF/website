@@ -25,13 +25,14 @@ Becoming a member of the Consortium allows you to shape the IIIF agenda and driv
 
 **Full membership - $10,000 annual sustaining contribution**
 
-Additional benefits for full members include:
+Benefits for full members include:
 
-*   Insitution-wide discounts on training and workshops
+*   Dedicated basic assistance and discounted consulting rates for more extensive needs
+*   Discounted custom training opportunities for staff professional development
+*   Insitution-wide discounts on [general training and workshops](https://iiif.io/get-started/training/)
 *   Institution-wide discounts for Annual Conference registration
 *   Guaranteed representation on the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ), which guides development of the IIIF specifications and approves all updates and additions to the APIs
-*   Discounted consulting rates
-*   Eligibility to serve on the [Executive Committee and Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/), which governs the community
+*   Eligibility to serve on the [Executive Committee and Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/), which govern the consortium
 *   Voting rights in annual Executive Committee elections
 *   Priority attendance at conferences, meetings and other events
 *   Priority technical advice 
@@ -39,7 +40,7 @@ Additional benefits for full members include:
 
 **Associate membership - $2,500 annual sustaining contribution**
 
-Additional benefits for associate members include:
+Benefits for associate members include:
 
 *   Institution-wide discounts on training and workshops
 *   Institution-wide discounts for Annual Conference registration
