@@ -11,10 +11,12 @@
   uri: http://www.bsb-muenchen.de
   iiifc: 1
   logo: assets/uploads/logos/bsb_logo_claim_large.svg
+  original: true
 - name: La Bibliothèque nationale de France
   uri: http://www.bnf.fr
   iiifc: 1
   logo: assets/uploads/logos/bnf_logo.svg
+  original: true 
 - name: Biblissima
   uri: http://www.biblissima-condorcet.fr/
   iiifc:
@@ -28,6 +30,7 @@
   uri: https://www.bl.uk/
   iiifc: 1
   logo: assets/uploads/logos/bl_logo_100.gif
+  original: true 
 - name: British Museum
   uri: http://www.britishmuseum.org/
   iiifc:
@@ -69,6 +72,7 @@
   uri: https://www.library.cornell.edu/
   iiifc: 1
   logo: assets/uploads/logos/Cornell_University_seal.svg
+  original: true 
 - name: DB Seret
   uri: http://www.dbseret.com/
   iiifc: 4
@@ -135,6 +139,7 @@
   uri: http://www.ithaka.org
   iiifc: 1
   logo: assets/uploads/logos/ITHAKA_logo.png
+  original: true 
 - name: Internet Archive
   uri: https://archive.org/index.php
   iiifc:
@@ -213,6 +218,7 @@
   uri: https://www.nb.no/en/the-national-library-of-norway/
   iiifc: 1
   logo: assets/uploads/logos/Nasjonalbiblioteket.jpg
+  original: true 
 - name: National Library of Denmark
   uri: http://www.kb.dk/en/
 #- name: National Library of Egypt
@@ -263,6 +269,7 @@
   uri: http://library.princeton.edu
   iiifc: 1
   logo: assets/uploads/logos/PUL_Logo.png
+  original: true 
 - name: Princeton University Art Museum
   uri: http://artmuseum.princeton.edu/
   iiifc:
@@ -287,6 +294,7 @@
   uri: http://library.stanford.edu/
   iiifc: 1
   logo: assets/uploads/logos/stanford_wordmark-nospace-stacked-red.png
+  original: true 
 - name: State Library of Queensland
   uri: http://www.slq.qld.gov.au/
   iiifc:
@@ -357,6 +365,7 @@
   uri: http://www.bodleian.ox.ac.uk
   iiifc: 1
   logo: assets/uploads/logos/bodleian_Master-Logo-Centred-Black-cropped.png
+  original: true 
 - name: University of Pennsylvania
   uri: http://www.upenn.edu/
   iiifc: 4
@@ -406,6 +415,7 @@
   uri: http://wellcomelibrary.org
   iiifc: 1
   logo: assets/uploads/logos/Wellcome_Collection_logo.svg.png
+  original: true 
 - name: Wikipedia (Wikimedia Foundation)
   uri: http://www.wikipedia.org/
   iiifc:
@@ -419,5 +429,6 @@
   uri: https://www.yale.edu/
   iiifc: 1
   logo: assets/uploads/logos/yale_logo-print.png
+  original: true 
 - name: Zegami
   uri: https://zegami.com/
