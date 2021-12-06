@@ -12,8 +12,9 @@ hero:
 
 If you don't have the time or resources to build your own IIIF infrastructure, you can still implement IIIF for your collections by using products that already support IIIF.
 
- - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
  - [Avalon Media System](https://www.avalonmediasystem.org/)
+ - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
+ - [Archipelago](https://archipelago.nyc/)
  - [CollectiveAccess](https://collectiveaccess.org)
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
  - [DB Seret](https://www.dbseret.com/iiif)
@@ -21,11 +22,12 @@ If you don't have the time or resources to build your own IIIF infrastructure, y
  - [Dspace](https://duraspace.org/dspace/)
  - [eHive](https://ehive.com/)
  - [Ex Libris Rosetta](https://knowledge.exlibrisgroup.com/Rosetta/Training/What's_New_Videos/Rosetta_5-3)
- - [Gallery Systems](https://www.gallerysystems.com/international-image-interoperability-framework-iiif/)
+ - [Flora (Decalog)](https://flora.decalog.net/flora-logiciel-gestion-de-collections/)
+ - [Gallery Systems / TMS](https://www.gallerysystems.com/international-image-interoperability-framework-iiif/)
  - [Goobi](https://goobi.io)
  - [Hyrax](https://hyrax.samvera.org/)
- - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
  - [Invenio](https://invenio-software.org/products/framework/) (Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
+ - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
  - [Libnova/Libsafe](https://www.libnova.com/) (Image API)
  - [Luna Imaging](http://www.lunaimaging.com/iiif)
  - [Muzz.app platform](https://muzz.app)
