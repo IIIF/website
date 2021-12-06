@@ -16,6 +16,7 @@ If you don't have the time or resources to build your own IIIF infrastructure, y
  - [Avalon Media System](https://www.avalonmediasystem.org/)
  - [CollectiveAccess](https://collectiveaccess.org)
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
+ - [DB Seret](https://www.dbseret.com/iiif)
  - [Decalog](https://www.decalog.net/)
  - [Dspace](https://duraspace.org/dspace/)
  - [eHive](https://ehive.com/)
