@@ -36,6 +36,7 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 
 - [Regional Meeting: IIIF for Chinese Culture - 2021 IIIF Annual Conference [video]](https://www.youtube.com/watch?v=Bh21b1pBLzE)
 - [IIIF Week 2020 - China Showcase [video]](https://www.youtube.com/watch?v=F01VY4St76U)
+- [List of IIIF-compliant tools](https://www.yuque.com/iiifchina/df4qfk/gog6h7])
 
 
 ## русский / Russian
