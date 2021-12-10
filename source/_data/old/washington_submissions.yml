@@ -2799,7 +2799,7 @@
     firstname: IIIF
     lastname: Editors
     organization: IIIF
-    web_page: http://prezi3.iiif.io/api/
+    web_page: https://iiif.io/api/
   decision: ACCEPT
   id: Paper 100
   index: 100
@@ -2819,7 +2819,7 @@
     firstname: IIIF
     lastname: Editors
     organization: IIIF
-    web_page: http://prezi3.iiif.io/api/
+    web_page: https://iiif.io/api/
   - country: International
     firstname: IIIF
     lastname: Discovery TSG
@@ -2849,7 +2849,7 @@
     firstname: IIIF
     lastname: Editors
     organization: IIIF
-    web_page: http://prezi3.iiif.io/api/
+    web_page: https://iiif.io/api/
   decision: ACCEPT
   id: Paper 102
   index: 102

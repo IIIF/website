@@ -275,7 +275,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 [bl-poc]: https://dev.filmicweb.org/clients/digirati/iiif-av-bl/
 [slu]: https://github.com/CenterForDigitalHumanities
 [avalon-demo]: https://avalonmediasystem.github.io/avalon-iiif-player/
-[presi3]: http://prezi3.iiif.io/api/presentation/3.0
+[presi3]: https://iiif.io/api/presentation/3.0
 [discovery-group]: {{ site.root_url | absolute_url }}/community/groups/discovery/
 [iiif-stories]: https://github.com/IIIF/iiif-stories/issues
 [openjpeg]: http://www.openjpeg.org/
