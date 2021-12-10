@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How it Works
+title: How It Works
 subtitle: >
   A plain-language guide to how the APIs work.
 permalink: /get-started/how-iiif-works/
