@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/iiif/iiifc-theme.git
-  revision: c394663dc25c5f7789817b4c792d645a6ea9383a
-  branch: main
+  revision: ad925513b847589674d9750d6d49e872a650d090
+  branch: feedback_form
   specs:
     iiifc-theme (0.1.0)
       html-proofer
