@@ -17,7 +17,7 @@ The program is currently in trial, with our first group appointed by invite from
 ## Current Ambassadors:
 **Roger Hyam, Biodiversity Data Systems Developer, Royal Botanical Garden Edinburgh, Scotland**  
 *IIIF for natural history*  
-TKTK  
+Roger trained as a botanist, completing a PhD in the molecular systematics of the genus Rhododendron in the 1990s, but became increasingly involved in data science and software. He crossed to the commercial software development world for a few years in the early 2000s before returning to the hybrid field of biodiversity informatics and working for the standards organisation TDWG. He is now on staff at the Royal Botanic Garden Edinburgh where he continues his interest in the mechanics of sharing biodiversity data between organisations. Currently he is working on an EU funded project to encourage adoption of IIIF by natural history collections.
 
 **Régis Robineau**  
 *IIIF adoption in France*  
