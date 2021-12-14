@@ -13,7 +13,7 @@ iiif_basics_carousel:
       url: 'assets/uploads/wellcome_zebrafish.png'
       type: image
       alt_text: "Wellcome Collection screenshot"
-      caption: 'The Wellcome Collection uses IIIF to make medical and scientific materials available via a Mirador viewer, and to offer multiple image download sizes to users.'
+      caption: 'The Wellcome Collection uses IIIF to make medical and scientific materials available via the custom-built Wellcome Viewer, and to offer multiple image download sizes to users.'
     link:
       url: "/demos"
       label: 'View demos'
