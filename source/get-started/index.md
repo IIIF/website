@@ -70,7 +70,7 @@ more_resources_cards:
     description: Learn from other’s experience implementing IIIF by watching conference presentations.
     link_text: Learn more
     link: '/get-started/talks/'
-  - label: Outreach Materials
+  - label: Outreach materials
     description: Anyone can reach out to their community and share information about IIIF. We’ve created some materials to make that easier.
     link_text: Learn more
     link: '/get-started/training/outreach-materials/'
