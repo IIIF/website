@@ -230,6 +230,9 @@
   logo: assets/uploads/logos/Logo_of_The_National_Library_of_Israel.jpg
 - name: National Library of New Zealand
   uri: https://natlib.govt.nz/
+- name: National Library of the Netherlands
+  uri: https://www.kb.nl/
+  iiifc: 4
 - name: National Library of Poland
   uri: http://bn.org.pl
   iiifc: 2
