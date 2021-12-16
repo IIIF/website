@@ -8,7 +8,7 @@ hero:
   title: Join the Consortium
   subtitle: Support the development of community-driven APIs and shared technologies providing rich access to digitized image, audio, and video resources.
   button:
-    label: "Go to form"
+    label: "Request to join"
     link: "/community/consortium/join#form"
 breadcrumbs:
  - label: Community
