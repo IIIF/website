@@ -8,14 +8,21 @@ hero:
   title: Join the Consortium
   subtitle: Support the development of community-driven APIs and shared technologies providing rich access to digitized image, audio, and video resources.
   button:
-    label: "Email to join"
-    link: "mailto:admin@iiif.io?subject='We'd like to join the IIIF Consortium"
+    label: "Go to form"
+    link: "/community/consortium/join#form"
 breadcrumbs:
  - label: Community
    link: /community/
  - label: Consortium
    link: /community/consortium
 ---
+
+
+{% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
+
+The IIIF Consortium now comprises [{{ members.size }} leading institutions]({{ site.root_url | absolute_url }}/community/consortium/members/) from around the world, all committing to support the growth and adoption of IIIF.
+
+<div class="columns is-centered">{% include misc/button.html button_label="View all members" button_link="/community/consortium/members" %}</div>
 
 ## Membership benefits
 
@@ -52,6 +59,21 @@ Benefits for associate members include:
 *   A limit of three seats on the Executive Committee may be held by commercial organizations. Non-commercial organizations include libraries, museums, and archives - individuals who work for commercial organizations are welcome and encouraged to serve in community groups and committees
 
 ## Join
-To join the consortium, please email staff@iiif.io with your intent to join and we will begin the membership process.
+<a name="form"></a>
+To join the consortium, please email staff@iiif.io with your intent to join or fill out the form below, and we will begin the membership process.
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/meqnqvzr" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name" class="label">Name</label>
+    <input type="text" name="name" id="full-name" placeholder="Please tell us your name" required="" class="required input is-danger">
+    <label for="email-address" class="label">Contact Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" class="required email input is-danger">
+    <label for="message" class="label">Message (including name of institution seeking to join)</label>
+    <textarea rows="5" name="message" id="message" placeholder="Let us know how we can help! if it's about the website, please include the URL of the page you are referencing." required="" class="required textarea input is-danger"></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <br>
+  <input type="submit" value="Submit" class="button">
+</form>
 
 
