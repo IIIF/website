@@ -69,7 +69,7 @@ To join the consortium, please email staff@iiif.io with your intent to join or f
     <label for="email-address" class="label">Contact Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" class="required email input is-danger">
     <label for="message" class="label">Message (including name of institution seeking to join)</label>
-    <textarea rows="5" name="message" id="message" placeholder="Let us know how we can help! if it's about the website, please include the URL of the page you are referencing." required="" class="required textarea input is-danger"></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Get in touch about joining the IIIF Consortium, or let us know if you have any questions." required="" class="required textarea input is-danger"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <br>
