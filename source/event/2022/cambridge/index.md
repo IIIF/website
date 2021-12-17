@@ -1,18 +1,18 @@
 ---
-title: "IIIF Annual Conference and Showcase Overview - Cambridge/Boston, MA - June 6-10, 2022"
+title: "IIIF Annual Conference and Showcase Overview - Cambridge/Boston, MA - June 6-8, 2022"
 layout: event
 page: overview
 ---
 
-The 2022 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Cambridge/Boston the week of June 6-10, 2022, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT) along with the IIIF Consortium.
+The 2022 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Cambridge/Boston June 6--8, 2022, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT) along with the IIIF Consortium.
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
-The **IIIF Showcase** is meant to introduce newcomers to IIIF, and those seeking to learn how IIIF is used in a variety of contexts.
+The event includes a **showcase** meant to introduce newcomers to IIIF, and those seeking to learn how IIIF is used in a variety of contexts.
 
-The **IIIF Workshops** offer more in-depth opportunities to learn about IIIF tools and platforms.
+The **conference** features plenary presentations and sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations.
 
-The **IIIF Conference** features plenary presentations and breakout sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations.
+Online **workshops** will offer more in-depth opportunities to learn about IIIF tools and platforms, and will be held the weeks before and after the event.
 
 All event proceedings will be in English unless otherwise noted.
 
@@ -20,17 +20,17 @@ All event proceedings will be in English unless otherwise noted.
 ### Logistics
 
 * Registration: Registration will open in early 2022.
-* Dates: The week of June 6-10, 2022
-* Locations: Cambridge/Boston, MA (See [map](#locations) below for venue locations and more)
-    - IIIF Showcase: MIT Campus, Ray and Maria Stata Center
-    - Workshops and Conference: Harvard Campus, various locations
+* Dates: June 6-8, 2022
+* Locations: Cambridge, MA, USA (See [map](#locations) below for venue locations and more)
+    - IIIF Showcase: MIT Campus
+    - Conference: Harvard Campus, various locations
 
 * Cost: $375 general ticket, $240 [Consortium members][consortium] ticket, $100 student/discount ticket
 * Capacity: Approximately 300
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
-* Social Media: Tweets about the event should use [#iiif][hashtag] or [@iiif_io][twitter]
+* Social Media: Tweets about the event should use [#iiif2022][hashtag] or [@iiif_io][twitter]
 
-Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+Stay tuned to the [IIIF-Discuss][iiif-discuss] email list and our newsletter for announcements and updates.
 
 
 ### Travel
@@ -38,6 +38,9 @@ Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and 
 - A list of hotel options will be available in early 2022
 - Flights: The local planning team recommends that attendees traveling by air fly to [Boston Logan International Airport (BOS)](https://www.massport.com/logan-airport)
 - Train: [Take a train](https://www.amtrak.com/home.html) to Boston from many parts of the Eastern coast of the United States.
+
+### Call for proposals
+The Call for Proposals will open in early January.
 
 
 <!-- ### Call for Sponsors
