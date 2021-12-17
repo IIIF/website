@@ -4,7 +4,7 @@ layout: event
 page: overview
 ---
 
-The 2022 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Cambridge/Boston the week of June 6-10, 2022, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT) along with the IIIF Consortium.
+The 2022 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Cambridge/Boston June 6--8, 2022, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT) along with the IIIF Consortium.
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
@@ -20,17 +20,17 @@ All event proceedings will be in English unless otherwise noted.
 ### Logistics
 
 * Registration: Registration will open in early 2022.
-* Dates: The week of June 6-10, 2022
+* Dates: June 6-8, 2022
 * Locations: Cambridge/Boston, MA (See [map](#locations) below for venue locations and more)
-    - IIIF Showcase: MIT Campus, Ray and Maria Stata Center
-    - Workshops and Conference: Harvard Campus, various locations
+    - IIIF Showcase: MIT Campus
+    - Conference: Harvard Campus, various locations
 
 * Cost: $375 general ticket, $240 [Consortium members][consortium] ticket, $100 student/discount ticket
 * Capacity: Approximately 300
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
-* Social Media: Tweets about the event should use [#iiif][hashtag] or [@iiif_io][twitter]
+* Social Media: Tweets about the event should use [#iiif2022][hashtag] or [@iiif_io][twitter]
 
-Stay tuned to the [IIIF-Discuss][iiif-discuss] email list for announcements and updates.
+Stay tuned to the [IIIF-Discuss][iiif-discuss] email list and our newsletter for announcements and updates.
 
 
 ### Travel
