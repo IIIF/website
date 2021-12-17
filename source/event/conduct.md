@@ -27,7 +27,7 @@ We collaborate to share the community’s workload and to ensure a variety of ne
 The IIIF community is respectful of and open to differing opinions, viewpoints, experiences, and backgrounds. When we make a mistake we accept responsibility, apologize, and learn from the experience. We give and gracefully accept constructive feedback.
 
 **Greater good**   
-We do work that benefits the community. We notice, call attention to, and help resolve potential problems. Community members should model good behavior and feel empowered to be [active bystanders](https://www.diglib.org/active-bystander-orientation/) to call out improper behavior and step in to help resolve issues without waiting to escalate to a higher power.
+We do work that benefits the community. We notice, call attention to, and help resolve potential problems. Community members should model good behavior and feel empowered to be active bystanders to call out improper behavior and step in to help resolve issues without waiting to escalate to a higher power.
 
 ## Unacceptable behaviors
 Participants asked by anyone to stop any harassing behavior must comply immediately. Participants who violate these guidelines by behaving in the following ways will be notified and asked to change their behavior.
