@@ -1,5 +1,5 @@
 ---
-title: "IIIF Annual Conference and Showcase Overview - Cambridge/Boston, MA - June 6-10, 2022"
+title: "IIIF Annual Conference and Showcase Overview - Cambridge/Boston, MA - June 6-8, 2022"
 layout: event
 page: overview
 ---
