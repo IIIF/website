@@ -1,5 +1,5 @@
 ---
-title: "IIIF Annual Conference and Showcase Overview - Cambridge/Boston, MA - June 6-8, 2022"
+title: "IIIF Annual Conference and Showcase - Cambridge, MA (USA) - June 6-8, 2022"
 layout: event
 page: overview
 ---
@@ -24,23 +24,37 @@ All event proceedings will be in English unless otherwise noted.
 * Locations: Cambridge, MA, USA (See [map](#locations) below for venue locations and more)
     - IIIF Showcase: MIT Campus
     - Conference: Harvard Campus, various locations
-
 * Cost: $375 general ticket, $240 [Consortium members][consortium] ticket, $100 student/discount ticket
 * Capacity: Approximately 300
-* Code of Conduct: The IIIF [Code of Conduct][conduct] applies
-* Social Media: Tweets about the event should use [#iiif2022][hashtag] or [@iiif_io][twitter]
+* This event is guided by the IIIF [Code of Conduct][conduct].
+* Covid-19 precautions will align with CDC recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details as we get closer to the event dates.
 
-Stay tuned to the [IIIF-Discuss][iiif-discuss] email list and our newsletter for announcements and updates.
+Stay tuned to the [IIIF-Discuss][iiif-discuss] email list and our [newsletter](https://iiif.io/newsletter/) for announcements and updates.
 
+### Call for proposals
+The Call for Proposals will open in early January.
+
+### Program Committee
+Thank you to the 2022 Program Committee:
+* Sheila McAlister (University of Georgia)
+* Dawn Childress (UCLA)
+* Nuno Freire (Europeana)
+* Chip Goines (Harvard University)
+* Stace Maples (Stanford University)
+* Andrija Sagic (Library Milutin Bojic)
+* Andrew Weidner (University of Houston)
+
+### Local Planning Committee
+Thank you to the 2022 Local Planning Committee:
+* David Nunez (MIT)
+* Rashmi Singal (Harvard University)
+* Stu Snydman (Harvard University)
 
 ### Travel
 
 - A list of hotel options will be available in early 2022
 - Flights: The local planning team recommends that attendees traveling by air fly to [Boston Logan International Airport (BOS)](https://www.massport.com/logan-airport)
 - Train: [Take a train](https://www.amtrak.com/home.html) to Boston from many parts of the Eastern coast of the United States.
-
-### Call for proposals
-The Call for Proposals will open in early January.
 
 
 <!-- ### Call for Sponsors
