@@ -47,7 +47,7 @@ Thank you to the 2022 Program Committee:
 ### Local Planning Committee
 Thank you to the 2022 Local Planning Committee:
 * David Nunez (MIT)
-* Rashmi Singal (Harvard University)
+* Rashmi Singhal (Harvard University)
 * Stu Snydman (Harvard University)
 
 ### Travel
