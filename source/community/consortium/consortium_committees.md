@@ -17,19 +17,19 @@ Appointments are on an institutional basis, and staff at each organization may s
 
 Current Executive Committee institutions are:
 
-- Bayerisches Staatsbibliothek
-- Bibliothèque nationale de France
-- The British Library
-- Cornell University Library
+- Bibliothèque nationale de France (BnF)
+- British Library
+- Cornell University
 - Europeana Foundation
-- Ithaka
-- The J. Paul Getty Trust
-- National Library of Norway
-- University of Oxford
-- Princeton University Library
-- The Wellcome Trust
+- Göttingen State and University Library (SUB Göttingen)
+- Harvard University
+- J. Paul Getty Trust
+- Kyoto University Library Network
+- Leiden University Libraries
+- National Gallery of Art
+- Stanford University
+- Wellcome Trust
 - Yale University
-- Stanford University Libraries
 
 Committee Chair: Michael Keller, Stanford University Libraries  
 Vice-chair: Rich Fagen, The J. Paul Getty Trust  
