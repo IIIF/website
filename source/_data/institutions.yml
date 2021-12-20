@@ -109,7 +109,6 @@
   uri: https://lib.ugent.be/
   iiifc: 3
   logo: assets/uploads/logos/ghent_logo.svg
-  new: true
 - name: Göttingen State and University Library
   uri: https://www.sub.uni-goettingen.de
   iiifc: 2
@@ -146,6 +145,10 @@
 - name: intranda GmbH
   uri: https://goobi.io
   iiifc:
+- name: Jisc
+  uri: https://www.jisc.ac.uk/
+  logo: assets/uploads/logos/jisc-logo.svg
+  new: true
 - name: Johns Hopkins University
   uri: http://library.jhu.edu
   iiifc: 2
