@@ -1,8 +1,10 @@
 ---
 title: "IIIF Archives Community Group"
 layout: page
+group: archives
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 

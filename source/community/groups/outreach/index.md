@@ -1,8 +1,10 @@
 ---
 title: "IIIF Outreach Community Group"
 layout: page
+group: outreach
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 

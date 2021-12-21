@@ -1,8 +1,10 @@
 ---
 title: "IIIF Discovery Technical Specification Group"
 layout: page
+group: discovery
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 

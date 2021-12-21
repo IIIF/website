@@ -1,8 +1,10 @@
 ---
 title: "IIIF Maps Community Group"
 layout: page
+group: maps
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 

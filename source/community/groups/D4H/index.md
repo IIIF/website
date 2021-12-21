@@ -1,8 +1,10 @@
 ---
 title: "IIIF Discovery for Humans Community Group"
 layout: page
+group: D4H
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 

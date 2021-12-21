@@ -1,8 +1,10 @@
 ---
 title: "IIIF A/V Community Group"
 layout: page
+group: av
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 

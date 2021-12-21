@@ -1,9 +1,10 @@
 ---
 title: "IIIF Newspapers Community Group"
 layout: page
+group: newspapers
 
 ---
-
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 
