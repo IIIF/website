@@ -149,6 +149,7 @@
   uri: https://www.jisc.ac.uk/
   logo: assets/uploads/logos/jisc-logo.svg
   new: true
+  iiifc: 3
 - name: Johns Hopkins University
   uri: http://library.jhu.edu
   iiifc: 2
@@ -283,7 +284,7 @@
   uri: https://www.prov.vic.gov.au/
 - name: Qatar National Library
   uri: http://www.qnl.qa
-  iiifc: 2
+  iiifc:
   logo: assets/uploads/logos/QNL-logo-1.png
 - name: Sirma Group
   uri: https://sirma.com/
