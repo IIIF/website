@@ -143,7 +143,7 @@ The six IIIF APIs fit together to deliver endless possibilities.
 IIIF is funded by a [{{ members.size }}-member]({{ site.root_url | absolute_url }}/community/consortium/members/) global [consortium]({{ site.root_url | absolute_url }}/community/consortium/), and leveraged by aggregators, research institutions, national libraries, archives, museums, software companies, and digital agencies around the world. Consortium members include:
 
 {% assign new = site.data.institutions | where_exp: "org", 'org.new == true' %}
-{% assign consortium = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3' | where_exp: "org", 'org.logo and org.logo != nil and org.new != true' | sample: 6  %}
+{% assign consortium = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3' | where_exp: "org", 'org.logo and org.logo != nil and org.new != true' | sample: 5  %}
 {% assign logos = new | concat: consortium %}
 
 {% include blocks/logo-grid.html items=logos %}
