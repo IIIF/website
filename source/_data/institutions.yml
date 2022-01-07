@@ -237,6 +237,8 @@
 - name: National Library of the Netherlands
   uri: https://www.kb.nl/
   iiifc: 4
+  logo: assets/uploads/logos/KB_Nationale-Bibliotheek_Logo_RGB.svg
+  new: true 
 - name: National Library of Poland
   uri: http://bn.org.pl
   iiifc: 2
