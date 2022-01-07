@@ -14,6 +14,7 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 
 
 ## 日本語 / Japanese
+- [Japanese translations of the IIIF specifications]({{ site.api_url | absolute_url }}/#community-translations)
 - [Software tools from Center for Open Data in the Humanities](http://codh.rois.ac.jp/software/index.html.ja), including the [IIIF Curation Platform](http://codh.rois.ac.jp/icp/index.html.ja)
 
 ## Deutsch / German
@@ -33,7 +34,7 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 - [Conhecendo o IIIF — Padrões e ferramentas para publicação de imagens na web](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36)
 
 ## 中文 / Chinese
-
+- [Chinese translations of the IIIF specifications]({{ site.api_url | absolute_url }}/#community-translations)
 - [Regional Meeting: IIIF for Chinese Culture - 2021 IIIF Annual Conference [video]](https://www.youtube.com/watch?v=Bh21b1pBLzE)
 - [IIIF Week 2020 - China Showcase [video]](https://www.youtube.com/watch?v=F01VY4St76U)
 - [List of IIIF-compliant tools](https://www.yuque.com/iiifchina/df4qfk/gog6h7)

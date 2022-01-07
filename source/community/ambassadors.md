@@ -14,14 +14,14 @@ The ambassador program deputizes community members to take a more formal role in
 
 The program is currently in trial, with our first group appointed by invite from the Outreach group and IIIF-C staff. Following a successful trial period, those interested in becoming an Ambassador may apply during an annual call.
 
-## Current Ambassadors:
+## Current ambassadors:
 **Roger Hyam, Biodiversity Data Systems Developer, Royal Botanical Garden Edinburgh, Scotland**  
 *IIIF for natural history*  
 Roger trained as a botanist, completing a PhD in the molecular systematics of the genus Rhododendron in the 1990s, but became increasingly involved in data science and software. He crossed to the commercial software development world for a few years in the early 2000s before returning to the hybrid field of biodiversity informatics and working for the standards organisation TDWG. He is now on staff at the Royal Botanic Garden Edinburgh where he continues his interest in the mechanics of sharing biodiversity data between organisations. Currently he is working on an EU funded project to encourage adoption of IIIF by natural history collections.
 
 **Régis Robineau**  
 *IIIF adoption in France*  
-TKTK  
+Régis is the technical coordinator of Biblissima, a French project which federates a set of digital resources on ancient written cultures. After two Master's degrees in History and Library and Information Science, he worked as a developer in a private web agency and as an engineer for various digital research projects in the Humanities. He is part of the Biblissima team of engineers since 2013 and involved in the IIIF community since its early days. He is also a driving force of the IIIF360 initiative, an expertise and support service around IIIF standards in France.   
 
 **Andrija Sagic, Head of Digitization Department, Library Milutin Bojic, Belgrade, Serbia**  
 *IIIF adoption in Serbia*  
