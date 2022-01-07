@@ -17,7 +17,7 @@ iiif_basics_carousel:
       url: 'assets/uploads/wellcome_zebrafish.png'
       type: image
       alt_text: "Wellcome Collection screenshot"
-      caption: 'The Wellcome Collection uses IIIF to make medical and scientific materials available via the <a href="https://universalviewer.io/">Universal Viewer</a>, which supports search and autocomplete service integration with overlaid search results, as well as 3D, audio, video, and pdf viewing experiences. IIIF is also used to dynamically generate multiple image download sizes to users.'
+      caption: 'The Wellcome Collection uses IIIF to make medical and scientific materials available via a their custom-built Wellcome Viewer, which supports search and autocomplete service integration with overlaid search results, as well as 3D, audio, video, and pdf viewing experiences. IIIF is also used to dynamically generate multiple image download sizes to users.'
     link:
       url: "https://wellcomecollection.org/works/qx682kma/items"
       label: 'View more'  

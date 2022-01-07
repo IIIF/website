@@ -14,7 +14,7 @@ next_resources:
    link: /get-started/
    description: Take the first step to exploring the rich world of IIIF-enabled materials.
  - label: Guides
-   link: https://preview.iiif.io/guides/wireframe/
+   link: https://iiif.io/guides/
    description: A set of resources to help you find and work with IIIF materials, built by members of the IIIF community.
  - label: Talks
    link: /get-started/talks

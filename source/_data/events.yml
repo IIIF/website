@@ -1,12 +1,3 @@
-- label: Les Futurs Fantastiques 
-  time:
-    start: "2021-12-09"
-    end: "2021-12-10"
-  links:
-    - label: More info
-      link: "https://www.bnf.fr/en/les-futurs-fantastiques"
-    - label: Pre-conference workshops (1st - 7th December)
-      link: "https://www.bnf.fr/en/agendaEN/workshops-tutorials-les-futurs-fantastiques-3rd-conference-about-artificial-intelligence"
 - label: January IIIF Online Training (5-Day Course)
   time:
     start: 2022-01-24T06:00:00Z
@@ -16,3 +7,12 @@
       link: "get-started/training/online-training/"
     - label: Register
       link: https://www.eventbrite.com/e/january-iiif-online-training-5-day-course-tickets-176371781747
+- label: IIIF Annual Conference 
+  time:
+    start: "2022-06-06"
+    end: "2022-06-10"
+  links:
+    - label: More info
+      link: "event/2022/cambridge/"
+  location:
+    label: "Cambridge/Boston, MA"

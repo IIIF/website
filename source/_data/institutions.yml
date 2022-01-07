@@ -109,7 +109,6 @@
   uri: https://lib.ugent.be/
   iiifc: 3
   logo: assets/uploads/logos/ghent_logo.svg
-  new: true
 - name: Göttingen State and University Library
   uri: https://www.sub.uni-goettingen.de
   iiifc: 2
@@ -146,6 +145,11 @@
 - name: intranda GmbH
   uri: https://goobi.io
   iiifc:
+- name: Jisc
+  uri: https://www.jisc.ac.uk/
+  logo: assets/uploads/logos/jisc-logo.svg
+  new: true
+  iiifc: 3
 - name: Johns Hopkins University
   uri: http://library.jhu.edu
   iiifc: 2
@@ -230,6 +234,9 @@
   logo: assets/uploads/logos/Logo_of_The_National_Library_of_Israel.jpg
 - name: National Library of New Zealand
   uri: https://natlib.govt.nz/
+- name: National Library of the Netherlands
+  uri: https://www.kb.nl/
+  iiifc: 4
 - name: National Library of Poland
   uri: http://bn.org.pl
   iiifc: 2
@@ -277,7 +284,7 @@
   uri: https://www.prov.vic.gov.au/
 - name: Qatar National Library
   uri: http://www.qnl.qa
-  iiifc: 2
+  iiifc:
   logo: assets/uploads/logos/QNL-logo-1.png
 - name: Sirma Group
   uri: https://sirma.com/
