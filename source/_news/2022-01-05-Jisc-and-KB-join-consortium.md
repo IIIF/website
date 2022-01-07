@@ -1,14 +1,14 @@
 ---
 title: Welcome to Jisc and the The National Library of the Netherlands, the newest members of the IIIF Consortium!
 author: IIIF Consortium Staff
-date: 2022-01-05
+date: 2022-01-07
 tags: [news, announcements]
 layout: post
 excerpt: >
   We are happy to announce that Jisc and The National Library of the Netherlands / Koninklijke Bibliotheek (KB) have joined the IIIF Consortium. 
 ---
 
-We are happy to announce that [Jisc](https://www.jisc.ac.uk/) and [The National Library of the Netherlands / Koninklijke Bibliotheek (KB)](https://www.kb.nl/) have joined the [IIIF Consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/), as full member and associate member respectively.
+We are happy to announce that for the start of the new year [Jisc](https://www.jisc.ac.uk/) and [The National Library of the Netherlands / Koninklijke Bibliotheek (KB)](https://www.kb.nl/) have joined the [IIIF Consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/), as full member and associate member respectively.
 
 Jisc is a UK nonprofit that provides "relevant and useful advice, digital content and network and IT services, while we research and develop new technologies and ways of working." Of particular interest to the IIIF Community is the Archives Hub program, which "brings together descriptions of thousands of the UK’s archive collections," and which is undertaking IIIF implementation initiatives this coming year.
 
