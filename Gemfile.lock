@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/iiif/iiifc-theme.git
-  revision: 65aacd4896b931c3aca668804959861c772594e4
+  revision: d82061cd09b68202e11e67498fb653493b268da9
   branch: main
   specs:
     iiifc-theme (0.1.0)
@@ -79,9 +79,9 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.6.1)
-    nokogiri (1.12.5)
-      mini_portile2 (~> 2.6.1)
+    mini_portile2 (2.7.1)
+    nokogiri (1.13.0)
+      mini_portile2 (~> 2.7.0)
       racc (~> 1.4)
     parallel (1.21.0)
     pathutil (0.16.2)
