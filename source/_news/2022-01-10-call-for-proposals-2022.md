@@ -48,5 +48,5 @@ We encourage showcasing developments in IIIF and in particular would welcome pre
 
 ### Questions?
 
-Please contact [staff@iiif.io](staff@iiif.io).
+Please contact [staff@iiif.io](mailto:staff@iiif.io).
 
