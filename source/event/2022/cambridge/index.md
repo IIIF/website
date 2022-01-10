@@ -26,7 +26,7 @@ This event is guided by the IIIF [Code of Conduct][conduct].
 * Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
 ### Call for proposals
-The Call for Proposals is open until February 18, 2022. You may submit a proposal here: <https://www.conftool.org/iiif2022>.
+The Call for Proposals is open until February 18, 2022. You may submit a proposal here: <https://iiif.io/news/2022/01/10/call-for-proposals-2022/>.
 
 ### Program committee
 Thank you to the 2022 Program committee:
