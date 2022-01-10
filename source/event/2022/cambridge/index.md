@@ -15,20 +15,18 @@ This event is guided by the IIIF [Code of Conduct][conduct].
 
 ### Overview and important dates
 
-* Registration: Registration opens February 7, 2022.
-* Event dates: June 6-8, 2022
 * Locations: Cambridge, MA, USA (See [map](#locations) below for venue locations and more)
     - IIIF showcase: MIT campus
     - Conference: Harvard campus, various locations
 * Cost: $375 general ticket, $240 [consortium members][consortium] ticket, $100 student/discount ticket.
 * Language: All event proceedings will be in English unless otherwise noted.
 * Capacity: Approximately 300.
+* Registration: Registration opens February 7, 2022.
+* Event dates: June 6-8, 2022
 * Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
-Stay tuned to the [IIIF-Discuss][iiif-discuss] email list and our [newsletter](https://iiif.io/newsletter/) for announcements and updates.
-
 ### Call for proposals
-The Call for Proposals will open in early January.
+The Call for Proposals is open until February 18, 2022. You may submit a proposal here: <https://www.conftool.org/iiif2022>.
 
 ### Program committee
 Thank you to the 2022 Program committee:
@@ -48,9 +46,13 @@ Thank you to the 2022 local planning committee:
 
 ### Travel
 
-- A list of hotel options will be available in early 2022
-- Flights: The local planning team recommends that attendees traveling by air fly to [Boston Logan International Airport (BOS)](https://www.massport.com/logan-airport)
-- Train: [Take a train](https://www.amtrak.com/home.html) to Boston from many parts of the Eastern coast of the United States.
+- Travel and hotel information will be available soon.
+
+### Schedule
+- A full schedule will be available in March 2022.
+
+### Questions?
+Reach out to us at [staff@iiif.io](mailto:staff@iiif.io).
 
 
 <!-- ### Call for Sponsors
