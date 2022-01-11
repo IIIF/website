@@ -1355,7 +1355,7 @@
     firstname: Patrick
     lastname: Cuba
     organization: Walter J. Ong, S.J. Center for Digital Humanities
-    web_page: https://blog.ongcdh.org
+    web_page:
   - country: United States
     firstname: Jeffrey
     lastname: Witt
