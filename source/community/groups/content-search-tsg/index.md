@@ -15,8 +15,8 @@ The [IIIF Content Search Technical Specification Group charter]({{ site.root_url
 ## Organization
 
 **Chairs:**
-* Maria Whitaker (Indiana University)
-* Mike Bennett (University of Edinburgh)
+* Dawn Childress (UCLA)
+* Mike Bennett
 * Tom Crane (Digirati)
 
 **Communication channels:**
