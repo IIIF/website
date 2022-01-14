@@ -42,3 +42,11 @@ page_gen:
 #   subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #   link: '#'
 #   link_label: This is a test link
+
+
+banner:
+  enabled: true
+  title: Now accepting proposals for the 2022 IIIF Annual Conference
+  subtitle: Submissions are due by February 18, 2022.
+  link: 'https://iiif.io/news/2022/01/10/call-for-proposals-2022/'
+  link_label: Learn more
