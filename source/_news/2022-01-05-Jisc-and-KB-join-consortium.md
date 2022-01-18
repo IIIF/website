@@ -12,7 +12,7 @@ We are happy to announce that for the start of the new year [Jisc](https://www.j
 
 Jisc is a UK nonprofit that provides "relevant and useful advice, digital content and network and IT services, while we research and develop new technologies and ways of working." Of particular interest to the IIIF Community is the Archives Hub program, which "brings together descriptions of thousands of the UK’s archive collections," and which is undertaking IIIF implementation initiatives this coming year.
 
-The KB was founded in 1798 and collects books, newspapers, magazines and maps related to the Netherlands. The KB have recently started implementing IIIF in their infrastructure and are working on integrating the APIs into their future digital endeavors.
+The KB National Library was founded in 1798 and collects all publications relating to the Netherlands. A large part of this collection has been digitized. The KB has recently started implementing IIIF in it’s infrastructure and is working on integrating the APIs into future digital endeavors. Extra love and attention will be given to the rich special collections of KB, such as Alba Amicorum and Medieval Manuscripts. The KB National Library are looking forward to be part of the IIIF consortium and getting to know the community.
 
 ---
 
