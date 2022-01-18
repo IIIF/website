@@ -1,0 +1,18 @@
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@iiif_io">
+<meta name="twitter:title" content="{{ page.title }}">
+
+{% if page.subtitle %}
+  <meta name="twitter:description"
+    content="{{ page.subtitle | strip_html | xml_escape | truncate: 203 }}">
+{% elsif  page.hero.subtitle %}
+  <meta name="twitter:description"
+    content="{{ page.hero.subtitle | strip_html | xml_escape | truncate: 203 }}">
+{% elsif  page.excerpt %}
+  <meta name="twitter:description"
+    content="{{ page.excerpt | strip_html | xml_escape | truncate: 203 }}">
+{% else %}
+  <!-- <meta name="twitter:description"
+    content="{{ page.content | strip_html | xml_escape
+      | truncate: 200 }}"> -->
+{% endif %}
