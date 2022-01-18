@@ -199,7 +199,7 @@ There is an example pdf along with the original manifest in UV shown on the V&A 
 
 ### OpenLayers 6 will support IIIF Image API
 
-OpenLayers 6 will support IIIF Image API services OpenLayers (https://openlayers.org) is a JavaScript library for building feature rich map and geo data web applications. Upcoming version 6 will allow the usage of IIIF Image API services as map tile sources. An example from the OpenLayers master branch that utilizes both the IIIF image tile source and the built-in IIIF image information response parsing can be found at <https://openlayers.org/en/master/examples/iiif.html>.
+OpenLayers 6 will support IIIF Image API services OpenLayers (https://openlayers.org) is a JavaScript library for building feature rich map and geo data web applications. Upcoming version 6 will allow the usage of IIIF Image API services as map tile sources. An example from the OpenLayers master branch that utilizes both the IIIF image tile source and the built-in IIIF image information response parsing can be found at <https://openlayers.org/en/latest/examples/iiif.html>.
 
 ### Parker Library On the Web resources added to the Biblissima Discovery Platform
 
