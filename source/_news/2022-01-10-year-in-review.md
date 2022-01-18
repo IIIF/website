@@ -4,6 +4,8 @@ author: IIIF consortium staff
 date: 2022-01-10
 tags: [announcements]
 layout: post
+excerpt: >
+    A look at just some of our collective work in the past year. 
 ---
 
 # IIIF's 2021 in review
