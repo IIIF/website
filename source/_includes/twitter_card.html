@@ -1,6 +1,6 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@iiif_io">
-<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:title" content="{{ page.title | remove: '"'  }}">
 
 {% if page.subtitle %}
   <meta name="twitter:description"
