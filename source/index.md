@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+banner: true
 hero:
   image: "assets/uploads/doshisha_103500_.jpg"
   title: Gain richer access to the world's image and audio/visual files
