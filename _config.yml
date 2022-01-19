@@ -19,6 +19,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-liquify
   - jekyll-datapage-generator
+  - jekyll-seo-tag
 
 page_gen-dirs: false
 page_gen:
@@ -50,3 +51,20 @@ banner:
   subtitle: Submissions are due by February 18, 2022.
   link: 'https://iiif.io/news/2022/01/10/call-for-proposals-2022/'
   link_label: Learn more
+
+# Jekyll SEO plugin info
+title: IIIF APIs and Community Site
+tagline: "IIIF is a set of open standards for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions."
+description: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading academic and cultural institutions.
+url: https://iiif.io/
+twitter:
+  username: iiif_io
+  card: summary
+logo: /assets/favicon.ico
+social:
+  name: IIIF
+  links:
+    - https://twitter.com/IIIF_io
+    - https://www.linkedin.com/company/iiif-c/
+    - https://github.com/IIIF/
+
