@@ -12,7 +12,7 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 __Upcoming IIIF-Hosted Events__
 
 
-* 2022 IIIF Annual Conference [June 6-8, 2022, Cambridge, MA)][cambridge2022]
+* 2022 IIIF Annual Conference: [June 6-8, 2022, Cambridge, MA][cambridge2022]
 
 __Previous IIIF-Hosted Events__
 
