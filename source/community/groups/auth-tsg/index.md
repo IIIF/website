@@ -25,7 +25,7 @@ The [IIIF Authentication Technical Specification Group charter]({{ site.root_url
   * [IIIF Authentication TSG folder][auth-tsg-folder]
 
 **Call connection information:**
-* Online: [https://stanford.zoom.us/j/97011289425](https://stanford.zoom.us/j/97011289425)
+* Online: [Zoom](https://stanford.zoom.us/j/97011289425)
 
 [events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"

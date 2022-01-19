@@ -38,7 +38,7 @@ The IIIF Manuscripts Group seeks to advance aims of the [IIIF Consortium][iiifc]
 
 **Call connection information:**
 
-  * Online: [https://stanford.zoom.us/j/674108679][zoom-link]
+  * Online: [Zoom][zoom-link]
 
 [ghent]: https://iiif.io/event/2015/ghent/ "IIIF: Access to the World's Images - Ghent 2015"
 [iiifc]: {{ site.root_url | absolute_url }}/community/consortium/ "IIIF Consortium"

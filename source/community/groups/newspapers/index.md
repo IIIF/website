@@ -36,7 +36,7 @@ The Newspapers Community Group welcomes participants with an interest in impleme
 
 **Call connection information:**
 
-  * Online: [https://stanford.zoom.us/j/948530998][zoom-link]
+  * Online: [Zoom][zoom-link]
 
 [newspapers-awesome-iiif]: https://github.com/IIIF/awesome-iiif#newspapers "Newspapers on Awesome-IIIF"
 [events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
