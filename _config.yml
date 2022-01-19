@@ -61,7 +61,7 @@ twitter:
   username: iiif_io
   card: summary
 logo: /assets/favicon.ico
-image: /assets/images/zeplin/png/logo-blue@3x.png
+#image: /assets/images/zeplin/png/logo-blue@3x.png
 social:
   name: IIIF
   links:
