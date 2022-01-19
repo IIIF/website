@@ -40,7 +40,7 @@ By participating in the Archives Community Group, you will help set best practic
 
 **Call connection information:**
 
- * Online: [https://stanford.zoom.us/j/97950308605][zoom-link]
+ * Online: [Zoom][zoom-link]
 
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"

@@ -32,7 +32,7 @@ If successful, the work will enable the collaborative development of global or t
 
 **Call connection information:**
 
-  * Online: [https://stanford.zoom.us/j/829945399][zoom-link]
+  * Online: [Zoom][zoom-link]
   * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 829945399, Participant ID: #
 
 [charter]: {{ site.root_url | absolute_url }}/community/groups/discovery/charter

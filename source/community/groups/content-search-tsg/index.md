@@ -29,7 +29,7 @@ The [IIIF Content Search Technical Specification Group charter]({{ site.root_url
   * [IIIF Content Search TSG folder][search-tsg-folder]
 
 **Call connection information:**
-* Online: [https://stanford.zoom.us/j/96598012767](https://stanford.zoom.us/j/96598012767)
+* Online: [Zoom](https://stanford.zoom.us/j/96598012767)
 
 [events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
