@@ -7,7 +7,7 @@ tags: [event ]
 
 The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products and services and interact with participants from all over the world. The[ 2022 IIIF Conference will take place June 6-8, 2022 in Cambridge, MA (USA)][cambridge]. The event is co-hosted by Harvard University and MIT.
 
-The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small institutions including Universities, Libraries, Archives and Museums. Our last conference in Germany attracted 280 attendees keen to learn about IIIF and associated projects, technologies, and best practices.
+The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small Universities, Libraries, Archives and Museums, including: collection managers, software developers, UX researchers, subject matter experts, and more. Our last conference in Germany attracted 280 attendees keen to learn about IIIF and associated projects, technologies, and best practices.
 
 ### **Gold - $2,500**
 
@@ -24,7 +24,6 @@ In 2019, the IIIF Consortium sponsored a travel scholarship in order to foster a
 * Named sponsorship for IIIF Conference travel award
 * Logo on iiif.io website and conference slides
 * Acknowledgements throughout plenary program
-
 
 ### **Silver - $1,250**
 
