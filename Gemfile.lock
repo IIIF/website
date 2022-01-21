@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/iiif/iiifc-theme.git
-  revision: f4b25d15a1797adb30b31af5d445c7e34eba392b
+  revision: c7312a127b5a07b0cacc508fc830e05b64d834b1
   branch: main
   specs:
     iiifc-theme (0.1.0)
@@ -66,6 +66,8 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
+    jekyll-seo-tag (2.7.1)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
@@ -115,6 +117,7 @@ DEPENDENCIES
   iiifc-theme!
   jekyll (~> 4.1.1)
   jekyll-datapage-generator
+  jekyll-seo-tag
   rake
   webrick (~> 1.7)
 

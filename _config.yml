@@ -19,6 +19,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-liquify
   - jekyll-datapage-generator
+  - jekyll-seo-tag
 
 page_gen-dirs: false
 page_gen:
