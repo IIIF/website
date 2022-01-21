@@ -55,10 +55,9 @@ Thank you to the 2022 local planning committee:
 ### Questions?
 Reach out to us at [staff@iiif.io](mailto:staff@iiif.io).
 
+### Call for Sponsors
 
-<!-- ### Call for Sponsors
-
-We are offering sponsorship for the 2020 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>. -->
+We are offering sponsorship for the 2022 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>.
 
 <!-- ### Outline program
 
@@ -119,3 +118,4 @@ The final program will continue to develop over the next few months but please s
 [conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
+[sponsors]:  {{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship
