@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+image: "/assets/uploads/2019-06-IIIF-Conference-0705.jpg"
 banner: true
 hero:
   image: "assets/uploads/doshisha_103500_.jpg"

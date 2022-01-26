@@ -14,3 +14,6 @@ group :development, :test do
 end
 
 gem "webrick", "~> 1.7"
+
+# For open graph and Twitter Card elements
+gem 'jekyll-seo-tag'

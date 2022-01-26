@@ -4,6 +4,9 @@ author: IIIF Consortium staff
 date: 2022-01-10
 tags: [announcements]
 layout: post
+excerpt: >
+    Submissions are due by February 18, 2022
+
 ---
 
 # Call for proposals now open: 2022 IIIF Annual Conference
