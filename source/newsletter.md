@@ -86,10 +86,4 @@ hero:
 
 ## Newsletter archive
 
-<style type="text/css">
-<!--
-.display_archive {font-family: arial,verdana; font-size: 12px;}
-.campaign {line-height: 125%; margin: 5px;}
-//-->
-</style>
-<script language="javascript" src="https://iiif.us8.list-manage.com/generate-js/?u=0c57841c2f33e7c939a5e8659&fid=23417&show=10" type="text/javascript"></script>
+<script language="javascript" src="https://iiif.us8.list-manage.com/generate-js/?u=0c57841c2f33e7c939a5e8659&fid=23417&show=20" type="text/javascript"></script>
