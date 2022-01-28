@@ -80,6 +80,10 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 
 The IIIF Editorial Committee meets regularly and works in collaboration with [Community and Technical Specification Groups][groups] to propose new technical specifications and to update existing ones. Learn about their work and current membership [on the Editors page][editors].
 
+## Coordinating Committee (CoCo)
+
+The [IIIF Coordinating Committee][coco] (known as "CoCo") ensures that the IIIF community continues to move forward in a sustainable, community-driven, coordinated way. CoCo is composed of both IIIF-C members and non-members to represent constituents throughout the community, and advises on many IIIF activities including policies, new group formation, and the overall health of community groups. 
+
 ## IIIF Ambassadors
 IIIF Ambassadors are deputized to work with Consortium staff to take a formal role in championing IIIF adoption in their communities. Ambassadors focus their efforts around different domains, associations, tools, or regions. Learn more about [program and the current Ambassadors][ambassadors].
 
@@ -91,3 +95,4 @@ IIIF is supported by a membership [consortium]({{ site.root_url | absolute_url }
 [groups]:{{site.root_url | absolute_url }}/community/groups/
 [editors]:{{site.root_url | absolute_url }}/community/editors/
 [ambassadors]:{{site.root_url | absolute_url }}/community/ambassadors
+[coco]: {{site.root_url | absolute_url }}/community/coordinating-committee
