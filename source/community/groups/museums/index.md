@@ -44,7 +44,7 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
 
 **Call connection information:**
 
-  * Online: [https://stanford.zoom.us/j/948530998][zoom-link]
+  * Online: [Zoom][zoom-link]
 
   [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
   [museums-slack]: https://iiif.slack.com/messages/museums/details/

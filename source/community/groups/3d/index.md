@@ -42,7 +42,7 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 
 **Call connection information:**
 
- * Online: [https://stanford.zoom.us/j/99234876885][zoom-link]
+ * Online: [Zoom][zoom-link]
 
 
 [3d-user-stories]: https://github.com/IIIF/iiif-3d-stories "3D User Stories"
