@@ -46,7 +46,7 @@ IIIF Discovery for Users Community Group Folder ([https://drive.google.com/drive
 
 **Call connection information:**
 
- * Online: [https://stanford.zoom.us/j/91556981560][zoom-link]
+ * Online: [Zoom][zoom-link]
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack

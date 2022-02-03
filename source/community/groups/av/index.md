@@ -35,7 +35,7 @@ The [IIIF A/V Community Group charter][av-charter] provides an outline and timel
 
 **Call connection information:**
 
-  * Online: [https://stanford.zoom.us/j/538552143][zoom-link]
+  * Online: [Zoom][zoom-link]
 
 [av-user-stories]: https://github.com/IIIF/iiif-av/issues "Audiovisual User Stories"
 [bl-workshop-2016-04]: https://goo.gl/iVXEFD "Use cases and notes from April 2015 workshop at British Library"

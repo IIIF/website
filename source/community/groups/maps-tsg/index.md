@@ -30,7 +30,7 @@ The [IIIF Maps TSG Charter][charter] provides a more detailed outline of anticip
   * [IIIF Maps TSG folder][maps-tsg-folder]
 
 **Call connection information:**
-* Online: [https://stanford.zoom.us/j/99449304468](https://stanford.zoom.us/j/99449304468?pwd=UUNzMmFtV2dXSWs2MjVicnplS29LUT09)
+* Online: [Zoom](https://stanford.zoom.us/j/99449304468?pwd=UUNzMmFtV2dXSWs2MjVicnplS29LUT09)
 
 [charter]: {{ site.root_url | absolute_url }}/community/groups/maps-tsg/charter
 [events]: {{ site.root_url | absolute_url }}/event "IIIF Events"

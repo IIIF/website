@@ -46,7 +46,7 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
 
 **Call connection information:**
 
-  * Online: [https://stanford.zoom.us/j/97934431714][zoom-link]
+  * Online: [Zoom][zoom-link]
 
   [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
   [outreach-slack]: https://iiif.slack.com/messages/outreach/details
