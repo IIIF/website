@@ -5,7 +5,7 @@ date: 2021-10-01
 tags: [news, announcements]
 layout: post
 excerpt: >
-  We are happy to announce that University of Tennessee, Knoxville has joined the Consortium as a full member. 
+  We are happy to announce that the University of Tennessee, Knoxville has joined the Consortium as a full member. 
 ---
 
 We are happy to announce that [University of Tennessee, Knoxville](https://www.lib.utk.edu/) (UTK) has joined the [IIIF Consortium]({{ site.url }}{{ site.baseurl }}/community/consortium/) as a full member. 
