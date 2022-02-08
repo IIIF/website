@@ -108,7 +108,7 @@ fun:
       url: 'assets/uploads/antlitz-ninja.png'
       type: image
       alt_text: 'Antlitz Ninja screenshot'
-      caption: 'Antlitz Ninja, created by Leander Siege for the Coding da Vinci hackathon in Germany, uses an <a href="https://openseadragon.github.io">OpenSeadragon</a> viewer along with the Image and Presentation APIs to enable zooming and realignment of paintings to create Exquisite Corpse portraits on the fly.'
+      caption: 'Antlitz Ninja, created by Leander Seige for the Coding da Vinci hackathon in Germany, uses an <a href="https://openseadragon.github.io">OpenSeadragon</a> viewer along with the Image and Presentation APIs to enable zooming and realignment of paintings to create Exquisite Corpse portraits on the fly.'
     link:
       url: 'https://antlitz.ninja/'
       label: 'View more'
