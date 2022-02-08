@@ -354,7 +354,7 @@
   iiifc:
 - name: University of Hong Kong
   uri: http://lib.hku.hk
-  iiifc: 2
+  iiifc: 
   logo: assets/uploads/logos/hkul-logo@2x.png
 - name: University of Illinois at Urbana-Champaign
   uri: http://illinois.edu/
