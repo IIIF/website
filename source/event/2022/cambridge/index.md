@@ -22,7 +22,7 @@ This event is guided by the IIIF [Code of Conduct][conduct].
 * Cost: $375 general ticket, $240 [consortium members][consortium] ticket, $100 student/discount ticket.
 * Language: All event proceedings will be in English unless otherwise noted.
 * Capacity: Approximately 300.
-* Registration: Registration opens February 7, 2022.
+* Registration: Registration opens in February.
 * Event dates: June 6-8, 2022
 * Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
