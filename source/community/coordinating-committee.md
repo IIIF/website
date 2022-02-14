@@ -37,6 +37,27 @@ The Managing Director and other IIIF-C staff will serve as liaisons to the Execu
 
 CoCo meets monthly.
 
+## Current members
+
+- Michael Appleby, Yale University
+- Mike Bennett, DataCite
+- Dawn Childress, UCLA
+- Stefano Cossu, J. Paul Getty Trust
+- Tom Cramer, Stanford University
+- Tom Crane, Digirati
+- Arcadia Falcone, Stanford Universty
+- Josh Hadro, IIIF Consortium
+- Eliot Jordan, Princeton University
+- Mark Matienzo, Stanford University
+- Meg O'Hearn, IIIF Consortium
+- Julien A. Raemy, University of Basel
+- Glen Robson, IIIF Consortium
+- Ed Silverton, Mnemoscene
+- Simeon Warner, Cornell University
+- Jeff Witt, Loyola University Maryland
+- Karina Wratschko, Philadelphia Museum of Art
+
+
 [groups]:{{site.root_url | absolute_url }}/community/groups/#technical-specification-groups-tsgs
 [editors]:{{site.root_url | absolute_url }}/community/editors/
 [consortium]:{{site.root_url | absolute_url }}/community/consortium/
