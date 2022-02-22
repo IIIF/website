@@ -28,11 +28,11 @@ These aims are different from and complementary to the approach of the [IIIF Dis
 ## Organization
 
 **Chairs:**
- * Tom Cramer, Stanford
  * Arcadia Falcone, Stanford (D4H Staff)
  * Paola Manoni, Vatican Library
  * Jeff Mixter, OCLC
  * Ben Bakelaar, St. Louis University / Rutgers University
+ * Stacey Redick, Folger Shakespeare Library
 
 **Communication channels:**
 

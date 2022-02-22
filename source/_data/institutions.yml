@@ -237,6 +237,8 @@
 - name: National Library of the Netherlands
   uri: https://www.kb.nl/
   iiifc: 4
+  logo: assets/uploads/logos/KB_Nationale-Bibliotheek_Logo_RGB.svg
+  new: true 
 - name: National Library of Poland
   uri: http://bn.org.pl
   iiifc: 2
@@ -352,7 +354,7 @@
   iiifc:
 - name: University of Hong Kong
   uri: http://lib.hku.hk
-  iiifc: 2
+  iiifc: 
   logo: assets/uploads/logos/hkul-logo@2x.png
 - name: University of Illinois at Urbana-Champaign
   uri: http://illinois.edu/
