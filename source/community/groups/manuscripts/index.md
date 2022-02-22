@@ -1,8 +1,10 @@
 ---
 title: "IIIF Manuscripts Community Group"
 layout: page
+group: manuscripts
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 

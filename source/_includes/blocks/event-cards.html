@@ -90,10 +90,12 @@
             let eventDetails = createDiv(cardContent, "event-details has-text-left");
             eventDetails.style.marginBottom = "0";
 
-            createNode(eventDetails, "i", "fas fa-university");
-            eventDetails.appendChild(document.createTextNode(" " + organiser));
-            eventDetails.appendChild(document.createElement("br"));
-            
+            if(organiser) {
+                createNode(eventDetails, "i", "fas fa-university");
+                eventDetails.appendChild(document.createTextNode(" " + organiser));
+                eventDetails.appendChild(document.createElement("br"));
+            }
+
             createNode(eventDetails, "i", "fas fa-map-marked-alt");
             eventDetails.appendChild(document.createTextNode(" "));
             if (location) {
@@ -158,6 +160,31 @@
             }
         }
 
+        function findNextCall(parent, events, group) {
+            if (group in events.meetings) {
+                let event = events.meetings[group]
+                    if ('next_call' in event) {
+                        links = []
+                        if (location && location.link) {
+                            links.push({
+                                'label': 'Zoom Link',
+                                'link': location.link
+                            });
+                        }
+
+                        links.push({
+                            'label': 'Notes',
+                            'link': event.notes
+                        });
+                        buildCard(parent, new Date(event.next_call), false, 'Next ' + event.label + ' community call', event.frequency, null, null, links);
+                    } else {
+                        console.log('Group: ' + group + ' does not have a next call in https://iiif.io/events/calendar.json');
+                    }
+            } else {
+                console.log('Group: ' + group + ' not in https://iiif.io/events/calendar.json');
+            }
+        }
+
         function addCalls(parent, events, limit) {
             let weeksCalls = events.week;
             if (weeksCalls.length < limit) {
@@ -218,6 +245,14 @@
                   .then(response => response.json())
                   .then(data => addCalls(parent, data, {{ include.limit | default: 10 }}));
             </script>
+      {% elsif include.type and include.type == 'next_call' %}
+         <script>
+           let parent = document.currentScript.parentElement;
+           let group = "{{ include.group }}"
+           fetch('https://iiif.io/events/calendar.json')
+              .then(response => response.json())
+              .then(data => findNextCall(parent, data, group));
+         </script>
       {% else %}
             <script>
                 // Show all events
