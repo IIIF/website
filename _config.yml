@@ -47,8 +47,8 @@ page_gen:
 
 banner:
   enabled: true
-  title: Now accepting proposals for the 2022 IIIF Annual Conference
-  subtitle: Submissions are due by February 18, 2022.
+  title: "Deadline extended!: Now accepting proposals for the 2022 IIIF Annual Conference"
+  subtitle: Submissions are due by 04 March 2022.
   link: 'https://iiif.io/news/2022/01/10/call-for-proposals-2022/'
   link_label: Learn more
 
