@@ -1,8 +1,10 @@
 ---
 title: "IIIF Maps Technical Specification Group"
 layout: page
+group: maps-tsg
 
 ---
+{%- include blocks/event-cards.html type="next_call" group=page.group -%}
 
 ## About
 IIIF has a technical focus on images, and the cultural heritage presence within has ensured digitized maps are represented. We recognize a growing need to describe data in the humanities with its spatial relevance to planet Earth, for which maps are the conduit interface. Geospatial description allows systems to portray data in a natural and understandable human context.  
