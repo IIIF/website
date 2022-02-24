@@ -26,9 +26,7 @@ Please add examples and use cases at <https://github.com/IIIF/iiif-3d-stories/is
 
 **Chairs:**
 
-  * Ed Silverton ([Mnemoscene][mnemoscene])
   * Ronald Haynes ([Cambridge University][ronald])
-  * Julie Winchester ([Duke University][julie])
 
 **Communication channels:**
 
