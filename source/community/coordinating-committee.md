@@ -47,7 +47,7 @@ CoCo meets monthly.
 - Tom Crane, Digirati
 - Arcadia Falcone, Stanford Universty
 - Josh Hadro, IIIF Consortium
-- Eliot Jordan, Princeton University
+- Stace Maples, Stanford University
 - Mark Matienzo, Stanford University
 - Meg O'Hearn, IIIF Consortium
 - Julien A. Raemy, University of Basel

@@ -36,7 +36,7 @@
   name: Stefano Cossu
   role: 1
 - institution: IIIF TSG - Maps
-  name: Bryan Haberberger
+  name: Eliot Jordan
   role: 1
 - institution: IIIF TSG - Content Search
   name: Mike Bennett
@@ -200,17 +200,20 @@
 #  role: 3
   
 #Community representatives
-- institution: University College Dublin
-  name: Pete Clarke
+- institution: Max Planck Institute for the History of Science, Berlin
+  name: Robert Casties
   role: 4
-- institution: Yale University, EaaSI program
-  name: Katherine Thornton  
+- institution:  Saint Louis University
+  name: Bryan Haberberger
   role: 4
-- institution: 
-  name: 
+- institution: University of Oxford
+  name: Tanya Gray
   role: 4
 - institution: Yale University Library
   name: Trip Kirkpatrick
+  role: 4
+- institution: The National Gallery
+  name: Joseph Padfield
   role: 4
 - institution: Biblissima - Campus Condorcet - EPHE-PSL
   name: Régis Robineau  
