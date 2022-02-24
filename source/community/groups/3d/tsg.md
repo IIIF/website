@@ -67,7 +67,7 @@ The expected initial deliverables are IIIF API extensions and a specification ch
 [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [3d-charter]: {{ site.root_url | absolute_url }}/community/groups/3d/charter
-[3d-tsg-charter]: https://docs.google.com/document/d/13OysSJc3tNRUJUrNbo16_RYOTPRHJpOnHkROQZO6JwM/edit
+[3d-tsg-charter]: {{ site.root_url | absolute_url }}/community/groups/3d/tsg-charter
 [mnemoscene]: https://mnemoscene.io/
 [sketchfab]: https://sketchfab.com/nebulousflynn
 [ronald]: https://www.uis.cam.ac.uk/about-us/rm/ronald-haynes
