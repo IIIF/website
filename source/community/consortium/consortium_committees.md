@@ -11,7 +11,7 @@ breadcrumbs:
 
 ## Executive Committee
 
-Steering strategic direction and budget approval, this committee meets twice annually and is composed of staff from thirteen members of the Consortium.
+Steering strategic direction and budget approval, this committee meets twice annually. Initially it was composed of staff from the first eleven founding members of the Consortium, plus two additional elected members. Starting in 2021, institutional seats on this committee are elected annually by the Consortium membership to staggered terms.
 
 Appointments are on an institutional basis, and staff at each organization may select one or more person to represent the institution at Executive Committee meetings. 
 
