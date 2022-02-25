@@ -31,8 +31,8 @@ Current Executive Committee institutions are:
 - Wellcome Trust
 - Yale University
 
-Committee Chair: Michael Keller, Stanford University Libraries  
-Vice-chair: Rich Fagen, The J. Paul Getty Trust  
+Committee Chair: Tom Cramer, Stanford University Libraries  
+Vice-chair: Regine Stein, Göttingen State and University Library (SUB Göttingen)  
 Treasurer: Neil Fitzgerald, The British Library  
 
 --- 
@@ -52,10 +52,9 @@ This sub-group of the Executive Committee meets monthly and watches that strateg
 
 Current members:
 
-- Michael Keller, Stanford University Libraries
-- Rich Fagen, The J. Paul Getty Trust
-- Neil Fitzgerald, The British Library
-- Emmanuelle Delmas-Glass, Yale Center for British Art
-- Emmanuelle Bermes, Bibliothèque nationale de France
 - Tom Cramer, Stanford University Libraries
-
+- Regine Stein, Göttingen State and University Library (SUB Göttingen)
+- Neil Fitzgerald, The British Library
+- Roger Lawson, National Gallery of Art
+- Simeon Warner, Cornell University
+- Mike Appleby, Yale University
