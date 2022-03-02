@@ -5,32 +5,57 @@ page: overview
 banner: true 
 ---
 
-The 2022 [International Image Interoperability Framework (IIIF)][iiif] Annual Conference will be held in Cambridge, MA, USA June 6--8, 2022, and will be hosted jointly by [Harvard University][harvard] and the [Massachusetts Institute of Technology ][mit] (MIT) along with the IIIF Consortium.
+
+
+The 2022 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}) Annual Conference will be held in Cambridge, MA, USA June 6–8, 2022, and will be hosted jointly by [Harvard University](https://www.harvard.edu/) and the [Massachusetts Institute of Technology ](https://mit.edu/)(MIT) along with the IIIF Consortium.
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
-The event includes a **showcase** meant to introduce newcomers to IIIF, and those seeking to learn how IIIF is used in a variety of contexts. The **conference** features plenary presentations and sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations. Online **workshops** will offer more in-depth opportunities to learn about IIIF tools and platforms, and will be held the weeks before and after the event.
+The event includes a free **showcase** meant to introduce newcomers to IIIF, and those seeking to learn how IIIF is used in a variety of contexts. The **conference** features plenary presentations and sessions about IIIF implementations around the world, including cutting edge use cases and demonstrations. Online **workshops** will offer more in-depth opportunities to learn about IIIF tools and platforms, and will be held the weeks before and after the event.
 
-This event is guided by the IIIF [Code of Conduct][conduct].
+This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_url }}/event/conduct).
 
 
-### Overview and important dates
+### **Overview**
 
-* Locations: Cambridge, MA, USA (See [map](#locations) below for venue locations and more)
-    - IIIF showcase: MIT campus
-    - Conference: Harvard campus, various locations
-* Cost: $375 general ticket, $240 [consortium members][consortium] ticket, $100 student/discount ticket.
+
+
+* Location: Cambridge, MA, USA (See [map]({{ site.root_url | absolute_url }}/event/2022/cambridge/#locations) below for venue locations and more)
+    * IIIF Showcase: MIT campus (June 6, 2022)
+    * Conference: Harvard campus (June 7-8, 2022)
+* Registration for the IIIF showcase is free.
+* Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
 * Language: All event proceedings will be in English unless otherwise noted.
-* Capacity: Approximately 300.
-* Registration: Registration opens in February 2022.
-* Event dates: June 6-8, 2022
-* Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
+* Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. Receptions will be held at outdoor locations for increased safety. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
-### Call for proposals
-The Call for Proposals is open until March 4, 2022. You may submit a proposal here: <https://iiif.io/news/2022/01/10/call-for-proposals-2022/>.
 
-### Program committee
+### **Register**
+
+
+
+* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index).
+
+
+### **Travel**
+
+
+
+* Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2022/cambridge/travel) for more details.
+
+
+### **Schedule**
+
+
+
+* See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference.
+
+
+### **Program committee**
+
 Thank you to the 2022 Program committee:
+
+
+
 * Sheila McAlister (University of Georgia)
 * Dawn Childress (UCLA)
 * Nuno Freire (Europeana)
@@ -39,25 +64,27 @@ Thank you to the 2022 Program committee:
 * Andrija Sagic (Library Milutin Bojic)
 * Andrew Weidner (University of Houston)
 
-### Local planning committee
+
+### **Local planning committee**
+
 Thank you to the 2022 local planning committee:
+
+
+
 * David Nunez (MIT)
 * Rashmi Singhal (Harvard University)
 * Stu Snydman (Harvard University)
 
-### Travel
 
-- Travel and hotel information will be available soon.
+### **Call for Sponsors**
 
-### Schedule
-- A full schedule will be available in March 2022.
+We are offering sponsorship for the 2022 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io).
 
-### Questions?
-Reach out to us at [staff@iiif.io](mailto:staff@iiif.io).
 
-### Call for Sponsors
+### **Questions?**
 
-We are offering sponsorship for the 2022 IIIF conference and the benefits and costs can be seen on the [sponsorship page][sponsors]. If you are interested in becoming a sponsor please contact <admin@iiif.io>.
+Reach out to us at staff@iiif.io.
+
 
 <!-- ### Outline program
 
