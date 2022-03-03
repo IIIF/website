@@ -88,7 +88,7 @@ If the Code of Conduct Committee determines a public response is necessary follo
 To appeal a decision of the Code of Conduct Committee, contact the IIIF Coordinating Committee at <iiif-cocommittee@googlegroups.com> with your appeal and the committee members will review the case. If there is a potential conflict of interest, parties will be asked to recuse themselves.
 
 ## Acknowledgements
-The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), [Django](https://www.djangoproject.com/conduct/), [the Digital Library Federation (DLF)](https://www.diglib.org/about/code-of-conduct/), [Islandora](http://islandora.ca/codeofconduct), [Samvera](https://wiki.duraspace.org/display/samvera/Code+of+Conduct), and [DuraSpace](https://duraspace.org/about/policies/code-of-conduct/#:~:text=All%20communication%20will%20be%20treated,exclusionary%20behavior%20in%20any%20form.).
+The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), [Django](https://www.djangoproject.com/conduct/), [the Digital Library Federation (DLF)](https://www.diglib.org/about/code-of-conduct/), [Islandora](https://www.islandora.ca/code-of-conduct), [Samvera](https://wiki.duraspace.org/display/samvera/Code+of+Conduct), and [DuraSpace](https://duraspace.org/about/policies/code-of-conduct/#:~:text=All%20communication%20will%20be%20treated,exclusionary%20behavior%20in%20any%20form.).
 
  _This work is licensed under a Creative Commons Attribution 4.0 International License._
 
@@ -111,7 +111,7 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [iiif-slack]: https://iiif.slack.com
 [github]: https://github.com/IIIF
-[islandora]: http://islandora.ca/codeofconduct
+[islandora]: https://www.islandora.ca/code-of-conduct
 [samvera]: https://wiki.duraspace.org/display/samvera/Code+of+Conduct
 [dlf]: https://www.diglib.org/about/code-of-conduct/
 [clir]: https://www.clir.org/about/news/deepening-resolve
