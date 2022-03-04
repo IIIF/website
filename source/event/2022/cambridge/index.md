@@ -22,7 +22,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Location: Cambridge, MA, USA (See [map]({{ site.root_url | absolute_url }}/event/2022/cambridge/#locations) below for venue locations and more)
     * IIIF Showcase: MIT campus (June 6, 2022)
-    * Conference: Harvard campus (June 7-8, 2022)
+    * Conference: Harvard campus (June 6-8, 2022)
 * Registration for the IIIF showcase is free.
 * Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
 * Language: All event proceedings will be in English unless otherwise noted.
