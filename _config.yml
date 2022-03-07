@@ -47,9 +47,9 @@ page_gen:
 
 banner:
   enabled: true
-  title: "Deadline extended!: Now accepting proposals for the 2022 IIIF Annual Conference"
-  subtitle: Submissions are due by 04 March 2022.
-  link: 'https://iiif.io/news/2022/01/10/call-for-proposals-2022/'
+  title: "Registration for the 2022 IIIF Annual Conference is now open!"
+  #subtitle: Submissions are due by 04 March 2022.
+  link: 'https://iiif.io/event/2022/cambridge/'
   link_label: Learn more
 
 # Jekyll SEO plugin info
