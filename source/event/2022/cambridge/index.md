@@ -26,7 +26,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 * Registration for the IIIF showcase is free.
 * Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
 * Language: All event proceedings will be in English unless otherwise noted.
-* Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. Receptions will be held at outdoor locations for increased safety. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
+* Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. Attendees must shoof proof of vaccination. Receptions will be held at outdoor locations for increased safety. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
 
 ### **Register**
