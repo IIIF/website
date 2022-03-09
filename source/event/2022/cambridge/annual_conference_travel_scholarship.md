@@ -3,10 +3,24 @@ title: "2022 IIIF Conference Travel Scholarship"
 layout: event
 tags: [event ]
 ---
+{{ theme.block-start }}
 
 ### Overview
 
 In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the [Annual Conference being held this year in Cambridge, MA, USA][conference]. The consortium will offer at least two travel scholarships this year.
+{{ theme.block-end }}
+{{ theme.block-start }}
+
+### Sponsorship
+
+A named IIIF Conference Travel Scholarship is a great sponsorship opportunity including logos on the iiif.io website and conference slides, and named acknowledgements throughout plenary program
+ -- if interested, see our [conference sponsorship page][sponsorship] or email <staff@iiif.io> with any questions.
+<br>
+<br>
+  
+<div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/event/2022/cambridge/sponsorship" %}</div>
+
+{{ theme.block-end }}
 
 ### Guidelines
 
@@ -56,3 +70,4 @@ If you have any questions, please contact <staff@iiif.io>
 [^code4lib_note]: This criterion closely mirrors the way the Code4Lib community describes requirements for their scholarship (https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form)
 
 [conference]: {{ site.root_url | absolute_url }}/event/2022/cambridge/
+[sponsorship]: {{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship
