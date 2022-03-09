@@ -8,7 +8,7 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
 ---
 
-The IIIF Code of Conduct Team comprises all dedicated IIIF staff, plus a minimum of four representatives from different IIIF Consortium (IIIF-C) member institutions, and four individuals from across the IIIF community (not from IIIF-Consortium institutions). The team is composed based on a first-come, first-served volunteer approach, with rolling turnover. The following points are designed to provide continuity and guidance for addressing conduct issues per the [IIIF Code of Conduct][iiif-conduct].
+The IIIF Code of Conduct Team comprises all dedicated IIIF staff plus a set of advisors from the [IIIF Coordinating Committee][coco]. The following points are designed to provide continuity and guidance for addressing conduct issues per the [IIIF Code of Conduct][iiif-conduct].
 
 Changes to this document will be tracked within and reflected via its [internal change log][change-log].
 
@@ -57,8 +57,10 @@ Changes to this document will be tracked within and reflected via its [internal 
   | 2017-12-01 | Updating contact details - Glen Robson                              |
   | 2018-05-18 | Inclusion of link to reporting guidelines - Mark Matienzo           |
   | 2019-01-22 | Update IIIF reference to refer to any IIIF staff member             |
+  | 2022-03-09 | Update to refer to IIIF staff plus advisors from CoCo as comprising code of conduct team |
 
 [iiif-slack]: https://iiif.slack.com
 [iiif-conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [change-log]: #change-log "Change Log"
 [guidelines]: {{ site.root_url | absolute_url }}/event/conduct/#reporting-guidelines
+[coco]: {{ site.root_url | absolute_url }}/community/coordinating-committee/
