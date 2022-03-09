@@ -13,6 +13,7 @@ In order to foster a conference environment that better reflects the diversity o
 - Up to $2000 to reimburse travel, lodging, registration, and meals
 - We can provide a letter of support/invitation
 - Recipient is primarily responsible for booking and logistics, and for submitting expenses within 30 days of the conclusion of the conference (though if cash-flow is an issue IIIF-C can help with some coordination)  
+- Note: All event proceedings at the conference will be in English unless otherwise noted in the program
 
 ## Criteria
 
