@@ -35,6 +35,11 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index).
 
+### Travel Scholarship
+
+In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the Annual Conference. Please see the [2022 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is Friday, April 1, 2022.
+
+
 
 ### **Travel**
 
@@ -154,3 +159,4 @@ The final program will continue to develop over the next few months but please s
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
 [sponsors]:  {{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship
+[scholarship]:  {{ site.root_url | absolute_url }}/event/2022/cambridge/annual_conference_travel_scholarship

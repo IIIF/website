@@ -51,6 +51,8 @@ Applicants will be notified by Friday, April 15, 2022.
 
 If you have any questions, please contact <staff@iiif.io>
 
+---
+
 [^code4lib_note]: This criterion closely mirrors the way the Code4Lib community describes requirements for their scholarship (https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form)
 
 [conference]: {{ site.root_url | absolute_url }}/event/2022/cambridge/
