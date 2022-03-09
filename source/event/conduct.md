@@ -55,12 +55,7 @@ If you are subject to or witness harassment, please contact the Code of Conduct 
 You will receive an email or verbal confirmation that your report has been received. Within one week you will receive a resolution and course of action or explanation of why the situation is unresolved and continues to be evaluated.
 
 ## Committee members
-The current IIIF Code of Conduct Committee Members are:
-* Josh Hadro (IIIF-C)
-* Glen Robson (IIIF-C)
-* Meg O’Hearn (IIIF-C)
-* Jack Reed (Stanford University)
-* Kate Lynch (Princeton University)
+The IIIF Code of Conduct Team comprises all dedicated IIIF staff plus a set of advisors from the [IIIF Coordinating Committee][coco]. 
 
 For information about how Code of Conduct violations are evaluated, view the [Guidelines for Code of Conduct team members][guidelines].
 
@@ -98,6 +93,7 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 
 | Date       | Description                                                         |
 | ---------- | ------------------------------------------------------------------- |
+| 2022-03-09 | Update to refer to IIIF staff plus advisors from CoCo as comprising code of conduct team |
 | 2020-11-16 | Refreshed the code: simplified language, clarified ideals and unacceptable behaviors, and updated committee members.
 | 2020-02-24 | Adding Meg to the list of members. |
 | 2019-01-22 | Adding Josh to the list of members. |
@@ -122,3 +118,4 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 [conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [ed-process]: {{ site.root_url | absolute_url }}/community/policy/editorial/
 [design-patterns]: {{ site.api_url | absolute_url }}annex/notes/design_patterns/
+[coco]: {{ site.root_url | absolute_url }}/community/coordinating-committee/
