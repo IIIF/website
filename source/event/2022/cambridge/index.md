@@ -76,9 +76,24 @@ Thank you to the 2022 local planning committee:
 * Stu Snydman (Harvard University)
 
 
-### **Call for Sponsors**
+### **Sponsors**
 
 We are offering sponsorship for the 2022 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io).
+
+The IIIF Annual Conference is generously supported by the following Conference Sponsors:
+
+
+**Silver sponsors**  <br>
+
+<!-- <a href="https://exlibrisgroup.com/products/alma-library-services-platform/digital-resources/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/ex_libris.png" alt="Ex Libris Logo" style="width: 300px;"></a> -->
+<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
+
+<!-- 
+**Bronze sponsors**  <br>
+<!-- <a href="https://www.veridiansoftware.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/VeridianLogoRGB1.jpg" alt='veridian software logo' style="width: 300px"></a> 
+<a href="https://gallerysystems.com/international-image-interoperability-framework-iiif/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/gslogo_highres.jpg" alt="Gallery systems logo" style="width: 300px"></a>
+<a href="https://seige.digital" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/seige.digital-logo-1600.png" alt="seige.digital logo" style="width: 300px; padding-left: 4em;"></a>
+<!-- <a href="https://fromthepage.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/fromthepage_logo_300px.jpg" alt="From the Page logo" style="width: 250px"></a> --> 
 
 
 ### **Questions?**
