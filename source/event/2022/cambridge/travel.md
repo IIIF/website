@@ -40,11 +40,11 @@ We have reserved guaranteed rates for conference attendees at local hotels, and 
 
 [Hotel 1868](https://www.hotel1868.com/)
 
-Located in Porter Square, one train stop away from Harvard University and three stops from MIT. Please call the hotel directly or book through their website to get our conference rates. Rates are $205/Mini Queen, $255/Standard Queen using code **IIIF22**. These rates cover stays between June 5-8.
+Located in Porter Square, one train stop away from Harvard University and three stops from MIT. Please call the hotel directly to get our conference rates. Rates are $205/Mini Queen, $255/Standard Queen using code **IIIF22**. These rates cover stays between June 5-8.
 
 [Porter Square Hotel](https://www.theportersquarehotel.com/)
 
-Located in Porter Square, one train stop away from Harvard University and three stops from MIT.  Please call the hotel directly or book through their website to get our conference rates. Rates are $215/Petite Double Twin, $219/Petite Queen, $229/Deluxe Double Twin, $239/Deluxe Queen, $259/Queen Suite using code **IIIF22**. These rates cover stays between June 5-8.
+Located in Porter Square, one train stop away from Harvard University and three stops from MIT.  Please call the hotel directly to get our conference rates. Rates are $215/Petite Double Twin, $219/Petite Queen, $229/Deluxe Double Twin, $239/Deluxe Queen, $259/Queen Suite using code **IIIF22**. These rates cover stays between June 5-8.
 
 
 ## Other hotels
