@@ -42,4 +42,8 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 
 ## русский / Russian
 
-- [Отчет об онлайн-обучении IIIF / Report on IIIF Online Training](https://www.beautiful.ai/player/-MfiQLZf_6WUKeNfTtGl)/IIIF-July-2021
+- [Отчет об онлайн-обучении IIIF / Report on IIIF Online Training](https://www.beautiful.ai/player/-MfiQLZf_6WUKeNfTtGl/IIIF-July-2021)
+
+## فارسی / Persian
+
+- [IIIF درباره / About IIIF](https://onedrive.live.com/view.aspx?resid=FC40347DCF4AAF1D!5903&ithint=file%2cdocx&authkey=!ACOhxH2VW8YiFdc)
