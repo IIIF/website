@@ -48,7 +48,7 @@ There will also be additional opportunities for contact and connection, includin
 
 ### Application requirements
 
-In an email to [admin@iiif.io](mailto:admin@iiif.io?subject=2019%20Travel%20Scholarship%20Application) with a subject line "2019 Travel Scholarship Application," please provide the following: 
+In an email to [admin@iiif.io](mailto:admin@iiif.io?subject=2022%20Travel%20Scholarship%20Application) with a subject line "2022 Travel Scholarship Application," please provide the following: 
 
 A brief narrative (500 words maximum) that addresses the following elements:
 
