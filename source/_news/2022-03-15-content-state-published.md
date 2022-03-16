@@ -6,7 +6,9 @@ tags: [news, announcements]
 layout: post
 ---
 
-The [IIIF Discovery Technical Specification group][tsg] and the [IIIF Editorial Committee][editors] are pleased to announce the official publication of the new [Content State API specification][content-state] after a unanimous vote of approval from the [Technical Review Committee][trc].
+The [IIIF Discovery Technical Specification group][tsg] and the [IIIF Editorial Committee][editors] are pleased to announce the official publication of the new [Content State API specification][content-state] after a unanimous vote of approval from the [Technical Review Committee][trc]. This bring the total number of official [IIIF API specifications][apis] to six.
+
+
 
 As IIIF Editor Tom Crane puts it, ["IIIF Content State is how we point at things in IIIF"][medium-article] -- i.e., a means to generate a very specific link to a particular view of an object, like a specific area on a particular page rotated at a certain angle.
 
@@ -33,3 +35,4 @@ Please contact [staff@iiif.io](mailto:staff@iiif.io).
 [acag]: https://experiments.getty.edu/ac-art-generator/
 [trc]: {{ site.root_url | absolute_url }}/community/trc/
 [key-concepts]: {{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif
+[apis]: {{ site.api_url | absolute_url }}
