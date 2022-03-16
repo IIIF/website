@@ -13,7 +13,7 @@ As IIIF Editor Tom Crane puts it, ["IIIF Content State is how we point at things
 Example use cases for sharing a resource, or a particular view of a resource, include:
 
 - A user follows a link from a search result, which opens a IIIF viewer. The viewer focuses on the relevant part of the object, such as a particular line of text that contains the searched-for term.
-- A user opens several IIIF Manifests to compare paintings, then wishes to share this set of views with a colleague.
+- A user opens several IIIF manifests [[What's a manifest?][key-concepts]] to compare paintings, then wishes to share this set of views with a colleague.
 
 Other examples include bookmarks, citations, playlists and deep linking into digital objects.
 
@@ -21,9 +21,15 @@ For a non-technical overview, see ["What is IIIF Content State" by IIIF Editor T
 
 There are already a number of implementations of the new standard, including the virally popular [Animal Crossing Art Generator from the Getty][acag]. 
 
+### Questions?
+
+Please contact [staff@iiif.io](mailto:staff@iiif.io).
+
+
 [tsg]: {{ site.root_url | absolute_url }}/community/groups/discovery/
 [content-state]: {{ site.api_url | absolute_url }}/content-state/
 [editors]: {{ site.root_url | absolute_url }}/community/editors/
 [medium-article]:  https://tom-crane.medium.com/what-is-iiif-content-state-dd15a543939f
 [acag]: https://experiments.getty.edu/ac-art-generator/
-[trc]: https://iiif.io/community/trc/
+[trc]: {{ site.root_url | absolute_url }}/community/trc/
+[key-concepts]: {{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif
