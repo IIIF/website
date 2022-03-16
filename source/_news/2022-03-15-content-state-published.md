@@ -8,7 +8,7 @@ layout: post
 
 The [IIIF Discovery Technical Specification group][tsg] and the [IIIF Editorial Committee][editors] are pleased to announce the official publication of the new [Content State API specification][content-state] after a unanimous vote of approval from the [Technical Review Committee][trc].
 
-As IIIF Editor Tom Crane puts it, "IIIF Content State is how we point at things in IIIF" -- i.e., a means to generate a very specific link to a particular view of an object, like a specific area on a particular page rotated at a certain angle.
+As IIIF Editor Tom Crane puts it, ["IIIF Content State is how we point at things in IIIF"][medium-article] -- i.e., a means to generate a very specific link to a particular view of an object, like a specific area on a particular page rotated at a certain angle.
 
 Example use cases for sharing a resource, or a particular view of a resource, include:
 
