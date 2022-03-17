@@ -58,9 +58,9 @@ A brief narrative (500 words maximum) that addresses the following elements:
 - A current resume or CV
 
 
-The application deadline is Friday, April 1, 2022.
+The application deadline is Tuesday, April 5, 2022.
 
-Applicants will be notified by Friday, April 15, 2022.
+Applicants will be notified by Tuesday, April 19, 2022.
 
 
 If you have any questions, please contact <staff@iiif.io>
