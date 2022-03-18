@@ -1,5 +1,5 @@
 ---
-title: IIIF Content State API Published
+title: IIIF Content State API published
 author: IIIF-C Staff
 date: 2022-03-16
 tags: [news, announcements]
