@@ -1,5 +1,5 @@
 ---
-title: Results of Election of Operating Committee and IIIF-C officers
+title: Results of election of Operating Committee and IIIF-C officers
 author: Michael Keller
 date: 2022-02-01
 tags: [news, announcements]
