@@ -1,5 +1,5 @@
 ---
-title: New IIIF Website theme
+title: New IIIF website theme
 author: IIIF Consortium Staff
 date: 2021-10-29
 tags: [news, announcements]
