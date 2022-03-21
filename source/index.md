@@ -6,7 +6,7 @@ banner: true
 hero:
   image: "assets/uploads/doshisha_103500_.jpg"
   title: Gain richer access to the world's image and audio/visual files
-  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading academic and cultural institutions.
+  subtitle: IIIF is a set of open standards for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions.
   button:
     label: "Get started"
     link: "/get-started"
