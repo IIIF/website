@@ -1,5 +1,5 @@
 ---
-title: IIIF-C Supporting VisibleWikiWomen 2021 Campaign
+title: IIIF-C supporting VisibleWikiWomen 2021 campaign
 author: Josh Hadro, IIIF-C Managing Director
 date: 2021-03-30
 tags: [news, announcements]

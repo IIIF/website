@@ -1,5 +1,5 @@
 ---
-title: IIIF Welcomes Three New Specification Editors
+title: IIIF welcomes three new specification Editors
 author: IIIF-C Staff
 date: 2021-03-04
 tags: [committees, editors, specifications ]

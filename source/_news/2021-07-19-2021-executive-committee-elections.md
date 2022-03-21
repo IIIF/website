@@ -1,5 +1,5 @@
 ---
-title: Fall 2021 IIIF Consortium Executive Committee Elections
+title: Fall 2021 IIIF Consortium Executive Committee elections
 author: IIIF Consortium Staff
 date: 2021-07-19
 tags: [news, announcements]
