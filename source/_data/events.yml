@@ -16,3 +16,13 @@
       link: "event/2022/cambridge/"
   location:
     label: "Cambridge/Boston, MA"
+
+- label: "Exploring IIIF for Research: New interfaces between scholarship and curation"
+  time:
+    start: 2022-03-31T17:00:00Z
+    end: 2022-03-31T18:30:00Z
+  links: 
+    - label: More info
+      link: "https://www.wales.ac.uk/Resources/Documents/Centre/2022/IIIF-CAWCS-poster-final.pdf"
+  location:
+    label: "Online"
