@@ -5,7 +5,7 @@ subtitle: >
   There are many ways to get involved with IIIF as an individual, a team, or an organization. Find the way that works for you!
 permalink: /get-involved/
 hero:
-  image: "assets/images/heroes/event_2.webp"
+  image: "assets/uploads/Shin-Nihon-chokanzu-rumsey.webp"
 more_resources_cards:
   - label: Explore community groups
     description: Our community groups include affinity and technical groups and meet regularly to discuss ways of using IIIF.
