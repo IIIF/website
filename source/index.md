@@ -78,7 +78,7 @@ community_banner:
   subtitle: "IIIF community groups tackle a range of topics, from implementing IIIF for specific communities to crafting new technical specifications."
 top_tabs:
   - label: Featured events
-    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=4 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
   - label: Group meetings
     content: "<h3>IIIF group calls are open to all.</h3> {% include blocks/event-cards.html limit=4 type='community_call' %}{%- include misc/button.html button_label='View all' button_link='/news-and-events/#call-calendar' -%}"
   - label: Call calendar
