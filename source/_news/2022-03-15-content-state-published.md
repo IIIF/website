@@ -21,7 +21,7 @@ Other examples include bookmarks, citations, playlists and deep linking into dig
 
 For a non-technical overview, see ["What is IIIF Content State" by IIIF Editor Tom Crane][medium-article].
 
-There are already a number of implementations of the new standard, including the virally popular [Animal Crossing Art Generator from the Getty][acag]. 
+There are already a number of implementations of the new standard, including the virally popular [Animal Crossing Art Generator from the Getty][acag] used to import any IIIF image into the tool, and an example from [Durham University][durham-features] that demonstrates the [ability to link directly to a very specific annotation of a small house within the context of a large map][durham]. 
 
 ### Questions?
 
@@ -36,3 +36,5 @@ Please contact [staff@iiif.io](mailto:staff@iiif.io).
 [trc]: {{ site.root_url | absolute_url }}/community/trc/
 [key-concepts]: {{ site.root_url | absolute_url }}/get-started/how-iiif-works/#key-concepts-youll-encounter-when-working-with-iiif
 [apis]: {{ site.api_url | absolute_url }}
+[durham-features]: https://www.durhampriory.ac.uk/using-the-features-of-iiif/
+[durham]: https://iiif.durham.ac.uk/index.html?iiif-content=eyJAY29udGV4dCI6ICJodHRwOi8vaWlpZi5pby9hcGkvcHJlc2VudGF0aW9uLzAvY29udGV4dC5qc29uIiwgImlkIjogImh0dHBzOi8vaWlpZi5kdXJoYW0uYWMudWsvbWFuaWZlc3RzL3RyaWZsZS8zMjE1MC90MS9tdi9xMi90MW12cTI3em40MzIvY2FudmFzL3QxdHZtNDB4czE0Nl94eXdoPTk3ODcsMTI1NzEsMTY0LDkzIiwgInR5cGUiOiAiQW5ub3RhdGlvbiIsICJtb3RpdmF0aW9uIjogWyJoaWdobGlnaHRpbmciXSwgInJlc291cmNlIjp7InR5cGUiOiJkY3R5cGVzOlRleHQiLCJmb3JtYXQiOiJ0ZXh0L3BsYWluIiwiY2hhcnMiOiJMdWR3ZWxsLCBTdGFuaG9wZSBQYXJrIFF1YXJ0ZXIgdGl0aGUgbWFwIn0sICJ0YXJnZXQiOiB7ImlkIjoiaHR0cHM6Ly9paWlmLmR1cmhhbS5hYy51ay9tYW5pZmVzdHMvdHJpZmxlLzMyMTUwL3QxL212L3EyL3QxbXZxMjd6bjQzMi9jYW52YXMvdDF0dm00MHhzMTQ2I3h5d2g9OTc4NywxMjU3MSwxNjQsOTMiLCJ0eXBlIjoiQ2FudmFzIiwicGFydE9mIjp7ImlkIjogImh0dHBzOi8vaWlpZi5kdXJoYW0uYWMudWsvbWFuaWZlc3RzL3RyaWZsZS8zMjE1MC90MS9tdi9xMi90MW12cTI3em40MzIvbWFuaWZlc3QiLCJ0eXBlIjoiTWFuaWZlc3QifX19
