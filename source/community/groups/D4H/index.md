@@ -25,6 +25,9 @@ These aims are different from and complementary to the approach of the [IIIF Dis
  * Build on and amplify the ongoing work of the Discovery TSG and the IIIF technical community
  * Communicate and disseminate the work of the group to the larger IIIF community, as well as allied professional communities
 
+See the [charter][charter] for more details.
+
+
 ## Organization
 
 **Chairs:**
@@ -54,3 +57,4 @@ IIIF Discovery for Users Community Group Folder ([https://drive.google.com/drive
 [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [discovery-tsg]: {{ site.root_url | absolute_url }}/community/groups/discovery "IIIF Discovery Technical Specification Group"
+[charter]: {{ site.root_url | absolute_url }}/community/groups/d4h/charter
