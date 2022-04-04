@@ -1,9 +1,6 @@
 ---
 title: IIIF Community and Technical Specification Groups
 layout: page
-breadcrumbs:
- - label: Community
-   link: /community/
 hero:
     image: "assets/uploads/2019-06-IIIF-Conference-0705.jpg"
 breadcrumbs:
