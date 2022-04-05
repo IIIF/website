@@ -29,6 +29,8 @@ If you don't have the time or resources to build your own IIIF infrastructure, y
  - [Invenio](https://invenio-software.org/products/framework/) (Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
  - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
  - [Libnova/Libsafe](https://www.libnova.com/) (Image API)
+ - [Ligéo Archives (Empreinte Digitale)](https://www.ligeo-archives.com) [(details)](https://www.ligeo-archives.com/actualites/lire/de-nouveaux-venus-et-l-arrivee-de-monocle-votre-nouvelle-visionneuse/129/page:2/n:143)
+ - [LIMB Gallery (i2S)](https://www.i2s.fr) [(details)](https://www.i2s.fr/fr/numerisation-patrimoniale/solutions-logicielles-limb/limb-gallery)
  - [Luna Imaging](http://www.lunaimaging.com/iiif)
  - [Muzz.app platform](https://muzz.app)
  - [NetX](https://www.netx.net/)
