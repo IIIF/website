@@ -63,4 +63,4 @@ IIIF Discovery for Users Community Group Folder ([https://drive.google.com/drive
 [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [discovery-tsg]: {{ site.root_url | absolute_url }}/community/groups/discovery "IIIF Discovery Technical Specification Group"
-[charter]: {{ site.root_url | absolute_url }}/community/groups/d4h/charter
+[charter]: {{ site.root_url | absolute_url }}/community/groups/d4h/charter/
