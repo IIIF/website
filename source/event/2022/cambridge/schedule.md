@@ -47,7 +47,7 @@ The IIIF showcase is free and open to the public. Attend this event to learn mor
 
 ### IIIF Consortium reception
 
-* 6-8pm: Consortium reception (open to all [IIIF Consortium members]({{ site.root_url | absolute_url }}/community/consortium/), to be held in an outdoor, covered location)
+* 6-8pm: Consortium reception (open to all attendees affiliated with a [IIIF Consortium member institution]({{ site.root_url | absolute_url }}/community/consortium/members), to be held in an outdoor, covered location)
 
 
 ## June 7
@@ -617,14 +617,10 @@ The IIIF conference is open to advanced registrants.
 
 <p class="paper_abstract">Visual Storytelling and collections platform Micrio provides a variety of organisations with cloud-based IIIF capabilities. In fields as diverse as aeronautics, journalism, e-commerce and cultural heritage, it is a “no-code” solution for both showing high- and ultra-high resolution images online and for adding story formats to them.</p>
 <p class="paper_abstract">In this presentation, we outline some of the developments Micrio underwent since last year’s conference. Its infrastructure was rebuilt from the ground up, resulting in an edge-based IIIF image server. Micrio now loads arguably the world’s largest digitised art work, Rembrandt’s 717 Gigapixel Night Watch, in a matter of milliseconds.</p>
-<p class="paper_abstract">Case 1: IIIF Edge-based WebAssembly servers</p>
+<p class="paper_abstract">Case: IIIF Edge-based WebAssembly servers</p>
 <p class="paper_abstract">In 2021, Micrio created a WebAssembly-based IIIF Image API processor, which runs as an edge-service. Any IIIF Image API call is handled as close as possible to the API requester, on a fully decentralized system. The processing takes place in a single worker sandbox provided by CloudFlare, and is only active for the duration of the request.</p>
 <p class="paper_abstract">No more monolithic single instance image server, or even distributed docker VMs; the edge-based solution is a truly infinitely scaling one that also optimizes the cost structure. We will demonstrate how this works, how offloading and caching is handled, and discuss advantages and future improvements of this project.</p>
-<p class="paper_abstract">Case 2: Showing the largest images in the world, allowing infinite zooming on infinite canvases</p>
-<p class="paper_abstract">When we were challenged with presenting the ultra resolution Night Watch, we went back to the drawing board to optimize the underlying viewer engine. This resulted in a solution that takes only a few KBs of system memory to view the 925,000 x 775,000 pixel image and uses very little CPU.</p>
-<p class="paper_abstract">We continue by demonstrating how this also works with multi-canvas IIIF examples, which are extremely hard to display in a single canvas, such as the 3,616 x 1,774,720 pixel Mahabharata Scroll, digitized and hosted by the University of Edinburgh’s IIIF servers.</p>
-<p class="paper_abstract">Additionally, we will demonstrate how this viewer can also take on very high-performance, multi-page IIIF resources, such as books. Swipe through very large documents on mobile and desktop platforms with 60 frames per second, using as little memory, CPU and bandwidth as possible – all while maintaining the individual image’s annotation possibilities.</p>
-<p class="paper_abstract"></p>
+
 
 </div>
 </div>
