@@ -68,7 +68,10 @@ The IIIF conference is open to advanced registrants.
 
 <style>
   .paper_time_value {font-weight: bold;}
-  .paper_abstract {display: none;}
+  .paper_abstract {
+    /*display: none;*/
+    padding: 0 0 0 10%;
+  }
   .paper_title {font-size: 120%;}
 </style>
 
