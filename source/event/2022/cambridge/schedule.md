@@ -76,8 +76,7 @@ The IIIF conference is open to advanced registrants.
 
 <div class="topline_printonly left"><div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session1' name='session1'></a><h3>Block 1: Block 1</h3>
-<p><h3>Time: Tuesday, 07/June/2022: 9:00am - 12:00pm</h3>
-</p>
+<h3>Time: Tuesday, 07/June/2022: 9:00am - 12:00pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">9:00am - 9:30am</span><br /><p class="paper_title">State of the IIIF Universe</p>
@@ -190,8 +189,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session2' name='session2'></a><h3>Block 2: Block 2</h3>
-<p><h3>Time: Tuesday, 07/June/2022: 1:30pm - 3:30pm</h3>
-</p>
+<h3>Time: Tuesday, 07/June/2022: 1:30pm - 3:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">1:30pm - 2:00pm</span><br /><p class="paper_title">IIIF V3 Manifests with Annotations in Archipelago</p>
@@ -265,8 +263,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session3' name='session3'></a><h3>Block 3: Block 3</h3>
-<p><h3>Time: Tuesday, 07/June/2022: 3:30pm - 5:30pm</h3>
-</p>
+<h3>Time: Tuesday, 07/June/2022: 3:30pm - 5:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">3:30pm - 4:00pm</span><br /><p class="paper_title">Exhibit: easy-to-use tools for promoting engagement and learning with your online digital collections.</p>
@@ -340,8 +337,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session4' name='session4'></a><h3>Block 4: Block 4</h3>
-<p><h3>Time: Wednesday, 08/June/2022: 9:00am - 12:00pm</h3>
-</p>
+<h3>Time: Wednesday, 08/June/2022: 9:00am - 12:00pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">9:00am - 9:07am</span><br /><p class="paper_title">Fun With IIIF</p>
@@ -617,8 +613,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session5' name='session5'></a><h3>Block 5: Block 5</h3>
-<p><h3>Time: Wednesday, 08/June/2022: 1:30pm - 3:30pm</h3>
-</p>
+<h3>Time: Wednesday, 08/June/2022: 1:30pm - 3:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">1:30pm - 2:00pm</span><br /><p class="paper_title">Reaching out to the crowds: IIIF as a scholarly practice</p>
