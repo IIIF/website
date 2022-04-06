@@ -58,12 +58,12 @@ The IIIF conference is open to advanced registrants.
 
 
 
-* 9am-10am: Check-in
-* 10am-12pm: Opening plenary and sessions
+* 8am-9am: Check-in
+* 9am-12pm: Opening plenary and sessions
 * 12pm-1:30pm: Lunch
 * 1:30pm-3:30pm: Sessions (see presentations listed below)
 * 3:30pm - 4pm: Break
-* 4pm-6pm: Sessions (see presentations listed below)
+* 4pm-5:30pm: Sessions (see presentations listed below)
 * 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
 
 
@@ -75,7 +75,7 @@ The IIIF conference is open to advanced registrants.
 
 
 
-* 10am-12pm: Sessions (see presentations listed below)
+* 9am-12pm: Sessions (see presentations listed below)
 * 12pm-1:30pm: Lunch
 * 1:30pm-3:30pm: Sessions (see presentations listed below)
 * 3:30pm - Tours + outings (TBD)
