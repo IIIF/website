@@ -1,6 +1,6 @@
 ---
 title: "2022 IIIF Annual Conference Schedule"
-layout: event
+layout: spec
 page: overview
 banner: true 
 breadcrumbs:
@@ -26,60 +26,6 @@ The outline schedules of the showcase and conference are available below, with s
 * Registration for the IIIF showcase is free.
 * Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
 
-## June 6 
-### IIIF showcase
-
-The IIIF showcase is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
-
-
-
-* 12pm-1pm: Check-in opens for showcase and conference registrants
-* 1pm-5pm: Showcase (including coffee break)
-  - General Intro to IIIF
-  - IIIF in the Slavery, Abolition, Emancipation, and Freedom: Primary Sources from Houghton Library (SAEF) Project
-  - IIIF A/V use cases
-  - Latest on IIIF 3D
-  - Crowdsourcing with IIIF 
-  - Teaching and Learning with IIIF
-  - IIIF and Museums
-  - Getting involved in the IIIF community
-  - Implementing IIIF: the simple and complex versions
-
-### IIIF Consortium reception
-
-* 6-8pm: Consortium reception (open to all attendees affiliated with a [IIIF Consortium member institution]({{ site.root_url | absolute_url }}/community/consortium/members), to be held in an outdoor, covered location)
-
-
-## June 7
-
-### Conference
-
-The IIIF conference is open to advanced registrants.
-
-
-
-* 8am-9am: Check-in
-* 9am-12pm: Opening plenary and sessions
-* 12pm-1:30pm: Lunch
-* 1:30pm-3:30pm: Sessions (see presentations listed below)
-* 3:30pm - 4pm: Break
-* 4pm-5:30pm: Sessions (see presentations listed below)
-* 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
-
-
-## June 8
-
-### Conference
-
-The IIIF conference is open to advanced registrants.
-
-
-
-* 9am-12pm: Sessions (see presentations listed below)
-* 12pm-1:30pm: Lunch
-* 1:30pm-3:30pm: Sessions (see presentations listed below)
-* 3:30pm - Tours + outings (TBD)
-
 ### **Sponsors**
 
 We are offering sponsorship for the 2022 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io).
@@ -97,6 +43,60 @@ The IIIF Annual Conference is generously supported by the following Conference S
 <a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
 
 
+## June 6 
+### IIIF Showcase
+
+The IIIF showcase is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
+
+
+
+* 12pm-1pm: Check-in opens for showcase and conference registrants
+* 1pm-5pm: Showcase (including coffee break)
+  - General Intro to IIIF
+  - IIIF in the Slavery, Abolition, Emancipation, and Freedom: Primary Sources from Houghton Library (SAEF) Project
+  - IIIF A/V use cases
+  - Latest on IIIF 3D
+  - Crowdsourcing with IIIF 
+  - Teaching and Learning with IIIF
+  - IIIF and Museums
+  - Getting involved in the IIIF community
+  - Implementing IIIF: the simple and complex versions
+
+#### IIIF Consortium reception
+
+* 6-8pm: Consortium reception (open to all attendees affiliated with a [IIIF Consortium member institution]({{ site.root_url | absolute_url }}/community/consortium/members), to be held in an outdoor, covered location)
+
+
+## June 7
+
+### Conference day 1
+
+The IIIF conference is open to advanced registrants.
+
+
+
+* 8am-9am: Check-in
+* 9am-12pm: Opening plenary and sessions
+* 12pm-1:30pm: Lunch
+* 1:30pm-3:30pm: Sessions (see presentations listed below)
+* 3:30pm - 4pm: Break
+* 4pm-5:30pm: Sessions (see presentations listed below)
+* 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
+
+
+## June 8
+
+### Conference day 2
+
+The IIIF conference is open to advanced registrants.
+
+
+
+* 9am-12pm: Sessions (see presentations listed below)
+* 12pm-1:30pm: Lunch
+* 1:30pm-3:30pm: Sessions (see presentations listed below)
+* 3:30pm - Tours + outings (TBD)
+
 ---
 
 <style>
@@ -108,11 +108,12 @@ The IIIF Annual Conference is generously supported by the following Conference S
   .paper_title {font-size: 120%;}
 </style>
 
-<h2>Presentations</h2>
+## Conference Presentations
 
 <div class="topline_printonly left"><div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
-<a id='session1' name='session1'></a><h3>Block 1: Block 1</h3>
-<h3>Time: Tuesday, 07/June/2022: 9:00am - 12:00pm</h3>
+### Block 1 
+<a id='session1' name='session1'></a><h3>Block 1</h3>
+<h3>Tuesday, 07/June/2022: 9:00am - 12:00pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">9:00am - 9:30am</span><br /><p class="paper_title">State of the IIIF Universe</p>
@@ -224,8 +225,8 @@ The IIIF Annual Conference is generously supported by the following Conference S
 </div>
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
-<a id='session2' name='session2'></a><h3>Block 2: Block 2</h3>
-<h3>Time: Tuesday, 07/June/2022: 1:30pm - 3:30pm</h3>
+<a id='session2' name='session2'></a><h3>Block 2</h3>
+<h3>Tuesday, 07/June/2022: 1:30pm - 3:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">1:30pm - 2:00pm</span><br /><p class="paper_title">IIIF V3 Manifests with Annotations in Archipelago</p>
@@ -298,8 +299,8 @@ The IIIF Annual Conference is generously supported by the following Conference S
 </div>
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
-<a id='session3' name='session3'></a><h3>Block 3: Block 3</h3>
-<h3>Time: Tuesday, 07/June/2022: 3:30pm - 5:30pm</h3>
+<a id='session3' name='session3'></a><h3>Block 3</h3>
+<h3>Tuesday, 07/June/2022: 3:30pm - 5:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">3:30pm - 4:00pm</span><br /><p class="paper_title">Exhibit: easy-to-use tools for promoting engagement and learning with your online digital collections.</p>
@@ -372,8 +373,8 @@ The IIIF Annual Conference is generously supported by the following Conference S
 </div>
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
-<a id='session4' name='session4'></a><h3>Block 4: Block 4</h3>
-<h3>Time: Wednesday, 08/June/2022: 9:00am - 12:00pm</h3>
+<a id='session4' name='session4'></a><h3>Block 4</h3>
+<h3>Wednesday, 08/June/2022: 9:00am - 12:00pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">9:00am - 9:07am</span><br /><p class="paper_title">Fun With IIIF</p>
@@ -644,8 +645,8 @@ The IIIF Annual Conference is generously supported by the following Conference S
 </div>
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
-<a id='session5' name='session5'></a><h3>Block 5: Block 5</h3>
-<h3>Time: Wednesday, 08/June/2022: 1:30pm - 3:30pm</h3>
+<a id='session5' name='session5'></a><h3>Block 5</h3>
+<h3>Wednesday, 08/June/2022: 1:30pm - 3:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">1:30pm - 2:00pm</span><br /><p class="paper_title">Reaching out to the crowds: IIIF as a scholarly practice</p>
