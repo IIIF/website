@@ -91,7 +91,7 @@ The IIIF Annual Conference is generously supported by the following Conference S
 **Silver sponsors**  <br>
 
 <a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
-<a href="https://www.performantsoftware.com " style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/performant_logo_300w.png" alt='OCLC logo' style="height: 160px"></a>
+<a href="https://www.performantsoftware.com" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/performant_logo_300w.png" alt='performant software logo' style="height: 160px"></a>
 
 **Bronze sponsors**  <br>
 
