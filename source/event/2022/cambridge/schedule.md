@@ -16,8 +16,15 @@ breadcrumbs:
 
 ## 2022 IIIF Annual Conference Schedule
 
-A limited overview of the showcase and conference schedule is currently available. Detailed information about sessions is not yet available but will be made available in early April. The content of each day’s schedule is subject to change.
+The outline schedules of the showcase and conference are available below, with specific conference presentations and abstracts listed further down. The exact timing of each day’s schedule is still subject to change.
 
+### **Register**
+
+* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index).
+
+
+* Registration for the IIIF showcase is free.
+* Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
 
 ## June 6 
 ### IIIF showcase
@@ -28,10 +35,19 @@ The IIIF showcase is free and open to the public. Attend this event to learn mor
 
 * 12pm-1pm: Check-in opens for showcase and conference registrants
 * 1pm-5pm: Showcase (including coffee break)
+  - General Intro to IIIF
+  - IIIF in the Slavery, Abolition, Emancipation, and Freedom: Primary Sources from Houghton Library (SAEF) Project
+  - IIIF A/V use cases
+  - Latest on IIIF 3D
+  - Crowdsourcing with IIIF 
+  - Teaching and Learning with IIIF
+  - IIIF and Museums
+  - Getting involved in the IIIF community
+  - Implementing IIIF: the simple and complex versions
 
-### Conference kick-off reception
+### IIIF Consortium reception
 
-* 6-8pm: Opening reception (open to all conference registrants, to be held in an outdoor, covered location)
+* 6-8pm: Consortium reception (open to all [IIIF Consortium members]({{ site.root_url | absolute_url }}/community/consortium/), to be held in an outdoor, covered location)
 
 
 ## June 7
@@ -45,10 +61,10 @@ The IIIF conference is open to advanced registrants.
 * 9am-10am: Check-in
 * 10am-12pm: Opening plenary and sessions
 * 12pm-1:30pm: Lunch
-* 1:30pm-3:30pm: Sessions
+* 1:30pm-3:30pm: Sessions (see presentations listed below)
 * 3:30pm - 4pm: Break
-* 4pm-6pm: Sessions
-* 7pm-9pm: Reception for IIIF Consortium members (to be held in an outdoor, covered location)
+* 4pm-6pm: Sessions (see presentations listed below)
+* 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
 
 
 ## June 8
@@ -59,9 +75,9 @@ The IIIF conference is open to advanced registrants.
 
 
 
-* 10am-12pm: Sessions
+* 10am-12pm: Sessions (see presentations listed below)
 * 12pm-1:30pm: Lunch
-* 1:30pm-3:30pm: Sessions
+* 1:30pm-3:30pm: Sessions (see presentations listed below)
 * 3:30pm - Tours + outings (TBD)
 
 ---
