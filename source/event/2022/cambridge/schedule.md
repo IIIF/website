@@ -16,7 +16,7 @@ breadcrumbs:
 
 ## 2022 IIIF Annual Conference Schedule
 
-The outline schedules of the showcase and conference are available below, with specific conference presentations and abstracts listed further down. The exact timing of each day’s schedule is still subject to change.
+The outline schedules of the [showcase][showcase] and conference are available below, with specific conference presentations and abstracts listed further down. The exact timing of each day’s schedule is still subject to change.
 
 ### **Register**
 
@@ -46,21 +46,15 @@ The IIIF Annual Conference is generously supported by the following Conference S
 ## June 6 
 ### IIIF Showcase
 
-The IIIF showcase is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
+The [IIIF showcase][showcase] is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
 
+#### Showcase Schedule 
 
+See the [showcase][showcase] page for the detailed schedule of speakers.
 
 * 12pm-1pm: Check-in opens for showcase and conference registrants
 * 1pm-5pm: Showcase (including coffee break)
-  - General Intro to IIIF
-  - IIIF in the Slavery, Abolition, Emancipation, and Freedom: Primary Sources from Houghton Library (SAEF) Project
-  - IIIF A/V use cases
-  - Latest on IIIF 3D
-  - Crowdsourcing with IIIF 
-  - Teaching and Learning with IIIF
-  - IIIF and Museums
-  - Getting involved in the IIIF community
-  - Implementing IIIF: the simple and complex versions
+  
 
 #### IIIF Consortium reception
 
@@ -724,3 +718,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
+
+
+
+[showcase]: {{ site.root_url | absolute_url }}/event/2022/cambridge/showcase
