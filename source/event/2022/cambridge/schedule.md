@@ -1,6 +1,6 @@
 ---
 title: "2022 IIIF Annual Conference Schedule"
-layout: event
+layout: spec
 page: overview
 banner: true 
 breadcrumbs:
@@ -16,50 +16,77 @@ breadcrumbs:
 
 ## 2022 IIIF Annual Conference Schedule
 
-A limited overview of the showcase and conference schedule is currently available. Detailed information about sessions is not yet available but will be made available in early April. The content of each day’s schedule is subject to change.
+The outline schedules of the [showcase][showcase] and conference are available below, with specific conference presentations and abstracts listed further down. The exact timing of each day’s schedule is still subject to change.
+
+### **Register**
+
+* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index).
+
+
+* Registration for the IIIF showcase is free.
+* Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
+
+### **Sponsors**
+
+We are offering sponsorship for the 2022 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io).
+
+The IIIF Annual Conference is generously supported by the following Conference Sponsors:
+
+
+**Silver sponsors**  <br>
+
+<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
+<a href="https://www.performantsoftware.com" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/performant_logo_300w.png" alt='performant software logo' style="height: 160px"></a>
+
+**Bronze sponsors**  <br>
+
+<a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
 
 
 ## June 6 
-### IIIF showcase
+### IIIF Showcase
 
-The IIIF showcase is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
+The [IIIF showcase][showcase] is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
 
+#### Showcase Schedule 
 
+See the [showcase][showcase] page for the detailed schedule of speakers.
 
 * 12pm-1pm: Check-in opens for showcase and conference registrants
 * 1pm-5pm: Showcase (including coffee break)
+  
 
-### Conference kick-off reception
+#### IIIF Consortium reception
 
-* 6-8pm: Opening reception (open to all conference registrants, to be held in an outdoor, covered location)
+* 6-8pm: Consortium reception (open to all attendees affiliated with a [IIIF Consortium member institution]({{ site.root_url | absolute_url }}/community/consortium/members), to be held in an outdoor, covered location)
 
 
 ## June 7
 
-### Conference
+### Conference day 1
 
 The IIIF conference is open to advanced registrants.
 
 
 
-* 9am-10am: Check-in
-* 10am-12pm: Opening plenary and sessions
+* 8am-9am: Check-in
+* 9am-12pm: [Opening plenary and sessions](#session1)
 * 12pm-1:30pm: Lunch
-* 1:30pm-3:30pm: Sessions
+* 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session2)
 * 3:30pm - 4pm: Break
-* 4pm-6pm: Sessions
-* 7pm-9pm: Reception for IIIF Consortium members (to be held in an outdoor, covered location)
+* 4pm-5:30pm: [Sessions (see presentations listed below)](#session3)
+* 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
 
 
 ## June 8
 
-### Conference
+### Conference day 2
 
 The IIIF conference is open to advanced registrants.
 
 
 
-* 10am-12pm: Sessions
+* 9am-12pm: [Sessions (see presentations listed below)](#session4)
 * 12pm-1:30pm: Lunch
 * 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session5)
 * 3:30pm - Tours + outings (TBD)
@@ -693,6 +720,4 @@ The IIIF conference is open to advanced registrants.
 </div>
 
 
-
 [showcase]: {{ site.root_url | absolute_url }}/event/2022/cambridge/showcase
->>>>>>> b66cf63f... Fix email
