@@ -76,11 +76,11 @@ The IIIF conference is open to advanced registrants.
 
 
 * 8am-9am: Check-in
-* 9am-12pm: Opening plenary and sessions
+* 9am-12pm: [Opening plenary and sessions](#session1)
 * 12pm-1:30pm: Lunch
-* 1:30pm-3:30pm: Sessions (see presentations listed below)
+* 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session2)
 * 3:30pm - 4pm: Break
-* 4pm-5:30pm: Sessions (see presentations listed below)
+* 4pm-5:30pm: [Sessions (see presentations listed below)](#session3)
 * 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
 
 
@@ -92,9 +92,9 @@ The IIIF conference is open to advanced registrants.
 
 
 
-* 9am-12pm: Sessions (see presentations listed below)
+* 9am-12pm: [Sessions (see presentations listed below)](#session4)
 * 12pm-1:30pm: Lunch
-* 1:30pm-3:30pm: Sessions (see presentations listed below)
+* 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session5)
 * 3:30pm - Tours + outings (TBD)
 
 ---
@@ -111,27 +111,14 @@ The IIIF conference is open to advanced registrants.
 ## Conference Presentations
 
 <div class="topline_printonly left"><div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
-### Block 1 
+
 <a id='session1' name='session1'></a><h3>Block 1</h3>
 <h3>Tuesday, 07/June/2022: 9:00am - 12:00pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:00am - 9:30am</span><br /><p class="paper_title">State of the IIIF Universe</p>
-<p class="paper_author"> <u>Josh Hadro</u></p>
+<div class="paper"><span class="paper_time_value">9:00am - 9:30am</span><br />
 
-<p class="paper_organisation">IIIF, United States of America</p>
-
-<div ><div class="paper">
-
-<p class="paper_abstract">This session will provide an update on the status of the many IIIF Community Groups currently meeting to discuss issues relating to their field of practice.</p>
-<p class="paper_abstract"></p>
-
-</div>
-</div>
-</div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:30am - 10:00am</span><br /><p class="paper_title">Welcome and opening remarks</p>
+  <p class="paper_title">Welcome and opening remarks</p>
 <p class="paper_author"> <u>Josh Hadro</u></p>
 
 <p class="paper_organisation">IIIF, United States of America</p>
@@ -141,6 +128,21 @@ The IIIF conference is open to advanced registrants.
 <p class="paper_abstract">Josh Hadro, Managing Director of the IIIF Consortium, welcomes attendees to the event in partnership with Harvard University and MIT.</p>
 <p class="paper_abstract"></p>
 
+</div>
+</div>
+</div>
+</div>
+<div class='topline_gray' style='padding:3px;'>
+<div class="paper"><span class="paper_time_value">9:30am - 10:00am</span><br />
+<p class="paper_title">State of the IIIF Universe</p>
+<p class="paper_author"> <u></u></p>
+
+<p class="paper_organisation">IIIF Community, United States of America</p>
+
+<div ><div class="paper">
+
+<p class="paper_abstract">This session will provide an update on the status of the many IIIF Community Groups currently meeting to discuss issues relating to their field of practice.</p>
+<p class="paper_abstract"></p>
 </div>
 </div>
 </div>
@@ -626,7 +628,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value_error">11:31am - 12:01pm <strong>Warning: This presentation lies outside the session time!</strong></span><br /><p class="paper_title">From Micrio to Macro: No-code IIIF for museum collections</p>
+<div class="paper"><span class="paper_time_value_error">11:31am - 12:01pm </span><br /><p class="paper_title">From Micrio to Macro: No-code IIIF for museum collections</p>
 <p class="paper_author"> <u>Erwin Verbruggen</u>, Marcel Duin</p>
 
 <p class="paper_organisation">Q42, Netherlands</p>
