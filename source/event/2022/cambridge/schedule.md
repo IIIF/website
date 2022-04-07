@@ -720,5 +720,4 @@ The IIIF conference is open to advanced registrants.
 </div>
 
 
-
 [showcase]: {{ site.root_url | absolute_url }}/event/2022/cambridge/showcase
