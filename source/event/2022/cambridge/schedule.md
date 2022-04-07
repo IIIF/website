@@ -491,7 +491,7 @@ The IIIF conference is open to advanced registrants.
 <div class="paper"><span class="paper_time_value">10:12am - 10:19am</span><br /><p class="paper_title">An improvement for Video annotation on Mirador</p>
 <p class="paper_author"> <u>Kiyonori Nagasaki</u><sup>1</sup>, Jun Homma<sup>2</sup>, Ikki Ohmukai<sup>1</sup></p>
 
-<p class="paper_organisation"><sup>1</sup>The University of Tokyo, Japan; <sup>2</sup>HOMMA@flxstyle.com</p>
+<p class="paper_organisation"><sup>1</sup>The University of Tokyo, Japan; <sup>2</sup>flxstyle.com</p>
 
 <div ><div class="paper">
 
