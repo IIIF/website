@@ -1,8 +1,13 @@
 ---
 title: "IIIF Annual Conference and Showcase - Cambridge, MA (USA) - June 6-8, 2022"
-layout: event
+layout: spec
 page: overview
 banner: true 
+breadcrumbs:
+  - label: All Events
+    link: '{{ site.root_url }}/event/'
+  - label: Cambridge 2022
+    link: '{{ site.root_url }}/event/2022/cambridge/'
 ---
 
 
@@ -55,7 +60,7 @@ In order to foster a conference environment that better reflects the diversity o
 * See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference.
 
 
-### **Program committee**
+#### **Program committee**
 
 Thank you to the 2022 Program committee:
 
@@ -70,7 +75,7 @@ Thank you to the 2022 Program committee:
 * Andrew Weidner (University of Houston)
 
 
-### **Local planning committee**
+#### **Local planning committee**
 
 Thank you to the 2022 local planning committee:
 
@@ -96,6 +101,8 @@ The IIIF Annual Conference is generously supported by the following Conference S
 **Bronze sponsors**  <br>
 
 <a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
+
+
 ### **Questions?**
 
 Reach out to us at staff@iiif.io.

@@ -1,13 +1,16 @@
 ---
 title: "2022 IIIF Showcase in Cambridge, MA - 06 June 2022"
-layout: event
+layout: spec
 tags: [event ]
+breadcrumbs:
+  - label: All Events
+    link: '{{ site.root_url }}/event/'
+  - label: Cambridge 2022
+    link: '{{ site.root_url }}/event/2022/cambridge/'
 ---
 
-{: class="alert"}
-[Registration open now!][eventbrite]
 
-On Monday, June 6th, the IIIF Consortium will host a special day-long IIIF Showcase to introduce newcomers to IIIF, hosted jointly by [Harvard University](https://www.harvard.edu/) and the [Massachusetts Institute of Technology ](https://mit.edu/)(MIT).
+On Monday, June 6th, the IIIF Consortium will present a special half-day IIIF Showcase to introduce newcomers to IIIF, hosted jointly by [Harvard University](https://www.harvard.edu/) and the [Massachusetts Institute of Technology ](https://mit.edu/)(MIT).
 
 * **If you are interested in engaging with other museum, library, archive and technical professionals...**
 * **If you are ready to learn more about using and sharing your institution's images...**
@@ -15,218 +18,121 @@ On Monday, June 6th, the IIIF Consortium will host a special day-long IIIF Showc
 
 ...then we would love to have you join us at the IIIF Showcase. All are welcome!
 
-Come join us for a day-long free event that will educate, inspire, and reinvent your technical infrastructure. **The event is free, but space is limited. Please register early to guarantee yourself a spot!** All event proceedings will be in English unless otherwise noted. 
+Come join us for a half-day free event that will educate, inspire, and reinvent your technical infrastructure. **The event is free, but space is limited. [Please register early to guarantee yourself a spot!](https://www.conftool.org/iiif2022/index.php?page=index)** All event proceedings will be in English unless otherwise noted. 
 
-[Showcase registration available on Eventbrite.][eventbrite]
+[Free showcase registration available on Conftool.](https://www.conftool.org/iiif2022/index.php?page=index)
+
+For accommodation and travel information please see the [logistics page][travel].
+
 
 ### Who is it for?
 
 The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event (though it offers something for everyone, so returning attendees are welcome as well!). It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community. 
 
-# Location: Adam-von-Trott room, Alte Mensa conference venue
+### What will I learn?
+
+* Use cases and best practices from IIIF adopters
+* How to get started with IIIF at your institution
+* Leveraging open source software to get more out of your collection of images and video
+* The latest developments in the community including IIIF A/V and 3D
+* Cutting-edge use cases including applications of AI/Machine Learning
+* And more!
+
+### Schedule
+
+#### 06 June 2022
+
 <table class="api-table">
     <thead>
         <tr>
             <th>Time</th>
             <th>Session</th>
-            <th>Authors</th>
+            <th>Speaker(s)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>10:00am - 10:30am</td>
-            <td colspan="2"><b>Arrival, Registration and Tea/Coffee</b></td>
+            <td>12:00pm - 1:00pm</td>
+            <td colspan="2"><b>Arrival and Registration</b></td>
         </tr>
         <tr>
-            <td>10:30am - 10:40am</td>
+            <td>1:00pm</td>
             <td>Welcome</td>
-            <td>Wolfram Horstmann, Göttingen State and University Library</td>
+            <td></td>
         </tr>
         <tr>
-            <td>10:40am - 11:00am</td>
+            <td>1:20pm</td>
             <td>Introduction to IIIF</td>
             <td>Josh Hadro, IIIF Consortium</td>
         </tr>
         <tr>
-            <td>11:00am - 11:20am</td>
-            <td>IIIF evolution</td>
-            <td>Tom Cramer, Stanford University</td>
+            <td>1:40pm</td>
+            <td>Getting Involved in the IIIF Community</td>
+            <td></td>
+        </tr>
+                <tr>
+            <td>2:00pm</td>
+            <td>IIIF in the Slavery, Abolition, Emancipation, and Freedom: Primary Sources from Houghton Library (SAEF) Project</td>
+            <td>Dorothy Berry, Houghton Library</td>
+        </tr>
+                <tr>
+            <td>2:20pm</td>
+            <td>IIIF A/V use cases</td>
+            <td></td>
+        </tr>
+                <tr>
+            <td>2:40pm</td>
+            <td colspan="2">Break</td>
         </tr>
         <tr>
-            <td rowspan="7">11:20am - 12:30pm</td>
-            <td colspan="2"><b>IIIF community use cases</b></td>
+            <td>3:00pm</td>
+            <td>Latest on IIIF 3D</td>
+            <td>3D TSG Chairs</td>
         </tr>
         <tr>
-            <td>IIIF and Libraries</td>
-            <td>Zeki Mustafa Dogan, Göttingen State and University Library</td>
-        </tr>    
-        <tr>
-            <td>IIIF and Museums</td>
-            <td>Emmanuelle Delmas-Glass, Yale Center for British Art</td>
-        </tr>    
-        <tr>
-            <td>IIIF and Manuscripts</td>
-            <td>Ben Albritton, Stanford University</td>
-        </tr>    
-        <tr>
-            <td>Research and Digital Humanities</td>
-            <td>Regine Stein, Göttingen State and University Library</td>
-        </tr>    
-        <tr>
-            <td>IIIF and Newspapers</td>
-            <td>Karen Estlund, Penn State University</td>
-        </tr>    
-        <tr>
-            <td>Fun with IIIF</td>
-            <td>Ben Rubinstein, Cogapp</td>
-        </tr>    
-        <tr>
-            <td>12:30pm - 1:30pm</td>
-            <td colspan="2"><b>Lunch (provided)</b></td>
-        </tr>
-        <tr>
-            <td>1:30pm - 2:00pm</td>
-            <td>Keynote</td>
-            <td>Harry Verwayen, Europeana</td>
-        </tr>
-        <tr>
-            <td rowspan="5">2:00pm - 3:00pm</td>
-            <td colspan="2"><b>Technical and Practical details on how to participate and implement</b></td>
-        </tr>
-        <tr>
-            <td>IIIF Deep Dive</td>
-            <td>Michael Appleby, Yale University Library</td>
-        </tr>    
-        <tr>
-            <td>IIIF A/V</td>
-            <td>Andy Irving, The British Library</td>
-        </tr>    
-        <tr>
-            <td>IIIF Community and Consortium</td>
-            <td>Stacey Redick, Folger Shakespeare Library</td>
-        </tr>    
-        <tr>
-            <td>How to adopt, where do I get started?</td>
-            <td>Glen Robson, IIIF Consortium</td>
-        </tr>    
-        <tr>
-            <td>3:00pm - 3:30pm</td>
-            <td colspan="2"><b>Break</b></td>
-        </tr>
-        <tr>
-            <td rowspan="6">3:30pm - 4:20pm</td>
-            <td colspan="2"><b>Building on implementing and IIIF futures</b></td>
-        </tr>
-        <tr>
-            <td>Hacking Art with IIIF</td>
-            <td>Jeff Steward, Harvard Art Museums</td>
-        </tr>
-        <tr>
-            <td>IIIF Crowdsourcing with The Parker Library</td>
-            <td>Anne McLaughlin, The Parker Library, Corpus Christi College, Cambridge</td>
-        </tr>
-        <tr>
-            <td>IIIF and Crowdsourcing with Madoc</td>
-            <td>Matt McGrattan, Digirati</td>
-        </tr>
-        <tr>
-            <td>IIIF and AI: the case of early printed Polish books</td>
-            <td>Sonia Wronkowska and Jacek Tlaga, National Library of Poland</td>
-        </tr>
-        <tr>
-            <td>Visualizing which parts of IIIF images are looked at by users</td>
-            <td>Kiyonori Nagasaki, University of Tokyo</td>
-        </tr>
-        <tr>
-            <td>4:20pm - 4:30pm</td>
-            <td>Summary and wrap-up</td>
+            <td>3:20pm</td>
+            <td>Crowdsourcing with IIIF</td>
             <td></td>
         </tr>
         <tr>
-            <td>5:00pm - 6:30pm</td>
-            <td colspan="2">Optional guided city tour - <a href="https://forms.gle/4t82DtYDaFdzF4Hr7">register here</a> (first-come, first-served)</td>
+            <td>3:40pm</td>
+            <td>Teaching and Learning with IIIF</td>
+            <td></td>
         </tr>
         <tr>
-            <td>5:00pm - 6:00pm</td>
-            <td colspan="2">Optional guided library tour - Historical Building and Pauliner Church - <a href="https://forms.gle/Ue9vgBYKZYD8qcrx7">register here</a> (first-come, first-served)</td>
+            <td>4:00pm</td>
+            <td>IIIF and Museums</td>
+            <td>Emmanuelle Delmas-Glass, Yale Center for British Art</td>
         </tr>
-    </tbody>
-</table>    
-
-Following the event, We have prepared a listing of a few [social activity suggestions][social] for you that you can join after the end of the conference program.
-
-Also check out the [#göttingen-social][slack-channel] on the IIIF Slack for real-time information about where people are what is happening on the social front.
-
-
+        <tr>
+            <td>4:20pm</td>
+            <td>Implementing IIIF: the simple and complex versions</td>
+            <td>Glen Robson, IIIF Consortium</td>
+        </tr>
+        <tr>
+            <td>4:40pm</td>
+            <td>IIIF and Maps</td>
+            <td></td>
+        </tr>
+</tbody>
+</table>
 
 ---
 
-The Showcase is a separate event but can be combined with a workshop ticket (€70) which would give you access to the sessions on [Tuesday][workshops]. Or, to get the full experience, the Showcase can be combined with a full conference ticket which will give you access to the [workshops on Tuesday][workshops], and a reception and the main IIIF conference on Wednesday to Friday. 
 
-For accommodation and travel information please see the [logistics page][logistics].
 
-### What will I learn?
-
-* How to adopt IIIF at your institution
-* Leveraging open source software to get more out of your collection of images and video
-* Use cases and best practices from IIIF adopters
-* The latest developments in the community including IIIF A/V
-* Cutting-edge use cases including applications of AI/Machine Learning
-* And more!
 
 ### Location
 
-The IIIF Showcase will be held in the Alte Mensa conference venue in Göttingen. 
+The IIIF Showcase will be held on the MIT Campus, with exact room location to be published soon. 
 
-<br/>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 100%; height: 600px"></iframe>
 
-<div id="map" style="width: 100%; height: 400px; background-color: grey;" ></div>
-<script>
-  function initMap() {
-    var alte_mensa = {lat: 51.533486, lng: 9.937732};
-    var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 16,
-      center: alte_mensa
-    });
-    var marker = new google.maps.Marker({
-      position: alte_mensa,
-      title: "Alte Mensa",
-      map: map
-    });
-  }
-</script>
 
-<br/>
-<div class="container" markdown="0">
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
-        <img class="thumb-lightbox" alt="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/640px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" height="200">
-    </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/755px-Johannisstrasse_Goettingen.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL">
-        <img class="thumb-lightbox" alt="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/442px-Johannisstrasse_Goettingen.jpg" height="200">
-    </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Blick auf Goettingen aus der Vogelschau nach Nordwesten, Friedrich Besemann. Public Domain">
-        <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" height="200">
-    </a>
-    <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-thumb.png" height="200">
-    </a>
-    <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the Conference location. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-thumb.png" height="200">
-    </a>
-</div>
-
-<br/>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABBvwq6o-hTwwlEaLLK7SLLPC0emBOSjE&callback=initMap" ></script>
-
-<script>
-    lightbox.option({
-      'resizeDuration': 100,
-      'wrapAround': true
-    })
-</script>
 
 [workshops]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/workshops/
 [logistics]:  {{ site.root_url | absolute_url }}/event/2019/goettingen/#logistics
 [eventbrite]: https://www.eventbrite.co.uk/e/2019-iiif-annual-conference-tickets-58796011453
 [social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
+[travel]:  {{ site.root_url | absolute_url }}/event/2022/cambridge/travel
