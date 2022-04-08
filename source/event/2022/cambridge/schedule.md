@@ -89,7 +89,7 @@ The IIIF conference is open to advanced registrants.
 * 9am-12pm: [Sessions (see presentations listed below)](#session4)
 * 12pm-1:30pm: Lunch
 * 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session5)
-* 3:30pm - Tours + outings (TBD)
+* 3:30pm - 5:00pm: Tour of the Leventhal Map and Education Center, Boston Public Library (limited to 30 attendees.)
 
 ---
 
