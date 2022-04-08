@@ -127,7 +127,7 @@ The Tify viewer makes this easy by providing an export button at the top right o
 
 Like the Universal Viewer, Tify also has a demo page where you can pass a manifest in the URL:
 
-[https://demo.tify.rocks/demo.html?manifest=](https://demo.tify.rocks/demo.html?manifest=)[manifest url]
+[https://tify.rocks/](https://tify.rocks/)[manifest url]
 
 ### IIIF Curation Viewer
 This is a powerful IIIF Viewer that was developed in Japan and in addition to the general viewer functions such as page movement and zooming, it also cuts and collects parts of images from multiple items.
