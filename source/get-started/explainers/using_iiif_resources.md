@@ -171,6 +171,6 @@ Below are list of links to viewers including links where you can add your own ma
  * [Mirador 2](https://projectmirador.org/) - [http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=](http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=)
  * [Mirador 3](https://mirador-dev.netlify.com/)
  * [UniversalViewer](https://universalviewer.io/examples/) - [https://universalviewer.io/uv.html?manifest=](https://universalviewer.io/uv.html?manifest=)
- * [Tify](https://demo.tify.rocks/demo.html?manifest=https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN857449303/manifest) - [https://demo.tify.rocks/demo.html?manifest=](https://demo.tify.rocks/demo.html?manifest=)
+ * [Tify](https://tify.rocks/) - [https://tify.rocks/](hhttps://tify.rocks/)
  * [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/) - [http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=)
  * [Diva.js](https://ddmal.music.mcgill.ca/diva.js/try/iiif-external.html)
