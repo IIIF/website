@@ -299,7 +299,7 @@ The IIIF conference is open to advanced registrants.
 <h3>Tuesday, 07/June/2022: 3:30pm - 5:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">3:30pm - 4:00pm</span><br /><p class="paper_title">Exhibit: easy-to-use tools for promoting engagement and learning with your online digital collections.</p>
+<div class="paper"><span class="paper_time_value">4:00pm - 4:30pm</span><br /><p class="paper_title">Exhibit: easy-to-use tools for promoting engagement and learning with your online digital collections.</p>
 <p class="paper_author"> <u>Edward Silverton</u></p>
 
 <p class="paper_organisation">Mnemoscene, United Kingdom</p>
@@ -316,8 +316,8 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">4:00pm - 4:30pm</span><br /><p class="paper_title">Using IIIF Images in Visual Essays</p>
+<hr noshade width="100%" class="float_left"><br /><a name='paperID114'></a><div id='paperID114'>
+<div class="paper"><span class="paper_time_value">4:30pm - 5:00pm</span><br /><p class="paper_title">Using IIIF Images in Visual Essays</p>
 <p class="paper_author"> <u>Ron Snyder</u></p>
 
 <p class="paper_organisation">ITHAKA, United States of America</p>
@@ -336,8 +336,8 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">4:30pm - 5:00pm</span><br /><p class="paper_title">From Manuscript to Transcription and Back Again: Closing the Virtuous Circle with Houghton MS Lat. 5</p>
+<hr noshade width="100%" class="float_left"><br /><a name='paperID155'></a><div id='paperID155'>
+<div class="paper"><span class="paper_time_value">5:00pm - 5:30pm</span><br /><p class="paper_title">From Manuscript to Transcription and Back Again: Closing the Virtuous Circle with Houghton MS Lat. 5</p>
 <p class="paper_author"> <u>Laura Morreale</u><sup>1</sup>, <u>Sean Gilsdorf</u><sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>Multiple Affiliations; <sup>2</sup>Harvard University</p>
@@ -353,8 +353,8 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">5:00pm - 5:30pm</span><br /><p class="paper_title">Creating a Scholar’s Manifest: incorporating user-contributed annotations and metadata</p>
+<hr noshade width="100%" class="float_left"><br /><a name='paperID113'></a><div id='paperID113'>
+<div class="paper"><span class="paper_time_value">5:30pm - 6:00pm</span><br /><p class="paper_title">Creating a Scholar’s Manifest: incorporating user-contributed annotations and metadata</p>
 <p class="paper_author"> <u>Debra Cashion</u><sup>1</sup>, <u>Ben Bakelaar</u><sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>St. Louis University, United States of America; <sup>2</sup>Human Experience Systems</p>
@@ -368,6 +368,8 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
+
+
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session4' name='session4'></a><h3>Block 4</h3>
 <h3>Wednesday, 08/June/2022: 9:00am - 12:00pm</h3>
