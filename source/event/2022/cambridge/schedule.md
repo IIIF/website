@@ -110,9 +110,7 @@ The IIIF conference is open to advanced registrants.
 <h3>Tuesday, 07/June/2022: 9:00am - 12:00pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:00am - 9:30am</span><br />
-
-  <p class="paper_title">Welcome and opening remarks</p>
+<div class="paper"><span class="paper_time_value">9:00am - 9:30am</span><br /><p class="paper_title">Welcome and opening remarks</p>
 <p class="paper_author"> <u>Josh Hadro</u></p>
 
 <p class="paper_organisation">IIIF, United States of America</p>
@@ -125,24 +123,20 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:30am - 10:00am</span><br />
-<p class="paper_title">State of the IIIF Universe</p>
-<p class="paper_author"> <u></u></p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">9:30am - 10:00am</span><br /><p class="paper_title">State of the IIIF Universe</p>
+<p class="paper_author"> <u>Josh Hadro</u></p>
 
-<p class="paper_organisation">IIIF Community, United States of America</p>
+<p class="paper_organisation">IIIF, United States of America</p>
 
 <div ><div class="paper">
 
 <p class="paper_abstract">This session will provide an update on the status of the many IIIF Community Groups currently meeting to discuss issues relating to their field of practice.</p>
 <p class="paper_abstract"></p>
+
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:00am - 10:30am</span><br /><p class="paper_title">IIIF 3D - Developing New Dimensions &amp; Technical Specification</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:00am - 10:30am</span><br /><p class="paper_title">IIIF 3D - Developing New Dimensions &amp; Technical Specification</p>
 <p class="paper_author"> <u>Ronald S. Haynes</u></p>
 
 <p class="paper_organisation">University of Cambridge, United Kingdom</p>
@@ -155,24 +149,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:30am - 11:00am</span><br /><p class="paper_title">Change Discovery as an Agent for Statewide Discovery of Digital Assets</p>
-<p class="paper_author"> <u>Emily Gore</u><sup>1</sup>, <u>Mark Baggett</u><sup>1</sup>, <u>Jeff Mixter</u><sup>2</sup></p>
-
-<p class="paper_organisation"><sup>1</sup>University of Tennessee, United States of America; <sup>2</sup>OCLC Research</p>
-
-<div ><div class="paper">
-
-<p class="paper_abstract">The University of Tennessee Libraries recently discussed the limitations of metadata aggregation with our partners across the state representing the Digital Library of Tennessee. For a number of reasons, partners are interested in making full objects available instead of metadata-only discovery. This interest aligns well with the efforts of the IIIF Change Discovery Technical Working Group. UTK Libraries and our DLTN partners are evaluating the IIIF Change Discovery API as a potential solution for full-object aggregation coupled with a Blacklight discovery layer. During this presentation, UTK Libraries will discuss our test implementation of the Change Discovery API and demonstrate our statewide search of IIIF-enabled platforms. UTK Libraries has been working with OCLC Research to develop our test to ensure the inclusion of all CONTENTdm libraries in the state of TN. Jeff Mixter from OCLC will discuss the IIIF Change Discovery prototype that has been developed within OCLC Research and provide an overview on how it works and how to harvest from it.</p>
-<p class="paper_abstract"></p>
-
-</div>
-</div>
-</div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">11:00am - 11:30am</span><br /><p class="paper_title">A New Manifest Editor (and more)</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:30am - 11:00am</span><br /><p class="paper_title">A New Manifest Editor (and more)</p>
 <p class="paper_author"> <u>Tom Crane</u>, <u>Stephen Fraser</u></p>
 
 <p class="paper_organisation">Digirati, United Kingdom</p>
@@ -203,9 +180,20 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">11:00am - 11:30am</span><br /><p class="paper_title">Change Discovery as an Agent for Statewide Discovery of Digital Assets</p>
+<p class="paper_author"> <u>Emily Gore</u><sup>1</sup>, <u>Mark Baggett</u><sup>1</sup>, <u>Jeff Mixter</u><sup>2</sup></p>
+
+<p class="paper_organisation"><sup>1</sup>University of Tennessee, United States of America; <sup>2</sup>OCLC Research</p>
+
+<div ><div class="paper">
+
+<p class="paper_abstract">The University of Tennessee Libraries recently discussed the limitations of metadata aggregation with our partners across the state representing the Digital Library of Tennessee. For a number of reasons, partners are interested in making full objects available instead of metadata-only discovery. This interest aligns well with the efforts of the IIIF Change Discovery Technical Working Group. UTK Libraries and our DLTN partners are evaluating the IIIF Change Discovery API as a potential solution for full-object aggregation coupled with a Blacklight discovery layer. During this presentation, UTK Libraries will discuss our test implementation of the Change Discovery API and demonstrate our statewide search of IIIF-enabled platforms. UTK Libraries has been working with OCLC Research to develop our test to ensure the inclusion of all CONTENTdm libraries in the state of TN. Jeff Mixter from OCLC will discuss the IIIF Change Discovery prototype that has been developed within OCLC Research and provide an overview on how it works and how to harvest from it.</p>
+<p class="paper_abstract"></p>
+
 </div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">11:30am - 12:00pm</span><br /><p class="paper_title">Using IIIF to teach Digital Humanities: advancing digital literacy in higher education</p>
+</div>
+</div>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">11:30am - 12:00pm</span><br /><p class="paper_title">Using IIIF to teach Digital Humanities: advancing digital literacy in higher education</p>
 <p class="paper_author"> Davy Verbeke<sup>1,2</sup>, <u>Lise Foket</u><sup>1,2</sup>, Eef Rombaut<sup>2,3</sup>, Frederic Lamsens<sup>1</sup>, Christophe Verbruggen<sup>1,2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>Ghent Centre for Digital Humanities (Ghent University), Belgium; <sup>2</sup>Faculty of Arts and Philosophy (Ghent University), Belgium; <sup>3</sup>Antwerp School of Education (University of Antwerp)</p>
@@ -240,9 +228,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">2:00pm - 2:30pm</span><br /><p class="paper_title">From text to image: linking TEI-XML and IIIF via expert sourced annotations and IIIF Change Discovery</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">2:00pm - 2:30pm</span><br /><p class="paper_title">From text to image: linking TEI-XML and IIIF via expert sourced annotations and IIIF Change Discovery</p>
 <p class="paper_author"> <u>Matthew McGrattan</u></p>
 
 <p class="paper_organisation">Digirati, United Kingdom</p>
@@ -262,9 +248,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">2:30pm - 3:00pm</span><br /><p class="paper_title">Etu - An open source image centric IIIF universal adaptor</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">2:30pm - 3:00pm</span><br /><p class="paper_title">Etu - An open source image centric IIIF universal adaptor</p>
 <p class="paper_author"> <u>Jie Song</u></p>
 
 <p class="paper_organisation">IntelliJourney, China, People&#39;s Republic of</p>
@@ -277,9 +261,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">3:00pm - 3:30pm</span><br /><p class="paper_title">USE ME: progressive integration of IIIF with new software services at the Getty</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">3:00pm - 3:30pm</span><br /><p class="paper_title">USE ME: progressive integration of IIIF with new software services at the Getty</p>
 <p class="paper_author"> <u>Stefano Cossu</u>, <u>David Newbury</u></p>
 
 <p class="paper_organisation">J. P. Getty Trust, United States of America</p>
@@ -315,9 +297,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID114'></a><div id='paperID114'>
-<div class="paper"><span class="paper_time_value">4:30pm - 5:00pm</span><br /><p class="paper_title">Using IIIF Images in Visual Essays</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">4:30pm - 5:00pm</span><br /><p class="paper_title">Using IIIF Images in Visual Essays</p>
 <p class="paper_author"> <u>Ron Snyder</u></p>
 
 <p class="paper_organisation">ITHAKA, United States of America</p>
@@ -335,9 +315,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID155'></a><div id='paperID155'>
-<div class="paper"><span class="paper_time_value">5:00pm - 5:30pm</span><br /><p class="paper_title">From Manuscript to Transcription and Back Again: Closing the Virtuous Circle with Houghton MS Lat. 5</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">5:00pm - 5:30pm</span><br /><p class="paper_title">From Manuscript to Transcription and Back Again: Closing the Virtuous Circle with Houghton MS Lat. 5</p>
 <p class="paper_author"> <u>Laura Morreale</u><sup>1</sup>, <u>Sean Gilsdorf</u><sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>Multiple Affiliations; <sup>2</sup>Harvard University</p>
@@ -352,9 +330,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID113'></a><div id='paperID113'>
-<div class="paper"><span class="paper_time_value">5:30pm - 6:00pm</span><br /><p class="paper_title">Creating a Scholar’s Manifest: incorporating user-contributed annotations and metadata</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">5:30pm - 6:00pm</span><br /><p class="paper_title">Creating a Scholar’s Manifest: incorporating user-contributed annotations and metadata</p>
 <p class="paper_author"> <u>Debra Cashion</u><sup>1</sup>, <u>Ben Bakelaar</u><sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>St. Louis University, United States of America; <sup>2</sup>Human Experience Systems</p>
@@ -368,7 +344,6 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-
 
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session4' name='session4'></a><h3>Block 4</h3>
@@ -392,9 +367,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:07am - 9:14am</span><br /><p class="paper_title">Mapping Color in History: Using IIIF to Annotate Historical Objects with Pigment Data</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">9:07am - 9:14am</span><br /><p class="paper_title">Mapping Color in History: Using IIIF to Annotate Historical Objects with Pigment Data</p>
 <p class="paper_author"> <u>Cole Daniel Crawford</u></p>
 
 <p class="paper_organisation">Harvard University Arts and Humanities Research Computing, United States of America</p>
@@ -409,9 +382,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:14am - 9:21am</span><br /><p class="paper_title">pdiiif: PDF as an offline IIIF Viewer</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">9:14am - 9:21am</span><br /><p class="paper_title">pdiiif: PDF as an offline IIIF Viewer</p>
 <p class="paper_author"> <u>Johannes Baiter</u></p>
 
 <p class="paper_organisation">Bavarian State Library</p>
@@ -424,9 +395,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:21am - 9:51am</span><br /><p class="paper_title">Restoring a Space for Paul Dunbar</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">9:21am - 9:51am</span><br /><p class="paper_title">Restoring a Space for Paul Dunbar</p>
 <p class="paper_author"> <u>Patrick Cuba</u>, Bryan Haberberger</p>
 
 <p class="paper_organisation">SAINT LOUIS UNIVERSITY, United States of America</p>
@@ -439,9 +408,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:51am - 9:58am</span><br /><p class="paper_title">Designing a proof-of-concept for the implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">9:51am - 9:58am</span><br /><p class="paper_title">Designing a proof-of-concept for the implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)</p>
 <p class="paper_author"> <u>Julien Antoine Raemy</u></p>
 
 <p class="paper_organisation">University of Basel / DaSCH, Switzerland</p>
@@ -456,9 +423,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">9:58am - 10:05am</span><br /><p class="paper_title">IIIF - Could it be time to swap the Image for Information?</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">9:58am - 10:05am</span><br /><p class="paper_title">IIIF - Could it be time to swap the Image for Information?</p>
 <p class="paper_author"> <u>Joseph Padfield</u></p>
 
 <p class="paper_organisation">The National Gallery, United Kingdom</p>
@@ -471,9 +436,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:05am - 10:12am</span><br /><p class="paper_title">Bringing IIIF to the DSpace community</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:05am - 10:12am</span><br /><p class="paper_title">Bringing IIIF to the DSpace community</p>
 <p class="paper_author"> <u>Michael Spalti</u><sup>1</sup>, Andrea Bollini<sup>2</sup>, Claudio Cortese<sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>Willamette University, United States of America; <sup>2</sup>4Science, Italy</p>
@@ -488,9 +451,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:12am - 10:19am</span><br /><p class="paper_title">An improvement for Video annotation on Mirador</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:12am - 10:19am</span><br /><p class="paper_title">An improvement for Video annotation on Mirador</p>
 <p class="paper_author"> <u>Kiyonori Nagasaki</u><sup>1</sup>, Jun Homma<sup>2</sup>, Ikki Ohmukai<sup>1</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>The University of Tokyo, Japan; <sup>2</sup>FLX Style</p>
@@ -503,9 +464,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:19am - 10:26am</span><br /><p class="paper_title">Enriched Art with IIIF: Improving searchability of art collections through machine learning</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:19am - 10:26am</span><br /><p class="paper_title">Enriched Art with IIIF: Improving searchability of art collections through machine learning</p>
 <p class="paper_author"> <u>Alec Van den broeck</u><sup>1,2,3,4</sup>, Steven Verstockt<sup>1,4</sup>, Christophe Verbruggen<sup>1,3</sup>, Pascal Ennaert<sup>2</sup>, Julie Birkholz<sup>1,3</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>University Ghent; <sup>2</sup>Flemish Art Collection; <sup>3</sup>Ghent Centre for Digital Humanities; <sup>4</sup>Imec IDLab</p>
@@ -519,25 +478,21 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:26am - 10:33am</span><br /><p class="paper_title">Chronophage: Leveraging IIIF standards to build the CoKL Database</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:26am - 10:33am</span><br /><p class="paper_title">Chronophage: Leveraging IIIF standards to build the CoKL Database</p>
 <p class="paper_author"> <u>Aaron David Macks</u></p>
 
 <p class="paper_organisation">Harvard Business Publishing, United States of America</p>
 
 <div ><div class="paper">
 
-<p class="paper_abstract">The Corpus Kalendarium Database, or CoKL DB*, is a relational database of the devotional calendars from Books of Hours. As of February 2022, it contains 376 transcribed calendars and metadata about a further 267 manuscripts, yielding 137,605 calendar entries in total. The project is built from, and only possible with, the large scale manuscript digitization work at repositories worldwide, and the IIIF standard of presenting those digital facsimiles. This will be a case study of a big data digital humanities project only possible due to the the wide scale use of the IIIF manifest standard by libraries, museums, and other manuscript holding institutions.</p>
+<p class="paper_abstract">The Corpus Kalendarium Database, or CoKL DB*, is a relational database of the devotional calendars from Books of Hours. As of February 2022, it contains 376 transcribed calendars and metadata about a further 267 manuscripts, yielding 137,605 calendar entries in total. The project is built from, and only possible with, the large scale manuscript digitization work at repositories worldwide, and the IIIF standard of presenting those digital facsimiles. Although not all of the digital manuscripts added come from IIIF-enabled collections, the standard enables easier discovery and the transcription of those manuscripts. This will be a case study of a big data digital humanities project only possible due to the the wide scale use of the IIIF manifest standard by libraries, museums, and other manuscript holding institutions.</p>
 <p class="paper_abstract">* http://www.cokldb.org/</p>
 <p class="paper_abstract"></p>
 
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:33am - 10:40am</span><br /><p class="paper_title">DetektIIIF, a IIIF browser extension</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:33am - 10:40am</span><br /><p class="paper_title">DetektIIIF, a IIIF browser extension</p>
 <p class="paper_author"> <u>Leander Seige</u></p>
 
 <p class="paper_organisation">seige.digital GbR, Germany</p>
@@ -550,9 +505,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:40am - 10:47am</span><br /><p class="paper_title">Miiify: distributed crowdsourced annotations</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:40am - 10:47am</span><br /><p class="paper_title">Miiify: distributed crowdsourced annotations</p>
 <p class="paper_author"> <u>John Moore</u>, Louise Seaward, Pip Willcox</p>
 
 <p class="paper_organisation">The National Archives, United Kingdom</p>
@@ -571,9 +524,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:47am - 10:54am</span><br /><p class="paper_title">An open source, IIIF-enabled, natural history collection platform</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:47am - 10:54am</span><br /><p class="paper_title">An open source, IIIF-enabled, natural history collection platform</p>
 <p class="paper_author"> <u>Andy Cummins</u></p>
 
 <p class="paper_organisation">Cogapp, United Kingdom</p>
@@ -588,9 +539,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">10:54am - 11:01am</span><br /><p class="paper_title">Transcribing Primary Sources using FairCopy and IIIF</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:54am - 11:01am</span><br /><p class="paper_title">Transcribing Primary Sources using FairCopy and IIIF</p>
 <p class="paper_author"> <u>Nick Laiacona</u></p>
 
 <p class="paper_organisation">Performant Software Solutions LLC, United States of America</p>
@@ -603,9 +552,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">11:01am - 11:31am</span><br /><p class="paper_title">IIIF as an enabler for presentation and participation in the public history project Gent Gemapt.</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">11:01am - 11:31am</span><br /><p class="paper_title">IIIF as an enabler for presentation and participation in the public history project Gent Gemapt.</p>
 <p class="paper_author"> Fien Danniau, <u>Frederic Lamsens</u>, Vincent Ducatteeuw, Lise Foket</p>
 
 <p class="paper_organisation">Ghent Centre for Digital Humanities (Ghent University, Belgium)</p>
@@ -672,9 +619,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">2:00pm - 2:30pm</span><br /><p class="paper_title">IIIF A/V in Practice: An Overview of IIIF Usage in Avalon Media System</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">2:00pm - 2:30pm</span><br /><p class="paper_title">IIIF A/V in Practice: An Overview of IIIF Usage in Avalon Media System</p>
 <p class="paper_author"> <u>Jon Cameron</u>, <u>Dananji Withana</u></p>
 
 <p class="paper_organisation">Indiana University Libraries, United States of America</p>
@@ -688,9 +633,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">2:30pm - 3:00pm</span><br /><p class="paper_title">AMPlifying Interoperability: IIIF Integrations for the Audiovisual Metadata Platform</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">2:30pm - 3:00pm</span><br /><p class="paper_title">AMPlifying Interoperability: IIIF Integrations for the Audiovisual Metadata Platform</p>
 <p class="paper_author"> <u>Shawn Averkamp</u><sup>1</sup>, <u>Jon Cameron</u><sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>AVP; <sup>2</sup>Indiana University Libraries</p>
@@ -703,9 +646,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-<div class="paper"><span class="paper_time_value">3:00pm - 3:30pm</span><br /><p class="paper_title">Clover: a minimal IIIF viewer for Image, Sound, and Video canvases</p>
+<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">3:00pm - 3:30pm</span><br /><p class="paper_title">Clover: a minimal IIIF viewer for Image, Sound, and Video canvases</p>
 <p class="paper_author"> <u>Adam Arling</u>, <u>Mat Jordan</u></p>
 
 <p class="paper_organisation">Northwestern University</p>
@@ -720,6 +661,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
+
 
 
 [showcase]: {{ site.root_url | absolute_url }}/event/2022/cambridge/showcase
