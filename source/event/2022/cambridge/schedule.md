@@ -74,7 +74,7 @@ The IIIF conference is open to advanced registrants.
 * 12pm-1:30pm: Lunch
 * 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session2)
 * 3:30pm - 4pm: Break
-* 4pm-5:30pm: [Sessions (see presentations listed below)](#session3)
+* 4pm-6:00pm: [Sessions (see presentations listed below)](#session3)
 * 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
 
 
@@ -109,7 +109,11 @@ The IIIF conference is open to advanced registrants.
 <a id='session1' name='session1'></a><h3>Block 1</h3>
 <h3>Tuesday, 07/June/2022: 9:00am - 12:00pm</h3>
 </div>
-<div class='topline_gray' style='padding:3px;'>
+
+<div class='infoview_header left'>
+<h2>Presentations</h2>
+</div>
+<div class="topline_printonly left"><div>
 <div class="paper"><span class="paper_time_value">9:00am - 9:30am</span><br /><p class="paper_title">Welcome and opening remarks</p>
 <p class="paper_author"> <u>Josh Hadro</u></p>
 
@@ -123,7 +127,10 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">9:30am - 10:00am</span><br /><p class="paper_title">State of the IIIF Universe</p>
+</div>
+<br>
+<div>
+<div class="paper"><span class="paper_time_value">9:30am - 10:00am</span><br /><p class="paper_title">State of the IIIF Universe</p>
 <p class="paper_author"> <u>Josh Hadro</u></p>
 
 <p class="paper_organisation">IIIF, United States of America</p>
@@ -136,7 +143,10 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:00am - 10:30am</span><br /><p class="paper_title">IIIF 3D - Developing New Dimensions &amp; Technical Specification</p>
+</div>
+<br>
+<div>
+<div class="paper"><span class="paper_time_value">10:00am - 10:30am</span><br /><p class="paper_title">IIIF 3D - Developing New Dimensions &amp; Technical Specification</p>
 <p class="paper_author"> <u>Ronald S. Haynes</u></p>
 
 <p class="paper_organisation">University of Cambridge, United Kingdom</p>
@@ -149,7 +159,26 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:30am - 11:00am</span><br /><p class="paper_title">A New Manifest Editor (and more)</p>
+</div>
+<br>
+<div>
+<div class="paper"><span class="paper_time_value">10:30am - 11:00am</span><br /><p class="paper_title">An update on building an open-source IIIF stack and integrating Mirador 3 at Harvard</p>
+<p class="paper_author"> <u>Chip Goines</u>, <u>Katie Amaral</u>, <u>Doug Simon</u>, <u>Phil Plencner</u></p>
+
+<p class="paper_organisation">Harvard University, Cambridge, MA, United States of America</p>
+
+<div ><div class="paper">
+
+<p class="paper_abstract">In 2020, Harvard University embarked on building an open source, institutional-level IIIF stack for its library and other departments. This was a momentous task, as Harvard&#39;s current main IIIF endpoint, iiif.lib.harvard.edu, hosts more than 60 million digitized images and approximately 250,000 page-turned objects. In this talk, we will give an update on its progress and its impending release as well as discuss replacing Mirador 2 with Mirador 3 as the default viewer for all IIIF content hosted by the university.</p>
+<p class="paper_abstract"></p>
+
+</div>
+</div>
+</div>
+</div>
+<br>
+<div>
+<div class="paper"><span class="paper_time_value">11:00am - 11:30am</span><br /><p class="paper_title">A New Manifest Editor (and more)</p>
 <p class="paper_author"> <u>Tom Crane</u>, <u>Stephen Fraser</u></p>
 
 <p class="paper_organisation">Digirati, United Kingdom</p>
@@ -180,20 +209,10 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">11:00am - 11:30am</span><br /><p class="paper_title">Change Discovery as an Agent for Statewide Discovery of Digital Assets</p>
-<p class="paper_author"> <u>Emily Gore</u><sup>1</sup>, <u>Mark Baggett</u><sup>1</sup>, <u>Jeff Mixter</u><sup>2</sup></p>
-
-<p class="paper_organisation"><sup>1</sup>University of Tennessee, United States of America; <sup>2</sup>OCLC Research</p>
-
-<div ><div class="paper">
-
-<p class="paper_abstract">The University of Tennessee Libraries recently discussed the limitations of metadata aggregation with our partners across the state representing the Digital Library of Tennessee. For a number of reasons, partners are interested in making full objects available instead of metadata-only discovery. This interest aligns well with the efforts of the IIIF Change Discovery Technical Working Group. UTK Libraries and our DLTN partners are evaluating the IIIF Change Discovery API as a potential solution for full-object aggregation coupled with a Blacklight discovery layer. During this presentation, UTK Libraries will discuss our test implementation of the Change Discovery API and demonstrate our statewide search of IIIF-enabled platforms. UTK Libraries has been working with OCLC Research to develop our test to ensure the inclusion of all CONTENTdm libraries in the state of TN. Jeff Mixter from OCLC will discuss the IIIF Change Discovery prototype that has been developed within OCLC Research and provide an overview on how it works and how to harvest from it.</p>
-<p class="paper_abstract"></p>
-
 </div>
-</div>
-</div>
-<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">11:30am - 12:00pm</span><br /><p class="paper_title">Using IIIF to teach Digital Humanities: advancing digital literacy in higher education</p>
+<br>
+<div>
+<div class="paper"><span class="paper_time_value">11:30am - 12:00pm</span><br /><p class="paper_title">Using IIIF to teach Digital Humanities: advancing digital literacy in higher education</p>
 <p class="paper_author"> Davy Verbeke<sup>1,2</sup>, <u>Lise Foket</u><sup>1,2</sup>, Eef Rombaut<sup>2,3</sup>, Frederic Lamsens<sup>1</sup>, Christophe Verbruggen<sup>1,2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>Ghent Centre for Digital Humanities (Ghent University), Belgium; <sup>2</sup>Faculty of Arts and Philosophy (Ghent University), Belgium; <sup>3</sup>Antwerp School of Education (University of Antwerp)</p>
@@ -208,6 +227,12 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
+<br>
+</div>
+</div>
+
+
+
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session2' name='session2'></a><h3>Block 2</h3>
 <h3>Tuesday, 07/June/2022: 1:30pm - 3:30pm</h3>
@@ -278,7 +303,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session3' name='session3'></a><h3>Block 3</h3>
-<h3>Tuesday, 07/June/2022: 3:30pm - 5:30pm</h3>
+<h3>Tuesday, 07/June/2022: 3:30pm - 6:00pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
 <div class="paper"><span class="paper_time_value">4:00pm - 4:30pm</span><br /><p class="paper_title">Exhibit: easy-to-use tools for promoting engagement and learning with your online digital collections.</p>
