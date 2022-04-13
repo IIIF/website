@@ -503,7 +503,8 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><div class="paper"><span class="paper_time_value">10:26am - 10:33am</span><br /><p class="paper_title">Chronophage: Leveraging IIIF standards to build the CoKL Database</p>
+<hr noshade width="100%" class="float_left"><br /><a name='paperID138'></a><div id='paperID138'>
+<div class="paper"><span class="paper_time_value">10:26am - 10:33am</span><br /><p class="paper_title">Chronophage: Leveraging IIIF standards to build the CoKL Database</p>
 <p class="paper_author"> <u>Aaron David Macks</u></p>
 
 <p class="paper_organisation">Harvard Business Publishing, United States of America</p>
@@ -514,6 +515,7 @@ The IIIF conference is open to advanced registrants.
 <p class="paper_abstract">* http://www.cokldb.org/</p>
 <p class="paper_abstract"></p>
 
+</div>
 </div>
 </div>
 </div>
