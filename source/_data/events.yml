@@ -8,16 +8,16 @@
 #     - label: Register
 #       link: https://www.eventbrite.com/e/january-iiif-online-training-5-day-course-tickets-176371781747
 
-- label: "Exploring IIIF for Research: New interfaces between scholarship and curation"
+- label: "From Data to Wisdom - IIIF Reader: Multilevel Visualization Research [community event]"
   time:
-    start: 2022-03-31T17:00:00Z
-    end: 2022-03-31T18:30:00Z
+    start: 2022-04-20T15:30:00Z
+    end: 2022-03-31T19:00:00Z
   links: 
     - label: More info
-      link: "https://www.wales.ac.uk/Resources/Documents/Centre/2022/IIIF-CAWCS-poster-final.pdf"
+      link: "https://www.biblhertz.it/3240312/from-data-to-wisdom-iiif-reader-multilevel-visualization-research.html"
   location:
-    label: "Online"
-- label: "Ontdek nieuwe IIIF-projecten op de zesde IIIF Friday (Discover new IIIF projects on the sixth IIIF Friday)"
+    label: "Online event via Zoom"
+- label: "Ontdek nieuwe IIIF-projecten op de zesde IIIF Friday (Discover new IIIF projects on the sixth IIIF Friday) [community event]"
   time:
     start: 2022-04-29T15:00:00Z
     end: 2022-04-29T16:30:00Z
