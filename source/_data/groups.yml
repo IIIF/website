@@ -35,8 +35,13 @@
   type: community 
   notes: https://drive.google.com/drive/folders/1gz7OBW8JEK_WUnhLxQ7FD0vSWv9umJ31 
   meeting_frequency: Every four weeks, on Mondays 
-- id: D4H 
-  label: Discovery for Humans 
+- id: design 
+  label: Design
+  alternate_names: 
+    - D4H 
+    - d4h
+    - Discovery for Humans
+    - discovery for humans
   description: This group aims to foster user-focused approaches enabling the targeted discovery of IIIF resources.
   link: /community/groups/D4H 
   type: community 
