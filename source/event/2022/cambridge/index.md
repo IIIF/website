@@ -102,9 +102,6 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 <a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
 
-**Bronze sponsors**  <br>
-
-<a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
 ### **Questions?**
 
 Reach out to us at staff@iiif.io.
