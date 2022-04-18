@@ -35,6 +35,7 @@ If you don't have the time or resources to build your own IIIF infrastructure, y
  - [Muzz.app platform](https://muzz.app)
  - [NetX](https://www.netx.net/)
  - [Omeka](https://omeka.org/s/)
+ - [Orange Logic](https://www.orangelogic.com/)
  - [ResCarta](https://rescarta.org/)
  - [ResourceSpace](https://www.resourcespace.com/knowledge-base/api/iiif)
  - [Quartex](https://www.quartexcollections.com/)
