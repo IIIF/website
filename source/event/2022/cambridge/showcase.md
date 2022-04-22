@@ -87,12 +87,12 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         <tr>
             <td>3:00pm</td>
             <td>Latest on IIIF 3D</td>
-            <td>3D TSG Chairs</td>
+            <td>Ronald Haynes, Cambridge University; Ed Silverton, Mnemoscene</td>
         </tr>
         <tr>
             <td>3:20pm</td>
             <td>Crowdsourcing with IIIF</td>
-            <td></td>
+            <td>Rossitza Atanassova, The British Library</td>
         </tr>
         <tr>
             <td>3:40pm</td>
@@ -106,13 +106,13 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>4:20pm</td>
-            <td>Implementing IIIF: the simple and complex versions</td>
-            <td>Glen Robson, IIIF Consortium</td>
+            <td>IIIF and Maps</td>
+            <td>Garrett Dash Nelson, Leventhal Map & Education Center at the Boston Public Library</td>
         </tr>
         <tr>
             <td>4:40pm</td>
-            <td>IIIF and Maps</td>
-            <td></td>
+            <td>Implementing IIIF: the simple and complex versions</td>
+            <td>Glen Robson, IIIF Consortium</td>
         </tr>
 </tbody>
 </table>
