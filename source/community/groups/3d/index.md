@@ -26,9 +26,9 @@ Please add examples and use cases at <https://github.com/IIIF/iiif-3d-stories/is
 
 **Chairs:**
 
-  * Ed Silverton ([Mnemoscene][mnemoscene])
   * Ronald Haynes ([Cambridge University][ronald])
-  * Julie Winchester ([Duke University][julie])
+  * Mike Boyd ([University of Edinburgh][mike])
+  * Scott McAvoy ([UC Riverside, OpenHeritage3D][scott])
 
 **Communication channels:**
 
@@ -57,6 +57,8 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 [mnemoscene]: https://mnemoscene.io/
 [sketchfab]: https://sketchfab.com/nebulousflynn
 [ronald]: https://www.uis.cam.ac.uk/about-us/rm/ronald-haynes
-[julie]: https://scholars.duke.edu/person/julie.winchester
+[scott]: https://orcid.org/0000-0001-7810-7025
+[mike]: https://www.research.ed.ac.uk/en/persons/mike-boyd
+
 
 {% include acronyms.md %}

@@ -7,6 +7,27 @@
 #       link: "get-started/training/online-training/"
 #     - label: Register
 #       link: https://www.eventbrite.com/e/january-iiif-online-training-5-day-course-tickets-176371781747
+
+- label: "From Data to Wisdom - IIIF Reader: Multilevel Visualization Research [community event]"
+  time:
+    start: 2022-04-20T15:30:00Z
+    end: 2022-04-20T19:00:00Z
+  links: 
+    - label: More info
+      link: "https://www.biblhertz.it/3240312/from-data-to-wisdom-iiif-reader-multilevel-visualization-research.html"
+  location:
+    label: "Online event via Zoom"
+- label: "Ontdek nieuwe IIIF-projecten op de zesde IIIF Friday (Discover new IIIF projects on the sixth IIIF Friday) [community event]"
+  time:
+    start: 2022-04-29T15:00:00Z
+    end: 2022-04-29T16:30:00Z
+  links: 
+    - label: More info
+      link: "https://vlaamsekunstcollectie.be/nieuws/iiiffriday6"
+    - label: Register
+      link: "https://www.eventbrite.be/e/iiif-friday-6-tickets-303723353727"
+  location:
+    label: "Online (Microsoft Teams)"
 - label: IIIF Annual Conference 
   time:
     start: "2022-06-06"

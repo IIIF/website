@@ -8,6 +8,15 @@
   type: community #TSG or community
   notes: https://drive.google.com/drive/folders/1S_Yz5d_IEcjcw61iWA2x2290uSJ7Lvzk #link to Google Drive folder
   meeting_frequency: Calls on the 3rd Thursday of the month #One-liner, e.g. Quarterly calls on Wednesdays
+- id: 3d-tsg # Slug in IIIF url, e.g. D4H
+  label: 3D TSG #Group name
+  alternate_names:  # name used on IIIF calendar
+    - 3D Technical Specification Group  
+  description: The IIIF 3D TSG explores the addition of 3D properties into the IIIF Presentation API specifications. 
+  link: /community/groups/3d/tsg #link to charter
+  type: tsg #TSG or community
+  notes: https://drive.google.com/drive/u/0/folders/1KZ0qU65MSomk2YIh-VF8DDn5rwkDUY9a #link to Google Drive folder
+  meeting_frequency: Calls on the 1st Tuesday of the month #One-liner, e.g. Quarterly calls on Wednesdays
 - id: archives 
   label: Archives 
   alternate_names: 
@@ -57,7 +66,7 @@
   link: /community/groups/museums 
   type: community 
   notes: https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?resourcekey=0-fsM1GLwObMrueeXyuw9kVg 
-  meeting_frequency: Monthly on the first Tuesday 
+  meeting_frequency: Monthly on the second Tuesday 
 - id: newspapers 
   label: Newspapers 
   description: The Newspapers group welcomes all interested in implementing IIIF digital newspaper repositories.

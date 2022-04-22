@@ -11,7 +11,7 @@ breadcrumbs:
 
 ## Executive Committee
 
-Steering strategic direction and budget approval, this committee meets twice annually and is composed of staff from thirteen members of the Consortium.
+Steering strategic direction and budget approval, this committee meets twice annually. Initially it was composed of staff from the first eleven founding members of the Consortium, plus two additional elected members. Starting in 2021, institutional seats on this committee are elected annually by the Consortium membership to staggered terms.
 
 Appointments are on an institutional basis, and staff at each organization may select one or more person to represent the institution at Executive Committee meetings. 
 
@@ -31,8 +31,8 @@ Current Executive Committee institutions are:
 - Wellcome Trust
 - Yale University
 
-Committee Chair: Michael Keller, Stanford University Libraries  
-Vice-chair: Rich Fagen, The J. Paul Getty Trust  
+Committee Chair: Tom Cramer, Stanford University Libraries  
+Vice-chair: Regine Stein, Göttingen State and University Library (SUB Göttingen)  
 Treasurer: Neil Fitzgerald, The British Library  
 
 --- 
@@ -52,10 +52,9 @@ This sub-group of the Executive Committee meets monthly and watches that strateg
 
 Current members:
 
-- Michael Keller, Stanford University Libraries
-- Rich Fagen, The J. Paul Getty Trust
-- Neil Fitzgerald, The British Library
-- Emmanuelle Delmas-Glass, Yale Center for British Art
-- Emmanuelle Bermes, Bibliothèque nationale de France
 - Tom Cramer, Stanford University Libraries
-
+- Regine Stein, Göttingen State and University Library (SUB Göttingen)
+- Neil Fitzgerald, The British Library
+- Roger Lawson, National Gallery of Art
+- Simeon Warner, Cornell University
+- Mike Appleby, Yale University

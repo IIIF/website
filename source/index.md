@@ -6,7 +6,7 @@ banner: true
 hero:
   image: "assets/uploads/doshisha_103500_.jpg"
   title: Gain richer access to the world's image and audio/visual files
-  subtitle: IIIF is an open standard for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs, backed by a consortium of leading academic and cultural institutions.
+  subtitle: IIIF is a set of open standards for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions.
   button:
     label: "Get started"
     link: "/get-started"
@@ -78,7 +78,7 @@ community_banner:
   subtitle: "IIIF community groups tackle a range of topics, from implementing IIIF for specific communities to crafting new technical specifications."
 top_tabs:
   - label: Featured events
-    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=4 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
   - label: Group meetings
     content: "<h3>IIIF group calls are open to all.</h3> {% include blocks/event-cards.html limit=4 type='community_call' %}{%- include misc/button.html button_label='View all' button_link='/news-and-events/#call-calendar' -%}"
   - label: Call calendar

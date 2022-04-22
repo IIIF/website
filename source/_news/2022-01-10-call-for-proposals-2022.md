@@ -5,7 +5,7 @@ date: 2022-01-10
 tags: [announcements]
 layout: post
 excerpt: >
-    Submissions are due by February 18, 2022
+    Submissions are due by 04 March 2022
 
 ---
 
@@ -14,7 +14,7 @@ excerpt: >
 
 The [2022 International Image Interoperability Framework (IIIF) Annual Conference](https://iiif.io/event/2022/cambridge/) will be held in-person in Cambridge, MA (USA) June 6-8. The conference will be co-hosted by Harvard University and the Massachusetts Institute of Technology (MIT).   
 
-**Submissions are due by February 18, 2022**
+**Submissions are due by March 4, 2022**
 
 ### Submissions
 

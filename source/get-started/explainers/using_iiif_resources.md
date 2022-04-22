@@ -127,7 +127,7 @@ The Tify viewer makes this easy by providing an export button at the top right o
 
 Like the Universal Viewer, Tify also has a demo page where you can pass a manifest in the URL:
 
-[https://demo.tify.rocks/demo.html?manifest=](https://demo.tify.rocks/demo.html?manifest=)[manifest url]
+[https://tify.rocks/](https://tify.rocks/)[manifest url]
 
 ### IIIF Curation Viewer
 This is a powerful IIIF Viewer that was developed in Japan and in addition to the general viewer functions such as page movement and zooming, it also cuts and collects parts of images from multiple items.
@@ -171,6 +171,6 @@ Below are list of links to viewers including links where you can add your own ma
  * [Mirador 2](https://projectmirador.org/) - [http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=](http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=)
  * [Mirador 3](https://mirador-dev.netlify.com/)
  * [UniversalViewer](https://universalviewer.io/examples/) - [https://universalviewer.io/uv.html?manifest=](https://universalviewer.io/uv.html?manifest=)
- * [Tify](https://demo.tify.rocks/demo.html?manifest=https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN857449303/manifest) - [https://demo.tify.rocks/demo.html?manifest=](https://demo.tify.rocks/demo.html?manifest=)
+ * [Tify](https://tify.rocks/) - [https://tify.rocks/](hhttps://tify.rocks/)
  * [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/) - [http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=)
  * [Diva.js](https://ddmal.music.mcgill.ca/diva.js/try/iiif-external.html)

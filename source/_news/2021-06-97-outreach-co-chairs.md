@@ -1,5 +1,5 @@
 ---
-title: Call for Outreach Group Co-Chairs
+title: Call for Outreach Group co-chairs
 author: Outreach Group
 date: 2021-06-07
 tags: [news, announcements]

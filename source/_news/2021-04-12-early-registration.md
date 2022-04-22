@@ -1,5 +1,5 @@
 ---
-title: Early Registration Now Open for the 2021 Annual Conference
+title: Early registration now open for the 2021 Annual Conference
 author: Meg O'Hearn, IIIF Community and Events Coordinator
 date: 2021-04-12
 tags: [news, announcements]

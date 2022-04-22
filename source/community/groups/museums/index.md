@@ -31,10 +31,11 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
   * Emmanuelle Delmas-Glass (Yale University)
   * Richard Palmer (Victoria & Albert Museum)
   * Matt Westerby (Center for Advanced Study in the Visual Arts at the National Gallery of Art)
+  * Tristan Roddis (Cogapp)
 
 **Communication channels:**
 
-  * Calls on the first Tuesday of every month at 10:00am Eastern Time - see the [IIIF Community Calendar][iiif-calendar] for details
+  * Calls on the second Tuesday of every month at 10:00am Eastern Time - see the [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
   * General discussion on the [# museums IIIF Slack channel][museums-slack] ([Join Slack][slack])
 
