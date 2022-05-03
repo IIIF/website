@@ -38,6 +38,10 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
 * Cutting-edge use cases including applications of AI/Machine Learning
 * And more!
 
+### Sponsors
+
+{% include 2022_sponsors.html %}
+
 ### Schedule
 
 #### 06 June 2022

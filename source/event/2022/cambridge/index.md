@@ -92,15 +92,7 @@ We are offering sponsorship for the 2022 IIIF conference and the benefits and co
 
 The IIIF Annual Conference is generously supported by the following Conference Sponsors:
 
-
-**Silver sponsors**  <br>
-
-<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
-<a href="https://www.performantsoftware.com" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/performant_logo_300w.png" alt='performant software logo' style="height: 160px"></a>
-
-**Bronze sponsors**  <br>
-
-<a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
+{% include 2022_sponsors.html %}
 
 ### **Questions?**
 
