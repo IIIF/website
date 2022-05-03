@@ -61,14 +61,14 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td></td>
         </tr>
         <tr>
-            <td>1:20pm</td>
-            <td>Introduction to IIIF</td>
+            <td>1:15pm</td>
+            <td>Introduction to IIIF: Technology and Community</td>
             <td>Josh Hadro, IIIF Consortium</td>
         </tr>
         <tr>
-            <td>1:40pm</td>
-            <td>Getting Involved in the IIIF Community</td>
-            <td></td>
+            <td>1:50pm</td>
+            <td>MIT Museum and IIIF Contexts</td>
+            <td>David Nuñez, MIT Museum</td>
         </tr>
                 <tr>
             <td>2:00pm</td>
