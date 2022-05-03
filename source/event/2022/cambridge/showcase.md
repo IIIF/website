@@ -35,7 +35,6 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
 * How to get started with IIIF at your institution
 * Leveraging open source software to get more out of your collection of images and video
 * The latest developments in the community including IIIF A/V and 3D
-* Cutting-edge use cases including applications of AI/Machine Learning
 * And more!
 
 ### Sponsors
@@ -128,7 +127,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
 
 ### Location
 
-The IIIF Showcase will be held on the MIT Campus, with exact room location to be published soon. 
+The IIIF Showcase will be held on the MIT Campus, in **auditorium 10-250**. 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 100%; height: 600px"></iframe>
 
