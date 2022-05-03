@@ -26,8 +26,8 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 
 * Location: Cambridge, MA, USA (See [map]({{ site.root_url | absolute_url }}/event/2022/cambridge/#locations) below for venue locations and more)
-    * IIIF Showcase: MIT campus (June 6, 2022)
-    * Conference: Harvard campus (June 7-8, 2022)
+    * IIIF Showcase: Building 10 Room 250, MIT campus (June 6, 2022)
+    * Conference: Boylston Hall 110-Fong Auditorium, Harvard campus (June 7-8, 2022)
 * Registration for the IIIF showcase is free.
 * Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
 * Language: All event proceedings will be in English unless otherwise noted.
@@ -92,15 +92,7 @@ We are offering sponsorship for the 2022 IIIF conference and the benefits and co
 
 The IIIF Annual Conference is generously supported by the following Conference Sponsors:
 
-
-**Silver sponsors**  <br>
-
-<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
-<a href="https://www.performantsoftware.com" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/performant_logo_300w.png" alt='performant software logo' style="height: 160px"></a>
-
-**Bronze sponsors**  <br>
-
-<a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
+{% include 2022_sponsors.html %}
 
 ### **Questions?**
 
@@ -152,6 +144,9 @@ The final program will continue to develop over the next few months but please s
 </table>    --> 
 
 ### Locations
+
+* June 6, IIIF Showcase: Building 10 Room 250, MIT campus
+* June 7-8, Main Conference: Boylston Hall 110-Fong Auditorium, Harvard campus 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 100%; height: 600px"></iframe>
 
