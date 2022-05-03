@@ -679,7 +679,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-</div>
+
 
 
 
