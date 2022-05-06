@@ -32,14 +32,14 @@ The IIIF Community Newsletter (the document you are reading right now) is publis
 
 ### IIIF Presence at MW2019 in Boston (April 2-6)
 *Wednesday, April 03, 9:00am - 12:00pm*
-IIIF hands-on workshop, by [Tristan Roddis][roddis], Cogapp, UK, [Jeff Steward][jeff], Harvard Art Museums, USA. <https://mw19.mwconf.org/proposal/hands-on-iiif/>
-* Registration: <https://mw19.mwconf.org/registration/>
+IIIF hands-on workshop, by [Tristan Roddis][roddis], Cogapp, UK, [Jeff Steward][jeff], Harvard Art Museums, USA. https://mw19.mwconf.org/proposal/hands-on-iiif/
+* Registration: https://mw19.mwconf.org/registration/
 
 *Thursday, April 04, 2019: 12:45pm - 1:45pm*
-IIIF Meetup with [Rob Lancefield][rob], Davison Art Center, Wesleyan University, USA. <https://mw19.mwconf.org/session/iif/>
+IIIF Meetup with [Rob Lancefield][rob], Davison Art Center, Wesleyan University, USA. https://mw19.mwconf.org/session/iif/
 
 *Friday, April 05 11:00am - 12:30pm*
-3 Things About IIIF That Will Rock Your World, lightning talk by [Deborah Howes][howes], Johns Hopkins University, USA. <https://mw19.mwconf.org/proposal/3-things-about-iiif-that-will-rock-your-world/>
+3 Things About IIIF That Will Rock Your World, lightning talk by [Deborah Howes][howes], Johns Hopkins University, USA. https://mw19.mwconf.org/proposal/3-things-about-iiif-that-will-rock-your-world/
 
 ### Bern IIIF Showcase Event
 The [full programme of the Bern IIIF Showcase Event][bern-iiif], which will take place on May 15 at the Swiss National Library, is now available. Swiss and international speakers will make presentations in a day that will be divided into four sessions in the context of the [TICKS][ticks-rg] project carried out at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève. [Registration][bern-register] is open until April 26.
