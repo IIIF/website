@@ -80,8 +80,8 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
                 <tr>
             <td>2:20pm</td>
-            <td>IIIF A/V use cases</td>
-            <td></td>
+            <td>IIIF A/V use cases: The AudiAnnotate Project</td>
+            <td>Tanya E. Clement, University of Texas at Austin</td>
         </tr>
                 <tr>
             <td>2:40pm</td>
