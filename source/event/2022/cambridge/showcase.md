@@ -75,8 +75,8 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
                 <tr>
             <td>2:00pm</td>
-            <td>IIIF in the Slavery, Abolition, Emancipation, and Freedom: Primary Sources from Houghton Library (SAEF) Project</td>
-            <td>Dorothy Berry, Houghton Library</td>
+            <td>IIIF in Teaching and Learning</td>
+            <td>Academic Technology, Harvard University</td>
         </tr>
                 <tr>
             <td>2:20pm</td>
@@ -99,21 +99,16 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>3:40pm</td>
-            <td>Teaching and Learning with IIIF</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>4:00pm</td>
             <td>IIIF and Museums</td>
             <td>Emmanuelle Delmas-Glass, Yale Center for British Art</td>
         </tr>
         <tr>
-            <td>4:20pm</td>
+            <td>4:00pm</td>
             <td>IIIF and Maps</td>
             <td>Garrett Dash Nelson, Leventhal Map & Education Center at the Boston Public Library</td>
         </tr>
         <tr>
-            <td>4:40pm</td>
+            <td>4:20pm</td>
             <td>Implementing IIIF: the simple and complex versions</td>
             <td>Glen Robson, IIIF Consortium</td>
         </tr>
