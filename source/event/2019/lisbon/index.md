@@ -13,7 +13,7 @@ Attendees will learn about the purpose and benefits of IIIF for web-based image 
 ## Details
 
 * Date: 27th November 2019
-* Registration: [Pre-conference Workshops Eventbrite][eventbrite]
+* Registration: Pre-conference Workshops Eventbrite
 * Location: National Library of Portugal
 * Cost: Free but please register above to ensure you have a space. 
 
