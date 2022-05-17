@@ -7,15 +7,15 @@
 #       link: "get-started/training/online-training/"
 #     - label: Register
 #       link: https://www.eventbrite.com/e/january-iiif-online-training-5-day-course-tickets-176371781747
-- label: "IIIF4Rresearch workshop - University of Durham"
-  time:
-    start: 2022-05-09T16:00:00Z
-    end: 2022-05-09T18:00:00Z
-  links: 
-    - label: More info
-      link: "https://iiif4research.gla.ac.uk/index.php/workshops/workshop-4/"
-  location:
-    label: "Online event via Zoom"
+# - label: "IIIF4Rresearch workshop - University of Durham"
+#   time:
+#     start: 2022-05-09T16:00:00Z
+#     end: 2022-05-09T18:00:00Z
+#   links: 
+#     - label: More info
+#       link: "https://iiif4research.gla.ac.uk/index.php/workshops/workshop-4/"
+#   location:
+#     label: "Online event via Zoom"
 - label: IIIF Annual Conference 
   time:
     start: "2022-06-06"
