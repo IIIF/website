@@ -18,13 +18,13 @@ breadcrumbs:
 
 The outline schedules of the [showcase][showcase] and conference are available below, with specific conference presentations and abstracts listed further down. The exact timing of each day’s schedule is still subject to change.
 
-### **Register**
+<!-- ### **Register**
 
 * Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index).
 
 
 * Registration for the IIIF showcase is free.
-* Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
+* Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket. -->
 
 ### **Sponsors**
 

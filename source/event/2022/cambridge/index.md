@@ -34,11 +34,11 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 * Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. Attendees must show proof of vaccination. Receptions will be held at outdoor locations for increased safety. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
 
-### **Register**
+<!-- ### **Register**
 
 
 
-* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index).
+* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index). -->
 
 <!-- ### Travel Scholarship
 
