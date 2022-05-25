@@ -59,16 +59,15 @@ See the [showcase][showcase] page for the detailed schedule of speakers.
 
 The IIIF conference is open to advanced registrants.
 
-
-
 * 8am-9am: Check-in
-* 9am-12pm: [Opening plenary and sessions](#session1)
+* 9am-10:30am: [Opening plenary and sessions](#session1)
+* 10:30am - 11:00am: Break
+* 11:00am - 12:00pm [Sessions continue](#session1)
 * 12pm-1:30pm: Lunch
 * 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session2)
 * 3:30pm - 4pm: Break
-* 4pm-6:00pm: [Sessions (see presentations listed below)](#session3)
-* 7pm-9pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
-
+* 4pm-5:30pm: [Sessions (see presentations listed below)](#session3)
+* 6pm-8pm: General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)
 
 ## June 8
 
@@ -76,9 +75,9 @@ The IIIF conference is open to advanced registrants.
 
 The IIIF conference is open to advanced registrants.
 
-
-
-* 9am-12pm: [Sessions (see presentations listed below)](#session4)
+* 9am-10:30am: [Sessions (see presentations listed below)](#session4)
+* 10:30am - 11:00am: Break
+* 11:00am - 12:00pm: [Sessions continue](#session4)
 * 12pm-1:30pm: Lunch
 * 1:30pm-3:30pm: [Sessions (see presentations listed below)](#session5)
 * 3:30pm - 5:00pm: Tour of the Leventhal Map and Education Center, Boston Public Library (limited to 30 attendees.)
@@ -151,7 +150,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID140'></a><div id='paperID140'>
-<div class="paper"><span class="paper_time_value">10:30am - 11:00am</span><br /><p class="paper_title">An update on building an open-source IIIF stack and integrating Mirador 3 at Harvard</p>
+<div class="paper"><span class="paper_time_value">11:00am - 11:30am</span><br /><p class="paper_title">An update on building an open-source IIIF stack and integrating Mirador 3 at Harvard</p>
 <p class="paper_author"> <u>Chip Goines</u>, <u>Katie Amaral</u>, <u>Doug Simon</u>, <u>Phil Plencner</u></p>
 
 <p class="paper_organisation">Harvard University, Cambridge, MA, United States of America</p>
@@ -166,7 +165,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID111'></a><div id='paperID111'>
-<div class="paper"><span class="paper_time_value">11:00am - 11:30am</span><br /><p class="paper_title">A New Manifest Editor (and more)</p>
+<div class="paper"><span class="paper_time_value">11:30am - 12:00pm</span><br /><p class="paper_title">A New Manifest Editor (and more)</p>
 <p class="paper_author"> <u>Tom Crane</u>, <u>Stephen Fraser</u></p>
 
 <p class="paper_organisation">Digirati, United Kingdom</p>
@@ -198,22 +197,6 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID126'></a><div id='paperID126'>
-<div class="paper"><span class="paper_time_value">11:30am - 12:00pm</span><br /><p class="paper_title">Using IIIF to teach Digital Humanities: advancing digital literacy in higher education</p>
-<p class="paper_author"> Davy Verbeke<sup>1,2</sup>, <u>Lise Foket</u><sup>1,2</sup>, Eef Rombaut<sup>2,3</sup>, Frederic Lamsens<sup>1</sup>, Christophe Verbruggen<sup>1,2</sup></p>
-
-<p class="paper_organisation"><sup>1</sup>Ghent Centre for Digital Humanities (Ghent University), Belgium; <sup>2</sup>Faculty of Arts and Philosophy (Ghent University), Belgium; <sup>3</sup>Antwerp School of Education (University of Antwerp)</p>
-
-<div ><div class="paper">
-
-<p class="paper_abstract">The benefits of IIIF for Digital Humanities (DH) scholarship are well known: accessibility to images, metadata and annotation possibilities, and ample visual display options. However, whilst the cultural heritage sector and DH research centers have broadly adopted IIIF, its integration into teaching practices has remained rather limited. At the same time, DH scholars are calling for more extensive adoption of their field within Humanities scholarship. Teaching DH requires a hybrid approach covering various digital tools to assist research, educational, and science communication purposes, which is often accompanied by underscoring the usefulness, openness, diversity, and collaboration-possibilities of the tools in question (Batterhill &amp; Ross, 2017). Rather than learn a fixed set of computational hard skills, students need to contextualize digital technologies, adopt a tool-critical attitude and apply them to a domain-specific context (Armaselu, 2021; Kuhn, 2019).</p>
-<p class="paper_abstract">IIIF is therefore a common denominator in Ghent Centre For Digital Humanities’ educational innovation project to structurally embed DH and sustainably enhance digital competences within the Faculty of Arts and Philosophy, including teacher education. Not only does IIIF’s flexibility and compliance with various DH applications greatly assist a provisioned hybrid approach of teaching, but the open image-standard also ‘stitches together technology’ for DH overall (Emanuel, 2018). This presentation, which is based on various classroom-case studies, focus group discussions, and questionnaires, explores how IIIF helped foster a shared faculty-wide framework for basic and advanced digital competences of students, (prospective) teachers, and faculty staff. Ranging from teacher education to art history and Lingala language, diverse courses found common ground in IIIF and compatible tools, such as Madoc, Omeka S, Storiiies and Exhibit.so. Blended learning modules that combined workshops, video tutorials, manuals, best practices, and literature provided assistance during the courses. This presentation discusses how IIIF allowed teachers and students to relate DH to their domain-specific knowledge, and how this resulted in a more widespread integration of both IIIF and DH across Ghent University.</p>
-<p class="paper_abstract"></p>
-
-</div>
-</div>
-</div>
-</div>
 </div></div>
 </div>
 
@@ -222,23 +205,25 @@ The IIIF conference is open to advanced registrants.
 <h3>Tuesday, 07/June/2022: 1:30pm - 3:30pm</h3>
 </div>
 <div class='topline_gray' style='padding:3px;'>
-<a name='paperID150'></a><div id='paperID150'>
-<div class="paper"><span class="paper_time_value">1:30pm - 2:00pm</span><br /><p class="paper_title">IIIF V3 Manifests with Annotations in Archipelago</p>
-<p class="paper_author"> <u>Diego Alberto Pino Navarro</u>, <u>Allison Kelly Lund</u></p>
+<a name='paperID126'></a><div id='paperID126'>
+<div class="paper"><span class="paper_time_value">01:30pm - 2:00pm</span><br /><p class="paper_title">Using IIIF to teach Digital Humanities: advancing digital literacy in higher education</p>
+<p class="paper_author"> Davy Verbeke<sup>1,2</sup>, <u>Lise Foket</u><sup>1,2</sup>, Eef Rombaut<sup>2,3</sup>, Frederic Lamsens<sup>1</sup>, Christophe Verbruggen<sup>1,2</sup></p>
 
-<p class="paper_organisation">Metropolitan New York Library Council, United States of America</p>
+<p class="paper_organisation"><sup>1</sup>Ghent Centre for Digital Humanities (Ghent University), Belgium; <sup>2</sup>Faculty of Arts and Philosophy (Ghent University), Belgium; <sup>3</sup>Antwerp School of Education (University of Antwerp)</p>
 
-<div ><div class="paper">
+<div>
+    <div class="paper">
 
-<p class="paper_abstract">Archipelago is an open source repository system developed and supported by the Metropolitan New York Library Council (METRO). Archipelago leverages Drupal’s core content management and custom Archipelago components, the Strawberryfield modules, to form a flexible and extensible digital repository system. All data, including metadata, for digital objects and collections is stored in JSON, and can be cast into different metadata schemas and displays depending on institutional and community needs. IIIF APIs and IIIF compliant viewer customizations, including IIIF tile source and W3C Web Annotations, are woven into Archipelago’s architecture and functionality.</p>
-<p class="paper_abstract">During this presentation, participants will learn about Archipelago’s IIIF Media Formatter and how collaborative W3C Web Annotations work. This work is based on Open SeaDragon and Annotorious plus a custom REST API. Participants will be walked through an explanation of how the Media Formatter references Images from a Digital Object’s JSON Strawberryfield, using IIIF to request and precompute correct media and sizes to expose to Open SeaDragon. Presenters will explain how the integration of Rainer Simon’s Annotorious enables the direct creation and modification of WebAnnotations in Archipelago. Participants will then see a live demonstration of Annotations being added to a Digital Object, and review how these Annotations are being stored and rendered on the fly on the corresponding IIIF Manifest, displayed in Viewers, and also exposed as machinable endpoints. Participants will be invited to interact with the same freely-accessible Archipelago instance and resources on their own following the presentation.</p>
-<p class="paper_abstract">In harmony with IIIF’s goals and guiding principles, Archipelago&#39;s primary focus is to serve greater repositories, libraries, archives, museums, and cultural heritage communities by providing an adaptable, consistent, and unified way of describing, storing, linking, and exposing metadata and media assets. This presentation is for all practitioners (including metadata librarians/professionals, repository managers, and data producers) involved with metadata modeling, creation, and management in repository environments, with a focus on learning and working with IIIF manifests and Annotations.</p>
-<p class="paper_abstract"></p>
+    <p class="paper_abstract">The benefits of IIIF for Digital Humanities (DH) scholarship are well known: accessibility to images, metadata and annotation possibilities, and ample visual display options. However, whilst the cultural heritage sector and DH research centers have broadly adopted IIIF, its integration into teaching practices has remained rather limited. At the same time, DH scholars are calling for more extensive adoption of their field within Humanities scholarship. Teaching DH requires a hybrid approach covering various digital tools to assist research, educational, and science communication purposes, which is often accompanied by underscoring the usefulness, openness, diversity, and collaboration-possibilities of the tools in question (Batterhill &amp; Ross, 2017). Rather than learn a fixed set of computational hard skills, students need to contextualize digital technologies, adopt a tool-critical attitude and apply them to a domain-specific context (Armaselu, 2021; Kuhn, 2019).</p>
+    <p class="paper_abstract">IIIF is therefore a common denominator in Ghent Centre For Digital Humanities’ educational innovation project to structurally embed DH and sustainably enhance digital competences within the Faculty of Arts and Philosophy, including teacher education. Not only does IIIF’s flexibility and compliance with various DH applications greatly assist a provisioned hybrid approach of teaching, but the open image-standard also ‘stitches together technology’ for DH overall (Emanuel, 2018). This presentation, which is based on various classroom-case studies, focus group discussions, and questionnaires, explores how IIIF helped foster a shared faculty-wide framework for basic and advanced digital competences of students, (prospective) teachers, and faculty staff. Ranging from teacher education to art history and Lingala language, diverse courses found common ground in IIIF and compatible tools, such as Madoc, Omeka S, Storiiies and Exhibit.so. Blended learning modules that combined workshops, video tutorials, manuals, best practices, and literature provided assistance during the courses. This presentation discusses how IIIF allowed teachers and students to relate DH to their domain-specific knowledge, and how this resulted in a more widespread integration of both IIIF and DH across Ghent University.</p>
+    <p class="paper_abstract"></p>
 
+    </div>
 </div>
 </div>
 </div>
-</div>
+
+
 <hr noshade width="100%" class="float_left"><br /><a name='paperID122'></a><div id='paperID122'>
 <div class="paper"><span class="paper_time_value">2:00pm - 2:30pm</span><br /><p class="paper_title">From text to image: linking TEI-XML and IIIF via expert sourced annotations and IIIF Change Discovery</p>
 <p class="paper_author"> <u>Matthew McGrattan</u></p>
@@ -261,23 +246,8 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID124'></a><div id='paperID124'>
-<div class="paper"><span class="paper_time_value">2:30pm - 3:00pm</span><br /><p class="paper_title">Etu - An open source image centric IIIF universal adaptor</p>
-<p class="paper_author"> <u>Jie Song</u></p>
-
-<p class="paper_organisation">IntelliJourney, China, People&#39;s Republic of</p>
-
-<div ><div class="paper">
-
-<p class="paper_abstract">Considering the spectrum of IIIF user privacy preference, there are two ends that are not adequately served with current IIIF open source software community. One are those who are extremely sensitive about the image content, thus, prefer to leave everything in his/her hard disc. Another are those who care nothing about the content and wish those images could be spread as wide as possible and preserved as long as possible. Etu managed to take care of these two extremes and developed a unique image centric way to enable IIIF from hard disc images with only a couple of command lines. Our goal is to preserve the legacy image organization as much as possible and shield the end user with the complex details as setting up image server, presentation server and so on. The software is the result of collaboration work of IIIF China community members and we are glad to share it with the global community and help the adaption of IIIF in the wider spectrum regardless of user privacy preference.</p>
-<p class="paper_abstract"></p>
-
-</div>
-</div>
-</div>
-</div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID121'></a><div id='paperID121'>
-<div class="paper"><span class="paper_time_value">3:00pm - 3:30pm</span><br /><p class="paper_title">USE ME: progressive integration of IIIF with new software services at the Getty</p>
+<div class="paper"><span class="paper_time_value">2:30pm - 3:00pm</span><br /><p class="paper_title">USE ME: progressive integration of IIIF with new software services at the Getty</p>
 <p class="paper_author"> <u>Stefano Cossu</u>, <u>David Newbury</u></p>
 
 <p class="paper_organisation">J. P. Getty Trust, United States of America</p>
@@ -292,18 +262,8 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-
-
-</div>
-
-<div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
-<a id='session3' name='session3'></a><h3>Block 3</h3>
-<h3>Tuesday, 07/June/2022: 3:30pm - 6:00pm</h3>
-</div>
-<div class='topline_gray' style='padding:3px;'>
-
-<a name='paperID130'></a><div id='paperID130'>
-<div class="paper"><span class="paper_time_value">4:00pm - 4:30pm</span><br /><p class="paper_title">Exhibit: easy-to-use tools for promoting engagement and learning with your online digital collections.</p>
+<hr noshade width="100%" class="float_left"><br /><a name='paperID130'></a><div id='paperID130'>
+<div class="paper"><span class="paper_time_value">3:00pm - 3:30pm</span><br /><p class="paper_title">Exhibit: easy-to-use tools for promoting engagement and learning with your online digital collections.</p>
 <p class="paper_author"> <u>Edward Silverton</u></p>
 
 <p class="paper_organisation">Mnemoscene, United Kingdom</p>
@@ -320,8 +280,19 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID114'></a><div id='paperID114'>
-<div class="paper"><span class="paper_time_value">4:30pm - 5:00pm</span><br /><p class="paper_title">Using IIIF Images in Visual Essays</p>
+
+
+
+</div>
+
+<div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
+<a id='session3' name='session3'></a><h3>Block 3</h3>
+<h3>Tuesday, 07/June/2022: 3:30pm - 6:00pm</h3>
+</div>
+<div class='topline_gray' style='padding:3px;'>
+
+<a name='paperID114'></a><div id='paperID114'>
+<div class="paper"><span class="paper_time_value">4:00pm - 4:30pm</span><br /><p class="paper_title">Using IIIF Images in Visual Essays</p>
 <p class="paper_author"> <u>Ron Snyder</u></p>
 
 <p class="paper_organisation">ITHAKA, United States of America</p>
@@ -341,7 +312,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID155'></a><div id='paperID155'>
-<div class="paper"><span class="paper_time_value">5:00pm - 5:30pm</span><br /><p class="paper_title">From Manuscript to Transcription and Back Again: Closing the Virtuous Circle with Houghton MS Lat. 5</p>
+<div class="paper"><span class="paper_time_value">4:30pm - 5:00pm</span><br /><p class="paper_title">From Manuscript to Transcription and Back Again: Closing the Virtuous Circle with Houghton MS Lat. 5</p>
 <p class="paper_author"> <u>Laura Morreale</u><sup>1</sup>, <u>Sean Gilsdorf</u><sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>Multiple Affiliations; <sup>2</sup>Harvard University</p>
@@ -358,7 +329,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID113'></a><div id='paperID113'>
-<div class="paper"><span class="paper_time_value">5:30pm - 6:00pm</span><br /><p class="paper_title">Creating a Scholar’s Manifest: incorporating user-contributed annotations and metadata</p>
+<div class="paper"><span class="paper_time_value">5:00pm - 5:30pm</span><br /><p class="paper_title">Creating a Scholar’s Manifest: incorporating user-contributed annotations and metadata</p>
 <p class="paper_author"> <u>Debra Cashion</u><sup>1</sup>, <u>Ben Bakelaar</u><sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>St. Louis University, United States of America; <sup>2</sup>Human Experience Systems</p>
@@ -470,7 +441,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID129'></a><div id='paperID129'>
-<div class="paper"><span class="paper_time_value">10:21am - 10:28am</span><br /><p class="paper_title">pdiiif: PDF as an offline IIIF Viewer</p>
+<div class="paper"><span class="paper_time_value">10:21am - 10:28am</span><br /><p class="paper_title">TBC - pdiiif: PDF as an offline IIIF Viewer</p>
 <p class="paper_author"> <u>Johannes Baiter</u></p>
 
 <p class="paper_organisation">Bavarian State Library</p>
@@ -485,7 +456,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID112'></a><div id='paperID112'>
-<div class="paper"><span class="paper_time_value">10:28am - 10:35am</span><br /><p class="paper_title">Designing a proof-of-concept for the implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)</p>
+<div class="paper"><span class="paper_time_value">11:00am - 11:07am</span><br /><p class="paper_title">Designing a proof-of-concept for the implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)</p>
 <p class="paper_author"> <u>Julien Antoine Raemy</u></p>
 
 <p class="paper_organisation">University of Basel / DaSCH, Switzerland</p>
@@ -502,7 +473,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID153'></a><div id='paperID153'>
-<div class="paper"><span class="paper_time_value">10:35am - 10:42am</span><br /><p class="paper_title">IIIF - Could it be time to swap the Image for Information?</p>
+<div class="paper"><span class="paper_time_value">11:07am - 11:14am</span><br /><p class="paper_title">IIIF - Could it be time to swap the Image for Information?</p>
 <p class="paper_author"> <u>Joseph Padfield</u></p>
 
 <p class="paper_organisation">The National Gallery, United Kingdom</p>
@@ -517,7 +488,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID128'></a><div id='paperID128'>
-<div class="paper"><span class="paper_time_value">10:42am - 10:49am</span><br /><p class="paper_title">Bringing IIIF to the DSpace community</p>
+<div class="paper"><span class="paper_time_value">11:14am - 11:21am</span><br /><p class="paper_title">Bringing IIIF to the DSpace community</p>
 <p class="paper_author"> <u>Michael Spalti</u><sup>1</sup>, Andrea Bollini<sup>2</sup>, Claudio Cortese<sup>2</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>Willamette University, United States of America; <sup>2</sup>4Science, Italy</p>
@@ -534,7 +505,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID118'></a><div id='paperID118'>
-<div class="paper"><span class="paper_time_value">10:49am - 10:56am</span><br /><p class="paper_title">Transcribing Primary Sources using FairCopy and IIIF</p>
+<div class="paper"><span class="paper_time_value">11:21am - 11:28am</span><br /><p class="paper_title">Transcribing Primary Sources using FairCopy and IIIF</p>
 <p class="paper_author"> <u>Nick Laiacona</u></p>
 
 <p class="paper_organisation">Performant Software Solutions LLC, United States of America</p>
@@ -549,7 +520,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID143'></a><div id='paperID143'>
-<div class="paper"><span class="paper_time_value">10:56am - 11:03am</span><br /><p class="paper_title">An improvement for Video annotation on Mirador</p>
+<div class="paper"><span class="paper_time_value">11:28am - 11:35am</span><br /><p class="paper_title">An improvement for Video annotation on Mirador</p>
 <p class="paper_author"> <u>Kiyonori Nagasaki</u><sup>1</sup>, Jun Homma<sup>2</sup>, Ikki Ohmukai<sup>1</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>The University of Tokyo, Japan; <sup>2</sup>FLX Style</p>
@@ -564,7 +535,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID132'></a><div id='paperID132'>
-<div class="paper"><span class="paper_time_value">11:03am - 11:10am</span><br /><p class="paper_title">Enriched Art with IIIF: Improving searchability of art collections through machine learning</p>
+<div class="paper"><span class="paper_time_value">11:35am - 11:42am</span><br /><p class="paper_title">Enriched Art with IIIF: Improving searchability of art collections through machine learning</p>
 <p class="paper_author"> <u>Alec Van den broeck</u><sup>1,2,3,4</sup>, Steven Verstockt<sup>1,4</sup>, Christophe Verbruggen<sup>1,3</sup>, Pascal Ennaert<sup>2</sup>, Julie Birkholz<sup>1,3</sup></p>
 
 <p class="paper_organisation"><sup>1</sup>University Ghent; <sup>2</sup>Flemish Art Collection; <sup>3</sup>Ghent Centre for Digital Humanities; <sup>4</sup>Imec IDLab</p>
@@ -579,8 +550,39 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
+<hr noshade width="100%" class="float_left"><br /><a name='paperID138'></a><div id='paperID138'>
+<div class="paper"><span class="paper_time_value">11:42am - 11:49am</span><br /><p class="paper_title">Chronophage: Leveraging IIIF standards to build the CoKL Database</p>
+<p class="paper_author"> <u>Aaron David Macks</u></p>
+
+<p class="paper_organisation">Harvard Business Publishing, United States of America</p>
+
+<div ><div class="paper">
+
+<p class="paper_abstract">The Corpus Kalendarium Database, or CoKL DB*, is a relational database of the devotional calendars from Books of Hours. As of February 2022, it contains 376 transcribed calendars and metadata about a further 267 manuscripts, yielding 137,605 calendar entries in total. The project is built from, and only possible with, the large scale manuscript digitization work at repositories worldwide, and the IIIF standard of presenting those digital facsimiles. Although not all of the digital manuscripts added come from IIIF-enabled collections, the standard enables easier discovery and the transcription of those manuscripts. This will be a case study of a big data digital humanities project only possible due to the the wide scale use of the IIIF manifest standard by libraries, museums, and other manuscript holding institutions.</p>
+<p class="paper_abstract">* http://www.cokldb.org/</p>
+<p class="paper_abstract"></p>
+
+</div>
+</div>
+</div>
+</div>
+<hr noshade width="100%" class="float_left"><br /><a name='paperID139'></a><div id='paperID139'>
+<div class="paper"><span class="paper_time_value">11:49am - 11:56am</span><br /><p class="paper_title">DetektIIIF, a IIIF browser extension</p>
+<p class="paper_author"> <u>Leander Seige</u></p>
+
+<p class="paper_organisation">seige.digital GbR, Germany</p>
+
+<div ><div class="paper">
+
+<p class="paper_abstract">More and more museums, libraries, galleries, and archives support IIIF and enable scholars and culture enthusiasts to work with data from heterogeneous sources. But, how IIIF content is displayed on web pages, how links to manifests and collections are presented, still varies from institution to institution. Furthermore, copying URLs to JSON files is not a familiar way of working for many users. The detektIIIF browser extension attempts to provide users with consistent, convenient access to IIIF resources on websites. DetektIIIF tries to automatically detect IIIF resources and displays them in an orderly manner. The extension also examines some quality features of IIIF implementations and displays the details. At first, only a prototype version of detektIIIF for Chrome existed for a few years. On the initiative of the Zentralbibliothek Zürich, seige.digital GbR developed a more advanced version of detektIIIF with improved features, compatibility with Firefox and Chrome, and an interface that can be customized through themes for institutional use. DetektIIIF is open source software. This lightning talk demonstrates the functionality and the architecture of the extension, invites to use detektIIIF and to participate in its further development.</p>
+<p class="paper_abstract"></p>
+
+</div>
+</div>
+</div>
+</div>
 <hr noshade width="100%" class="float_left"><br /><a name='paperID123'></a><div id='paperID123'>
-<div class="paper"><span class="paper_time_value">11:10am - 11:17am</span><br /><p class="paper_title">Fun With IIIF</p>
+<div class="paper"><span class="paper_time_value">11:56am - 12:03pm</span><br /><p class="paper_title">Fun With IIIF</p>
 <p class="paper_author"> <u>Tristan Roddis</u></p>
 
 <p class="paper_organisation">Cogapp, United Kingdom</p>
@@ -598,37 +600,7 @@ The IIIF conference is open to advanced registrants.
 </div>
 </div>
 </div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID138'></a><div id='paperID138'>
-<div class="paper"><span class="paper_time_value">11:17am - 11:24am</span><br /><p class="paper_title">Chronophage: Leveraging IIIF standards to build the CoKL Database</p>
-<p class="paper_author"> <u>Aaron David Macks</u></p>
 
-<p class="paper_organisation">Harvard Business Publishing, United States of America</p>
-
-<div ><div class="paper">
-
-<p class="paper_abstract">The Corpus Kalendarium Database, or CoKL DB*, is a relational database of the devotional calendars from Books of Hours. As of February 2022, it contains 376 transcribed calendars and metadata about a further 267 manuscripts, yielding 137,605 calendar entries in total. The project is built from, and only possible with, the large scale manuscript digitization work at repositories worldwide, and the IIIF standard of presenting those digital facsimiles. Although not all of the digital manuscripts added come from IIIF-enabled collections, the standard enables easier discovery and the transcription of those manuscripts. This will be a case study of a big data digital humanities project only possible due to the the wide scale use of the IIIF manifest standard by libraries, museums, and other manuscript holding institutions.</p>
-<p class="paper_abstract">* http://www.cokldb.org/</p>
-<p class="paper_abstract"></p>
-
-</div>
-</div>
-</div>
-</div>
-<hr noshade width="100%" class="float_left"><br /><a name='paperID139'></a><div id='paperID139'>
-<div class="paper"><span class="paper_time_value">11:24am - 11:31am</span><br /><p class="paper_title">DetektIIIF, a IIIF browser extension</p>
-<p class="paper_author"> <u>Leander Seige</u></p>
-
-<p class="paper_organisation">seige.digital GbR, Germany</p>
-
-<div ><div class="paper">
-
-<p class="paper_abstract">More and more museums, libraries, galleries, and archives support IIIF and enable scholars and culture enthusiasts to work with data from heterogeneous sources. But, how IIIF content is displayed on web pages, how links to manifests and collections are presented, still varies from institution to institution. Furthermore, copying URLs to JSON files is not a familiar way of working for many users. The detektIIIF browser extension attempts to provide users with consistent, convenient access to IIIF resources on websites. DetektIIIF tries to automatically detect IIIF resources and displays them in an orderly manner. The extension also examines some quality features of IIIF implementations and displays the details. At first, only a prototype version of detektIIIF for Chrome existed for a few years. On the initiative of the Zentralbibliothek Zürich, seige.digital GbR developed a more advanced version of detektIIIF with improved features, compatibility with Firefox and Chrome, and an interface that can be customized through themes for institutional use. DetektIIIF is open source software. This lightning talk demonstrates the functionality and the architecture of the extension, invites to use detektIIIF and to participate in its further development.</p>
-<p class="paper_abstract"></p>
-
-</div>
-</div>
-</div>
-</div>
 </div>
 <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 <a id='session5' name='session5'></a><h3>Block 5</h3>
