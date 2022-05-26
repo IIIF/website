@@ -1,0 +1,13 @@
+{% assign block_sessions = site.data.conference_2022[include.block].sessions %}
+{% for presentation in block_sessions %}
+    <tr>
+        {% assign start = presentation.start | string %}
+        <td>{{start}} - {{presentation.end}}</td>
+        <td><a href="#{{presentation.id}}">{{presentation.title}}</a></td>
+        <td>
+            {% for author in presentation.authors %}
+                {{author.name}}{% if forloop.last == false %},{% endif %}
+            {% endfor %}
+        </td>
+    </tr>
+{% endfor %}
