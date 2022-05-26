@@ -73,6 +73,9 @@
   iiifc: 1
   logo: assets/uploads/logos/Cornell_University_seal.svg
   original: true 
+- name: DB Ecosensystem
+  uri: 
+  iiifc: 4
 - name: DB Seret
   uri: http://www.dbseret.com/
   iiifc: 4
@@ -238,7 +241,6 @@
   uri: https://www.kb.nl/
   iiifc: 4
   logo: assets/uploads/logos/KB_Nationale-Bibliotheek_Logo_RGB.svg
-  new: true 
 - name: National Library of Poland
   uri: http://bn.org.pl
   iiifc: 2
@@ -262,6 +264,11 @@
   uri: https://www.lib.ncsu.edu/
   iiifc: 2
   logo: assets/uploads/logos/nc_state_logo.jpg
+- name: Northwestern University Libraries
+  uri: https://www.library.northwestern.edu/
+  iiifc: 3
+  logo: assets/uploads/logos/northwestern.jpg
+  new: true
 - name: OCLC
   uri: http://www.oclc.org/
   iiifc: 2
@@ -335,6 +342,9 @@
 - name: University of Alberta Libraries
   uri: https://www.library.ualberta.ca
   iiifc:
+- name: University of British Columbia Libraries
+  uri: https://www.library.ubc.ca/
+  iiifc: 4
 - name: Data & Service Center for the Humanities (DaSCH), University of Basel
   uri: https://dasch.swiss/ 
   iiifc: 2
