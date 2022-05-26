@@ -142,7 +142,7 @@ The IIIF conference is open to advanced registrants.
             {% assign blockNo = block[1].id %}
 
             <a id='session{{ blockNo }}' name='session{{ blockNo }}'></a><h3>Block {{ blockNo }}</h3>
-            <h3>{{ block[1].date }}, {{block[1].start}} - {{ block[1].end }}</h3>
+            <h3>{{ block[1].session_time }}</h3>
         </div>
 
         {% for session in block[1].sessions %}

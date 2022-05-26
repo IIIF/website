@@ -4,6 +4,7 @@
   end: '10:30'
   id: 1
   name: Block 1 - Morning before break
+  session_time: 'Tuesday, June 07: 09:00am - 10:30am'
   sessions:
   - abstract: Josh Hadro, Managing Director of the IIIF Consortium, welcomes attendees
       to the event in partnership with Harvard University and MIT.
@@ -57,6 +58,7 @@
   end: '12:00'
   id: 2
   name: Bock 2 - Morning after break
+  session_time: 'Tuesday, June 07: 11:00am - 12:00pm'
   sessions:
   - abstract: 'In 2020, Harvard University embarked on building an open source, institutional-level
       IIIF stack for its library and other departments. This was a momentous task,
@@ -125,6 +127,7 @@
   end: '15:30'
   id: 3
   name: Block 3 - afternoon before break
+  session_time: 'Tuesday, June 07: 01:30pm - 03:30pm'
   sessions:
   - abstract: "The benefits of IIIF for Digital Humanities (DH) scholarship are well\
       \ known: accessibility to images, metadata and annotation possibilities, and\
@@ -273,6 +276,7 @@
   end: '17:30'
   id: 4
   name: Block 4 - Afternoon after break
+  session_time: 'Tuesday, June 07: 04:00pm - 05:30pm'
   sessions:
   - abstract: This presentation will provide an overview of an online toolset enabling
       the creation of interactive Visual Essays using images available from image
@@ -374,6 +378,7 @@
   end: '10:30'
   id: 5
   name: Block 5 - Morning before break
+  session_time: 'Wednesday, June 08: 09:00am - 10:30am'
   sessions:
   - abstract: "Gent Gemapt (2020-2023) is a public history pilot project that relies\
       \ on IIIF for the integration, presentation, and participative enrichment of\
@@ -595,6 +600,7 @@
   end: '12:10'
   id: 6
   name: Block 6 - Morning after break
+  session_time: 'Wednesday, June 08: 11:00am - 12:10pm'
   sessions:
   - abstract: The Swiss National Data & Service Center for the Humanities (DaSCH),
       a IIIF-C full member since 2017 has implemented the Simple Image Presentation
@@ -842,6 +848,7 @@
   end: '15:30'
   id: 7
   name: Block 7 - Afternoon session
+  session_time: 'Wednesday, June 08: 01:30pm - 03:30pm'
   sessions:
   - abstract: "We believe that IIIF has a huge potential for scholars of the (digital)\
       \ humanities which might not yet have been exploited. User-created IIIF collections\
