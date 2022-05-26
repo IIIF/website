@@ -67,22 +67,22 @@ The IIIF conference is open to advanced registrants.
         <td>8:00 - 9:00</td>
         <td colspan="2"><b>Check-in</b></td>
     </tr>    
-    {% include_relative table_row.html block=1 %}
+    {% include conference_table_row.html block=1 %}
     <tr>
         <td>10:30 - 11:00</td>
         <td colspan="2"><b>Break</b></td>
     </tr>    
-    {% include_relative table_row.html block=2 %}
+    {% include conference_table_row.html block=2 %}
     <tr>
         <td>12:00 - 1:30</td>
         <td colspan="2"><b>Lunch</b></td>
     </tr>    
-    {% include_relative table_row.html block=3 %}
+    {% include conference_table_row.html block=3 %}
     <tr>
         <td>3:30 - 4:00</td>
         <td colspan="2"><b>Break</b></td>
     </tr>    
-    {% include_relative table_row.html block=4 %}
+    {% include conference_table_row.html block=4 %}
     <tr>
         <td>6:00 - 8:00</td>
         <td colspan="2"><b>General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)</b></td>
@@ -103,17 +103,17 @@ The IIIF conference is open to advanced registrants.
             <th>Speaker(s)</th>
         </tr>
     </thead>
-    {% include_relative table_row.html block=5 %}
+    {% include conference_table_row.html block=5 %}
     <tr>
         <td>10:30 - 11:00</td>
         <td colspan="2"><b>Break</b></td>
     </tr>    
-    {% include_relative table_row.html block=6 %}
+    {% include conference_table_row.html block=6 %}
     <tr>
         <td>12:00 - 1:30</td>
         <td colspan="2"><b>Lunch</b></td>
     </tr>    
-    {% include_relative table_row.html block=7 %}
+    {% include conference_table_row.html block=7 %}
     <tr>
         <td>3:30 - 4:00</td>
         <td colspan="2"><b>Tour of the Leventhal Map and Education Center, Boston Public Library (limited to 30 attendees.)</b></td>
