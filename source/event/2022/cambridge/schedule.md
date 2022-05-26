@@ -148,6 +148,7 @@ The IIIF conference is open to advanced registrants.
         {% for session in block[1].sessions %}
             <a name='{{session.id}}'></a>
             <div id='{{session.id}}'>
+                <a href="#block-{{blockNo}}-{{session.id}}">Back to schedule</a>
                 <div class="paper">
                     <span class="paper_time_value">{{session.start}} - {{session.end }}</span>
                     <br />
