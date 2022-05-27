@@ -8,7 +8,7 @@ excerpt: >
   We are happy to announce three new members added to the ranks of the IIIF Consortium.
 ---
 
-We are happy to announce that [Northwestern University Libraries](https://www.library.northwestern.edu/) have joined the IIIF Consortium as a full member, along with the [University of British Columbia (UBC) Library](https://www.library.ubc.ca/) and DB Ecosensystem joining as associate members.
+We are happy to announce that [Northwestern University Libraries](https://www.library.northwestern.edu/) have joined the IIIF Consortium as a full member, along with the [University of British Columbia (UBC) Library](https://www.library.ubc.ca/) and DB Ecosensystem joining as associate members. This bring the total number of [consortium members][members] to 63.
 
 The Northwestern University Libraries serve over 1 million visitors annually,  with collections featuring some 6.2 million titles and hundreds of thousands of digitized special and archival works. The [Digital Collections](https://www.library.northwestern.edu/libraries-collections/digital-collections/index.html) use IIIF to serve up these high-resolution digital images from Northwestern’s collection, including posters, manuscripts, photographs, letters, and maps, as well as audio-visual content such as the Northwestern University Football Films and Master Class audio recordings. 
 
@@ -31,5 +31,5 @@ To join the IIIF Consortium, take a look at the [benefits of membership][join], 
 
 [join]: {{ site.url }}{{ site.baseurl }}/community/consortium/join/
 [admin]: mailto:admin@iiif.io
-
+[members]: {{ site.url }}{{ site.baseurl }}/community/consortium/members
 
