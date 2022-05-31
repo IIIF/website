@@ -8,6 +8,22 @@ breadcrumbs:
  - label: Consortium
    link: /community/consortium
 ---
+{{ theme.block-start }}
+
+{% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
+
+The IIIF-C now comprises [{{ members.size }} members]({{ site.root_url | absolute_url }}/community/consortium/members/) around the world who have signed a IIIF-C Memorandum of Understanding committing to support the growth and adoption of IIIF, including the members listed below.
+
+{{ theme.block-end }}
+{{ theme.block-center-start }}
+
+
+## Join
+Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership include a range of benefits.   
+<br>
+<div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}</div>
+
+{{ theme.block-end }}
 
 ## Full Members
 
@@ -44,9 +60,3 @@ breadcrumbs:
 {% endfor %}
 </ul>
 
----
-
-## Join the Consortium
-Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework, and includes a range of benefits based on level of membership.
-<br>
-<div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}</div>

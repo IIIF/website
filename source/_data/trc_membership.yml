@@ -17,12 +17,12 @@
 - institution: IIIF Editors
   name: Simeon Warner
   role: 1
-- institution: IIIF Editors
-  name: Jon Stroop
-  role: 1
-- institution: IIIF Editors
-  name: Maria Whitaker
-  role: 1
+# - institution: IIIF Editors
+#   name: Jon Stroop
+#   role: 1
+# - institution: IIIF Editors
+#   name: Maria Whitaker
+#   role: 1
 - institution: IIIF Editors
   name: Jeff Mixter
   role: 1
@@ -130,6 +130,9 @@
 - institution: North Carolina State University Libraries
   name: Jason Ronallo
   role: 2
+- institution: Northwestern University Libraries
+  name: Mat Jordan
+  role: 2
 - institution: OCLC
   name: Shane Huddleston
   role: 2
@@ -146,7 +149,7 @@
   name: Andrew Gunther
   role: 2
 - institution: Stanford University
-  name: Jack Reed
+  name: Chris Beer
   role: 2
 - institution: Data & Service Center for the Humanities (DaSCH), University of Basel
   name: Julien A. Raemy 
