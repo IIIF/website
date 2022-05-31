@@ -1,7 +1,7 @@
 ---
 title: Northwestern University, University of British Columbia, and DB Ecosensystem Join the IIIF Consortium
 author: IIIF Consortium Staff
-date: 2022-05-26
+date: 2022-05-31
 tags: [news, announcements]
 layout: post
 excerpt: >
