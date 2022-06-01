@@ -76,7 +76,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
                 <tr>
             <td>2:00pm</td>
             <td>IIIF in Teaching and Learning</td>
-            <td>Academic Technology, Harvard University</td>
+            <td>Jeremy Guillette and Brandon Bentley, Academic Technology, Harvard University</td>
         </tr>
                 <tr>
             <td>2:20pm</td>
@@ -85,7 +85,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
                 <tr>
             <td>2:40pm</td>
-            <td colspan="2">Break</td>
+            <td colspan="2">Break with Tea and Coffee</td>
         </tr>
         <tr>
             <td>3:00pm</td>
