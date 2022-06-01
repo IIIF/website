@@ -70,7 +70,7 @@ The IIIF conference is open to advanced registrants.
     {% include conference_table_row.html block=1 %}
     <tr>
         <td>10:30 - 11:00</td>
-        <td colspan="2"><b>Break</b></td>
+        <td colspan="2"><b>Break with Tea and Coffee</b></td>
     </tr>    
     {% include conference_table_row.html block=2 %}
     <tr>
@@ -80,7 +80,7 @@ The IIIF conference is open to advanced registrants.
     {% include conference_table_row.html block=3 %}
     <tr>
         <td>3:30 - 4:00</td>
-        <td colspan="2"><b>Break</b></td>
+        <td colspan="2"><b>Break with Tea and Coffee</b></td>
     </tr>    
     {% include conference_table_row.html block=4 %}
     <tr>
@@ -106,7 +106,7 @@ The IIIF conference is open to advanced registrants.
     {% include conference_table_row.html block=5 %}
     <tr>
         <td>10:30 - 11:00</td>
-        <td colspan="2"><b>Break</b></td>
+        <td colspan="2"><b>Break with Tea and Coffee</b></td>
     </tr>    
     {% include conference_table_row.html block=6 %}
     <tr>
