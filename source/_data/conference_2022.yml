@@ -572,25 +572,15 @@
     start: '10:14 '
     title: An open source, IIIF-enabled, natural history collection platform
     type: Lightning talk
-  - abstract: pdiiif allows users to generate a PDF with a table of contents, a hidden
-      text layer (if the manifest has OCR) and, optionally, annotations from any IIIF
-      manifest. Where possible, this is done using their web browser for the bulk
-      of the work. Compared to other solutions, it is very memory efficient by using
-      a streaming approach that never keeps more than a few pages in memory at once
-      (depending on the browser). Plans for the future include a way to re-import
-      annotations applied to the PDF (e.g. done on an iPad) back into WebAnnotations
-      to bridge the gap between online and offline workflows. At the moment, pdiiif
-      is available as a standalone web application and as a low-footprint JavaScript
-      library that can be embedded in other applications. A Mirador 3 plugin and browser
-      extensions are planned for later in 2022.
+  - abstract: Considering the spectrum of IIIF user privacy preference, there are two ends that are not adequately served with current IIIF open source software community. One are those who are extremely sensitive about the image content, thus, prefer to leave everything in his/her hard disc. Another are those who care nothing about the content and wish those images could be spread as wide as possible and preserved as long as possible. Etu managed to take care of these two extremes and developed a unique image centric way to enable IIIF from hard disc images with only a couple of command lines. Our goal is to preserve the legacy image organization as much as possible and shield the end user with the complex details as setting up image server, presentation server and so on. The software is the result of collaboration work of IIIF China community members and we are glad to share it with the global community and help the adaption of IIIF in the wider spectrum regardless of user privacy preference.
     authors:
-    - name: Johannes Baiter
-      org: Bavarian State Library
+    - name: Jie Song
+      org: IntelliJourney
     end: '10:28 '
     id: '129'
     order: 6
     start: '10:21 '
-    title: 'pdiiif: PDF as an offline IIIF Viewer'
+    title: 'Etu - An open source image centric IIIF universal adaptor'
     type: Lightning talk
   start: ' 09:00'
   start_date: 2022-06-08 09:00
