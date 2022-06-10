@@ -423,7 +423,7 @@
 - name: Villanova University
   uri: https://digital.library.villanova.edu/
   iiifc:
-- name: Walter J. Ong, S.J. Center for Digital Humanities at Saint Louis University
+- name: Research Computing Group at Saint Louis University
   uri: https://github.com/CenterForDigitalHumanities
   iiifc: 2
   logo: assets/uploads/logos/ong_cropped-logo-dark.png
