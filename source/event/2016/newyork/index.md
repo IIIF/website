@@ -12,7 +12,7 @@ tags: [event ]
 
 ## Access to the World's Images: The Advantages of IIIF
 
-On Tuesday, 10th of May 2016, the International Image Interoperability Framework ([IIIF][home-page]) community and the New York Museum of Modern Art ([MOMA][moma]) are hosting a one day event describing the power and potential of interoperable image delivery over the Web. Embraced by a growing number of the world’s leading research and cultural heritage organizations, IIIF provides an open framework for organizations to publish their image-based resources, to be viewed, cited, annotated, and more by any compatible image-viewing application. The day will showcase how institutions are leveraging IIIF to reduce total cost and time to deploy image delivery solutions, while simultaneously improving end user experience with a new host of rich and dynamic features. It will also highlight how to participate in this growing movement to take advantage of the common framework.
+On Tuesday, 10th of May 2016, the International Image Interoperability Framework ([IIIF][home-page]) community and the New York Museum of Modern Art ([MOMA][moma]{:data-proofer-ignore=''}) are hosting a one day event describing the power and potential of interoperable image delivery over the Web. Embraced by a growing number of the world’s leading research and cultural heritage organizations, IIIF provides an open framework for organizations to publish their image-based resources, to be viewed, cited, annotated, and more by any compatible image-viewing application. The day will showcase how institutions are leveraging IIIF to reduce total cost and time to deploy image delivery solutions, while simultaneously improving end user experience with a new host of rich and dynamic features. It will also highlight how to participate in this growing movement to take advantage of the common framework.
 
 This event will be valuable for organizational decision makers, repository and collection managers, software engineers; for cultural heritage or STEM (science / technology /  engineering / medicine) institutions; or for anyone engaged with image-based resources on the Web.  It is intended for people who have not been involved with IIIF in the past to quickly get up to speed and understand the community and its benefits. Attendance is free, and widespread dissemination of the event is encouraged. [Registration][eventbrite] is required in order to ensure that we do not exceed the capacity of the venue.
 
@@ -133,7 +133,7 @@ A [sched][sched] site with the details will be available.
 [iiif-c]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/
 [tech-details]: {{ site.root_url | absolute_url }}/get-started/
 [proposals]: mailto:iiif-proposals@googlegroups.com
-[moma]: http://www.moma.org/
+[moma]: https://www.moma.org/
 [moma-map]: https://goo.gl/maps/9wFHb2ZzVE72
 [nyam]: http://www.nyam.org/
 [nyam-map]: https://goo.gl/maps/ffTbs7UmjN42
