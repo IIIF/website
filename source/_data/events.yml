@@ -16,17 +16,6 @@
 #       link: "https://iiif4research.gla.ac.uk/index.php/workshops/workshop-4/"
 #   location:
 #     label: "Online event via Zoom"
-- label: IIIF Annual Conference 
-  time:
-    start: "2022-06-06"
-    end: "2022-06-10"
-  links:
-    - label: More info
-      link: "event/2022/cambridge/"
-    # - label: Register
-    #   link: "https://www.conftool.org/iiif2022/index.php?page=index"
-  location:
-    label: "Cambridge/Boston, MA"
 - label: "IIIF Online Workshop: Mirador as a Workspace"
   time:
     start: "2022-06-27"
