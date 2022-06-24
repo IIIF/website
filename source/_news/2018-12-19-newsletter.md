@@ -28,7 +28,7 @@ Since November 14, 2018, [Wikidata][wikidata] (the Linked Open Data sister proje
 On March 11th 2019, a IIIF showcase and workshop will take place at the Swedish National Heritage Board. This event will be organised by the Swedish National Heritage Board, the Nationalmuseum and the Swedish National Archives. Link to event page: <https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/dela-bilder-pa-webben-med-iiif/>.
 
 ### Bern IIIF Showcase Event at the Swiss National Library - save the date!
-On May 15th, 2019 will be held a IIIF Showcase Event in the Dürrenmatt Room at the [Swiss National Library][bn] in Bern. This event will be organized in the context of the [Towards IIIF-Compliance Knowledge in Switzerland][ticks-rg] (TICKS) project conducted by Julien A. Raemy and René Schneider in Geneva at the HES-SO University of Applied Sciences, Haute école de gestion de Genève.
+On May 15th, 2019 will be held a IIIF Showcase Event in the Dürrenmatt Room at the [Swiss National Library][bn] in Bern. This event will be organized in the context of the [Towards IIIF-Compliance Knowledge in Switzerland][ticks-rg]{:data-proofer-ignore=''} (TICKS) project conducted by Julien A. Raemy and René Schneider in Geneva at the HES-SO University of Applied Sciences, Haute école de gestion de Genève.
 
 Presentations will be given in English by individuals representing international and Swiss organizations. More information by the beginning of 2019 will follow. In the meantime, make sure to mark this date in your agenda.
 
