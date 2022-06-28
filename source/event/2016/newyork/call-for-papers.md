@@ -32,7 +32,7 @@ Submissions will be accepted up until March 21st, 2016 and no extensions to this
 [iiif-c]: {{ site.root_url | absolute_url }}/news/2015/06/17/iiif-consortium/
 [tech-details]: {{ site.root_url | absolute_url }}/get-started/
 [proposals]: mailto:iiif-proposals@googlegroups.com
-[moma]: http://www.moma.org/
+[moma]: https://www.moma.org/
 [moma-map]: https://goo.gl/maps/9wFHb2ZzVE72
 [nyam]: http://www.nyam.org/
 [nyam-map]: https://goo.gl/maps/ffTbs7UmjN42
