@@ -16,39 +16,12 @@
 #       link: "https://iiif4research.gla.ac.uk/index.php/workshops/workshop-4/"
 #   location:
 #     label: "Online event via Zoom"
-- label: "IIIF Online Workshop: Mirador as a Workspace"
+- label: July IIIF Online Training (5-Day Course)
   time:
-    start: "2022-06-27"
-    end: "2022-06-27"
+    start: 2022-07-18T06:00:00Z
+    end: 2022-07-22T07:00:00Z
   links:
-    - label: More info and registration
-      link: "https://www.eventbrite.com/e/iiif-online-workshop-mirador-as-a-workspace-tickets-344922822447"
-  location:
-    label: "Online via Zoom"
-- label: "Hands-On Workshop: National Gallery of Art Library & Research Collections"
-  time:
-    start: "2022-06-29"
-    end: "2022-06-29"
-  links:
-    - label: More info and registration
-      link: "https://www.eventbrite.com/e/hands-on-workshop-national-gallery-of-art-library-research-collections-tickets-344918118377"
-  location:
-    label: "Online via Zoom"
-- label: "IIIF Online Workshop: Exhibit.so"
-  time:
-    start: "2022-06-29"
-    end: "2022-06-29"
-  links:
-    - label: More info and registration
-      link: "https://www.eventbrite.com/e/iiif-online-workshop-exhibitso-tickets-344930505427"
-  location:
-    label: "Online via Zoom"
-- label: "AudiAnnotate Extensible Workflow for Sharing Annotated AV Using IIIF"
-  time:
-    start: "2022-06-30"
-    end: "2022-06-30"
-  links:
-    - label: More info and registration
-      link: "https://www.eventbrite.com/e/audiannotate-extensible-workflow-for-sharing-annotated-av-using-iiif-tickets-344897205827"
-  location:
-    label: "Online via Zoom"
+    - label: More info
+      link: "get-started/training/online-training/"
+    - label: Register
+      link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
