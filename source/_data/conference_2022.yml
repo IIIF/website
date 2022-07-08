@@ -17,6 +17,7 @@
     start: '09:00 '
     title: Welcome and opening remarks
     type: Presentation
+    youtube: https://youtu.be/q9shfA3BqsM?t=0
   - abstract: This session will provide an update on the status of the many IIIF Community
       Groups currently meeting to discuss issues relating to their field of practice.
     authors:
@@ -28,6 +29,7 @@
     start: '09:30 '
     title: State of the IIIF Universe
     type: Presentation
+    youtube: https://youtu.be/q9shfA3BqsM?t=271
   - abstract: With growing, global efforts for further establishing IIIF use for 2D
       images and Audio/Video (A/V) data, there is increasing commitment to develop
       similar standards for 3D content. The IIIF 3D Community Group is collaboratively
@@ -50,6 +52,7 @@
     start: '10:00 '
     title: IIIF 3D - Developing New Dimensions & Technical Specification
     type: Presentation
+    youtube: https://youtu.be/q9shfA3BqsM?t=2650
   start: ' 09:00'
   start_date: 2022-06-07 09:00
 2:
@@ -83,6 +86,7 @@
     title: An update on building an open-source IIIF stack and integrating Mirador
       3 at Harvard
     type: Presentation
+    youtube: https://youtu.be/q9shfA3BqsM?t=5214
   - abstract: "Why a new Manifest Editor?<br/><br/>As the use of IIIF grows, so the\
       \ need for IIIF content creation tools grows.<br/><br/>Most IIIF manifests are\
       \ expected to produce consistent results in standard IIIF viewers.<br/><br/>But\
@@ -119,6 +123,7 @@
     start: '11:30 '
     title: A New Manifest Editor (and more)
     type: Presentation
+    youtube: https://youtu.be/q9shfA3BqsM?t=7072
   start: ' 11:00'
   start_date: 2022-06-07 11:00
 3:
@@ -185,6 +190,7 @@
     title: 'Using IIIF to teach Digital Humanities: advancing digital literacy in
       higher education'
     type: Presentation
+    youtube: https://youtu.be/dHRC3wxasKk?t=0
   - abstract: "Many institutions have both:<br/><br/>1. transcripts for manuscripts\
       \ or printed books, encoded as TEI-XML<br/><br/>2. digital surrogates for those\
       \ same manuscripts or printed books, provided as IIIF<br/><br/>In ideal world,\
@@ -221,6 +227,7 @@
     title: 'From text to image: linking TEI-XML and IIIF via expert sourced annotations
       and IIIF Change Discovery'
     type: Presentation
+    youtube: https://youtu.be/dHRC3wxasKk?t=1895
   - abstract: 'Two years into the launch of an institution-wide IIIF delivery system
       and the related ETL pipelines to generate IIIF master images and manifests,
       two ongoing challenges have been unfolding in the broader Getty Digital development
@@ -244,6 +251,7 @@
     title: 'USE ME: progressive integration of IIIF with new software services at
       the Getty'
     type: Presentation
+    youtube: https://youtu.be/dHRC3wxasKk?t=3544
   - abstract: "Compounded by the Covid-19 pandemic, GLAM organisations have in recent\
       \ years been facing outreach challenges in an increasingly competitive digital\
       \ attention economy.<br/><br/>Exhibit (exhibit.so) is a user-friendly tool for\
@@ -268,6 +276,7 @@
     title: 'Exhibit: easy-to-use tools for promoting engagement and learning with
       your online digital collections.'
     type: Presentation
+    youtube: https://youtu.be/dHRC3wxasKk?t=5458
   start: ' 13:30'
   start_date: 2022-06-07 13:30
 4:
@@ -297,6 +306,7 @@
     start: '04:00 '
     title: Using IIIF Images in Visual Essays
     type: Presentation
+    youtube: https://youtu.be/dHRC3wxasKk?t=7218
   - abstract: "In Spring 2022, a group of Harvard-based medievalists collaboratively\
       \ transcribed and prepared a digital edition of Houghton Library MS Lat. 5,\
       \ a thirteenth-century manuscript containing a copy of Conrad of Saxony\u2019\
@@ -350,6 +360,7 @@
     title: 'From Manuscript to Transcription and Back Again: Closing the Virtuous
       Circle with Houghton MS Lat. 5'
     type: Presentation
+    youtube: https://youtu.be/dHRC3wxasKk?t=9139
   - abstract: "This presentation describes a workflow for a scholar to take a IIIF\
       \ object such as a manuscript, add annotations via our implementation of Simple\
       \ Annotation Server, and additionally incorporate user-contributed structured\
@@ -370,6 +381,7 @@
     title: "Creating a Scholar\u2019s Manifest: incorporating user-contributed annotations\
       \ and metadata"
     type: Presentation
+    youtube: https://youtu.be/PvHlogDcNMA?t=1626
   start: ' 16:00'
   start_date: 2022-06-07 16:00
 5:
@@ -425,6 +437,7 @@
     title: IIIF as an enabler for presentation and participation in the public history
       project Gent Gemapt.
     type: Presentation
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=85
   - abstract: Paul Laurence Dunbar was the first African-American poet to garner national
       critical acclaim. Born in Dayton, Ohio, in 1872, Dunbar penned a large body
       of dialect poems, standard English poems, essays, novels, and short stories
@@ -461,6 +474,7 @@
     start: '09:30 '
     title: Restoring a Space for Paul Dunbar
     type: Presentation
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=1974
   - abstract: Mapping Color in History (MCH) is a digital humanities project which
       examines scientific data drawn from material analyses of pigments in Asian paintings
       from a historical perspective. Existing pigment databases and publications are
@@ -511,6 +525,7 @@
     title: 'Mapping Color in History: Using IIIF to Annotate Historical Objects with
       Pigment Data'
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=3688
   - abstract: "Miiify is an experimental annotation server that is based on the W3C\
       \ Web Annotation Protocol. Rather than rely on running a centralised infrastructure,\
       \ Miiify adopts a distributed approach to collaboration using a peer review\
@@ -552,6 +567,7 @@
     start: '10:07 '
     title: 'Miiify: distributed crowdsourced annotations'
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=4112
   - abstract: With the launch of the Natural History Museum of Denmark's collection
       platform (https://collections.snm.ku.dk/en) both researchers and members of
       the general public can explore the collections in intimate detail from anywhere
@@ -572,6 +588,7 @@
     start: '10:14 '
     title: An open source, IIIF-enabled, natural history collection platform
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=4585
   - abstract: Considering the spectrum of IIIF user privacy preference, there are two ends that are not adequately served with current IIIF open source software community. One are those who are extremely sensitive about the image content, thus, prefer to leave everything in his/her hard disc. Another are those who care nothing about the content and wish those images could be spread as wide as possible and preserved as long as possible. Etu managed to take care of these two extremes and developed a unique image centric way to enable IIIF from hard disc images with only a couple of command lines. Our goal is to preserve the legacy image organization as much as possible and shield the end user with the complex details as setting up image server, presentation server and so on. The software is the result of collaboration work of IIIF China community members and we are glad to share it with the global community and help the adaption of IIIF in the wider spectrum regardless of user privacy preference.
     authors:
     - name: Jie Song
@@ -582,6 +599,7 @@
     start: '10:21 '
     title: 'Etu - An open source image centric IIIF universal adaptor'
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=5072
   start: ' 09:00'
   start_date: 2022-06-08 09:00
 6:
@@ -619,6 +637,7 @@
     title: Designing a proof-of-concept for the implementation of the Presentation
       API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=5544
   - abstract: IIIF has been developing now for over 10 years, evolving from a collaborative
       method for presenting images on the web into a robust, well documented, global
       framework for sharing and linking images, annotations, video, audio, and soon,
@@ -641,6 +660,7 @@
     start: '11:07 '
     title: IIIF - Could it be time to swap the Image for Information?
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=5998
   - abstract: "Starting with version 7.2 DSpace, provides basic support for IIIF out\
       \ of box. The work was the result of a joint effort between Willamette University\
       \ and 4Science. Willamette University had begun work on DSpace version 7 and\
@@ -673,6 +693,7 @@
     start: '11:14 '
     title: Bringing IIIF to the DSpace community
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=6387
   - abstract: FairCopy is a simple and powerful tool for reading, transcribing, and
       encoding primary sources using the TEI Guidelines. FairCopy can import IIIF
       manifests as a starting point for transcription. Users can then highlight zones
@@ -688,6 +709,7 @@
     start: '11:21 '
     title: Transcribing Primary Sources using FairCopy and IIIF
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=6848
   - abstract: As a result of the IIIF Presentation API version 3 (henceforth, IIIFv3),
       we've gotten a set of rules for annotating video. However, there is still not
       enough implementation to treat it easily. Under such situation, Mirador version
@@ -711,6 +733,7 @@
     start: '11:28 '
     title: An improvement for Video annotation on Mirador
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=7228
   - abstract: Art exhibition catalogs provide documentation for items displayed during
       an exhibition at museums or art galleries. The contents of these catalogs are
       important for GLAM institutions, as many of the works described in these catalogs
@@ -771,6 +794,7 @@
     title: 'Enriched Art with IIIF: Improving searchability of art collections through
       machine learning'
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=7612
   - abstract: The Corpus Kalendarium Database, or CoKL DB*, is a relational database
       of the devotional calendars from Books of Hours. As of February 2022, it contains
       376 transcribed calendars and metadata about a further 267 manuscripts, yielding
@@ -791,6 +815,7 @@
     start: '11:42 '
     title: 'Chronophage: Leveraging IIIF standards to build the CoKL Database'
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=7930
   - abstract: "More and more museums, libraries, galleries, and archives support IIIF\
       \ and enable scholars and culture enthusiasts to work with data from heterogeneous\
       \ sources. But, how IIIF content is displayed on web pages, how links to manifests\
@@ -817,6 +842,7 @@
     start: '11:49 '
     title: DetektIIIF, a IIIF browser extension
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=8290
   - abstract: Give me your fun, your frivolous,<br/><br/>Your huddled experiments
       yearning to breathe free,<br/><br/>The wretched refuse of your latest hackathons.<br/><br/>Send
       these, the lightheartedness, tempest-tost to me,<br/><br/>I lift my image server
@@ -830,6 +856,7 @@
     start: '11:56 '
     title: Fun With IIIF
     type: Lightning talk
+    youtube: https://youtu.be/5ZzgOvBpKL4?t=8713
   start: ' 11:00'
   start_date: 2022-06-08 11:00
 7:
@@ -888,6 +915,7 @@
     start: '01:30 '
     title: 'Reaching out to the crowds: IIIF as a scholarly practice'
     type: Presentation
+    youtube: https://youtu.be/N62mWIHhR0o?t=0 
   - abstract: "Avalon Media System is an open source system for managing and providing\
       \ access to collections of digital audio and video based on the Samvera technology\
       \ stack. In use at over a dozen institutions, IIIF support has become an important\
@@ -912,6 +940,7 @@
     start: '02:00 '
     title: 'IIIF A/V in Practice: An Overview of IIIF Usage in Avalon Media System'
     type: Presentation
+    youtube: https://youtu.be/N62mWIHhR0o?t=1493
   - abstract: "Since 2018, the Indiana University (IU) Libraries have been working\
       \ with partners at AVP, New York Public Library (NYPL), and the University of\
       \ Texas at Austin, with support from the Andrew W. Mellon Foundation, to build\
@@ -942,6 +971,7 @@
     title: 'AMPlifying Interoperability: IIIF Integrations for the Audiovisual Metadata
       Platform'
     type: Presentation
+    youtube: https://youtu.be/N62mWIHhR0o?t=3333
   - abstract: "Digital collection front ends tend to lean on the \u201Cviewer\u201D\
       \ as the primary and sometimes only way for a user to interact with a IIIF manifest.\
       \ This overview will dive into how we are seeking to make more modular our implementation\
@@ -961,5 +991,6 @@
     start: '03:00 '
     title: The Front End Theory
     type: Presentation
+    youtube: https://youtu.be/N62mWIHhR0o?t=5160
   start: ' 13:30'
   start_date: 2022-06-08 13:30

@@ -12,5 +12,8 @@
                 {{author.name}}{% if forloop.last == false %},{% endif %}
             {% endfor %}
         </td>
+        <td>
+            <a href="{{presentation.youtube}}"><img src="{{ site.root_url | absolute_url }}/assets/images/preview_conf_video.png"/></a>
+        </td>
     </tr>
 {% endfor %}
