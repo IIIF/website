@@ -73,6 +73,10 @@
   iiifc: 1
   logo: assets/uploads/logos/Cornell_University_seal.svg
   original: true 
+- name: DaSCH, Swiss National Data & Service Center for the Humanities (University of Basel)
+  uri: https://dasch.swiss/ 
+  iiifc: 2
+  logo: assets/uploads/logos/DaSCH_logo_mediumblue.png
 - name: DB Ecosensystem
   uri: 
   iiifc: 4
@@ -345,10 +349,6 @@
 - name: University of British Columbia Libraries
   uri: https://www.library.ubc.ca/
   iiifc: 4
-- name: Data & Service Center for the Humanities (DaSCH), University of Basel
-  uri: https://dasch.swiss/ 
-  iiifc: 2
-  logo: assets/uploads/logos/DaSCH_logo_mediumblue.png
 - name: University of California, Los Angeles
   uri: http://www.ucla.edu/
   iiifc: 2
