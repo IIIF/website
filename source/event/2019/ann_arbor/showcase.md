@@ -119,7 +119,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>5:00pm - 7:00pm</td>
-            <td colspan="2">Reception at <a href="https://www.zingermansgreyline.com/">The Greyline</a><br>
+            <td colspan="2">Reception at The Greyline<br>
             100 N. Ashley St., Ann Arbor, MI 48104</td>
         </tr>
     </tbody>
