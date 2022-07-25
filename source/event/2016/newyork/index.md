@@ -20,7 +20,7 @@ This event will be valuable for organizational decision makers, repository and c
 
 * Registration: Separate [registration][eventbrite] is required.
 * Date: 2016-05-10, 10am to 5pm
-* Location:  [MOMA][moma] ([map][moma-map])
+* Location:  [MOMA][moma]{:data-proofer-ignore=''} ([map][moma-map])
 * Cost: There is no cost to attend
 * Capacity: 400
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies
