@@ -12,16 +12,16 @@ redirect_from:
   /community/groups/D4H/charter
 ---
 
-Updated March 2022
+Updated July 2022
 
 
-## About
+# About
 
-The IIIF Design community is committed to discovering data, collecting and collating information, and making recommendations for design of IIIF-compliant resources and interfaces that center human end users. The community asks, how can we contribute to improving IIIF resources and interfaces so that end users can find, identify, select, use, and reuse the resources they need, while accommodating modern research and online discovery practices? This community group’s overarching goal is to support the development of IIIF specifications and implementation guidelines by sharing user research data and results that identify users’ needs and information-searching practices. We focus on creating recommendations, best practices, and guidelines for the IIIF community that improve the interoperability of the uniquely interoperable objects provided by IIIF standards and interfaces: these objects are of no use if one cannot find, identify, select, use, or reuse them the way one needs to, particularly if relevant objects reside in servers in many different institutions. 
+The name of this community group, “Design,” refers to principles within the fields of information architecture, usability, user experience, human-centered design, and interaction design. The IIIF Design community is committed to discovering data, gathering information, and making recommendations for design of IIIF-compliant resources and interfaces that center human end users. This community group’s overarching goal is to support the development of IIIF specifications and implementation guidelines. We do this by sharing user research data and results that identify modern users’ research and online discovery practices. We create recommendations, best practices, and guidelines for the IIIF community that improve the interoperability of IIIF resources, tools, and interfaces so that humans can find, identify, select, use, and reuse the resources they need. 
 
-To be successful, the design of IIIF-complaint resources, tools, and interfaces must be people-focused and meet clearly defined human user needs. This group aims to go beyond specification work to promote implementations that enroll experts in research, content, user experience, metadata, and various technologies. In order to advance discovery in the LAM (library, archive and museum) space, this group will foster user-focused approaches that enable the targeted discovery, use, and reuse, spanning institutional and domain silos, of IIIF resources.
+To be successful, the design of IIIF-complaint resources, tools, and interfaces must be people-focused and meet clearly defined human user needs. This group aims to go beyond specification work to promote implementations that engage experts in research, content, user experience, metadata, and various technologies. In order to advance discovery in the LAM (library, archive and museum) space, this group will foster user-focused approaches that enable the targeted discovery, use, and reuse of IIIF resources that span institutional and domain silos.
 
-The name of this community group, “Design,” refers to principles within the fields of information architecture, usability, user experience, human-centered design, and interaction design. Previously, this group focused on discovering and collecting information about how human end users discover IIIF materials, and on thinking about how we can improve discoverability. Since 2021, we have begun to think more holistically about how IIIF-compliant resources can be used and reused, which led to the name change to “Design.”
+Previously, this group focused on discovering and collecting information about how human end users discover IIIF materials and on thinking about how we can improve discoverability. Since 2021, we have begun to think more holistically about how IIIF-compliant resources can be used and reused, which led to the name change to “Design.”
 
 
 ## Goals
@@ -50,23 +50,20 @@ The name of this community group, “Design,” refers to principles within the 
 * Stacey Redick, Folger Shakespeare Library
 
 
-### Communication Channels
+## Communication Channels
 
 
 
 * Monthly calls - see [IIIF Community Calendar](https://iiif.io/community/groups/) for details
 * Virtual meetings announced on the [IIIF-Discuss](https://groups.google.com/forum/#!forum/iiif-discuss) email list
-* General discussion on the [#d4h--discovery-for-humans](https://iiif.slack.com/archives/CRLCM8CQH) Slack channel
+* General discussion on the [#design](https://iiif.slack.com/archives/CRLCM8CQH) Slack channel
 
 
 ### Call Notes and Group Documents
 
-[IIIF Discovery for Users Community Group Folder](https://drive.google.com/open?id=1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7)
+[IIIF Design Community Group Folder](https://drive.google.com/open?id=1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7)
 
 
 ### Call Connection Information
 
-
-
-* Online: https://stanford.zoom.us/j/514739142 
-* Phone: [see each meeting agenda](https://drive.google.com/drive/folders/1yTiRY7PP6BFhEZFF0lyMQY6BitWEV50o)
+* Online link and phone: [see each meeting agenda](https://drive.google.com/drive/folders/1yTiRY7PP6BFhEZFF0lyMQY6BitWEV50o)
