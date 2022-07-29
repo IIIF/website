@@ -28,7 +28,7 @@ Since November 14, 2018, [Wikidata][wikidata] (the Linked Open Data sister proje
 On March 11th 2019, a IIIF showcase and workshop will take place at the Swedish National Heritage Board. This event will be organised by the Swedish National Heritage Board, the Nationalmuseum and the Swedish National Archives. Link to event page: <https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/dela-bilder-pa-webben-med-iiif/>.
 
 ### Bern IIIF Showcase Event at the Swiss National Library - save the date!
-On May 15th, 2019 will be held a IIIF Showcase Event in the Dürrenmatt Room at the [Swiss National Library][bn] in Bern. This event will be organized in the context of the [Towards IIIF-Compliance Knowledge in Switzerland][ticks-rg] (TICKS) project conducted by Julien A. Raemy and René Schneider in Geneva at the HES-SO University of Applied Sciences, Haute école de gestion de Genève.
+On May 15th, 2019 will be held a IIIF Showcase Event in the Dürrenmatt Room at the [Swiss National Library][bn] in Bern. This event will be organized in the context of the [Towards IIIF-Compliance Knowledge in Switzerland][ticks-rg]{:data-proofer-ignore=''} (TICKS) project conducted by Julien A. Raemy and René Schneider in Geneva at the HES-SO University of Applied Sciences, Haute école de gestion de Genève.
 
 Presentations will be given in English by individuals representing international and Swiss organizations. More information by the beginning of 2019 will follow. In the meantime, make sure to mark this date in your agenda.
 
@@ -92,7 +92,7 @@ The IIIF 3D Community Group has met eight times since its formation in March of 
 
 During the calls the group has seen compelling demonstrations of web-based 3D platforms that are being developed in and for the cultural heritage domain with interoperability in mind. Demonstrations and presentations have included the latest from the [Web3D consortium][web3d], the Visual Computing Lab's [Visual Media Service][vms], [Sketchfab Labs][sketchfab], the next generation of the [Morphosource platform][morphosource], the Smithsonian's forthcoming [open source 3D viewer and production pipeline][smith-3d] and latest IIIF 3D experiments by [Mnemoscene][mnemoscene].  The 3D Community Group has together started documenting a comparison matrix of 3D web viewers used by cultural heritage organizations as well as a [matrix documenting how viewers specifically handle spatial annotations][matrix].  The group is also embarking on an effort to document [3D interoperability use cases][3d-usecases].
 
-Participants in the IIIF 3D Community Group have established productive collaborations with other 3D standards initiatives, including the [CS3DP][cs3dp], LIB3DVR and [ReACH initiatives][reach]. We are also talking more about IIIF at conferences and events with a 3D and VR focus, such as the [2018 Digital Heritage Conference][dhc].
+Participants in the IIIF 3D Community Group have established productive collaborations with other 3D standards initiatives, including the CS3DP, LIB3DVR and [ReACH initiatives][reach]. We are also talking more about IIIF at conferences and events with a 3D and VR focus, such as the [2018 Digital Heritage Conference][dhc].
 Creation of 3D data by IIIF institutions is clearly on the rise, as is the appetite for open standards to support the sharing of 3D data.  We are anxious to see what transpires in the year ahead.      
 
 ### [Archives Community Group][groups-archives]

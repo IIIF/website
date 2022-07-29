@@ -166,7 +166,7 @@ The [IIIF Software Developers Community Group][devs-group] met in person at the 
 * [Georeferencer][georeferencer]: online research tool for maps using IIIF manifests
 * Victoria & Albert Museum [“Compariscope” demo][compariscope]
 * Plugin work underway at UCLA for [disabling zoom controls in Mirador ][zoom-disable]
-* Proof of concept [IIIF client app for iOS][iiif-presenter] by Petr Zabicka at the Moravian Library in Brno, Czech Republic (see [source code][ios-code])
+* Proof of concept IIIF client app for iOS by Petr Zabicka at the Moravian Library in Brno, Czech Republic (see [source code][ios-code])
 * [IIIF A/V proof of concept experiments from Masahide Kanzaki][masahide]
 * [IIIF A/V proof of concept tests from the British Library][bl-poc]
 * [IIIF A/V proof of concept work in Avalon Media System][avalon-poc]

@@ -23,7 +23,7 @@ The [IIIF Maps TSG Charter][charter] provides a more detailed outline of anticip
 
 **Chairs:**
 * Michael Appleby - Yale University
-* Bryan Haberberger - Walter J. Ong, S.J., Center for Digital Humanities at Saint Louis University
+* Bryan Haberberger - Research Computing Group at Saint Louis University
 * Eliot Jordan - Princeton University
 * Bert Spaan - Freelance
 

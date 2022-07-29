@@ -42,10 +42,6 @@ Many existing image servers can also be made compatible with serving images into
 A Ruby gem designed to help you build shims for the IIIF Presentation API. Built by Jack Reed.
 <https://github.com/mejackreed/shimmy>
 
-### [ContentDM Image Translator](https://github.com/azaroth42/pi3f/tree/master/shims/ContentDM){:.external}
-
-Makes ContentDM images available through IIIF. Written in Python and built by Rob Sanderson.
-<https://github.com/azaroth42/pi3f/tree/master/shims/ContentDM>
 
 ### [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif){:.external}
 

@@ -14,7 +14,7 @@ breadcrumbs:
 resources_cards:
   - label: IIIF-Discuss
     description: Subscribe to the iiif-discuss mailing list for technical Q&A, project-related updates, and to receive notes and Zoom links for upcoming Community Group calls.
-    link: '/community/groups/'
+    link: 'https://groups.google.com/g/iiif-discuss'
   - label: IIIF Slack
     description: Join the IIIF Slack team for group and topic-based conversations, questions, and more.
     link: http://bit.ly/iiif-slack

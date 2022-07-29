@@ -1,8 +1,13 @@
 ---
 title: "IIIF Annual Conference and Showcase - Cambridge, MA (USA) - June 6-8, 2022"
-layout: event
+layout: spec
 page: overview
 banner: true 
+breadcrumbs:
+  - label: All Events
+    link: '{{ site.root_url }}/event/'
+  - label: Cambridge 2022
+    link: '{{ site.root_url }}/event/2022/cambridge/'
 ---
 
 
@@ -21,23 +26,23 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 
 * Location: Cambridge, MA, USA (See [map]({{ site.root_url | absolute_url }}/event/2022/cambridge/#locations) below for venue locations and more)
-    * IIIF Showcase: MIT campus (June 6, 2022)
-    * Conference: Harvard campus (June 6-8, 2022)
+    * IIIF Showcase: Building 10 Room 250, MIT campus (June 6, 2022)
+    * Conference: Boylston Hall 110-Fong Auditorium, Harvard campus (June 7-8, 2022)
 * Registration for the IIIF showcase is free.
 * Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket.
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC recommendations and the requirements of the host institutions. Attendees must show proof of vaccination. Receptions will be held at outdoor locations for increased safety. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
 
-### **Register**
+<!-- ### **Register**
 
 
 
-* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index).
+* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index). -->
 
-### Travel Scholarship
+<!-- ### Travel Scholarship
 
-In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the Annual Conference. Please see the [2022 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is Friday, April 1, 2022.
+In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the Annual Conference. Please see the [2022 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is Friday, April 1, 2022. -->
 
 
 
@@ -55,7 +60,7 @@ In order to foster a conference environment that better reflects the diversity o
 * See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference.
 
 
-### **Program committee**
+#### **Program committee**
 
 Thank you to the 2022 Program committee:
 
@@ -70,7 +75,7 @@ Thank you to the 2022 Program committee:
 * Andrew Weidner (University of Houston)
 
 
-### **Local planning committee**
+#### **Local planning committee**
 
 Thank you to the 2022 local planning committee:
 
@@ -87,15 +92,8 @@ We are offering sponsorship for the 2022 IIIF conference and the benefits and co
 
 The IIIF Annual Conference is generously supported by the following Conference Sponsors:
 
+{% include 2022_sponsors.html %}
 
-**Silver sponsors**  <br>
-
-<a href="https://www.oclc.org/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/oclc_logo.png" alt='OCLC logo' style="width: 300px"></a>
-
-
-**Bronze sponsors**  <br>
-
-<a href="https://www.lunaimaging.com/" style="border-bottom: none"><img src="{{ site.root_url | absolute_url }}/assets/event/sponsors/LUNALogo_300px.png" alt='OCLC logo' style="width: 300px"></a>
 ### **Questions?**
 
 Reach out to us at staff@iiif.io.
@@ -146,6 +144,9 @@ The final program will continue to develop over the next few months but please s
 </table>    --> 
 
 ### Locations
+
+* June 6, IIIF Showcase: Building 10 Room 250, MIT campus
+* June 7-8, Main Conference: Boylston Hall 110-Fong Auditorium, Harvard campus 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 100%; height: 600px"></iframe>
 

@@ -17,12 +17,12 @@
 - institution: IIIF Editors
   name: Simeon Warner
   role: 1
-- institution: IIIF Editors
-  name: Jon Stroop
-  role: 1
-- institution: IIIF Editors
-  name: Maria Whitaker
-  role: 1
+# - institution: IIIF Editors
+#   name: Jon Stroop
+#   role: 1
+# - institution: IIIF Editors
+#   name: Maria Whitaker
+#   role: 1
 - institution: IIIF Editors
   name: Jeff Mixter
   role: 1
@@ -95,7 +95,7 @@
 #  name: 
 #  role: 2
 - institution: Kyoto University Library Network
-  name: Chifumi Nishioka
+  name: Azusa Omae
   role: 2
 #- institution: Leiden University
 #  name: 
@@ -130,6 +130,9 @@
 - institution: North Carolina State University Libraries
   name: Jason Ronallo
   role: 2
+- institution: Northwestern University Libraries
+  name: Mat Jordan
+  role: 2
 - institution: OCLC
   name: Shane Huddleston
   role: 2
@@ -146,9 +149,9 @@
   name: Andrew Gunther
   role: 2
 - institution: Stanford University
-  name: Jack Reed
+  name: Chris Beer
   role: 2
-- institution: Data & Service Center for the Humanities (DaSCH), University of Basel
+- institution: DaSCH, Swiss National Data & Service Center for the Humanities (University of Basel)
   name: Julien A. Raemy 
   role: 2
 - institution: University of California, Los Angeles
@@ -184,7 +187,7 @@
 - institution: Vatican Library
   name: Paola Manoni
   role: 2
-- institution: Walter J. Ong, S.J. Center for Digital Humanities at Saint Louis University
+- institution: Research Computing Group at Saint Louis University
   name: Patrick Cuba
   role: 2
 - institution: Wellcome Trust
@@ -203,7 +206,7 @@
 - institution: Max Planck Institute for the History of Science, Berlin
   name: Robert Casties
   role: 4
-- institution:  Saint Louis University
+- institution:  Research Computing Group at Saint Louis University
   name: Bryan Haberberger
   role: 4
 - institution: University of Oxford
