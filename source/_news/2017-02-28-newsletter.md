@@ -93,7 +93,7 @@ Please see the [IIIF Community Groups page][iiif-calendar] for a calendar of gro
 The IIIF Manuscripts group monthly calls are an excellent venue for sharing practices and experimentation for IIIF and manuscripts. On the most recent call, colleagues at St. Mary’s University in San Antonio, Texas, gave a demo of [The Jubilees Palimpsest Project][jubilees], using the [IIIF Navigator][iiif-navigator] for interoperable image delivery. [Join the group][manuscripts] to see more demos and share your work!
 
 ### Museums Community Group
-The [IIIF Museums group][museums] is compiling an FAQ for museums interested in adopting IIIF, as well as examples of existing IIIF implementations and use cases in museums. The following museums are currently working with IIIF: [Art Gallery of Ontario][ontario], [Harvard Art Museums][harvard-art], [Yale Center for British Art][ycba], [The Frick Collection][frick], Carnegie Museum of Art, Paul Mellon Center, The Getty, National Gallery of Art, and The Art Institute of Chicago.
+The [IIIF Museums group][museums] is compiling an FAQ for museums interested in adopting IIIF, as well as examples of existing IIIF implementations and use cases in museums. The following museums are currently working with IIIF: [Art Gallery of Ontario][ontario]{:data-proofer-ignore=''}, [Harvard Art Museums][harvard-art], [Yale Center for British Art][ycba], [The Frick Collection][frick], Carnegie Museum of Art, Paul Mellon Center, The Getty, National Gallery of Art, and The Art Institute of Chicago.
 
 ### Newspapers Community Group
 The [IIIF Newspapers group][newspapers] has been discussing textual data and IIIF, with a focus on OCR data as IIIF annotations, and distinguishing granularity between words, lines, and paragraphs. Pennsylvania State University is currently migrating their historic digital newspaper collection to  the Open Online Newspaper Initiative ([Open ONI][oni]) software, which complies with the IIIF Image API.
@@ -177,7 +177,7 @@ Rashmi Singhal (Harvard)
 [iiif-navigator]: http://jubilees.stmarytx.edu/iiifp/index.html
 [oni]: https://github.com/open-oni/open-oni
 [iiif-commons]: https://iiif-commons.github.io/
-[ontario]: http://boxwood.ago.ca/collection
+[ontario]: https://boxwood.ago.ca/collection
 [harvard-art]: http://www.harvardartmuseums.org/collections/
 [ftp-news]: {{ site.root_url | absolute_url }}/news/2017/02/17/from-the-page/
 [pontiiif-news]: {{ site.root_url | absolute_url }}/news/2017/02/17/pontiiif/

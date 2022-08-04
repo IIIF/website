@@ -61,31 +61,32 @@ The IIIF conference is open to advanced registrants.
             <th>Time</th>
             <th>Session</th>
             <th>Speaker(s)</th>
+            <th>Youtube Recording</th>
         </tr>
     </thead>
     <tr>
         <td>8:00 - 9:00</td>
-        <td colspan="2"><b>Check-in</b></td>
+        <td colspan="3"><b>Check-in</b></td>
     </tr>    
     {% include conference_table_row.html block=1 %}
     <tr>
         <td>10:30 - 11:00</td>
-        <td colspan="2"><b>Break with Tea and Coffee</b></td>
+        <td colspan="3"><b>Break with Tea and Coffee</b></td>
     </tr>    
     {% include conference_table_row.html block=2 %}
     <tr>
         <td>12:00 - 1:30</td>
-        <td colspan="2"><b>Lunch break (on your own)</b></td>
+        <td colspan="3"><b>Lunch break (on your own)</b></td>
     </tr>    
     {% include conference_table_row.html block=3 %}
     <tr>
         <td>3:30 - 4:00</td>
-        <td colspan="2"><b>Break with Tea and Coffee</b></td>
+        <td colspan="3"><b>Break with Tea and Coffee</b></td>
     </tr>    
     {% include conference_table_row.html block=4 %}
     <tr>
         <td>6:00 - 8:00</td>
-        <td colspan="2"><b>General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)</b></td>
+        <td colspan="3"><b>General conference reception, open to all registered participants (to be held outdoors on the Harvard quad, under a tent in case of rain)</b></td>
     </tr>
 </table>
 
@@ -101,22 +102,23 @@ The IIIF conference is open to advanced registrants.
             <th>Time</th>
             <th>Session</th>
             <th>Speaker(s)</th>
+            <th>Youtube Recording</th>
         </tr>
     </thead>
     {% include conference_table_row.html block=5 %}
     <tr>
         <td>10:30 - 11:00</td>
-        <td colspan="2"><b>Break with Tea and Coffee</b></td>
+        <td colspan="3"><b>Break with Tea and Coffee</b></td>
     </tr>    
     {% include conference_table_row.html block=6 %}
     <tr>
         <td>12:00 - 1:30</td>
-        <td colspan="2"><b>Lunch break (on your own)</b></td>
+        <td colspan="3"><b>Lunch break (on your own)</b></td>
     </tr>    
     {% include conference_table_row.html block=7 %}
     <tr>
         <td>3:30 - 5:00</td>
-        <td colspan="2">
+        <td colspan="3">
             <a name="tours"></a>
             There are four tours aviliable which can be signed up for through ConfTool:
             <ul>
@@ -160,15 +162,17 @@ The IIIF conference is open to advanced registrants.
                 <a href="#block-{{blockNo}}-{{session.id}}">Back to schedule</a>
                 <div class="paper">
                     <span class="paper_time_value">{{session.start}} - {{session.end }}</span>
-                    <br />
+                    <br/>
                     <p class="paper_title">{{session.title}}</p>
+                    <a href="{{ session.youtube }}">Recording on Youtube</a>
                     <p class="paper_author">
                         {% for author in session.authors %}
                             <u>{{author.name}}</u>, <i>{{author.org}}</i>{% if forloop.last == false %};{% endif %}
                         {% endfor %}
                     </p>
                     <p class="paper_organisation">{{sessions.authors }}</p>
-
+                    
+                    
                     <div class="paper">
                         <p class="paper_abstract">{{session.abstract }}</p>
                         <p class="paper_abstract"></p>

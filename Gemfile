@@ -8,7 +8,7 @@ gem 'jekyll-datapage-generator'
 gem 'iiifc-theme', github: 'iiif/iiifc-theme', branch: 'main'
 
 group :development, :test do
-  gem 'html-proofer'
+  gem 'html-proofer', "3.19.0"
   gem 'rake'
 end
 

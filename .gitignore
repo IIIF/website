@@ -10,3 +10,5 @@ scripts/factory.pyc
 # local clones
 iiifc-theme
 source/api
+vendor
+Gemfile.lock
