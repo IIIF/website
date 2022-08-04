@@ -26,7 +26,6 @@ By participating in the Archives Community Group, you will help set best practic
 **Chairs:**
 
   * Alison Harvey (Cardiff University)
-  * Mark Matienzo (Stanford University)
 
 **Communication channels:**
 

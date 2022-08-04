@@ -58,7 +58,7 @@ Please also see the full list of [accepted presentations][program].
    * $295.00 for non members
 * Capacity: 400
 * Code of Conduct: The IIIF [Code of Conduct][conduct] applies to the conference. The conference Conduct and Safety team can be contacted at [iiif-conduct@googlegroups.com][conduct-list]. Individual members of the Conduct and Safety team can be recognized by their blue and white striped badge lanyards and can be contacted individually:
-   * Mark Matienzo (Conduct and Safety Team coordinator) - +1 650 683 5769, [matienzo@stanford.edu][matienzo], or @anarchivist (Twitter and IIIF Slack)
+   * M.A. Matienzo (Conduct and Safety Team coordinator) - +1 650 683 5769, [matienzo@stanford.edu][matienzo], or @anarchivist (Twitter and IIIF Slack)
    * Glen Robson (IIIF Technical Coordinator) - [glen.robson@iiif.io][glen], @glenrobson (Twitter), @glen.robson (IIIF Slack)
    * Karen Estlund - [kestlund@gmail.com][kestlund], @estlundkm (Twitter), @kestlund (IIIF Slack)
    * Katherine Lynch - [katherly@upenn.edu][klynch]

@@ -76,7 +76,7 @@ Following the [Fantastic Futures conference on AI in Libraries][norway-fantastic
 
 ### IIIF Presence at Conferences and Meetings
 Active community participants are encouraged to represent IIIF at conferences, workshops and events around the world. Recent and upcoming IIIF appearances include:
-* Mark Matienzo and Rebecca Hirsch participated in the SAA Archives Records 2018 Conference in Washington D.C. held from August 12-18.
+* M.A. Matienzo and Rebecca Hirsch participated in the SAA Archives Records 2018 Conference in Washington D.C. held from August 12-18.
 * Rafael Schwemmer from text&bytes had a presentation titled "Interoperabilität von geisteswissenschaftlichen Forschungsplattformen durch IIIF" at the "Geisteswissenschaftliche Forschungsplattformen in der Schweiz im Kontext von Open und FAIR Data" which was organized by the Swiss Academy of Humanities and Social Sciences (SAGW) in Bern, Switzerland on November 2.
 
 ## Technical Work

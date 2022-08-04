@@ -23,7 +23,7 @@ MODERATORS = {
       "Ben Albritton",
       "Tom Cramer",
       "Claire Knowles",
-      "Mark Matienzo",
+      "M.A. Matienzo",
       "Glen Robson",
       "Stu Snydman",
       "Julien A. Raemy",
