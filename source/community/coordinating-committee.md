@@ -48,7 +48,6 @@ CoCo meets monthly.
 - Arcadia Falcone, Stanford Universty
 - Josh Hadro, IIIF Consortium
 - Stace Maples, Stanford University
-- Mark Matienzo, Stanford University
 - Meg O'Hearn, IIIF Consortium
 - Julien A. Raemy, University of Basel
 - Glen Robson, IIIF Consortium

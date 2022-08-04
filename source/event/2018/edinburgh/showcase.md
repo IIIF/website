@@ -198,7 +198,7 @@ Archival collections can be some of the most exciting collections that can be di
     <tr>     
         <td>14:10 - 14:30</td>
         <td>IIIF Archives at Stanford</td>
-        <td>Mark Matienzo, Stanford University</td>
+        <td>M.A. Matienzo, Stanford University</td>
     </tr>
     <tr>    
 		<td>14:30 - 14:50</td>
