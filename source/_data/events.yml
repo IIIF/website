@@ -43,17 +43,6 @@
 #       link: "https://iiif4research.gla.ac.uk/index.php/workshops/workshop-4/"
 #   location:
 #     label: "Online event via Zoom"
-- label: IIIF Online Working Meeting
-  time:
-    start: 2022-12-06T06:00:00Z
-    end: 2022-12-08T23:00:00Z
-  links:
-    - label: More info coming soon
-      #link: "get-started/training/online-training/"
-    #- label: Register
-    #  link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
-  location: 
-    label: "Online event"
 - label: IIIF Online Conference
   time:
     start: 2022-12-06T06:00:00Z
