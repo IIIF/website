@@ -1,7 +1,13 @@
 ---
 title: "Software Developers Community Group"
 layout: page
-
+breadcrumbs:
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: /community/
+ - label: "Groups"
+   link: /community/groups/
 ---
 
 _Note: this group has been decommissioned given the development of the [Technical Review Committee][trc] and other flexible outlets for discussion like the [IIIF Slack channel][join-slack]._

@@ -10,7 +10,7 @@ excerpt: >
 
 The [2021 Annual Conference]({{ site.baseurl }}/event/2021/annual_conference/) took place online from June 22-24, 2021. Over 1,750 people from 36 countries and 1,200 institutions registered making this the largest IIIF conference yet! Recordings are now all available via the [YouTube conference playlist](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h) (also embedded below), and an announcement will be sent to all registrants once the full event has been posted soon.
 
-Of particular interest may be the keynote given by Amy Deschenes, Head of UX & Digital Accessibility for Harvard University Library, discussing her research into end user needs surrounding IIIF conducted as part of the Discovery for Humans community group. [The Discovery for Humans group]({{ site.baseurl }}/community/groups/D4H/) meets monthly to continue this work. All are welcome to join and call details are available on the [IIIF community calendar]({{ site.baseurl }}/community/groups/).
+Of particular interest may be the keynote given by Amy Deschenes, Head of UX & Digital Accessibility for Harvard University Library, discussing her research into end user needs surrounding IIIF conducted as part of the Discovery for Humans community group. [The Discovery for Humans group]({{ site.baseurl }}/community/groups/design/) meets monthly to continue this work. All are welcome to join and call details are available on the [IIIF community calendar]({{ site.baseurl }}/community/groups/).
 
 ---
 

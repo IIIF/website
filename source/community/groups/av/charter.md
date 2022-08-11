@@ -1,7 +1,13 @@
 ---
 title: "IIIF A/V Community Group Charter"
 layout: page
-
+breadcrumbs:
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: /community/
+ - label: "Groups"
+   link: /community/groups/
 ---
 
 _If you're looking for the original [A/V TSG Charter]({{ site.root_url | absolute_url }}/community/groups/av/tsg-charter), that has been moved now that this group has transition into a Community Group_

@@ -1,7 +1,13 @@
 ---
 title: "IIIF Archives Community Group"
 layout: page
-
+breadcrumbs:
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: /community/
+ - label: "Groups"
+   link: /community/groups/
 ---
 
 ## About
@@ -26,7 +32,6 @@ By participating in the Archives Community Group, you will help set best practic
 **Chairs:**
 
   * Alison Harvey (Cardiff University)
-  * Mark Matienzo (Stanford University)
 
 **Communication channels:**
 

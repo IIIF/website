@@ -164,7 +164,7 @@ The Outreach Community Group Co-Chairs:
 * Shaun Ellis (Princeton University)
 * Antoine Isaac (Europeana)
 * Sarah Lorenzon Ferreira (School of Art and Communication, University of São Paulo)
-* Mark Matienzo (Stanford University)
+* M.A. Matienzo (Stanford University)
 * Eyal Reuven (National Library of Israel)
 * Régis Robineau (Biblissima, Campus Condorcet)
 * Glen Robson (IIIF-C)

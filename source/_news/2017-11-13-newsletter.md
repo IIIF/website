@@ -218,7 +218,7 @@ Sheila Rabun, IIIF Community and Communications Officer
 * Antoine Isaac (Europeana)
 * Opher Kutner (ExLibris)
 * Sebastian Mangold (Bayerische Staatsbibliothek (BSB))
-* Mark Matienzo (Stanford University)
+* M.A. Matienzo (Stanford University)
 * Kiyonori Nagasaki (University of Tokyo)
 * Roger Noble (Zegami)
 * Richard Palmer (Victoria & Albert Museum)

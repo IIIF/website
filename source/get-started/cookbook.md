@@ -8,19 +8,25 @@ breadcrumbs:
    link: /get-started/
 ---
 
+{{ theme.block-start }}
+
 ## The Cookbook
 
-IIIF “recipes” are different reusable code snippets to help create IIIF manifests for common use cases. They’ll help you understand how to build up your IIIF Manifest using patterns that have emerged from within the IIIF community over time.
+IIIF "recipes" are different reusable code snippets to help create IIIF manifests for common use cases. They’ll help you understand how to build up your IIIF Manifest using patterns that have emerged from within the IIIF community over time.
 
 Using recipes is a bit like using a code library. If the recipe does what you need, you can copy and paste from the library to get up and running more quickly. Recipes will also help you familiarise yourself with patterns and techniques that IIIF developers use a lot.
 
 There’s a **#cookbook** channel on the IIIF Slack team too, if you’d like to know more or join a Cookbook community call.
 
-### Quick links:
+{{ theme.block-end }}
 
-- [The Cookbook of IIIF Recipes]({{ site.cookbook_url | absolute_url }}) 
-- [Cookbook Recipes Github repository](https://github.com/IIIF/cookbook-recipes/issues)
-- [Cookbook Process]({{ site.cookbook_url | absolute_url }}/recipe/)
+{{ theme.block-center-start }}
+## See all the recipes
+Go directly to the IIIF Cookbook and browse to see if your use case is covered.
+<br>
+<div class="columns is-centered">{% include misc/button.html button_label="View recipes" button_link="https://iiif.io/api/cookbook/" %}</div>
+
+{{ theme.block-end }}
 
 
 ## Recipes
