@@ -1,7 +1,13 @@
 ---
 title: "IIIF Newspapers Community Group"
 layout: page
-
+breadcrumbs:
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: /community/
+ - label: "Groups"
+   link: /community/groups/
 ---
 
 

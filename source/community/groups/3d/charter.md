@@ -1,7 +1,13 @@
 ---
-title: "IIIF 3D Community Group"
+title: "IIIF 3D Community Group Charter"
 layout: page
-
+breadcrumbs:
+ - label: "Get Involved"
+   link: /get-involved/
+ - label: "Community"
+   link: /community/
+ - label: "Groups"
+   link: /community/groups/
 ---
 
 ## Rationale
