@@ -55,7 +55,7 @@ Changes to this document will be tracked within and reflected via its [internal 
   | ---------- | ------------------------------------------------------------------- |
   | 2017-08-01 | First release                                                       |
   | 2017-12-01 | Updating contact details - Glen Robson                              |
-  | 2018-05-18 | Inclusion of link to reporting guidelines - Mark Matienzo           |
+  | 2018-05-18 | Inclusion of link to reporting guidelines - M.A. Matienzo           |
   | 2019-01-22 | Update IIIF reference to refer to any IIIF staff member             |
   | 2022-03-09 | Update to refer to IIIF staff plus advisors from CoCo as comprising code of conduct team |
 

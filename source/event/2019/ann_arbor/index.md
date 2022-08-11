@@ -45,7 +45,7 @@ If you have any questions about this call please contact [events@iiif.io][events
 | Glen Robson (IIIF Consortium Staff) |   | [glen.robson@iiif.io][glen]  | glen.robson | glenrobson |
 | Aliya Reich (CLIR/DLF Staff) |  | [areich@clir.org][reich] | aliya | aliyareich |
 | Rebecca Hirsch | | [rebecca.hirsch@yale.edu][hirsch] |  rhirsch |bibliobeka |
-| Mark Matienzo |  | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
+| M.A. Matienzo |  | [matienzo@stanford.edu][matienzo] | anarchivist | anarchivist |
 | Jack Reed |   | [pjreed@stanford.edu][reed] | mejackreed  | mejackreed  |
 
 

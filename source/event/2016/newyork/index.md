@@ -35,7 +35,7 @@ A [sched][sched] site with the details will be available.
 | 10:00 - 10:10 | Welcome            | Milan Hughston (MOMA)             |
 | 10:10 - 10:30 | Intro to IIIF      | Tom Cramer (Stanford)             |
 | 10:30 - 11:00 | Library Use Cases  | Christy Henshaw (Wellcome Trust), Matthieu Bonicel (Bibliothèque nationale de France), Régis Robineau (Biblissima) |
-| 11:00 - 11:30 | Archival Use Cases | Anna Naruta-Moya (Indigenous Digital Archive), Mark Matienzo (DPLA)   |
+| 11:00 - 11:30 | Archival Use Cases | Anna Naruta-Moya (Indigenous Digital Archive), M.A. Matienzo (DPLA)   |
 | 11:30 - 12:00 | Museum Use Cases   | Emmanuelle Delmas-Glass (YCBA), Michael Appleby (YCBA) |
 | 12:00 - 1:30  | _Lunch_              | _On Your Own_ |
 | 1:30 - 1:40   | Reconvene          | Tom Cramer (Stanford) |
@@ -92,7 +92,7 @@ A [sched][sched] site with the details will be available.
 |  2:20 -  2:40 | Webmention: A Demonstration of IIIF Collaboration between Scholars and Holding Libraries | Jeffrey Witt (Loyola University), Rafael Schwemmer (text & bytes)|
 |  2:40 -  3:00 | Leaflet-IIIF: Plugins and Extensibility with IIIF | Jack Reed (Stanford) |
 |  3:00 -  3:30 | _Break_ | -- |
-|  3:30 -  4:15 | IIIF and the Wider World: Alignment with Other Specifications (panel) | Mark Matienzo (DPLA), Rob Sanderson (Getty) |
+|  3:30 -  4:15 | IIIF and the Wider World: Alignment with Other Specifications (panel) | M.A. Matienzo (DPLA), Rob Sanderson (Getty) |
 |  4:15 -  5:00 | Big Projects in the Big Tent: Organizing Large Scale, IIIF-wide Projects in the Emerging IIIF Community Framework (discussion) | Tom Cramer (Stanford, facilitator) |
 {: .api-table .sched-table}
 

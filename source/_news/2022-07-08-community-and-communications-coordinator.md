@@ -8,12 +8,10 @@ layout: post
 
 We have a new job posting published for the role of Community and Communications Coordinator to join the IIIF Consortium staff. See below for details. 
 
-To apply, please supply a cover letter and resume through the [Paylocity recruiting portal](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1166001) of the Council on Library and Information Resources (IIIF's fiscal host organization).
+To apply, please supply a cover letter and resume through the Paylocity recruiting portal of the Council on Library and Information Resources (IIIF's fiscal host organization). [Note: applications are now closed and we have removed the link to the application portal. Thanks to all who applied!]
 
 For any questions regarding the position, please contact <admin@iiif.io>. And please help us spread the word!
 
-<br>
-<div class="columns is-centered">{% include misc/button.html button_label="Apply" button_link="https://recruiting.paylocity.com/Recruiting/Jobs/Details/1166001" %}</div>
 
 {{ theme.block-start }}
 
@@ -63,7 +61,5 @@ The posting will be open until filled; we expect to review resumes in August 202
 
 All applicants will be considered for employment without regard to age, gender or gender identity, race, ethnicity, physical disability, marital status, sexual orientation, religion, or political affiliation.
 
-<br>
-<div class="columns is-centered">{% include misc/button.html button_label="Apply" button_link="https://recruiting.paylocity.com/Recruiting/Jobs/Details/1166001" %}</div>
 
 {{ theme.block-end }}
