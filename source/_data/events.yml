@@ -1,12 +1,39 @@
-# - label: January IIIF Online Training (5-Day Course)
-#   time:
-#     start: 2022-01-24T06:00:00Z
-#     end: 2022-01-28T07:00:00Z
-#   links:
-#     - label: More info
-#       link: "get-started/training/online-training/"
-#     - label: Register
-#       link: https://www.eventbrite.com/e/january-iiif-online-training-5-day-course-tickets-176371781747
+- label: September IIIF Online Training (5-Day Course)
+  time:
+    start: 2022-09-19T06:00:00Z
+    end: 2022-09-23T07:00:00Z
+  links:
+    - label: More info
+      link: "get-started/training/online-training/"
+    - label: Register
+      link: https://www.eventbrite.com/e/september-2022-iiif-online-training-5-day-course-tickets-400661979767
+- label: October IIIF Online Training (5-Day Course)
+  time:
+    start: 2022-10-31T06:00:00Z
+    end: 2022-11-04T07:00:00Z
+  links:
+    - label: More info
+      link: "get-started/training/online-training/"
+    - label: Register
+      link: https://www.eventbrite.com/e/september-2022-iiif-online-training-5-day-course-tickets-400661979767
+- label: November IIIF Online Training (5-Day Course)
+  time:
+    start: 2022-11-21T06:00:00Z
+    end: 2022-11-25T07:00:00Z
+  links:
+    - label: More info
+      link: "get-started/training/online-training/"
+    - label: Register
+      link: https://www.eventbrite.com/e/september-2022-iiif-online-training-5-day-course-tickets-400661979767
+- label: December IIIF Online Training (5-Day Course)
+  time:
+    start: 2022-12-12T06:00:00Z
+    end: 2022-12-16T07:00:00Z
+  links:
+    - label: More info
+      link: "get-started/training/online-training/"
+    - label: Register
+      link: https://www.eventbrite.com/e/september-2022-iiif-online-training-5-day-course-tickets-400661979767
 # - label: "IIIF4Rresearch workshop - University of Durham"
 #   time:
 #     start: 2022-05-09T16:00:00Z
@@ -16,12 +43,36 @@
 #       link: "https://iiif4research.gla.ac.uk/index.php/workshops/workshop-4/"
 #   location:
 #     label: "Online event via Zoom"
-- label: July IIIF Online Training (5-Day Course)
+- label: IIIF Online Working Meeting
   time:
-    start: 2022-07-18T06:00:00Z
-    end: 2022-07-22T07:00:00Z
+    start: 2022-12-06T06:00:00Z
+    end: 2022-12-08T23:00:00Z
   links:
-    - label: More info
-      link: "get-started/training/online-training/"
-    - label: Register
-      link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
+    - label: More info coming soon
+      #link: "get-started/training/online-training/"
+    #- label: Register
+    #  link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
+  location: 
+    label: "Online event"
+- label: IIIF Online Conference
+  time:
+    start: 2022-12-06T06:00:00Z
+    end: 2022-12-08T23:00:00Z
+  links:
+    - label: More info coming soon
+      #link: "get-started/training/online-training/"
+    #- label: Register
+    #  link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
+  location: 
+    label: "Online event"
+- label: IIIF Annual Conference 2023
+  time:
+    start: 2023-06-05T06:00:00Z
+    end: 2023-06-08T23:00:00Z
+  links:
+    - label: More info coming soon
+      #link: "get-started/training/online-training/"
+    #- label: Register
+      #link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
+  location: 
+    label: "Naples, Italy"
