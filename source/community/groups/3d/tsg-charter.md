@@ -83,6 +83,7 @@ The expected initial deliverables are IIIF API extensions and a specification ch
 * Cyprus University of Technology / Digital Heritage Research Lab (Marinos Ioannides)
 * Deutsches Museum (Georg Hohmann)
 * Duke University (Doug Boyer)
+* Harvard Library (Matt Cook)
 * ISTI - CNR (Federico Ponchio)
 * MorphoSource (Julie Winchester)
 * Mnemoscene (Ed Silverton)
