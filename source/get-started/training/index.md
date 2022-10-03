@@ -11,7 +11,7 @@ breadcrumbs:
 ---
 
 ## Online workshops
-We regularly offer 5-day [online workshops]({{ site.root_url | absolute_url }}/get-started/training/online-training) led by expert instructors. These cover working with the Image and Presentation APIs and annotating images using a combination of asynchronous learning, Zoom meetings, 1-on-1 help sesions, and a dedicated Slack channel that remains active following the course. Participants will create a small IIIF project by the end of the course.
+We regularly offer 5-day [online workshops]({{ site.root_url | absolute_url }}/get-started/training/online-training) led by expert instructors. These cover working with the Image and Presentation APIs and annotating images using a combination of asynchronous learning, Zoom meetings, 1-on-1 help sessions, and a dedicated Slack channel that remains active following the course. Participants will create a small IIIF project by the end of the course.
 
 ### Register for an upcoming workshop
 
