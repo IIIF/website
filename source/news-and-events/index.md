@@ -7,7 +7,7 @@ hero:
   image: "assets/uploads/nypl_5180606.webp"
 top_tabs:
   - label: Featured events
-    content: "{%- include blocks/event-cards.html items=site.data.events limit=2 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=4 -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
   - label: Group meetings
     content: "{%- include blocks/event-cards.html limit=4 type='community_call' -%}{%- include misc/button.html button_label='View all' button_link='/events' -%}"
   - label: Call calendar

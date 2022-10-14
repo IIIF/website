@@ -1,5 +1,5 @@
 ---
-title: IIIF Events
+title: Past IIIF-Hosted Events
 layout: page
 permalink: /event/
 breadcrumbs:
