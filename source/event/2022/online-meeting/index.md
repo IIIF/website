@@ -15,7 +15,7 @@ breadcrumbs:
 
 The Online Meeting is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
-As a counterpart to the IIIF in-person Annual Conference, this event is meant  both to introduce newcomers to IIIF, and to provide a forum for discussion and dissemination for with experience implementing and working with IIIF in a variety of contexts.
+As a counterpart to the IIIF in-person Annual Conference, this event is meant  both to introduce newcomers to IIIF and to provide a forum for discussion and dissemination for those with experience implementing and working with IIIF in a variety of contexts.
 
 This event is guided by the [IIIF Code of Conduct][conduct].
 
