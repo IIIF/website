@@ -19,6 +19,18 @@ As a counterpart to the IIIF in-person Annual Conference, this event is meant  b
 
 This event is guided by the [IIIF Code of Conduct][conduct].
 
+## Call for Lightning Talks
+This year, we’re looking for talks in two broad categories:
+
+* Updates, ideas, and recent work from the IIIF community
+* Vendor updates on incorporating or (planning to incorporate) version 3.0 of the Image + Presentation APIs into products
+
+**Proposal submissions are due by Friday, November 4th**. Accepted talks are to be up to 7 minutes long and provided as a recording in advance of the event. Please reach out to us at <events@iiif.io> with any questions.
+
+You can [submit your proposals via this form](https://docs.google.com/forms/d/e/1FAIpQLSfkpraB3XxvvNNO2tD9rqRw9Ih-rGl8-KqADHErPj6PjHbNzw/viewform).
+
+
+
 
 ## Logistics
 * This event is free and open to all attendees
