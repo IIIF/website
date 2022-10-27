@@ -17,6 +17,10 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 - [Japanese translations of the IIIF specifications]({{ site.api_url | absolute_url }}/#community-translations)
 - [Software tools from Center for Open Data in the Humanities](http://codh.rois.ac.jp/software/index.html.ja), including the [IIIF Curation Platform](http://codh.rois.ac.jp/icp/index.html.ja)
 
+## Italiano / Italian
+
+- [IIIF Italian community forum](https://italy.iiif.link/)
+
 ## Deutsch / German
 
 - [IIIF Crashkurs [German] ](https://pieckh.github.io/IIIF-Crashkurs/IIIF-Crashkurs/?mc_cid=c8cc01e228&mc_eid=UNIQID)
