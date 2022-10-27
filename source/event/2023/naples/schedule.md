@@ -9,7 +9,7 @@ breadcrumbs:
   - label: Cambridge 2022
     link: '{{ site.root_url }}/event/2022/cambridge/'
 ---
-
+<!-- 
 ## 2022 IIIF Annual Conference Schedule
 
 The outline schedules of the [showcase][showcase] and conference are available below, with specific conference presentations and abstracts listed further down. The exact timing of each day’s schedule is still subject to change.
@@ -20,7 +20,7 @@ The outline schedules of the [showcase][showcase] and conference are available b
 
 
 * Registration for the IIIF showcase is free.
-* Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket. -->
+* Registration for the conference is $375 for a general ticket, $240 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $100 for a student/discount ticket. 
 
 ### **Sponsors**
 
@@ -262,5 +262,5 @@ The IIIF conference is open to advanced registrants.
         </div>
     </div>
 
-</div>
+</div> -->
 [showcase]: {{ site.root_url | absolute_url }}/event/2022/cambridge/showcase
