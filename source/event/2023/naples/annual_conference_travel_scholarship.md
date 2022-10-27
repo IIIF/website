@@ -1,5 +1,5 @@
 ---
-title: "2022 IIIF Conference travel scholarships"
+title: "2023 IIIF Conference travel scholarships"
 layout: event
 tags: [event ]
 ---
@@ -7,7 +7,7 @@ tags: [event ]
 
 ### Overview
 
-In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to announce two travel scholarships to attend the [Annual Conference][conference] being held this year in Cambridge, MA, USA.
+In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to announce two travel scholarships to attend the [Annual Conference][conference] being held this year in Naples, Italy.
 {{ theme.block-end }}
 {{ theme.block-start }}
 
@@ -18,7 +18,7 @@ A named conference travel scholarship is a great sponsorship opportunity includi
 <br>
 <br>
   
-<div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/event/2022/cambridge/sponsorship" %}</div>
+<div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/event/2023/naples/sponsorship" %}</div>
 
 {{ theme.block-end }}
 
@@ -42,7 +42,7 @@ Preference will be given to the following, in no specific order:
 
 ### Application requirements
 
-In an email to [admin@iiif.io](mailto:admin@iiif.io?subject=2022%20Travel%20Scholarship%20Application) with a subject line "2022 Travel Scholarship application," please provide the following: 
+In an email to [admin@iiif.io](mailto:admin@iiif.io?subject=2022%20Travel%20Scholarship%20Application) with a subject line "2023 Travel Scholarship application," please provide the following: 
 
 - A brief narrative (500 words maximum) that addresses the following elements:
     * How your work would benefit from connection to the IIIF community, and what you would hope to achieve at the conference
@@ -50,7 +50,7 @@ In an email to [admin@iiif.io](mailto:admin@iiif.io?subject=2022%20Travel%20Scho
     * A description of financial need (e.g., no professional development funds at your institution, or no travel funding, etc.)
 - A current resume or CV
 
-The application deadline is Tuesday, April 5, 2022. Applicants will be notified by Tuesday, April 19, 2022.
+The application deadline is February 28, 2023. Applicants will be notified by Tuesday, March 15, 2023.
 
 
 If you have any questions, please contact <staff@iiif.io>
@@ -59,5 +59,5 @@ If you have any questions, please contact <staff@iiif.io>
 
 [^code4lib_note]: This criterion closely mirrors the way the Code4Lib community describes requirements for their scholarship (https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form)
 
-[conference]: {{ site.root_url | absolute_url }}/event/2022/cambridge/
-[sponsorship]: {{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship
+[conference]: {{ site.root_url | absolute_url }}/event/2023/naples/
+[sponsorship]: {{ site.root_url | absolute_url }}/event/2023/naples/sponsorship
