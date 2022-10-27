@@ -6,7 +6,7 @@ banner: true
 breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'
-  - label: Cambridge 2022
+  - label: Naples 2023
     link: '{{ site.root_url }}/event/2023/naples/'
 ---
 
