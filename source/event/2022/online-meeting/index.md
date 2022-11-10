@@ -114,10 +114,10 @@ This event is guided by the [IIIF Code of Conduct][conduct].
 
 
 ## Logistics
-* This event is free and open to all attendees
+* This event is free and open to all attendees.
 * This event will be held using a single Zoom meeting for the sessions.  
 * Presentations will be recorded. 
-* All sessions will be in English unless otherwise noted
+* All sessions will be in English unless otherwise noted.
 
 ## Registration
 Registration is free! [Sign up once via Zoom](https://stanford.zoom.us/meeting/register/tJcvceuuqTItG90yow4P0cusIHCBDp27UYiS) and you'll have access to the Zoom meeting used for all sessions of the event. 
