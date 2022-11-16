@@ -1,19 +1,18 @@
 ---
-title: Announcing Caitlin Perry, IIIF Community and Communications Coordinator
-author: Josh Hadro, IIIF-C Managing Director
-date: 2022-11-07
+title: "2022 Online Meeting: Registration Open & Program Announcement"
+author: IIIF-C Staff
+date: 2022-11-14
 tags: [announcements, staff, new hires]
 layout: post
 ---
 
-We are very pleased to announce that Caitlin Perry has joined the staff of the IIIF Consortium as the Community and Communications Coordinator!
+Registration is now open for the [2022 Online Meeting, to be held December 6-8, 2022]({{ site.baseurl }}/event/2022/online-meeting). The online meeting is free and open to all, but [advance registration through Zoom is required](https://stanford.zoom.us/meeting/register/tJcvceuuqTItG90yow4P0cusIHCBDp27UYiS). Register once and you’ll have access to all event sessions. 
 
-Caitlin will be working with the experts and adopters of IIIF to help advance the framework and its utility. Before joining IIIF, Caitlin served as Communications and Data Manager at Educopia Institute, providing communications support, data management, and event planning across a portfolio of programs and research projects. Prior to that, Caitlin held roles at a software development company and in book publishing.
+The Online Meeting is meant to introduce newcomers to IIIF and to provide a forum for experienced practitioners to discuss and share their experience. This year’s program features showcases from the IIIF 3D, Maps, Design, and Museums Community Groups; a look at the IIIF Consortium and Community’s strategic plan; Lightning Talks; and much more. [View the entire schedule and learn more](https://iiif.io/event/2022/online-meeting/#registration). 
 
-Please give a warm welcome when you see Caitlin on upcoming calls and events, and many thanks to the members of the Hiring Committee and the community at large who helped during the hiring process.
+
+
 
 ---
-
-For more about the IIIF Consortium staff, see our [staff page]({{ site.baseurl }}/community/consortium/staff).
 
 Questions? Get in touch with us at <staff@iiif.io>
