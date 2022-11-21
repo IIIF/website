@@ -237,7 +237,7 @@
 #  iiifc:
 - name: National Library of Israel
   uri: http://www.nli.org.il
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/Logo_of_The_National_Library_of_Israel.jpg
 - name: National Library of New Zealand
   uri: https://natlib.govt.nz/
