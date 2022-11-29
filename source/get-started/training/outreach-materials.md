@@ -7,6 +7,8 @@ breadcrumbs:
    link: /get-started/
  - label: Training
    link: /get-started/training
+redirect_from:
+ - /get-started/training/outreach-materials/%C2%A0
 ---
 
 # Outreach materials
