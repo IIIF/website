@@ -1,6 +1,6 @@
 ---
 title: "IIIF Annual Conference Travel and Hotel Information"
-layout: event
+layout: spec
 page: overview
 banner: true 
 breadcrumbs:
@@ -11,44 +11,100 @@ breadcrumbs:
 ---
 
 ## Travel by air
-
-
-
-* The nearest airport is Boston/[Logan International Airport (BOS)](https://www.massport.com/logan-airport/). 
-* Upon arrival at Logan Airport, you can take the Silver Line Bus to the Red Line train which will bring you to Cambridge. Taxis, Uber, and Lyft are also available.
-
+* The nearest airport is [Naples International Airport (NAP)](https://www.aeroportodinapoli.it/en)
 
 ## Travel by train
 
-
-
-* For those traveling from within the US, the closest [Amtrak](https://www.amtrak.com/home) station is Boston’s South Station. 
-* Upon arrival at South Station, you can take the Red Line train directly into Cambridge. Taxis, Uber, and Lyft are also available.
-
+* Those traveling by rail can make use of Naples Centrale Train Station (Napoli Centrale)
 
 ## Local transportation
 
+* Naples Metro (Metropolitana di Napoli) is the rapid transit system conference attendees can use
 
 
-* The MBTA provides local transportation in Boston and Cambridge via bus and train. Please see their website to [plan your local trip](https://www.mbta.com/trip-planner).
-* Some hotels provide shuttle service to main areas of Cambridge such as Harvard and Central squares. Check your hotel amenities for further information.
+## Accommodations
+
+We have reserved rooms at a number of local hotels at reduced rates from June 4, 2023 - June 9, 2023. **All listed rates are guaranteed through January 31, 2023. Please consider booking early; rates will rise considerably and availability will decrease in the spring.**
 
 
-## Guaranteed rate hotels
+### Airone Hotel
 
-We have reserved guaranteed rates for conference attendees at local hotels, and other hotels are also available nearby. We encourage you to book well in advance as demand in the area is currently high.
+Via del Cerriglio,10 - 80134 Napoli
 
-[Hotel 1868](https://www.hotel1868.com/)
+prenotazioni@aironehotelnapoli.com  
 
-Located in Porter Square, one train stop away from Harvard University and three stops from MIT. Please call or email the hotel directly to get our conference rates: +1 617.499.2998 / info@hotel1868.com. Rates are $205/Mini Queen, $255/Standard Queen using code **IIIF22**. These rates cover stays between June 5-8.
++39 081.18.57.82.07
 
-[Porter Square Hotel](https://www.theportersquarehotel.com/)
+[https://www.aironehotelnapoli.com/](https://www.aironehotelnapoli.com/)
 
-Located in Porter Square, one train stop away from Harvard University and three stops from MIT.  Please call or email the hotel directly to get our conference rates: info@theportersquarehotel.com / +1 617.499.3399. Rates are $215/Petite Double Twin, $219/Petite Queen, $229/Deluxe Double Twin, $239/Deluxe Queen, $259/Queen Suite using code **IIIF22**. These rates cover stays between June 5-8.
+Double Rooms
+
+Single Occupancy EUR 125
+
+Double Occupancy EUR 130
+
+Triple Occupancy EUR 150
+
+Single Rooms
+
+  Single Occupancy EUR 100
+
+To book, email [reservations@aironehotelnapoli.com](mailto:reservations@aironehotelnapoli.com) and use IIIF Reservation Code: AIRONFLAG
 
 
-## Other hotels
+### B&B Chiaia 32 Napoli 
 
-[Sonder 907 Main](https://www.sonder.com/destinations/boston/BOS-MAIN907-205/c31633?sleeps=1)
+Via Chiaia 32 80121 Napoli
 
-Located in Central Square, one train stop from Harvard University and one stop from MIT. Rates vary.
+[https://www.bbchiaia32.com/en/](https://www.bbchiaia32.com/en/)
+
+Double Superior Room EUR 130
+
+Economy Room EUR 100
+
+Single Room EUR 95
+
+To book, email [reservations@bbchiaia32.com](mailto:reservations@bbchiaia32.com) and use IIIF reservation code BB32FLAG
+
+
+### B&B Chiaia 197
+
+Via Chiaia 197 80121 Napoli
+
+[https://www.bbchiaia32.com/en/](https://www.bbchiaia32.com/en/)
+
+Double Superior Room EUR 130
+
+To book, email [info@bbchiaia32.com](mailto:info@bbchiaia32.com) and use IIIF reservation code BB197FLAG
+
+
+### Starhotel Terminus
+
+Piazza Garibaldi, 91 - 80142 Napoli 
+
+terminus.na@starhotels.it
+
++39 081 7793111
+
+[https://www.starhotels.com/en/our-hotels/terminus-naples/](https://www.starhotels.com/en/our-hotels/terminus-naples/)
+
+Single Room EUR 190
+
+Double Room EUR 210
+
+To book, complete the [credit card authorization form](https://drive.google.com/file/d/1iiffuy3fcPDGOAYRPGmEgFnxzuqzatGY/view?usp=sharing) and return to  [terminus.na@starhotels.it](mailto:terminus.na@starhotels.it) 
+
+
+### Exe Majestic
+
+Largo Vasto a Chiaia, 68 - 80121 Napoli
+
++39 081 416500
+
+[https://www.eurostarshotels.co.uk/exe-majestic.html](https://www.eurostarshotels.co.uk/exe-majestic.html)
+
+Single Room EUR 199
+
+Double Room EUR 209
+
+To book, complete the [reservation form](https://drive.google.com/file/d/1hL1ZJ6Vu4Jamap8FBHML6fa22y3W2NdX/view?usp=share_link) and return to [reservations@exemajestic.com](mailto:reservations@exemajestic.com)

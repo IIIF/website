@@ -27,9 +27,10 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Location: Naples, Italy (Map of venue locations and more coming soon)
     * IIIF Showcase: June 5, 2023
-    * Conference: June 6-8, 2023
+    * Workshops and metings: June 6, 2023
+    * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
-* Registration for the conference is $395 for a general ticket, $250 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
+* Registration for the conference will be €485 for a general ticket, €265 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC and WHO recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
@@ -50,7 +51,9 @@ In order to foster a conference environment that better reflects the diversity o
 
 
 
-* Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details.
+* Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details on pre-arranged rates.
+
+Note: the lowest rates expire January 31, so book soon if you intend on joining us in Naples!
 
 
 <!-- ### **Schedule**
@@ -62,7 +65,7 @@ In order to foster a conference environment that better reflects the diversity o
 
 #### **Program committee**
 
-We will be putting out a call for Program Committee members in November 2022. 
+We will be putting out a call for Program Committee members in December 2022. 
 If you'd like to volunteer, get in touch with us via <events@iiif.io>.
 
 
