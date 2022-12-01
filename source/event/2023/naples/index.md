@@ -76,6 +76,7 @@ Thank you to the 2023 local planning committee:
 * Rino Ferrante
 * Serena Picarelli
 * Chiara Fusco
+* Pierfrancesco Valentini di Castromediano
 
 
 ### **Sponsors**

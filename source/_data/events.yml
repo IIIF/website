@@ -1,12 +1,3 @@
-- label: November IIIF Online Training (5-Day Course)
-  time:
-    start: 2022-11-21T06:00:00Z
-    end: 2022-11-25T07:00:00Z
-  links:
-    - label: More info
-      link: "get-started/training/online-training/"
-    - label: Register
-      link: https://www.eventbrite.com/e/november-2022-iiif-online-training-5-day-course-tickets-400723423547
 - label: "IIIF and archives, hosted by Biblissima+"
   time:
     start: 2022-11-30T09:00:00Z
@@ -38,6 +29,13 @@
       link: "get-started/training/online-training/"
     - label: Register
       link: https://www.eventbrite.com/e/december-2022-iiif-online-training-5-day-course-tickets-400726262037
+- label: "Webinar: International Image Interoperability Framework (IIIF) em Património Cultural Digital"
+  time:
+    start: 2022-12-15T18:30:00Z
+    end: 2022-12-15T19:30:00Z
+  links:
+    - label: More info
+      link: "https://bad.pt/plano-de-formacao/international-image-interoperability-framework-iiif-em-patrimonio-cultural-digital/"
 - label: IIIF Annual Conference 2023
   time:
     start: 2023-06-05T06:00:00Z
