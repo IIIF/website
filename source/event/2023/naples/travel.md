@@ -39,7 +39,7 @@ We have reserved rooms at a number of local hotels at reduced rates from June 4,
 
 ### Airone Hotel
 
-Via del Cerriglio,10 - 80134 Napoli
+Via del Cerriglio, 10 - 80134 Napoli
 
 prenotazioni@aironehotelnapoli.com  
 
