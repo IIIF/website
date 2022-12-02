@@ -13,13 +13,23 @@ breadcrumbs:
 ## Travel by air
 * The nearest airport is [Naples International Airport (NAP)](https://www.aeroportodinapoli.it/en)
 
-## Travel by train
+## Ground Transportation
 
-* Those traveling by rail can make use of Naples Centrale Train Station (Napoli Centrale)
+### Bus
 
-## Local transportation
+The [Naples Alibus Airport Shuttle](http://www.aeroportodinapoli.it/collegamenti-con-napoli-centro) transports travelers between Naples Capodichino Airport, the Central Train Station, Immacolatella, and Molo Beverello at 20 minute intervals. Travelers should use the Immacolatella stop to access downtown hotels and the university.  \
+ \
+Tickets are €5 and can be purchased [online](https://eshop.aeroportodinapoli.it/pbpwebapp/it/showParkings?serviceType=ANM) or on the bus using cash or contactless card. 
 
-* Naples Metro (Metropolitana di Napoli) is the rapid transit system conference attendees can use
+
+### Taxi
+
+Taxis from the Capodichino Airport to Piazza Bovio (a central square convenient to most hotels) cost between €15 and €20, plus additional fees for baggage. A taxi line is available outside of the Arrivals terminal.
+
+
+### Public Transportation
+
+Naples has a robust public transportation system encompassing buses, trolleys, and subways. All public transportation within the city limits is administered by UnicoCampania and covered by the same tickets or travel pass. Unico Campania can be purchased at bus terminal ticket offices, Metropolitana stations, tobacco shops, newsstands, or [online](https://www.unicocampania.it/?lang=en&center=inside&colonna=biglietti&action=4). A map of the city’s metro system is [available here](https://drive.google.com/file/d/1eM2nEkor3SufC6prS_gVBU8OJzQawxO8/view?usp=share_link). 
 
 
 ## Accommodations
