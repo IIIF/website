@@ -1,14 +1,7 @@
 ---
 title: "Access to the World's Images - New York 2016"
-layout: event
-tags: [event ]
+layout: spec
 ---
-
-## Table of Contents
-{:.no_toc}
-
-* Goes Here
-{:toc}
 
 ## Access to the World's Images: The Advantages of IIIF
 
@@ -125,6 +118,9 @@ A [sched][sched] site with the details will be available.
 | 4:00 - 4:15   | MediaChain and IIIF (Jesse Walden) | | Manuscript WG |
 | 4:15 - 5:00   | Feedback, Next Steps, Close |  | Manuscript WG |
 {: .api-table .msched-table}
+
+
+
 
 [home-page]: {{ site.root_url | absolute_url }}
 [eventbrite]: http://iiif-advantages-nyc.eventbrite.com/
