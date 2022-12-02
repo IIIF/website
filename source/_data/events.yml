@@ -1,14 +1,3 @@
-- label: "IIIF and archives, hosted by Biblissima+"
-  time:
-    start: 2022-11-30T09:00:00Z
-    end: 2022-12-01T18:00:00Z
-  links: 
-    - label: More info
-      link: "https://projet.biblissima.fr/en/news/cluster-1-annual-days-2022-acquisition-interoperable-source-corpora"
-    - label: Register (free)
-      link: "https://evento.renater.fr/survey/seminaire-iiif-dans-les-archives-1er-decembre-2022-campus-condorcet-i3z89byz"
-  location:
-    label: "Hybrid event, online and Campus Condorcet (Paris)"
 - label: IIIF Online Meeting
   time:
     start: 2022-12-06T06:00:00Z
@@ -41,9 +30,9 @@
     start: 2023-06-05T06:00:00Z
     end: 2023-06-08T23:00:00Z
   links:
-    - label: More info coming soon
-      #link: "get-started/training/online-training/"
-    #- label: Register
-      #link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
+    - label: More info
+      link: "/event/2023/naples/"
+    - label: Travel info
+      link: "/event/2023/naples/travel"
   location: 
     label: "Naples, Italy"
