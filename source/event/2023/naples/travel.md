@@ -112,6 +112,8 @@ Phone 3420438501
 
 90.00 euro per day with breakfast
 
+To book, complete the [reservation form](https://docs.google.com/document/d/16m3x0VvdGEdJBeG7iWwEUEUzZgXUGqLY/edit?usp=share_link&ouid=103581451912509259350&rtpof=true&sd=true) and return to [INFO@SUITEDEICATALANI.IT](mailto:INFO@SUITEDEICATALANI.IT)
+
 
 ### Starhotel Terminus
 
