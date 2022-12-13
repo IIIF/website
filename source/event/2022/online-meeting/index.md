@@ -15,7 +15,7 @@ hero:
 ---
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<script src="{{ site.root_url | absolute_url }}/js/vendor/add-to-calendar.min.js"></script> 
+<!-- <script src="{{ site.root_url | absolute_url }}/js/vendor/add-to-calendar.min.js"></script>  -->
 <script src="{{ site.root_url | absolute_url }}/js/vendor/moment-with-locales.min.js"></script>
 <script src="{{ site.root_url | absolute_url }}/js/vendor/moment-timezone-with-data.js"></script> 
 
