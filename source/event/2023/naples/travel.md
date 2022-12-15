@@ -37,31 +37,6 @@ Naples has a robust public transportation system encompassing buses, trolleys, a
 We have reserved rooms at a number of local hotels at reduced rates from June 4, 2023 - June 9, 2023. **All listed rates are guaranteed through January 31, 2023. Please consider booking early; rates will rise considerably and availability will decrease in the spring.**
 
 
-### Airone Hotel
-
-Via del Cerriglio,10 - 80134 Napoli
-
-prenotazioni@aironehotelnapoli.com  
-
-+39 081.18.57.82.07
-
-[https://www.aironehotelnapoli.com/](https://www.aironehotelnapoli.com/)
-
-Double Rooms
-
-Single Occupancy EUR 125
-
-Double Occupancy EUR 130
-
-Triple Occupancy EUR 150
-
-Single Rooms
-
-  Single Occupancy EUR 100
-
-To book, email [reservations@aironehotelnapoli.com](mailto:reservations@aironehotelnapoli.com) and use IIIF Reservation Code: AIRONFLAG
-
-
 ### B&B Chiaia 32 Napoli 
 
 Via Chiaia 32 80121 Napoli
@@ -112,6 +87,8 @@ Phone 3420438501
 
 90.00 euro per day with breakfast
 
+To book, complete the [reservation form](https://docs.google.com/document/d/16m3x0VvdGEdJBeG7iWwEUEUzZgXUGqLY/edit?usp=share_link&ouid=103581451912509259350&rtpof=true&sd=true) and return to [INFO@SUITEDEICATALANI.IT](mailto:INFO@SUITEDEICATALANI.IT)
+
 
 ### Starhotel Terminus
 
@@ -143,3 +120,7 @@ Single Room EUR 199
 Double Room EUR 209
 
 To book, complete the [reservation form](https://drive.google.com/file/d/1hL1ZJ6Vu4Jamap8FBHML6fa22y3W2NdX/view?usp=share_link) and return to [reservations@exemajestic.com](mailto:reservations@exemajestic.com)
+
+### Airbnb
+
+There are a small number of Airbnb accommodations offering discounts to conference attendees. For more information, please contact [staff@iiif.io.](mailto:staff@iiif.io)
