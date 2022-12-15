@@ -27,7 +27,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Location: Naples, Italy (Map of venue locations and more coming soon)
     * IIIF Showcase: June 5, 2023
-    * Workshops and metings: June 6, 2023
+    * Workshops and meetings: June 6, 2023
     * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
 * Registration for the conference will be €485 for a general ticket, €265 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
