@@ -63,12 +63,6 @@ Note: the lowest rates expire January 31, so book soon if you intend on joining 
 * See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
 
 
-#### **Program committee**
-
-We will be putting out a call for Program Committee members in December 2022. 
-If you'd like to volunteer, get in touch with us via <events@iiif.io>.
-
-
 #### **Local planning committee**
 
 Thank you to the 2023 local planning committee:
