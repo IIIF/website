@@ -1,7 +1,7 @@
 ---
 title: Now accepting proposals for the 2023 IIIF Annual Conference
 author: IIIF Consortium staff
-date: 2023-01-10
+date: 2023-01-09
 tags: [announcements]
 layout: post
 excerpt: >
@@ -23,7 +23,7 @@ The IIIF Conference Program Committee invites proposals for presentation in the 
 
 Only panel sessions that have a diverse set of panelists will be considered, with representation along many possible dimensions, including but not limited to, race and ethnicity, national origin, gender identity and expression, sexual orientation, disability, age, and socio-economic status. Similarly, representation from a variety of geographic regions or institution type/size will be prioritized. All submitted proposals are peer-reviewed and will be considered for inclusion in the conference schedule by a volunteer program committee. 
 
-Please submit a proposal of no longer than 500 words for your presentation by **February 6. **In your proposal, please be sure to discuss how your presentation is relevant to IIIF, its contribution to the IIIF Community, and whether it is directed toward a technical or general audience. To ensure that the Conference features a wide range of speakers and presentations, we ask that individuals limit their submissions to no more than two**:**
+Please submit a proposal of no longer than 500 words for your presentation by **February 6.** In your proposal, please be sure to discuss how your presentation is relevant to IIIF, its contribution to the IIIF Community, and whether it is directed toward a technical or general audience. To ensure that the Conference features a wide range of speakers and presentations, we ask that individuals limit their submissions to no more than two:s
 
 **[Call for Submissions Portal](https://www.conftool.org/iiif2023/)**
 
