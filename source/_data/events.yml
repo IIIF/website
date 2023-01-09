@@ -1,30 +1,10 @@
-- label: IIIF Online Meeting
+- label: "sectorevent rond digitale innovatie met Vlaams werelderfgoed (en IIIF Friday)"
   time:
-    start: 2022-12-06T06:00:00Z
-    end: 2022-12-08T23:00:00Z
+    start: 2023-02-17T18:30:00Z
+    end: 2023-02-17T19:30:00Z
   links:
     - label: More info
-      link: "event/2022/online-meeting"
-    - label: Register (free)
-      link: https://stanford.zoom.us/meeting/register/tJcvceuuqTItG90yow4P0cusIHCBDp27UYiS
-  location: 
-    label: "Online event"
-- label: December IIIF Online Training (5-Day Course)
-  time:
-    start: 2022-12-12T06:00:00Z
-    end: 2022-12-16T07:00:00Z
-  links:
-    - label: More info
-      link: "get-started/training/online-training/"
-    - label: Register
-      link: https://www.eventbrite.com/e/december-2022-iiif-online-training-5-day-course-tickets-400726262037
-- label: "Webinar: International Image Interoperability Framework (IIIF) em Património Cultural Digital"
-  time:
-    start: 2022-12-15T18:30:00Z
-    end: 2022-12-15T19:30:00Z
-  links:
-    - label: More info
-      link: "https://bad.pt/plano-de-formacao/international-image-interoperability-framework-iiif-em-patrimonio-cultural-digital/"
+      link: "https://www.mmmonk.be/nl/nieuws/schrijf-je-in-voor-sectorevent-rond-digitale-innovatie-met-vlaams-werelderfgoed"
 - label: IIIF Annual Conference 2023
   time:
     start: 2023-06-05T06:00:00Z
