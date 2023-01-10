@@ -63,7 +63,23 @@ Note: the lowest rates expire January 31, so book soon if you intend on joining 
 * See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
 
 
-#### **Local planning committee**
+### Program committee
+
+Thank you to the 2022 Program committee:
+
+* Rossitza Atanassova
+* Ben Bakelaar 
+* Dan Brennan
+* Dawn Childress
+* Martin Critelli
+* Gennaro Ferrante
+* Nuno Freire
+* Raffaele Messuti
+* Caitlin Perry 
+* Julien A. Raemy
+* Glen Robson 
+
+#### Local planning committee
 
 Thank you to the 2023 local planning committee:
 
