@@ -65,7 +65,7 @@ Note: the lowest rates expire January 31, so book soon if you intend on joining 
 
 ### Program committee
 
-Thank you to the 2022 Program committee:
+Thank you to the 2023 Program committee:
 
 * Rossitza Atanassova
 * Ben Bakelaar 
