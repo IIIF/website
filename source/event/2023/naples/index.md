@@ -30,7 +30,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
     * Workshops and meetings: June 6, 2023
     * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
-* Registration for the conference will be €485 for a general ticket, €265 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
+* Registration will open in early February. Costs for the conference will be €485 for a general ticket, €265 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC and WHO recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
