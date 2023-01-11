@@ -1,10 +1,3 @@
-- label: "sectorevent rond digitale innovatie met Vlaams werelderfgoed (en IIIF Friday)"
-  time:
-    start: 2023-02-17T18:30:00Z
-    end: 2023-02-17T19:30:00Z
-  links:
-    - label: More info
-      link: "https://www.mmmonk.be/nl/nieuws/schrijf-je-in-voor-sectorevent-rond-digitale-innovatie-met-vlaams-werelderfgoed"
 - label: "February 2023 IIIF Online Training (5-Day Course)"
   time:
     start: 2023-02-06T14:00:00Z
@@ -12,6 +5,13 @@
   links:
     - label: Register
       link: "https://www.eventbrite.com/e/february-2023-iiif-online-training-5-day-course-tickets-512874149387"
+- label: "sectorevent rond digitale innovatie met Vlaams werelderfgoed (en IIIF Friday)"
+  time:
+    start: 2023-02-17T18:30:00Z
+    end: 2023-02-17T19:30:00Z
+  links:
+    - label: More info
+      link: "https://www.mmmonk.be/nl/nieuws/schrijf-je-in-voor-sectorevent-rond-digitale-innovatie-met-vlaams-werelderfgoed"
 - label: IIIF Annual Conference 2023
   time:
     start: 2023-06-05T06:00:00Z
