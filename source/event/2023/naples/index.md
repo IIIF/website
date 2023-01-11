@@ -62,6 +62,16 @@ Note: the lowest rates expire January 31, so book soon if you intend on joining 
 
 * See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
 
+### Call for proposals
+
+The IIIF Conference Program Committee [invites proposals]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/) for presentation in the following formats:
+
+* Up to a ½ day workshop (4 hours)
+* 7 to 10 minute lightning talks
+* 15-20 minute presentations (plus 5-10 mins questions)
+* 90 minute open block (Could be panel session or grouped presentations) 
+
+Proposal of no longer than 500 words are due **February 6** via the submissions portal; see the [CfP page for more submission details including themes and requirements]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/).
 
 ### Program committee
 
