@@ -26,7 +26,7 @@ A named conference travel scholarship is a great sponsorship opportunity includi
 
 - The IIIF Consortium will provide up to $2000 to reimburse travel, lodging, registration, and meals
 - The recipient is responsible for booking travel and logistics (although if upfront payment is an issue we can help with some coordination), and for submitting expenses within 30 days of the conclusion of the conference 
-- Recipients are expected to handle any paperwork requirements for travel to Cambridge, MA, but if letters of support or invitation are necessary the IIIF Consortium will provide those upon request
+- Recipients are expected to handle any paperwork requirements for travel to Naples, Italy, but if letters of support or invitation are necessary the IIIF Consortium will provide those upon request
 - During the conference, recipients are expected only to be engaged participants, and there is no expectation of volunteer work or other duties other than session attendance
 - There will also be additional opportunities for contact and connection, including possible mentorship opportunities to be finalized closer to the date of the conference    
 

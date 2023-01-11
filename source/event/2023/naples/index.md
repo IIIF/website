@@ -30,7 +30,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
     * Workshops and meetings: June 6, 2023
     * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
-* Registration for the conference will be €485 for a general ticket, €265 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
+* Registration will open in early February. Costs for the conference will be €485 for a general ticket, €265 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC and WHO recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
@@ -62,6 +62,16 @@ Note: the lowest rates expire January 31, so book soon if you intend on joining 
 
 * See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
 
+### Call for proposals
+
+The IIIF Conference Program Committee [invites proposals]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/) for presentation in the following formats:
+
+* Up to a ½ day workshop (4 hours)
+* 7 to 10 minute lightning talks
+* 15-20 minute presentations (plus 5-10 mins questions)
+* 90 minute open block (Could be panel session or grouped presentations) 
+
+Proposal of no longer than 500 words are due **February 6** via the submissions portal; see the [CfP page for more submission details including themes and requirements]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/).
 
 ### Program committee
 
