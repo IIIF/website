@@ -24,11 +24,11 @@ Current Executive Committee institutions are:
 - Göttingen State and University Library (SUB Göttingen)
 - Harvard University
 - J. Paul Getty Trust
-- Kyoto University Library Network
 - Leiden University Libraries
 - National Gallery of Art
+- Northwestern University
 - Stanford University
-- Wellcome Trust
+- The University of Edinburgh
 - Yale University
 
 Committee Chair: Tom Cramer, Stanford University Libraries  
