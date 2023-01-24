@@ -36,6 +36,30 @@ Naples has a robust public transportation system encompassing buses, trolleys, a
 
 We have reserved rooms at a number of local hotels at reduced rates from June 4, 2023 - June 9, 2023. **All listed rates are guaranteed through January 31, 2023. Please consider booking early; rates will rise considerably and availability will decrease in the spring.**
 
+### Airone Hotel
+
+Via del Cerriglio,10 - 80134 Napoli
+
+prenotazioni@aironehotelnapoli.com  
+
++39 081.18.57.82.07
+
+[https://www.aironehotelnapoli.com/](https://www.aironehotelnapoli.com/)
+
+Double Rooms
+
+Single Occupancy EUR 125
+
+Double Occupancy EUR 130
+
+Triple Occupancy EUR 150
+
+Single Rooms
+
+Single Occupancy EUR 100
+
+To book, email [reservations@aironehotelnapoli.com](mailto:reservations@aironehotelnapoli.com) and use IIIF Reservation Code: AIRONFLAG
+
 
 ### B&B Chiaia 32 Napoli 
 
