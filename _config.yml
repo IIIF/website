@@ -47,7 +47,7 @@ page_gen:
 
 banner:
   enabled: true
-  title: "Hotels discounts available for the 2023 IIIF Annual Conference!"
+  title: "Hotel discounts available for the 2023 IIIF Annual Conference!"
   subtitle: Book by January 31 to get the best rates.
   link: 'https://iiif.io/event/2023/naples/travel/'
   link_label: Learn more
