@@ -3,10 +3,10 @@
     <tr>
         {% assign start = presentation.start | string %}
         <td>
-            <a name="block-{{include.block}}-{{presentation.id}}"></a>
+            <span id="block-{{include.block}}-{{presentation.id}}"></span>
             {{start}} - {{presentation.end}}
         </td>
-        <td><a href="#{{presentation.id}}">{{presentation.title}}</a></td>
+        <td><span id="#{{presentation.id}}">{{presentation.title}}</span></td>
         <td>
             {% for author in presentation.authors %}
                 {{author.name}}{% if forloop.last == false %},{% endif %}

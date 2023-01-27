@@ -42,7 +42,7 @@ Technical Specification Groups are specifically chartered to update existing spe
 * A/V TSG -- with the publication of the [Presentation API 3.0]({{ site.api_url | absolute_url }}/presentation/3.0/) in June 2020, this TSG completed its work and evolved in the A/V community group listed above. 
 * Software Developers Community Group
 
-<h2><a name="calendar"></a>Community call calendar</h2>
+<h2 id="calendar">Community call calendar</h2>
 
 To load this calendar into external applications like Outlook or Mac Calendar please download the calendar in this [ical format](https://calendar.google.com/calendar/ical/1hnm5h86n94ore0vnoo188ter8%40group.calendar.google.com/public/basic.ics).
 

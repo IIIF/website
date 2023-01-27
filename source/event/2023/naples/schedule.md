@@ -152,7 +152,7 @@ The IIIF conference is open to advanced registrants.
         <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
             {% assign blockNo = block[1].id %}
 
-            <a id='session{{ blockNo }}' name='session{{ blockNo }}'></a><h3>Block {{ blockNo }}</h3>
+            <span id='session{{ blockNo }}' name='session{{ blockNo }}'></span><h3>Block {{ blockNo }}</h3>
             <h3>{{ block[1].session_time }}</h3>
         </div>
 

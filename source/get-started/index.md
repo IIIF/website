@@ -112,7 +112,7 @@ Take the first step to exploring the rich world of IIIF-enabled materials.
 
 {{ theme.block-center-start }}
 
-<a name='implementers'></a>
+<span id="implementers"></span>
 ## Implement IIIF for your materials
 {: #implementers}
 
