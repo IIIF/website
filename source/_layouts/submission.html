@@ -22,7 +22,7 @@ breadcrumbs:
           <h1>{{page.submission_title}}</h1>
               <p>
               {% for author in page.authors %}
-                      {% if author.web_page != '' %}<a href="{{author.web_page}}"><b>{{ author.firstname }} {{ author.lastname}}</b></a> - {{ author.organization }} ({{ author.country }}){% else %}<b>{{ author.firstname }} {{ author.lastname}}</b> - {{ author.organization }} ({{ author.country }}){% endif %}{% if forloop.last == false %}, {% endif %}
+                      {% if author.web_page and author.web_page != '' %}<a href="{{author.web_page}}"><b>{{ author.firstname }} {{ author.lastname}}</b></a> - {{ author.organization }} ({{ author.country }}){% else %}<b>{{ author.firstname }} {{ author.lastname}}</b> - {{ author.organization }} ({{ author.country }}){% endif %}{% if forloop.last == false %}, {% endif %}
               {% endfor %}
               </p>
           <p><b>Abstract: </b>{{page.abstract | replace: '&', '&amp;'}}</p>
