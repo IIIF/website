@@ -58,7 +58,7 @@ Single Rooms
 
 Single Occupancy EUR 100
 
-To book, email [reservations@aironehotelnapoli.com](mailto:reservations@aironehotelnapoli.com) and use IIIF Reservation Code: AIRONFLAG
+To book, email [prenotazioni@aironehotelnapoli.com](mailto:prenotazioni@aironehotelnapoli.com) and use IIIF Reservation Code: AIRONFLAG
 
 
 ### B&B Chiaia 32 Napoli 
