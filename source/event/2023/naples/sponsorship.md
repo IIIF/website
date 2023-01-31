@@ -9,12 +9,7 @@ The International Image Interoperability Framework (IIIF) conference offers an e
 
 The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small Universities, Libraries, Archives and Museums, including: collection managers, software developers, UX researchers, subject matter experts, and more. We expect 250-300 attendees keen to learn about IIIF and associated projects, technologies, and best practices.
 
-### **Gold - $2,500**
-
-* 2 conference registrations
-* Sponsor tables space
-* Logo on iiif.io website and conference slides
-* Acknowledgements throughout plenary program
+### **Gold - $2,500 - FULL!**
 
 
 ### **Travel Scholarship Sponsor - $2,000**
