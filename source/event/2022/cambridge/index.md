@@ -12,7 +12,7 @@ breadcrumbs:
 
 
 
-The 2022 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}) Annual Conference will be held in Cambridge, MA, USA June 6–8, 2022, and will be hosted jointly by [Harvard University](https://www.harvard.edu/) and the [Massachusetts Institute of Technology ](https://mit.edu/)(MIT) along with the IIIF Consortium.
+The 2022 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}/) Annual Conference will be held in Cambridge, MA, USA June 6–8, 2022, and will be hosted jointly by [Harvard University](https://www.harvard.edu/) and the [Massachusetts Institute of Technology ](https://mit.edu/)(MIT) along with the IIIF Consortium.
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 

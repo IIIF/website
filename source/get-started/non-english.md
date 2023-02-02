@@ -37,7 +37,7 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 ##  Português / Portuguese
 
 - [Conhecendo o IIIF — Padrões e ferramentas para publicação de imagens na web](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36)
-- [IIIF e patrimônio cultural](https://martimpassos.notion.site/IIIF-e-Patrim-nio-Cultural-92dbb6e8feb0498f9c77b8f00f5d5386)
+- [IIIF e patrimônio cultural](https://martimpassos.notion.site/IIIF-e-Patrim-nio-Cultural-92dbb6e8feb0498f9c77b8f00f5d5386){:data-proofer-ignore=''}
 
 ## 中文 / Chinese
 - [Chinese translations of the IIIF specifications]({{ site.api_url | absolute_url }}/#community-translations)
