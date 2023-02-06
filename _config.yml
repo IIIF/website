@@ -47,9 +47,9 @@ page_gen:
 
 banner:
   enabled: true
-  title: "Hotel discounts available for the 2023 IIIF Annual Conference!"
-  subtitle: Book ASAP to get the best rates.
-  link: 'https://iiif.io/event/2023/naples/travel/'
+  title: "Registration is now open for the 2023 IIIF Annual Conference!"
+  subtitle: "Discounted hotel rates still available."
+  link: 'https://iiif.io/event/2023/naples/'
   link_label: Learn more
 
 # Jekyll SEO plugin info
