@@ -23,8 +23,6 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 ### **Overview**
 
-
-
 * Location: Naples, Italy (Map of venue locations and more coming soon)
     * IIIF Showcase: June 5, 2023
     * Workshops and meetings: June 6, 2023
