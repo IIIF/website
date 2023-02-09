@@ -69,7 +69,7 @@ Community Groups provide interest-specific forums for general discussion, brains
     5. Regular call schedule
     6. Call connection information
   * At least three organizations must be represented in a Community Group at all times. Anyone may be part of a Community Group. To join, follow the specified channels for the group, which may include adding your name to the group member roster, joining the [Slack][iiif-slack] channel, and following conversation on [IIIF-Discuss][iiif-discuss] and group meetings via the [IIIF calendar][calendar].
-  * Community Groups must always have at least one member designated as Chair, and preferably two or at most three. Chairs are responsible for promoting continued activity within the group, but have no additional powers or rights than any other participant.
+  * Community Groups must always have at least one member designated as Chair, and preferably two to four. Chairs are responsible for promoting continued activity within the group, but have no additional powers or rights than any other participant.
   * The discussions of the Community Group must be transparent and public, with notes made available through the [IIIF Google Drive][iiif-drive].
 
 ### Community Group dissolution
@@ -137,7 +137,7 @@ Technical Specification Groups are dissolved under the following circumstances:
 
 ## Updates
 
-This community framework is an evolving document, and will be updated by the IIIF Coordinating Committee as required. *Last updated: 24 August 2021*.
+This community framework is an evolving document, and will be updated by the IIIF-C staff and the Coordinating Committee as needed. *Last updated: 07 February 2023*.
 
 ## Questions
 
