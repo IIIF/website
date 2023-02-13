@@ -1,51 +1,25 @@
-- label: November IIIF Online Training (5-Day Course)
+- label: "February 2023 IIIF Online Training (5-Day Course)"
   time:
-    start: 2022-11-21T06:00:00Z
-    end: 2022-11-25T07:00:00Z
+    start: 2023-02-06T14:00:00Z
+    end: 2023-02-10T15:00:00Z
   links:
-    - label: More info
-      link: "get-started/training/online-training/"
     - label: Register
-      link: https://www.eventbrite.com/e/november-2022-iiif-online-training-5-day-course-tickets-400723423547
-- label: "IIIF and archives, hosted by Biblissima+"
+      link: "https://www.eventbrite.com/e/february-2023-iiif-online-training-5-day-course-tickets-512874149387"
+- label: "sectorevent rond digitale innovatie met Vlaams werelderfgoed (en IIIF Friday)"
   time:
-    start: 2022-11-30T09:00:00Z
-    end: 2022-12-01T18:00:00Z
-  links: 
-    - label: More info
-      link: "https://projet.biblissima.fr/en/news/cluster-1-annual-days-2022-acquisition-interoperable-source-corpora"
-    - label: Register (free)
-      link: "https://evento.renater.fr/survey/seminaire-iiif-dans-les-archives-1er-decembre-2022-campus-condorcet-i3z89byz"
-  location:
-    label: "Hybrid event, online and Campus Condorcet (Paris)"
-- label: IIIF Online Meeting
-  time:
-    start: 2022-12-06T06:00:00Z
-    end: 2022-12-08T23:00:00Z
+    start: 2023-02-17T18:30:00Z
+    end: 2023-02-17T19:30:00Z
   links:
     - label: More info
-      link: "event/2022/online-meeting"
-    - label: Register (free)
-      link: https://stanford.zoom.us/meeting/register/tJcvceuuqTItG90yow4P0cusIHCBDp27UYiS
-  location: 
-    label: "Online event"
-- label: December IIIF Online Training (5-Day Course)
-  time:
-    start: 2022-12-12T06:00:00Z
-    end: 2022-12-16T07:00:00Z
-  links:
-    - label: More info
-      link: "get-started/training/online-training/"
-    - label: Register
-      link: https://www.eventbrite.com/e/december-2022-iiif-online-training-5-day-course-tickets-400726262037
+      link: "https://www.mmmonk.be/nl/nieuws/schrijf-je-in-voor-sectorevent-rond-digitale-innovatie-met-vlaams-werelderfgoed"
 - label: IIIF Annual Conference 2023
   time:
     start: 2023-06-05T06:00:00Z
     end: 2023-06-08T23:00:00Z
   links:
-    - label: More info coming soon
-      #link: "get-started/training/online-training/"
-    #- label: Register
-      #link: https://www.eventbrite.com/e/july-2022-iiif-online-training-5-day-course-tickets-372996501577
+    - label: More info
+      link: "/event/2023/naples/"
+    - label: Travel info
+      link: "/event/2023/naples/travel"
   location: 
     label: "Naples, Italy"

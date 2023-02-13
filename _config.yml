@@ -45,12 +45,12 @@ page_gen:
 #   link_label: This is a test link
 
 
-# banner:
-#   enabled: true
-#   title: "Registration for the 2022 IIIF Annual Conference is now open!"
-#   #subtitle: Submissions are due by 04 March 2022.
-#   link: 'https://iiif.io/event/2022/cambridge/'
-#   link_label: Learn more
+banner:
+  enabled: true
+  title: "Registration is now open for the 2023 IIIF Annual Conference!"
+  subtitle: "Discounted hotel rates still available."
+  link: 'https://iiif.io/event/2023/naples/'
+  link_label: Learn more
 
 # Jekyll SEO plugin info
 #title: IIIF APIs and Community Site

@@ -23,56 +23,68 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 ### **Overview**
 
-
-
 * Location: Naples, Italy (Map of venue locations and more coming soon)
     * IIIF Showcase: June 5, 2023
-    * Conference: June 6-8, 2023
+    * Workshops and meetings: June 6, 2023
+    * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
-* Registration for the conference is $395 for a general ticket, $250 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
+* Registration will open in early February. Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC and WHO recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
+### **Register**
 
-<!-- ### **Register**
+* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index).
 
+### Travel Scholarship
 
-
-* Please register for both the showcase (free and open to all) and conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2022/index.php?page=index). -->
-
-<!-- ### Travel Scholarship
-
-In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce a travel scholarship to attend the Annual Conference. Please see the [2022 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is Friday, April 1, 2022. -->
-
-
+In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce two travel scholarships to attend the Annual Conference. Please see the [2023 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is February 28, 2023.
 
 ### **Travel**
 
+* Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details on pre-arranged rates.
 
-
-* Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details.
-
+Note: the lowest rates expire January 31, so book soon if you intend on joining us in Naples!
 
 <!-- ### **Schedule**
 
-
-
 * See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
 
+### Call for proposals
 
-#### **Program committee**
+The IIIF Conference Program Committee [invites proposals]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/) for presentation in the following formats:
 
-We will be putting out a call for Program Committee members in November 2022. 
-If you'd like to volunteer, get in touch with us via <events@iiif.io>.
+* Up to a ½ day workshop (4 hours)
+* 7 to 10 minute lightning talks
+* 15-20 minute presentations (plus 5-10 mins questions)
+* 90 minute open block (Could be panel session or grouped presentations) 
 
+Proposal of no longer than 500 words are due **February 6** via the submissions portal; see the [CfP page for more submission details including themes and requirements]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/).
 
-#### **Local planning committee**
+### Program committee
+
+Thank you to the 2023 Program committee:
+
+* Rossitza Atanassova
+* Ben Bakelaar 
+* Dan Brennan
+* Dawn Childress
+* Martin Critelli
+* Gennaro Ferrante
+* Nuno Freire
+* Raffaele Messuti
+* Caitlin Perry 
+* Julien A. Raemy
+* Glen Robson 
+
+#### Local planning committee
 
 Thank you to the 2023 local planning committee:
 
-* Rino Ferrante
+* Gennaro Ferrante
 * Serena Picarelli
 * Chiara Fusco
+* Pierfrancesco Valentini di Castromediano
 
 
 ### **Sponsors**
@@ -148,5 +160,4 @@ The final program will continue to develop over the next few months but please s
 [conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
-[sponsors]:  {{ site.root_url | absolute_url }}/event/2022/cambridge/sponsorship
-[scholarship]:  {{ site.root_url | absolute_url }}/event/2022/cambridge/annual_conference_travel_scholarship
+[scholarship]:  {{ site.root_url | absolute_url }}/event/2023/naples/annual_conference_travel_scholarship

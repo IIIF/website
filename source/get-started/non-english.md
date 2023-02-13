@@ -31,7 +31,8 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 
 - [Introduction à IIIF](https://doc.biblissima.fr/introduction-iiif)
 - [Atelier IIIF DHNord2020](https://github.com/regisrob/Atelier_IIIF_Conference_DHNord_2020)
-
+- [IIIF: découverte et interopérabilité sans frontières des images patrimoniales, Culture et Recherche n°143, 2022, p. 111-117](https://www.culture.gouv.fr/fr/Thematiques/Enseignement-superieur-et-Recherche/La-revue-Culture-et-Recherche/La-recherche-culturelle-a-l-international)
+- [Module de formation à IIIF (1 jour)](https://doc.biblissima.fr/formation-iiif/)
 
 ##  Português / Portuguese
 
