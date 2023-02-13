@@ -417,6 +417,9 @@
 - name: Veneranda Biblioteca Ambrosiana (Milan, Italy)
   uri: https://www.ambrosiana.it/
   iiifc:
+- name: Vanderbilt University Libraries
+  uri: https://www.library.vanderbilt.edu/
+  iiifc: 4
 - name: Veridian Software
   uri: https://www.veridiansoftware.com
   iiifc:
