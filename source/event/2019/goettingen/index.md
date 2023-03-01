@@ -95,7 +95,7 @@ The local organizers have prepared a [few social activity suggestions][social] f
 * Location: Göttingen, Germany
 * Cost: 
     - IIIF Consortium Member €195.00
-    -  Non-IIIF Consortium Member €295.00
+    - Non-IIIF Consortium Member €295.00
 * Capacity: 270
 * Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
 * Slack channel: [#göttingen-social][slack-channel] 
@@ -177,7 +177,7 @@ If you are interested in becoming a conference sponsor, please see the benefits 
     })
 </script>
 
-[home-page]: http://iiif.io/
+[home-page]: https://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [cfp]: https://goo.gl/forms/qNOT6i2IAW75C6NS2
@@ -195,7 +195,7 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 [textbytes]: https://www.textandbytes.com/
 [veridian]: https://www.veridiansoftware.com/
 [gallerysystems]: https://www.gallerysystems.com/
-[slack]: http://bit.ly/iiif-slack
+[slack]: https://bit.ly/iiif-slack
 [slack-channel]: https://iiif.slack.com/app_redirect?channel=göttingen-social
 [social]: {{ site.root_url | absolute_url }}/event/2019/goettingen/goettingen-social/
 [conduct-list]: mailto:iiif-conduct@googlegroups.com

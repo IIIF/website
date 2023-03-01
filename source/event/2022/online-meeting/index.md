@@ -267,7 +267,7 @@ Questions? Email us at <events@iiif.io>.
 [iiif]: https://iiif.io/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[home-page]: http://iiif.io/
+[home-page]: https://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
