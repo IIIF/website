@@ -113,7 +113,7 @@ The alpha draft of the Image API was not ratified at the Washington conference, 
 The [Discovery Technical Specification Group][groups-discovery] has produced a first version of its main deliverable, a [new API to facilitate the discovery and the update of IIIF resources][change-api]. The specification covers the first item of the [group's charter][charter-discovery], namely answering the needs expressed by the IIIF Community for crawling and harvesting IIIF resources. Members of the group (OCLC, NCSU, Digirati, Europeana) have worked on first implementations, and it has been submitted for feedback at the 2018 IIIF Conference in Washington D.C. Work will continue in the TSG in the coming month to cover other aspects of the charter.
 
 ## Community Groups
-IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <http://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group.
+IIIF Community groups are designed to provide a forum for general discussion, brainstorming, sharing of use cases and demos, and working to produce tutorials and presentations based on existing IIIF APIs. The process for forming Community Groups can be found at <https://iiif.io/community/groups/framework/>. Please see the [IIIF Community Groups page][groups] for a calendar of group and community calls, as well as links to more information about each group.
 
 ### [3D Community Group][groups-3d]
 The IIIF 3D Community Group had a productive and well-attended meeting at the IIIF Conference in Washington D.C. Please see the [notes][3d-notes] for more information. We also have our first story documented: <https://github.com/IIIF/iiif-3d-stories/issues/1>.
@@ -137,7 +137,7 @@ The Software Developers Community Group has been dedicated to improving the Deve
 
 ### New Releases
 * KU Leuven Libraries is now using the IIIF with the Mirador viewer for two projects, both related to the ancient university of Louvain, Belgium (1425-1797). The first one, [Magister Dixit][magister], contains lecture notes from KU Leuven Libraries, the Archives department of Université catholique de Louvain and the Royal Library of Belgium and the second one, [Lovaniensia][lovaniensia], in collaboration with the Bibliothèques of the Université catholique de Louvain, uses IIIF to disseminate images of the rare books of the KU Leuven Libraries. The top-level collection manifests are respectively http://services.libis.be/m2/manifest/BIBC_Lectio and http://services.libis.be/m2/manifest/BIBC_Lovaniensia. 
-* Cogapp have released a Slow Looking viewer, that will work with any IIIF image. Paste in IIIF image addresses to <http://slowlooking.cogapp.com/> to enter a fullscreen, slow pan around the image. The results are bookmarkable and shareable.
+* Cogapp have released a Slow Looking viewer, that will work with any IIIF image. Paste in IIIF image addresses to <https://slowlooking.cogapp.com/> to enter a fullscreen, slow pan around the image. The results are bookmarkable and shareable.
 * Scholarly digital publication built around IIIF resources and DLCS toolset produced and published by the Paul Mellon Centre, developed by Digirati and designed by Strick&Williams. ["The Royal Academy Summer Exhibition: A Chronicle, 1769–2018"][chronicle250] is an open-access publication that explores the history of the Summer Exhibition at the Royal Academy of Arts in London. Essays examining key artists, artworks, and events from each individual year’s Exhibition are accompanied by 250 completely digitised and searchable copies of the accompanying Exhibition catalogues. Natural Language Processing has been used to identify names in the OCRd exhibition catalogues in order to create an index of exhibitors.
 * The ResCarta Foundation has released Version 7 of the ResCarta Toolkit and corresponding web application ResCarta-Web which supports IIIF access to existing user digital archives. A Mirador viewer is also provided. See the [top-level collection manifests][rescarta-collection].
 
@@ -181,69 +181,69 @@ The Outreach Community Group Co-Chairs:
 [agbd-prezi]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
 [api-christy]: https://stacks.wellcomecollection.org/api-use-cases-1f6db8843e93
 [archives-call]: https://docs.google.com/document/d/1C-lrh9pDaISz1nolBQjJ1cA-9DEpe9O3IsoDKGbJlNw/edit
-[basel]: http://bit.ly/iiif-basel
+[basel]: https://bit.ly/iiif-basel
 [best-manuscript]: https://docs.google.com/document/d/1BWFpJ0ifaD_iIU00B242NoK4ncZ8Yo73HOU6OAy6rZs/edit
 [beyond-crane]: https://medium.com/@tom.crane/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34
-[biblissima-iiif]: http://www.biblissima-condorcet.fr/en/courses-and-events/biblissima-and-iiif-day-innovating-rediscover-written-cultural-heritage-2018
+[biblissima-iiif]: https://www.biblissima-condorcet.fr/en/courses-and-events/biblissima-and-iiif-day-innovating-rediscover-written-cultural-heritage-2018
 [caa-goodwin]: https://www.slideshare.net/EmmanuelleGlass/princeton-university-art-museum-iiif-use-cases-by-cathryn-goodwin-college-art-association-2018-conference
 [caa-butcosk]: https://www.slideshare.net/EmmanuelleGlass/iiif-at-the-colby-college-museum-of-art-by-charles-butcosk-college-art-association-2018-conference
 [caa-steward]: https://www.slideshare.net/EmmanuelleGlass/caa2018-harvard-art-museums-jeff-stewart-iiif
 [caa-glass]: https://www.slideshare.net/EmmanuelleGlass/international-image-interoperability-framework-iiif-supporting-conservation-research-at-the-yale-center-for-british-art-by-emmanuelle-delmasglass-college-art-association-2018-conference
-[change-api]: http://iiif.io/api/discovery/0.1/
+[change-api]: https://iiif.io/api/discovery/0.1/
 [chronicle250]: https://chronicle250.com/
-[developers-israel]: http://iiif.nli.org.il
-[dfc]: http://www.designforcontext.com/
-[charter-discovery]: http://iiif.io/community/groups/discovery/charter/
+[developers-israel]: https://iiif.nli.org.il
+[dfc]: https://www.designforcontext.com/
+[charter-discovery]: https://iiif.io/community/groups/discovery/charter/
 [dlcs]: https://dlcs.info/
 [drive-dc]: https://drive.google.com/drive/folders/181NSHhuH1SiChi-xLA6sQyVQ9QNCNHb_
 [eca-usp]: https://drive.google.com/file/d/1fg7uYRA0uqV0DIZIuyVCwxUiHVnnLBQQ/view?usp=sharing
-[eca-usp-slides]: http://prezi.com/lr5rkao46bei/?utm_campaign=share&utm_medium=copy
+[eca-usp-slides]: https://prezi.com/lr5rkao46bei/?utm_campaign=share&utm_medium=copy
 [eca-usp-video]: https://www.youtube.com/watch?v=K8aYka0CRkE&feature=youtu.be
-[edinburgh-blog]: http://libraryblogs.is.ed.ac.uk/diu/2018/06/22/a-stitch-in-time-mahabharata-delivered-online/
+[edinburgh-blog]: https://libraryblogs.is.ed.ac.uk/diu/2018/06/22/a-stitch-in-time-mahabharata-delivered-online/
 [europeana-blog]: https://pro.europeana.eu/post/europeanatech-2018-gorgeous-data-glorious-technology-in-review
 [europeanatech18]: https://pro.europeana.eu/page/europeanatech-2018-programme
-[fall-edinburgh]: http://iiif.io/event/2018/edinburgh/
+[fall-edinburgh]: https://iiif.io/event/2018/edinburgh/
 [fromthepage]: https://fromthepage.com/
 [gallica]: https://gallica.bnf.fr/
-[groups]: http://iiif.io/community/groups/
-[groups-3d]: http://iiif.io/community/groups/3d/
-[groups-av]: http://iiif.io/community/groups/av/
-[groups-discovery]: http://iiif.io/community/groups/discovery/
-[groups-manuscripts]: http://iiif.io/community/groups/manuscripts/
-[groups-museums]: http://iiif.io/community/groups/museums/
-[groups-newspapers]: http://iiif.io/community/groups/newspapers/
-[groups-outreach]: http://iiif.io/community/groups/outreach/
-[groups-sw]: http://iiif.io/community/groups/software/
-[groups-granularity]: http://iiif.io/community/groups/text-granularity/
-[hackathon-israel]: http://blog.nli.org.il/en/hackathon/
-[himanis-presentation]: http://www.biblissima-condorcet.fr/en/protocoles-iiif-presentation-potentialites
-[hors-texte]: http://hesso.tind.io/record/2394
-[iiif-c]: http://iiif.io/community/consortium/
+[groups]: https://iiif.io/community/groups/
+[groups-3d]: https://iiif.io/community/groups/3d/
+[groups-av]: https://iiif.io/community/groups/av/
+[groups-discovery]: https://iiif.io/community/groups/discovery/
+[groups-manuscripts]: https://iiif.io/community/groups/manuscripts/
+[groups-museums]: https://iiif.io/community/groups/museums/
+[groups-newspapers]: https://iiif.io/community/groups/newspapers/
+[groups-outreach]: https://iiif.io/community/groups/outreach/
+[groups-sw]: https://iiif.io/community/groups/software/
+[groups-granularity]: https://iiif.io/community/groups/text-granularity/
+[hackathon-israel]: https://blog.nli.org.il/en/hackathon/
+[himanis-presentation]: https://www.biblissima-condorcet.fr/en/protocoles-iiif-presentation-potentialites
+[hors-texte]: https://hesso.tind.io/record/2394
+[iiif-c]: https://iiif.io/community/consortium/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[iiif-event]: http://iiif.io/event/
+[iiif-event]: https://iiif.io/event/
 [iiif-twitter]: https://twitter.com/iiif_io
-[iiif-faq]: http://iiif.io/community/faq/
-[iiifc-faq]: http://iiif.io/community/consortium/faq/
+[iiif-faq]: https://iiif.io/community/faq/
+[iiifc-faq]: https://iiif.io/community/consortium/faq/
 [issue-1627]: https://github.com/IIIF/api/issues/1627
 [leo-medium]: https://medium.com/@leogermani/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36
 [loc-news]: https://www.loc.gov/newspapers/
-[lovaniensia]: http://lovaniensia.be/
-[luna]: http://www.lunaimaging.com/
+[lovaniensia]: https://lovaniensia.be/
+[luna]: https://www.lunaimaging.com/
 [lyrasis]: https://www.lyrasis.org/Pages/Main.aspx
 [magister]: http://heron-net.be/lectio/project_summary
 [ncsu-rare]: https://d.lib.ncsu.edu/collections
 [ncsu-million]: https://www.lib.ncsu.edu/news/special-collections/one-million-and-counting
 [nls]: https://www.nls.uk/
 [oclc]: https://www.oclc.org/en/home.html
-[or2018]: http://www.or2018.net/
+[or2018]: https://www.or2018.net/
 [picturae]: https://picturae.com/en/
 [quartex]: https://www.quartexcollections.com/
-[rescarta-collection]: http://demos.rescarta.org/ResCarta-Web//iiif/api/presentation/2/collection/top
-[scta-linking]: http://community.scta.info/event/2018/06/14/scta-mon-thur-meeting.html
-[scta-meeting]: http://community.scta.info/event/2018/06/01/scta-meeting.html
+[rescarta-collection]: https://demos.rescarta.org/ResCarta-Web//iiif/api/presentation/2/collection/top
+[scta-linking]: https://community.scta.info/event/2018/06/14/scta-mon-thur-meeting.html
+[scta-meeting]: https://community.scta.info/event/2018/06/01/scta-meeting.html
 [seige-elag]: https://docs.google.com/presentation/d/1lZGHKUt93BFPS-sRmx4RN-AvW9ZfAjQGbLWCNMiHSkg/
-[slack]: http://bit.ly/iiif-slack
+[slack]: https://bit.ly/iiif-slack
 [smithsonian-iiif]: https://iiif.si.edu/#about
 [submission-form]: https://goo.gl/forms/nw54cBpowzzTPRbp2
-[spec-registry]: http://iiif.io/api/annex/registry/
+[spec-registry]: https://iiif.io/api/annex/registry/
 [uni-edinburgh]: https://www.ed.ac.uk/
