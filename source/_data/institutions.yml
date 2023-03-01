@@ -5,20 +5,20 @@
   uri:  https://www.artic.edu/
   iiifc:
 - name: Art Gallery of Ontario
-  uri: http://boxwood.ago.ca
+  uri: https://boxwood.ago.ca
   iiifc:
 - name: Bayerische Staatsbibliothek (Bavarian State Library)
-  uri: http://www.bsb-muenchen.de
+  uri: https://www.bsb-muenchen.de
   iiifc: 1
   logo: assets/uploads/logos/bsb_logo_claim_large.svg
   original: true
 - name: La Bibliothèque nationale de France
-  uri: http://www.bnf.fr
+  uri: https://www.bnf.fr
   iiifc: 1
   logo: assets/uploads/logos/bnf_logo.svg
   original: true 
 - name: Biblissima
-  uri: http://www.biblissima-condorcet.fr/
+  uri: https://www.biblissima-condorcet.fr/
   iiifc:
 - name: Blavatnik Foundation Archive
   uri: https://www.blavatnikarchive.org/
@@ -32,7 +32,7 @@
   logo: assets/uploads/logos/bl_logo_100.gif
   original: true 
 - name: British Museum
-  uri: http://www.britishmuseum.org/
+  uri: https://www.britishmuseum.org/
   iiifc:
 - name: Brown University
   uri: https://repository.library.brown.edu
@@ -42,31 +42,31 @@
   iiifc: 2
   logo: assets/uploads/logos/cambridge_university2.svg
 - name: Canadiana.org
-  uri: http://canadiana.org
+  uri: https://canadiana.org
   iiifc:
 - name: Carnegie Museum of Art
-  uri: http://records.cmoa.org
+  uri: https://records.cmoa.org
   iiifc:
 - name: Center for Open Data in the Humanities, Research Organization of Information and Systems, Japan
-  uri: http://codh.rois.ac.jp/
+  uri: https://codh.rois.ac.jp/
 - name: Centre de Recherche et de Restauration des Musées de France (C2RMF)
-  uri: http://c2rmf.fr
+  uri: https://c2rmf.fr
   iiifc:
 - name: Chinese University of Hong Kong
   uri: https://repository.lib.cuhk.edu.hk/en/IIIF-Guide
   iiifc: 2
   logo: assets/uploads/logos/CUHK.svg
 - name: Cogapp
-  uri: http://www.cogapp.com
+  uri: https://www.cogapp.com
   iiifc:
 - name: Columbia University
-  uri: http://www.columbia.edu/
+  uri: https://www.columbia.edu/
   iiifc:
 - name: CONTENTdm
-  uri: http://www.oclc.org/en-US/contentdm.html
+  uri: https://www.oclc.org/en-US/contentdm.html
   iiifc:
 - name: Cooper Hewitt Smithsonian Design Museum
-  uri: http://www.cooperhewitt.org
+  uri: https://www.cooperhewitt.org
   iiifc:
 - name: Cornell University
   uri: https://www.library.cornell.edu/
@@ -81,21 +81,21 @@
   uri: 
   iiifc: 4
 - name: DB Seret
-  uri: http://www.dbseret.com/
+  uri: https://www.dbseret.com/
   iiifc: 4
 # - name: Data Futures Project (University of Westminster)
 #   uri: https://www.data-futures.org/
 #   iiifc: 2
 - name: DPLA
-  uri: http://dp.la/
+  uri: https://dp.la/
 - name: Digital Image Archive of Medieval Music (DIAMM)
-  uri: http://www.diamm.ac.uk/
+  uri: https://www.diamm.ac.uk/
 - name: Digirati
   uri: https://digirati.com/
 - name: Durham University Library
   uri: https://www.dur.ac.uk/library/asc/
 - name: e-codices – Virtual Manuscript Library of Switzerland
-  uri:  http://www.e-codices.unifr.ch
+  uri:  https://www.e-codices.unifr.ch
 - name: École polytechnique fédérale de Lausanne (EPFL)
   uri: https://www.epfl.ch/index.en.html
   iiifc: 2
@@ -105,11 +105,11 @@
   iiifc: 2
   logo: assets/uploads/logos/logo_Europeana_basic_portrait_black.png
 - name: Folger Shakespeare Library
-  uri: http://www.folger.edu/
+  uri: https://www.folger.edu/
   iiifc: 2
   logo: assets/uploads/logos/folger_logo-header.png
 - name: The J. Paul Getty Trust
-  uri: http://getty.edu/
+  uri: https://getty.edu/
   iiifc: 2
   logo: assets/uploads/logos/getty_signoff_horizontal.jpg
 - name: Ghent University
@@ -121,10 +121,10 @@
   iiifc: 2
   logo: assets/uploads/logos/uni-goettingen-logo.svg
 - name: Harvard Art Museums
-  uri: http://www.harvardartmuseums.org/
+  uri: https://www.harvardartmuseums.org/
   iiifc:
 - name: Harvard University
-  uri: http://iiif.harvard.edu
+  uri: https://iiif.harvard.edu
   iiifc: 2
   logo: assets/uploads/logos/HarvardUniversity_Horizontal_Large_Shield_RGB.png
 - name: HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
@@ -142,7 +142,7 @@
   iiifc: 2
   logo: assets/uploads/logos/Indiana_University_logotype.svg
 - name: ITHAKA
-  uri: http://www.ithaka.org
+  uri: https://www.ithaka.org
   iiifc: 1
   logo: assets/uploads/logos/ITHAKA_logo.png
   original: true 
@@ -158,7 +158,7 @@
   new: true
   iiifc: 3
 - name: Johns Hopkins University
-  uri: http://library.jhu.edu
+  uri: https://library.jhu.edu
   iiifc: 2
   logo: assets/uploads/logos/sheridan-museums-blue.png
 - name: Kakadu Software
@@ -166,17 +166,17 @@
   iiifc: 3
   logo: assets/uploads/logos/kakadu_logo.png
 - name: Kansai University
-  uri: http://www.kansai-u.ac.jp
+  uri: https://www.kansai-u.ac.jp
   iiifc: 2
 - name: Keio University Libraries
-  uri: http://www.lib.keio.ac.jp/en/
+  uri: https://www.lib.keio.ac.jp/en/
 - name: Klokan Technologies
-  uri: http://www.klokantech.com/
+  uri: https://www.klokantech.com/
 - name: KU Leuven - LIBIS+
-  uri: http://libisplus.be/libisplus/mirador-iiif-en
+  uri: https://libisplus.be/libisplus/mirador-iiif-en
   iiifc:
 - name: Kyoto University Library Network
-  uri: http://www.kulib.kyoto-u.ac.jp/
+  uri: https://www.kulib.kyoto-u.ac.jp/
   iiifc: 2
   logo: assets/uploads/logos/kyoto_university.png
 - name: Leiden University
@@ -190,29 +190,29 @@
   uri: https://www.wdl.org
   iiifc:
 - name: LUNA Imaging
-  uri: http://www.lunaimaging.com/iiif
+  uri: https://www.lunaimaging.com/iiif
 - name: LYRASIS
   uri: https://www.lyrasis.org
   iiifc: 4
 - name: Manuscriptorium - Digital Library of Written Cultural Heritage
-  uri: http://www.manuscriptorium.com/
+  uri: https://www.manuscriptorium.com/
 - name: Max Planck Institute for European Legal History
-  uri: http://www.rg.mpg.de/en
+  uri: https://www.rg.mpg.de/en
 - name: MIT Libraries
-  uri: http://libraries.mit.edu
+  uri: https://libraries.mit.edu
   iiifc: 2
   logo: assets/uploads/logos/mit-libraries-logo-bg-black-1200x504.png 
 - name: MediaLibraryOnLine (MLOL)
   uri: https://www.medialibrary.it
   iiifc: 4
 - name: Mnemoscene
-  uri: http://mnemoscene.io
+  uri: https://mnemoscene.io
   iiifc:
 - name: Moravian Library (Moravská zemská knihovna)
   uri: https://www.mzk.cz/
   iiifc:
 - name: National Gallery of Art
-  uri: http://www.nga.gov
+  uri: https://www.nga.gov
   iiifc: 2
   logo: assets/uploads/logos/National_gallery_art_logo.png
 - name: National Institute of Informatics
@@ -231,12 +231,12 @@
   logo: assets/uploads/logos/Nasjonalbiblioteket.jpg
   original: true 
 - name: National Library of Denmark
-  uri: http://www.kb.dk/en/
+  uri: https://www.kb.dk/en/
 #- name: National Library of Egypt
-# uri: http://www.darelkotob.gov.eg/index.html
+# uri: https://www.darelkotob.gov.eg/index.html
 #  iiifc:
 - name: National Library of Israel
-  uri: http://www.nli.org.il
+  uri: https://www.nli.org.il
   iiifc: 4
   logo: assets/uploads/logos/Logo_of_The_National_Library_of_Israel.jpg
 - name: National Library of New Zealand
@@ -246,11 +246,11 @@
   iiifc: 4
   logo: assets/uploads/logos/KB_Nationale-Bibliotheek_Logo_RGB.svg
 - name: National Library of Poland
-  uri: http://bn.org.pl
+  uri: https://bn.org.pl
   iiifc: 2
   logo: assets/uploads/logos/BN_logo_kw.jpg
 - name: National Library of Scotland
-  uri: http://www.nls.uk/
+  uri: https://www.nls.uk/
   iiifc: 4
 - name: National Library of Serbia
   uri: https://www.nb.rs/?change_lang=en
@@ -259,9 +259,9 @@
   iiifc: 2
   logo: assets/uploads/logos/llgc_logo.png
 - name: Nationalmuseum Sweden
-  uri: http://www.nationalmuseum.se
+  uri: https://www.nationalmuseum.se
 - name: New York University Libraries
-  uri: http://library.nyu.edu/
+  uri: https://library.nyu.edu/
   iiifc: 2
   logo: assets/uploads/logos/nyu_logo.png
 - name: NC State University Libraries
@@ -274,7 +274,7 @@
   logo: assets/uploads/logos/northwestern.jpg
   new: true
 - name: OCLC
-  uri: http://www.oclc.org/
+  uri: https://www.oclc.org/
   iiifc: 2
   logo: assets/uploads/logos/OCLC_Logo_V_Color_NoTag.png
 - name: Ohio State University
@@ -286,17 +286,17 @@
   iiifc: 2
   logo: assets/uploads/logos/PSU_libraries.png
 - name: Princeton University Library
-  uri: http://library.princeton.edu
+  uri: https://library.princeton.edu
   iiifc: 1
   logo: assets/uploads/logos/PUL_Logo.png
   original: true 
 - name: Princeton University Art Museum
-  uri: http://artmuseum.princeton.edu/
+  uri: https://artmuseum.princeton.edu/
   iiifc:
 - name: Public Record Office Victoria
   uri: https://www.prov.vic.gov.au/
 - name: Qatar National Library
-  uri: http://www.qnl.qa
+  uri: https://www.qnl.qa
   iiifc:
   logo: assets/uploads/logos/QNL-logo-1.png
 - name: Sirma Group
@@ -309,14 +309,14 @@
 - name: "St. Louis University"
   uri: https://www.slu.edu/
 - name: St. Mary's University
-  uri: http://jubilees.stmarytx.edu
+  uri: https://jubilees.stmarytx.edu
 - name: Stanford University
-  uri: http://library.stanford.edu/
+  uri: https://library.stanford.edu/
   iiifc: 1
   logo: assets/uploads/logos/stanford_wordmark-nospace-stacked-red.png
   original: true 
 - name: State Library of Queensland
-  uri: http://www.slq.qld.gov.au/
+  uri: https://www.slq.qld.gov.au/
   iiifc:
 - name: Stockholm University
   uri: https://www.su.se/
@@ -325,7 +325,7 @@
   uri: https://swissartresearch.net/
   iiifc:
 - name: Synaptica
-  uri: http://www.synaptica.com/
+  uri: https://www.synaptica.com/
 - name: Texas A&amp;M Libraries
   uri: https://library.tamu.edu/
   iiifc: 3
@@ -333,15 +333,15 @@
 - name: TextGrid
   uri: https://textgrid.de/en/
 - name: text &amp; bytes
-  uri:  http://www.textandbytes.com/en
+  uri:  https://www.textandbytes.com/en
 - name: Trinity College Dublin
   uri:  https://repository.dri.ie
 - name: United States Holocaust Memorial Museum
   uri: https://www.ushmm.org/
 - name: Universidad de la Habana, Biblioteca Nacional de Cuba José Martí
-  uri: http://www.bnjm.cu/
+  uri: https://www.bnjm.cu/
 - name: University College Dublin
-  uri: http://www.ucd.ie/library/
+  uri: https://www.ucd.ie/library/
   iiifc:
 - name: University of Alberta Libraries
   uri: https://www.library.ualberta.ca
@@ -350,43 +350,43 @@
   uri: https://www.library.ubc.ca/
   iiifc: 4
 - name: University of California, Los Angeles
-  uri: http://www.ucla.edu/
+  uri: https://www.ucla.edu/
   iiifc: 2
   logo: assets/uploads/logos/ucla_logo.png
 - name: University of California, Santa Barbara
-  uri: http://www.ucsb.edu/
+  uri: https://www.ucsb.edu/
 - name: University of Edinburgh
-  uri: http://www.ed.ac.uk/
+  uri: https://www.ed.ac.uk/
   iiifc: 2
   logo: assets/uploads/logos/edinburgh_logo.png
 - name: University of Glasgow
-  uri: http://hms.scot/fiddle/copies/
+  uri: https://hms.scot/fiddle/copies/
   iiifc:
 - name: University of Hong Kong
-  uri: http://lib.hku.hk
+  uri: https://lib.hku.hk
   iiifc: 
   logo: assets/uploads/logos/hkul-logo@2x.png
 - name: University of Illinois at Urbana-Champaign
-  uri: http://illinois.edu/
+  uri: https://illinois.edu/
   iiifc:
 - name: University of Michigan
   uri: https://www.lib.umich.edu/collections/digital-collections
   iiifc: 2
   logo: assets/uploads/logos/University_of_Michigan_logo.svg
 - name: University of Notre Dame
-  uri: http://library.nd.edu
+  uri: https://library.nd.edu
   iiifc: 2
   logo: assets/uploads/logos/ndmark300.png
 - name: University of Oklahoma
   uri: https://www.ou.edu/
   iiifc: 
 - name: University of Oxford (Bodleian Library)
-  uri: http://www.bodleian.ox.ac.uk
+  uri: https://www.bodleian.ox.ac.uk
   iiifc: 1
   logo: assets/uploads/logos/bodleian_Master-Logo-Centred-Black-cropped.png
   original: true 
 - name: University of Pennsylvania
-  uri: http://www.upenn.edu/
+  uri: https://www.upenn.edu/
   iiifc: 4
 - name: University of Tennessee, Knoxville
   uri: https://www.lib.utk.edu/
@@ -394,7 +394,7 @@
   logo: assets/uploads/logos/UTK.png
   new: true
 - name: University of Tokyo
-  uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
+  uri: https://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 2
   logo: assets/uploads/logos/UnivOfTokyo_logo.svg.png
 - name: University of Toronto
@@ -405,7 +405,7 @@
   uri: https://lib.utah.edu/
   iiifc:
 - name: University of Virginia Library
-  uri: http://www.library.virginia.edu/
+  uri: https://www.library.virginia.edu/
   iiifc:
 - name: University of Zurich
   uri: https://www.uzh.ch/
@@ -431,17 +431,17 @@
   uri: https://thewalters.org
   iiifc:
 - name: Wellcome Trust
-  uri: http://wellcomelibrary.org
+  uri: https://wellcomelibrary.org
   iiifc: 1
   logo: assets/uploads/logos/Wellcome_Collection_logo.svg.png
   original: true 
 - name: Wikipedia (Wikimedia Foundation)
-  uri: http://www.wikipedia.org/
+  uri: https://www.wikipedia.org/
   iiifc:
 - name: World Digital Library
-  uri: http://www.wdl.org
+  uri: https://www.wdl.org
 - name: Yale Center for British Art
-  uri: http://britishart.yale.edu/
+  uri: https://britishart.yale.edu/
   iiifc:
   logo: assets/uploads/logos/ycba.png
 - name: Yale University
