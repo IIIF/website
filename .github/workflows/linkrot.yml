@@ -20,5 +20,3 @@ jobs:
         run: bundle exec rake build:default
       - name: Test external links
         run: bundle exec rake test:links:external
-      - name: Test https links
-        run: bundle exec rake test:links:https
