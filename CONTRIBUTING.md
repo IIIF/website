@@ -66,7 +66,7 @@ The _config.yml file defines various site level variables, notably the current v
 
 Links in Markdown documents must use the [reference link][reference-link] syntax, and the link id _MUST_ match this regex: `[a-zA-Z][_0-9a-zA-Z-]`, i.e., they must start with a letter, and may then contain letters, numerals, and the characters '_' and '-'.
 
-[kram]: http://kramdown.gettalong.org/syntax.html
-[squash]: http://lmgtfy.com/?q=Squash+git+commits
-[reference-link]: http://kramdown.gettalong.org/syntax.html#reference-links
-[ed-process]: http://iiif.io/api/annex/notes/editors/ "IIIF Editorial Process"
+[kram]: https://kramdown.gettalong.org/syntax.html
+[squash]: https://lmgtfy.com/?q=Squash+git+commits
+[reference-link]: https://kramdown.gettalong.org/syntax.html#reference-links
+[ed-process]: https://iiif.io/api/annex/notes/editors/ "IIIF Editorial Process"

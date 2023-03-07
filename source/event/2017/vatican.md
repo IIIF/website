@@ -47,7 +47,7 @@ The IIIF [Code of Conduct][conduct] applies to all IIIF events and related activ
 The 2017 IIIF Conference is sponsored by:
 
 * The [IIIF Consortium][iiif-c]
-* [Cogapp][cogapp] - Silver Sponsor
+* [Cogapp][cogapp]{:data-proofer-ignore=''} - Silver Sponsor
 * [Digirati][digirati] - Silver Sponsor
 * [Klokan Technologies][klokan] - Silver Sponsor
 * [OCLC][oclc] - Silver Sponsor

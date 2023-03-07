@@ -28,7 +28,7 @@ talks in the following forms:
     presentations)
 
 As with all IIIF events, the IIIF [Code of
-Conduct](http://iiif.io/event/conduct/) will apply to this event. Only
+Conduct](https://iiif.io/event/conduct/) will apply to this event. Only
 panel sessions that have a diverse set of panelists will be considered,
 with representation along many possible dimensions, including but not
 limited to race and ethnicity, national origin, gender identity and

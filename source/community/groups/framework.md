@@ -143,7 +143,7 @@ This community framework is an evolving document, and will be updated by the III
 
 If you have any questions about this document or any of the community groups or communications mechanisms, please email <admin@iiif.io>.
 
-[samvera-groups]: https://samvera.org/samvera-partners/community-framework
+[samvera-groups]: https://samvera.org/about/interest-working-groups
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [join-slack]: https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform
 [calendar]: {{ site.root_url | absolute_url }}/community/groups/

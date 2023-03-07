@@ -114,7 +114,7 @@ The final program will continue to develop over the next few months but please s
 [mit]: https://mit.edu/
 [groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
 [consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[home-page]: http://iiif.io/
+[home-page]: https://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd

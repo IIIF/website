@@ -59,7 +59,7 @@ IIIF APIs give portable views onto images or any of its regions, and provide inc
 
 ### Support for attribution and access control
 
-Built in API calls support attribution and access control: the Authentication API ([http://iiif.io/api/auth/](http://iiif.io/api/auth/)), is integral and consistent with the IIIF conception.
+Built in API calls support attribution and access control: the Authentication API ([https://iiif.io/api/auth/](https://iiif.io/api/auth/)), is integral and consistent with the IIIF conception.
 
 
 ## Global network

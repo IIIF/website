@@ -112,7 +112,7 @@ The final program will continue to develop over the next few months but please s
 [mit]: https://mit.edu/
 [groups]: {{ site.root_url | absolute_url }}/community/groups/
 [consortium]: {{ site.root_url | absolute_url }}/community/consortium/
-[home-page]: http://iiif.io/
+[home-page]: https://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd

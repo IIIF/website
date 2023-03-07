@@ -59,7 +59,7 @@ Benefits for associate members include:
 *   A limit of three seats on the Executive Committee may be held by commercial organizations. Non-commercial organizations include libraries, museums, and archives - individuals who work for commercial organizations are welcome and encouraged to serve in community groups and committees
 
 ## Join
-<a name="form"></a>
+<span id="form"></span>
 To join the consortium, please email staff@iiif.io with your intent to join or fill out the form below, and we will begin the membership process.
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/meqnqvzr" method="post">

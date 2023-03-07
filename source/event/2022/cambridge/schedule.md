@@ -119,7 +119,7 @@ The IIIF conference is open to advanced registrants.
     <tr>
         <td>3:30 - 5:00</td>
         <td colspan="3">
-            <a name="tours"></a>
+            <span name="tours"></span>
             There are four tours aviliable which can be signed up for through ConfTool:
             <ul>
                 <li>3:30pm - 5:00pm: <a href="#Leventhal">Tour of the Leventhal Map and Education Center, Boston Public Library</a> (limited to 30 attendees.)</li>
@@ -152,12 +152,11 @@ The IIIF conference is open to advanced registrants.
         <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
             {% assign blockNo = block[1].id %}
 
-            <a id='session{{ blockNo }}' name='session{{ blockNo }}'></a><h3>Block {{ blockNo }}</h3>
+            <span id='session{{ blockNo }}' name='session{{ blockNo }}'></span><h3>Block {{ blockNo }}</h3>
             <h3>{{ block[1].session_time }}</h3>
         </div>
 
         {% for session in block[1].sessions %}
-            <a name='{{session.id}}'></a>
             <div id='{{session.id}}'>
                 <a href="#block-{{blockNo}}-{{session.id}}">Back to schedule</a>
                 <div class="paper">
@@ -194,7 +193,7 @@ The IIIF conference is open to advanced registrants.
         <h3>Wednesday, June 8: 3:30pm - 5:00pm</h3>
     </div>
 
-    <a name="Leventhal"></a>
+    <span id="Leventhal"></span>
     <a href="#tours">Back to schedule</a>
     <div class="paper">
         <span class="paper_time_value">3:30pm - 5:00pm</span>
@@ -207,7 +206,7 @@ The IIIF conference is open to advanced registrants.
     <hr noshade width="100%" class="float_left">
     <br />
 
-    <a name="art_museum"></a>
+    <span id="art_museum"></span>
     <a href="#tours">Back to schedule</a>
     <div class="paper">
         <span class="paper_time_value">3:30pm - 5:00pm</span>
@@ -220,7 +219,7 @@ The IIIF conference is open to advanced registrants.
     <hr noshade width="100%" class="float_left">
     <br />
 
-    <a name="Widener"></a>
+    <span id="Widener"></span>
     <a href="#tours">Back to schedule</a>
     <div class="paper">
         <span class="paper_time_value">3:30pm - 4:30pm</span>
@@ -245,7 +244,7 @@ The IIIF conference is open to advanced registrants.
     <hr noshade width="100%" class="float_left">
     <br />
 
-    <a name="Houghton"></a>
+    <span id="Houghton"></span>
     <a href="#tours">Back to schedule</a>
     <div class="paper">
         <span class="paper_time_value">3:30pm - 4:30pm</span>

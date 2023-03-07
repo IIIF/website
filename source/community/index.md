@@ -45,7 +45,7 @@ All our work is guided by our [Code of Conduct]({{ site.root_url | absolute_url 
 
 ### Join a group call
 
-<a name="calendar"></a>
+<span name="calendar"></span>
 
 This calendar provides a bird's eye view of all the [IIIF group calls][groups], which take place regularly via Zoom. See something you're interested in here, or in the list of groups? Add it to your own calendar and join! 
 

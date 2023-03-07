@@ -5,7 +5,7 @@ tags: [event ]
 page: overview
 ---
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <!-- <script src="{{ site.root_url | absolute_url }}/js/vendor/add-to-calendar.min.js"></script> -->
 <script src="{{ site.root_url | absolute_url }}/js/vendor/moment-with-locales.min.js"></script>
 <script src="{{ site.root_url | absolute_url }}/js/vendor/moment-timezone-with-data.js"></script>
@@ -156,7 +156,7 @@ function loadClient() {
 [iiif]: https://iiif.io/
 [groups]: {{ site.root_url | absolute_url }}/community/groups/
 [consortium]: {{ site.root_url | absolute_url }}/community/consortium/
-[home-page]: http://iiif.io/
+[home-page]: https://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd

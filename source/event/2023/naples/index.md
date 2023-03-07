@@ -12,7 +12,7 @@ breadcrumbs:
 
 
 
-The 2023 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}) Annual Conference will be held in Naples, Italy, June 5–8, 2023, and will be hosted jointly by the [University of Naples Federico II](http://www.international.unina.it/) and the IIIF Consortium.
+The 2023 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}/) Annual Conference will be held in Naples, Italy, June 5–8, 2023, and will be hosted jointly by the [University of Naples Federico II](http://www.international.unina.it/) and the IIIF Consortium.
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
@@ -155,7 +155,7 @@ The final program will continue to develop over the next few months but please s
 [iiif]: https://iiif.io/
 [groups]: {{ site.root_url | absolute_url }}/community/groups/
 [consortium]: {{ site.root_url | absolute_url }}/community/consortium/
-[home-page]: http://iiif.io/
+[home-page]: https://iiif.io/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
 [conduct]: {{ site.root_url | absolute_url }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd

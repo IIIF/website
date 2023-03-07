@@ -84,7 +84,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * IIIF Panel at CIDOC, Tbilisi Georgia, September 2017
 * [4Science IIIF training session in Italy][4sci-training], September 2017
 * Digital Library Federation (DLF) Forum, October 2017
-* [BIREDIAL-ISTEC International Conference][istec], October 2017
+* [BIREDIAL-ISTEC International Conference][istec]{:data-proofer-ignore=''}, October 2017
 * HEAnet National Conference, November 2017
 * Museum Computer Group (MCG) Conference, November 2017
 * Museum Computer Network (MCN) Conference, November 2017

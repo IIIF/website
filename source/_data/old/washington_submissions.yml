@@ -60,7 +60,6 @@
     firstname: Emma
     lastname: Stanford
     organization: Bodleian Libraries
-    web_page: ''
   decision: ACCEPT
   id: Paper 10
   index: 10
@@ -97,7 +96,6 @@
     firstname: Dan
     lastname: Brennan
     organization: Princeton University Art Museum
-    web_page: ''
   decision: ACCEPT
   id: Paper 11
   index: 11
@@ -122,7 +120,6 @@
     firstname: Jack
     lastname: Reed
     organization: Stanford University
-    web_page: ''
   decision: ACCEPT
   id: Paper 12
   index: 12
@@ -155,7 +152,6 @@
     firstname: Richard
     lastname: Palmer
     organization: Victoria & Albert Museum
-    web_page: ''
   decision: ACCEPT
   id: Paper 13
   index: 13
@@ -191,7 +187,6 @@
     firstname: Leander
     lastname: Seige
     organization: Leipzig University Library
-    web_page: ''
   decision: ACCEPT
   id: Paper 14
   index: 14
@@ -227,12 +222,10 @@
     firstname: Maria
     lastname: Whitaker
     organization: Indiana University Bloomington
-    web_page: ''
   - country: United States
     firstname: Brian
     lastname: Keese
     organization: Indiana University Bloomington
-    web_page: ''
   decision: ACCEPT
   id: Paper 15
   index: 15
@@ -441,7 +434,6 @@
     firstname: Athena
     lastname: Jackson
     organization: The Pennsylvania State University
-    web_page: ''
   decision: ACCEPT
   id: Paper 2
   index: 2
@@ -508,27 +500,22 @@
     firstname: Alan
     lastname: Newman
     organization: National Gallery of Art
-    web_page: ''
   - country: United States
     firstname: Benjamin
     lastname: Zweig
     organization: National Gallery of Art
-    web_page: ''
   - country: United States
     firstname: Michael
     lastname: Skalka
     organization: National Gallery of Art
-    web_page: ''
   - country: United States
     firstname: Roger
     lastname: Lawson
     organization: National Gallery of Art
-    web_page: ''
   - country: United States
     firstname: David
     lastname: Beaudet
     organization: National Gallery of Art
-    web_page: ''
   decision: ACCEPT
   id: Paper 20
   index: 20
@@ -594,22 +581,19 @@
     firstname: Fenella
     lastname: France
     organization: Library of Congress
-    web_page: http://www.loc.gov/preservation/scientists/
+    web_page: https://www.loc.gov/preservation/scientists/
   - country: United Kingdom
     firstname: Glen
     lastname: Robson
     organization: IIIF
-    web_page: ''
   - country: United States
     firstname: Meghan
     lastname: Wilson
     organization: Library of Congress
-    web_page: ''
   - country: United States
     firstname: Chris
     lastname: Bolser
     organization: Library of Congress
-    web_page: ''
   decision: ACCEPT
   id: Paper 21
   index: 21
@@ -656,12 +640,10 @@
     firstname: Stuart
     lastname: Snydman
     organization: Stanford University
-    web_page: ''
   - country: United States
     firstname: Ed
     lastname: Silverton
     organization: holoscene.io
-    web_page: ''
   decision: ACCEPT
   id: Paper 22
   index: 22
@@ -692,9 +674,9 @@
     attribution\u201D or \u201Clicense\u201D, https-unsupported. It would be a good\
     \ opportunity for researchers of the filed to consider how to adopt, leverage,\
     \ and improve IIIF images and contents in the world.             <br/>       \
-    \      http://bauddha.dhii.jp/SAT/iiifmani/show.php             <br/>        \
+    \      https://bauddha.dhii.jp/SAT/iiifmani/show.php             <br/>        \
     \     A sandbox of the system to test to add a Manifest URI is also provided below:\
-    \             <br/>             http://bauddha.dhii.jp/iiifws/show.php       \
+    \             <br/>             https://bauddha.dhii.jp/iiifws/show.php       \
     \      <br/>             This sandbox allows to add vie Twitter account.     \
     \        <br/>  <br/>             (2)\tSAT 2018 (SAT Daizokyo Text Database version\
     \ 2018)             <br/>             SAT Daizokyo Text Database has been a comprehensive\
@@ -722,7 +704,6 @@
     firstname: Masahiro
     lastname: Shimoda
     organization: U-Tokyo
-    web_page: ''
   decision: ACCEPT
   id: Paper 24
   index: 24
@@ -768,7 +749,7 @@
     firstname: Jun
     lastname: Homma
     organization: FLX Style
-    web_page: http://2sc1815j.net/
+    web_page: https://2sc1815j.net/
   - country: Germany
     firstname: Tarek
     lastname: Saier
@@ -814,7 +795,6 @@
     firstname: "\u0141ukasz"
     lastname: Kozak
     organization: National Library of Poland
-    web_page: ''
   decision: withdrawn
   id: Paper 26
   index: 26
@@ -855,7 +835,6 @@
     firstname: Manon
     lastname: Foster Evans
     organization: National Library of Wales
-    web_page: ''
   decision: ACCEPT
   id: Paper 27
   index: 27
@@ -893,12 +872,10 @@
     firstname: Mel
     lastname: Mason
     organization: University of Oxford
-    web_page: ''
   - country: United Kingdom
     firstname: Andrew
     lastname: Hankinson
     organization: University of Oxford
-    web_page: ''
   decision: ACCEPT
   id: Paper 28
   index: 28
@@ -959,7 +936,6 @@
     firstname: Joe
     lastname: Marshall
     organization: The University of Edinburgh
-    web_page: ''
   - country: United Kingdom
     firstname: Scott
     lastname: Renton
@@ -1064,12 +1040,11 @@
     firstname: Katherine
     lastname: Thornton
     organization: Yale University
-    web_page: ''
   - country: United States
     firstname: Kenneth
     lastname: Seals-Nutt
     organization: Yale University
-    web_page: http://ksn.io
+    web_page: https://ksn.io
   decision: ACCEPT
   id: Paper 30
   index: 30
@@ -1099,7 +1074,6 @@
     firstname: Adam
     lastname: Wead
     organization: The Pennsylvania State University
-    web_page: ''
   decision: ACCEPT
   id: Paper 31
   index: 31
@@ -1138,7 +1112,7 @@
     firstname: Adam
     lastname: Metallo
     organization: Smithsonian Institution, Digitization Program Office
-    web_page: http://dpo.si.edu
+    web_page: https://dpo.si.edu
   - country: United States
     firstname: Andrew
     lastname: Gunther
@@ -1153,7 +1127,7 @@
     firstname: David
     lastname: Newbury
     organization: The Getty
-    web_page: http://getty.edu/
+    web_page: https://getty.edu/
   decision: ACCEPT
   id: Paper 32
   index: 32
@@ -1191,12 +1165,10 @@
     firstname: Edward
     lastname: Town
     organization: Yale Center for British Art
-    web_page: ''
   - country: United States
     firstname: Michael
     lastname: Appleby
     organization: Yale Center for British Art
-    web_page: ''
   decision: ACCEPT
   id: Paper 33
   index: 33
@@ -1231,7 +1203,6 @@
     firstname: Andy
     lastname: Irving
     organization: British Library
-    web_page: ''
   decision: ACCEPT
   id: Paper 34
   index: 34
@@ -1284,7 +1255,6 @@
     firstname: Matt
     lastname: McGrattan
     organization: Digirati
-    web_page: ''
   decision: ACCEPT
   id: Paper 35
   index: 35
@@ -1311,7 +1281,7 @@
     \ Humanities (OngCDH), has been in operation since last August, receiving Announcements\
     \ from             <br/>             the scholarly community and serving as the\
     \ fallback Inbox for the Mirador LDN Plugin (implemented             <br/>   \
-    \          at http://mirador.scta.info/) written by Jeffrey Witt. In startling\
+    \          at https://mirador.scta.info/) written by Jeffrey Witt. In startling\
     \ fact, this has \"just worked\" for             <br/>             many supplements\
     \ to Manifests... so long as they are Ranges indicating Table of Contents.   \
     \          <br/>  <br/>             Jeffrey Witt and Patrick Cuba (Lead Developer,\
@@ -1360,7 +1330,7 @@
     firstname: Jeffrey
     lastname: Witt
     organization: Loyola University Maryland
-    web_page: http://jeffreycwitt.com
+    web_page: https://jeffreycwitt.com
   decision: ACCEPT
   id: Paper 37
   index: 37
@@ -1498,7 +1468,7 @@
     firstname: Anna
     lastname: Naruta-Moya
     organization: Indigenous Digital Archive
-    web_page: http://IndigenousDigitalArchive.org
+    web_page: https://IndigenousDigitalArchive.org
   decision: ACCEPT
   id: Paper 4
   index: 4
@@ -1598,7 +1568,6 @@
     firstname: Eric
     lastname: Johnson
     organization: Folger Shakespeare Library
-    web_page: ''
   decision: ACCEPT
   id: Paper 43
   index: 43
@@ -1656,12 +1625,10 @@
     firstname: Stacey
     lastname: Redick
     organization: Folger Shakespeare Library
-    web_page: ''
   - country: United States
     firstname: Meaghan
     lastname: Brown
     organization: Folger Shakespeare Library
-    web_page: ''
   decision: ACCEPT
   id: Paper 44
   index: 44
@@ -1694,22 +1661,18 @@
     firstname: Stuart
     lastname: Snydman
     organization: Stanford University
-    web_page: ''
   - country: United States
     firstname: Drew
     lastname: Winget
     organization: Stanford University
-    web_page: ''
   - country: United States
     firstname: Gary
     lastname: Geisler
     organization: Stanford University
-    web_page: ''
   - country: United States
     firstname: Jack
     lastname: Reed
     organization: Stanford University
-    web_page: ''
   decision: ACCEPT
   id: Paper 45
   index: 45
@@ -1744,17 +1707,14 @@
     firstname: Sayeed
     lastname: Choudhury
     organization: Johns Hopkins University
-    web_page: ''
   - country: United States
     firstname: Mark
     lastname: Patton
     organization: Johns Hopkins University
-    web_page: ''
   - country: United States
     firstname: John
     lastname: Abrahams
     organization: Johns Hopkins University
-    web_page: ''
   decision: ACCEPT
   id: Paper 46
   index: 46
@@ -1792,22 +1752,18 @@
     firstname: Terry
     lastname: Brady
     organization: Georgetown University
-    web_page: ''
   - country: United Kingdom
     firstname: Scott
     lastname: Renton
     organization: The University of Edinburgh
-    web_page: ''
   - country: Ireland
     firstname: John
     lastname: Howard
     organization: University College Dublin
-    web_page: ''
   - country: United Kingdom
     firstname: Claire
     lastname: Knowles
     organization: The University of Edinburgh
-    web_page: ''
   decision: ACCEPT
   id: Paper 47
   index: 47
@@ -1846,12 +1802,11 @@
     firstname: Randy
     lastname: Stern
     organization: Harvard University
-    web_page: http://iiif.harvard.edu/
+    web_page: https://iiif.harvard.edu/
   - country: United States
     firstname: Brandon
     lastname: Bentley
     organization: Harvard University
-    web_page: ''
   decision: ACCEPT
   id: Paper 48
   index: 48
@@ -1889,12 +1844,10 @@
     firstname: "Esm\xE9"
     lastname: Cowles
     organization: Princeton University
-    web_page: ''
   - country: United States
     firstname: Shaun
     lastname: Ellis
     organization: Princeton University
-    web_page: ''
   decision: ACCEPT
   id: Paper 49
   index: 49
@@ -1931,27 +1884,22 @@
     firstname: Chifumi
     lastname: Nishioka
     organization: Kyoto University
-    web_page: ''
   - country: Japan
     firstname: Akemi
     lastname: Omura
     organization: Kyoto University
-    web_page: ''
   - country: Japan
     firstname: Fuko
     lastname: Hojo
     organization: Kyoto University
-    web_page: ''
   - country: Japan
     firstname: Hisaya
     lastname: Akazawa
     organization: Kyoto University
-    web_page: ''
   - country: Japan
     firstname: Tatsuji
     lastname: Tomioka
     organization: Kyoto University
-    web_page: ''
   decision: ACCEPT
   id: Paper 5
   index: 5
@@ -1976,7 +1924,6 @@
     firstname: Rachel
     lastname: Di Cresce
     organization: University of Toronto
-    web_page: ''
   decision: ACCEPT
   id: Paper 51
   index: 51
@@ -2005,14 +1952,14 @@
     \ handwritten books of hours (often neglected by scholars) and natively integrates\
     \ IIIF resources as a core research principle.             <br/>  <br/>      \
     \       Examples for the discussion:             <br/>             1) manifests\
-    \ assembling similar images from the French National Library (http://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/miniature.json;\
-    \             <br/>             http://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/miniature-and-text.json;\
-    \ http://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/text-with-miniature.json);\
-    \             <br/>             2) images with automated line segmentation (http://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/text_lines.json);\
+    \ assembling similar images from the French National Library (https://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/miniature.json;\
+    \             <br/>             https://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/miniature-and-text.json;\
+    \ https://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/text-with-miniature.json);\
+    \             <br/>             2) images with automated line segmentation (https://data.teklia.com/manifests/IIIF-2018/HORAE/BNF/text_lines.json);\
     \             <br/>             3) images with text indexing (multiple indexing\
-    \ hypotheses:             <br/>             http://data.teklia.com/manifests/IIIF-2018/HIMANIS/JJ96/words.json);\
+    \ hypotheses:             <br/>             https://data.teklia.com/manifests/IIIF-2018/HIMANIS/JJ96/words.json);\
     \             <br/>             4) images with text annotations at word level\
-    \ (http://data.teklia.com/manifests/IIIF-2018/ORIFLAMMS/PsautierIMS.json).   \
+    \ (https://data.teklia.com/manifests/IIIF-2018/ORIFLAMMS/PsautierIMS.json).   \
     \          <br/>  <br/>             Image analysis and presentation          \
     \   <br/>             IIIF infrastructures provide access to images, with or without\
     \ metadata at page level (sequence, labels of foliation or caption and description\
@@ -2044,12 +1991,12 @@
     \ the latter having to acknowledge cognitive issues (annotating snippet views\
     \ rather than whole pages). As in Oriflamms, a solution may be built integrating\
     \ several open source software, but it proves difficult to maintain through several\
-    \ developing cycles.             <br/>  <br/>             [1] http://oriflamms.hypotheses.org/1592\
-    \             <br/>             [2] http://doi.ieeecomputersociety.org/10.1109/ICDAR.2017.59\
-    \             <br/>             [3] http://journals.openedition.org/medievales/8198\
+    \ developing cycles.             <br/>  <br/>             [1] https://oriflamms.hypotheses.org/1592\
+    \             <br/>             [2] https://doi.ieeecomputersociety.org/10.1109/ICDAR.2017.59\
+    \             <br/>             [3] https://journals.openedition.org/medievales/8198\
     \             <br/>             [4] https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32\
     \             <br/>             [5] https://github.com/IIIF/api/issues/1417  \
-    \           <br/>             [6] http://content.fromthepage.com/text-beyond-annotations-at-iiif-vatican/\
+    \           <br/>             [6] https://content.fromthepage.com/text-beyond-annotations-at-iiif-vatican/\
     \             <br/>             [7] https://hcmc.uvic.ca/tei2017/abstracts/t_125_viglianti_teiandiiif.html\
     \            "
   authors:
@@ -2057,17 +2004,16 @@
     firstname: Dominique
     lastname: Stutzmann
     organization: Institut de Recherche et d'Histoire des Textes (CNRS)
-    web_page: http://www.irht.cnrs.fr
+    web_page: https://www.irht.cnrs.fr
   - country: France
     firstname: Alexis
     lastname: Toumi
     organization: Institut de Recherche et d'Histoire des Textes (CNRS) / Teklia
-    web_page: ''
   - country: France
     firstname: Christopher
     lastname: Kermorvant
     organization: Teklia
-    web_page: http://www.teklia.com/
+    web_page: https://www.teklia.com/
   decision: ACCEPT
   id: Paper 52
   index: 52
@@ -2114,12 +2060,10 @@
     firstname: Andrew
     lastname: Hankinson
     organization: University of Oxford
-    web_page: ''
   - country: United Kingdom
     firstname: Mel
     lastname: Mason
     organization: University of Oxford
-    web_page: ''
   decision: ACCEPT
   id: Paper 53
   index: 53
@@ -2150,22 +2094,18 @@
     firstname: Jack
     lastname: Reed
     organization: Stanford University
-    web_page: ''
   - country: United Kingdom
     firstname: Richard
     lastname: Higgins
     organization: Durham University Library
-    web_page: ''
   - country: United Kingdom
     firstname: Andy
     lastname: Irving
     organization: British Library
-    web_page: ''
   - country: Japan
     firstname: Asanobu
     lastname: Kitamoto
     organization: Center for Open Data in the Humanities / National Institute of Informatics
-    web_page: ''
   decision: ACCEPT
   id: Paper 54
   index: 54
@@ -2200,7 +2140,6 @@
     firstname: Mark
     lastname: Matney
     organization: University of California, Los Angeles
-    web_page: ''
   decision: ACCEPT
   id: Paper 55
   index: 55
@@ -2239,7 +2178,7 @@
     firstname: David
     lastname: Newbury
     organization: J. Paul Getty Trust
-    web_page: http://www.workergnome.com
+    web_page: https://www.workergnome.com
   decision: ACCEPT
   id: Paper 56
   index: 56
@@ -2321,17 +2260,14 @@
     firstname: Andrew
     lastname: Winget
     organization: Stanford University
-    web_page: ''
   - country: United States
     firstname: Rashmi
     lastname: Singhal
     organization: Harvard University
-    web_page: ''
   - country: United States
     firstname: Jeffrey
     lastname: Witt
     organization: Loyola University Maryland
-    web_page: ''
   decision: ACCEPT
   id: Paper 58
   index: 58
@@ -2395,7 +2331,6 @@
     firstname: Anne
     lastname: Mclaughlin
     organization: Parker Library, Corpus Christi College, Cambridge
-    web_page: ''
   decision: ACCEPT
   id: Paper 59
   index: 59
@@ -2431,14 +2366,14 @@
     interact with digital files. Part of this latter initiative has been to build
     a community of volunteers called the Metadata for Africa community, that we are
     hoping will enable access to underfunded and endangered African heritage resources.             <br/>  <br/>             Relevant
-    links:             <br/>             - http://heritage.africamediaonline.com             <br/>             -
-    http://archives.anc.org.za             <br/>             - https://metadataforafrica.wordpress.com            '
+    links:             <br/>             - https://heritage.africamediaonline.com             <br/>             -
+    https://archives.anc.org.za             <br/>             - https://metadataforafrica.wordpress.com            '
   authors:
   - country: South Africa
     firstname: David
     lastname: Larsen
     organization: Africa Media Online
-    web_page: http://heritage.africamediaonline.com
+    web_page: https://heritage.africamediaonline.com
   decision: ACCEPT
   id: Paper 6
   index: 6
@@ -2477,7 +2412,7 @@
     firstname: Marii
     lastname: "Nyr\xF6p"
     organization: Columbia University Libraries
-    web_page: http://marii.info
+    web_page: https://marii.info
   decision: ACCEPT
   id: Paper 60
   index: 60
@@ -2547,7 +2482,6 @@
     firstname: Naoki
     lastname: Kokaze
     organization: The University of Tokyo
-    web_page: ''
   - country: Japan
     firstname: Kiyonori
     lastname: Nagasaki
@@ -2557,7 +2491,6 @@
     firstname: Makoto
     lastname: Goto
     organization: National Museum of Japanese History
-    web_page: ''
   decision: ACCEPT
   id: Paper 61
   index: 61
@@ -2669,12 +2602,10 @@
     firstname: Chifumi
     lastname: Nishioka
     organization: Kyoto University
-    web_page: ''
   - country: Japan
     firstname: Kiyonori
     lastname: Nagasaki
     organization: The University of Tokyo
-    web_page: ''
   decision: ACCEPT
   id: Paper 7
   index: 7
@@ -2704,17 +2635,14 @@
     firstname: Michael
     lastname: Appleby
     organization: Yale Center for British Art
-    web_page: ''
   - country: United States
     firstname: Emmanuelle
     lastname: Delmas-Glass
     organization: Yale Center for British Art
-    web_page: ''
   - country: United States
     firstname: Tina
     lastname: Shah
     organization: Art Institute of Chicago
-    web_page: ''
   decision: ACCEPT
   id: Paper 8
   index: 8
@@ -2770,7 +2698,7 @@
     firstname: Christopher J.
     lastname: Prom
     organization: University of Illinois at Urbana-Champaign
-    web_page: http://www.archivalconnections.org/
+    web_page: https://www.archivalconnections.org/
   decision: ACCEPT
   id: Paper 9
   index: 9
@@ -2824,7 +2752,7 @@
     firstname: IIIF
     lastname: Discovery TSG
     organization: IIIF
-    web_page: http://iiif.io/api/
+    web_page: https://iiif.io/api/
   decision: ACCEPT
   id: Paper 101
   index: 101
@@ -2876,7 +2804,7 @@
     firstname: IIIF
     lastname: Newspaper Community Group
     organization: IIIF
-    web_page: http://iiif.io/community/groups/newspapers/
+    web_page: https://iiif.io/community/groups/newspapers/
   decision: ACCEPT
   id: Paper 103
   index: 103
@@ -2904,7 +2832,7 @@
     firstname: IIIF
     lastname: Manuscript Community Group
     organization: IIIF
-    web_page: http://iiif.io/community/groups/manuscripts/
+    web_page: https://iiif.io/community/groups/manuscripts/
   decision: ACCEPT
   id: Paper 104
   index: 104
@@ -2958,7 +2886,7 @@
     firstname: Drake
     lastname: Zabriskie
     organization: Luna Imaging Inc
-    web_page: http://www.lunaimaging.com/
+    web_page: https://www.lunaimaging.com/
   decision: ACCEPT
   id: Paper 106
   index: 106
@@ -2979,12 +2907,12 @@
      firstname: Kate
      lastname: Blanch
      organization: Design For Context
-     web_page: http://www.designforcontext.com/
+     web_page: https://www.designforcontext.com/
    - country: United States
      firstname: Duane
      lastname: Degler
      organization: Design For Context
-     web_page: http://www.designforcontext.com/
+     web_page: https://www.designforcontext.com/
   decision: ACCEPT
   id: Paper 107
   index: 107
