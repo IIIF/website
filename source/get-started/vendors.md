@@ -36,6 +36,7 @@ If you don't have the time or resources to build your own IIIF infrastructure, y
  - [NetX](https://www.netx.net/)
  - [Omeka](https://omeka.org/s/)
  - [Orange Logic](https://www.orangelogic.com/)
+ - [Prismia ViSiOn](https://prismia.fr/)
  - [ResCarta](https://rescarta.org/)
  - [ResourceSpace](https://www.resourcespace.com/knowledge-base/api/iiif)
  - [Quartex](https://www.quartexcollections.com/)
