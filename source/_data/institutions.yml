@@ -160,7 +160,6 @@
 - name: Jisc
   uri: https://www.jisc.ac.uk/
   logo: assets/uploads/logos/jisc-logo.svg
-  new: true
   iiifc: 3
 - name: Johns Hopkins University
   uri: http://library.jhu.edu
@@ -172,7 +171,7 @@
   logo: assets/uploads/logos/kakadu_logo.png
 - name: Kansai University
   uri: http://www.kansai-u.ac.jp
-  iiifc: 2
+  iiifc: 
 - name: Keio University Libraries
   uri: http://www.lib.keio.ac.jp/en/
 - name: Klokan Technologies
@@ -237,6 +236,9 @@
   original: true 
 - name: National Library of Denmark
   uri: http://www.kb.dk/en/
+- name: National Library of Estonia
+  uri: https://www.nlib.ee/
+  iiifc: 4
 #- name: National Library of Egypt
 # uri: http://www.darelkotob.gov.eg/index.html
 #  iiifc:
@@ -265,6 +267,11 @@
   logo: assets/uploads/logos/llgc_logo.png
 - name: Nationalmuseum Sweden
   uri: http://www.nationalmuseum.se
+- name: New York Public Library
+  uri: http://nypl.org/
+  iiifc: 2
+  new: true
+  logo: assets/uploads/logos/New_York_Public_Library_logo.svg.png
 - name: New York University Libraries
   uri: http://library.nyu.edu/
   iiifc: 2
@@ -397,7 +404,6 @@
   uri: https://www.lib.utk.edu/
   iiifc: 3
   logo: assets/uploads/logos/UTK.png
-  new: true
 - name: University of Tokyo
   uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 2
