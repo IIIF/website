@@ -1,3 +1,8 @@
+# - name: Full Name
+#   uri: URL
+#   iiifc: 1, 2, 3 (new full memmber) or 4 (associate member)
+#   new: true or false (adds logo to homepage if true)
+#   logo: Path to logo image
 - name: 4Science
   uri:  https://www.4science.it/en/
   iiifc:
