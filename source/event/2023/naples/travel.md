@@ -73,7 +73,7 @@ Economy Room EUR 100
 
 Single Room EUR 95
 
-To book, email [reservations@bbchiaia32.com](mailto:reservations@bbchiaia32.com) and use IIIF reservation code BB32FLAG
+To book, email [prenotazioni@bbchiaia32.com](mailto:prenotazioni@bbchiaia32.com) and use IIIF reservation code BB32FLAG
 
 
 ### B&B Chiaia 197
@@ -86,19 +86,6 @@ Double Superior Room EUR 130
 
 To book, email [info@bbchiaia32.com](mailto:info@bbchiaia32.com) and use IIIF reservation code BB197FLAG
 
-### Grand Hotel Oriente
-
-Via Armando Diaz, 44, 80134 Napoli
-
-<https://www.grandhoteloriente.it/>
-
-Double/twin Euro 190
-
-Double for single use Euro 160
-
-To book, complete the [credit card authorization form](https://docs.google.com/document/d/1nPds6R2X99ycH2CJErHX1zLoSy5zDDeo/edit?usp=share_link&ouid=106473943970082888651&rtpof=true&sd=true
-) and return to  [meeting@spacehotels.it](mailto:meeting@spacehotels.it), 
-"Att: Alessandra Bertozzi"
 
 ### Suite dei Catalani
 
