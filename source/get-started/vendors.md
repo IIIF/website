@@ -8,6 +8,16 @@ hero:
   image: "assets/images/heroes/hero-2@3x.webp"
 ---
 
+## Hosting services
+
+The following services offer cloud-based hosting of assets; all provide support for the IIIF Image API, and some provide additional features, like IIIF manifest generation and search.
+
+- [Micrio](https://micr.io/)
+- [IIIFHosting](https://www.iiifhosting.com/)
+- [Internet Archive](https://training.iiif.io/iiif-online-workshop/day-two/image-servers/iiif-hosting-ia.html)
+- [Reclaim Hosting](https://support.reclaimhosting.com/hc/en-us/articles/5751292854167-Getting-Started-with-Cantaloupe-IIIF-Image-Server#getting-started-with-cantaloupe-iiif-image-server-0-0)
+- [Cloud Services from Digirati](https://iiif-cloud.digirati.com/)
+
 ## Digital asset management (DAMs), collections management, and repository tools that support IIIF
 
 If you don't have the time or resources to build your own IIIF infrastructure, you can still implement IIIF for your collections by using products that already support IIIF.
