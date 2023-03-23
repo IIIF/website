@@ -10,13 +10,14 @@ hero:
 
 ## Hosting services
 
-The following services offer cloud-based hosting of assets; all provide support for the IIIF Image API, and some provide additional features, like IIIF manifest generation and search.
+The following services offer cloud-based hosting of assets; all provide support for the IIIF Image API, and some provide additional features like IIIF manifest generation and search.
 
-- [Micrio](https://micr.io/)
+- [Cloud Services from Digirati](https://iiif-cloud.digirati.com/)
 - [IIIFHosting](https://www.iiifhosting.com/)
 - [Internet Archive](https://training.iiif.io/iiif-online-workshop/day-two/image-servers/iiif-hosting-ia.html)
+- [Micrio](https://micr.io/)
 - [Reclaim Hosting](https://support.reclaimhosting.com/hc/en-us/articles/5751292854167-Getting-Started-with-Cantaloupe-IIIF-Image-Server#getting-started-with-cantaloupe-iiif-image-server-0-0)
-- [Cloud Services from Digirati](https://iiif-cloud.digirati.com/)
+- [Sanity.io](https://www.sanity.io/docs/iiif-api-reference)
 
 ## Digital asset management (DAMs), collections management, and repository tools that support IIIF
 
