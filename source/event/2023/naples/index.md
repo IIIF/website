@@ -36,19 +36,15 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index).
 
-### Travel Scholarship
-
-In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce two travel scholarships to attend the Annual Conference. Please see the [2023 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is February 28, 2023.
-
 ### **Travel**
 
 * Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details on pre-arranged rates.
 
 Note: the lowest rates expire January 31, so book soon if you intend on joining us in Naples!
 
-<!-- ### **Schedule**
+### **Schedule**
 
-* See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
+* See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2023/naples/schedule) for the conference, as well as the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/workshops) for the schedule of optional pre-conference workshops.
 
 
 ### Program committee
@@ -89,50 +85,6 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 Reach out to us at staff@iiif.io.
 
-
-<!-- ### Outline program
-
-The final program will continue to develop over the next few months but please see the outline below which gives an overview of the Boston IIIF Showcase and Conference. Note the Showcase will require a separate registration to the Conference.
-
-<table class="api-table">
-    <thead>
-        <tr>
-            <th>&nbsp;</th>
-            <th><b>Showcase</b></th>
-            <th colspan="3"><b>Conference</b></th>
-        </tr>
-        <tr>
-            <th>Time</th>
-            <th>Monday 1st June 2020</th>
-            <th>Tuesday 2nd June 2020</th>
-            <th>Wednesday 3rd June 2020</th>
-            <th>Thursday 4th June 2020</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Morning</td>
-            <td>&nbsp;</td>
-            <td>Workshops</td>
-            <td>Plenary lightning talks and parallel sessions</td>
-            <td>Parallel sessions</td>
-        </tr>
-        <tr>
-            <td>Afternoon</td>
-            <td>Showcase</td>
-            <td>Conference plenary including community updates and lightning talks</td>
-            <td>Parallel sessions</td>
-            <td>Closing lightning talks and panel sessions</td>
-        </tr>
-        <tr>
-            <td>Evening</td>
-            <td>&nbsp;</td>
-            <td>Conference reception</td>
-            <td>IIIF Consortium members' reception</td>
-            <td>&nbsp;</td>
-        </tr>
-    </tbody>
-</table>    --> 
 
 <!-- ### Locations
 
