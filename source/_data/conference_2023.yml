@@ -1,7 +1,7 @@
 Showcase:
   date: '2023-06-05'
   day: 5
-  end: '17:00'
+  end: '17:00 '
   id: Showcase
   name: ''
   session_time: 'Monday, June 05: 01:00pm - 05:00pm'
@@ -169,12 +169,12 @@ Showcase:
     start: '01:47 '
     title: A IIIF-Compliant Tool for Describing Medieval Manuscripts
     type: Presentation
-  start: ' 13:00'
+  start: '13:00 '
   start_date: 2023-06-05 13:00
 8:
   date: '2023-06-08'
   day: 8
-  end: '14:30'
+  end: '14:30 '
   id: 8
   name: ''
   session_time: 'Thursday, June 08: 01:30pm - 02:30pm'
@@ -386,12 +386,12 @@ Showcase:
     title: Memorekall-IIIF, a Mirador extension supporting video annotation and a
       network of IIIF manifests
     type: Presentation
-  start: ' 13:30'
+  start: '13:30 '
   start_date: 2023-06-08 13:30
 10:
   date: '2023-06-08'
   day: 8
-  end: '17:30'
+  end: '17:30 '
   id: 10
   name: ''
   session_time: 'Thursday, June 08: 04:00pm - 05:30pm'
@@ -587,12 +587,12 @@ Showcase:
     start: '05:20 '
     title: Mapping an Engineer Through IIIF
     type: Presentation
-  start: ' 16:00'
+  start: '16:00 '
   start_date: 2023-06-08 16:00
 4:
   date: '2023-06-07'
   day: 7
-  end: '16:00'
+  end: '16:00 '
   id: 4
   name: ''
   session_time: 'Wednesday, June 07: 03:00pm - 04:00pm'
@@ -933,12 +933,12 @@ Showcase:
     start: '03:49 '
     title: 'Coming full circle: from single Sangaku to IIIF-based Archive'
     type: Lightning talk
-  start: ' 15:00'
+  start: '15:00 '
   start_date: 2023-06-07 15:00
 5:
   date: '2023-06-07'
   day: 7
-  end: '17:30'
+  end: '17:30 '
   id: 5
   name: ''
   session_time: 'Wednesday, June 07: 04:30pm - 05:30pm'
@@ -1060,12 +1060,12 @@ Showcase:
     start: '05:10 '
     title: Using IIIF in cultural heritage software solutions
     type: Presentation
-  start: ' 16:30'
+  start: '16:30 '
   start_date: 2023-06-07 16:30
 9:
   date: '2023-06-08'
   day: 8
-  end: '15:30'
+  end: '15:30 '
   id: 9
   name: ''
   session_time: 'Thursday, June 08: 02:30pm - 03:30pm'
@@ -1368,12 +1368,12 @@ Showcase:
     start: '03:19 '
     title: IIIF infrastructure redesign and Mirador upgrade at Harvard Library
     type: Lightning talk
-  start: ' 14:30'
+  start: '14:30 '
   start_date: 2023-06-08 14:30
 1:
   date: '2023-06-07'
   day: 7
-  end: '12:30'
+  end: '12:30 '
   id: 1
   name: ''
   session_time: 'Wednesday, June 07: 11:30am - 12:30pm'
@@ -1420,18 +1420,18 @@ Showcase:
       org: Visual Computing Lab,  CNR-ISTI, Italy
     - name: Iriving, Andy
       org: Bodleian Libraries, Oxford
-    end: '11:37 '
+    end: '12:30 '
     id: '114'
     order: 1
     start: '11:30 '
     title: Integrating RTI and related techniques into IIIF
     type: Panel session
-  start: ' 11:30'
+  start: '11:30 '
   start_date: 2023-06-07 11:30
 Workshops -  Afternoon:
   date: '2023-06-06'
   day: 6
-  end: '17:30'
+  end: '17:30 '
   id: Workshops -  Afternoon
   name: ''
   session_time: 'Tuesday, June 06: 01:30pm - 05:30pm'
@@ -1481,7 +1481,7 @@ Workshops -  Afternoon:
       org: 4Science, Italy
     - name: Bollini, Andrea
       org: 4Science, Italy
-    end: '01:37 '
+    end: '05:30 '
     id: '118'
     order: 1
     start: '01:30 '
@@ -1530,10 +1530,10 @@ Workshops -  Afternoon:
       org: Metropolitan New York Library Council, United States of America
     - name: Pino Navarro, Diego Alberto
       org: Metropolitan New York Library Council, United States of America
-    end: '01:44 '
+    end: '05:30 '
     id: '154'
     order: 2
-    start: '01:37 '
+    start: '01:30 '
     title: 'Experimental IIIF kitchen using Archipelago: Community Cookbooks, family
       recipes and serendipitous manifest baking using a fully stocked kitchen and
       your own fresh ingredients'
@@ -1552,18 +1552,18 @@ Workshops -  Afternoon:
       org: Mnemoscene, United Kingdom
     - name: Fraser, Stephen
       org: Digirati, United Kingdom
-    end: '01:51 '
+    end: '05:30 '
     id: '165'
     order: 3
-    start: '01:44 '
+    start: '01:30 '
     title: IIIF Commons Workshop
     type: Workshop
-  start: ' 13:30'
+  start: '13:30 '
   start_date: 2023-06-06 13:30
 3:
   date: '2023-06-07'
   day: 7
-  end: '15:00'
+  end: '15:00 '
   id: 3
   name: ''
   session_time: 'Wednesday, June 07: 02:30pm - 03:00pm'
@@ -1638,12 +1638,12 @@ Workshops -  Afternoon:
     start: '02:50 '
     title: 'ArchiOx: Analysing and Recording Cultural Heritage in Oxford'
     type: Presentation
-  start: ' 14:30'
+  start: '14:30 '
   start_date: 2023-06-07 14:30
 6:
   date: '2023-06-08'
   day: 8
-  end: '10:30'
+  end: '10:30 '
   id: 6
   name: ''
   session_time: 'Thursday, June 08: 09:30am - 10:30am'
@@ -1798,12 +1798,12 @@ Workshops -  Afternoon:
     title: 'Visualizing multi-layered annotations: the case of the Liber Floridus
       manuscript'
     type: Presentation
-  start: ' 09:30'
+  start: '09:30 '
   start_date: 2023-06-08 09:30
 7:
   date: '2023-06-08'
   day: 8
-  end: '12:00'
+  end: '12:00 '
   id: 7
   name: ''
   session_time: 'Thursday, June 08: 11:00am - 12:00pm'
@@ -1860,18 +1860,18 @@ Workshops -  Afternoon:
       org: Biblioteca Apostolica Vaticana
     - name: "Butt\xF2, Simonetta"
       org: Istituto Centrale per il Catalogo Unico
-    end: '11:07 '
+    end: '12:00 '
     id: '126'
     order: 1
     start: '11:00 '
     title: 'Italian voices on IIIF: current results and further developments'
     type: Panel session
-  start: ' 11:00'
+  start: '11:00 '
   start_date: 2023-06-08 11:00
 2:
   date: '2023-06-07'
   day: 7
-  end: '13:00'
+  end: '13:00 '
   id: 2
   name: ''
   session_time: 'Wednesday, June 07: 12:30pm - 01:00pm'
@@ -1963,12 +1963,12 @@ Workshops -  Afternoon:
     start: '12:50 '
     title: Allmaps in Practice
     type: Presentation
-  start: ' 12:30'
+  start: '12:30 '
   start_date: 2023-06-07 12:30
 Workshop - Morning:
   date: '2023-06-06'
   day: 6
-  end: '12:00'
+  end: '12:00 '
   id: Workshop - Morning
   name: ''
   session_time: 'Tuesday, June 06: 09:00am - 12:00pm'
@@ -1991,7 +1991,7 @@ Workshop - Morning:
       org: ARK Alliance / Ronin Institute, United States of America
     - name: Winston, Donny
       org: Polyneme LLC
-    end: '09:07 '
+    end: '12:00 '
     id: '133'
     order: 1
     start: '09:00 '
@@ -2013,10 +2013,10 @@ Workshop - Morning:
       org: Mnemoscene, Universal Viewer
     - name: Winchester, Julie
       org: Duke University, MorphoSource
-    end: '09:14 '
+    end: '12:00 '
     id: '163'
     order: 2
-    start: '09:07 '
+    start: '09:00 '
     title: IIIF 3D - Technical Specification Group Workshop
     type: Workshop
   - abstract: "1a. Crowdsourcing and IIIF<br/><br/>In the first part of the workshop,\
@@ -2076,12 +2076,12 @@ Workshop - Morning:
       org: Ghent University
     - name: Debrulle, Rein
       org: Ghent University
-    end: '09:21 '
+    end: '12:00 '
     id: '173'
     order: 3
-    start: '09:14 '
+    start: '09:00 '
     title: 'IIIF in crowdsourcing and citizen science practices: A workshop on the
       user needs and an outline of use cases with Madoc'
     type: Workshop
-  start: ' 09:00'
+  start: '09:00 '
   start_date: 2023-06-06 09:00
