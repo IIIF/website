@@ -11,7 +11,11 @@
             <a name="block-{{include.block}}-{{presentation.id}}"></a>
             {{start}} - {{presentation.end}}
         </td>
-        <td><a href="#{{presentation.id}}">{{presentation.title}}</a></td>
+        <td>
+            <!-- <a href="#{{presentation.id}}"> -->
+            {{presentation.title}}
+        <!-- </a> -->
+        </td>
         <td>
             {% for author in presentation.authors %}
                 {{author.name}}{% if forloop.last == false %},{% endif %}

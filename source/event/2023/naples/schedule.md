@@ -140,4 +140,62 @@ Reach out to us at staff@iiif.io.
 
 
 
+<style>
+  .paper_time_value {font-weight: bold;}
+  .paper_abstract {
+    /*display: none;*/
+    padding: 0 0 0 10%;
+  }
+  .paper_title {
+    font-weight: bold;
+    font-size: 1.5rem !important;
+   }
+</style>
+
+<!-- ## Conference Presentations
+
+<div class="topline_printonly left">
+    {% for block in site.data.conference_2023 %}
+    {% if block[1].id != isNumber %}
+        <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
+            {% assign blockNo = block[1].id %}
+
+            <a id='session{{ blockNo }}' name='session{{ blockNo }}'></a><h3>Block {{ blockNo }}</h3>
+            <h3>{{ block[1].session_time }}</h3>
+        </div>
+
+        {% for session in block[1].sessions %}
+            <a name='{{session.id}}'></a>
+            <div id='{{session.id}}'>
+                <a href="#block-{{blockNo}}-{{session.id}}">Back to schedule</a>
+                <div class="paper">
+                    <span class="paper_time_value">{{session.start}} - {{session.end }}</span>
+                    <br/>
+                    <p class="paper_title">{{session.title}}</p>
+                    <a href="{{ session.youtube }}">Recording on Youtube</a>
+                    <p class="paper_author">
+                        {% for author in session.authors %}
+                            <u>{{author.name}}</u>, <i>{{author.org}}</i>{% if forloop.last == false %};{% endif %}
+                        {% endfor %}
+                    </p>
+                    <p class="paper_organisation">{{sessions.authors }}</p>
+                    
+                    
+                    <div class="paper">
+                        <p class="paper_abstract">{{session.abstract }}</p>
+                        <p class="paper_abstract"></p>
+                    </div>
+                </div>
+            </div>
+            {% if forloop.last == false %}
+                <hr noshade width="100%" class="float_left">
+                <br />
+            {% endif %}
+        {% endfor %}   
+       {% endif %}      
+    {% endfor %}        
+</div>
+
+ -->
+
 [showcase]: {{ site.root_url | absolute_url }}/event/2023/naples/showcase
