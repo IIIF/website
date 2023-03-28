@@ -8,6 +8,27 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
   - label: Naples 2023
     link: '{{ site.root_url }}/event/2023/naples/'
+sections:
+  - title: Session 1
+    key: 1
+  - title: Session 2
+    key: 2
+  - title: Session 3
+    key: 3
+  - title: Session 4
+    key: 4
+  - title: Session 5
+    key: 5
+  - title: Session 6
+    key: 6
+  - title: Session 7
+    key: 7
+  - title: Session 8
+    key: 8
+  - title: Session 9
+    key: 9
+  - title: Session 10
+    key: 10
 ---
 
 ## 2023 IIIF Annual Conference Schedule
@@ -34,6 +55,21 @@ The IIIF Annual Conference is generously supported by the following Conference S
 The [IIIF showcase][showcase] is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
 
 See the [showcase][showcase] page for the detailed schedule of speakers.
+
+<table class="api-table">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>12:00 - 1:00</td>
+        <td colspan="3"><b>Check-in</b></td>
+    </tr>    
+    {% include conference_table_row.html datafile=site.data.conference_2023 block="Showcase" %}
+</table>
 
 ## June 6
 ### Conference Workshops
@@ -129,3 +165,46 @@ See the [showcase][showcase] page for the detailed schedule of speakers.
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=10 %}
 </table>
+
+## Abstracts 
+
+<div class="topline_printonly left">
+    {% for section in page.sections %}
+        <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
+
+            <a id='session-{{ section.key }}' name='session-{{ section.key }}'></a><h3>{{ section.title }}</h3>
+            <h4>{{ site.data.conference_2023[section.key].session_time }}</h4>
+        </div>
+
+        {% for session in site.data.conference_2023[section.key].sessions %}
+            <a name='{{session.id}}'></a>
+            <div id='{{session.id}}'>
+                <div class="paper">
+                    <span class="paper_time_value">{{session.start}} - {{session.end }}</span>
+                    <br/>
+                    <p class="paper_title">{{session.title}}</p>
+                    {% if session.youtube %}
+                        <a href="{{ session.youtube }}">Recording on Youtube</a>
+                    {% endif %}
+                    <p class="paper_author">
+                        {% for author in session.authors %}
+                            <u>{{author.name}}</u>, <i>{{author.org}}</i>{% if forloop.last == false %};{% endif %}
+                        {% endfor %}
+                    </p>
+                    <p class="paper_organisation">{{sessions.authors }}</p>
+                    
+                    
+                    <div class="paper">
+                        <p class="paper_abstract">{{session.abstract }}</p>
+                        <p class="paper_abstract"></p>
+                    </div>
+                </div>
+                <a href="#block-{{section.key}}-{{session.id}}">Back to schedule</a>
+            </div>
+            {% if forloop.last == false %}
+                <hr noshade width="100%" class="float_left">
+                <br />
+            {% endif %}
+        {% endfor %}        
+    {% endfor %}        
+</div>
