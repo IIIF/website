@@ -66,7 +66,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         <tr>
             <td>1:15pm</td>
             <td>Introduction to IIIF: Technology and Community</td>
-            <td>JIIIF Consortium Staff</td>
+            <td>IIIF Consortium Staff</td>
         </tr>
         <tr>
            <td>1:45pm</td>
