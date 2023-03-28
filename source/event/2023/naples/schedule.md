@@ -28,39 +28,25 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 {% include 2023_sponsors.html %} 
 
-## June 5
+## June 5
 ### IIIF Showcase
 
-The [IIIF showcase][showcase] is free and open to the public. Attend this event to learn more about IIIF, including an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
+The [IIIF showcase][showcase] is free and open to the public. Attend this event if you are new to IIIF to get an overview of what it does, use cases, how you can implement IIIF at your institution, and how you can contribute to the community.
 
 See the [showcase][showcase] page for the detailed schedule of speakers.
 
 ## June 6
 ### Conference Workshops
 
-<table class="api-table">
-    <thead>
-        <tr>
-            <th>Time</th>
-            <th>Session</th>
-            <th>Speaker(s)</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>8:00 - 9:00</td>
-        <td colspan="3"><b>Check-in</b></td>
-    </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2023 block="Workshop - Morning" %}
-    <tr>
-        <td>12:00 - 13:30</td>
-        <td colspan="3"><b>Lunch</b></td>
-    </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2023 block="Workshops -  Afternoon" %}
-</table>
+See the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/workshops) for the schedule of optional pre-conference workshops. To register for a workshop spot (free with conference registration), you can select an option through your [Conftool profile](https://www.conftool.org/iiif2023/index.php?page=index).
+
 
 ## June 7
 ### Conference 
 
+The conference program on June 7 and 8 will take place at the University of Naples Apple Developer Academy auditorium (see [location](#locations) below for the full address).
+
+
 <table class="api-table">
     <thead>
         <tr>
@@ -73,6 +59,20 @@ See the [showcase][showcase] page for the detailed schedule of speakers.
         <td>8:00 - 9:00</td>
         <td colspan="3"><b>Check-in</b></td>
     </tr>    
+    <tr>
+        <td>9:15 - 10:15</td>
+        <td>Welcome and opening remarks</td>
+        <td></td>
+    </tr>    
+    <tr>
+        <td>10:30 - 11:00</td>
+        <td>State of the IIIF Universe</td>
+        <td> IIIF Consortium Staff</td>
+    </tr>
+      <tr>
+        <td>11:00 - 11:30</td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
+    </tr>   
     {% include conference_table_row.html datafile=site.data.conference_2023 block=1 %}
     {% include conference_table_row.html datafile=site.data.conference_2023 block=2 %}
     <tr>
@@ -82,12 +82,12 @@ See the [showcase][showcase] page for the detailed schedule of speakers.
     {% include conference_table_row.html datafile=site.data.conference_2023 block=3 %}
   <tr>
         <td>TBC - TBC</td>
-        <td colspan="3"><b>Break</b></td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=4 %}
   <tr>
         <td>TBC - TBC</td>
-        <td colspan="3"><b>Break</b></td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=5 %}
 </table>
@@ -110,7 +110,7 @@ See the [showcase][showcase] page for the detailed schedule of speakers.
     {% include conference_table_row.html datafile=site.data.conference_2023 block=6 %}
     <tr>
         <td>TBC - TBC</td>
-        <td colspan="3"><b>Lunch</b></td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=7 %}
     <tr>
@@ -120,12 +120,24 @@ See the [showcase][showcase] page for the detailed schedule of speakers.
     {% include conference_table_row.html datafile=site.data.conference_2023 block=8 %}
     <tr>
         <td>TBC - TBC</td>
-        <td colspan="3"><b>Lunch</b></td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=9 %}
     <tr>
         <td>TBC - TBC</td>
-        <td colspan="3"><b>Lunch</b></td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=10 %}
 </table>
+
+### Locations
+
+{% include 2023_locations.html %} 
+
+### **Questions?**
+
+Reach out to us at staff@iiif.io.
+
+
+
+[showcase]: {{ site.root_url | absolute_url }}/event/2023/naples/showcase
