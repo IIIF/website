@@ -23,12 +23,12 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 ### **Overview**
 
-* Location: Naples, Italy (Map of venue locations and more coming soon)
+* Location: Naples, Italy (see [locations](#locations) below)
     * IIIF Showcase: June 5, 2023
     * Workshops and meetings: June 6, 2023
     * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
-* Registration will open in early February. Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
+* Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC and WHO recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
@@ -72,7 +72,6 @@ Thank you to the 2023 local planning committee:
 * Chiara Fusco
 * Pierfrancesco Valentini di Castromediano
 
-
 ### **Sponsors**
 
 We are offering sponsorship for the 2023 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2023/naples/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io).
@@ -81,17 +80,13 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 {% include 2023_sponsors.html %} 
 
+### Locations
+
+{% include 2023_locations.html %} 
+
 ### **Questions?**
 
 Reach out to us at staff@iiif.io.
-
-
-<!-- ### Locations
-
-* June 6, IIIF Showcase: Building 10 Room 250, MIT campus
-* June 7-8, Main Conference: Boylston Hall 110-Fong Auditorium, Harvard campus 
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 100%; height: 600px"></iframe> -->
 
 
 [iiif]: https://iiif.io/
