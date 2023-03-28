@@ -64,6 +64,14 @@ The IIIF Annual Conference is generously supported by the following Conference S
 </table>
 
 
+### Locations
+
+{% include 2023_locations.html %} 
+
+### **Questions?**
+
+Reach out to us at staff@iiif.io.
+
 
 
 [showcase]: {{ site.root_url | absolute_url }}/event/2023/naples/showcase
