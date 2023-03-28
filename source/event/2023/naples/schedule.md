@@ -56,21 +56,6 @@ The [IIIF showcase][showcase] is free and open to the public. Attend this event 
 
 See the [showcase][showcase] page for the detailed schedule of speakers.
 
-<table class="api-table">
-    <thead>
-        <tr>
-            <th>Time</th>
-            <th>Session</th>
-            <th>Speaker(s)</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>12:00 - 1:00</td>
-        <td colspan="3"><b>Check-in</b></td>
-    </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2023 block="Showcase" %}
-</table>
-
 ## June 6
 ### Conference Workshops
 
@@ -81,7 +66,6 @@ See the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/wo
 ### Conference 
 
 The conference program on June 7 and 8 will take place at the University of Naples Apple Developer Academy auditorium (see [location](#locations) below for the full address).
-
 
 <table class="api-table">
     <thead>
