@@ -66,42 +66,48 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         <tr>
             <td>1:15pm</td>
             <td>Introduction to IIIF: Technology and Community</td>
-            <td>Josh Hadro, IIIF Consortium</td>
+            <td>JIIIF Consortium Staff</td>
         </tr>
         <tr>
-           
+           <td>1:45pm</td>
+           <td>Exciting community work:<br>
+               Latest on IIIF 3D<br>
+               IIIF + Maps<br>
+               Wikidata & Crowdsourcing</td>
+           <td><br>
+               Ronald Haynes, University of Cambridge, United Kingdom<br>
+               Virginia Boyero, Swedish National Heritage Board Incubator / Beyond the Map<br>
+               Jason Evans, National Library of Wales, United Kingdom</td>
         </tr>
-                <tr>
-           
-        </tr>
-                <tr>
-           
-        </tr>
-                <tr>
-            <td>2:40pm</td>
+        <tr>
+            <td>2:45pm</td>
             <td colspan="2">Break with Tea and Coffee</td>
         </tr>
+                <tr>
+                    <td>3:15pm</td>
+                    <td>A IIIF-Compliant Tool for Describing Medieval Manuscripts</td>
+                    <td>Fara Autiero, Venice Centre for Digital and Public Humanities (VeDPH); Sandra Gorla, University of Naples Federico II, Italy; Daniele Fusi, University of Naples Federico II, Italy</td>
+                     
+           
+        </tr>
+        <tr></tr>
+        <tr></tr>
         <tr>
-            <td>3:00pm</td>
-            <td>Latest on IIIF 3D</td>
-            <td>Ronald Haynes, Cambridge University; Ed Silverton, Mnemoscene</td>
+        <td>4:15pm</td>
+        <td>COOSMO: How to Make IIIF Easy</td>
+        <td>Giovanni Borelli, Haltadefinizione Srl</td>   
         </tr>
         <tr>
+        <td>4:30pm</td>
+        <td>MLOL Annotations & Stories for public and school libraries in Italy</td>
+        <td>Giulio Blasi, MLOL</td>   
+        </tr>
+        <tr>
+        <td>4:45pm</td>
+        <td>Implementing IIIF: the simple and complex versions</td>
+        <td>Glen Robson, IIIF Technical Coordinator</td>   
+        </tr>                
 
-        </tr>
-        <tr>
-
-        </tr>
-        <tr>
-            <td>4:00pm</td>
-            <td>IIIF and Maps</td>
-            <td>Virginia Boyero</td>
-        </tr>
-        <tr>
-            <td>4:20pm</td>
-            <td>Implementing IIIF: the simple and complex versions</td>
-            <td>Glen Robson, IIIF Consortium</td>
-        </tr>
 </tbody>
 </table>
 
