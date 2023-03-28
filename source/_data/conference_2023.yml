@@ -1356,11 +1356,7 @@ Showcase:
       \ viewer, the oEmbed service, and share plans on collaborating closely with\
       \ the community.<br/><br/>"
     authors:
-    - name: Katie Amaral
-      org: Harvard University, United States of America
     - name: Phil Plencner
-      org: Harvard University, United States of America
-    - name: Doug Simon
       org: Harvard University, United States of America
     end: '03:26 '
     id: '109'
@@ -1503,7 +1499,7 @@ Workshops -  Afternoon:
       org: 4Science, Italy
     - name: Andrea Bollini
       org: 4Science, Italy
-    end: '05:30 '
+    end: '03:30 '
     id: '118'
     order: 1
     start: '01:30 '
