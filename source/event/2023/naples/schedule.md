@@ -96,20 +96,24 @@ The conference program on June 7 and 8 will take place at the University of Napl
     {% include conference_table_row.html datafile=site.data.conference_2023 block=1 %}
     {% include conference_table_row.html datafile=site.data.conference_2023 block=2 %}
     <tr>
-        <td>TBC - TBC</td>
+        <td>1:00 - 2:30 </td>
         <td colspan="3"><b>Lunch</b></td>
     </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2023 block=3 %}
-  <tr>
-        <td>TBC - TBC</td>
-        <td colspan="3"><b>Break with tea and coffee</b></td>
-    </tr>    
+    {% include conference_table_row.html datafile=site.data.conference_2023 block=3 %}    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=4 %}
   <tr>
-        <td>TBC - TBC</td>
+        <td>4:00 - 4:30 </td>
         <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=5 %}
+    <tr>
+        <td>6:00 - 6:15 </td>
+        <td colspan="3"><b>Buses arrive for transport to conference reception at Villa Ferretti</b></td>
+    </tr>
+        <tr>
+        <td>7:00 - 9:00 </td>
+        <td colspan="3"><b>Reception at Villa Ferretti</b></td>
+    </tr>  
 </table>
 
 ## June 8
@@ -129,22 +133,18 @@ The conference program on June 7 and 8 will take place at the University of Napl
     </tr>  
     {% include conference_table_row.html datafile=site.data.conference_2023 block=6 %}
     <tr>
-        <td>TBC - TBC</td>
+        <td>10:30 - 11:00 </td>
         <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=7 %}
     <tr>
-        <td>TBC - TBC</td>
+        <td>12:00 - 1:30 </td>
         <td colspan="3"><b>Lunch</b></td>
     </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2023 block=8 %}
-    <tr>
-        <td>TBC - TBC</td>
-        <td colspan="3"><b>Break with tea and coffee</b></td>
-    </tr>    
+    {% include conference_table_row.html datafile=site.data.conference_2023 block=8 %}  
     {% include conference_table_row.html datafile=site.data.conference_2023 block=9 %}
     <tr>
-        <td>TBC - TBC</td>
+        <td>3:30 - 4:00 </td>
         <td colspan="3"><b>Break with tea and coffee</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=10 %}
@@ -179,7 +179,7 @@ Reach out to us at staff@iiif.io.
     {% for section in page.sections %}
         <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
 
-            <a id='session-{{ section.key }}' name='session-{{ section.key }}'></a><h3>{{ section.title }}</h3>
+            <a id='session-{{ section.key }}' name='session-{{ section.key }}'></a><h4>{{ section.title }}</h4>
             <h4>{{ site.data.conference_2023[section.key].session_time }}</h4>
         </div>
 
