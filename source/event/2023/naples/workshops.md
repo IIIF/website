@@ -8,6 +8,12 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
   - label: Naples 2023
     link: '{{ site.root_url }}/event/2023/naples/'
+
+sections:    
+  - title: Morning
+    key: Workshop - Morning
+  - title: Afternoon
+    key: Workshops -  Afternoon
 ---
 
 ## 2023 IIIF Annual Conference Workshops
@@ -27,19 +33,6 @@ The outline schedule of the conference workshops is available below.
 The IIIF Annual Conference is generously supported by the following Conference Sponsors:
 
 {% include 2023_sponsors.html %} 
-
-
-<style>
-  .paper_time_value {font-weight: bold;}
-  .paper_abstract {
-    /*display: none;*/
-    padding: 0 0 0 10%;
-  }
-  .paper_title {
-    font-weight: bold;
-    font-size: 1.5rem !important;
-   }
-</style>
 
 ## Workshops
 
@@ -72,6 +65,46 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 Reach out to us at staff@iiif.io.
 
+## Abstracts 
 
+<div class="topline_printonly left">
+    {% for section in page.sections %}
+        <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
+
+            <a id='session-{{ section.key }}' name='session-{{ section.key }}'></a><h3>{{ section.title }}</h3>
+            <h4>{{ site.data.conference_2023[section.key].session_time }}</h4>
+        </div>
+
+        {% for session in site.data.conference_2023[section.key].sessions %}
+            <a name='{{session.id}}'></a>
+            <div id='{{session.id}}'>
+                <div class="paper">
+                    <span class="paper_time_value">{{session.start}} - {{session.end }}</span>
+                    <br/>
+                    <p class="paper_title">{{session.title}}</p>
+                    {% if session.youtube %}
+                        <a href="{{ session.youtube }}">Recording on Youtube</a>
+                    {% endif %}
+                    <p class="paper_author">
+                        {% for author in session.authors %}
+                            <u>{{author.name}}</u>, <i>{{author.org}}</i>{% if forloop.last == false %};{% endif %}
+                        {% endfor %}
+                    </p>
+                    <p class="paper_organisation">{{sessions.authors }}</p>
+                    
+                    <div class="paper">
+                        <p class="paper_abstract">{{session.abstract }}</p>
+                        <p class="paper_abstract"></p>
+                    </div>
+                </div>
+                <a href="#block-{{section.key}}-{{session.id}}">Back to schedule</a>
+            </div>
+            {% if forloop.last == false %}
+                <hr noshade width="100%" class="float_left">
+                <br />
+            {% endif %}
+        {% endfor %}        
+    {% endfor %}        
+</div>
 
 [showcase]: {{ site.root_url | absolute_url }}/event/2023/naples/showcase
