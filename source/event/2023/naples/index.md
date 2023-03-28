@@ -40,9 +40,12 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details on pre-arranged rates.
 
-<!-- ### **Schedule**
+Note: the lowest rates expire January 31, so book soon if you intend on joining us in Naples!
 
-* See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
+### **Schedule**
+
+* See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2023/naples/schedule) for the conference, as well as the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/workshops) for the schedule of optional pre-conference workshops.
+
 
 ### Program committee
 
@@ -84,7 +87,6 @@ The IIIF Annual Conference is generously supported by the following Conference S
 ### **Questions?**
 
 Reach out to us at staff@iiif.io.
-
 
 
 [iiif]: https://iiif.io/

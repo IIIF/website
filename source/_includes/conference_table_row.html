@@ -1,4 +1,9 @@
-{% assign block_sessions = site.data.conference_2022[include.block].sessions %}
+{% if include.datafile %}
+    {% assign block_sessions = include.datafile[include.block].sessions %}
+{% else %}
+    {% assign block_sessions = site.data.conference_2022[include.block].sessions %}
+{% endif %}
+
 {% for presentation in block_sessions %}
     <tr>
         {% assign start = presentation.start | string %}
@@ -6,14 +11,20 @@
             <a name="block-{{include.block}}-{{presentation.id}}"></a>
             {{start}} - {{presentation.end}}
         </td>
-        <td><a href="#{{presentation.id}}">{{presentation.title}}</a></td>
+        <td>
+             <a href="#{{presentation.id}}">
+            {{presentation.title}}
+        </a>
+        </td>
         <td>
             {% for author in presentation.authors %}
                 {{author.name}}{% if forloop.last == false %},{% endif %}
             {% endfor %}
         </td>
-        <td>
-            <a href="{{presentation.youtube}}"><img alt="Preview image of youtube video" src="{{ site.root_url | absolute_url }}/assets/images/preview_conf_video.png"/></a>
-        </td>
+        {% if presentation.youtube %}
+            <td>
+                <a href="{{presentation.youtube}}"><img alt="Preview image of youtube video" src="{{ site.root_url | absolute_url }}/assets/images/preview_conf_video.png"/></a>
+            </td>
+        {% endif %}
     </tr>
 {% endfor %}
