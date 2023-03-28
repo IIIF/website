@@ -26,7 +26,7 @@ The outline schedule of the conference workshops is available below.
 
 
 * Registration for the IIIF showcase is free.
-* osts for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket.
+* Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket.
 
 ### **Sponsors**
 
