@@ -25,7 +25,7 @@ Showcase:
       user experience, including the development of our own Wikibase instance with
       a controlled set of linked entities.
     authors:
-    - name: Evans, Jason
+    - name: Jason Evans
       org: National Library of Wales, United Kingdom
     end: '01:20 '
     id: '102'
@@ -77,7 +77,7 @@ Showcase:
       \ memory space. For all these reasons, Coosmo could become one of the key elements\
       \ employed by the IIIF Community.<br/><br/>"
     authors:
-    - name: Borelli, Giovanni
+    - name: Giovanni Borelli
       org: Haltadefinizione Srl, Italy
     end: '01:40 '
     id: '145'
@@ -103,7 +103,7 @@ Showcase:
       have a library that adheres to the MLOL platform, and have conducted educational
       activities using the IIIF-based tools on the MLOL platform.
     authors:
-    - name: Blasi, Giulio
+    - name: Giulio Blasi
       org: MLOL, Italy
     end: '01:47 '
     id: '100'
@@ -157,11 +157,11 @@ Showcase:
       \ through IIIF manifests will allow integrating data with greater ease in IIIF-compliant\
       \ illustrated-manuscript or book collections."
     authors:
-    - name: Autiero, Fara
+    - name: Fara Autiero
       org: University of Naples Federico II, Italy
-    - name: Gorla, Sandra
+    - name: Sandra Gorla
       org: University of Naples Federico II, Italy
-    - name: Fusi, Daniele
+    - name: Daniele Fusi
       org: Venice Centre for Digital and Public Humanities (VeDPH)
     end: '02:07 '
     id: '148'
@@ -223,7 +223,7 @@ Showcase:
       https://www.go-fair.org/fair-principles/<br/><br/>[4] https://www.gida-global.org/care<br/><br/>[5]
       https://docs.google.com/presentation/d/1Gvvo_NOSebDJHN6Jo5V8ixzgDrvUMN24fHwpjVbaOvk/edit '
     authors:
-    - name: Raemy, Julien Antoine
+    - name: Julien Antoine Raemy
       org: 'Digital Humanities Lab, University of Basel, Switzerland;
 
         DaSCH - Swiss National Data and Service Center for the Humanities'
@@ -271,7 +271,7 @@ Showcase:
       \ of further development perspectives for IIIF within the SFA\u2019s access\
       \ setting and of future opportunities of collaboration with partners. "
     authors:
-    - name: Pilloud, Elena
+    - name: Elena Pilloud
       org: Swiss Federal Archives, Switzerland
     end: '02:10 '
     id: '152'
@@ -317,9 +317,9 @@ Showcase:
       which is handling of hybrid metadata associated with different digital resources,
       and the crosswalk needed for the IIIF Presentation API Metadata section.<br/><br/>'
     authors:
-    - name: Di Bernardo, Emilia
+    - name: Emilia Di Bernardo
       org: DB SERET srl, Italy
-    - name: Leone, Rosemarie
+    - name: Rosemarie Leone
       org: ESA (European Space Agency)
     end: '02:30 '
     id: '149'
@@ -371,13 +371,13 @@ Showcase:
       \ way for the integration of AI- and ML-driven corpus analysis tools which shall\
       \ be the subject of our next phase of<br/><br/>development."
     authors:
-    - name: Bardiot, Clarisse
+    - name: Clarisse Bardiot
       org: Rennes 2 University
-    - name: Hart, Jacob
+    - name: Jacob Hart
       org: Rennes 2 University
-    - name: Rouqet, David
+    - name: David Rouqet
       org: Tetras Libre
-    - name: Geourjon, Anthony
+    - name: Anthony Geourjon
       org: Tetras Libre
     end: '02:50 '
     id: '172'
@@ -411,7 +411,7 @@ Showcase:
       ll look at the new supported use cases and give a brief overview of how to support\
       \ IIIF Auth, for publishers and for client software developers.<br/><br/>"
     authors:
-    - name: Editors, The IIIF
+    - name: The IIIF Editors
       org: The IIIF Editorial Committee
     end: '04:20 '
     id: '170'
@@ -431,13 +431,13 @@ Showcase:
       of this work testing different parameters will be presented and their effects
       on htj2k images and JPEG2000 Part 1 images. '
     authors:
-    - name: Robson, Glen
+    - name: Glen Robson
       org: IIIF, United Kingdom
-    - name: Smith, Michael
+    - name: Michael Smith
       org: Kakadu Consultant, USA
-    - name: Pillay, Ruven
+    - name: Ruven Pillay
       org: C2RMF - Palais du Louvre & IIPImage maintainer, France
-    - name: Cossu, Stefano
+    - name: Stefano Cossu
       org: Harvard, USA
     end: '04:40 '
     id: '146'
@@ -472,7 +472,7 @@ Showcase:
       new people and creating new Wikidata articles for those people.<br/><br/>Keywords:
       Linked Open Usable Data (LOUD), machine learning, Discovering IIIF resources'
     authors:
-    - name: Jones, Michael
+    - name: Michael Jones
       org: National Library of Wales, United Kingdom
     end: '05:00 '
     id: '104'
@@ -519,9 +519,9 @@ Showcase:
       as well as collaboration in educational activities by integrating with the Storiiies
       editor tool.<br/><br/>'
     authors:
-    - name: De Vincentis, Stefania
+    - name: Stefania De Vincentis
       org: Ca' Foscari University of Venice, Italy
-    - name: Critelli, Martin
+    - name: Martin Critelli
       org: Ca' Foscari University of Venice, Italy
     end: '05:20 '
     id: '159'
@@ -573,13 +573,13 @@ Showcase:
       \ new and established historical narratives, and is intended for both general\
       \ and technical audiences."
     authors:
-    - name: Monger, Jenifer
+    - name: Jenifer Monger
       org: Rensselaer Polytechnic Institute, United States of America
-    - name: Sherrick, Allison
+    - name: Allison Sherrick
       org: Metropolitan New York Library Council, United States of America
-    - name: Pino Navarro, Diego Alberto
+    - name: Diego Alberto Pino Navarro
       org: Metropolitan New York Library Council, United States of America
-    - name: McCarthy, Brenden
+    - name: Brenden McCarthy
       org: Rensselaer Polytechnic Institute, United States of America
     end: '05:40 '
     id: '147'
@@ -606,7 +606,7 @@ Showcase:
       and interesting -- may influence how the community talks about IIIF and where
       we focus our outreach efforts.
     authors:
-    - name: Brumfield, Sara
+    - name: Sara Brumfield
       org: FromThePage, United States of America
     end: '03:07 '
     id: '113'
@@ -644,9 +644,9 @@ Showcase:
       to contribute to the IIIF community by providing a practical application of
       IIIF standards that can be used and built upon by other institutions and organizations.<br/><br/>
     authors:
-    - name: Pietsch, Christopher
+    - name: Christopher Pietsch
       org: University of Zurich, Switzerland
-    - name: "Kr\xE4utli, Florian"
+    - name: "Florian Kr\xE4utli"
       org: University of Zurich, Switzerland
     end: '03:14 '
     id: '105'
@@ -665,11 +665,11 @@ Showcase:
       and demonstrate some real world examples of the library in use, both inside
       workflows and standalone.
     authors:
-    - name: Bennett, Mike
+    - name: Mike Bennett
       org: Non-affilliated
-    - name: Robson, Glen
+    - name: Glen Robson
       org: IIIF-C
-    - name: maintainers, iiif-prezi3
+    - name: iiif-prezi3 maintainers
       org: Assorted
     end: '03:21 '
     id: '130'
@@ -713,11 +713,11 @@ Showcase:
       \ create sustainable, Open Access, intellectually ambitious editions which are\
       \ relatively small in scale."
     authors:
-    - name: Tucker, Jo
+    - name: Jo Tucker
       org: University of Glasgow, United Kingdom
-    - name: Guariento, Luca
+    - name: Luca Guariento
       org: University of Glasgow, United Kingdom
-    - name: Williams, Vivien
+    - name: Vivien Williams
       org: University of Glasgow, United Kingdom
     end: '03:28 '
     id: '117'
@@ -759,7 +759,7 @@ Showcase:
       but analyze how IIIF can play a role in digital storytelling, particularly within
       the field of digital public humanities.'
     authors:
-    - name: Foket, Lise
+    - name: Lise Foket
       org: Ghent Centre for Digital Humanities, Belgium
     end: '03:35 '
     id: '167'
@@ -815,24 +815,24 @@ Showcase:
       \ developed by members of the AIUCD community, leveraging IIIF APIs: EVT, CophiEditor,\
       \ Euporia, Biflow."
     authors:
-    - name: Buzzoni, Marina
+    - name: Marina Buzzoni
       org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
         \ Digitale AIUCD;\nUniversit\xE0 Ca' Foscari Venezia"
-    - name: Lana, Maurizio
+    - name: Maurizio Lana
       org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
         \ Digitale AIUCD;\nUniversit\xE0 del Piemonte Orientale"
-    - name: Barbuti, Nicola
+    - name: Nicola Barbuti
       org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
         \ Digitale AIUCD;\nUniversit\xE0 di Bari Aldo Moro"
-    - name: Bolioli, Andrea
+    - name: Andrea Bolioli
       org: 'Direttivo 21-23 Associazione per l''Informatica Umanistica e la Cultura
         Digitale AIUCD;
 
         CELI'
-    - name: Boschetti, Federico
+    - name: Federico Boschetti
       org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
         \ Digitale AIUCD;\nCNR-ILC, Italy;\nUniversit\xE0 Ca' Foscari Venezia"
-    - name: "Cirac\xEC, Fabio"
+    - name: "Fabio Cirac\xEC"
       org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
         \ Digitale AIUCD;\nUniversit\xE0 del Salento"
     end: '03:42 '
@@ -883,7 +883,7 @@ Showcase:
       \ translation texts are linked to a database of people, place, and event entries\
       \ which are also derived from the TEI encoded texts.<br/><br/>"
     authors:
-    - name: Laiacona, Nicholas
+    - name: Nicholas Laiacona
       org: Performant Software Solutions, United States of America
     end: '03:49 '
     id: '116'
@@ -921,11 +921,11 @@ Showcase:
       is written in Golang. With a view to the future, the final deliverable will
       be a docker container allowing the use of alternative interfaces or databases.<br/><br/>'
     authors:
-    - name: Karaisl, Antonia
+    - name: Antonia Karaisl
       org: 'Waseda University, Japan;
 
         Villa I Tatti, The Harvard Center for Italian Renaissance Studies'
-    - name: Spinaci, Gianmarco
+    - name: Gianmarco Spinaci
       org: Villa I Tatti, The Harvard Center for Italian Renaissance Studies
     end: '03:56 '
     id: '144'
@@ -970,11 +970,11 @@ Showcase:
       \ IIIF. The portal will also aim to offer repositories in IIIF for thematic\
       \ portals such as Biblissima."
     authors:
-    - name: "Sajdak, C\xE9cile"
+    - name: "C\xE9cile Sajdak"
       org: 'Biblissima+;
 
         Campus Condorcet'
-    - name: Daugas, Mathilde
+    - name: Mathilde Daugas
       org: "Biblissima+;\nCampus Condorcet;\nService Interminist\xE9riel des Archives\
         \ de France"
     end: '04:50 '
@@ -994,9 +994,9 @@ Showcase:
       as that of the Portale Antenati, the methodology of performance analysis, the
       results of the performance benchmarks and the monitoring of the platform.
     authors:
-    - name: Coppola, Lina Antonietta
+    - name: Lina Antonietta Coppola
       org: Archivist & Project Manager
-    - name: Landino, Costantino
+    - name: Costantino Landino
       org: IT Manager freelance
     end: '05:10 '
     id: '106'
@@ -1050,9 +1050,9 @@ Showcase:
       \ IIIF compliant format. The most significant feature of the system will be\
       \ its scale, both in terms of the number of servers and the size of storage."
     authors:
-    - name: "Heli\u0144ski, Marcin"
+    - name: "Marcin Heli\u0144ski"
       org: "Pozna\u0144 Supercomputing and Networking Center, Poland"
-    - name: Nowak, Aleksandra
+    - name: Aleksandra Nowak
       org: "Pozna\u0144 Supercomputing and Networking Center, Poland"
     end: '05:30 '
     id: '131'
@@ -1111,7 +1111,7 @@ Showcase:
       and facilitate discovery and access to these valuable resources for heritage
       learners and linguistic enthusiasts.<br/><br/>
     authors:
-    - name: Miyagawa, So
+    - name: So Miyagawa
       org: National Institute for Japanese Language and Linguistics (NINJAL), Japan
     end: '02:37 '
     id: '140'
@@ -1144,9 +1144,9 @@ Showcase:
       \ describe challenges encountered from providing platforms, and discuss future\
       \ plans for the framework.<br/><br/>"
     authors:
-    - name: Jordan, Mat
+    - name: Mat Jordan
       org: Northwestern University, United States of America
-    - name: Baggett, Mark
+    - name: Mark Baggett
       org: University of Tennessee, United States of America
     end: '02:44 '
     id: '157'
@@ -1179,7 +1179,7 @@ Showcase:
       will also provide access to a demo where conference attendees can test the approach
       themselves.<br/><br/>
     authors:
-    - name: McGrattan, Matthew
+    - name: Matthew McGrattan
       org: Digirati, United Kingdom
     end: '02:51 '
     id: '141'
@@ -1212,11 +1212,11 @@ Showcase:
       facilitate future development of IIIF and encourage scholarly engagement with
       the potential of IIIF. '
     authors:
-    - name: Hughes, Lorna
+    - name: Lorna Hughes
       org: University of Glasgow, United Kingdom
-    - name: Healy, Arlene
+    - name: Arlene Healy
       org: Trinity College, Dublin
-    - name: Robson, Glen
+    - name: Glen Robson
       org: IIIF Consortium
     end: '02:58 '
     id: '171'
@@ -1233,7 +1233,7 @@ Showcase:
       \ players, challenges with authentication, and approaches to novel implementation\
       \ questions."
     authors:
-    - name: Cameron, Jon
+    - name: Jon Cameron
       org: Indiana University, United States of America
     end: '03:05 '
     id: '160'
@@ -1254,7 +1254,7 @@ Showcase:
       like this useful across the field, and hopefully adds another entry to the "Fun
       with IIIF" list.
     authors:
-    - name: Newbury, David
+    - name: David Newbury
       org: Getty, United States of America
     end: '03:12 '
     id: '112'
@@ -1298,11 +1298,11 @@ Showcase:
       \ other systems. In practice, the users will be able to view the document \u2013\
       \ either in Manuscriptorium, or elsewhere \u2013 along with the added annotations."
     authors:
-    - name: "Klimek, Tom\xE1\u0161"
+    - name: "Tom\xE1\u0161 Klimek"
       org: National Library of the Czech Republic, Czech Republic
-    - name: "Lu\u017En\xFD, Michael"
+    - name: "Michael Lu\u017En\xFD"
       org: National Library of the Czech Republic, Czech Republic
-    - name: "Uhl\xED\u0159, Zden\u011Bk"
+    - name: "Zden\u011Bk Uhl\xED\u0159"
       org: National Library of the Czech Republic, Czech Republic
     end: '03:19 '
     id: '138'
@@ -1356,11 +1356,11 @@ Showcase:
       \ viewer, the oEmbed service, and share plans on collaborating closely with\
       \ the community.<br/><br/>"
     authors:
-    - name: Amaral, Katie
+    - name: Katie Amaral
       org: Harvard University, United States of America
-    - name: Plencner, Phil
+    - name: Phil Plencner
       org: Harvard University, United States of America
-    - name: Simon, Doug
+    - name: Doug Simon
       org: Harvard University, United States of America
     end: '03:26 '
     id: '109'
@@ -1406,19 +1406,19 @@ Showcase:
       \ a group discussion will follow on the approaches needed to integrate RTI and\
       \ related techniques into IIIF and the next steps needed to achieve this.<br/><br/>"
     authors:
-    - name: Palmer, Richard
+    - name: Richard Palmer
       org: Victoria & Albert Museum, London
-    - name: Hameeuw, Hendrik
+    - name: Hendrik Hameeuw
       org: KU Leuven Libraries, Belgium
-    - name: Picarelli, Serena
+    - name: Serena Picarelli
       org: 'KU Leuven Libraries, Belgium;
 
         Scuola Superiore Meridionale, Naples'
-    - name: Vanweddingen, Vincent
+    - name: Vincent Vanweddingen
       org: KU Leuven Libraries, Belgium
-    - name: Ponchio, Federico
+    - name: Federico Ponchio
       org: Visual Computing Lab,  CNR-ISTI, Italy
-    - name: Iriving, Andy
+    - name: Andy Iriving
       org: Bodleian Libraries, Oxford
     end: '12:30 '
     id: '114'
@@ -1477,9 +1477,9 @@ Workshops -  Afternoon:
       \ to each other, in order to build a complex system of relationships between\
       \ entities, to be explored through network graphs. "
     authors:
-    - name: Cortese, Claudio
+    - name: Claudio Cortese
       org: 4Science, Italy
-    - name: Bollini, Andrea
+    - name: Andrea Bollini
       org: 4Science, Italy
     end: '05:30 '
     id: '118'
@@ -1526,9 +1526,9 @@ Workshops -  Afternoon:
       choices and Viewer selection. This workshop will be principally geared towards
       a general audience.<br/><br/>
     authors:
-    - name: Sherrick, Allison
+    - name: Allison Sherrick
       org: Metropolitan New York Library Council, United States of America
-    - name: Pino Navarro, Diego Alberto
+    - name: Diego Alberto Pino Navarro
       org: Metropolitan New York Library Council, United States of America
     end: '05:30 '
     id: '154'
@@ -1542,15 +1542,15 @@ Workshops -  Afternoon:
       are available in the IIIF Commons Github organisation. It will include special
       focus on the Thumbnail panel which was developed early this year. '
     authors:
-    - name: Robson, Glen
+    - name: Glen Robson
       org: IIIF, United Kingdom
-    - name: Arling, Adam
+    - name: Adam Arling
       org: Northwestern University Libraries, USA
-    - name: Jordan, Mat
+    - name: Mat Jordan
       org: Northwestern University Libraries, USA
-    - name: Silverton, Ed
+    - name: Ed Silverton
       org: Mnemoscene, United Kingdom
-    - name: Fraser, Stephen
+    - name: Stephen Fraser
       org: Digirati, United Kingdom
     end: '05:30 '
     id: '165'
@@ -1583,13 +1583,13 @@ Workshops -  Afternoon:
       and soundscape reconstructions, and the potential to help build an inclusive
       metaverse. Please do join us!
     authors:
-    - name: Haynes, Ronald S.
+    - name: Ronald S. Haynes
       org: University of Cambridge, United Kingdom
-    - name: Silverton, Edward
+    - name: Edward Silverton
       org: Mnemoscene, Universal Viewer
-    - name: Winchester, Julie
+    - name: Julie Winchester
       org: Duke University, MorphoSource
-    - name: Boyd, Mike
+    - name: Mike Boyd
       org: University of Edinburgh, United Kingdom
     end: '02:50 '
     id: '161'
@@ -1622,15 +1622,15 @@ Workshops -  Afternoon:
       of the collections. The results of this ongoing project have far-reaching implications
       for the study and preservation of cultural heritage.<br/><br/>'
     authors:
-    - name: Irving, Andy
+    - name: Andy Irving
       org: Bodleian Libraries, United Kingdom
-    - name: Allen, Richard
+    - name: Richard Allen
       org: Bodleian Libraries, United Kingdom
-    - name: Cano, Jorge
+    - name: Jorge Cano
       org: Factum Foundation
-    - name: Bayod, Carlos
+    - name: Carlos Bayod
       org: Factum Foundation
-    - name: Barrett, John
+    - name: John Barrett
       org: Bodleian Libraries, United Kingdom
     end: '03:10 '
     id: '120'
@@ -1690,9 +1690,9 @@ Workshops -  Afternoon:
       \ around SMDL practices as well as the potential for future enhancements to\
       \ IIIF and compliant viewers."
     authors:
-    - name: Childress, Dawn
+    - name: Dawn Childress
       org: UCLA, United States of America
-    - name: Potter, William
+    - name: William Potter
       org: UCLA, United States of America
     end: '09:50 '
     id: '164'
@@ -1742,9 +1742,9 @@ Workshops -  Afternoon:
       \ API. What ICAT thus offers is a platform for server-based storage, annotation,\
       \ and exploration of imagery in multi-page documents, such as books or manuscripts."
     authors:
-    - name: Sander, Christoph
+    - name: Christoph Sander
       org: Max Planck Institute for the History of Science, Berlin
-    - name: Bennett, Mike
+    - name: Mike Bennett
       org: Non-affiliated
     end: '10:10 '
     id: '142'
@@ -1787,9 +1787,9 @@ Workshops -  Afternoon:
       \ under the supervision of a teacher.<br/><br/>Discover the proof-of-concept\
       \ at https://www.mmmonk.be/en/about-iiif/iiif-demo-liber-floridus<br/><br/>"
     authors:
-    - name: Hauwaerts, Evelien
+    - name: Evelien Hauwaerts
       org: Bruges Public Library, Belgium
-    - name: van der Laan, Bauke
+    - name: Bauke van der Laan
       org: Bauke van der Laan design & development
     end: '10:30 '
     id: '121'
@@ -1854,11 +1854,11 @@ Workshops -  Afternoon:
       \ of the National Digital Library including all the digital assets coming from\
       \ the Italian cultural heritage.<br/><br/>"
     authors:
-    - name: Ferrante, Gennaro
+    - name: Gennaro Ferrante
       org: "Universit\xE0 degli studi di Napoli Federico II, Italy"
-    - name: Manoni, Paola
+    - name: Paola Manoni
       org: Biblioteca Apostolica Vaticana
-    - name: "Butt\xF2, Simonetta"
+    - name: "Simonetta Butt\xF2"
       org: Istituto Centrale per il Catalogo Unico
     end: '12:00 '
     id: '126'
@@ -1891,17 +1891,17 @@ Workshops -  Afternoon:
       \ add simple coordinates to it, then see a preview of it in an actual navPlace\
       \ viewer."
     authors:
-    - name: Haberberger, Bryan John
+    - name: Bryan John Haberberger
       org: Research Computing Group at Saint Louis University
-    - name: Boyero, Virginia
+    - name: Virginia Boyero
       org: Swedish National Heritage Board Incubator / Beyond the Map
-    - name: Spaan, Bert
+    - name: Bert Spaan
       org: Independent
-    - name: Jordan, Eliot
+    - name: Eliot Jordan
       org: Prince University
-    - name: Appleby, Michael
+    - name: Michael Appleby
       org: Yale University
-    - name: Maples, Stace
+    - name: Stace Maples
       org: Stanford University
     end: '12:50 '
     id: '137'
@@ -1953,9 +1953,9 @@ Workshops -  Afternoon:
       \ of Delft University of Technology\u2019s Faculty of Architecture and the Built\
       \ Environment."
     authors:
-    - name: Spaan, Bert
+    - name: Bert Spaan
       org: Allmaps
-    - name: Schoonman, Jules
+    - name: Jules Schoonman
       org: Delft University of Technology Library
     end: '01:10 '
     id: '129'
@@ -1987,9 +1987,9 @@ Workshop - Morning:
       \ tools<br/><br/>All are welcome. No technical experience required, but there\
       \ will be an optional technical breakout session."
     authors:
-    - name: Kunze, John Andrew
+    - name: John Andrew Kunze
       org: ARK Alliance / Ronin Institute, United States of America
-    - name: Winston, Donny
+    - name: Donny Winston
       org: Polyneme LLC
     end: '12:00 '
     id: '133'
@@ -2007,11 +2007,11 @@ Workshop - Morning:
       drafting efforts for the next Presentation API, and want to contribute to its
       work, please do join us!
     authors:
-    - name: Haynes, Ronald S.
+    - name: Ronald S. Haynes
       org: University of Cambridge, United Kingdom
-    - name: Silverton, Edward
+    - name: Edward Silverton
       org: Mnemoscene, Universal Viewer
-    - name: Winchester, Julie
+    - name: Julie Winchester
       org: Duke University, MorphoSource
     end: '12:00 '
     id: '163'
@@ -2072,9 +2072,9 @@ Workshop - Morning:
       \ Prioritisation and product roadmapping exercise<br/><br/>\u25CF Discuss next\
       \ steps for the Madoc community"
     authors:
-    - name: Foket, Lise
+    - name: Lise Foket
       org: Ghent University
-    - name: Debrulle, Rein
+    - name: Rein Debrulle
       org: Ghent University
     end: '12:00 '
     id: '173'
