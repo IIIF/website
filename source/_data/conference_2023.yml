@@ -1436,6 +1436,28 @@ Workshops -  Afternoon:
   name: ''
   session_time: 'Tuesday, June 06: 01:30pm - 05:30pm'
   sessions:
+  - abstract: Following the successful impromptu workshop arranged by 3D TSG members
+      present at the 2022 conference in Boston, the group agreed to plan additional
+      in-person workshops to continue the technical work of the group.<br/><br/>This
+      work is outlined in our Charter, which includes a Road Map, and has been developing
+      during the monthly calls, including a focus on 6 core user stories and essential
+      comparisons of the input of the same model and annotations in key 3D viewers.<br/><br/>If
+      you are interested in finding out more about the group, as well as the early
+      drafting efforts for the next Presentation API, and want to contribute to its
+      work, please do join us!
+    authors:
+    - name: Ronald S. Haynes
+      org: University of Cambridge, United Kingdom
+    - name: Edward Silverton
+      org: Mnemoscene, Universal Viewer
+    - name: Julie Winchester
+      org: Duke University, MorphoSource
+    end: '4:30 '
+    id: '163'
+    order: 2
+    start: '1:30 '
+    title: IIIF 3D - Technical Specification Group Workshop
+    type: Workshop
   - abstract: "In the last years IIIF became the \u201Cde facto\u201D standard for\
       \ presenting, navigating and delivering digital images on the web all over the\
       \ world. It defines several APIs for providing a standard method for describing,\
@@ -1537,26 +1559,6 @@ Workshops -  Afternoon:
     title: 'Experimental IIIF kitchen using Archipelago: Community Cookbooks, family
       recipes and serendipitous manifest baking using a fully stocked kitchen and
       your own fresh ingredients'
-    type: Workshop
-  - abstract: 'This will be a hands on workshop looking at the different tools that
-      are available in the IIIF Commons Github organisation. It will include special
-      focus on the Thumbnail panel which was developed early this year. '
-    authors:
-    - name: Glen Robson
-      org: IIIF, United Kingdom
-    - name: Adam Arling
-      org: Northwestern University Libraries, USA
-    - name: Mat Jordan
-      org: Northwestern University Libraries, USA
-    - name: Ed Silverton
-      org: Mnemoscene, United Kingdom
-    - name: Stephen Fraser
-      org: Digirati, United Kingdom
-    end: '05:30 '
-    id: '165'
-    order: 3
-    start: '01:30 '
-    title: IIIF Commons Workshop
     type: Workshop
   start: '13:30 '
   start_date: 2023-06-06 13:30
@@ -1997,28 +1999,6 @@ Workshop - Morning:
     start: '09:00 '
     title: Getting started with ARK peristable identifiers
     type: Workshop
-  - abstract: Following the successful impromptu workshop arranged by 3D TSG members
-      present at the 2022 conference in Boston, the group agreed to plan additional
-      in-person workshops to continue the technical work of the group.<br/><br/>This
-      work is outlined in our Charter, which includes a Road Map, and has been developing
-      during the monthly calls, including a focus on 6 core user stories and essential
-      comparisons of the input of the same model and annotations in key 3D viewers.<br/><br/>If
-      you are interested in finding out more about the group, as well as the early
-      drafting efforts for the next Presentation API, and want to contribute to its
-      work, please do join us!
-    authors:
-    - name: Ronald S. Haynes
-      org: University of Cambridge, United Kingdom
-    - name: Edward Silverton
-      org: Mnemoscene, Universal Viewer
-    - name: Julie Winchester
-      org: Duke University, MorphoSource
-    end: '12:00 '
-    id: '163'
-    order: 2
-    start: '09:00 '
-    title: IIIF 3D - Technical Specification Group Workshop
-    type: Workshop
   - abstract: "1a. Crowdsourcing and IIIF<br/><br/>In the first part of the workshop,\
       \ we will talk about crowdsourcing using IIIF, specifically in the<br/><br/>cultural\
       \ and natural heritage sector. In this workshop, we will centralize the various\
@@ -2083,5 +2063,25 @@ Workshop - Morning:
     title: 'IIIF in crowdsourcing and citizen science practices: A workshop on the
       user needs and an outline of use cases with Madoc'
     type: Workshop
+  - abstract: 'This will be a hands on workshop looking at the different tools that
+      are available in the IIIF Commons Github organisation. It will include special
+      focus on the Thumbnail panel which was developed early this year. '
+    authors:
+    - name: Glen Robson
+      org: IIIF, United Kingdom
+    - name: Adam Arling
+      org: Northwestern University Libraries, USA
+    - name: Mat Jordan
+      org: Northwestern University Libraries, USA
+    - name: Ed Silverton
+      org: Mnemoscene, United Kingdom
+    - name: Stephen Fraser
+      org: Digirati, United Kingdom
+    end: '11:30 '
+    id: '165'
+    order: 3
+    start: '09:30 '
+    title: IIIF Commons Workshop
+    type: Workshop    
   start: '09:00 '
   start_date: 2023-06-06 09:00
