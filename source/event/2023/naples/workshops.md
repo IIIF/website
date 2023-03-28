@@ -67,6 +67,18 @@ Reach out to us at staff@iiif.io.
 
 ## Abstracts 
 
+<style>
+  .paper_time_value {font-weight: bold;}
+  .paper_abstract {
+    /*display: none;*/
+    padding: 0 0 0 10%;
+  }
+  .paper_title {
+    font-weight: bold;
+    font-size: 1.5rem !important;
+   }
+</style>
+
 <div class="topline_printonly left">
     {% for section in page.sections %}
         <div class='navbar_breadcrumb' style='float:none; width:auto; padding:8px 0 3px 0; border: 0; border-top: 1px solid #666666;'>
