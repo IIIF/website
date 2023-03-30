@@ -1977,15 +1977,15 @@ Workshop - Morning:
       \ Not Found errors). In more than two decades, 8.2 billion ARKs have been created\
       \ by over 1000 organizations \u2014 libraries, data centers, archives, museums,\
       \ publishers, government agencies, and vendors.<br/><br/>We will cover:<br/><br/>
-      \ * Why ARKs -- non-paywalled, decentralized, flexible
-      \ * Use cases -- Smithsonian, French National Library, Internet Archive
-      \ * Metadata for early and ongoing object development
-      \ * How to get started -- one form
-      \ * Minting and assigning ARK identifiers
-      \ * Resolvers, resolution, redirection
-      \ * Object types -- digital, physical, conceptual
-      \ * Persistence considerations
-      \ * Available tools<br/><br/>All are welcome. No technical experience required, but there\
+      \ \u25CF Why ARKs -- non-paywalled, decentralized, flexible<br/><br/>
+      \ \u25CF Use cases -- Smithsonian, French National Library, Internet Archive<br/><br/>
+      \ \u25CF Metadata for early and ongoing object development<br/><br/>
+      \ \u25CF How to get started -- one form<br/><br/>
+      \ \u25CF Minting and assigning ARK identifiers<br/><br/>
+      \ \u25CF Resolvers, resolution, redirection<br/><br/>
+      \ \u25CF Object types -- digital, physical, conceptual<br/><br/>
+      \ \u25CF Persistence considerations<br/><br/>
+      \ \u25CFAvailable tools<br/><br/>All are welcome. No technical experience required, but there\
       \ will be an optional technical breakout session."
     authors:
     - name: John Kunze
@@ -1996,7 +1996,7 @@ Workshop - Morning:
     id: '133'
     order: 1
     start: '09:00 '
-    title: Getting started with ARK peristable identifiers
+    title: Getting started with ARK persistable identifiers
     type: Workshop
   - abstract: "1a. Crowdsourcing and IIIF<br/><br/>In the first part of the workshop,\
       \ we will talk about crowdsourcing using IIIF, specifically in the<br/><br/>cultural\
