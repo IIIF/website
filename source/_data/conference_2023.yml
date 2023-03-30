@@ -1973,19 +1973,22 @@ Workshop - Morning:
   sessions:
   - abstract: "In this 3-hour workshop we will introduce you to ARKs (Archival Resource\
       \ Keys), which can serve as persistent identifiers, or stable, trusted references\
-      \ for information objects (eg, web addresses that don\u2019t return 404 Page\
-      \ Not Found errors). For more than two decades, 8.2 billion ARKs have been created\
+      \ for information objects (eg, image URLs that don\u2019t return 404 Page\
+      \ Not Found errors). In more than two decades, 8.2 billion ARKs have been created\
       \ by over 1000 organizations \u2014 libraries, data centers, archives, museums,\
-      \ publishers, government agencies, and vendors.<br/><br/>We will cover:<br/><br/>Why\
-      \ ARKs -- non-paywalled, decentralized, flexible<br/><br/>Use cases -- Smithsonian,\
-      \ French National Library, Internet Archive<br/><br/>Metadata for early and\
-      \ ongoing object development<br/><br/>How to get started -- one form<br/><br/>Minting\
-      \ and assigning ARK identifiers<br/><br/>Resolvers, resolution, redirection<br/><br/>Object\
-      \ types -- digital, physical, conceptual<br/><br/>Persistence considerations<br/><br/>Available\
-      \ tools<br/><br/>All are welcome. No technical experience required, but there\
+      \ publishers, government agencies, and vendors.<br/><br/>We will cover:<br/><br/>
+      \ * Why ARKs -- non-paywalled, decentralized, flexible
+      \ * Use cases -- Smithsonian, French National Library, Internet Archive
+      \ * Metadata for early and ongoing object development
+      \ * How to get started -- one form
+      \ * Minting and assigning ARK identifiers
+      \ * Resolvers, resolution, redirection
+      \ * Object types -- digital, physical, conceptual
+      \ * Persistence considerations
+      \ * Available tools<br/><br/>All are welcome. No technical experience required, but there\
       \ will be an optional technical breakout session."
     authors:
-    - name: John Andrew Kunze
+    - name: John Kunze
       org: ARK Alliance / Ronin Institute, United States of America
     - name: Donny Winston
       org: Polyneme LLC
