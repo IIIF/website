@@ -1985,7 +1985,7 @@ Workshop - Morning:
       \ \u25CF Resolvers, resolution, redirection<br/><br/>
       \ \u25CF Object types -- digital, physical, conceptual<br/><br/>
       \ \u25CF Persistence considerations<br/><br/>
-      \ \u25CFAvailable tools<br/><br/>All are welcome. No technical experience required, but there\
+      \ \u25CF Available tools<br/><br/>All are welcome. No technical experience required, but there\
       \ will be an optional technical breakout session."
     authors:
     - name: John Kunze
@@ -1999,52 +1999,52 @@ Workshop - Morning:
     title: Getting started with ARK persistable identifiers
     type: Workshop
   - abstract: "1a. Crowdsourcing and IIIF<br/><br/>In the first part of the workshop,\
-      \ we will talk about crowdsourcing using IIIF, specifically in the<br/><br/>cultural\
+      \ we will talk about crowdsourcing using IIIF, specifically in the cultural\
       \ and natural heritage sector. In this workshop, we will centralize the various\
-      \ user and<br/><br/>stakeholder types (e.g. \u2018the crowd\u2019, scientific\
-      \ audiences, cultural heritage sector, academics<br/><br/>...), and what exactly\
+      \ user and stakeholder types (e.g. \u2018the crowd\u2019, scientific\
+      \ audiences, cultural heritage sector, academics...), and what exactly\
       \ their requirements and needs are for crowdsourcing (with IIIF). To do<br/><br/>so,\
       \ we will report on user research undertaken by the Flemish Art Collection in\
-      \ Flanders<br/><br/>(VKC), which conducted user surveys to try and determine\
-      \ do\u2019s and don\u2019ts for (IIIF)<br/><br/>crowdsourcing, as well as our\
-      \ own experiences with use cases for crowdsourcing. We will<br/><br/>talk about\
+      \ Flanders (VKC), which conducted user surveys to try and determine\
+      \ do\u2019s and don\u2019ts for (IIIF) crowdsourcing, as well as our\
+      \ own experiences with use cases for crowdsourcing. We will talk about\
       \ the context and outcomes of this user research, offer some visualizations\
-      \ through<br/><br/>user personas, and discuss the recurring needs and requirements.<br/><br/>Following\
+      \ through user personas, and discuss the recurring needs and requirements.<br/><br/>Following\
       \ an outline of the user research, we will take on a more interactive approach\
-      \ in the<br/><br/>workshop. Through some interactive exercises, we will facilitate\
-      \ a brainstorm on how IIIF can<br/><br/>be a solution for these user needs,\
-      \ and what future requirements are needed to meet them.<br/><br/>We will reflect\
-      \ on how crowdsourcing specialists and volunteers could benefit from existing<br/><br/>solutions,\
-      \ software and/or platforms that perhaps already meet some of these user needs,<br/><br/>and\
+      \ in the workshop. Through some interactive exercises, we will facilitate\
+      \ a brainstorm on how IIIF can be a solution for these user needs,\
+      \ and what future requirements are needed to meet them. We will reflect\
+      \ on how crowdsourcing specialists and volunteers could benefit from existing solutions,\
+      \ software and/or platforms that perhaps already meet some of these user needs, and\
       \ think about newer features. The goal of this workshop is to bring together\
-      \ a variety of<br/><br/>parties interested in crowdsourcing with IIIF, to foster\
+      \ a variety of parties interested in crowdsourcing with IIIF, to foster\
       \ an international community.<br/><br/>1b. Madoc as a platform for crowdsourcing:\
       \ Needs, Requirements and Roadmap<br/><br/>In the second part of the workshop,\
-      \ we will start with an introduction to the platform Madoc,<br/><br/>by demonstrating\
-      \ some specific crowdsourcing use cases by various institutions. Madoc is<br/><br/>an\
+      \ we will start with an introduction to the platform Madoc, by demonstrating\
+      \ some specific crowdsourcing use cases by various institutions. Madoc is an\
       \ open source platform for the enrichment of IIIF digital objects. We will provide\
-      \ a<br/><br/>comprehensive understanding of Madoc for attendees and how it can\
-      \ be applied to various<br/><br/>annotation and crowdsourcing use cases. We\
-      \ will also discuss some of the viewpoints of<br/><br/>why certain features\
-      \ were requested, based on use cases and experiences of GhentCDH<br/><br/>and\
+      \ a comprehensive understanding of Madoc for attendees and how it can\
+      \ be applied to various annotation and crowdsourcing use cases. We\
+      \ will also discuss some of the viewpoints of why certain features\
+      \ were requested, based on use cases and experiences of GhentCDH and\
       \ National Library of Wales. Through hands-on exercises, we will allow attendees\
-      \ to test<br/><br/>some of the features of Madoc, particularly the display,\
-      \ enrichment (e.g. annotations,<br/><br/>translations, transcriptions, metadata\
-      \ harvesting, ...) and curation of IIIF digital collections.<br/><br/>The next\
+      \ to test some of the features of Madoc, particularly the display,\
+      \ enrichment (e.g. annotations, translations, transcriptions, metadata\
+      \ harvesting, ...) and curation of IIIF digital collections. The next\
       \ step is then to apply some of the findings of the first part of the workshop\
-      \ to the<br/><br/>platform, and particularly reflect on current features of\
-      \ Madoc. Next, we will reflect in a group<br/><br/>on (1) how current features\
-      \ already are solutions for IIIF and crowdsourcing, as well as (2)<br/><br/>potential\
+      \ to the platform, and particularly reflect on current features of\
+      \ Madoc. Next, we will reflect in a group on (1) how current features\
+      \ already are solutions for IIIF and crowdsourcing, as well as (2) potential\
       \ next requirements for the platform to cater to existing common needs. This\
-      \ session<br/><br/>will facilitate further development and direction of both\
-      \ the Madoc community and platform.<br/><br/>We will further refine the workshop\
-      \ in the upcoming months to meet the needs of existing<br/><br/>users and other\
+      \ session will facilitate further development and direction of both\
+      \ the Madoc community and platform. We will further refine the workshop\
+      \ in the upcoming months to meet the needs of existing users and other\
       \ known interested parties.<br/><br/>Workshop Itinerary<br/><br/>Part 1 - IIIF\
       \ and Crowdsourcing (1.5 hours)<br/><br/>\u25CF Outlining user requirements\
       \ for IIIF and crowdsourcing<br/><br/>\u25CF Brainstorming on potential IIIF\
       \ solutions for these requirements<br/><br/>15 min break<br/><br/>Part 2 - Madoc\
       \ Use Cases and Community-building (1.5 hours)<br/><br/>Reflect on Madoc\u2019\
-      s core capabilities as a IIIF crowdsourcing solution through example<br/><br/>projects,\
+      s core capabilities as a IIIF crowdsourcing solution through example projects,\
       \ demonstrations and experiences from existing users<br/><br/>\u25CF Get hands-on\
       \ experience of Madoc using some simple exercises with a sandbox<br/><br/>environment<br/><br/>\u25CF\
       \ Brainstorming common issues, requirements and missing features<br/><br/>\u25CF\
