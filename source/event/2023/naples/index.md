@@ -98,7 +98,7 @@ Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
 
 Via Castello, 14, 80070 Bacoli NA, Italy
 
-_Buses will take reception attendees from the Conference directly to Villa Ferretti. Following the receptions, buses will return to University Center (Umberto I, 40, 80138 Napoli NA). _
+_Buses will take reception attendees from the Conference directly to Villa Ferretti. Following the receptions, buses will return to University Center (Umberto I, 40, 80138 Napoli NA)._
 
 {% include 2023_locations.html %} 
 
