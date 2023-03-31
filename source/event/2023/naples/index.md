@@ -84,22 +84,22 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 **Showcase - 6/5**
 
-San Marcellino
+San Marcellino <br>
 Largo S. Marcellino, 10, 80138 Napoli NA, Italy
 
 **Workshops - 6/6**
 
-Università degli Studi di Napoli Federico II
+Università degli Studi di Napoli Federico II <br>
 Via Porta di Massa, 1, 80133 Napoli NA, Italy
 
 **Conference - 6/7 and 6/8**
 
-Apple Developer Academy
+Apple Developer Academy <br>
 Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
 
 **Reception - 6/7**
 
-Villa Ferretti
+Villa Ferretti <br>
 Via Castello, 14, 80070 Bacoli NA, Italy
 
 _Buses will take reception attendees from the Conference directly to Villa Ferretti. Following the receptions, buses will return to University Center (Umberto I, 40, 80138 Napoli NA)._
