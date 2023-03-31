@@ -82,6 +82,24 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 ### Locations
 
+**Showcase - 6/5**
+
+Largo S. Marcellino, 10, 80138 Napoli NA, Italy
+
+**Workshops - 6/6**
+
+Via Porta di Massa, 1, 80133 Napoli NA, Italy
+
+**Conference - 6/7 and 6/8**
+
+Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
+
+**Reception - 6/7**
+
+Via Castello, 14, 80070 Bacoli NA, Italy
+
+_Buses will take reception attendees from the Conference directly to Villa Ferretti. Following the receptions, buses will return to University Center (Umberto I, 40, 80138 Napoli NA). _
+
 {% include 2023_locations.html %} 
 
 ### **Questions?**
