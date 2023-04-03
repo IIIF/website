@@ -84,17 +84,17 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 **Showcase - 6/5**
 
-San Marcellino <br>
+Università degli Studi di Napoli Federico II - Chiesa dei Santi Marcellino e Festo<br>
 Largo S. Marcellino, 10, 80138 Napoli NA, Italy
 
 **Workshops - 6/6**
 
-Università degli Studi di Napoli Federico II <br>
+Università degli Studi di Napoli Federico II - Dipartimento di Studi Umanistici<br>
 Via Porta di Massa, 1, 80133 Napoli NA, Italy
 
 **Conference - 6/7 and 6/8**
 
-Apple Developer Academy <br>
+Università degli Studi di Napoli Federico II - Scuola Politecnica e delle Scienze di Base - Complesso Napoli Est<br>
 Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
 
 **Reception - 6/7**
