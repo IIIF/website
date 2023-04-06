@@ -1646,57 +1646,67 @@ Workshops -  Afternoon:
   name: ''
   session_time: 'Thursday, June 08: 09:30am - 10:30am'
   sessions:
-  - abstract: "This presentation will share how the Sinai Manuscripts Digital Library\
-      \ (SMDL) is using IIIF to represent the complexity of early manuscripts for\
-      \ online presentation and digital reinterpretation.<br/><br/>St. Catherine\u2019\
-      s Monastery in the Sinai possesses an extensive collection of over 4000 manuscripts,\
-      \ including ~1024 Arabic and Syriac manuscripts which have been imaged and published\
-      \ online through the Sinai Manuscripts Digital Library (SMDL). SMDL provides\
-      \ access to high-resolution images of these manuscripts, along with descriptive\
-      \ metadata. However, like many early manuscripts, the majority of Sinai manuscripts\
-      \ contain complexity at multiple levels \u2013 they comprise multiple works\
-      \ and/or codicological units; they have been disassembled and rebound in new\
-      \ configurations; and there are hundreds of documented palimpsests and dispersed\
-      \ fragments within the collection. All too often, the environments where we\
-      \ publish manuscript collections at scale elide these complex structures, which\
-      \ are crucial to understanding the histories and contexts of manuscripts and\
-      \ manuscript collections. IIIF, having radically impacted our ability to reimagine\
-      \ early manuscripts through digital means, brings with it an opportunity to\
-      \ model and contextualize digital manuscripts and their data, allowing us to\
-      \ represent and untangle the inherent complexities of early manuscripts.<br/><br/>This\
-      \ presentation will share how the SMDL is using IIIF to model and represent\
-      \ the complexities of early manuscripts in digital environments at scale, including\
-      \ modeling the materiality and structure of manuscripts as well as content and\
-      \ context; representing uncertainty and lacunae; and supporting digital reconstruction\
-      \ of palimpsested texts and disbound and dispersed manuscripts and their fragments.\
-      \ While these are not necessarily unique uses of IIIF for modeling complex objects,\
-      \ the SMDL provides real-world examples for showcasing how IIIF can expose these\
-      \ complexities in large-scale manuscript repositories.<br/><br/>We will also\
-      \ discuss the work the SMDL is undertaking to develop a new modular manuscripts\
-      \ data model that is aligned with the IIIF Presentation API and Web Annotation\
-      \ to better support digital reconstruction, rebinding, experimental editions,\
-      \ and enhanced descriptions of manuscripts by the project team and scholars/end\
-      \ users. Our goal is to provide the tools and data needed to study manuscripts\
-      \ and their components both individually and in \u201Cparts to whole\u201D relationships,\
-      \ and to reconfigure and re-contextualize these objects within digital spaces.<br/><br/>The\
-      \ presentation should be of interest to generalists and specialists alike, including\
-      \ implementers of IIIF who are interested in providing access to manuscripts\
-      \ and other complex objects beyond a simple paging view, and scholars or other\
-      \ users of IIIF-hosted manuscript resources that want to create digital editions\
-      \ or curate and assemble component parts of manuscripts for their own bespoke\
-      \ views. We anticipate leaving ample time for Q&A and for feedback and discussion\
-      \ around SMDL practices as well as the potential for future enhancements to\
-      \ IIIF and compliant viewers."
+  # - abstract: "This presentation will share how the Sinai Manuscripts Digital Library\
+  #     \ (SMDL) is using IIIF to represent the complexity of early manuscripts for\
+  #     \ online presentation and digital reinterpretation.<br/><br/>St. Catherine\u2019\
+  #     s Monastery in the Sinai possesses an extensive collection of over 4000 manuscripts,\
+  #     \ including ~1024 Arabic and Syriac manuscripts which have been imaged and published\
+  #     \ online through the Sinai Manuscripts Digital Library (SMDL). SMDL provides\
+  #     \ access to high-resolution images of these manuscripts, along with descriptive\
+  #     \ metadata. However, like many early manuscripts, the majority of Sinai manuscripts\
+  #     \ contain complexity at multiple levels \u2013 they comprise multiple works\
+  #     \ and/or codicological units; they have been disassembled and rebound in new\
+  #     \ configurations; and there are hundreds of documented palimpsests and dispersed\
+  #     \ fragments within the collection. All too often, the environments where we\
+  #     \ publish manuscript collections at scale elide these complex structures, which\
+  #     \ are crucial to understanding the histories and contexts of manuscripts and\
+  #     \ manuscript collections. IIIF, having radically impacted our ability to reimagine\
+  #     \ early manuscripts through digital means, brings with it an opportunity to\
+  #     \ model and contextualize digital manuscripts and their data, allowing us to\
+  #     \ represent and untangle the inherent complexities of early manuscripts.<br/><br/>This\
+  #     \ presentation will share how the SMDL is using IIIF to model and represent\
+  #     \ the complexities of early manuscripts in digital environments at scale, including\
+  #     \ modeling the materiality and structure of manuscripts as well as content and\
+  #     \ context; representing uncertainty and lacunae; and supporting digital reconstruction\
+  #     \ of palimpsested texts and disbound and dispersed manuscripts and their fragments.\
+  #     \ While these are not necessarily unique uses of IIIF for modeling complex objects,\
+  #     \ the SMDL provides real-world examples for showcasing how IIIF can expose these\
+  #     \ complexities in large-scale manuscript repositories.<br/><br/>We will also\
+  #     \ discuss the work the SMDL is undertaking to develop a new modular manuscripts\
+  #     \ data model that is aligned with the IIIF Presentation API and Web Annotation\
+  #     \ to better support digital reconstruction, rebinding, experimental editions,\
+  #     \ and enhanced descriptions of manuscripts by the project team and scholars/end\
+  #     \ users. Our goal is to provide the tools and data needed to study manuscripts\
+  #     \ and their components both individually and in \u201Cparts to whole\u201D relationships,\
+  #     \ and to reconfigure and re-contextualize these objects within digital spaces.<br/><br/>The\
+  #     \ presentation should be of interest to generalists and specialists alike, including\
+  #     \ implementers of IIIF who are interested in providing access to manuscripts\
+  #     \ and other complex objects beyond a simple paging view, and scholars or other\
+  #     \ users of IIIF-hosted manuscript resources that want to create digital editions\
+  #     \ or curate and assemble component parts of manuscripts for their own bespoke\
+  #     \ views. We anticipate leaving ample time for Q&A and for feedback and discussion\
+  #     \ around SMDL practices as well as the potential for future enhancements to\
+  #     \ IIIF and compliant viewers."
+  #   authors:
+  #   - name: Dawn Childress
+  #     org: UCLA, United States of America
+  #   - name: William Potter
+  #     org: UCLA, United States of America
+  #   end: '09:50 '
+  #   id: '164'
+  #   order: 1
+  #   start: '09:30 '
+  #   title: Modeling Complexity in Early Manuscripts with IIIF
+  #   type: Presentation
+  - abstract: ""
     authors:
-    - name: Dawn Childress
-      org: UCLA, United States of America
-    - name: William Potter
-      org: UCLA, United States of America
+    - name: ""
+      org: ""
     end: '09:50 '
     id: '164'
     order: 1
     start: '09:30 '
-    title: Modeling Complexity in Early Manuscripts with IIIF
+    title: ""
     type: Presentation
   - abstract: "This presentation demonstrates how novel IIIF-powered tools benefit\
       \ the research on scientific imagery in a historical perspective. Our case study,\
