@@ -481,55 +481,6 @@ Showcase:
     title: Utilising IIIF and Knowledge Bases for Searching for People within Historical
       Newspaper and Journal Articles
     type: Presentation
-  - abstract: 'The scenario of the Italian IIIF museums is quite uneven due to a still
-      initial phase in the process of digitizing the collections. Nonetheless, the
-      emphasis on how to describe and interpret historical art collections, through
-      the IIIF framework, attracts the attention of institutions whose environments
-      and connotations are heavily decorated. A research project, involving researchers
-      and students of the Venice Center for Digital and Public Humanities, aims to
-      write the IIIF Manifests for the Galleria Borghese digital catalog in Rome.<br/><br/>The
-      museum has a distinctive aspect characterized by a peculiar decorative apparatus
-      through which the collection of sculptures, paintings, and furniture is displayed.
-      It is a challenge when describing each object in digital form. In this context,
-      the spatial component plays an important role in highlighting the decorations,
-      stucco, marble, and tiles around the artwork. In order to render the complexity
-      of its spaces, the museum undertook a photographic and photogrammetric digitization
-      project to create navigable virtual models of the rooms.<br/><br/>The IIIF ecosystem
-      has been adopted to fit into this model, describing each museum room that was
-      taken with equirectangular photographs. The images were treated as if they were
-      maps to investigate and comment on, guiding the user in an amplified modality
-      of the virtual tour. The first results of this process of describing 360 images
-      will present a comparison of two versions: one using a model that benefits from
-      the last update of the API 3.0, and the other a variant that adopts the simple
-      annotation server. In general, the IIIF Presentation API structure allows creators
-      to build different relations among the resources. This operation is generally
-      accomplished through the annotations element which allows linking the IIIF digital
-      object with other resources.<br/><br/>In this case study, by examining the whole
-      Galleria Borghese collection and its physical division, we aimed to integrate
-      the multiple relations that here occur into the different IIIF Manifests. To
-      provide users with a highly immersive experience, we designed the Manifest as
-      a linked path structured in whole-part relations. This approach supports users
-      in browsing between the rooms and the artworks contained there.<br/><br/>In
-      accordance with the standard guidelines, we built these relations using the
-      IIIF annotation system along the Mirador viewer. The combination of these frameworks
-      enables to the provision of an end-to-end environment where resources could
-      be described, referenced, and linked with other resources.<br/><br/>The contribution
-      is addressed to both the general public and museum professionals. For the latter
-      in particular, the adoption of this model could facilitate the curation of collections
-      as well as collaboration in educational activities by integrating with the Storiiies
-      editor tool.<br/><br/>'
-    authors:
-    - name: Stefania De Vincentis
-      org: Ca' Foscari University of Venice, Italy
-    - name: Martin Critelli
-      org: Ca' Foscari University of Venice, Italy
-    end: '05:20 '
-    id: '159'
-    order: 4
-    start: '05:00 '
-    title: The implementation of the Galleria Borghese VR using the IIIF annotation
-      tool
-    type: Presentation
   - abstract: "Since late 2022, Rensselaer Polytechnic Institute (RPI) has been collaborating\
       \ with the Metropolitan New York Library Council (METRO) to implement Archipelago,\
       \ a flexible, extensible, and deeply IIIF-integrated open source digital objects\
@@ -581,10 +532,10 @@ Showcase:
       org: Metropolitan New York Library Council, United States of America
     - name: Brenden McCarthy
       org: Rensselaer Polytechnic Institute, United States of America
-    end: '05:40 '
+    end: '05:20 '
     id: '147'
-    order: 5
-    start: '05:20 '
+    order: 4
+    start: '05:00 '
     title: Mapping an Engineer Through IIIF
     type: Presentation
   start: '16:00 '
@@ -1698,15 +1649,54 @@ Workshops -  Afternoon:
   #   start: '09:30 '
   #   title: Modeling Complexity in Early Manuscripts with IIIF
   #   type: Presentation
-  - abstract: ""
+  - abstract: 'The scenario of the Italian IIIF museums is quite uneven due to a still
+      initial phase in the process of digitizing the collections. Nonetheless, the
+      emphasis on how to describe and interpret historical art collections, through
+      the IIIF framework, attracts the attention of institutions whose environments
+      and connotations are heavily decorated. A research project, involving researchers
+      and students of the Venice Center for Digital and Public Humanities, aims to
+      write the IIIF Manifests for the Galleria Borghese digital catalog in Rome.<br/><br/>The
+      museum has a distinctive aspect characterized by a peculiar decorative apparatus
+      through which the collection of sculptures, paintings, and furniture is displayed.
+      It is a challenge when describing each object in digital form. In this context,
+      the spatial component plays an important role in highlighting the decorations,
+      stucco, marble, and tiles around the artwork. In order to render the complexity
+      of its spaces, the museum undertook a photographic and photogrammetric digitization
+      project to create navigable virtual models of the rooms.<br/><br/>The IIIF ecosystem
+      has been adopted to fit into this model, describing each museum room that was
+      taken with equirectangular photographs. The images were treated as if they were
+      maps to investigate and comment on, guiding the user in an amplified modality
+      of the virtual tour. The first results of this process of describing 360 images
+      will present a comparison of two versions: one using a model that benefits from
+      the last update of the API 3.0, and the other a variant that adopts the simple
+      annotation server. In general, the IIIF Presentation API structure allows creators
+      to build different relations among the resources. This operation is generally
+      accomplished through the annotations element which allows linking the IIIF digital
+      object with other resources.<br/><br/>In this case study, by examining the whole
+      Galleria Borghese collection and its physical division, we aimed to integrate
+      the multiple relations that here occur into the different IIIF Manifests. To
+      provide users with a highly immersive experience, we designed the Manifest as
+      a linked path structured in whole-part relations. This approach supports users
+      in browsing between the rooms and the artworks contained there.<br/><br/>In
+      accordance with the standard guidelines, we built these relations using the
+      IIIF annotation system along the Mirador viewer. The combination of these frameworks
+      enables to the provision of an end-to-end environment where resources could
+      be described, referenced, and linked with other resources.<br/><br/>The contribution
+      is addressed to both the general public and museum professionals. For the latter
+      in particular, the adoption of this model could facilitate the curation of collections
+      as well as collaboration in educational activities by integrating with the Storiiies
+      editor tool.<br/><br/>'
     authors:
-    - name: ""
-      org: ""
+    - name: Stefania De Vincentis
+      org: Ca' Foscari University of Venice, Italy
+    - name: Martin Critelli
+      org: Ca' Foscari University of Venice, Italy
     end: '09:50 '
-    id: '164'
+    id: '159'
     order: 1
     start: '09:30 '
-    title: ""
+    title: The implementation of the Galleria Borghese VR using the IIIF annotation
+      tool
     type: Presentation
   - abstract: "This presentation demonstrates how novel IIIF-powered tools benefit\
       \ the research on scientific imagery in a historical perspective. Our case study,\
