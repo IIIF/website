@@ -1261,30 +1261,7 @@ Showcase:
     start: '03:12 '
     title: Manuscriptorium Annotation Module
     type: Lightning talk
-  - abstract: "Part 1: IIIF infrastructure<br/><br/>The Library Technology Services\
-      \ (LTS) team at Harvard University has completed designing, building, and implementing\
-      \ the next-generation IIIF image delivery infrastructure for the Harvard Library,\
-      \ Media Presentation Services (MPS). LTS maintains the IIIF infrastructure for\
-      \ delivering images and metadata to Harvard Library platforms such as HOLLIS\
-      \ (the Harvard Library catalog) and Harvard Digital Collections (public access\
-      \ to more than 6 million objects). The IIIF environment is also used by the\
-      \ Harvard Art Museums, HUIT Academic Technology (with integration into Canvas)\
-      \ and Vice Provost for Advances in Learning (VPAL), and is considered critical\
-      \ university-wide infrastructure for teaching and research. The IIIF infrastructure\
-      \ currently supports images, page-turned-objects, file downloads, and annotation\
-      \ delivery. LTS is also working on extending the IIIF infrastructure to support\
-      \ multimedia content including Audio/Visual media.<br/><br/>Members of the Harvard\
-      \ team will host a series of presentations and demonstrations to showcase recent\
-      \ work on the IIIF implementation project. Our main focus will be on collaboration,\
-      \ user impact, and engagement with the community. We\u2019ll describe how the\
-      \ system is designed as core generic infrastructure that serves a wide variety\
-      \ of departments across the university, while also supporting local specialized\
-      \ use cases. Engineers will also explain the architecture principles guiding\
-      \ the designs and show the technical plans and system architecture diagrams.\
-      \ A full walkthrough of the entire asset ingest and delivery workflow will be\
-      \ shown with recorded demos. This presentation will be both informative to a\
-      \ technical audience and interesting to a general audience.<br/><br/>Part 2:\
-      \ Mirador viewer<br/><br/>Harvard is also working on updating our Mirador viewer\
+  - abstract: "Mirador viewer<br/><br/>Harvard is also working on updating our Mirador viewer\
       \ implementation and improving its underlying architecture. Updating Mirador\
       \ to the current supported version allows us to leverage a host of features\
       \ out-of-the-box that previously required heavy customization, including a refined\
@@ -1313,7 +1290,7 @@ Showcase:
     id: '109'
     order: 8
     start: '03:19 '
-    title: IIIF infrastructure redesign and Mirador upgrade at Harvard Library
+    title: Mirador upgrade at Harvard Library
     type: Lightning talk
   start: '14:30 '
   start_date: 2023-06-08 14:30
