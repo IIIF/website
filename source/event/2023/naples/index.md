@@ -34,7 +34,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 ### **Register**
 
-* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index).
+* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index). Registration will close on May 16, 2023.
 
 ### **Travel**
 
