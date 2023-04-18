@@ -16,7 +16,7 @@
   link: /community/groups/3d/tsg #link to charter
   type: tsg #TSG or community
   notes: https://drive.google.com/drive/u/0/folders/1KZ0qU65MSomk2YIh-VF8DDn5rwkDUY9a #link to Google Drive folder
-  meeting_frequency: Calls on the 1st Tuesday of the month #One-liner, e.g. Quarterly calls on Wednesdays
+  meeting_frequency: Every other Wednesday, complementing the 3D Community Group calls #One-liner, e.g. Quarterly calls on Wednesdays
 - id: archives 
   label: Archives 
   alternate_names: 
@@ -91,16 +91,16 @@
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw 
   meeting_frequency: Monthly on the last Tuesday 
-- id: discovery 
-  label: Discovery 
-  alternate_names: 
-    -  Discovery TSG 
-    -  IIIF Discovery Technical Specification Group call
-  description: The IIIF Discovery TSG creates specifications that improve the discovery process for IIIF resources.
-  link: /community/groups/discovery 
-  type: tsg #TSG or community
-  notes: https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU?resourcekey=0-DNjPINrKrQ2qjf0_tSmwuA 
-  meeting_frequency: Every 2 weeks on Wednesday 
+# - id: discovery 
+#   label: Discovery 
+#   alternate_names: 
+#     -  Discovery TSG 
+#     -  IIIF Discovery Technical Specification Group call
+#   description: The IIIF Discovery TSG creates specifications that improve the discovery process for IIIF resources.
+#   link: /community/groups/discovery 
+#   type: tsg #TSG or community
+#   notes: https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU?resourcekey=0-DNjPINrKrQ2qjf0_tSmwuA 
+#   meeting_frequency: Every 2 weeks on Wednesday 
 - id: maps-tsg 
   label: Maps TSG 
   description: The IIIF Maps TSG promotes interoperability around geospatial description of digitized resources.
@@ -109,9 +109,11 @@
   notes: https://drive.google.com/drive/u/0/folders/1oBgyRa4VMreCCBDefpjjxzg3Zp2b2yDg 
   meeting_frequency: Every 2 weeks on Wednesday (alternates with Maps Community Group) 
 - id: auth-tsg 
-  label: Authentication 
+  label: Authorization Flow 
   alternate_names: 
     - IIIF Auth
+    - Authentication
+    - Auth
   description: The Auth group works on interaction patterns for managing access control to IIIF resources.
   link: /community/groups/auth-tsg 
   type: tsg 

@@ -38,6 +38,7 @@ Technical Specification Groups are specifically chartered to update existing spe
 
 ## Completed Groups and TSGs
 
+* Discovery TSG -- This group completed its work in 2023, see [wind-down message](https://groups.google.com/g/iiif-discuss/c/g55CIIIg_nU/m/9N0rdIv1AAAJ) for review of publications and accomplishments.
 * Text Granularity TSG -- This group completed its work in 2019 with the publication of the [Text Granularity Extension]({{ site.api_url | absolute_url }}/extension/text-granularity/).
 * A/V TSG -- with the publication of the [Presentation API 3.0]({{ site.api_url | absolute_url }}/presentation/3.0/) in June 2020, this TSG completed its work and evolved in the A/V community group listed above. 
 * Software Developers Community Group
