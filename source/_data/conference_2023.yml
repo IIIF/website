@@ -328,48 +328,48 @@ Showcase:
     title: 'Crossing the borders: Multimodal Cross-Domain Approaches using IIIF'
     type: Presentation
   - abstract: "In active development since 2015, MemoRekall is a free and open source\
-      \ web app for the<br/><br/>documentation and preservation of time-based media.\
-      \ The app is an interface that allows for<br/><br/>the redocumenarisation of\
-      \ a primary video resource: the user provides a Youtube or Vimeo<br/><br/>video\
+      \ web app for the documentation and preservation of time-based media.\
+      \ The app is an interface that allows for the redocumenarisation of\
+      \ a primary video resource: the user provides a Youtube or Vimeo video\
       \ to which they can append intra- and inter-documentary, multi-modal annotations\
-      \ (links,<br/><br/>files, other MemoRekall projects etc.). The arrangement of\
+      \ (links, files, other MemoRekall projects etc.). The arrangement of\
       \ these documents creates a<br/><br/>capsule which can be shared and embedded.\
-      \ MemoRekall is a powerful yet simple tool that<br/><br/>is already used by\
-      \ a wide range of users: researchers, artists, cultural institutions and<br/><br/>mediators,\
-      \ teachers and students.<br/><br/>MemoRekall is currently in a new phase of\
-      \ development with the primary goal of rendering it<br/><br/>compatible with\
-      \ IIIF. This new version is developed as plugins and patches for the<br/><br/>widely-used\
+      \ MemoRekall is a powerful yet simple tool that is already used by\
+      \ a wide range of users: researchers, artists, cultural institutions and mediators,\
+      \ teachers and students. MemoRekall is currently in a new phase of\
+      \ development with the primary goal of rendering it compatible with\
+      \ IIIF. This new version is developed as plugins and patches for the widely-used\
       \ Mirador viewer and takes full advantage of the latest developments of IIIF\u2019\
-      s<br/><br/>Presentation API. Our source code is available at https://gitlab.tetras-libre.fr/iiif/\
-      \ and builds<br/><br/>upon a previous Mirador fork supporting video from Tokyo\
-      \ University<br/><br/>(https://github.com/2SC1815J/mirador), as well as an annotation\
-      \ plugin for images that we<br/><br/>extended to support video (https://github.com/ProjectMirador/mirador-annotations).\
-      \ Our<br/><br/>contributions include the update of those projects and their\
-      \ extension to support the<br/><br/>annotation of a manifest with another manifest.<br/><br/>We\
+      s Presentation API. Our source code is available at https://gitlab.tetras-libre.fr/iiif/\
+      \ and builds upon a previous Mirador fork supporting video from Tokyo\
+      \ University (https://github.com/2SC1815J/mirador), as well as an annotation\
+      \ plugin for images that we extended to support video (https://github.com/ProjectMirador/mirador-annotations).\
+      \ Our contributions include the update of those projects and their\
+      \ extension to support the annotation of a manifest with another manifest.<br/><br/>We\
       \ propose:<br/>- A fully functional video player and annotator within Mirador\
-      \ built upon existing work<br/><br/>mentioned above.<br/>- The creation of manifest\
-      \ networks: each annotation can refer to another manifest,<br/><br/>allowing\
+      \ built upon existing work mentioned above.<br/>- The creation of manifest\
+      \ networks: each annotation can refer to another manifest, allowing\
       \ the creation of complex networks of multi-modal content. Leaning on IIIF\u2019\
-      s<br/><br/>interoperability capabilities, this also means that networks can\
-      \ be constituted from a<br/><br/>number of different sources.<br/>- Dynamic\
-      \ network navigation in Mirador: annotations linked to other manifests can be<br/><br/>opened\
-      \ directly in the same instance of Mirador, allowing for a seamless navigation<br/><br/>experience.<br/><br/>We\
+      s interoperability capabilities, this also means that networks can\
+      \ be constituted from a number of different sources.<br/>- Dynamic\
+      \ network navigation in Mirador: annotations linked to other manifests can be opened\
+      \ directly in the same instance of Mirador, allowing for a seamless navigation experience.<br/><br/>We\
       \ also aim to ensure full retrocompatibility with existing MemoRekall projects\
-      \ in order to<br/><br/>support our current user-base and encourage a dialogue\
-      \ between them and the IIIF<br/><br/>community.<br/><br/>This work has been\
-      \ driven by a concrete case study in the context of the Horizon 2020<br/><br/>COESO\
+      \ in order to support our current user-base and encourage a dialogue\
+      \ between them and the IIIF community.<br/><br/>This work has been\
+      \ driven by a concrete case study in the context of the Horizon 2020 COESO\
       \ project. A pilot manifest network was constructed around this project and\
-      \ served as<br/><br/>the basis for our working prototype. It has allowed us\
-      \ to follow a practice-led design<br/><br/>approach, and has brought to light\
-      \ a number of issues that will be important going forth.<br/><br/>Notably, we\
-      \ intend to adopt a git-inspired version control model, allowing for different<br/><br/>versions\
-      \ of manifest networks and cumulative and comparative work between different<br/><br/>researchers.\
-      \ This addresses a fundamental issue in SHS analysis where each researcher<br/><br/>can\
+      \ served as the basis for our working prototype. It has allowed us\
+      \ to follow a practice-led design approach, and has brought to light\
+      \ a number of issues that will be important going forth. Notably, we\
+      \ intend to adopt a git-inspired version control model, allowing for different versions\
+      \ of manifest networks and cumulative and comparative work between different researchers.\
+      \ This addresses a fundamental issue in SHS analysis where each researcher can\
       \ propose radically different ideas on the same set of resources. Leaning on\
-      \ IIIF,<br/><br/>MemoRekall wishes to propose an environment where these perspectives\
-      \ co-exist in a<br/><br/>dynamic and intelligible way. This will also pave the\
+      \ IIIF, MemoRekall wishes to propose an environment where these perspectives\
+      \ co-exist in a dynamic and intelligible way. This will also pave the\
       \ way for the integration of AI- and ML-driven corpus analysis tools which shall\
-      \ be the subject of our next phase of<br/><br/>development."
+      \ be the subject of our next phase of development."
     authors:
     - name: Clarisse Bardiot
       org: Rennes 2 University
@@ -383,7 +383,7 @@ Showcase:
     id: '172'
     order: 4
     start: '02:30 '
-    title: Memorekall-IIIF, a Mirador extension supporting video annotation and a
+    title: MemoRekall-IIIF, a Mirador extension supporting video annotation and a
       network of IIIF manifests
     type: Presentation
   start: '13:30 '
