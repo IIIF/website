@@ -108,7 +108,7 @@ The conference program on June 7 and 8 will take place at the University of Napl
     {% include conference_table_row.html datafile=site.data.conference_2023 block=5 %}
     <tr>
         <td>6:00 - 6:15 </td>
-        <td colspan="3"><b>Buses arrive for transport to conference reception at Villa Ferretti</b></td>
+        <td colspan="3"><b>Buses arrive for transport to conference reception at Villa Ferretti. Pick up point: Università degli Studi di Napoli Federico II - [Scuola Politecnica e delle Scienze di Base](https://goo.gl/maps/ZTRz3thWkwFcuCyU6)</b></td>
     </tr>
         <tr>
         <td>7:00 - 9:00 </td>
