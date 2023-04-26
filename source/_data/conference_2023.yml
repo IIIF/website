@@ -793,54 +793,53 @@ Showcase:
     title: "\u201CSharing the Cherry\u201D: AIUCD for IIIF good practices in the Italian\
       \ DH community."
     type: Lightning talk
-  - abstract: "Native Bound Unbound is an archive of indigenous enslaved people in\
-      \ the Americas. The project aims to tell the stories of the millions of indigenous\
-      \ people who were enslaved since the arrival of Columbus. The final website\
-      \ will both publish the primary sources online and create an interconnected\
-      \ matrix of these people, the events in their lives, and the places they lived\
-      \ and worked.<br/><br/>To accomplish this, the Native Bound Unbound project\
-      \ collects a wide variety of primary sources. There are over a dozen different\
-      \ types of digital assets, ranging from baptismal records, to census records,\
-      \ to court cases, tombstones, and oral histories. The project transcribes, translates,\
-      \ analyzes, and publishes these texts by linking together tools using International\
-      \ Image Interoperability Framework.<br/><br/>Primary sources begin their journey\
-      \ by being uploaded to our IIIF image server. This is a Cantaloupe image server\
-      \ fronted by a simple web based interface that creates a IIIF manifest link.\
-      \ This link is then used to create a new transcription project in From The Page.\
-      \ Here, transcribers and domain experts transcribe the texts in a public crowdsourcing\
-      \ environment. These transcriptions are then vetted and approved by one of the\
-      \ project\u2019s editors. The editors can then export the completed transcriptions\
-      \ and associated page images to FairCopy via From The Page\u2019s IIIF export\
-      \ option.<br/><br/>FairCopy is a specialized word processor for the study and\
-      \ transcription of primary sources in literature and history. It reads and writes\
-      \ texts marked up in XML according to the Text Encoding Initiative\u2019s Guidelines\
-      \ (TEI). We are using FairCopy in the Native Bound Unbound project to structure\
-      \ and annotate transcriptions and translations in a variety of formats. For\
-      \ each primary source, the transcription and images flow in via IIIF. Users\
-      \ are able to select texts from the annotation lists in the manifest. These\
-      \ are then assembled into TEI in FairCopy.<br/><br/>The FairCopy interface can\
-      \ be customized for each project so that editors just have the elements and\
-      \ attributes they need for the job. Users can also markup up names of people\
-      \ and places, as well as identify events. Each asset type requires a specific\
-      \ markup strategy. Fortunately, TEI is quite flexible in this regard and FairCopy\
-      \ makes the process easier and more approachable to our non-technical collaborators.<br/><br/>FairCopy\
-      \ integrates with ArchivEngine, an open source server which provides version\
-      \ control and team collaboration. Using ArchivEngine, team members can check\
-      \ out texts to edit and check them in when they are done. ArchiveEngine publishes\
-      \ the texts as a IIIF Manifest via a public API.<br/><br/>ArchivEngine\u2019\
-      s IIIF manifests are then used to display the texts on the public site. This\
-      \ display utilizes EditionCrafter, an open source React component that can display\
-      \ IIIF images alongside their TEI encoded transcriptions and translations. The\
-      \ translation texts are linked to a database of people, place, and event entries\
-      \ which are also derived from the TEI encoded texts.<br/><br/>"
+  - abstract: "The proposed paper aims to present the use of IIIF in the Manuscriptorium\
+      \ Digital Library, with the main focus put on a brand-new IIIF-compatible tool\
+      \ for document and image annotations.<br/><br/>Manuscriptorium has already fully\
+      \ implemented IIIF Image API as well as IIIF Presentation API interfaces, enabling\
+      \ it to display documents directly from the repositories of its content partners.\
+      \ At the same time, Manuscriptorium provides IIIF functionality to those partners\
+      \ that do not have their own IIIF-compatible repositories at their disposal.\
+      \ As a result, all the content aggregated in Manuscriptorium is currently available\
+      \ in the form of IIIF manifests, which can be visualised in any IIIF viewer\
+      \ available. Moreover, the new Manuscriptorium reader along with the integrated\
+      \ Mirador viewer enables its users to view and further work with documents from\
+      \ any IIIF-compatible repository (i.e. even those that are not being aggregated\
+      \ by Manuscriptorium). That is a major milestone in the development of Manuscriptorium\
+      \ as one the biggest aggregators in the field of written cultural heritage,\
+      \ effectively making it possible to view as well as research immense digitised\
+      \ material available on the internet in one dedicated environment, with one\
+      \ prerequisite only: the IIIF compatibility.<br/><br/>The new Manuscriptorium\
+      \ Annotation Module allows its users to add notes and comments to the digitised\
+      \ documents which they wish to view or further work with. The development of\
+      \ the module follows on from previous efforts in Manuscriptorium to disseminate\
+      \ personal content as much as possible \u2013 Manuscriptorium has already given\
+      \ its users opportunity to create as well as publish their own collections and\
+      \ virtual documents in the IIIF format, which was enabled by a tool for generating\
+      \ IIIF manifests and collections.<br/><br/>The annotation module goes even further.\
+      \ Above all, it enables to create annotations that can then be visualised as\
+      \ a fully structured text. Such annotation may relate to a whole virtual document,\
+      \ selected page image or even to a chosen image segment. In addition to that,\
+      \ the module is interconnected with Manuscriptorium IIIF manifest provider,\
+      \ meaning that the system is able to load users' annotations and enrich the\
+      \ original document manifest with them. Such enriched manifest then exists separately\
+      \ with its own URL and can be used both in Manuscriptorium and outside it, provided\
+      \ that the user marks the content as public. It is therefore possible to share\
+      \ the enriched manifest with other Manuscriptorium users as well as users of\
+      \ other systems. In practice, the users will be able to view the document \u2013\
+      \ either in Manuscriptorium, or elsewhere \u2013 along with the added annotations."
     authors:
-    - name: Nicholas Laiacona
-      org: Performant Software Solutions, United States of America
+    - name: "Tom\xE1\u0161 Klimek"
+      org: National Library of the Czech Republic, Czech Republic
+    - name: "Michael Lu\u017En\xFD"
+      org: National Library of the Czech Republic, Czech Republic
+    - name: "Zden\u011Bk Uhl\xED\u0159"
+      org: National Library of the Czech Republic, Czech Republic
     end: '03:49 '
     id: '116'
     order: 7
     start: '03:42 '
-    title: IIIF and TEI in the Native Bound Unbound Project
+    title: Manuscriptorium Annotation Module
     type: Lightning talk
   - abstract: 'Throughout the Edo period, an idiosyncratic geometric discourse flourished
       in Japan, surviving in form of the so-called Sangaku: votive tablets presenting
@@ -1213,53 +1212,54 @@ Showcase:
     start: '03:05 '
     title: 'Interoperable Dollhouses: Toying with the Physical Dimension Service'
     type: Lightning talk
-  - abstract: "The proposed paper aims to present the use of IIIF in the Manuscriptorium\
-      \ Digital Library, with the main focus put on a brand-new IIIF-compatible tool\
-      \ for document and image annotations.<br/><br/>Manuscriptorium has already fully\
-      \ implemented IIIF Image API as well as IIIF Presentation API interfaces, enabling\
-      \ it to display documents directly from the repositories of its content partners.\
-      \ At the same time, Manuscriptorium provides IIIF functionality to those partners\
-      \ that do not have their own IIIF-compatible repositories at their disposal.\
-      \ As a result, all the content aggregated in Manuscriptorium is currently available\
-      \ in the form of IIIF manifests, which can be visualised in any IIIF viewer\
-      \ available. Moreover, the new Manuscriptorium reader along with the integrated\
-      \ Mirador viewer enables its users to view and further work with documents from\
-      \ any IIIF-compatible repository (i.e. even those that are not being aggregated\
-      \ by Manuscriptorium). That is a major milestone in the development of Manuscriptorium\
-      \ as one the biggest aggregators in the field of written cultural heritage,\
-      \ effectively making it possible to view as well as research immense digitised\
-      \ material available on the internet in one dedicated environment, with one\
-      \ prerequisite only: the IIIF compatibility.<br/><br/>The new Manuscriptorium\
-      \ Annotation Module allows its users to add notes and comments to the digitised\
-      \ documents which they wish to view or further work with. The development of\
-      \ the module follows on from previous efforts in Manuscriptorium to disseminate\
-      \ personal content as much as possible \u2013 Manuscriptorium has already given\
-      \ its users opportunity to create as well as publish their own collections and\
-      \ virtual documents in the IIIF format, which was enabled by a tool for generating\
-      \ IIIF manifests and collections.<br/><br/>The annotation module goes even further.\
-      \ Above all, it enables to create annotations that can then be visualised as\
-      \ a fully structured text. Such annotation may relate to a whole virtual document,\
-      \ selected page image or even to a chosen image segment. In addition to that,\
-      \ the module is interconnected with Manuscriptorium IIIF manifest provider,\
-      \ meaning that the system is able to load users' annotations and enrich the\
-      \ original document manifest with them. Such enriched manifest then exists separately\
-      \ with its own URL and can be used both in Manuscriptorium and outside it, provided\
-      \ that the user marks the content as public. It is therefore possible to share\
-      \ the enriched manifest with other Manuscriptorium users as well as users of\
-      \ other systems. In practice, the users will be able to view the document \u2013\
-      \ either in Manuscriptorium, or elsewhere \u2013 along with the added annotations."
+  - abstract: "Native Bound Unbound is an archive of indigenous enslaved people in\
+      \ the Americas. The project aims to tell the stories of the millions of indigenous\
+      \ people who were enslaved since the arrival of Columbus. The final website\
+      \ will both publish the primary sources online and create an interconnected\
+      \ matrix of these people, the events in their lives, and the places they lived\
+      \ and worked.<br/><br/>To accomplish this, the Native Bound Unbound project\
+      \ collects a wide variety of primary sources. There are over a dozen different\
+      \ types of digital assets, ranging from baptismal records, to census records,\
+      \ to court cases, tombstones, and oral histories. The project transcribes, translates,\
+      \ analyzes, and publishes these texts by linking together tools using International\
+      \ Image Interoperability Framework.<br/><br/>Primary sources begin their journey\
+      \ by being uploaded to our IIIF image server. This is a Cantaloupe image server\
+      \ fronted by a simple web based interface that creates a IIIF manifest link.\
+      \ This link is then used to create a new transcription project in From The Page.\
+      \ Here, transcribers and domain experts transcribe the texts in a public crowdsourcing\
+      \ environment. These transcriptions are then vetted and approved by one of the\
+      \ project\u2019s editors. The editors can then export the completed transcriptions\
+      \ and associated page images to FairCopy via From The Page\u2019s IIIF export\
+      \ option.<br/><br/>FairCopy is a specialized word processor for the study and\
+      \ transcription of primary sources in literature and history. It reads and writes\
+      \ texts marked up in XML according to the Text Encoding Initiative\u2019s Guidelines\
+      \ (TEI). We are using FairCopy in the Native Bound Unbound project to structure\
+      \ and annotate transcriptions and translations in a variety of formats. For\
+      \ each primary source, the transcription and images flow in via IIIF. Users\
+      \ are able to select texts from the annotation lists in the manifest. These\
+      \ are then assembled into TEI in FairCopy.<br/><br/>The FairCopy interface can\
+      \ be customized for each project so that editors just have the elements and\
+      \ attributes they need for the job. Users can also markup up names of people\
+      \ and places, as well as identify events. Each asset type requires a specific\
+      \ markup strategy. Fortunately, TEI is quite flexible in this regard and FairCopy\
+      \ makes the process easier and more approachable to our non-technical collaborators.<br/><br/>FairCopy\
+      \ integrates with ArchivEngine, an open source server which provides version\
+      \ control and team collaboration. Using ArchivEngine, team members can check\
+      \ out texts to edit and check them in when they are done. ArchiveEngine publishes\
+      \ the texts as a IIIF Manifest via a public API.<br/><br/>ArchivEngine\u2019\
+      s IIIF manifests are then used to display the texts on the public site. This\
+      \ display utilizes EditionCrafter, an open source React component that can display\
+      \ IIIF images alongside their TEI encoded transcriptions and translations. The\
+      \ translation texts are linked to a database of people, place, and event entries\
+      \ which are also derived from the TEI encoded texts.<br/><br/>"
     authors:
-    - name: "Tom\xE1\u0161 Klimek"
-      org: National Library of the Czech Republic, Czech Republic
-    - name: "Michael Lu\u017En\xFD"
-      org: National Library of the Czech Republic, Czech Republic
-    - name: "Zden\u011Bk Uhl\xED\u0159"
-      org: National Library of the Czech Republic, Czech Republic
+    - name: Nicholas Laiacona
+      org: Performant Software Solutions, United States of America
     end: '03:19 '
     id: '138'
     order: 7
     start: '03:12 '
-    title: Manuscriptorium Annotation Module
+    title: IIIF and TEI in the Native Bound Unbound Project
     type: Lightning talk
   - abstract: "Mirador viewer<br/><br/>Harvard is also working on updating our Mirador viewer\
       \ implementation and improving its underlying architecture. Updating Mirador\
