@@ -73,10 +73,12 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
            <td>Exciting community work:<br>
                Latest on IIIF 3D<br>
                IIIF + Maps<br>
+               Museums<br>
                Wikidata & Crowdsourcing</td>
            <td><br>
                Ronald Haynes, University of Cambridge, United Kingdom<br>
                Virginia Boyero, Swedish National Heritage Board Incubator / Beyond the Map<br>
+               Emmanuelle Delmas-Glass, Yale Center for British Art; Matthew Westerby, National Gallery of Art; Tristan Roddis, Cogapp<br>
                Jason Evans, National Library of Wales, United Kingdom</td>
         </tr>
         <tr>
