@@ -16,6 +16,7 @@ The following services offer cloud-based hosting of assets; all provide support 
 - [IIIFHosting](https://www.iiifhosting.com/)
 - [Internet Archive](https://training.iiif.io/iiif-online-workshop/day-two/image-servers/iiif-hosting-ia.html)
 - [Micrio](https://micr.io/)
+- [Muzai.io platform](https://muzai.io)
 - [Reclaim Hosting](https://support.reclaimhosting.com/hc/en-us/articles/5751292854167-Getting-Started-with-Cantaloupe-IIIF-Image-Server#getting-started-with-cantaloupe-iiif-image-server-0-0)
 - [Sanity.io](https://www.sanity.io/docs/iiif-api-reference)
 
