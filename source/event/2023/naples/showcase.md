@@ -73,7 +73,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
            <td>Exciting community work:<br>
                Latest on IIIF 3D<br>
                IIIF + Maps<br>
-               Museums<br>
+               Museums<br><br>
                Wikidata & Crowdsourcing</td>
            <td><br>
                Ronald Haynes, University of Cambridge, United Kingdom<br>
