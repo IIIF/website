@@ -47,8 +47,8 @@ page_gen:
 
 banner:
   enabled: true
-  title: "Registration is now open for the 2023 IIIF Annual Conference!"
-  subtitle: "Discounted hotel rates still available."
+  title: "Registration closes May 16 for the 2023 IIIF Annual Conference!"
+  subtitle: "Register now to secure your spot."
   link: 'https://iiif.io/event/2023/naples/'
   link_label: Learn more
 
