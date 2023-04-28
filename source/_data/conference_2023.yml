@@ -1,0 +1,2063 @@
+Showcase:
+  date: '2023-06-05'
+  day: 5
+  end: '17:00 '
+  id: Showcase
+  name: ''
+  session_time: 'Monday, June 05: 01:00pm - 05:00pm'
+  sessions:
+  - abstract: The National Library of Wales was an early adopter of IIIF for content
+      delivery and of Linked Open Data for enriching its metadata and ease of access.
+      With metadata for thousands of images freely available on Wikidata we began
+      exploring the use of IIIF to tag depicted entities within our collection, initially
+      on Wikidata and later by utilizing Wikidata entities on our IIIF-driven crowdsourcing
+      platform. With tens of thousands of tags added we can start to explore the use
+      cases for this data and the added value for research and discovery. With the
+      help of a student, placement has also undertaken a review of our methodology
+      in order to assess the accuracy of this tagging and to explore some of the challenges
+      of using large open vocabularies. Whist most of our work has focused on visual
+      content, we are also considering how IIIF annotations and linked data can be
+      used to enrich digital texts, and to connect texts with other related digital
+      content. This talk will present our work and our lessons learned using practical
+      examples, visualisations and statistical analysis It will also touch on the
+      latest developments and our future plans to further integrate linked open data
+      into our IIIF manifests and to think about new ways of utilizing IIIF to improve
+      user experience, including the development of our own Wikibase instance with
+      a controlled set of linked entities.
+    authors:
+    - name: Jason Evans
+      org: National Library of Wales, United Kingdom
+    end: '01:20 '
+    id: '102'
+    order: 1
+    start: '01:00 '
+    title: IIIF is LOUD - Combining Linked Open Data and IIIF and The National Library
+      of Wales
+    type: Presentation
+  - abstract: "In this presentation, Giovanni Borelli, CTO of Haltadefinizione, will\
+      \ illustrate the potential of Coosmo in the management and preservation of IIIF\
+      \ resources. He will delineate, for a technical audience, why Coosmo is one\
+      \ of the best solutions to easily store and share a huge number of images, even\
+      \ very big ones.<br/><br/>The need to share cultural heritage on a global scale\
+      \ has become more urgent in recent years. This urgency is accompanied by the\
+      \ need to guarantee the high-quality preservation of heritage materials to make\
+      \ digital archives a valuable asset for the institution that houses them. The\
+      \ rapid growth of Digital Humanities and the consequent demand for efficient\
+      \ digital content repositories have accelerated the spread of IIIF on a large\
+      \ scale. A state-of-the-art digital archive is essential to enhance the cultural\
+      \ heritage and the institutions that preserve it.<br/><br/>Coosmo is a Digital\
+      \ Asset Management service, compatible with IIIF Image and Presentation API,\
+      \ specifically designed to manage large quantities of digital assets even in\
+      \ ultra-high resolution. It is flexible and adaptable to different scenarios,\
+      \ such as the preservation and enhancement of cultural heritage and open data.\
+      \ The leading advantages of Coosmo rest in the total number of images managed\
+      \ to date and in the fact that most of these images are very large-resolution\
+      \ images. To give a few examples, today Coosmo hosts a total of about 18 million\
+      \ images, some large hundreds of Gigabytes each. In addition, within the storage\
+      \ of Coosmo, we find hundreds of pyramid images larger than 500 megabytes and\
+      \ more than a thousand Master files greater than one Gigabyte.<br/><br/>Coosmo\
+      \ is a Software As A Service solution, ready-to-use turnkey without additional\
+      \ costs, and requires no external storage space. From a functional point of\
+      \ view, Coosmo allows you to search in your archive either through a graphical\
+      \ web interface or via REST web API. It allows the integration of IIIF viewer\
+      \ software within third-party sites (for example institutional sites) and it\
+      \ offers users the possibility to create animations and dynamic stories for\
+      \ cultural enhancement based on managed assets. Thanks to Coosmo\u2019s compatibility\
+      \ with IIIF protocols, users can benefit from greater interoperability with\
+      \ existing systems within libraries, archives, or museums that adhere to these\
+      \ standards.<br/><br/>Coosmo can do all this while maintaining excellent performance\
+      \ and a first-class user experience: it can scale dynamically based on a load\
+      \ of users who require access to images.<br/><br/>Finally, data security is\
+      \ a top priority for Coosmo. All data is securely hosted in the cloud using\
+      \ best practices for encryption and authentication. The software offers a safe\
+      \ and effective way to keep track of digital media thanks to visible and invisible\
+      \ watermarks with an authentication system.<br/><br/>Presenting Coosmo at the\
+      \ IIIF 2023 Annual Conference is an opportunity to display an example of software\
+      \ that can easily make accessible and usable IIIF resources that require considerable\
+      \ memory space. For all these reasons, Coosmo could become one of the key elements\
+      \ employed by the IIIF Community.<br/><br/>"
+    authors:
+    - name: Giovanni Borelli
+      org: Haltadefinizione Srl, Italy
+    end: '01:40 '
+    id: '145'
+    order: 2
+    start: '01:20 '
+    title: 'COOSMO: HOW TO MAKE IIIF EASY'
+    type: Presentation
+  - abstract: MLOL is the main network of digital libraries in Italy, comprising 6,500
+      state and public libraries and 1,500 school libraries, and serving over 1.5
+      million registered users. Since 2019, the MLOL platform has employed an IIIF
+      infrastructure that offers a variety of services, including the publication
+      of digitized collections from libraries, archives, and museums, the creation
+      of narrative mash-ups and annotations for registered users, and the discovery
+      of IIIF resources from Italian and foreign cultural institutions, with over
+      2 million indexed items as of the beginning of 2023.<br/><br/>In this presentation,
+      I will focus on a new tool that was released on MLOL in early 2023. This tool
+      combines the creation of narrative mash-ups and annotations with all the IIIF
+      objects that registered users can find in our repository, with an emphasis on
+      its usability and the potential for widespread dissemination among library users,
+      teachers, and students who use school libraries.<br/><br/>As a case study, I
+      will reference the Emilia Romagna region, where, on the initiative of the regional
+      administration and the Regional School Office, all schools (elementary and secondary)
+      have a library that adheres to the MLOL platform, and have conducted educational
+      activities using the IIIF-based tools on the MLOL platform.
+    authors:
+    - name: Giulio Blasi
+      org: MLOL, Italy
+    end: '01:47 '
+    id: '100'
+    order: 3
+    start: '01:40 '
+    title: MLOL Annotations & Stories for public and school libraries in Italy
+    type: Lightning talk
+  - abstract: "The challenge of creating highly-structured and heterogeneous content,\
+      \ while integrating it into well-established technologies, resources, and workflows\
+      \ involving LOD, IIIF, TEI, etc. is getting more and more relevant as these\
+      \ technologies become popular, increasing their expressivity and complexity.\
+      \ A strategy for addressing these issues is introducing new layers of abstractions\
+      \ to fill the gap, moving the task of generating output IT artifacts from users\
+      \ to software. This approach provides the added benefit of higher abstraction\
+      \ level in modeling, and of multiple output types, eventually changing in time\
+      \ and/or purposes. On such a basis, a fundamental requirement is having reusable\
+      \ software solutions. The panel highlights: (I) the functionalities of CADMUS,\
+      \ an open-access framework for content creation, as well as its export into\
+      \ IIIF; (II) a specific use case for it, consisting of a model built in the\
+      \ domain of medieval manuscript description; (III) further enhancements of the\
+      \ model by the NAPLES DANTE PROJECT.<br/><br/>Cadmus is used to connect a wealth\
+      \ of highly specialized data with a number of different, automatically generated\
+      \ output, ranging from rich IIIF resources to standoff TEI documents with multiple\
+      \ layers of annotations. It is an open-ended, modular, and full-stack creation\
+      \ system for highly structured content, including text with any number of specialized\
+      \ annotation layers, capable of multiple types of data export and import. Key\
+      \ concepts here are reuse and integration, attained via a modular design, both\
+      \ in data and in software, so that models are dynamically built by aggregation,\
+      \ like its editor. This also fosters collaborative design and tools in the scholars\
+      \ community, often developing models which start from the bottom and get progressively\
+      \ refined, towards a higher level of sharing and abstraction.<br/><br/>CODICOLOGY\
+      \ is a set of Cadmus modules focused on codicology and palaeography. It originated\
+      \ from Petrarch's ITINERA project, but has been designed to be suitable for\
+      \ other projects involving medieval manuscript descriptions. The talk explains\
+      \ how structuring a model for describing medieval manuscripts balances practical\
+      \ needs, traditional descriptive standards, and high-level architecture, to\
+      \ provide granular, computable data on manuscript elements, such as quires,\
+      \ bindings, palaeography, decoration, content, historical aspects, etc. Eventually,\
+      \ it shows how Codicology can be integrated with other parts of Cadmus or Cadmus\
+      \ tools such as IIIF annotations, to enhance the model\u2019s capabilities.<br/><br/>University\
+      \ of Naples is working on the enhancement of some parts of CODICOLOGY, starting\
+      \ from the Illuminated Dante Project\u2019s \u2018decoration\u2019 section (already\
+      \ an improvement of the XML TEI-P5 <decoDesc> element), in order to make the\
+      \ model suitable for describing decorative and illustrative contents in different\
+      \ book formats (medieval manuscripts, printed books, in-series drawings). Beside\
+      \ art-historical and stylistic features, the new model will introduce specific\
+      \ iconographic features (themes, subjects, keywords), implement standard LOD\
+      \ lexicons such as Iconclass, and set the text-image relationship with a granularity\
+      \ ranging from the text\u2019s main structures to the smallest textual units\
+      \ such as poetry verses or prose paragraphs. The exportability of the model\
+      \ through IIIF manifests will allow integrating data with greater ease in IIIF-compliant\
+      \ illustrated-manuscript or book collections."
+    authors:
+    - name: Fara Autiero
+      org: University of Naples Federico II, Italy
+    - name: Sandra Gorla
+      org: University of Naples Federico II, Italy
+    - name: Daniele Fusi
+      org: Venice Centre for Digital and Public Humanities (VeDPH)
+    end: '02:07 '
+    id: '148'
+    order: 4
+    start: '01:47 '
+    title: A IIIF-Compliant Tool for Describing Medieval Manuscripts
+    type: Presentation
+  start: '13:00 '
+  start_date: 2023-06-05 13:00
+8:
+  date: '2023-06-08'
+  day: 8
+  end: '14:30 '
+  id: 8
+  name: ''
+  session_time: 'Thursday, June 08: 01:30pm - 02:30pm'
+  sessions:
+  - abstract: 'In the context of my PhD in Digital Humanities at the University of
+      Basel (2021-2025), I investigate the semantics and interoperability dimensions
+      of standards that adhere to the Linked Open Usable Data (LOUD) design principles
+      [1], such as the International Image Interoperability Framework (IIIF) specifications
+      and more specifically the IIIF Presentation API 3.0, Linked Art and the Web
+      Annotation Data Model [2].<br/><br/>This presentation is an opportunity to delve
+      into one of my research questions which is related to the practices of IIIF
+      and Linked Art by drawing attention to the social fabrics that constitute these
+      communities notably from the standpoint of the Actor-Network Theory (ANT), a
+      constructivist approach widely spread in Science and Technology Studies (STS)
+      which should help me to better comprehend the roles and relationships of all
+      actors in the implementation of LOUD standards within the cultural heritage
+      domain and more broadly across the Digital Humanities.<br/><br/>While the presentation,
+      structured around two parts, is aimed at a general audience and accessible to
+      all, more technical aspects are also discussed, for example to illustrate how
+      IIIF APIs are developed and maintained.<br/><br/>Firstly, I intend to identify
+      the sociotechnical requirements for the establishment of community-driven initiatives,
+      looking in particular at associations that are constituted around consensus-building
+      and advocacy efforts. There are many good cases here, from the creation of community
+      and technical specification groups, the relationship between the consortium
+      and the community, the extent to which transparency plays a vital role, but
+      also the relevance and impact of nonhuman actors such as data models, APIs,
+      validators, as well as collaboratively developed software. This first part will
+      also provide a means of testing the hypothesis that community-driven specifications,
+      if they require significant commitment from all sides and are developed slowly,
+      tend to be successful in the medium to long term.<br/><br/>Secondly, I will
+      explore how the implementation of IIIF has progressed within cultural heritage
+      institutions and the potential of the framework in relation to scientific movements
+      and principles, such as Open Science, Citizen Science, FAIR [3] as well as CARE
+      [4]. I will give an overview of the various surveys conducted within the IIIF
+      community in recent years and present the results of my own investigation determining
+      where IIIF stands both conceptually and technically. This second part offers
+      a chance to report on the four key initiatives (Advocacy & Leadership, Technical
+      Development, Community Development, Membership & Value) of the strategic framework
+      presented at the IIIF online event held in December 2022 [5].<br/><br/>More
+      generally, this will be a platform to revisit and discuss over ten years of
+      IIIF practice, the intersection with Linked Art for semantically conveying knowledge
+      in an event-based manner and for metadata aggregation, and the Web Annotation
+      Data Model for driving multi-layered assertions from observations to rich narratives,
+      and to consider how LOUD situates itself in relation to communities maintaining
+      such specifications.<br/><br/>[1] https://phd.julsraemy.ch<br/><br/>[2] https://linked.art/loud<br/><br/>[3]
+      https://www.go-fair.org/fair-principles/<br/><br/>[4] https://www.gida-global.org/care<br/><br/>[5]
+      https://docs.google.com/presentation/d/1Gvvo_NOSebDJHN6Jo5V8ixzgDrvUMN24fHwpjVbaOvk/edit '
+    authors:
+    - name: Julien Antoine Raemy
+      org: 'Digital Humanities Lab, University of Basel, Switzerland;
+
+        DaSCH - Swiss National Data and Service Center for the Humanities'
+    end: '01:50 '
+    id: '103'
+    order: 1
+    start: '01:30 '
+    title: The LOUD Social Fabrics of IIIF
+    type: Presentation
+  - abstract: "The Swiss Federal Archives (SFA) are part of the administration of\
+      \ the federal state of Switzerland. They are responsible for the archiving of\
+      \ the business files of the federal authorities, in particular the government,\
+      \ the parliament and the civil service. The access to and the consultation of\
+      \ records by researchers and the public is a cornerstone of their legal mandate.\
+      \ In order to meet the current and future access requirements the SFA pursue\
+      \ a strategy of consequent digital transformation that aims at easing access\
+      \ to archival information for users.<br/><br/>Currently, the SFA use IIIF for\
+      \ the website Minutes of the Federal Council (1848-1963), which presents handwritten\
+      \ documents together with AI-powered text recognition. In February 2023, IIIF\
+      \ will also be implemented in the general Online access to the Federal Archives.<br/><br/>The\
+      \ SFA began to consider IIIF as an interesting option to provide access to the\
+      \ digital and digitized documents in their repositories in 2018. However, while\
+      \ there were many interesting examples of museums, galleries and libraries on\
+      \ the internet, specific archival use of IIIF was lacking. Considering risks\
+      \ and budgets, the SFA decided to start the journey with IIIF by small steps.<br/><br/>The\
+      \ proposed paper will provide a use case of implementation of IIIF in a governmental\
+      \ and administrative context. It will demonstrate the step by step approach\
+      \ taken and discuss the experiences made from the first limited pilot of generating\
+      \ and publishing files, using a working front- and backend infrastructure to\
+      \ the integration of IIIF into the general Online access.<br/><br/>On the one\
+      \ hand, the presentation will discuss the various challenges faced on the way.\
+      \ It will pay particular attention to aspects specific to the state and administrative\
+      \ context like the legal framework, administrative business processes, archival\
+      \ standards and the growing online demand for archival material by a multilingual\
+      \ clientele. Within this setting, the presentation will consider the current\
+      \ and future potential of IIIF in general and of Archival IIIF in particular\
+      \ (in which the SFA collaborated with the Swiss Social Archives).<br/><br/>On\
+      \ the other hand, the presentation will also assess the practical effects of\
+      \ IIIF for the SFA\u2019s access processes and the user behaviour. What does\
+      \ it mean to enable easy and direct access to documents for researchers deploying\
+      \ IIIF technology? Issues to be discuss here are above all the interoperability\
+      \ with the existing IT infrastructure, the mass digitization of paper repositories,\
+      \ the various types of digital archival material and the interoperability within\
+      \ the OAIS framework.<br/><br/>The presentation will conclude with an outline\
+      \ of further development perspectives for IIIF within the SFA\u2019s access\
+      \ setting and of future opportunities of collaboration with partners. "
+    authors:
+    - name: Elena Pilloud
+      org: Swiss Federal Archives, Switzerland
+    end: '02:10 '
+    id: '152'
+    order: 2
+    start: '01:50 '
+    title: The implementation of IIIF at the Swiss Federal Archives
+    type: Presentation
+  - abstract: 'The DB SERET Company has been an associate member of the IIIF consortium
+      since 2020. The Company has adopted IIIF technology in its services and products,
+      providing for LAM-institutions (Libraries, Archives, Museums). The main focus
+      in its mission is to support digital humanities and bring an active contribution
+      to the preservation and dissemination of cultural heritage.<br/><br/>This talk
+      aims to showcase two different IIIF implementation experiences in cross-domain
+      environments, including a variety of digital assets. Firstly, it will focus
+      on the activities preformed for the Region of Sardinia, which has a rich digital
+      collection, very divergent in typologies and provenances (archaeological, museum,
+      archival and library holdings). In this use case, a IIIF-compliant DAM has been
+      implemented. The IIIF pipeline is able to process the URIs and JSON-LD information
+      in order to expose the image collections, with the integration of Mirador and
+      Universal Viewer. It will be highlighted how the server is able to offer maximum
+      effectiveness in terms of use and quality of the original images that are ingested
+      into the DAM. The main interest is to demonstrate how this implementation will
+      disseminate this local culture (which ranges from the material manifestations
+      of Neolithic sites to contemporary works), rich in tradition and relevance for
+      the cultural history of humankind expressed in its great variety of resources,
+      for the benefit of the international community of scholars.<br/><br/>Another
+      cross-domain approach using IIIF, very different from the previous one, is the
+      platform implemented in the European Space Agency. Starting from the digitisation
+      project of the ESA Archives, DB SERET has provided a platform capable of gathering
+      annotations using Mirador. The platform has been launched last January 2023:
+      json manifests and annotations of the photographic collection are now available,
+      and the publication of additional resources is imminent.<br/><br/>In a sense,
+      it is a work in progress aimed at studying a future intermediate archive, which
+      will be able to preserve the documentary heritage of the Agency. In a nutshell,
+      a great variety of assets can be accessed using the IIIF protocol. A challenging
+      aspect in this scenario is the aggregation of archival materials in a hybrid
+      context, associating other digital assets in the same discovery tool to be explored
+      through the IIIF viewers.<br/><br/>The two different experiences will illustrate
+      the use of two different tools: Fontus for the digital resources of the Region
+      of Sardinia and Omnes for ESA, powered by DB SERET. As mentioned earlier, both
+      software integrate IIIF compliant and open source components.<br/><br/>Finally,
+      the talk will illustrate a common issue, in the two separate implementations,
+      which is handling of hybrid metadata associated with different digital resources,
+      and the crosswalk needed for the IIIF Presentation API Metadata section.<br/><br/>'
+    authors:
+    - name: Emilia Di Bernardo
+      org: DB SERET srl, Italy
+    - name: Rosemarie Leone
+      org: ESA (European Space Agency)
+    end: '02:30 '
+    id: '149'
+    order: 3
+    start: '02:10 '
+    title: 'Crossing the borders: Multimodal Cross-Domain Approaches using IIIF'
+    type: Presentation
+  - abstract: "In active development since 2015, MemoRekall is a free and open source\
+      \ web app for the documentation and preservation of time-based media.\
+      \ The app is an interface that allows for the redocumenarisation of\
+      \ a primary video resource: the user provides a Youtube or Vimeo video\
+      \ to which they can append intra- and inter-documentary, multi-modal annotations\
+      \ (links, files, other MemoRekall projects etc.). The arrangement of\
+      \ these documents creates a capsule which can be shared and embedded.\
+      \ MemoRekall is a powerful yet simple tool that is already used by\
+      \ a wide range of users: researchers, artists, cultural institutions and mediators,\
+      \ teachers and students. MemoRekall is currently in a new phase of\
+      \ development with the primary goal of rendering it compatible with\
+      \ IIIF. This new version is developed as plugins and patches for the widely-used\
+      \ Mirador viewer and takes full advantage of the latest developments of IIIF\u2019\
+      s Presentation API. Our source code is available at https://gitlab.tetras-libre.fr/iiif/\
+      \ and builds upon a previous Mirador fork supporting video from Tokyo\
+      \ University (https://github.com/2SC1815J/mirador), as well as an annotation\
+      \ plugin for images that we extended to support video (https://github.com/ProjectMirador/mirador-annotations).\
+      \ Our contributions include the update of those projects and their\
+      \ extension to support the annotation of a manifest with another manifest.<br/><br/>We\
+      \ propose:<br/>- A fully functional video player and annotator within Mirador\
+      \ built upon existing work mentioned above.<br/>- The creation of manifest\
+      \ networks: each annotation can refer to another manifest, allowing\
+      \ the creation of complex networks of multi-modal content. Leaning on IIIF\u2019\
+      s interoperability capabilities, this also means that networks can\
+      \ be constituted from a number of different sources.<br/>- Dynamic\
+      \ network navigation in Mirador: annotations linked to other manifests can be opened\
+      \ directly in the same instance of Mirador, allowing for a seamless navigation experience.<br/><br/>We\
+      \ also aim to ensure full retrocompatibility with existing MemoRekall projects\
+      \ in order to support our current user-base and encourage a dialogue\
+      \ between them and the IIIF community.<br/><br/>This work has been\
+      \ driven by a concrete case study in the context of the Horizon 2020 COESO\
+      \ project. A pilot manifest network was constructed around this project and\
+      \ served as the basis for our working prototype. It has allowed us\
+      \ to follow a practice-led design approach, and has brought to light\
+      \ a number of issues that will be important going forth. Notably, we\
+      \ intend to adopt a git-inspired version control model, allowing for different versions\
+      \ of manifest networks and cumulative and comparative work between different researchers.\
+      \ This addresses a fundamental issue in SHS analysis where each researcher can\
+      \ propose radically different ideas on the same set of resources. Leaning on\
+      \ IIIF, MemoRekall wishes to propose an environment where these perspectives\
+      \ co-exist in a dynamic and intelligible way. This will also pave the\
+      \ way for the integration of AI- and ML-driven corpus analysis tools which shall\
+      \ be the subject of our next phase of development."
+    authors:
+    - name: Clarisse Bardiot
+      org: Rennes 2 University
+    - name: Jacob Hart
+      org: Rennes 2 University
+    - name: David Rouqet
+      org: Tetras Libre
+    - name: Anthony Geourjon
+      org: Tetras Libre
+    end: '02:50 '
+    id: '172'
+    order: 4
+    start: '02:30 '
+    title: MemoRekall-IIIF, a Mirador extension supporting video annotation and a
+      network of IIIF manifests
+    type: Presentation
+  start: '13:30 '
+  start_date: 2023-06-08 13:30
+10:
+  date: '2023-06-08'
+  day: 8
+  end: '17:30 '
+  id: 10
+  name: ''
+  session_time: 'Thursday, June 08: 04:00pm - 05:30pm'
+  sessions:
+  - abstract: "IIIF Auth is now the IIIF Authorization Flow API 2.0!<br/><br/>This\
+      \ presentation introduces the IIIF Authorization Flow API, for newcomers and\
+      \ for previous implementers of IIIF Auth 1.0.<br/><br/>If you need access control\
+      \ for your images, image services, audio, video and other content resources,\
+      \ the IIIF Authorization Flow API provides a set of interaction patterns for\
+      \ IIIF viewers and other client tools to follow, and for publishers to implement\
+      \ as a bridge to existing access control systems (e.g., your institutional single-sign-on).<br/><br/>As\
+      \ well as aligning the specification with IIIF Presentation API 3.0, the new\
+      \ Auth 2.0 covers use cases beyond cookie-based access to image services. Any\
+      \ content resource can be protected using IIIF Auth, and the enforcement of\
+      \ access-control doesn\u2019t have to be through cookies. We\u2019ve also responded\
+      \ to changes in browser behaviour for third-party cookies.<br/><br/>We\u2019\
+      ll look at the new supported use cases and give a brief overview of how to support\
+      \ IIIF Auth, for publishers and for client software developers.<br/><br/>"
+    authors:
+    - name: The IIIF Editors
+      org: The IIIF Editorial Committee
+    end: '04:20 '
+    id: '170'
+    order: 1
+    start: '04:00 '
+    title: IIIF Auth 2.0 - Go with the flow
+    type: Presentation
+  - abstract: 'JPEG2000 is one of the key image formats used with IIIF. It has the
+      advantage of allowing quick access to regions and sizes and is supported by
+      most IIIF Image Servers. JPEG2000 (jp2) is a flexible format which can be generated
+      through a number of different parameters or recipes and this presentation will
+      look at the impact of passing these to an encoder and show which results in
+      the most performant image for IIIF. Similar parameter choices can be replicated
+      in many of the different encoders including open source and commercial. The
+      IIIF community has been working with Kakadu to evaluate a new extension to the
+      JPEG2000 standards called High Throughput JPEG 2000 (htj2k). The latest results
+      of this work testing different parameters will be presented and their effects
+      on htj2k images and JPEG2000 Part 1 images. '
+    authors:
+    - name: Glen Robson
+      org: IIIF, United Kingdom
+    - name: Michael Smith
+      org: Kakadu Consultant, USA
+    - name: Ruven Pillay
+      org: C2RMF - Palais du Louvre & IIPImage maintainer, France
+    - name: Stefano Cossu
+      org: Harvard, USA
+    end: '04:40 '
+    id: '146'
+    order: 2
+    start: '04:20 '
+    title: Creating the best JPEG2000s for IIIF
+    type: Presentation
+  - abstract: 'Historical newspapers and journals are an important source of information
+      for researchers studying the past. However, searching for specific people within
+      these newspapers and journals can be a difficult task due to the large volume
+      of articles and the lack of structured data. Traditional search methods, such
+      as keyword search, are often not sufficient for finding information about specific
+      individuals, especially when the information is spread across multiple articles.<br/><br/>The
+      proposed paper will cover the process and results of a research project to create
+      an end-to-end Natural Language Processing (NLP) workflow which allows annotating
+      of names, training of a machine learning model and inference of a corpus of
+      historical data in order to disambiguate names found within a International
+      Image Interoperability Framework (IIIF) document by linking each name to an
+      entity within a knowledge base (Wikidata), through Named Entity Recognition
+      (NER) and Named Entity Linking (NEL).<br/><br/>The workflow, which was able
+      to identify over 226 million names, allows researchers to query a database for
+      a specific person or group of people based on a linked-data query, which will
+      generate a collection level IIIF manifest of all articles within the National
+      Library of Wales online Newspaper and Journals which mention that person. The
+      paper will also demonstrate how additional IIIF content can be linked through
+      Linked open data.<br/><br/>This process allows researchers to easily collate
+      articles that mentions a person or group of people and have the articles be
+      viewable within a single interface (Universal Viewer or Mirador) and to annotate
+      those articles.<br/><br/>The paper will discuss the process of collecting and
+      annotating data, training a machine learning model and limitations of named
+      entity linking. While exploring other research possibilities such as identifying
+      new people and creating new Wikidata articles for those people.<br/><br/>Keywords:
+      Linked Open Usable Data (LOUD), machine learning, Discovering IIIF resources'
+    authors:
+    - name: Michael Jones
+      org: National Library of Wales, United Kingdom
+    end: '05:00 '
+    id: '104'
+    order: 3
+    start: '04:40 '
+    title: Utilising IIIF and Knowledge Bases for Searching for People within Historical
+      Newspaper and Journal Articles
+    type: Presentation
+  - abstract: "Since late 2022, Rensselaer Polytechnic Institute (RPI) has been collaborating\
+      \ with the Metropolitan New York Library Council (METRO) to implement Archipelago,\
+      \ a flexible, extensible, and deeply IIIF-integrated open source digital objects\
+      \ repository software. IIIF APIs and IIIF compliant viewer customizations, including\
+      \ IIIF tile source and W3C Web Annotations, are woven into the system\u2019\
+      s architecture and functionality. Smaller shops and teams, regardless of parent\
+      \ institution capacity, require strategic consideration when selecting materials\
+      \ to digitize and exhibit in digital spaces. Library, archive and museums, independent\
+      \ of their size, budget, and mission, need to manage intersecting pragmatic\
+      \ and postulatory concerns regarding sustainability, not only in terms of efforts\
+      \ but also the underlying technologies they utilize. The successful, collaborative\
+      \ implementation of Archipelago in RPI\u2019s repository and archives infrastructure\
+      \ has led to explorations and practicable applications of using IIIF-enabled\
+      \ exhibition and research capabilities to showcase collections in ways previously\
+      \ not possible, with alacrity and confidence in the longer term open accessibility\
+      \ of valuable resources.<br/><br/>RPI and METRO have combined their expertise\
+      \ to focus on a use case which highlights a civil engineer traveling and conducting\
+      \ field surveys throughout Peru in the 1860s. Through travelogs, correspondence\
+      \ and detailed journals this project maps and tracks the engineers movements\
+      \ and activities over a 4 year period of time. The importance of this project\
+      \ is immeasurable and can create historical ties between RPI\u2019s early civil\
+      \ engineers who were intrepid travelers from North and South America and among\
+      \ the first engineers to work in and call home different regions of both continents.\
+      \ At present archivists and researchers are afforded only a small window into\
+      \ the world of engineering of the 19th century because the narratives and details\
+      \ of field work remain sparse, disparate and siloed. Empowering discovery and\
+      \ (re)use tools like the IIIF Presentation API and rich IIIF Viewers like Mirador\
+      \ let us emblazon these records into freely accessible digital spaces, wherein\
+      \ researchers can gain glimpses into the global exchange of practices, travels,\
+      \ and ideas that moved through the world and field of engineering.<br/><br/>During\
+      \ this presentation, participants will learn about the different ways the RPI\
+      \ and METRO teams incorporate Archipelago\u2019s IIIF dynamic manifest generation,\
+      \ W3C Web Annotations, discovery, custom REST APIs and GeoJSON templates referencing\
+      \ IIIF\u2019s navPlace Extension and extensive LoD to curate and craft a rich\
+      \ digital presentation of RPI\u2019s 19th century engineering travel journals.\
+      \ Presenters will explain how the extensibility of IIIF and the many UI facing\
+      \ tools Archipelago provides, affords archivists the ability to restore a collection's\
+      \ lost contextualities and allows researchers innovative methods that can open\
+      \ doors to new ones. This presentation will highlight the different ways IIIF\
+      \ standards and implementations empower researchers to uncover and traverse\
+      \ new and established historical narratives, and is intended for both general\
+      \ and technical audiences."
+    authors:
+    - name: Jenifer Monger
+      org: Rensselaer Polytechnic Institute, United States of America
+    - name: Allison Sherrick
+      org: Metropolitan New York Library Council, United States of America
+    - name: Diego Alberto Pino Navarro
+      org: Metropolitan New York Library Council, United States of America
+    - name: Brenden McCarthy
+      org: Rensselaer Polytechnic Institute, United States of America
+    end: '05:20 '
+    id: '147'
+    order: 4
+    start: '05:00 '
+    title: Mapping an Engineer Through IIIF
+    type: Presentation
+  start: '16:00 '
+  start_date: 2023-06-08 16:00
+4:
+  date: '2023-06-07'
+  day: 7
+  end: '16:00 '
+  id: 4
+  name: ''
+  session_time: 'Wednesday, June 07: 03:00pm - 04:00pm'
+  sessions:
+  - abstract: There are 99,000 documents imported into FromThePage, our crowdsourcing
+      platform for transcription, indexing, and description, either through uploads
+      or IIIF imports. I'll analyze and share where those documents come from. What
+      percentage are IIIF manifests? Who is using IIIF to import material? (The answer
+      will surprise you!) Are they imported by the same organization that runs the
+      project? What asset management systems are represented? The answers -- surprising
+      and interesting -- may influence how the community talks about IIIF and where
+      we focus our outreach efforts.
+    authors:
+    - name: Sara Brumfield
+      org: FromThePage, United States of America
+    end: '03:07 '
+    id: '113'
+    order: 1
+    start: '03:00 '
+    title: An analysis of IIIF manifests imported into FromThePage
+    type: Lightning talk
+  - abstract: The proposed lightning talk will showcase the capabilities of the VIKUS
+      Viewer and its associated VIKUS IIIF Generator, as a web-based visualization
+      system that enables the exploration of large cultural artifact collections.
+      Relevant to the IIIF community, it demonstrates a practical application of IIIF
+      standards in the form of a VIKUS Viewer that can be used to view entire IIIF
+      Collections (Presentation 3.x API) using the IIIF Image API in a user-friendly
+      and interactive way.<br/><br/>The presentation will begin by introducing the
+      VIKUS Viewer and its unique capabilities, specifically, how it arranges thousands
+      of cultural artifacts on a dynamic canvas and supports the exploration of thematic
+      and temporal patterns of large collections, while providing rapid access to
+      high-resolution imagery.<br/><br/>Next, the VIKUS IIIF Generator will be introduced,
+      which can be used to view entire IIIF Collections (Presentation 3.x API) with
+      the VIKUS Viewer. The Docker instance's ability to crawl all manifests in a
+      IIIF Collection recursively, download images of each canvas using the IIIF Image
+      API, create spritesheets, extract metadata, and generate image similarity layouts
+      using dimension reduction techniques like UMAP will be demonstrated.<br/><br/>We
+      will show real-world examples of IIIF Collections visualized using the VIKUS
+      IIIF Generator to demonstrate the project's practical usage. Additionally, the
+      REST API and websocket for real-time progress updates and the ability to download
+      data ZIP archive for VIKUS Viewer will be discussed.<br/><br/>This presentation
+      is directed towards both technical and general audiences. Technical audiences
+      can gain a deeper understanding of the IIIF standards and how they can be implemented
+      in a practical application, while general audiences can learn about the capabilities
+      of IIIF and how it can be used to view and explore digital collections in a
+      visually engaging way.<br/><br/>Overall, the presentation aims to showcase the
+      capabilities of the VIKUS Viewer and its associated VIKUS IIIF Generator, as
+      a powerful tool for exploring large cultural artifact collections. It also aims
+      to contribute to the IIIF community by providing a practical application of
+      IIIF standards that can be used and built upon by other institutions and organizations.<br/><br/>
+    authors:
+    - name: Christopher Pietsch
+      org: University of Zurich, Switzerland
+    - name: "Florian Kr\xE4utli"
+      org: University of Zurich, Switzerland
+    end: '03:14 '
+    id: '105'
+    order: 2
+    start: '03:07 '
+    title: Visualizing IIIF Collections
+    type: Lightning talk
+  - abstract: This lightning talk will introduce the iiif-prezi3 Python library, a
+      successor to the original iiif-prezi library.<br/><br/>Developed over the last
+      two years by a group of volunteers in the IIIF community, the iiif-prezi3 library
+      aims to provide a quick and easy way for developers of all skill levels and
+      familiarity with the IIIF Presentation API 3.0 to generate valid JSON-LD for
+      Presentation API resources.<br/><br/>During the lightning talk, we will cover
+      a brief history of the development of the library, an introduction to the principles
+      underlying it such as the use of the Pydantic modeling and validation library,
+      and demonstrate some real world examples of the library in use, both inside
+      workflows and standalone.
+    authors:
+    - name: Mike Bennett
+      org: Non-affilliated
+    - name: Glen Robson
+      org: IIIF-C
+    - name: iiif-prezi3 maintainers
+      org: Assorted
+    end: '03:21 '
+    id: '130'
+    order: 3
+    start: '03:14 '
+    title: 'iiif-prezi3: Python library for working with the IIIF Presentation 3 API'
+    type: Lightning talk
+  - abstract: "This short presentation will showcase the work of an ongoing project\
+      \ (Jan 2023 \u2013 Jun 2024) led by three early career researchers at the University\
+      \ of Glasgow which explores the capability of annotating IIIF images in the\
+      \ context of an innovative digital edition. By presenting at the IIIF conference,\
+      \ we hope to share our aims and work-in-progress ideas with a wide range of\
+      \ experts and users.<br/><br/>The Chronicle of Melrose is one the most significant\
+      \ sources for Scotland\u2019s history in the 12th and 13th centuries. It currently\
+      \ survives in two composite manuscripts in the British Library in London (Cotton\
+      \ Julius B. XIII ff. 2\u201347 and Cotton Faustina B. IX ff. 2\u201375). What\
+      \ makes the Chronicle so unique is the fact that so many individual scribes\
+      \ (over 50) contributed to its creation and subsequent (messy) growth over a\
+      \ century.<br/><br/>Traditional editions tend to be concerned primarily with\
+      \ textual content. Where images are used in editions, they are usually illustrative\
+      \ rather than the central point of access to the text. On the other hand, it\
+      \ has been recognised that a general problem with the plethora of digital images\
+      \ of manuscripts on the web is that they often lack sufficient contextualisation\
+      \ (e.g. Edwards 2018; Prescott & Hughes 2018). The prospect of integrating IIIF\
+      \ images into editions has yet to be generally taken up by the editorial community.\
+      \ This project\u2019s innovative image-based edition therefore represents a\
+      \ new direction for digital editing and the use of IIIF as part of a \u2018\
+      materially engaged\u2019, scribe-centric editorial methodology.<br/><br/>Annotations\
+      \ will be added to the images and stored using W3C Web Annotation specification,\
+      \ identifying the area where a specific scribal hand occurs. At the same time,\
+      \ the TEI-XML texts will be tagged to the relevant scribe ID, matching that\
+      \ in the manifest annotation.<br/><br/>Our edition therefore seeks to use the\
+      \ BL\u2019s IIIF images to reunite the manuscript (originally divided in the\
+      \ 16th century) and draw attention to its messy, multi-scribe nature by annotating\
+      \ the scribes on each folio. This will allow for detailed investigations of\
+      \ each scribe\u2019s contribution, with accessible referencing and therefore\
+      \ verification of research results. As an Open Access edition, it aims to make\
+      \ the Chronicle\u2019s scribes and texts available to a wide range of learners,\
+      \ researchers and the wider public. The project hopes to demonstrate that by\
+      \ using widely supported and shared technologies like IIIF, it is possible to\
+      \ create sustainable, Open Access, intellectually ambitious editions which are\
+      \ relatively small in scale."
+    authors:
+    - name: Jo Tucker
+      org: University of Glasgow, United Kingdom
+    - name: Luca Guariento
+      org: University of Glasgow, United Kingdom
+    - name: Vivien Williams
+      org: University of Glasgow, United Kingdom
+    end: '03:28 '
+    id: '117'
+    order: 4
+    start: '03:21 '
+    title: 'Messy medieval manuscripts: annotating scribes on IIIF images'
+    type: Lightning talk
+  - abstract: 'Digital Storytelling is one of the most used methods that GLAMs (Galleries,
+      Libraries, Archives, Museums) use to display their collections to their audiences.
+      Ever since the International Image Interoperability Framework (IIIF) was launched
+      in 2011, digital collections have been made highly accessible in a unified standard,
+      allowing interoperability between repositories and across applications (IIIF,
+      2012-2021a; Freire et al, 2018). However, whilst a lot of efforts are made into
+      making data interoperable, we actually do not know how a lot about how IIIF
+      material currently is being re-used for storytelling possibilities and/or digital
+      public humanities work. Particularly, some key features of IIIF, such as the
+      deep-zooming options, metadata, and annotations, can also be leveraged to create
+      bespoke digital storytelling options. With the IIIF format now supporting audio
+      and video material, these further possibilities for storytelling are even moreso
+      enhanced (Roddis, 2018). Through free and IIIF-enabled software such as Exhibit.so
+      and Storiiies, the possibility to create a digital story navigating through
+      one or multiple images, which mostly leverages the deep zoom functionality of
+      IIIF and mixes it with text. Additionally, IIIF has also found its way into
+      commercial storytelling software, e.g. Micrio, which is implemented by institutions
+      such as the Rijksmuseum and Van Gogh Museum to create online navigated and interactive
+      ways to explore their museum collections. In recent years, IIIF has furthermore
+      expanded its focus of merely sharing images, and has also incorporated audio,
+      and video material. When viewing IIIF not only as a technical standard, but
+      also as a cocktail of images, audio, video, metadata, annotations, interoperability
+      across institutions, and high-quality and high-speed deep zooming, one can think
+      of the possibilities this could leverage to tell stories digitally. Yet, when
+      analyzing the ways museums and humanities research institutions have implemented
+      IIIF within their storytelling and public digital humanities projects, not a
+      lot of them have done so. In this lightning talk, I will discuss some of these
+      research questions and potentially preliminary results regarding an assesment
+      of the user needs for digital storytelling with IIIF. The current user groups
+      that I will focus on are the following: (1) humanities scholars, (2) heritage
+      and memory practitioners. The goal is to go beyond the deep zoom functionalities
+      but analyze how IIIF can play a role in digital storytelling, particularly within
+      the field of digital public humanities.'
+    authors:
+    - name: Lise Foket
+      org: Ghent Centre for Digital Humanities, Belgium
+    end: '03:35 '
+    id: '167'
+    order: 5
+    start: '03:28 '
+    title: 'Re-using IIIF resources for digital storytelling: an assessment of the
+      user needs in a cultural heritage context'
+    type: Lightning talk
+  - abstract: "This contribution aims at illustrating how the Association of the Italian\
+      \ community of Digital Humanities (AIUCD) is encouraging digital scholars to\
+      \ adopt the protocol, the framework, the APIs and the tools promoted by the\
+      \ IIIF consortium to better meet the requirements arising from the research\
+      \ projects over the past few years. Indeed, AIUCD has, among its ambitions,\
+      \ that of fostering best practices, common processes, open resources and innovative\
+      \ applications in the field of Digital Humanities. The IIIF ecosystem is particularly\
+      \ valuable for our community since AIUCD favors 1) data interoperability by\
+      \ adopting shared models and standard formats for data representation, 2) data\
+      \ availability by using open licenses and web publication following the FAIR\
+      \ principles, 3) long-term preservation of scholarly-curated resources by means\
+      \ of TRUSTed digital repositories, 4) sustainability of the digital research\
+      \ outcomes by strengthening institutional collaborations between different stakeholders\
+      \ (academic and non academic ones).<br/><br/>In light of the above, one of the\
+      \ most popular technologies adopted within the DH community is the encoding\
+      \ schema developed by the Text Encoding Initiative (TEI), which is mainly devoted\
+      \ to digitally represent any form of textual resources (epigraphs, papyri, manuscripts,\
+      \ books, etc.) at different levels of detail, including different research perspectives\
+      \ (e.g. paleographical, philological, linguistic, historical and others).<br/><br/>Digital\
+      \ textual studies often benefit from the integration of textual data with the\
+      \ images of documents bearing texts (including manuscripts, inscriptions, cultural\
+      \ heritage objects) and the related metadata. Of special interest, then, is\
+      \ to provide shared methods to integrate this kind of textual data representation\
+      \ with the image-related data handled by the IIIF APIs, within a Linked Open\
+      \ Usable Data context.<br/><br/>Key features of this complex text-document relationship\
+      \ that pose modeling and processing challenges include: 1. Producing, managing,\
+      \ exposing and retrieving different images about primary sources at different\
+      \ levels of granularity and with different image representation technologies\
+      \ (RGB, infrared, hyper-spectral, multi-spectral, etc.); 2. Aligning the textual\
+      \ content and its internal structure with the image, taking into account that\
+      \ different written surfaces and different running texts can coexist within\
+      \ the same document image (region of interest, image segmentation, layout analysis,\
+      \ text baseline, text masks); 3. Adopting the Web Annotation Data Model (WADM)\
+      \ to implement the integration between metadata, text and witness, thus ensuring\
+      \ a solid mechanism to generate persistent identifiers (promoting the pointing\
+      \ mechanisms of the XML technology and the adherence to RFCs regarding fragment\
+      \ identification methods of URI selectors); 4. Adding robust support to 3D images\
+      \ through an enhanced IIIF API to manipulate 3D historical documents such as\
+      \ epigraphs, papyri, gravestones, etc.<br/><br/>If accepted, the short talk\
+      \ will show some use cases beyond \u201Cdeep zoom\u201D requirements, providing\
+      \ technical solutions to embed IIIF URI within TEI documents by exploiting attributes\
+      \ defined by the teidata.pointer data type, the TEI XPointer Schemes, and the\
+      \ WADM specifications implemented within the standoff tagset of a TEI-compliant\
+      \ document.<br/><br/>Moreover, we will present some showcases for digital philology,\
+      \ developed by members of the AIUCD community, leveraging IIIF APIs: EVT, CophiEditor,\
+      \ Euporia, Biflow."
+    authors:
+    - name: Marina Buzzoni
+      org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
+        \ Digitale AIUCD;\nUniversit\xE0 Ca' Foscari Venezia"
+    - name: Maurizio Lana
+      org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
+        \ Digitale AIUCD;\nUniversit\xE0 del Piemonte Orientale"
+    - name: Nicola Barbuti
+      org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
+        \ Digitale AIUCD;\nUniversit\xE0 di Bari Aldo Moro"
+    - name: Andrea Bolioli
+      org: 'Direttivo 21-23 Associazione per l''Informatica Umanistica e la Cultura
+        Digitale AIUCD;
+
+        CELI'
+    - name: Federico Boschetti
+      org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
+        \ Digitale AIUCD;\nCNR-ILC, Italy;\nUniversit\xE0 Ca' Foscari Venezia"
+    - name: "Fabio Cirac\xEC"
+      org: "Direttivo 21-23 Associazione per l'Informatica Umanistica e la Cultura\
+        \ Digitale AIUCD;\nUniversit\xE0 del Salento"
+    end: '03:42 '
+    id: '139'
+    order: 6
+    start: '03:35 '
+    title: "\u201CSharing the Cherry\u201D: AIUCD for IIIF good practices in the Italian\
+      \ DH community."
+    type: Lightning talk
+  - abstract: "The proposed paper aims to present the use of IIIF in the Manuscriptorium\
+      \ Digital Library, with the main focus put on a brand-new IIIF-compatible tool\
+      \ for document and image annotations.<br/><br/>Manuscriptorium has already fully\
+      \ implemented IIIF Image API as well as IIIF Presentation API interfaces, enabling\
+      \ it to display documents directly from the repositories of its content partners.\
+      \ At the same time, Manuscriptorium provides IIIF functionality to those partners\
+      \ that do not have their own IIIF-compatible repositories at their disposal.\
+      \ As a result, all the content aggregated in Manuscriptorium is currently available\
+      \ in the form of IIIF manifests, which can be visualised in any IIIF viewer\
+      \ available. Moreover, the new Manuscriptorium reader along with the integrated\
+      \ Mirador viewer enables its users to view and further work with documents from\
+      \ any IIIF-compatible repository (i.e. even those that are not being aggregated\
+      \ by Manuscriptorium). That is a major milestone in the development of Manuscriptorium\
+      \ as one the biggest aggregators in the field of written cultural heritage,\
+      \ effectively making it possible to view as well as research immense digitised\
+      \ material available on the internet in one dedicated environment, with one\
+      \ prerequisite only: the IIIF compatibility.<br/><br/>The new Manuscriptorium\
+      \ Annotation Module allows its users to add notes and comments to the digitised\
+      \ documents which they wish to view or further work with. The development of\
+      \ the module follows on from previous efforts in Manuscriptorium to disseminate\
+      \ personal content as much as possible \u2013 Manuscriptorium has already given\
+      \ its users opportunity to create as well as publish their own collections and\
+      \ virtual documents in the IIIF format, which was enabled by a tool for generating\
+      \ IIIF manifests and collections.<br/><br/>The annotation module goes even further.\
+      \ Above all, it enables to create annotations that can then be visualised as\
+      \ a fully structured text. Such annotation may relate to a whole virtual document,\
+      \ selected page image or even to a chosen image segment. In addition to that,\
+      \ the module is interconnected with Manuscriptorium IIIF manifest provider,\
+      \ meaning that the system is able to load users' annotations and enrich the\
+      \ original document manifest with them. Such enriched manifest then exists separately\
+      \ with its own URL and can be used both in Manuscriptorium and outside it, provided\
+      \ that the user marks the content as public. It is therefore possible to share\
+      \ the enriched manifest with other Manuscriptorium users as well as users of\
+      \ other systems. In practice, the users will be able to view the document \u2013\
+      \ either in Manuscriptorium, or elsewhere \u2013 along with the added annotations."
+    authors:
+    - name: "Tom\xE1\u0161 Klimek"
+      org: National Library of the Czech Republic, Czech Republic
+    - name: "Michael Lu\u017En\xFD"
+      org: National Library of the Czech Republic, Czech Republic
+    - name: "Zden\u011Bk Uhl\xED\u0159"
+      org: National Library of the Czech Republic, Czech Republic
+    end: '03:49 '
+    id: '116'
+    order: 7
+    start: '03:42 '
+    title: Manuscriptorium Annotation Module
+    type: Lightning talk
+  - abstract: 'Throughout the Edo period, an idiosyncratic geometric discourse flourished
+      in Japan, surviving in form of the so-called Sangaku: votive tablets presenting
+      geometric riddles in word and image, dedicated by private individuals in Buddhist
+      temples and Shinto shrines. Around 1000 Sangaku survive to date; spread out
+      as they are throughout Japan''s temples, however, their systematic exploration
+      and a better understanding of their cultural function remains a challenge and
+      the tradition as a whole practically unknown outside of Japan.<br/><br/>Our
+      3-year research project based at Waseda University, Tokyo, is an attempt to
+      put Sangaku on the map of the global history of mathematics: the first and primary
+      objective is to digitize all Sangaku surviving in wood and print and showcase
+      them in a bilingual IIIF-based archive.<br/><br/>There is an inherent challenge
+      to the project: unlike most digitization initiatives pursued by libraries and
+      cultural institutions, the primary material itself is not available in-house
+      but held in temples spread out across Japan. To date there is no comprehensive,
+      searchable collection of high-resolution images complete with metadata that
+      could form a base for a Sangaku archive. Collecting decentralized material in
+      such quantity, however, will require a collaborative effort. The project will
+      therefore necessitate a workflow that links a user-friendly interface for submitting
+      images to a pipeline streamlining the conversion of the material into IIIF manifests.<br/><br/>In
+      the lightning talk proposed, we would like to present a pilot for such a pipeline:
+      from data collection to database management and the automated creation of IIIF
+      manifests.<br/><br/>The requirements are as follows: the submission of data
+      should be possible from anywhere and user-friendly; there should be a window
+      for control between the submission of data and its conversion to a IIIF manifest;
+      the single steps of the process should be automated wherever feasible in order
+      to limit manual intervention to a minimum.<br/><br/>The pilot presented uses
+      a Google Form for data submission and MySQL for database management; the orchestrator
+      is written in Golang. With a view to the future, the final deliverable will
+      be a docker container allowing the use of alternative interfaces or databases.<br/><br/>'
+    authors:
+    - name: Antonia Karaisl
+      org: 'Waseda University, Japan;
+
+        Villa I Tatti, The Harvard Center for Italian Renaissance Studies'
+    - name: Gianmarco Spinaci
+      org: Villa I Tatti, The Harvard Center for Italian Renaissance Studies
+    end: '03:56 '
+    id: '144'
+    order: 8
+    start: '03:49 '
+    title: 'Coming full circle: from single Sangaku to IIIF-based Archive'
+    type: Lightning talk
+  start: '15:00 '
+  start_date: 2023-06-07 15:00
+5:
+  date: '2023-06-07'
+  day: 7
+  end: '17:30 '
+  id: 5
+  name: ''
+  session_time: 'Wednesday, June 07: 04:30pm - 05:30pm'
+  sessions:
+  - abstract: "How can we promote IIIF in fields where it is not currently widely\
+      \ used?<br/><br/>In France, even though IIIF is for example commonly used in\
+      \ libraries, very few archives have implemented the IIIF APIs. In 2022 a project,\
+      \ born from the reflexions of Biblissima+ and the Service Interminist\xE9riel\
+      \ des Archives de France, came to light. The aim of this project is to promote\
+      \ the implementation of IIIF in the French archival network, for their own benefit,\
+      \ but also in order to aggregate archival content on the French national portal\
+      \ for archives, FranceArchives (managed by the Service Interminist\xE9riel des\
+      \ Archives de France).<br/><br/>The purpose of this presentation is to introduce\
+      \ this project, as our approach could inspire others. In the first part, we\
+      \ will describe the different stages of the strategy developed to diffuse IIIF\
+      \ in archival institutions, in connection with archivists and software providers.\
+      \ This includes writing documentation and specifications, whose goal is to promote\
+      \ good and homogeneous practices on a national scale, for instance for the construction\
+      \ of ARKs. Training courses are also launched, which allows us to give feedback\
+      \ on how to acquaint a non technical audience with IIIF.<br/><br/>Secondly,\
+      \ we will present the other goal of this project: aggregating archival content\
+      \ in FranceArchives, in order to provide federated access and to enable better\
+      \ discoverability of these resources. It will be the opportunity to mention\
+      \ how manifests and digital contents are retrieved and integrated into the document's\
+      \ descriptive notes, thanks to the implementation of Mirador 3. Future projects,\
+      \ as in the implementation of valorization tools, will also be discussed.<br/><br/>FranceArchives,\
+      \ as the French national provider for Archives Portal Europe, the domain agregator\
+      \ for archives of Europeana, will therefore be part of an European network of\
+      \ IIIF. The portal will also aim to offer repositories in IIIF for thematic\
+      \ portals such as Biblissima."
+    authors:
+    - name: "C\xE9cile Sajdak"
+      org: 'Biblissima+;
+
+        Campus Condorcet'
+    - name: Mathilde Daugas
+      org: "Biblissima+;\nCampus Condorcet;\nService Interminist\xE9riel des Archives\
+        \ de France"
+    end: '04:50 '
+    id: '124'
+    order: 1
+    start: '04:30 '
+    title: 'A national IIIF dissemination project: the study case of French archives'
+    type: Presentation
+  - abstract: The Portale Antenati (https://antenati.cultura.gov.it/) provides online
+      access to the enormous documentary heritage of the civil status documents preserved
+      in the Italian State Archives-<br/><br/>Over 132 million images and over 1,600,000
+      IIIF manifests are accessible to date. Over 60,000 manifests, over one million
+      pages and 3.5 million thumbnails are consulted every day.<br/><br/>To provide
+      these services, a series of IIIF servers governed by a load balancing system
+      was built and each register has its own persistent ARK identifier.<br/><br/>The
+      intervention aims to show the design problems of a complex infrastructure such
+      as that of the Portale Antenati, the methodology of performance analysis, the
+      results of the performance benchmarks and the monitoring of the platform.
+    authors:
+    - name: Lina Antonietta Coppola
+      org: Archivist & Project Manager
+    - name: Costantino Landino
+      org: IT Manager freelance
+    end: '05:10 '
+    id: '106'
+    order: 2
+    start: '04:50 '
+    title: 'Portale Antenati: IIIF implementation'
+    type: Presentation
+  - abstract: "Pozna\u0144 Supercomputing and Networking Center has been involved\
+      \ in development of software solutions for cultural heritage and digital humanities\
+      \ communities for over twenty years. Our most important product DInGO (\"Digitise\
+      \ and Go\") has been used by hundreds of institutions in Poland and abroad.\
+      \ PSNC serves more than 140 deployments of digital GLAMs in total. Among them\
+      \ there are over a dozen of institutions using professional digitization pipelines\
+      \ and archiving solutions implemented in the DInGO toolset. Recent years at\
+      \ PSNC have been full of projects using IIIF technology, allowing end users\
+      \ to work with easily accessible high-quality images. Our production systems\
+      \ use IIP Image Server and Cantaloupe as well as OpenSeadragon and UniversalViewer.\
+      \ In order to provide images in IIIF compliant format we implemented various\
+      \ conversion routines. In our presentation we would like to show our approaches\
+      \ to use of IIIF technology in production systems:<br/>- Data Exchange Infrastructure\
+      \ developed in EnrichEuropeana and EnrichEuropeana+ projects,<br/>- Virtual\
+      \ Transcription Laboratory implemented in cooperation with variety of partners,<br/>-\
+      \ dLibra system, our flagship software for digital collections management.<br/><br/>Moreover\
+      \ we would like to present our first approach for providing IIIF images in a\
+      \ large scale system developed within the DARIAH-PL project.<br/><br/>EnrichEuropeana\
+      \ and EnrichEuropeana+ aim to encourage various communities to improve digital\
+      \ objects quality by creating transcriptions and metadata enrichments. Cultural\
+      \ heritage digital objects often contain scans of handwritten documents or images\
+      \ with unstructured textual information. Transcribing such scans requires working\
+      \ with the images in high zoom which made the IIIF technology the best choice.\
+      \ The solution uses images at their original locations or prepared internally\
+      \ using conversion from other data formats and exposed via IIP Image Server.\
+      \ Images are shown to the users in the customized version of OpenSeadragon viewer\
+      \ embedded in the Transcribathon Platform. In addition to manual transcriptions,\
+      \ the Transcribathon Platform uses HTR technology mainly to create automatic\
+      \ transcriptions of manuscripts.<br/><br/>Virtual Transcription Laboratory supports\
+      \ digital repositories in enhancing their content with transcriptions, translations,\
+      \ transliterations and annotations. The tool works on IIIF-based image streams\
+      \ served by the internal IIIF server whenether conversion to IIIF compliant\
+      \ format is necessary. Built-in OCR engine together with its automatic training\
+      \ routines helps preparing good quality transcriptions of documents. Different\
+      \ types of text enhancements are stored in separate text layers which are searchable\
+      \ using IIIF Search API. VTL is integrated with the digital repository in the\
+      \ manner of providing the text enhancements as alternative representations of\
+      \ digital resources.<br/><br/>dLibra has also been enhanced with IIIF technology\
+      \ to help hundreds of institutions publish their digital resources online. Internally\
+      \ it uses Cantaloupe IIIF server and UniversalViewer which beside IIIF streams\
+      \ is able to work with legacy image galleries.<br/><br/>In the DARIAH-PL project\
+      \ we are increasing the scale of using IIIF technology. The data delivery service\
+      \ will not only allow serving the images but also converting other formats to\
+      \ IIIF compliant format. The most significant feature of the system will be\
+      \ its scale, both in terms of the number of servers and the size of storage."
+    authors:
+    - name: "Marcin Heli\u0144ski"
+      org: "Pozna\u0144 Supercomputing and Networking Center, Poland"
+    - name: Aleksandra Nowak
+      org: "Pozna\u0144 Supercomputing and Networking Center, Poland"
+    end: '05:30 '
+    id: '131'
+    order: 3
+    start: '05:10 '
+    title: Using IIIF in cultural heritage software solutions
+    type: Presentation
+  start: '16:30 '
+  start_date: 2023-06-07 16:30
+9:
+  date: '2023-06-08'
+  day: 8
+  end: '15:30 '
+  id: 9
+  name: ''
+  session_time: 'Thursday, June 08: 02:30pm - 03:30pm'
+  sessions:
+  - abstract: The use of digital technologies to preserve and promote endangered languages
+      is becoming increasingly important in light of the rapid decline of many linguistic
+      traditions. In Japan, where a rich tapestry of endangered languages face the
+      risk of extinction, the adaptation of the International Image Interoperability
+      Framework (IIIF) to include audio and video content offers a promising solution.<br/><br/>In
+      Japan, a diverse array of endangered languages, such as the Ryukyuan and Ainu
+      languages, face a similar risk of extinction due to declining numbers of speakers
+      and a lack of preservation and documentation resources. To address this issue,
+      the adaptation of the International Image Interoperability Framework (IIIF)
+      to include audio and video content is seen as a promising solution.<br/><br/>The
+      National Institute for Japanese Language and Linguistics (NINJAL) holds many
+      unpublished resources on endangered languages in Japan. To make these resources
+      accessible to the public, NINJAL created the NINJAL Digital Archive (NINDA),
+      based on Omeka S, and equipped with a rich interface featuring three IIIF viewers
+      and RDF metadata output functions. Users can play audio and video content using
+      Universal Viewer and Mirador, with the latter allowing for the display of subtitles,
+      including phonetic representation and translation.<br/><br/>The adaptation of
+      IIIF for audio and video files in Japan will promote the sharing and reuse of
+      digital collections. Standardizing the IIIF specifications for these files will
+      provide a consistent way for institutions to represent and share their collections,
+      enabling the development of new access and analysis tools. The use of IIIF will
+      also allow researchers to cross-reference and compare resources from different
+      institutions, increasing overall understanding and knowledge of these endangered
+      languages.<br/><br/>However, the adaptation of IIIF for audio and video files
+      will require the development of new technical specifications and tools to represent
+      and interpret audio and video content. Issues such as file format compatibility,
+      syncing of audio and video streams with subtitles, and access to alternate versions
+      and derivatives of content must be addressed in the IIIF specifications for
+      audio and video. Additionally, new metadata standards and controlled vocabularies
+      are needed to describe resources and facilitate discovery and access, including
+      language and dialect identification, speaker information, and cultural context.<br/><br/>To
+      conclude, the adaptation of IIIF to audio and video files will require the development
+      of updated technical specifications and tools to provide the representation
+      and interpretation of the audio and video content. As part of the IIIF specifications
+      for audio and video, a number of issues will need to be addressed, including
+      file format compatibility, synchronizing audio and video streams with subtitles,
+      and the ability to access alternate versions and derivatives of content. Additionally,
+      new metadata standards and controlled vocabulary are needed to describe resources
+      and facilitate discovery and access to these valuable resources for heritage
+      learners and linguistic enthusiasts.<br/><br/>
+    authors:
+    - name: So Miyagawa
+      org: National Institute for Japanese Language and Linguistics (NINJAL), Japan
+    end: '02:37 '
+    id: '140'
+    order: 1
+    start: '02:30 '
+    title: Adaptation of IIIF for Audio-Visual Resources of Endangered Languages in
+      Japan for Language Preservation
+    type: Lightning talk
+  - abstract: "Canopy IIIF (https://canopy-iiif.vercel.app/) is an open source site\
+      \ generator built with IIIF and Next.js. Using only a single IIIF Collection\
+      \ as a data source, Canopy IIIF generates a browseable and searchable digital\
+      \ collection and provides a straightforward solution to adding context to the\
+      \ resources that are referenced. The open source application offers solutions\
+      \ to many use cases including:<br/><br/>* Allowing researchers to curate and\
+      \ aggregate content from various providers and add their own context<br/><br/>*\
+      \ Providing libraries, museums, and archives a straightforward solution for\
+      \ creating digital exhibits from the works in their repositories<br/><br/>*\
+      \ Supplying a small-scale, headless infrastructure for institutions with limited\
+      \ resources to build their own digital collections application<br/><br/>Canopy\
+      \ IIIF extends the features of Next.js to produce a full-text search index using\
+      \ FlexSearch, provides support for both IIIF Presentation API 2.x and 3.0 specifications,\
+      \ and automatically generates facets based on the curated metadata labels and\
+      \ values found within Manifests. The platform\u2019s API routes return IIIF\
+      \ collections and allow for users to reference IIIF resources internally and\
+      \ externally. In addition to these features, the product roadmap and planned\
+      \ features include expanding internationalization support, generating interactive\
+      \ maps and timelines based on the presence of navPlace and navDate properties,\
+      \ and leveraging IIIF Content State and Change Discovery APIs. In this presentation,\
+      \ we will demonstrate how Canopy IIIF can be used to host new online exhibits,\
+      \ describe challenges encountered from providing platforms, and discuss future\
+      \ plans for the framework.<br/><br/>"
+    authors:
+    - name: Mat Jordan
+      org: Northwestern University, United States of America
+    - name: Mark Baggett
+      org: University of Tennessee, United States of America
+    end: '02:44 '
+    id: '157'
+    order: 2
+    start: '02:37 '
+    title: 'Introducing Canopy IIIF: A IIIF Sourced Site Generator for Digital Collections'
+    type: Lightning talk
+  - abstract: Many scholars and institutions face a similar technical and sustainability
+      / reuse problem. They have high quality images of manuscripts, early printed
+      books, or other resources which are not easily OCR'd using standard off-the-shelf
+      OCR tools or services. They may also have good quality text for these documents,
+      created through expert or crowd-sourced transcription, stored as plaintext,
+      markdown, or TEI-XML.<br/><br/>In many cases these might have been created as
+      part of a digital critical edition, or a one-off scholarly project which has
+      no easy route to sustainable delivery via open IIIF APIs after the project ends.
+      There are many legacy projects of this type.<br/><br/>At the moment, there is
+      no easy way to bring these together via a IIIF viewer or IIIF-aware interface
+      if the transcript text contains no spatial information that can be mapped to
+      regions of a IIIF canvas.<br/><br/>I will demonstrate one approach in which
+      we use line and word level segmentation information and low quality text from
+      OCR and HTR tools, including Transformer based ML workflows, to retrofit existing
+      transcripts to IIIF images, with bounding boxes suitable for use in IIIF Content
+      Search and IIIF annotation use cases. In this way, existing scholarship can
+      be reused, rather than discarded, and brought together with images via the IIIF
+      Presentation API as part of a sustainable approach to collection delivery.<br/><br/>I
+      will present an overview of the approach, including some comparisons of different
+      open source and commodity approaches to generating text and segmentation data
+      and some brief quantitative information summarising the algorithmic approach
+      to matching transcript to image and then demo some real world examples.<br/><br/>I
+      will also provide access to a demo where conference attendees can test the approach
+      themselves.<br/><br/>
+    authors:
+    - name: Matthew McGrattan
+      org: Digirati, United Kingdom
+    end: '02:51 '
+    id: '141'
+    order: 3
+    start: '02:44 '
+    title: 'From transcript to IIIF: fitting plaintext to image via "reverse OCR"'
+    type: Lightning talk
+  - abstract: '<br/><br/>From 2020-2023, an UK-Ireland joint research networking project
+      ''IIIF4Research'' brought together researchers and heritage practitioners at
+      universities in the UK and Ireland to investigate the potential for innovative
+      forms of scholarly discussion and interchange offered by the International Image
+      Interoperability Framework (IIIF). The network explored examples of the ways
+      that IIIF enables much easier sharing, annotation and manipulation of digital
+      images from libraries, archives, galleries, and museums across institutional
+      and national boundaries, and offers researchers exciting new possibilities for
+      joint analysis, documentation and discussion of primary materials, situating
+      IIIF in the broader context of digital humanities.<br/><br/>The network carried
+      out two key activities: it carried out a survey of researchers'' use of iiif,
+      which helped build our understanding of a the use and impact of iiif, and its
+      place in the research life cycle. It also carried out a series of workshops,
+      building dialogue between arts and humanities researchers, curators and information
+      professionals intended to develop research-driven agendas for the deployment
+      and development of IIIF to investigate a wide range of primary materials and
+      archives relevant to humanities research domains. The workshops demonstrated
+      the many different ways in which IIIF supports innovative analysis and commentary
+      on the various types of source material used by arts and humanities researchers,
+      and were the basis for a series of user cases showcasing how the facilities
+      offered by IIIF are valuable in addressing particular research questions.<br/><br/>This
+      presentation will discuss the findings of these activities, and how they might
+      facilitate future development of IIIF and encourage scholarly engagement with
+      the potential of IIIF. '
+    authors:
+    - name: Lorna Hughes
+      org: University of Glasgow, United Kingdom
+    - name: Arlene Healy
+      org: Trinity College, Dublin
+    - name: Glen Robson
+      org: IIIF Consortium
+    end: '02:58 '
+    id: '171'
+    order: 4
+    start: '02:51 '
+    title: 'IIIF4Research: understanding researchers use of IIIF for'
+    type: Lightning talk
+  - abstract: "This talk will be an overview of the Avalon Media System team\u2019\
+      s recent work to implement Presentation 3 and other IIIF APIs in Avalon software.\
+      \ Work on Avalon Media System\u2019s manifest generation, Avalon\u2019s new\
+      \ general purpose IIIF-native media player, and support applications like the\
+      \ Structural Metadata Editor and Audio Timeliner will be discussed. Updates\
+      \ will also be provided on work towards increasing interoperability with other\
+      \ players, challenges with authentication, and approaches to novel implementation\
+      \ questions."
+    authors:
+    - name: Jon Cameron
+      org: Indiana University, United States of America
+    end: '03:05 '
+    id: '160'
+    order: 5
+    start: '02:58 '
+    title: Implementing Presentation 3.0 in Avalon Media System
+    type: Lightning talk
+  - abstract: One of the lesser-used features of the IIIF standard is the ability
+      to extend the core capabilities through the use of external services. One of
+      these services, present since early 2014, is thy Physical Dimension service,
+      which allows a IIIF canvas or image to indicate the real-world size of the image
+      or object depicted.<br/><br/>To demonstrate the capabilities of this service,
+      I've written a small application that lets people create print-ready IIIF images,
+      appropriately scaled for various uses.<br/><br/>Do you want a Van Gogh for your
+      Lego Minifigs? A Cassatt for your American Girl? Or do you just want to print
+      out artwork at scale for exhibition planning?<br/><br/>This talk will provide
+      visibility to this IIIF capability, showcase how interoperability makes tools
+      like this useful across the field, and hopefully adds another entry to the "Fun
+      with IIIF" list.
+    authors:
+    - name: David Newbury
+      org: Getty, United States of America
+    end: '03:12 '
+    id: '112'
+    order: 6
+    start: '03:05 '
+    title: 'Interoperable Dollhouses: Toying with the Physical Dimension Service'
+    type: Lightning talk
+  - abstract: "Native Bound Unbound is an archive of indigenous enslaved people in\
+      \ the Americas. The project aims to tell the stories of the millions of indigenous\
+      \ people who were enslaved since the arrival of Columbus. The final website\
+      \ will both publish the primary sources online and create an interconnected\
+      \ matrix of these people, the events in their lives, and the places they lived\
+      \ and worked.<br/><br/>To accomplish this, the Native Bound Unbound project\
+      \ collects a wide variety of primary sources. There are over a dozen different\
+      \ types of digital assets, ranging from baptismal records, to census records,\
+      \ to court cases, tombstones, and oral histories. The project transcribes, translates,\
+      \ analyzes, and publishes these texts by linking together tools using International\
+      \ Image Interoperability Framework.<br/><br/>Primary sources begin their journey\
+      \ by being uploaded to our IIIF image server. This is a Cantaloupe image server\
+      \ fronted by a simple web based interface that creates a IIIF manifest link.\
+      \ This link is then used to create a new transcription project in From The Page.\
+      \ Here, transcribers and domain experts transcribe the texts in a public crowdsourcing\
+      \ environment. These transcriptions are then vetted and approved by one of the\
+      \ project\u2019s editors. The editors can then export the completed transcriptions\
+      \ and associated page images to FairCopy via From The Page\u2019s IIIF export\
+      \ option.<br/><br/>FairCopy is a specialized word processor for the study and\
+      \ transcription of primary sources in literature and history. It reads and writes\
+      \ texts marked up in XML according to the Text Encoding Initiative\u2019s Guidelines\
+      \ (TEI). We are using FairCopy in the Native Bound Unbound project to structure\
+      \ and annotate transcriptions and translations in a variety of formats. For\
+      \ each primary source, the transcription and images flow in via IIIF. Users\
+      \ are able to select texts from the annotation lists in the manifest. These\
+      \ are then assembled into TEI in FairCopy.<br/><br/>The FairCopy interface can\
+      \ be customized for each project so that editors just have the elements and\
+      \ attributes they need for the job. Users can also markup up names of people\
+      \ and places, as well as identify events. Each asset type requires a specific\
+      \ markup strategy. Fortunately, TEI is quite flexible in this regard and FairCopy\
+      \ makes the process easier and more approachable to our non-technical collaborators.<br/><br/>FairCopy\
+      \ integrates with ArchivEngine, an open source server which provides version\
+      \ control and team collaboration. Using ArchivEngine, team members can check\
+      \ out texts to edit and check them in when they are done. ArchiveEngine publishes\
+      \ the texts as a IIIF Manifest via a public API.<br/><br/>ArchivEngine\u2019\
+      s IIIF manifests are then used to display the texts on the public site. This\
+      \ display utilizes EditionCrafter, an open source React component that can display\
+      \ IIIF images alongside their TEI encoded transcriptions and translations. The\
+      \ translation texts are linked to a database of people, place, and event entries\
+      \ which are also derived from the TEI encoded texts.<br/><br/>"
+    authors:
+    - name: Nicholas Laiacona
+      org: Performant Software Solutions, United States of America
+    end: '03:19 '
+    id: '138'
+    order: 7
+    start: '03:12 '
+    title: IIIF and TEI in the Native Bound Unbound Project
+    type: Lightning talk
+  - abstract: "Mirador viewer<br/><br/>Harvard is also working on updating our Mirador viewer\
+      \ implementation and improving its underlying architecture. Updating Mirador\
+      \ to the current supported version allows us to leverage a host of features\
+      \ out-of-the-box that previously required heavy customization, including a refined\
+      \ user interface and increased IIIF manifest compatibility. The Viewer team\
+      \ is working closely with the MPS team to integrate the upgraded Mirador viewer\
+      \ with the new IIIF infrastructure. The next-generation IIIF infrastructure\
+      \ generates a v3-compliant manifest that combines a number of metadata fields\
+      \ previously gathered from disparate sources. The richness of the Harvard manifest\
+      \ will unlock support for features that are highly desired by Harvard faculty\
+      \ and students. Behind the scenes a custom oEmbed service is being built to\
+      \ provide an easy way to integrate the Mirador viewer into Harvard Library\u2019\
+      s online catalog and digital collections platforms, including HOLLIS (Primo),\
+      \ Harvard Digital Collections (Blacklight) and CURIOSity (Spotlight).<br/><br/>The\
+      \ Viewer team also connects with the broader Mirador community to stay up-to-date\
+      \ with best practices and to share lessons learned through our experiences.\
+      \ Working in an open-source context allows us to share our work with the broader\
+      \ IIIF community. One such example of collaboration within the community is\
+      \ the upcoming upgrade of the dependencies of Mirador such as React. Members\
+      \ of the Mirador viewer team will showcase recent improvements to the Mirador\
+      \ viewer, the oEmbed service, and share plans on collaborating closely with\
+      \ the community.<br/><br/>"
+    authors:
+    - name: Phil Plencner
+      org: Harvard University, United States of America
+    end: '03:26 '
+    id: '109'
+    order: 8
+    start: '03:19 '
+    title: Mirador upgrade at Harvard Library
+    type: Lightning talk
+  start: '14:30 '
+  start_date: 2023-06-08 14:30
+1:
+  date: '2023-06-07'
+  day: 7
+  end: '12:30 '
+  id: 1
+  name: ''
+  session_time: 'Wednesday, June 07: 11:30am - 12:30pm'
+  sessions:
+  - abstract: "Relightable imaging techniques such as RTI create an object\u2019s\
+      \ image representation from a computational model, allowing for a user to (post-capture)\
+      \ dynamically vary image features such as the object\u2019s light reflectance,\
+      \ simulating a changing lightsource. This gives the opportunity to researchers\
+      \ and a general audience to see object details and views that might not be immediately\
+      \ visible in a single fixed view photograph. This complements IIIF\u2019s ability\
+      \ to provide a user with the ability to zoom into more detailed views of an\
+      \ object (Image API) and examine it via multiple images (Presentation API).<br/><br/>This\
+      \ complementarity leads those institutions implementing relightable images and\
+      \ IIIF to look into how the two services can be brought together, avoiding the\
+      \ need for separate image servers and image viewers by allowing relightable\
+      \ imaging techniques to be presented as part of IIIF. However, because of the\
+      \ extra information needed for the computational model used by RTI (which has\
+      \ itself not been fully standardised) and related techniques, this cannot be\
+      \ simply handled by the existing Image API, therefore extensions or standards\
+      \ development is needed for IIIF to be able to support them.<br/><br/>This panel\
+      \ discussion will look at this issue from the point of view of existing projects\
+      \ making use of relightable images for research (KU Leuven Libraries, Scuola\
+      \ Superiore Meridionale), developers implementing viewers for relightable images\
+      \ (Visual Computing Lab/CNR-ISTI, KU Leuven Libraries), and cultural heritage\
+      \ organisations experimenting with integrating such viewers into their existing\
+      \ IIIF architecture (Bodleian Libraries, Victoria & Albert Museum). Panel members\
+      \ will talk through their current projects and the state of the art on these\
+      \ topics (and where relevant, related topics that relightable development would\
+      \ need to be cognisant of, such as IIIF 3D). Following on from these short presentations,\
+      \ a group discussion will follow on the approaches needed to integrate RTI and\
+      \ related techniques into IIIF and the next steps needed to achieve this.<br/><br/>"
+    authors:
+    - name: Richard Palmer
+      org: Victoria & Albert Museum, London
+    - name: Hendrik Hameeuw
+      org: KU Leuven Libraries, Belgium
+    - name: Serena Picarelli
+      org: 'KU Leuven Libraries, Belgium;
+
+        Scuola Superiore Meridionale, Naples'
+    - name: Vincent Vanweddingen
+      org: KU Leuven Libraries, Belgium
+    - name: Federico Ponchio
+      org: Visual Computing Lab,  CNR-ISTI, Italy
+    - name: Andy Iriving
+      org: Bodleian Libraries, Oxford
+    end: '12:30 '
+    id: '114'
+    order: 1
+    start: '11:30 '
+    title: Integrating RTI and related techniques into IIIF
+    type: Panel session
+  start: '11:30 '
+  start_date: 2023-06-07 11:30
+Workshops -  Afternoon:
+  date: '2023-06-06'
+  day: 6
+  end: '17:30 '
+  id: Workshops -  Afternoon
+  name: ''
+  session_time: 'Tuesday, June 06: 01:30pm - 05:30pm'
+  sessions:
+  - abstract: Following the successful impromptu workshop arranged by 3D TSG members
+      present at the 2022 conference in Boston, the group agreed to plan additional
+      in-person workshops to continue the technical work of the group.<br/><br/>This
+      work is outlined in our Charter, which includes a Road Map, and has been developing
+      during the monthly calls, including a focus on 6 core user stories and essential
+      comparisons of the input of the same model and annotations in key 3D viewers.<br/><br/>If
+      you are interested in finding out more about the group, as well as the early
+      drafting efforts for the next Presentation API, and want to contribute to its
+      work, please do join us!
+    authors:
+    - name: Ronald S. Haynes
+      org: University of Cambridge, United Kingdom
+    - name: Edward Silverton
+      org: Mnemoscene, Universal Viewer
+    - name: Julie Winchester
+      org: Duke University, MorphoSource
+    end: '4:30 '
+    id: '163'
+    order: 2
+    start: '1:30 '
+    title: IIIF 3D - Technical Specification Group Workshop
+    type: Workshop
+  - abstract: "In the last years IIIF became the \u201Cde facto\u201D standard for\
+      \ presenting, navigating and delivering digital images on the web all over the\
+      \ world. It defines several APIs for providing a standard method for describing,\
+      \ analysing and sharing images over the web, as well as \"presentation-based\
+      \ metadata\" about structured sequences of images. However, images and, in particular,\
+      \ cultural heritage images, to be fully analysed, interpreted and enjoyed should\
+      \ be inserted in a \u201Cvirtual ecosystem\u201D in which they can be related\
+      \ with entities such as people, places, events, fonds, etc., according to different\
+      \ visions and interpretations.<br/><br/>Therefore, since 2017, we have been\
+      \ working at integrating IIIF in a Digital Library environment based on DSpace,\
+      \ the most used Open source Digital Asset Management System, developing a dedicated\
+      \ addon (starting from version 5), easily integrated with a set of external\
+      \ Image Servers, such as Cantaloupe or Digilib, and at extending DSpace data\
+      \ model as well, to structure contextual relationships among cultural heritage\
+      \ entities at different levels.<br/><br/>After DSpace 7 release, we worked with\
+      \ the community at integrating IIIF support in the official DSpace codebase.\
+      \ Now the DSpace REST API implements the IIIF Presentation API version 2.1.1,\
+      \ the IIIF Image API version 2.1.1, and the IIIF Search API version 1.0 (experimental).\
+      \ Any IIIF compliant image server can be integrated. The DSpace Angular frontend\
+      \ uses the Mirador 3.0 viewer.<br/><br/>However, Digital Library requirements\
+      \ are getting complex and complex. Therefore, to fulfil the needs of the cultural\
+      \ heritage domain, we enhanced our solutions based on DSpace 7, developing two\
+      \ further add-ons to integrate and enrich the \u201CIIIF experience\u201D within\
+      \ DSpace: the Document Viewer (for visualizing PDF files within Mirador) and\
+      \ the OCR module (for extracting text from images and indexing it).<br/><br/>Integrating\
+      \ IIIF and DSpace 7 and enriching the platform with new features, it has been\
+      \ possible to go beyond the traditional boundaries of the Digital libraries,\
+      \ structuring a complex system of relationships, building new narratives thanks\
+      \ to interdisciplinarity and the coexistence of different domains.<br/><br/>The\
+      \ proposed 2 hours workshop, addressed to librarians, archivists, historians,\
+      \ archaeologists, researchers and to all those who want to build their own digital\
+      \ library with DSpace 7 and IIIF, will introduce the attendees to the IIIF integration\
+      \ in DSpace both from the backend and from the frontend side.<br/><br/>We will\
+      \ analyze and share our approach and standard workflows for managing cultural\
+      \ heritage documents in DSpace using IIIF, starting with images submission and\
+      \ describing the operations required to make images available to the Mirador\
+      \ Image Viewer, the ones for extracting the text via OCR and for visualizing\
+      \ PDFs through the Image Viewer. Moreover, we will show how to relate items\
+      \ to each other, in order to build a complex system of relationships between\
+      \ entities, to be explored through network graphs. "
+    authors:
+    - name: Claudio Cortese
+      org: 4Science, Italy
+    - name: Andrea Bollini
+      org: 4Science, Italy
+    end: '03:30 '
+    id: '118'
+    order: 1
+    start: '01:30 '
+    title: 'IIIF and DSpace 7: integrating tools for exploring Digital Cultural Heritage'
+    type: Workshop
+  - abstract: Archipelago Commons is a stable and well maintained OSS repository system
+      that integrates user facing IIIF capabilities all across its architecture and
+      stack. From Dynamic Manifest generation (both 2.1 and 3), W3C Annotations, OCR
+      extraction and discovery, direct access to descriptive metadata with rich LoD
+      and side by side technical metadata, configurable discovery to fully configured
+      and ready to use IIIF Image API server with extensions for multiple types of
+      Media. The system also provides, out of the box, a selection of the most popular
+      IIIF capable media viewers in up to date versions and variations.<br/><br/>These
+      features and tools provide a great opportunity for community members that are
+      learning the IIIF spec(s) and want to experiment with these in a safe space
+      without having to manually deploy and configure individual tools, lowering the
+      entry barrier to IIIF. This also allows more advanced users to bring their own
+      assets, media, needs, questions, metadata, even in different languages, and
+      evaluate (or dream) IIIF implementations under their own individual or institutional
+      realities, constraints and contexts.<br/><br/>During this 4 hour workshop participants
+      will learn how to use and customize a curated selection of adapted IIIF Cookbook
+      examples, in specific those targeting the IIIF Presentation and image API version
+      3, using a locally deployable and dockerized Archipelago Commons configured
+      to serve as a learning ground. Users will be encouraged to bring their own assets
+      and Metadata, work collaboratively with their peers, and to critically evaluate
+      how IIIF can leverage their collections.<br/><br/>Participants will be provided
+      with a simple and fully automated local deployment upfront, written 101 documentation,
+      example Digital Objects and a guided set of tasks to execute during the first
+      2 hours of the workshop. Tricks of trade, Media and File Formats, specs and
+      their implementations in Viewers will be discussed. The second part will provide
+      participants with space to experiment on their own, by testing, adapting and
+      learning how to build a fully customized IIIF presentation Manifest to fulfill
+      a specific need while collaborating with their peers. The organizers will be
+      supporting each participant interactively. Focus will be put on providing a
+      respectful and inclusive environment following the IIIF Community code of conduct.<br/><br/>Even
+      if participants already run their own platform of choice(s) and/or do not intent
+      to use Archipelago in production at all, the unique approach of having a single
+      system that can cover most of the IIIF specifications and provides an easy way
+      to test the amazing IIIF community developed Cookbook recipes with their own
+      and real Digital Objects and Media, presenters will endeavor to lead participants
+      into a wider discussion about IIIF specifications best practices, File format
+      choices and Viewer selection. This workshop will be principally geared towards
+      a general audience.<br/><br/>
+    authors:
+    - name: Allison Sherrick
+      org: Metropolitan New York Library Council, United States of America
+    - name: Diego Alberto Pino Navarro
+      org: Metropolitan New York Library Council, United States of America
+    end: '05:30 '
+    id: '154'
+    order: 2
+    start: '01:30 '
+    title: 'Experimental IIIF kitchen using Archipelago: Community Cookbooks, family
+      recipes and serendipitous manifest baking using a fully stocked kitchen and
+      your own fresh ingredients'
+    type: Workshop
+  start: '13:30 '
+  start_date: 2023-06-06 13:30
+3:
+  date: '2023-06-07'
+  day: 7
+  end: '15:00 '
+  id: 3
+  name: ''
+  session_time: 'Wednesday, June 07: 02:30pm - 03:00pm'
+  sessions:
+  - abstract: Increasing the global impact of IIIF use for 2D and Audio/Video (A/V)
+      data, work has begun to draft similar standards for 3D content, with the developments
+      of the 3D Technical Specification Group. The 3D Community Group shares significant
+      projects and tools and is collaboratively considering common challenges and
+      potential solutions, with major 3D developers and researchers, and complements
+      the work of the 3D Technical Specification Group, engaging with specialists
+      and representatives across user communities, international and standards bodies,
+      as outlined in its road map. The complementary efforts of the CG and TSG is
+      working to suitably extend IIIF into the 3rd dimension, exploring opportunities
+      for better data sharing across collections and institutions, to help overcome
+      barriers for sustainable sharing. The group continues to explore suitable options
+      for incorporation of 2D and A/V with 3D data, to form digital dioramas, scene
+      and soundscape reconstructions, and the potential to help build an inclusive
+      metaverse. Please do join us!
+    authors:
+    - name: Ronald S. Haynes
+      org: University of Cambridge, United Kingdom
+    - name: Edward Silverton
+      org: Mnemoscene, Universal Viewer
+    - name: Julie Winchester
+      org: Duke University, MorphoSource
+    - name: Mike Boyd
+      org: University of Edinburgh, United Kingdom
+    end: '02:50 '
+    id: '161'
+    order: 1
+    start: '02:30 '
+    title: IIIF 3D - Evolution, Technical Specification, Future Metaverse?
+    type: Presentation
+  - abstract: 'This year, the Bodleian Libraries and the Factum Foundation have undertaken
+      a pioneering project exploring the use of high-resolution 3D and color recording
+      in the study of books and other items in library collections. Historically,
+      the digitization of surface relief in books and manuscripts has been given little
+      consideration. However, this project, known as ArchiOX, has demonstrated the
+      great potential of high-resolution 3D scanning in this area of study.<br/><br/>Two
+      complementary recording systems were used in the project: the Lucida 3D laser
+      triangulation Scanner and the Selene Photometric Stereo Scanner. Both systems
+      were designed and developed specifically for cultural heritage documentation.
+      One of the key objectives of the project was to make the recorded data available
+      seamlessly within the IIIF ecosystem, allowing for both depthmap and normal
+      map 3D scan data to be recorded as image files, often referred to as 2.5D. Over
+      a period of one year, a new methodology for processing these images for publication
+      in IIIF viewers was developed, as well as a virtual relighting tool that allows
+      researchers to observe objects as if they were physically in front of them,
+      by moving a virtual torch around their surfaces. This tool reveals details of
+      the objects'' surface that may not be visible at first glance (with or without
+      the color information)<br/><br/>The implementation of a IIIF-compatible viewer
+      for 3D scans opens up exciting new possibilities for library collections, enabling
+      researchers and the general public to engage with their unique objects in innovative
+      ways. The virtual relighting tool allows us to study objects in greater detail
+      and has already proved to be a valuable tool in the analysis and interpretation
+      of the collections. The results of this ongoing project have far-reaching implications
+      for the study and preservation of cultural heritage.<br/><br/>'
+    authors:
+    - name: Andy Irving
+      org: Bodleian Libraries, United Kingdom
+    - name: Richard Allen
+      org: Bodleian Libraries, United Kingdom
+    - name: Jorge Cano
+      org: Factum Foundation
+    - name: Carlos Bayod
+      org: Factum Foundation
+    - name: John Barrett
+      org: Bodleian Libraries, United Kingdom
+    end: '03:10 '
+    id: '120'
+    order: 2
+    start: '02:50 '
+    title: 'ArchiOx: Analysing and Recording Cultural Heritage in Oxford'
+    type: Presentation
+  start: '14:30 '
+  start_date: 2023-06-07 14:30
+6:
+  date: '2023-06-08'
+  day: 8
+  end: '10:30 '
+  id: 6
+  name: ''
+  session_time: 'Thursday, June 08: 09:30am - 10:30am'
+  sessions:
+  # - abstract: "This presentation will share how the Sinai Manuscripts Digital Library\
+  #     \ (SMDL) is using IIIF to represent the complexity of early manuscripts for\
+  #     \ online presentation and digital reinterpretation.<br/><br/>St. Catherine\u2019\
+  #     s Monastery in the Sinai possesses an extensive collection of over 4000 manuscripts,\
+  #     \ including ~1024 Arabic and Syriac manuscripts which have been imaged and published\
+  #     \ online through the Sinai Manuscripts Digital Library (SMDL). SMDL provides\
+  #     \ access to high-resolution images of these manuscripts, along with descriptive\
+  #     \ metadata. However, like many early manuscripts, the majority of Sinai manuscripts\
+  #     \ contain complexity at multiple levels \u2013 they comprise multiple works\
+  #     \ and/or codicological units; they have been disassembled and rebound in new\
+  #     \ configurations; and there are hundreds of documented palimpsests and dispersed\
+  #     \ fragments within the collection. All too often, the environments where we\
+  #     \ publish manuscript collections at scale elide these complex structures, which\
+  #     \ are crucial to understanding the histories and contexts of manuscripts and\
+  #     \ manuscript collections. IIIF, having radically impacted our ability to reimagine\
+  #     \ early manuscripts through digital means, brings with it an opportunity to\
+  #     \ model and contextualize digital manuscripts and their data, allowing us to\
+  #     \ represent and untangle the inherent complexities of early manuscripts.<br/><br/>This\
+  #     \ presentation will share how the SMDL is using IIIF to model and represent\
+  #     \ the complexities of early manuscripts in digital environments at scale, including\
+  #     \ modeling the materiality and structure of manuscripts as well as content and\
+  #     \ context; representing uncertainty and lacunae; and supporting digital reconstruction\
+  #     \ of palimpsested texts and disbound and dispersed manuscripts and their fragments.\
+  #     \ While these are not necessarily unique uses of IIIF for modeling complex objects,\
+  #     \ the SMDL provides real-world examples for showcasing how IIIF can expose these\
+  #     \ complexities in large-scale manuscript repositories.<br/><br/>We will also\
+  #     \ discuss the work the SMDL is undertaking to develop a new modular manuscripts\
+  #     \ data model that is aligned with the IIIF Presentation API and Web Annotation\
+  #     \ to better support digital reconstruction, rebinding, experimental editions,\
+  #     \ and enhanced descriptions of manuscripts by the project team and scholars/end\
+  #     \ users. Our goal is to provide the tools and data needed to study manuscripts\
+  #     \ and their components both individually and in \u201Cparts to whole\u201D relationships,\
+  #     \ and to reconfigure and re-contextualize these objects within digital spaces.<br/><br/>The\
+  #     \ presentation should be of interest to generalists and specialists alike, including\
+  #     \ implementers of IIIF who are interested in providing access to manuscripts\
+  #     \ and other complex objects beyond a simple paging view, and scholars or other\
+  #     \ users of IIIF-hosted manuscript resources that want to create digital editions\
+  #     \ or curate and assemble component parts of manuscripts for their own bespoke\
+  #     \ views. We anticipate leaving ample time for Q&A and for feedback and discussion\
+  #     \ around SMDL practices as well as the potential for future enhancements to\
+  #     \ IIIF and compliant viewers."
+  #   authors:
+  #   - name: Dawn Childress
+  #     org: UCLA, United States of America
+  #   - name: William Potter
+  #     org: UCLA, United States of America
+  #   end: '09:50 '
+  #   id: '164'
+  #   order: 1
+  #   start: '09:30 '
+  #   title: Modeling Complexity in Early Manuscripts with IIIF
+  #   type: Presentation
+  - abstract: 'The scenario of the Italian IIIF museums is quite uneven due to a still
+      initial phase in the process of digitizing the collections. Nonetheless, the
+      emphasis on how to describe and interpret historical art collections, through
+      the IIIF framework, attracts the attention of institutions whose environments
+      and connotations are heavily decorated. A research project, involving researchers
+      and students of the Venice Center for Digital and Public Humanities, aims to
+      write the IIIF Manifests for the Galleria Borghese digital catalog in Rome.<br/><br/>The
+      museum has a distinctive aspect characterized by a peculiar decorative apparatus
+      through which the collection of sculptures, paintings, and furniture is displayed.
+      It is a challenge when describing each object in digital form. In this context,
+      the spatial component plays an important role in highlighting the decorations,
+      stucco, marble, and tiles around the artwork. In order to render the complexity
+      of its spaces, the museum undertook a photographic and photogrammetric digitization
+      project to create navigable virtual models of the rooms.<br/><br/>The IIIF ecosystem
+      has been adopted to fit into this model, describing each museum room that was
+      taken with equirectangular photographs. The images were treated as if they were
+      maps to investigate and comment on, guiding the user in an amplified modality
+      of the virtual tour. The first results of this process of describing 360 images
+      will present a comparison of two versions: one using a model that benefits from
+      the last update of the API 3.0, and the other a variant that adopts the simple
+      annotation server. In general, the IIIF Presentation API structure allows creators
+      to build different relations among the resources. This operation is generally
+      accomplished through the annotations element which allows linking the IIIF digital
+      object with other resources.<br/><br/>In this case study, by examining the whole
+      Galleria Borghese collection and its physical division, we aimed to integrate
+      the multiple relations that here occur into the different IIIF Manifests. To
+      provide users with a highly immersive experience, we designed the Manifest as
+      a linked path structured in whole-part relations. This approach supports users
+      in browsing between the rooms and the artworks contained there.<br/><br/>In
+      accordance with the standard guidelines, we built these relations using the
+      IIIF annotation system along the Mirador viewer. The combination of these frameworks
+      enables to the provision of an end-to-end environment where resources could
+      be described, referenced, and linked with other resources.<br/><br/>The contribution
+      is addressed to both the general public and museum professionals. For the latter
+      in particular, the adoption of this model could facilitate the curation of collections
+      as well as collaboration in educational activities by integrating with the Storiiies
+      editor tool.<br/><br/>'
+    authors:
+    - name: Stefania De Vincentis
+      org: Ca' Foscari University of Venice, Italy
+    - name: Martin Critelli
+      org: Ca' Foscari University of Venice, Italy
+    end: '09:50 '
+    id: '159'
+    order: 1
+    start: '09:30 '
+    title: The implementation of the Galleria Borghese VR using the IIIF annotation
+      tool
+    type: Presentation
+  - abstract: "This presentation demonstrates how novel IIIF-powered tools benefit\
+      \ the research on scientific imagery in a historical perspective. Our case study,\
+      \ the Rara Magnetica research project (www.raramagnetica.de), uses the IIIF\
+      \ Presentation API to drive a research workflow and assist in the generation\
+      \ of the final research outputs, thereby extending well beyond a \u201Cdeep\
+      \ zoom on images\u201D.<br/><br/>Rara Magnetica is both a repository and an\
+      \ interactive research platform. It publishes scans and transcriptions of sources,\
+      \ data visualizations, and databases, all related to the premodern study of\
+      \ magnetism. Moreover, it provides various tools to investigate each of these\
+      \ resources independently and in combination. A major aim in fact is to enhance\
+      \ multimodal analyses that transcend media barriers by allowing research of\
+      \ imagery along with full texts, material sources along with their conceptual\
+      \ content. This is achieved by various but interlinked tools, such as ICAT,\
+      \ providing different ways of looking at the same sources.<br/><br/>Researchers\
+      \ working with historical multi-page documents, such as books or manuscripts,\
+      \ often lack a tool to store, annotate, and explore these documents in complex\
+      \ ways, extending to the documents\u2019 metadata, its full texts and its imagery\
+      \ or illustrations. ICAT is a Digital Humanities tool to serve this entire workflow,\
+      \ by employing IIIF APIs and linking to third-party tools, such as Zotero, Transkribus,\
+      \ and Vikus Viewer. Digitised copies of many of the historical documents making\
+      \ up the Rara Magnetica collection are available from their holding institutions\
+      \ via IIIF services. These resources can be transcribed and structured with\
+      \ Transkribus and image regions on the pages can be detected and marked with\
+      \ bounding boxes using computer vision tools such as Cordeep (https://cordeep.mpiwg-berlin.mpg.de/).\
+      \ ICAT coordinates this provision of data and also implements a workflow for\
+      \ annotating the content of those images. Powered by IIIF Presentation API objects\
+      \ (especially Annotations) and OpenSeadragon, multiple users can collaboratively\
+      \ tag these images using a controlled and hierarchical semantic vocabulary.<br/><br/>Tags\
+      \ can be exported as annotations against new IIIF manifests, as well as in JSON\
+      \ and CSV formats for integration with other tools, such as Vikus Viewer (https://github.com/cpietsch/vikus-viewer).\
+      \ While all ICAT data is stored in a PostgreSQL database, the ICAT UI and API\
+      \ also allows for complex searches across the documents and the image tags.\
+      \ The presentation of the search results is rendered both as IIIF Content Search\
+      \ API responses targeted at the original manifests, and also as on-the-fly dynamic\
+      \ IIIF manifests to provide an interface for researchers to discover and explore\
+      \ imagery in combination with semantic metadata.<br/><br/>Our joint conference\
+      \ presentation will demonstrate a use case and workflow for how IIIF manifests\
+      \ are imported into ICAT for tagging, how they subsequently become the subject\
+      \ to complex searches, and how search results can be displayed in the IIIF Presentation\
+      \ API. What ICAT thus offers is a platform for server-based storage, annotation,\
+      \ and exploration of imagery in multi-page documents, such as books or manuscripts."
+    authors:
+    - name: Christoph Sander
+      org: Max Planck Institute for the History of Science, Berlin
+    - name: Mike Bennett
+      org: Non-affiliated
+    end: '10:10 '
+    id: '142'
+    order: 2
+    start: '09:50 '
+    title: 'Rara Magnetica and IIIF: Semantic Annotation and Interactive Exploration
+      via ICAT'
+    type: Presentation
+  - abstract: "The Mmmonk project aims to contribute to the development of IIIF by\
+      \ providing input from a non-institutional end user\u2019s perspective on various\
+      \ issues, among which IIIF annotations. The user survey conducted at the start\
+      \ of the project showed that users were ambiguous about IIIF annotations. On\
+      \ the one hand, they were highly enthusiastic about the concept in general and\
+      \ acknowledged that it meant an advancement in working with digital images.\
+      \ On the other hand, upon deeper reflection, they were put off by a set of practical\
+      \ obstacles. A recurring concern was tied to the nature of the material studied\
+      \ by our end users and highlighted by Mmmonk: medieval manuscripts. This type\
+      \ of object is complex and multidimensional. Its digital counterpart is not\
+      \ a single image but a set of images of the binding, spine, and - often numerous\
+      \ - pages. On top of this, manuscripts are studied from a wide variety of disciplines\
+      \ or perspectives, for instance for their material and chemical properties,\
+      \ text, script, decoration, binding and provenance marks. The targeted end users\
+      \ were concerned that it would be overwhelming and confusing to see such variety\
+      \ and volume of information gathered in the setting of a viewer.<br/><br/>We\
+      \ therefore designed a proof-of-concept for the visualization of various layers\
+      \ of information in a structured and user-friendly way, which can be applied\
+      \ to manuscripts but also to other types of objects.. For this demo we have\
+      \ annotated four bifolia of the 12th century Liber Floridus at Ghent University.\
+      \ Within the constraints of the project, we focused on finding the optimal information\
+      \ architecture and user experience. We appropriated the visual language of Mirador\
+      \ 3 using Material UI and simulated a basic Mirador viewer and built our custom\
+      \ interface on top.<br/><br/>The user survey also pointed out that individual\
+      \ end users have concerns about authorship attribution and peer-review in IIIF-annotations.\
+      \ Although this was not the focus of our proof-of-concept, we did include a\
+      \ solution to credit authors and sources within the boundaries of a curated\
+      \ editorial project with various authors. In our experiment, we imagined a group\
+      \ of researchers working in various fields, whom we invited to contribute content\
+      \ in compliance with editorial guidelines designed by Mmmonk. This setting could\
+      \ also apply to other situations, for instance students working on a group project\
+      \ under the supervision of a teacher.<br/><br/>Discover the proof-of-concept\
+      \ at https://www.mmmonk.be/en/about-iiif/iiif-demo-liber-floridus<br/><br/>"
+    authors:
+    - name: Evelien Hauwaerts
+      org: Bruges Public Library, Belgium
+    - name: Bauke van der Laan
+      org: Bauke van der Laan design & development
+    end: '10:30 '
+    id: '121'
+    order: 3
+    start: '10:10 '
+    title: 'Visualizing multi-layered annotations: the case of the Liber Floridus
+      manuscript'
+    type: Presentation
+  start: '09:30 '
+  start_date: 2023-06-08 09:30
+7:
+  date: '2023-06-08'
+  day: 8
+  end: '12:00 '
+  id: 7
+  name: ''
+  session_time: 'Thursday, June 08: 11:00am - 12:00pm'
+  sessions:
+  - abstract: "Italy offers a long and solid tradition in manuscript studies. The\
+      \ access to this material has always been subject to limitations, both for the\
+      \ rarity and fragility of the document and for the scarcity and low quality\
+      \ of photographic reproductions. Only recently the country has begun more systematic\
+      \ digitization campaigns and online archiving of its enormous heritage (among\
+      \ the largest in the world). The panel brings together in three sessions the\
+      \ pioneers of IIIF in Italian-language bibliographic culture, namely the University\
+      \ of Federico II (F2), the Vatican Library (BAV) and the Central Institute for\
+      \ the Unique Catalogue (ICCU).<br/><br/>*<br/><br/>F2 highlights the usefulness\
+      \ of the IIIF framework for a thematic project such as Illuminated Dante Project,\
+      \ and explains the efforts in achieving a first descriptive model for illuminated\
+      \ manuscripts. It then presents Naples Dante Project (NDP), a web-based archive\
+      \ displaying the whole manuscript sources of Dante\u2019s works, as well as\
+      \ illustrations of the Commedia from manuscripts to 20th-century books. NDP\
+      \ is working on: 1. a new F.A.I.R.-compliant model for manuscript description\
+      \ and iconography (partner Venice VePDH); 2. a IIIF annotation tool to support\
+      \ iconographic, paleographic and textual-criticism analysis; 3. a IIIF-compliant\
+      \ tool for creating thematic paths for dissemination and educational purposes;\
+      \ 4. visualizing RTI images within the IIIF (partners KU Leuven and CNR-ISTI);\
+      \ 5. HTR training on Dante manuscripts (partners ENC and CNR-ILC); 6. the image\
+      \ matching on Dante miniatures (partner BAV).<br/><br/>*<br/><br/>BAV has implemented\
+      \ its IIIF-compliant digital library (DVL) platform and the Thematic Pathways\
+      \ on the Web project (in conjunction with Stanford University Libraries), aimed\
+      \ to demonstrate, among the advantages of the IIIF for manuscripts, how the\
+      \ annotation level is a fundamental innovation for the study of contents: transcriptions,\
+      \ comments, comparative analysis of texts and images. As a current challenge,\
+      \ the BAV is conducting a case study in the field of machine learning and IIIF.\
+      \ This talk will focus on the experience of training of a neural network, based\
+      \ on segmented digital images, pertaining to a selection of illuminated manuscripts\
+      \ and the implementation of IIIF annotations of regions of pages, classified\
+      \ by the network, corresponding to the segmented portions of images.<br/><br/>*<br/><br/>This\
+      \ talk introduces Alphabetica, the gateway to the national bibliographic databases\
+      \ managed by the ICCU. This platform includes the OPAC SBN, the Census of Italian\
+      \ 16th-century Editions (EDIT 16), the Catalogue of Ancient and Modern Manuscripts\
+      \ (ManusOnline), and other thematic databases, along with a IIIF-compliant digital\
+      \ library service, capable of linking digital resources to the library holdings,\
+      \ for the benefit of over 7.000 Italian libraries. These are different types\
+      \ of libraries, with different administrative affiliations adhering to the SBN\
+      \ community, and of many other libraries contributing in the enrichment of our\
+      \ national specialized databases. The talk will also highlight the opportunities\
+      \ that Alphabetica provides, thanks to the IIIF protocol, for both research\
+      \ and educational purposes. Finally, the presentation illustrates the role of\
+      \ Alphabetica logical model and design within the forthcoming implementation\
+      \ of the National Digital Library including all the digital assets coming from\
+      \ the Italian cultural heritage.<br/><br/>"
+    authors:
+    - name: Gennaro Ferrante
+      org: "Universit\xE0 degli studi di Napoli Federico II, Italy"
+    - name: Paola Manoni
+      org: Biblioteca Apostolica Vaticana
+    - name: "Simonetta Butt\xF2"
+      org: Istituto Centrale per il Catalogo Unico
+    end: '12:00 '
+    id: '126'
+    order: 1
+    start: '11:00 '
+    title: 'Italian voices on IIIF: current results and further developments'
+    type: Panel session
+  start: '11:00 '
+  start_date: 2023-06-08 11:00
+2:
+  date: '2023-06-07'
+  day: 7
+  end: '13:00 '
+  id: 2
+  name: ''
+  session_time: 'Wednesday, June 07: 12:30pm - 01:00pm'
+  sessions:
+  - abstract: "Viewing resources within the context of modern GIS coordinates is not\
+      \ a default behavior of IIIF viewers. Perhaps more challenging is the geographic\
+      \ information for the resource often exists on a different system with loose\
+      \ connection to the primary resource encoded with the IIIF Presentation API.\
+      \ The navPlace Extension for IIIF Presentation API 3 focuses on making geographic\
+      \ information as important as any other property. This enables ways to define,\
+      \ alter, and ultimately interact with the resources\u2019 information within\
+      \ the context of a modern map. We will look at a small number of community driven\
+      \ geographic data displays from processing the navPlace property. We will also\
+      \ give a live time demo for previewing what any IIIF resource might look like\
+      \ in one of these viewers. As something for the audience to take home, we will\
+      \ share a web app where anyone can go in with any IIIF Presentation API 3 resource,\
+      \ add simple coordinates to it, then see a preview of it in an actual navPlace\
+      \ viewer."
+    authors:
+    - name: Bryan John Haberberger
+      org: Research Computing Group at Saint Louis University
+    - name: Virginia Boyero
+      org: Swedish National Heritage Board Incubator / Beyond the Map
+    - name: Bert Spaan
+      org: Independent
+    - name: Eliot Jordan
+      org: Prince University
+    - name: Michael Appleby
+      org: Yale University
+    - name: Stace Maples
+      org: Stanford University
+    end: '12:40 '
+    id: '137'
+    order: 1
+    start: '12:30 '
+    title: IIIF Maps Implementations
+    type: Presentation
+  - abstract: "Allmaps is a set of open source tools for georeferencing, warping,\
+      \ viewing and exploring digitized maps that are available with IIIF. Geographic\
+      \ metadata is stored in a simple Web Annotation that can be embedded in the\
+      \ IIIF Presentation API. Together with the IIIF Community, a specification for\
+      \ such Georeference Annotations is in the making, with the aim to be published\
+      \ as an official IIIF Extension.<br/><br/>At the 2021 Annual Conference, we\
+      \ presented Allmaps for the first time and demonstrated the various components\
+      \ that were still in early development. Since then, we have had the pleasure\
+      \ to meet many curators, researchers, educators and developers around the world\
+      \ who are interested in using Allmaps and who would like to contribute to its\
+      \ further development.<br/><br/>This presentation highlights a selection of\
+      \ use cases that we have collected over the past two years, in combination with\
+      \ live demonstrations. In addition, we discuss how the project can evolve into\
+      \ a more robust network organization, and how the overall accessibility and\
+      \ usability for wider audiences can be improved.<br/><br/>The use cases follow\
+      \ the perspectives of institutions, researchers and students. For institutions\
+      \ that have previously engaged in georeferencing projects, Allmaps offers a\
+      \ way to simplify their infrastructure and serve geographic data as part of\
+      \ the IIIF Presentation API. Allmaps offers tools to convert data from other\
+      \ formats to Georeference Annotations, and plugins to turn IIIF images into\
+      \ map layers in popular map viewers. All of this can be hosted on premises.<br/><br/>For\
+      \ institutions that have not yet georeferenced their collection, the Allmaps\
+      \ Editor can be used to set up crowdsourcing projects. The resulting data can\
+      \ be retrieved from Allmaps and kept as part of the collection. We highlight\
+      \ the use cases of both Leiden University Libraries and the Leventhal Map &\
+      \ Education Center at the Boston Public Library.<br/><br/>Researchers working\
+      \ with digital collections often struggle getting access to data and setting\
+      \ up complex infrastructures. Long term server maintenance is often a problem.\
+      \ IIIF in combination with Allmaps makes it possible to set up a static workflow\
+      \ that requires less server maintenance and improves sustainability. The Allmaps\
+      \ Tile Server increases the compatibility with traditional GIS applications.\
+      \ After finalizing projects, research results can be more easily shared with\
+      \ the providing institutions in the form of Web Annotations. We highlight the\
+      \ use cases of OpenHistoricalMap and the French interdisciplinary research project\
+      \ SODUCO.<br/><br/>For students, Allmaps improves the overall accessibility\
+      \ and usability of georeferenced map collections. It gives students more freedom\
+      \ to collect and compare material from different sources at their own initiative.\
+      \ WebGL color masking and colorization in the Allmaps Viewer helps to compare\
+      \ different overlays. Moreover, for design students, Allmaps makes it possible\
+      \ to georeference architectural and urban plans, in order to study designs in\
+      \ a larger context and compare different solutions. We highlight the use case\
+      \ of Delft University of Technology\u2019s Faculty of Architecture and the Built\
+      \ Environment."
+    authors:
+    - name: Bert Spaan
+      org: Allmaps
+    - name: Jules Schoonman
+      org: Delft University of Technology Library
+    end: '01:00 '
+    id: '129'
+    order: 2
+    start: '12:40 '
+    title: Allmaps in Practice
+    type: Presentation
+  start: '12:30 '
+  start_date: 2023-06-07 12:30
+Workshop - Morning:
+  date: '2023-06-06'
+  day: 6
+  end: '12:00 '
+  id: Workshop - Morning
+  name: ''
+  session_time: 'Tuesday, June 06: 09:00am - 12:00pm'
+  sessions:
+  - abstract: "In this 3-hour workshop we will introduce you to ARKs (Archival Resource\
+      \ Keys), which can serve as persistent identifiers, or stable, trusted references\
+      \ for information objects (eg, image URLs that don\u2019t return 404 Page\
+      \ Not Found errors). In more than two decades, 8.2 billion ARKs have been created\
+      \ by over 1000 organizations \u2014 libraries, data centers, archives, museums,\
+      \ publishers, government agencies, and vendors.<br/><br/>We will cover:<br/><br/>
+      \ \u25CF Why ARKs -- non-paywalled, decentralized, flexible<br/><br/>
+      \ \u25CF Use cases -- Smithsonian, French National Library, Internet Archive<br/><br/>
+      \ \u25CF Metadata for early and ongoing object development<br/><br/>
+      \ \u25CF How to get started -- one form<br/><br/>
+      \ \u25CF Minting and assigning ARK identifiers<br/><br/>
+      \ \u25CF Resolvers, resolution, redirection<br/><br/>
+      \ \u25CF Object types -- digital, physical, conceptual<br/><br/>
+      \ \u25CF Persistence considerations<br/><br/>
+      \ \u25CF Available tools<br/><br/>All are welcome. No technical experience required, but there\
+      \ will be an optional technical breakout session."
+    authors:
+    - name: John Kunze
+      org: ARK Alliance / Ronin Institute, United States of America
+    - name: Donny Winston
+      org: Polyneme LLC
+    end: '12:00 '
+    id: '133'
+    order: 1
+    start: '09:00 '
+    title: Getting started with ARK persistable identifiers
+    type: Workshop
+  - abstract: "1a. Crowdsourcing and IIIF<br/><br/>In the first part of the workshop,\
+      \ we will talk about crowdsourcing using IIIF, specifically in the cultural\
+      \ and natural heritage sector. In this workshop, we will centralize the various\
+      \ user and stakeholder types (e.g. \u2018the crowd\u2019, scientific\
+      \ audiences, cultural heritage sector, academics...), and what exactly\
+      \ their requirements and needs are for crowdsourcing (with IIIF). To do so,\
+      \ we will report on user research undertaken by the Flemish Art Collection in\
+      \ Flanders (VKC), which conducted user surveys to try and determine\
+      \ do\u2019s and don\u2019ts for (IIIF) crowdsourcing, as well as our\
+      \ own experiences with use cases for crowdsourcing. We will talk about\
+      \ the context and outcomes of this user research, offer some visualizations\
+      \ through user personas, and discuss the recurring needs and requirements.<br/><br/>Following\
+      \ an outline of the user research, we will take on a more interactive approach\
+      \ in the workshop. Through some interactive exercises, we will facilitate\
+      \ a brainstorm on how IIIF can be a solution for these user needs,\
+      \ and what future requirements are needed to meet them. We will reflect\
+      \ on how crowdsourcing specialists and volunteers could benefit from existing solutions,\
+      \ software and/or platforms that perhaps already meet some of these user needs, and\
+      \ think about newer features. The goal of this workshop is to bring together\
+      \ a variety of parties interested in crowdsourcing with IIIF, to foster\
+      \ an international community.<br/><br/>1b. Madoc as a platform for crowdsourcing:\
+      \ Needs, Requirements and Roadmap<br/><br/>In the second part of the workshop,\
+      \ we will start with an introduction to the platform Madoc, by demonstrating\
+      \ some specific crowdsourcing use cases by various institutions. Madoc is an\
+      \ open source platform for the enrichment of IIIF digital objects. We will provide\
+      \ a comprehensive understanding of Madoc for attendees and how it can\
+      \ be applied to various annotation and crowdsourcing use cases. We\
+      \ will also discuss some of the viewpoints of why certain features\
+      \ were requested, based on use cases and experiences of GhentCDH and\
+      \ National Library of Wales. Through hands-on exercises, we will allow attendees\
+      \ to test some of the features of Madoc, particularly the display,\
+      \ enrichment (e.g. annotations, translations, transcriptions, metadata\
+      \ harvesting, ...) and curation of IIIF digital collections. The next\
+      \ step is then to apply some of the findings of the first part of the workshop\
+      \ to the platform, and particularly reflect on current features of\
+      \ Madoc. Next, we will reflect in a group on (1) how current features\
+      \ already are solutions for IIIF and crowdsourcing, as well as (2) potential\
+      \ next requirements for the platform to cater to existing common needs. This\
+      \ session will facilitate further development and direction of both\
+      \ the Madoc community and platform. We will further refine the workshop\
+      \ in the upcoming months to meet the needs of existing users and other\
+      \ known interested parties.<br/><br/>Workshop Itinerary<br/><br/>Part 1 - IIIF\
+      \ and Crowdsourcing (1.5 hours)<br/><br/>\u25CF Outlining user requirements\
+      \ for IIIF and crowdsourcing<br/><br/>\u25CF Brainstorming on potential IIIF\
+      \ solutions for these requirements<br/><br/>15 min break<br/><br/>Part 2 - Madoc\
+      \ Use Cases and Community-building (1.5 hours)<br/><br/>Reflect on Madoc\u2019\
+      s core capabilities as a IIIF crowdsourcing solution through example projects,\
+      \ demonstrations and experiences from existing users<br/><br/>\u25CF Get hands-on\
+      \ experience of Madoc using some simple exercises with a sandbox<br/><br/>environment<br/><br/>\u25CF\
+      \ Brainstorming common issues, requirements and missing features<br/><br/>\u25CF\
+      \ Prioritisation and product roadmapping exercise<br/><br/>\u25CF Discuss next\
+      \ steps for the Madoc community"
+    authors:
+    - name: Lise Foket
+      org: Ghent University
+    - name: Rein Debrulle
+      org: Ghent University
+    end: '12:00 '
+    id: '173'
+    order: 3
+    start: '09:00 '
+    title: 'IIIF in crowdsourcing and citizen science practices: A workshop on the
+      user needs and an outline of use cases with Madoc'
+    type: Workshop
+  - abstract: 'This will be a hands on workshop looking at the different tools that
+      are available in the IIIF Commons Github organisation. It will include special
+      focus on the Thumbnail panel which was developed early this year. '
+    authors:
+    - name: Glen Robson
+      org: IIIF, United Kingdom
+    - name: Adam Arling
+      org: Northwestern University Libraries, USA
+    - name: Mat Jordan
+      org: Northwestern University Libraries, USA
+    - name: Ed Silverton
+      org: Mnemoscene, United Kingdom
+    - name: Stephen Fraser
+      org: Digirati, United Kingdom
+    end: '11:30 '
+    id: '165'
+    order: 3
+    start: '09:30 '
+    title: IIIF Commons Workshop
+    type: Workshop    
+  start: '09:00 '
+  start_date: 2023-06-06 09:00

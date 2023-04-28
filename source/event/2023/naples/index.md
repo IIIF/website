@@ -23,43 +23,29 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 ### **Overview**
 
-* Location: Naples, Italy (Map of venue locations and more coming soon)
+* Location: Naples, Italy (see [locations](#locations) below)
     * IIIF Showcase: June 5, 2023
     * Workshops and meetings: June 6, 2023
     * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
-* Registration will open in early February. Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
+* Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket. Registration closes May 16, 2023.
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC and WHO recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
 ### **Register**
 
-* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index).
-
-### Travel Scholarship
-
-In order to foster a conference environment that better reflects the diversity of the IIIF community, the IIIF Consortium is pleased to announce two travel scholarships to attend the Annual Conference. Please see the [2023 IIIF Conference Travel Scholarship][scholarship] page for more information. The application deadline is February 28, 2023.
+* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index). Registration will close on May 16, 2023.
 
 ### **Travel**
 
 * Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details on pre-arranged rates.
 
-Note: the lowest rates expire January 31, so book soon if you intend on joining us in Naples!
+Note: book as soon as possible if you intend on joining us in Naples, rates are rising due to the recent success of the Napoli football club!
 
-<!-- ### **Schedule**
+### **Schedule**
 
-* See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2022/cambridge/schedule) for the conference. -->
+* See the [schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2023/naples/schedule) for the conference, as well as the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/workshops) for the schedule of optional pre-conference workshops.
 
-### Call for proposals
-
-The IIIF Conference Program Committee [invites proposals]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/) for presentation in the following formats:
-
-* Up to a ½ day workshop (4 hours)
-* 7 to 10 minute lightning talks
-* 15-20 minute presentations (plus 5-10 mins questions)
-* 90 minute open block (Could be panel session or grouped presentations) 
-
-Proposal of no longer than 500 words are due **February 6** via the submissions portal; see the [CfP page for more submission details including themes and requirements]({{ site.root_url | absolute_url }}/news/2023/01/09/call-for-proposals/).
 
 ### Program committee
 
@@ -86,7 +72,6 @@ Thank you to the 2023 local planning committee:
 * Chiara Fusco
 * Pierfrancesco Valentini di Castromediano
 
-
 ### **Sponsors**
 
 We are offering sponsorship for the 2023 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2023/naples/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io).
@@ -95,61 +80,35 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 {% include 2023_sponsors.html %} 
 
+### Locations
+
+**Showcase - 6/5**
+
+Università degli Studi di Napoli Federico II - Chiesa dei Santi Marcellino e Festo<br>
+Largo S. Marcellino, 10, 80138 Napoli NA, Italy
+
+**Workshops - 6/6**
+
+Università degli Studi di Napoli Federico II - Dipartimento di Studi Umanistici<br>
+Via Porta di Massa, 1, 80133 Napoli NA, Italy
+
+**Conference - 6/7 and 6/8**
+
+Università degli Studi di Napoli Federico II - Scuola Politecnica e delle Scienze di Base - Complesso Napoli Est<br>
+Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
+
+**Reception - 6/7**
+
+Villa Ferretti <br>
+Via Castello, 14, 80070 Bacoli NA, Italy
+
+_Buses will take reception attendees from the Conference directly to Villa Ferretti. Following the receptions, buses will return to University Center (Umberto I, 40, 80138 Napoli NA)._
+
+{% include 2023_locations.html %} 
+
 ### **Questions?**
 
 Reach out to us at staff@iiif.io.
-
-
-<!-- ### Outline program
-
-The final program will continue to develop over the next few months but please see the outline below which gives an overview of the Boston IIIF Showcase and Conference. Note the Showcase will require a separate registration to the Conference.
-
-<table class="api-table">
-    <thead>
-        <tr>
-            <th>&nbsp;</th>
-            <th><b>Showcase</b></th>
-            <th colspan="3"><b>Conference</b></th>
-        </tr>
-        <tr>
-            <th>Time</th>
-            <th>Monday 1st June 2020</th>
-            <th>Tuesday 2nd June 2020</th>
-            <th>Wednesday 3rd June 2020</th>
-            <th>Thursday 4th June 2020</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Morning</td>
-            <td>&nbsp;</td>
-            <td>Workshops</td>
-            <td>Plenary lightning talks and parallel sessions</td>
-            <td>Parallel sessions</td>
-        </tr>
-        <tr>
-            <td>Afternoon</td>
-            <td>Showcase</td>
-            <td>Conference plenary including community updates and lightning talks</td>
-            <td>Parallel sessions</td>
-            <td>Closing lightning talks and panel sessions</td>
-        </tr>
-        <tr>
-            <td>Evening</td>
-            <td>&nbsp;</td>
-            <td>Conference reception</td>
-            <td>IIIF Consortium members' reception</td>
-            <td>&nbsp;</td>
-        </tr>
-    </tbody>
-</table>    --> 
-
-<!-- ### Locations
-
-* June 6, IIIF Showcase: Building 10 Room 250, MIT campus
-* June 7-8, Main Conference: Boylston Hall 110-Fong Auditorium, Harvard campus 
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12xQYwT3lW4hjdJaRWlBayMjb3e0_OQZo&ctrl=true" style="width: 100%; height: 600px"></iframe> -->
 
 
 [iiif]: https://iiif.io/
