@@ -12,6 +12,10 @@ These tools offer user interfaces for working with IIIF resources in various way
 
 If you find these helpful, you may also want to explore the [IIIF Awesome list][awesome]{:.external} for even more links to tools, demos, tutorials, and other resources.
 
+See also:
+- [IIIF Image and A/V Viewers]({{ site.root_url | absolute_url }}/get-started/iiif-viewers/)
+
+
 ### Platforms 
 
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/).
@@ -24,9 +28,11 @@ If you find these helpful, you may also want to explore the [IIIF Awesome list][
 Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).
 
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
+- [Adno](https://adno.app/en/) - Adno is a web application for viewing, editing and sharing narratives and journeys on online images, static images and IIIF images.
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
+- [MLOL Stories](https://iiif.medialibrary.it/stories/) - A tool to promote the use of digital collections through innovative online narratives (in Italian).
 - [Omeka-S plugins](https://omeka.org/s/modules/IiifServer/)
 - [Spotlight](http://spotlight.projectblacklight.org/){:data-proofer-ignore=''} - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
 - [Storiiies Editor](https://storiiies-editor.cogapp.com/) – a free online storytelling platform for creating guided tours of a single IIIF manifest using annotations.
