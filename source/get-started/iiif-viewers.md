@@ -57,8 +57,36 @@ TIFY is displaying a IIIF Manifest from [Göttingen State and University Library
 
 ---   
 
-## [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/){:.external}
+### [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/){:.external}
 
 A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. This viewer is not embeddable but you can try it yourself[ here](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=http://codh.rois.ac.jp/pmjt/book/200024363/manifest.json&lang=en){:.external}.
 
 ![curation board screenshot]({{ site.root_url | absolute_url }}/assets/uploads/curation-board.jpg "curation viewer screenshot")
+
+---
+
+### [Annona](https://ncsu-libraries.github.io/annona/){:.external}
+
+Annona is a JavaScript library that allows users to display IIIF images and annotations in a visual format. 
+
+![Annona screenshot]({{ site.root_url | absolute_url }}/assets/uploads/annona.jpg "annona viewer screenshot")
+
+---
+
+### [Clover](https://samvera-labs.github.io/clover-iiif/){:.external}
+
+A IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvases for React.js
+
+![clover screenshot]({{ site.root_url | absolute_url }}/assets/uploads/clover.jpg "clover screenshot")
+
+
+## Audio/visual materials viewers
+
+- [Mirador](https://mirador-dev.netlify.app/__tests__/integration/mirador/video)
+- [Universal Viewer](https://uv-v4.netlify.app/)
+- [IIIF React Media Player (Ramp)](https://iiif-react-media-player.netlify.app/)
+- [Clover](https://samvera-labs.github.io/clover-iiif/)
+- [Europeana Media Player](https://github.com/europeana/media-player)
+- [Aviary](http://aviary-iiif.s3-website-us-east-1.amazonaws.com/)
+- [Audio Timeliner](https://timeliner.dlib.indiana.edu)
+- [AudiAnnotate](https://hipstas.github.io/documentation/adding-an-audiovisual-item)
