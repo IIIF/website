@@ -1,6 +1,6 @@
 ---
 title: "IIIF Viewers"
-layout: spec
+layout: page
 breadcrumbs:
  - label: Get Started
    link: /get-started/
