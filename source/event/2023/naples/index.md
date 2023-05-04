@@ -20,6 +20,7 @@ The event includes a free **showcase** meant to introduce newcomers to IIIF, and
 
 This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_url }}/event/conduct).
 
+{% include 2023_hosts.html %}
 
 ### **Overview**
 
