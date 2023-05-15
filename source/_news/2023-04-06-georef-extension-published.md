@@ -40,7 +40,7 @@ The [Maps TSG](https://iiif.io/community/groups/maps-tsg/) was [chartered in Jun
 
 {% include content/inline-image.html image='assets/uploads/maptime.png' image_link='http://map.rerum.io/?iiif-content=https://iiif.io/api/cookbook/recipe/0154-geo-extension/manifest.json' alt_text="The IIIF Map and Timeline demo" caption='The IIIF Map and Timeline demo from Mike Appleby shows how to combine the IIIF navPlace and navDate properties in a single view.' %}
 
-The group will continue on for the time being to promote the work and to create additional cookbook recipes and tutorials for how to make the best use of spatial assets in a IIIF context. This work will be featured at the [IIIF Annual Conference](https://iiif.io/event/2023/naples/schedule/) in Naples Italy, June 7 and 8.
+The group will continue on for the time being to promote the work and to create additional cookbook recipes and tutorials for how to make the best use of spatial assets in a IIIF context. This work will be featured at the [IIIF Annual Conference](https://iiif.io/event/2023/naples/schedule/) in Naples, Italy, June 7 and 8.
 
 We would like to thank the co-chairs of the IIIF Maps groups, the many IIIF community members who contributed to the development of these extensions, as well as the IIIF Editors for guiding the process to publication.
 
