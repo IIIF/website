@@ -20,6 +20,7 @@ The event includes a free **showcase** meant to introduce newcomers to IIIF, and
 
 This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_url }}/event/conduct).
 
+{% include 2023_hosts.html %}
 
 ### **Overview**
 
@@ -28,19 +29,19 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
     * Workshops and meetings: June 6, 2023
     * Conference: June 7-8, 2023
 * Registration for the IIIF showcase is free.
-* Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket
+* Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket. Registration closes May 16, 2023.
 * Language: All event proceedings will be in English unless otherwise noted.
 * Covid-19: Precautions will align with CDC and WHO recommendations and the requirements of the host institutions. As the global situation continues to rapidly change, we will have more details available as we get closer to the event dates.
 
 ### **Register**
 
-* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index).
+* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index). Registration will close on May 16, 2023.
 
 ### **Travel**
 
 * Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2023/naples/travel) for more details on pre-arranged rates.
 
-Note: the lowest rates expire January 31, so book soon if you intend on joining us in Naples!
+Note: book as soon as possible if you intend on joining us in Naples, rates are rising due to the recent success of the Napoli football club!
 
 ### **Schedule**
 

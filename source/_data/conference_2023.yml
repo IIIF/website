@@ -328,48 +328,48 @@ Showcase:
     title: 'Crossing the borders: Multimodal Cross-Domain Approaches using IIIF'
     type: Presentation
   - abstract: "In active development since 2015, MemoRekall is a free and open source\
-      \ web app for the<br/><br/>documentation and preservation of time-based media.\
-      \ The app is an interface that allows for<br/><br/>the redocumenarisation of\
-      \ a primary video resource: the user provides a Youtube or Vimeo<br/><br/>video\
+      \ web app for the documentation and preservation of time-based media.\
+      \ The app is an interface that allows for the redocumenarisation of\
+      \ a primary video resource: the user provides a Youtube or Vimeo video\
       \ to which they can append intra- and inter-documentary, multi-modal annotations\
-      \ (links,<br/><br/>files, other MemoRekall projects etc.). The arrangement of\
-      \ these documents creates a<br/><br/>capsule which can be shared and embedded.\
-      \ MemoRekall is a powerful yet simple tool that<br/><br/>is already used by\
-      \ a wide range of users: researchers, artists, cultural institutions and<br/><br/>mediators,\
-      \ teachers and students.<br/><br/>MemoRekall is currently in a new phase of\
-      \ development with the primary goal of rendering it<br/><br/>compatible with\
-      \ IIIF. This new version is developed as plugins and patches for the<br/><br/>widely-used\
+      \ (links, files, other MemoRekall projects etc.). The arrangement of\
+      \ these documents creates a capsule which can be shared and embedded.\
+      \ MemoRekall is a powerful yet simple tool that is already used by\
+      \ a wide range of users: researchers, artists, cultural institutions and mediators,\
+      \ teachers and students. MemoRekall is currently in a new phase of\
+      \ development with the primary goal of rendering it compatible with\
+      \ IIIF. This new version is developed as plugins and patches for the widely-used\
       \ Mirador viewer and takes full advantage of the latest developments of IIIF\u2019\
-      s<br/><br/>Presentation API. Our source code is available at https://gitlab.tetras-libre.fr/iiif/\
-      \ and builds<br/><br/>upon a previous Mirador fork supporting video from Tokyo\
-      \ University<br/><br/>(https://github.com/2SC1815J/mirador), as well as an annotation\
-      \ plugin for images that we<br/><br/>extended to support video (https://github.com/ProjectMirador/mirador-annotations).\
-      \ Our<br/><br/>contributions include the update of those projects and their\
-      \ extension to support the<br/><br/>annotation of a manifest with another manifest.<br/><br/>We\
+      s Presentation API. Our source code is available at https://gitlab.tetras-libre.fr/iiif/\
+      \ and builds upon a previous Mirador fork supporting video from Tokyo\
+      \ University (https://github.com/2SC1815J/mirador), as well as an annotation\
+      \ plugin for images that we extended to support video (https://github.com/ProjectMirador/mirador-annotations).\
+      \ Our contributions include the update of those projects and their\
+      \ extension to support the annotation of a manifest with another manifest.<br/><br/>We\
       \ propose:<br/>- A fully functional video player and annotator within Mirador\
-      \ built upon existing work<br/><br/>mentioned above.<br/>- The creation of manifest\
-      \ networks: each annotation can refer to another manifest,<br/><br/>allowing\
+      \ built upon existing work mentioned above.<br/>- The creation of manifest\
+      \ networks: each annotation can refer to another manifest, allowing\
       \ the creation of complex networks of multi-modal content. Leaning on IIIF\u2019\
-      s<br/><br/>interoperability capabilities, this also means that networks can\
-      \ be constituted from a<br/><br/>number of different sources.<br/>- Dynamic\
-      \ network navigation in Mirador: annotations linked to other manifests can be<br/><br/>opened\
-      \ directly in the same instance of Mirador, allowing for a seamless navigation<br/><br/>experience.<br/><br/>We\
+      s interoperability capabilities, this also means that networks can\
+      \ be constituted from a number of different sources.<br/>- Dynamic\
+      \ network navigation in Mirador: annotations linked to other manifests can be opened\
+      \ directly in the same instance of Mirador, allowing for a seamless navigation experience.<br/><br/>We\
       \ also aim to ensure full retrocompatibility with existing MemoRekall projects\
-      \ in order to<br/><br/>support our current user-base and encourage a dialogue\
-      \ between them and the IIIF<br/><br/>community.<br/><br/>This work has been\
-      \ driven by a concrete case study in the context of the Horizon 2020<br/><br/>COESO\
+      \ in order to support our current user-base and encourage a dialogue\
+      \ between them and the IIIF community.<br/><br/>This work has been\
+      \ driven by a concrete case study in the context of the Horizon 2020 COESO\
       \ project. A pilot manifest network was constructed around this project and\
-      \ served as<br/><br/>the basis for our working prototype. It has allowed us\
-      \ to follow a practice-led design<br/><br/>approach, and has brought to light\
-      \ a number of issues that will be important going forth.<br/><br/>Notably, we\
-      \ intend to adopt a git-inspired version control model, allowing for different<br/><br/>versions\
-      \ of manifest networks and cumulative and comparative work between different<br/><br/>researchers.\
-      \ This addresses a fundamental issue in SHS analysis where each researcher<br/><br/>can\
+      \ served as the basis for our working prototype. It has allowed us\
+      \ to follow a practice-led design approach, and has brought to light\
+      \ a number of issues that will be important going forth. Notably, we\
+      \ intend to adopt a git-inspired version control model, allowing for different versions\
+      \ of manifest networks and cumulative and comparative work between different researchers.\
+      \ This addresses a fundamental issue in SHS analysis where each researcher can\
       \ propose radically different ideas on the same set of resources. Leaning on\
-      \ IIIF,<br/><br/>MemoRekall wishes to propose an environment where these perspectives\
-      \ co-exist in a<br/><br/>dynamic and intelligible way. This will also pave the\
+      \ IIIF, MemoRekall wishes to propose an environment where these perspectives\
+      \ co-exist in a dynamic and intelligible way. This will also pave the\
       \ way for the integration of AI- and ML-driven corpus analysis tools which shall\
-      \ be the subject of our next phase of<br/><br/>development."
+      \ be the subject of our next phase of development."
     authors:
     - name: Clarisse Bardiot
       org: Rennes 2 University
@@ -383,7 +383,7 @@ Showcase:
     id: '172'
     order: 4
     start: '02:30 '
-    title: Memorekall-IIIF, a Mirador extension supporting video annotation and a
+    title: MemoRekall-IIIF, a Mirador extension supporting video annotation and a
       network of IIIF manifests
     type: Presentation
   start: '13:30 '
@@ -481,55 +481,6 @@ Showcase:
     title: Utilising IIIF and Knowledge Bases for Searching for People within Historical
       Newspaper and Journal Articles
     type: Presentation
-  - abstract: 'The scenario of the Italian IIIF museums is quite uneven due to a still
-      initial phase in the process of digitizing the collections. Nonetheless, the
-      emphasis on how to describe and interpret historical art collections, through
-      the IIIF framework, attracts the attention of institutions whose environments
-      and connotations are heavily decorated. A research project, involving researchers
-      and students of the Venice Center for Digital and Public Humanities, aims to
-      write the IIIF Manifests for the Galleria Borghese digital catalog in Rome.<br/><br/>The
-      museum has a distinctive aspect characterized by a peculiar decorative apparatus
-      through which the collection of sculptures, paintings, and furniture is displayed.
-      It is a challenge when describing each object in digital form. In this context,
-      the spatial component plays an important role in highlighting the decorations,
-      stucco, marble, and tiles around the artwork. In order to render the complexity
-      of its spaces, the museum undertook a photographic and photogrammetric digitization
-      project to create navigable virtual models of the rooms.<br/><br/>The IIIF ecosystem
-      has been adopted to fit into this model, describing each museum room that was
-      taken with equirectangular photographs. The images were treated as if they were
-      maps to investigate and comment on, guiding the user in an amplified modality
-      of the virtual tour. The first results of this process of describing 360 images
-      will present a comparison of two versions: one using a model that benefits from
-      the last update of the API 3.0, and the other a variant that adopts the simple
-      annotation server. In general, the IIIF Presentation API structure allows creators
-      to build different relations among the resources. This operation is generally
-      accomplished through the annotations element which allows linking the IIIF digital
-      object with other resources.<br/><br/>In this case study, by examining the whole
-      Galleria Borghese collection and its physical division, we aimed to integrate
-      the multiple relations that here occur into the different IIIF Manifests. To
-      provide users with a highly immersive experience, we designed the Manifest as
-      a linked path structured in whole-part relations. This approach supports users
-      in browsing between the rooms and the artworks contained there.<br/><br/>In
-      accordance with the standard guidelines, we built these relations using the
-      IIIF annotation system along the Mirador viewer. The combination of these frameworks
-      enables to the provision of an end-to-end environment where resources could
-      be described, referenced, and linked with other resources.<br/><br/>The contribution
-      is addressed to both the general public and museum professionals. For the latter
-      in particular, the adoption of this model could facilitate the curation of collections
-      as well as collaboration in educational activities by integrating with the Storiiies
-      editor tool.<br/><br/>'
-    authors:
-    - name: Stefania De Vincentis
-      org: Ca' Foscari University of Venice, Italy
-    - name: Martin Critelli
-      org: Ca' Foscari University of Venice, Italy
-    end: '05:20 '
-    id: '159'
-    order: 4
-    start: '05:00 '
-    title: The implementation of the Galleria Borghese VR using the IIIF annotation
-      tool
-    type: Presentation
   - abstract: "Since late 2022, Rensselaer Polytechnic Institute (RPI) has been collaborating\
       \ with the Metropolitan New York Library Council (METRO) to implement Archipelago,\
       \ a flexible, extensible, and deeply IIIF-integrated open source digital objects\
@@ -581,10 +532,10 @@ Showcase:
       org: Metropolitan New York Library Council, United States of America
     - name: Brenden McCarthy
       org: Rensselaer Polytechnic Institute, United States of America
-    end: '05:40 '
+    end: '05:20 '
     id: '147'
-    order: 5
-    start: '05:20 '
+    order: 4
+    start: '05:00 '
     title: Mapping an Engineer Through IIIF
     type: Presentation
   start: '16:00 '
@@ -842,54 +793,53 @@ Showcase:
     title: "\u201CSharing the Cherry\u201D: AIUCD for IIIF good practices in the Italian\
       \ DH community."
     type: Lightning talk
-  - abstract: "Native Bound Unbound is an archive of indigenous enslaved people in\
-      \ the Americas. The project aims to tell the stories of the millions of indigenous\
-      \ people who were enslaved since the arrival of Columbus. The final website\
-      \ will both publish the primary sources online and create an interconnected\
-      \ matrix of these people, the events in their lives, and the places they lived\
-      \ and worked.<br/><br/>To accomplish this, the Native Bound Unbound project\
-      \ collects a wide variety of primary sources. There are over a dozen different\
-      \ types of digital assets, ranging from baptismal records, to census records,\
-      \ to court cases, tombstones, and oral histories. The project transcribes, translates,\
-      \ analyzes, and publishes these texts by linking together tools using International\
-      \ Image Interoperability Framework.<br/><br/>Primary sources begin their journey\
-      \ by being uploaded to our IIIF image server. This is a Cantaloupe image server\
-      \ fronted by a simple web based interface that creates a IIIF manifest link.\
-      \ This link is then used to create a new transcription project in From The Page.\
-      \ Here, transcribers and domain experts transcribe the texts in a public crowdsourcing\
-      \ environment. These transcriptions are then vetted and approved by one of the\
-      \ project\u2019s editors. The editors can then export the completed transcriptions\
-      \ and associated page images to FairCopy via From The Page\u2019s IIIF export\
-      \ option.<br/><br/>FairCopy is a specialized word processor for the study and\
-      \ transcription of primary sources in literature and history. It reads and writes\
-      \ texts marked up in XML according to the Text Encoding Initiative\u2019s Guidelines\
-      \ (TEI). We are using FairCopy in the Native Bound Unbound project to structure\
-      \ and annotate transcriptions and translations in a variety of formats. For\
-      \ each primary source, the transcription and images flow in via IIIF. Users\
-      \ are able to select texts from the annotation lists in the manifest. These\
-      \ are then assembled into TEI in FairCopy.<br/><br/>The FairCopy interface can\
-      \ be customized for each project so that editors just have the elements and\
-      \ attributes they need for the job. Users can also markup up names of people\
-      \ and places, as well as identify events. Each asset type requires a specific\
-      \ markup strategy. Fortunately, TEI is quite flexible in this regard and FairCopy\
-      \ makes the process easier and more approachable to our non-technical collaborators.<br/><br/>FairCopy\
-      \ integrates with ArchivEngine, an open source server which provides version\
-      \ control and team collaboration. Using ArchivEngine, team members can check\
-      \ out texts to edit and check them in when they are done. ArchiveEngine publishes\
-      \ the texts as a IIIF Manifest via a public API.<br/><br/>ArchivEngine\u2019\
-      s IIIF manifests are then used to display the texts on the public site. This\
-      \ display utilizes EditionCrafter, an open source React component that can display\
-      \ IIIF images alongside their TEI encoded transcriptions and translations. The\
-      \ translation texts are linked to a database of people, place, and event entries\
-      \ which are also derived from the TEI encoded texts.<br/><br/>"
+  - abstract: "The proposed paper aims to present the use of IIIF in the Manuscriptorium\
+      \ Digital Library, with the main focus put on a brand-new IIIF-compatible tool\
+      \ for document and image annotations.<br/><br/>Manuscriptorium has already fully\
+      \ implemented IIIF Image API as well as IIIF Presentation API interfaces, enabling\
+      \ it to display documents directly from the repositories of its content partners.\
+      \ At the same time, Manuscriptorium provides IIIF functionality to those partners\
+      \ that do not have their own IIIF-compatible repositories at their disposal.\
+      \ As a result, all the content aggregated in Manuscriptorium is currently available\
+      \ in the form of IIIF manifests, which can be visualised in any IIIF viewer\
+      \ available. Moreover, the new Manuscriptorium reader along with the integrated\
+      \ Mirador viewer enables its users to view and further work with documents from\
+      \ any IIIF-compatible repository (i.e. even those that are not being aggregated\
+      \ by Manuscriptorium). That is a major milestone in the development of Manuscriptorium\
+      \ as one the biggest aggregators in the field of written cultural heritage,\
+      \ effectively making it possible to view as well as research immense digitised\
+      \ material available on the internet in one dedicated environment, with one\
+      \ prerequisite only: the IIIF compatibility.<br/><br/>The new Manuscriptorium\
+      \ Annotation Module allows its users to add notes and comments to the digitised\
+      \ documents which they wish to view or further work with. The development of\
+      \ the module follows on from previous efforts in Manuscriptorium to disseminate\
+      \ personal content as much as possible \u2013 Manuscriptorium has already given\
+      \ its users opportunity to create as well as publish their own collections and\
+      \ virtual documents in the IIIF format, which was enabled by a tool for generating\
+      \ IIIF manifests and collections.<br/><br/>The annotation module goes even further.\
+      \ Above all, it enables to create annotations that can then be visualised as\
+      \ a fully structured text. Such annotation may relate to a whole virtual document,\
+      \ selected page image or even to a chosen image segment. In addition to that,\
+      \ the module is interconnected with Manuscriptorium IIIF manifest provider,\
+      \ meaning that the system is able to load users' annotations and enrich the\
+      \ original document manifest with them. Such enriched manifest then exists separately\
+      \ with its own URL and can be used both in Manuscriptorium and outside it, provided\
+      \ that the user marks the content as public. It is therefore possible to share\
+      \ the enriched manifest with other Manuscriptorium users as well as users of\
+      \ other systems. In practice, the users will be able to view the document \u2013\
+      \ either in Manuscriptorium, or elsewhere \u2013 along with the added annotations."
     authors:
-    - name: Nicholas Laiacona
-      org: Performant Software Solutions, United States of America
+    - name: "Tom\xE1\u0161 Klimek"
+      org: National Library of the Czech Republic, Czech Republic
+    - name: "Michael Lu\u017En\xFD"
+      org: National Library of the Czech Republic, Czech Republic
+    - name: "Zden\u011Bk Uhl\xED\u0159"
+      org: National Library of the Czech Republic, Czech Republic
     end: '03:49 '
     id: '116'
     order: 7
     start: '03:42 '
-    title: IIIF and TEI in the Native Bound Unbound Project
+    title: Manuscriptorium Annotation Module
     type: Lightning talk
   - abstract: 'Throughout the Edo period, an idiosyncratic geometric discourse flourished
       in Japan, surviving in form of the so-called Sangaku: votive tablets presenting
@@ -1262,78 +1212,56 @@ Showcase:
     start: '03:05 '
     title: 'Interoperable Dollhouses: Toying with the Physical Dimension Service'
     type: Lightning talk
-  - abstract: "The proposed paper aims to present the use of IIIF in the Manuscriptorium\
-      \ Digital Library, with the main focus put on a brand-new IIIF-compatible tool\
-      \ for document and image annotations.<br/><br/>Manuscriptorium has already fully\
-      \ implemented IIIF Image API as well as IIIF Presentation API interfaces, enabling\
-      \ it to display documents directly from the repositories of its content partners.\
-      \ At the same time, Manuscriptorium provides IIIF functionality to those partners\
-      \ that do not have their own IIIF-compatible repositories at their disposal.\
-      \ As a result, all the content aggregated in Manuscriptorium is currently available\
-      \ in the form of IIIF manifests, which can be visualised in any IIIF viewer\
-      \ available. Moreover, the new Manuscriptorium reader along with the integrated\
-      \ Mirador viewer enables its users to view and further work with documents from\
-      \ any IIIF-compatible repository (i.e. even those that are not being aggregated\
-      \ by Manuscriptorium). That is a major milestone in the development of Manuscriptorium\
-      \ as one the biggest aggregators in the field of written cultural heritage,\
-      \ effectively making it possible to view as well as research immense digitised\
-      \ material available on the internet in one dedicated environment, with one\
-      \ prerequisite only: the IIIF compatibility.<br/><br/>The new Manuscriptorium\
-      \ Annotation Module allows its users to add notes and comments to the digitised\
-      \ documents which they wish to view or further work with. The development of\
-      \ the module follows on from previous efforts in Manuscriptorium to disseminate\
-      \ personal content as much as possible \u2013 Manuscriptorium has already given\
-      \ its users opportunity to create as well as publish their own collections and\
-      \ virtual documents in the IIIF format, which was enabled by a tool for generating\
-      \ IIIF manifests and collections.<br/><br/>The annotation module goes even further.\
-      \ Above all, it enables to create annotations that can then be visualised as\
-      \ a fully structured text. Such annotation may relate to a whole virtual document,\
-      \ selected page image or even to a chosen image segment. In addition to that,\
-      \ the module is interconnected with Manuscriptorium IIIF manifest provider,\
-      \ meaning that the system is able to load users' annotations and enrich the\
-      \ original document manifest with them. Such enriched manifest then exists separately\
-      \ with its own URL and can be used both in Manuscriptorium and outside it, provided\
-      \ that the user marks the content as public. It is therefore possible to share\
-      \ the enriched manifest with other Manuscriptorium users as well as users of\
-      \ other systems. In practice, the users will be able to view the document \u2013\
-      \ either in Manuscriptorium, or elsewhere \u2013 along with the added annotations."
+  - abstract: "Native Bound Unbound is an archive of indigenous enslaved people in\
+      \ the Americas. The project aims to tell the stories of the millions of indigenous\
+      \ people who were enslaved since the arrival of Columbus. The final website\
+      \ will both publish the primary sources online and create an interconnected\
+      \ matrix of these people, the events in their lives, and the places they lived\
+      \ and worked.<br/><br/>To accomplish this, the Native Bound Unbound project\
+      \ collects a wide variety of primary sources. There are over a dozen different\
+      \ types of digital assets, ranging from baptismal records, to census records,\
+      \ to court cases, tombstones, and oral histories. The project transcribes, translates,\
+      \ analyzes, and publishes these texts by linking together tools using International\
+      \ Image Interoperability Framework.<br/><br/>Primary sources begin their journey\
+      \ by being uploaded to our IIIF image server. This is a Cantaloupe image server\
+      \ fronted by a simple web based interface that creates a IIIF manifest link.\
+      \ This link is then used to create a new transcription project in From The Page.\
+      \ Here, transcribers and domain experts transcribe the texts in a public crowdsourcing\
+      \ environment. These transcriptions are then vetted and approved by one of the\
+      \ project\u2019s editors. The editors can then export the completed transcriptions\
+      \ and associated page images to FairCopy via From The Page\u2019s IIIF export\
+      \ option.<br/><br/>FairCopy is a specialized word processor for the study and\
+      \ transcription of primary sources in literature and history. It reads and writes\
+      \ texts marked up in XML according to the Text Encoding Initiative\u2019s Guidelines\
+      \ (TEI). We are using FairCopy in the Native Bound Unbound project to structure\
+      \ and annotate transcriptions and translations in a variety of formats. For\
+      \ each primary source, the transcription and images flow in via IIIF. Users\
+      \ are able to select texts from the annotation lists in the manifest. These\
+      \ are then assembled into TEI in FairCopy.<br/><br/>The FairCopy interface can\
+      \ be customized for each project so that editors just have the elements and\
+      \ attributes they need for the job. Users can also markup up names of people\
+      \ and places, as well as identify events. Each asset type requires a specific\
+      \ markup strategy. Fortunately, TEI is quite flexible in this regard and FairCopy\
+      \ makes the process easier and more approachable to our non-technical collaborators.<br/><br/>FairCopy\
+      \ integrates with ArchivEngine, an open source server which provides version\
+      \ control and team collaboration. Using ArchivEngine, team members can check\
+      \ out texts to edit and check them in when they are done. ArchiveEngine publishes\
+      \ the texts as a IIIF Manifest via a public API.<br/><br/>ArchivEngine\u2019\
+      s IIIF manifests are then used to display the texts on the public site. This\
+      \ display utilizes EditionCrafter, an open source React component that can display\
+      \ IIIF images alongside their TEI encoded transcriptions and translations. The\
+      \ translation texts are linked to a database of people, place, and event entries\
+      \ which are also derived from the TEI encoded texts.<br/><br/>"
     authors:
-    - name: "Tom\xE1\u0161 Klimek"
-      org: National Library of the Czech Republic, Czech Republic
-    - name: "Michael Lu\u017En\xFD"
-      org: National Library of the Czech Republic, Czech Republic
-    - name: "Zden\u011Bk Uhl\xED\u0159"
-      org: National Library of the Czech Republic, Czech Republic
+    - name: Nicholas Laiacona
+      org: Performant Software Solutions, United States of America
     end: '03:19 '
     id: '138'
     order: 7
     start: '03:12 '
-    title: Manuscriptorium Annotation Module
+    title: IIIF and TEI in the Native Bound Unbound Project
     type: Lightning talk
-  - abstract: "Part 1: IIIF infrastructure<br/><br/>The Library Technology Services\
-      \ (LTS) team at Harvard University has completed designing, building, and implementing\
-      \ the next-generation IIIF image delivery infrastructure for the Harvard Library,\
-      \ Media Presentation Services (MPS). LTS maintains the IIIF infrastructure for\
-      \ delivering images and metadata to Harvard Library platforms such as HOLLIS\
-      \ (the Harvard Library catalog) and Harvard Digital Collections (public access\
-      \ to more than 6 million objects). The IIIF environment is also used by the\
-      \ Harvard Art Museums, HUIT Academic Technology (with integration into Canvas)\
-      \ and Vice Provost for Advances in Learning (VPAL), and is considered critical\
-      \ university-wide infrastructure for teaching and research. The IIIF infrastructure\
-      \ currently supports images, page-turned-objects, file downloads, and annotation\
-      \ delivery. LTS is also working on extending the IIIF infrastructure to support\
-      \ multimedia content including Audio/Visual media.<br/><br/>Members of the Harvard\
-      \ team will host a series of presentations and demonstrations to showcase recent\
-      \ work on the IIIF implementation project. Our main focus will be on collaboration,\
-      \ user impact, and engagement with the community. We\u2019ll describe how the\
-      \ system is designed as core generic infrastructure that serves a wide variety\
-      \ of departments across the university, while also supporting local specialized\
-      \ use cases. Engineers will also explain the architecture principles guiding\
-      \ the designs and show the technical plans and system architecture diagrams.\
-      \ A full walkthrough of the entire asset ingest and delivery workflow will be\
-      \ shown with recorded demos. This presentation will be both informative to a\
-      \ technical audience and interesting to a general audience.<br/><br/>Part 2:\
-      \ Mirador viewer<br/><br/>Harvard is also working on updating our Mirador viewer\
+  - abstract: "Mirador viewer<br/><br/>Harvard is also working on updating our Mirador viewer\
       \ implementation and improving its underlying architecture. Updating Mirador\
       \ to the current supported version allows us to leverage a host of features\
       \ out-of-the-box that previously required heavy customization, including a refined\
@@ -1362,7 +1290,7 @@ Showcase:
     id: '109'
     order: 8
     start: '03:19 '
-    title: IIIF infrastructure redesign and Mirador upgrade at Harvard Library
+    title: Mirador upgrade at Harvard Library
     type: Lightning talk
   start: '14:30 '
   start_date: 2023-06-08 14:30
@@ -1646,57 +1574,106 @@ Workshops -  Afternoon:
   name: ''
   session_time: 'Thursday, June 08: 09:30am - 10:30am'
   sessions:
-  - abstract: "This presentation will share how the Sinai Manuscripts Digital Library\
-      \ (SMDL) is using IIIF to represent the complexity of early manuscripts for\
-      \ online presentation and digital reinterpretation.<br/><br/>St. Catherine\u2019\
-      s Monastery in the Sinai possesses an extensive collection of over 4000 manuscripts,\
-      \ including ~1024 Arabic and Syriac manuscripts which have been imaged and published\
-      \ online through the Sinai Manuscripts Digital Library (SMDL). SMDL provides\
-      \ access to high-resolution images of these manuscripts, along with descriptive\
-      \ metadata. However, like many early manuscripts, the majority of Sinai manuscripts\
-      \ contain complexity at multiple levels \u2013 they comprise multiple works\
-      \ and/or codicological units; they have been disassembled and rebound in new\
-      \ configurations; and there are hundreds of documented palimpsests and dispersed\
-      \ fragments within the collection. All too often, the environments where we\
-      \ publish manuscript collections at scale elide these complex structures, which\
-      \ are crucial to understanding the histories and contexts of manuscripts and\
-      \ manuscript collections. IIIF, having radically impacted our ability to reimagine\
-      \ early manuscripts through digital means, brings with it an opportunity to\
-      \ model and contextualize digital manuscripts and their data, allowing us to\
-      \ represent and untangle the inherent complexities of early manuscripts.<br/><br/>This\
-      \ presentation will share how the SMDL is using IIIF to model and represent\
-      \ the complexities of early manuscripts in digital environments at scale, including\
-      \ modeling the materiality and structure of manuscripts as well as content and\
-      \ context; representing uncertainty and lacunae; and supporting digital reconstruction\
-      \ of palimpsested texts and disbound and dispersed manuscripts and their fragments.\
-      \ While these are not necessarily unique uses of IIIF for modeling complex objects,\
-      \ the SMDL provides real-world examples for showcasing how IIIF can expose these\
-      \ complexities in large-scale manuscript repositories.<br/><br/>We will also\
-      \ discuss the work the SMDL is undertaking to develop a new modular manuscripts\
-      \ data model that is aligned with the IIIF Presentation API and Web Annotation\
-      \ to better support digital reconstruction, rebinding, experimental editions,\
-      \ and enhanced descriptions of manuscripts by the project team and scholars/end\
-      \ users. Our goal is to provide the tools and data needed to study manuscripts\
-      \ and their components both individually and in \u201Cparts to whole\u201D relationships,\
-      \ and to reconfigure and re-contextualize these objects within digital spaces.<br/><br/>The\
-      \ presentation should be of interest to generalists and specialists alike, including\
-      \ implementers of IIIF who are interested in providing access to manuscripts\
-      \ and other complex objects beyond a simple paging view, and scholars or other\
-      \ users of IIIF-hosted manuscript resources that want to create digital editions\
-      \ or curate and assemble component parts of manuscripts for their own bespoke\
-      \ views. We anticipate leaving ample time for Q&A and for feedback and discussion\
-      \ around SMDL practices as well as the potential for future enhancements to\
-      \ IIIF and compliant viewers."
+  # - abstract: "This presentation will share how the Sinai Manuscripts Digital Library\
+  #     \ (SMDL) is using IIIF to represent the complexity of early manuscripts for\
+  #     \ online presentation and digital reinterpretation.<br/><br/>St. Catherine\u2019\
+  #     s Monastery in the Sinai possesses an extensive collection of over 4000 manuscripts,\
+  #     \ including ~1024 Arabic and Syriac manuscripts which have been imaged and published\
+  #     \ online through the Sinai Manuscripts Digital Library (SMDL). SMDL provides\
+  #     \ access to high-resolution images of these manuscripts, along with descriptive\
+  #     \ metadata. However, like many early manuscripts, the majority of Sinai manuscripts\
+  #     \ contain complexity at multiple levels \u2013 they comprise multiple works\
+  #     \ and/or codicological units; they have been disassembled and rebound in new\
+  #     \ configurations; and there are hundreds of documented palimpsests and dispersed\
+  #     \ fragments within the collection. All too often, the environments where we\
+  #     \ publish manuscript collections at scale elide these complex structures, which\
+  #     \ are crucial to understanding the histories and contexts of manuscripts and\
+  #     \ manuscript collections. IIIF, having radically impacted our ability to reimagine\
+  #     \ early manuscripts through digital means, brings with it an opportunity to\
+  #     \ model and contextualize digital manuscripts and their data, allowing us to\
+  #     \ represent and untangle the inherent complexities of early manuscripts.<br/><br/>This\
+  #     \ presentation will share how the SMDL is using IIIF to model and represent\
+  #     \ the complexities of early manuscripts in digital environments at scale, including\
+  #     \ modeling the materiality and structure of manuscripts as well as content and\
+  #     \ context; representing uncertainty and lacunae; and supporting digital reconstruction\
+  #     \ of palimpsested texts and disbound and dispersed manuscripts and their fragments.\
+  #     \ While these are not necessarily unique uses of IIIF for modeling complex objects,\
+  #     \ the SMDL provides real-world examples for showcasing how IIIF can expose these\
+  #     \ complexities in large-scale manuscript repositories.<br/><br/>We will also\
+  #     \ discuss the work the SMDL is undertaking to develop a new modular manuscripts\
+  #     \ data model that is aligned with the IIIF Presentation API and Web Annotation\
+  #     \ to better support digital reconstruction, rebinding, experimental editions,\
+  #     \ and enhanced descriptions of manuscripts by the project team and scholars/end\
+  #     \ users. Our goal is to provide the tools and data needed to study manuscripts\
+  #     \ and their components both individually and in \u201Cparts to whole\u201D relationships,\
+  #     \ and to reconfigure and re-contextualize these objects within digital spaces.<br/><br/>The\
+  #     \ presentation should be of interest to generalists and specialists alike, including\
+  #     \ implementers of IIIF who are interested in providing access to manuscripts\
+  #     \ and other complex objects beyond a simple paging view, and scholars or other\
+  #     \ users of IIIF-hosted manuscript resources that want to create digital editions\
+  #     \ or curate and assemble component parts of manuscripts for their own bespoke\
+  #     \ views. We anticipate leaving ample time for Q&A and for feedback and discussion\
+  #     \ around SMDL practices as well as the potential for future enhancements to\
+  #     \ IIIF and compliant viewers."
+  #   authors:
+  #   - name: Dawn Childress
+  #     org: UCLA, United States of America
+  #   - name: William Potter
+  #     org: UCLA, United States of America
+  #   end: '09:50 '
+  #   id: '164'
+  #   order: 1
+  #   start: '09:30 '
+  #   title: Modeling Complexity in Early Manuscripts with IIIF
+  #   type: Presentation
+  - abstract: 'The scenario of the Italian IIIF museums is quite uneven due to a still
+      initial phase in the process of digitizing the collections. Nonetheless, the
+      emphasis on how to describe and interpret historical art collections, through
+      the IIIF framework, attracts the attention of institutions whose environments
+      and connotations are heavily decorated. A research project, involving researchers
+      and students of the Venice Center for Digital and Public Humanities, aims to
+      write the IIIF Manifests for the Galleria Borghese digital catalog in Rome.<br/><br/>The
+      museum has a distinctive aspect characterized by a peculiar decorative apparatus
+      through which the collection of sculptures, paintings, and furniture is displayed.
+      It is a challenge when describing each object in digital form. In this context,
+      the spatial component plays an important role in highlighting the decorations,
+      stucco, marble, and tiles around the artwork. In order to render the complexity
+      of its spaces, the museum undertook a photographic and photogrammetric digitization
+      project to create navigable virtual models of the rooms.<br/><br/>The IIIF ecosystem
+      has been adopted to fit into this model, describing each museum room that was
+      taken with equirectangular photographs. The images were treated as if they were
+      maps to investigate and comment on, guiding the user in an amplified modality
+      of the virtual tour. The first results of this process of describing 360 images
+      will present a comparison of two versions: one using a model that benefits from
+      the last update of the API 3.0, and the other a variant that adopts the simple
+      annotation server. In general, the IIIF Presentation API structure allows creators
+      to build different relations among the resources. This operation is generally
+      accomplished through the annotations element which allows linking the IIIF digital
+      object with other resources.<br/><br/>In this case study, by examining the whole
+      Galleria Borghese collection and its physical division, we aimed to integrate
+      the multiple relations that here occur into the different IIIF Manifests. To
+      provide users with a highly immersive experience, we designed the Manifest as
+      a linked path structured in whole-part relations. This approach supports users
+      in browsing between the rooms and the artworks contained there.<br/><br/>In
+      accordance with the standard guidelines, we built these relations using the
+      IIIF annotation system along the Mirador viewer. The combination of these frameworks
+      enables to the provision of an end-to-end environment where resources could
+      be described, referenced, and linked with other resources.<br/><br/>The contribution
+      is addressed to both the general public and museum professionals. For the latter
+      in particular, the adoption of this model could facilitate the curation of collections
+      as well as collaboration in educational activities by integrating with the Storiiies
+      editor tool.<br/><br/>'
     authors:
-    - name: Dawn Childress
-      org: UCLA, United States of America
-    - name: William Potter
-      org: UCLA, United States of America
+    - name: Stefania De Vincentis
+      org: Ca' Foscari University of Venice, Italy
+    - name: Martin Critelli
+      org: Ca' Foscari University of Venice, Italy
     end: '09:50 '
-    id: '164'
+    id: '159'
     order: 1
     start: '09:30 '
-    title: Modeling Complexity in Early Manuscripts with IIIF
+    title: The implementation of the Galleria Borghese VR using the IIIF annotation
+      tool
     type: Presentation
   - abstract: "This presentation demonstrates how novel IIIF-powered tools benefit\
       \ the research on scientific imagery in a historical perspective. Our case study,\
