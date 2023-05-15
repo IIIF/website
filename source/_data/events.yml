@@ -1,10 +1,3 @@
-- label: "May 2023 IIIF Online Training (5-Day Course)"
-  time:
-    start: 2023-05-15T18:00:00Z
-    end: 2023-05-19T19:00:00Z
-  links:
-    - label: More info and register
-      link: "https://www.eventbrite.com/e/may-2023-iiif-online-training-5-day-course-tickets-554793160277"
 - label: IIIF Annual Conference 2023
   time:
     start: 2023-06-05T06:00:00Z
@@ -18,8 +11,8 @@
     label: "Naples, Italy"
 - label: "July 2023 IIIF Online Training (5-Day Course)"
   time:
-    start: 2023-07-10T21:00:00Z
-    end: 2023-07-11T22:00:00Z
+    start: 2023-07-17T21:00:00Z
+    end: 2023-07-21T22:00:00Z
   links:
     - label: More info and register
       link: "https://www.eventbrite.com/e/july-2023-iiif-online-training-5-day-course-tickets-554794684837"
