@@ -82,7 +82,7 @@ The conference program on June 7 and 8 will take place at the University of Napl
     <tr>
         <td>9:15 - 10:15</td>
         <td>Welcome and opening remarks</td>
-        <td></td>
+        <td>Antonella Negri & Tiziana Mancinelli, Ministry of Culture, Institute for the Digitization of Cultural Heritage, and Emiliano Degl’Innocenti, European Research Infrastructures, National Hub</td>
     </tr>    
     <tr>
         <td>10:30 - 11:00</td>
