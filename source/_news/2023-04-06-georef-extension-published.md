@@ -14,7 +14,7 @@ _New capabilities unlocked include photo geotagging, map-based search result nav
 
 ---
 
-{% include content/inline-image.html image="assets/uploads/allmaps.png" image_link="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fimages%2Fde355aec39f77556" alt_text="The Allmaps viewer" caption="An example of the Georeference extension as see in the Allmaps viewer showing a 1948 view of Zutphen, Netherlands" %}
+{% include content/inline-image.html image="assets/uploads/allmaps.png" image_link="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fimages%2Fde355aec39f77556" alt_text="The Allmaps viewer" caption="An example of the Georeference extension as seen in the Allmaps viewer showing a 1948 view of Zutphen, Netherlands" %}
 
 The IIIF Consortium and the IIIF [Maps Technical Specification Group (TSG)](https://iiif.io/community/groups/maps-tsg/) are pleased to announce the publication of the [Georeference Extension specification](https://iiif.io/api/extension/georef/). This extension builds on the [IIIF Presentation API 3.0]({{ site.api_url | absolute_url }}/presentation/3/), which provides a standardized way to describe and annotate digital objects. The extension unlocks new capabilities for working with digitized maps, including the ability to overlay any IIIF-compliant map image on top of a standard web map with no specialized GIS software or file formats required. This new specification makes it possible to use any IIIF-compliant image in a mapping context (for example, as a base layer for historical town and city views) and unlocks other functionality like the ability to search for collection items via map-based interfaces.
 
