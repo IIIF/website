@@ -1335,9 +1335,8 @@ Showcase:
     - name: Hendrik Hameeuw
       org: KU Leuven Libraries, Belgium
     - name: Serena Picarelli
-      org: 'KU Leuven Libraries, Belgium;
-
-        Scuola Superiore Meridionale, Naples'
+      org: 'Scuola Superiore Meridionale, Naples;
+      KU Leuven University, Belgium'
     - name: Vincent Vanweddingen
       org: KU Leuven Libraries, Belgium
     - name: Federico Ponchio
@@ -1664,8 +1663,6 @@ Workshops -  Afternoon:
       as well as collaboration in educational activities by integrating with the Storiiies
       editor tool.<br/><br/>'
     authors:
-    - name: Stefania De Vincentis
-      org: Ca' Foscari University of Venice, Italy
     - name: Martin Critelli
       org: Ca' Foscari University of Venice, Italy
     end: '09:50 '
@@ -1835,6 +1832,12 @@ Workshops -  Afternoon:
       org: Biblioteca Apostolica Vaticana
     - name: "Simonetta Butt\xF2"
       org: Istituto Centrale per il Catalogo Unico
+    - name: "Alice Semboloni"
+      org: Funzionario Bibliotecario
+    - name: "Valentina Atturo"
+      org: Funzionario ICCU
+    - name: "Marco Scarbaci"
+      org: ICCU Consultant
     end: '12:00 '
     id: '126'
     order: 1
