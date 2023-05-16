@@ -88,7 +88,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
                 <tr>
                     <td>3:15pm</td>
                     <td>A IIIF-Compliant Tool for Describing Medieval Manuscripts</td>
-                    <td>Fara Autiero, Venice Centre for Digital and Public Humanities (VeDPH); Sandra Gorla, University of Naples Federico II, Italy; Daniele Fusi, University of Naples Federico II, Italy</td>
+                    <td>Fara Autiero, Scuola Superiore Meridionale, Naples; Sandra Gorla, University of Naples Federico II, Italy; Daniele Fusi, Venice Center for Digital and Public Humanities (VeDPH)</td>
                      
            
         </tr>
