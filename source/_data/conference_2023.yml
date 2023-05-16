@@ -1832,11 +1832,11 @@ Workshops -  Afternoon:
       org: Biblioteca Apostolica Vaticana
     - name: "Simonetta Butt\xF2"
       org: Istituto Centrale per il Catalogo Unico
-      - name: "Alice Semboloni"
+    - name: "Alice Semboloni"
       org: Funzionario Bibliotecario
-      - name: "Valentina Atturo"
+    - name: "Valentina Atturo"
       org: Funzionario ICCU
-      - name: "Marco Scarbaci"
+    - name: "Marco Scarbaci"
       org: ICCU Consultant
     end: '12:00 '
     id: '126'
