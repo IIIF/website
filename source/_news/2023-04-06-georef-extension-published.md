@@ -38,7 +38,7 @@ The georeference extension builds on previous work from the Maps TSG, including 
 
 The [Maps TSG](https://iiif.io/community/groups/maps-tsg/) was [chartered in June 2020](https://iiif.io/community/groups/maps-tsg/charter/), and has completed in record time its goal of publishing the navPlace and georeferencing extensions. 
 
-{% include content/inline-image.html image='assets/uploads/maptime.png' image_link='http://map.rerum.io/?iiif-content=https://iiif.io/api/cookbook/recipe/0154-geo-extension/manifest.json' alt_text="The IIIF Map and Timeline demo" caption='The IIIF Map and Timeline demo from Mike Appleby shows how to combine the IIIF navPlace and navDate properties in a single view.' %}
+{% include content/inline-image.html image='assets/uploads/maptime.png' image_link='https://mikeapp.github.io/maptime-demo/?iiif-content=https://mikeapp.github.io/manifest-fixtures/collection/test.json' alt_text="The IIIF Map and Timeline demo" caption='The IIIF Map and Timeline demo from Mike Appleby shows how to combine the IIIF navPlace and navDate properties in a single view.' %}
 
 The group will continue on for the time being to promote the work and to create additional cookbook recipes and tutorials for how to make the best use of spatial assets in a IIIF context. This work will be featured at the [IIIF Annual Conference](https://iiif.io/event/2023/naples/schedule/) in Naples, Italy, June 7 and 8.
 
