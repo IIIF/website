@@ -35,13 +35,13 @@ sections:
 
 The outline schedules of the conference is available below. The exact timing of each day’s schedule is still subject to change.
 
-### **Register**
+<!-- ### **Register**
 
 * Please register for the conference using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2023/index.php?page=index).
 
 
 * Registration for the IIIF showcase is free.
-* osts for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket.
+* Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket. -->
 
 ### **Sponsors**
 
@@ -59,13 +59,15 @@ See the [showcase][showcase] page for the detailed schedule of speakers.
 ## June 6
 ### Conference Workshops
 
-See the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/workshops) for the schedule of optional pre-conference workshops. To register for a workshop spot (free with conference registration), you can select an option through your [Conftool profile](https://www.conftool.org/iiif2023/index.php?page=index).
+See the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/workshops) for the schedule of optional pre-conference workshops. Attendees must be registered for the free workshops in order to attend, due to space constraints. 
 
 
 ## June 7
 ### Conference 
 
-The conference program on June 7 and 8 will take place at the University of Naples Apple Developer Academy auditorium (see [location](#locations) below for the full address).
+The conference program on June 7 and 8 will take place here:
+Università degli Studi di Napoli Federico II - Scuola Politecnica e delle Scienze di Base - Complesso Napoli Est<br>
+Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
 
 <table class="api-table">
     <thead>
