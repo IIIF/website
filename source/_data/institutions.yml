@@ -3,9 +3,9 @@
 #   iiifc: 1, 2, 3 (new full memmber) or 4 (associate member)
 #   new: true or false (adds logo to homepage if true)
 #   logo: Path to logo image
-- name: 4Science
-  uri:  https://www.4science.it/en/
-  iiifc:
+- name: 4Science S.p.A.
+  uri:  https://www.4science.com/
+  iiifc: 4
 - name: Art Institute of Chicago
   uri:  https://www.artic.edu/
   iiifc:
@@ -221,7 +221,7 @@
   logo: assets/uploads/logos/National_gallery_art_logo.png
 - name: National Institute of Informatics
   uri: https://www.nii.ac.jp/
-  iiifc: 2
+  iiifc: 
   logo: assets/uploads/logos/NII_mainLogo.gif
 - name: National Institute of Japanese Literature, National Institutes for Humanities, Japan
   uri: https://www.nijl.ac.jp/en/
@@ -280,6 +280,9 @@
   uri: https://www.lib.ncsu.edu/
   iiifc: 2
   logo: assets/uploads/logos/nc_state_logo.jpg
+- name: Norman B. Leventhal Map & Education Center and Boston Public Library
+  uri: https://www.leventhalmap.org/
+  iiifc: 4
 - name: Northwestern University Libraries
   uri: https://www.library.northwestern.edu/
   iiifc: 3
