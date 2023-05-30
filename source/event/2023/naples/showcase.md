@@ -20,9 +20,9 @@ On Monday, June 5th, the IIIF Consortium will present a special half-day IIIF Sh
 
 Come join us for a half-day free event that will educate, inspire, and reinvent your technical infrastructure. **The event is free, but space is limited. [Please register early to guarantee yourself a spot!](https://www.conftool.org/iiif2023/index.php?page=index)** All event proceedings will be in English unless otherwise noted. 
 
-[Free showcase registration available on Conftool.](https://www.conftool.org/iiif2023/index.php?page=index)
+<!-- [Free showcase registration available on Conftool.](https://www.conftool.org/iiif2023/index.php?page=index)
 
-For accommodation and travel information please see the [travel page][travel].
+For accommodation and travel information please see the [travel page][travel]. -->
 
 
 ### Who is it for?
