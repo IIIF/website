@@ -45,12 +45,12 @@ page_gen:
 #   link_label: This is a test link
 
 
-banner:
-  enabled: true
-  title: "Registration closes May 16 for the 2023 IIIF Annual Conference!"
-  subtitle: "Register now to secure your spot."
-  link: 'https://iiif.io/event/2023/naples/'
-  link_label: Learn more
+# banner:
+#   enabled: true
+#   title: "Registration closes May 16 for the 2023 IIIF Annual Conference!"
+#   subtitle: "Register now to secure your spot."
+#   link: 'https://iiif.io/event/2023/naples/'
+#   link_label: Learn more
 
 # Jekyll SEO plugin info
 #title: IIIF APIs and Community Site
