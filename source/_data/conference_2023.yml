@@ -103,7 +103,7 @@ Showcase:
       have a library that adheres to the MLOL platform, and have conducted educational
       activities using the IIIF-based tools on the MLOL platform.
     authors:
-    - name: Giulio Blasi
+    - name: Andrea Zanni
       org: MLOL, Italy
     end: '01:47 '
     id: '100'
@@ -605,28 +605,43 @@ Showcase:
     start: '03:07 '
     title: Visualizing IIIF Collections
     type: Lightning talk
-  - abstract: This lightning talk will introduce the iiif-prezi3 Python library, a
-      successor to the original iiif-prezi library.<br/><br/>Developed over the last
-      two years by a group of volunteers in the IIIF community, the iiif-prezi3 library
-      aims to provide a quick and easy way for developers of all skill levels and
-      familiarity with the IIIF Presentation API 3.0 to generate valid JSON-LD for
-      Presentation API resources.<br/><br/>During the lightning talk, we will cover
-      a brief history of the development of the library, an introduction to the principles
-      underlying it such as the use of the Pydantic modeling and validation library,
-      and demonstrate some real world examples of the library in use, both inside
-      workflows and standalone.
+  - abstract:  '<br/><br/>From 2020-2023, an UK-Ireland joint research networking project
+      ''IIIF4Research'' brought together researchers and heritage practitioners at
+      universities in the UK and Ireland to investigate the potential for innovative
+      forms of scholarly discussion and interchange offered by the International Image
+      Interoperability Framework (IIIF). The network explored examples of the ways
+      that IIIF enables much easier sharing, annotation and manipulation of digital
+      images from libraries, archives, galleries, and museums across institutional
+      and national boundaries, and offers researchers exciting new possibilities for
+      joint analysis, documentation and discussion of primary materials, situating
+      IIIF in the broader context of digital humanities.<br/><br/>The network carried
+      out two key activities: it carried out a survey of researchers'' use of iiif,
+      which helped build our understanding of a the use and impact of iiif, and its
+      place in the research life cycle. It also carried out a series of workshops,
+      building dialogue between arts and humanities researchers, curators and information
+      professionals intended to develop research-driven agendas for the deployment
+      and development of IIIF to investigate a wide range of primary materials and
+      archives relevant to humanities research domains. The workshops demonstrated
+      the many different ways in which IIIF supports innovative analysis and commentary
+      on the various types of source material used by arts and humanities researchers,
+      and were the basis for a series of user cases showcasing how the facilities
+      offered by IIIF are valuable in addressing particular research questions.<br/><br/>This
+      presentation will discuss the findings of these activities, and how they might
+      facilitate future development of IIIF and encourage scholarly engagement with
+      the potential of IIIF. '
+
     authors:
-    - name: Mike Bennett
-      org: Non-affilliated
+    - name: Lorna Hughes
+      org: University of Glasgow, United Kingdom
     - name: Glen Robson
       org: IIIF-C
-    - name: iiif-prezi3 maintainers
-      org: Assorted
+    - name: Arlene Healy
+      org: Trinity College, Dublin
     end: '03:21 '
     id: '130'
     order: 3
     start: '03:14 '
-    title: 'iiif-prezi3: Python library for working with the IIIF Presentation 3 API'
+    title: 'IIIF4Research: understanding researchers use of IIIF'
     type: Lightning talk
   - abstract: "This short presentation will showcase the work of an ongoing project\
       \ (Jan 2023 \u2013 Jun 2024) led by three early career researchers at the University\
@@ -1137,42 +1152,28 @@ Showcase:
     start: '02:44 '
     title: 'From transcript to IIIF: fitting plaintext to image via "reverse OCR"'
     type: Lightning talk
-  - abstract: '<br/><br/>From 2020-2023, an UK-Ireland joint research networking project
-      ''IIIF4Research'' brought together researchers and heritage practitioners at
-      universities in the UK and Ireland to investigate the potential for innovative
-      forms of scholarly discussion and interchange offered by the International Image
-      Interoperability Framework (IIIF). The network explored examples of the ways
-      that IIIF enables much easier sharing, annotation and manipulation of digital
-      images from libraries, archives, galleries, and museums across institutional
-      and national boundaries, and offers researchers exciting new possibilities for
-      joint analysis, documentation and discussion of primary materials, situating
-      IIIF in the broader context of digital humanities.<br/><br/>The network carried
-      out two key activities: it carried out a survey of researchers'' use of iiif,
-      which helped build our understanding of a the use and impact of iiif, and its
-      place in the research life cycle. It also carried out a series of workshops,
-      building dialogue between arts and humanities researchers, curators and information
-      professionals intended to develop research-driven agendas for the deployment
-      and development of IIIF to investigate a wide range of primary materials and
-      archives relevant to humanities research domains. The workshops demonstrated
-      the many different ways in which IIIF supports innovative analysis and commentary
-      on the various types of source material used by arts and humanities researchers,
-      and were the basis for a series of user cases showcasing how the facilities
-      offered by IIIF are valuable in addressing particular research questions.<br/><br/>This
-      presentation will discuss the findings of these activities, and how they might
-      facilitate future development of IIIF and encourage scholarly engagement with
-      the potential of IIIF. '
+  - abstract: 'This lightning talk will introduce the iiif-prezi3 Python library, a
+      successor to the original iiif-prezi library.<br/><br/>Developed over the last
+      two years by a group of volunteers in the IIIF community, the iiif-prezi3 library
+      aims to provide a quick and easy way for developers of all skill levels and
+      familiarity with the IIIF Presentation API 3.0 to generate valid JSON-LD for
+      Presentation API resources.<br/><br/>During the lightning talk, we will cover
+      a brief history of the development of the library, an introduction to the principles
+      underlying it such as the use of the Pydantic modeling and validation library,
+      and demonstrate some real world examples of the library in use, both inside
+      workflows and standalone.'
     authors:
-    - name: Lorna Hughes
-      org: University of Glasgow, United Kingdom
-    - name: Arlene Healy
-      org: Trinity College, Dublin
+    - name: Mike Bennett
+      org: Unaffiliated
     - name: Glen Robson
       org: IIIF Consortium
+    - name: iiif-prezi3 maintainers
+      org: Assorted
     end: '02:58 '
     id: '171'
     order: 4
     start: '02:51 '
-    title: 'IIIF4Research: understanding researchers use of IIIF for'
+    title: 'iiif-prezi3: Python library for working with the IIIF Presentation 3 API'
     type: Lightning talk
   - abstract: "This talk will be an overview of the Avalon Media System team\u2019\
       s recent work to implement Presentation 3 and other IIIF APIs in Avalon software.\
@@ -1335,9 +1336,8 @@ Showcase:
     - name: Hendrik Hameeuw
       org: KU Leuven Libraries, Belgium
     - name: Serena Picarelli
-      org: 'KU Leuven Libraries, Belgium;
-
-        Scuola Superiore Meridionale, Naples'
+      org: 'Scuola Superiore Meridionale, Naples;
+      KU Leuven University, Belgium'
     - name: Vincent Vanweddingen
       org: KU Leuven Libraries, Belgium
     - name: Federico Ponchio
@@ -1664,9 +1664,9 @@ Workshops -  Afternoon:
       as well as collaboration in educational activities by integrating with the Storiiies
       editor tool.<br/><br/>'
     authors:
-    - name: Stefania De Vincentis
-      org: Ca' Foscari University of Venice, Italy
     - name: Martin Critelli
+      org: Ca' Foscari University of Venice, Italy
+    - name: Stefania De Vincentis
       org: Ca' Foscari University of Venice, Italy
     end: '09:50 '
     id: '159'
@@ -1764,8 +1764,6 @@ Workshops -  Afternoon:
     authors:
     - name: Evelien Hauwaerts
       org: Bruges Public Library, Belgium
-    - name: Bauke van der Laan
-      org: Bauke van der Laan design & development
     end: '10:30 '
     id: '121'
     order: 3
@@ -1835,6 +1833,12 @@ Workshops -  Afternoon:
       org: Biblioteca Apostolica Vaticana
     - name: "Simonetta Butt\xF2"
       org: Istituto Centrale per il Catalogo Unico
+    - name: "Alice Semboloni"
+      org: Funzionario Bibliotecario
+    - name: "Valentina Atturo"
+      org: Funzionario ICCU
+    - name: "Marco Scarbaci"
+      org: ICCU Consultant
     end: '12:00 '
     id: '126'
     order: 1

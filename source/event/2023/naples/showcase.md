@@ -73,10 +73,12 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
            <td>Exciting community work:<br>
                Latest on IIIF 3D<br>
                IIIF + Maps<br>
+               Museums<br><br>
                Wikidata & Crowdsourcing</td>
            <td><br>
                Ronald Haynes, University of Cambridge, United Kingdom<br>
                Virginia Boyero, Swedish National Heritage Board Incubator / Beyond the Map<br>
+               Emmanuelle Delmas-Glass, Yale Center for British Art; Matthew Westerby, National Gallery of Art; Tristan Roddis, Cogapp<br>
                Jason Evans, National Library of Wales, United Kingdom</td>
         </tr>
         <tr>
@@ -86,7 +88,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
                 <tr>
                     <td>3:15pm</td>
                     <td>A IIIF-Compliant Tool for Describing Medieval Manuscripts</td>
-                    <td>Fara Autiero, Venice Centre for Digital and Public Humanities (VeDPH); Sandra Gorla, University of Naples Federico II, Italy; Daniele Fusi, University of Naples Federico II, Italy</td>
+                    <td>Fara Autiero, Scuola Superiore Meridionale, Naples; Sandra Gorla, University of Naples Federico II, Italy; Daniele Fusi, Venice Center for Digital and Public Humanities (VeDPH)</td>
                      
            
         </tr>

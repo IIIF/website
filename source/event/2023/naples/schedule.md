@@ -84,7 +84,7 @@ Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
     <tr>
         <td>9:15 - 10:15</td>
         <td>Welcome and opening remarks</td>
-        <td></td>
+        <td>Antonella Negri & Tiziana Mancinelli, Ministry of Culture, Institute for the Digitization of Cultural Heritage, and Emiliano Degl’Innocenti, European Research Infrastructures, National Hub</td>
     </tr>    
     <tr>
         <td>10:30 - 11:00</td>
