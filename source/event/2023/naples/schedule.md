@@ -217,4 +217,5 @@ Reach out to us at staff@iiif.io.
     {% endfor %}        
 </div>
 
-[showcase]: {{ site.root_url | absolute_url }}/event/2023/naples/showcase
+[showcase]: {{ site.root_url | absolute_url }}/event/2023/naples/showcase#schedule
+[conf_sched]: {{ site.root_url | absolute_url }}/event/2023/naples/schedule/
