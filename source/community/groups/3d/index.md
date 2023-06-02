@@ -35,6 +35,7 @@ Please add examples and use cases at <https://github.com/IIIF/iiif-3d-stories/is
   * Ronald Haynes ([Cambridge University][ronald])
   * Mike Boyd ([University of Edinburgh][mike])
   * Scott McAvoy ([UC Riverside, OpenHeritage3D][scott])
+  * Doug Daniels ([UCLA Library](https://www.library.ucla.edu/about/staff/doug-daniels/))
 
 **Communication channels:**
 
