@@ -177,7 +177,7 @@ Showcase:
   end: '14:30 '
   id: 8
   name: ''
-  session_time: 'Thursday, June 08: 01:30pm - 02:30pm'
+  session_time: 'Thursday, June 08: 01:15pm - 02:15pm'
   sessions:
   - abstract: 'In the context of my PhD in Digital Humanities at the University of
       Basel (2021-2025), I investigate the semantics and interoperability dimensions
@@ -227,10 +227,10 @@ Showcase:
       org: 'Digital Humanities Lab, University of Basel, Switzerland;
 
         DaSCH - Swiss National Data and Service Center for the Humanities'
-    end: '01:50 '
+    end: '01:35 '
     id: '103'
     order: 1
-    start: '01:30 '
+    start: '01:15 '
     title: The LOUD Social Fabrics of IIIF
     type: Presentation
   - abstract: "The Swiss Federal Archives (SFA) are part of the administration of\
@@ -273,10 +273,10 @@ Showcase:
     authors:
     - name: Elena Pilloud
       org: Swiss Federal Archives, Switzerland
-    end: '02:10 '
+    end: '01:55 '
     id: '152'
     order: 2
-    start: '01:50 '
+    start: '01:35 '
     title: The implementation of IIIF at the Swiss Federal Archives
     type: Presentation
   - abstract: 'The DB SERET Company has been an associate member of the IIIF consortium
@@ -321,10 +321,10 @@ Showcase:
       org: DB SERET srl, Italy
     - name: Rosemarie Leone
       org: ESA (European Space Agency)
-    end: '02:30 '
+    end: '02:15 '
     id: '149'
     order: 3
-    start: '02:10 '
+    start: '01:55 '
     title: 'Crossing the borders: Multimodal Cross-Domain Approaches using IIIF'
     type: Presentation
   - abstract: "In active development since 2015, MemoRekall is a free and open source\
@@ -379,10 +379,10 @@ Showcase:
       org: Tetras Libre
     - name: Anthony Geourjon
       org: Tetras Libre
-    end: '02:50 '
+    end: '02:35 '
     id: '172'
     order: 4
-    start: '02:30 '
+    start: '02:15 '
     title: MemoRekall-IIIF, a Mirador extension supporting video annotation and a
       network of IIIF manifests
     type: Presentation
@@ -1078,10 +1078,10 @@ Showcase:
     authors:
     - name: So Miyagawa
       org: National Institute for Japanese Language and Linguistics (NINJAL), Japan
-    end: '02:37 '
+    end: '02:42 '
     id: '140'
     order: 1
-    start: '02:30 '
+    start: '02:35 '
     title: Adaptation of IIIF for Audio-Visual Resources of Endangered Languages in
       Japan for Language Preservation
     type: Lightning talk
@@ -1113,10 +1113,10 @@ Showcase:
       org: Northwestern University, United States of America
     - name: Mark Baggett
       org: University of Tennessee, United States of America
-    end: '02:44 '
+    end: '02:49 '
     id: '157'
     order: 2
-    start: '02:37 '
+    start: '02:42 '
     title: 'Introducing Canopy IIIF: A IIIF Sourced Site Generator for Digital Collections'
     type: Lightning talk
   - abstract: Many scholars and institutions face a similar technical and sustainability
@@ -1146,10 +1146,10 @@ Showcase:
     authors:
     - name: Matthew McGrattan
       org: Digirati, United Kingdom
-    end: '02:51 '
+    end: '02:56 '
     id: '141'
     order: 3
-    start: '02:44 '
+    start: '02:49 '
     title: 'From transcript to IIIF: fitting plaintext to image via "reverse OCR"'
     type: Lightning talk
   - abstract: 'This lightning talk will introduce the iiif-prezi3 Python library, a
@@ -1169,10 +1169,10 @@ Showcase:
       org: IIIF Consortium
     - name: iiif-prezi3 maintainers
       org: Assorted
-    end: '02:58 '
+    end: '03:03 '
     id: '171'
     order: 4
-    start: '02:51 '
+    start: '02:56 '
     title: 'iiif-prezi3: Python library for working with the IIIF Presentation 3 API'
     type: Lightning talk
   - abstract: "This talk will be an overview of the Avalon Media System team\u2019\
@@ -1186,10 +1186,10 @@ Showcase:
     authors:
     - name: Jon Cameron
       org: Indiana University, United States of America
-    end: '03:05 '
+    end: '03:10 '
     id: '160'
     order: 5
-    start: '02:58 '
+    start: '03:03 '
     title: Implementing Presentation 3.0 in Avalon Media System
     type: Lightning talk
   - abstract: One of the lesser-used features of the IIIF standard is the ability
@@ -1207,10 +1207,10 @@ Showcase:
     authors:
     - name: David Newbury
       org: Getty, United States of America
-    end: '03:12 '
+    end: '03:17 '
     id: '112'
     order: 6
-    start: '03:05 '
+    start: '03:10 '
     title: 'Interoperable Dollhouses: Toying with the Physical Dimension Service'
     type: Lightning talk
   - abstract: "Native Bound Unbound is an archive of indigenous enslaved people in\
@@ -1256,10 +1256,10 @@ Showcase:
     authors:
     - name: Nicholas Laiacona
       org: Performant Software Solutions, United States of America
-    end: '03:19 '
+    end: '03:24 '
     id: '138'
     order: 7
-    start: '03:12 '
+    start: '03:17 '
     title: IIIF and TEI in the Native Bound Unbound Project
     type: Lightning talk
   - abstract: "Mirador viewer<br/><br/>Harvard is also working on updating our Mirador viewer\
@@ -1287,10 +1287,10 @@ Showcase:
     authors:
     - name: Phil Plencner
       org: Harvard University, United States of America
-    end: '03:26 '
+    end: '03:31 '
     id: '109'
     order: 8
-    start: '03:19 '
+    start: '03:24 '
     title: Mirador upgrade at Harvard Library
     type: Lightning talk
   start: '14:30 '
