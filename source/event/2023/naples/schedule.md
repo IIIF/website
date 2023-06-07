@@ -140,7 +140,7 @@ Corso Nicolangelo Protopisani, 70, 80146 Napoli NA, Italy
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=7 %}
     <tr>
-        <td>12:00 - 1:30 </td>
+        <td>12:00 - 1:15 </td>
         <td colspan="3"><b>Lunch</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2023 block=8 %}  
