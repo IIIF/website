@@ -57,7 +57,7 @@ Many thanks to our 2017 IIIF Conference sponsors:
 * [Klokan Technologies][klokan] - Silver Sponsor
 * [OCLC][oclc] - Silver Sponsor
 * [Synaptica][synaptica] - Silver Sponsor
-* [Zegami][zegami] - Silver Sponsor
+* [Zegami][zegami]{:data-proofer-ignore=''} - Silver Sponsor
 * [4Science][4science] - Silver Sponsor
 
 ### IIIF Presence at Conferences and Meetings

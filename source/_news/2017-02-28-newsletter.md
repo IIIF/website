@@ -59,7 +59,7 @@ Active community participants are encouraged to represent IIIF at conferences, w
 * [Smithsonian Digitization Fair][smithsonian], March 2017
 * [LDCX][ldcx], March 2017
 * [Museums and the Web][maw], April 2017
-* [DPLA Fest][dplafest], April 2017  
+* [DPLA Fest][dplafest]{:data-proofer-ignore=''}, April 2017  
 
 ### Europeana IIIF Task Force
 Europeana has launched a IIIF Task Force led by the Austrian National Library, to encourage understanding and adoption of IIIF among Europeana content providers and bring awareness to IIIF and the Europeana Data Model. [Read more][taskforce-more] about various Europeana partners’ experiences with IIIF.

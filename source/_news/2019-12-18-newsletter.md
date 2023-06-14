@@ -38,7 +38,7 @@ The IIIF Consortium recently hosted a productive IIIF Working Meeting in Ann Arb
 
 ### IIIF + Maps
 
-Stanford will be hosting a IIIF + Maps event in February 2020. IIIF + Maps aims to move forward IIIF and Maps integration and start to work on collaboration for common goals. This event will be held February 6 - 7, 2020 and will be hosted in conjunction with the annual Geo4LibCamp. For more information please see: <https://geo4libcamp.org/iiif+maps_2020/>
+Stanford will be hosting a IIIF + Maps event in February 2020. IIIF + Maps aims to move forward IIIF and Maps integration and start to work on collaboration for common goals. This event will be held February 6 - 7, 2020 and will be hosted in conjunction with the annual Geo4LibCamp. For more information please see: [https://geo4libcamp.org/iiif+maps_2020/](https://geo4libcamp.org/iiif+maps_2020/){:data-proofer-ignore=''}
 
 ### Organising a IIIF event
 
