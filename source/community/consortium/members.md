@@ -7,6 +7,9 @@ breadcrumbs:
    link: /community/
  - label: Consortium
    link: /community/consortium
+
+ignore-url-check:
+  - https://repository.lib.cuhk.edu.hk/en/IIIF-Guide
 ---
 {{ theme.block-start }}
 
@@ -32,13 +35,13 @@ Membership is open to universities, libraries, museums, archives, vendors, and o
   {% for i in site.data.institutions %}
     {% if i.iiifc < 3 %}
    <li>
-      {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
+      {% if i.uri %}<a href="{{ i.uri }}" {% if page.ignore-url-check contains i.uri %}data-proofer-ignore=''{% endif %}>{% endif %}
         {{ i.name }}
       {% if i.uri %}</a>*{% endif %}
   </li>{% endif %}
     {% if i.iiifc == 3 %}
    <li>
-      {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
+      {% if i.uri %}<a href="{{ i.uri }}" {% if page.ignore-url-check contains i.uri %}data-proofer-ignore=''{% endif %}>{% endif %}
         {{ i.name }}
       {% if i.uri %}</a>{% endif %}
   </li>{% endif %}
@@ -52,7 +55,7 @@ Membership is open to universities, libraries, museums, archives, vendors, and o
 {% for i in site.data.institutions %}
     {% if i.iiifc == 4 %}
   <li>
-      {% if i.uri %}<a href="{{ i.uri }}">{% endif %}
+      {% if i.uri %}<a href="{{ i.uri }}" {% if page.ignore-url-check contains i.uri %}data-proofer-ignore=''{% endif %}>{% endif %}
         {{ i.name }}
       {% if i.uri %}</a>{% endif %}
   </li>
