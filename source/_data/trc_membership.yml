@@ -14,9 +14,9 @@
 - institution: IIIF Editors
   name: Tom Crane
   role: 1
-- institution: IIIF Editors
-  name: Simeon Warner
-  role: 1
+# - institution: IIIF Editors
+#   name: Simeon Warner
+#   role: 1
 # - institution: IIIF Editors
 #   name: Jon Stroop
 #   role: 1
@@ -64,9 +64,9 @@
 #- institution: Chinese University of Hong Kong
 #  name: 
 #  role: 2
-#- institution: Cornell University
-#  name:
-#  role: 2
+- institution: Cornell University
+  name: Simeon Warner
+  role: 2
 #- institution: École polytechnique fédérale de Lausanne (EPFL)
 #  name: 
 #  role: 2
