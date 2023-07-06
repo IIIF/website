@@ -22,7 +22,7 @@ See also:
 - [From the Page](https://fromthepage.com/) - FromThePage is software for transcribing documents and collaborating on transcriptions with others.
 - [Digital Mappa](https://www.digitalmappa.org/) - An open-source digital humanities platform for open-access workspaces, projects and publications.
 - [Allmaps](https://allmaps.org/) - Allmaps is a set of open source tools that make it easier and more fun to search, explore, georeference and work with collections of digitised maps.
-- [Madoc](https://github.com/digirati-co-uk/madoc-platform) - A flexible transcription and annotation platform for crowdsourcing, research or teaching with IIIF collections.
+- [Madoc](https://madoc.digirati.com/) - A flexible transcription and annotation platform for crowdsourcing, research or teaching with IIIF collections.
 
 ### Exhibition and guided viewing
 
