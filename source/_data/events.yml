@@ -1,14 +1,14 @@
-- label: IIIF Annual Conference 2023
-  time:
-    start: 2023-06-05T06:00:00Z
-    end: 2023-06-08T23:00:00Z
-  links:
-    - label: More info
-      link: "/event/2023/naples/"
-    - label: Travel info
-      link: "/event/2023/naples/travel"
-  location: 
-    label: "Naples, Italy"
+# - label: IIIF Annual Conference 2023
+#   time:
+#     start: 2023-06-05T06:00:00Z
+#     end: 2023-06-08T23:00:00Z
+#   links:
+#     - label: More info
+#       link: "/event/2023/naples/"
+#     - label: Travel info
+#       link: "/event/2023/naples/travel"
+#   location: 
+#     label: "Naples, Italy"
 - label: "July 2023 IIIF Online Training (5-Day Course)"
   time:
     start: 2023-07-17T21:00:00Z
