@@ -19,7 +19,7 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 
 ### Designed PDFs
 - [IIIF for CIOs and engineers](https://drive.google.com/file/d/1hpzfTnk-uIQeBThvs4xMK9jJtggC3-Si/view?usp=drive_link)
-- [IIIF for Museums](https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link)
+- [IIIF for museums](https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link)
 
 
 {% include content/full-width-image.html image="assets/uploads/contact-sheet-museums.jpg" image_link="https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link" alt_text="delivery diagram" caption="A high-level explainer for museum staffers and administrators about the benefits of IIIF." %}
@@ -36,7 +36,7 @@ These presentations include speaker notes, and can be copied, modified, and comb
 - [Introduction to the IIIF community](https://docs.google.com/presentation/d/1JGjboM1PzOggrAt3WaEPZ-j2MuO2vTlI_kKlzF8n4Yw/edit?usp=sharing)
 
 ## Logos
-IIIF logos can be downloaded from the IIIF [Google Drive](https://drive.google.com/drive/folders/0B8APFBow4sHvY044Sm10SFdNWG8?resourcekey=0-y2_phm4tC7Mp_UKbaM0j0g&usp=sharing).
+IIIF logos can be downloaded from the IIIF [Google Drive](https://drive.google.com/drive/folders/1XHSqgM1msVx7oi7Pqw30PEKTVbG4PeTK).
 
 Logo color hex codes:
 - Red: #EF2536;
