@@ -409,7 +409,7 @@
   logo: assets/uploads/logos/UTK.png
 - name: University of Tokyo
   uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
-  iiifc: 2
+  iiifc: 0
   logo: assets/uploads/logos/UnivOfTokyo_logo.svg.png
 - name: University of Toronto
   uri: https://library.utoronto.ca
