@@ -106,12 +106,12 @@
 - institution: National Gallery of Art
   name: Ben Zweig
   role: 2
-- institution: National Institute of Informatics
-  name: Akihiko Takano
-  role: 2
-- institution: National Institute of Japanese Literature
-  name: Kazuhiro Okada
-  role: 2
+# - institution: National Institute of Informatics
+#   name: Akihiko Takano
+#   role: 2
+# - institution: National Institute of Japanese Literature
+#   name: Kazuhiro Okada
+#   role: 2
 #- institution: Nasjonalbiblioteket (National Library of Norway)
 #  name: 
 #  role: 2
@@ -172,9 +172,9 @@
 #- institution: University of Pennsylvania
 #  name: 
 #  role: 2
-- institution: University of Tokyo
-  name: Kiyonori Nagasaki
-  role: 2
+# - institution: University of Tokyo
+#   name: Kiyonori Nagasaki
+#   role: 2
 #- institution: University of Toronto
 #  name:  
 #  role: 2

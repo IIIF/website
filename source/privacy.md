@@ -48,11 +48,12 @@ Our website contains links to other websites. This privacy policy only applies t
 
 We want to make sure that your personal data is accurate and up to date. You may ask us to correct information you think is inaccurate or remove information.
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, or you have any questions about this policy, please contact us at admin@iiif.io or write to us at IIIF, C/O CLIR, 211 North Union Street, Suite 100-PMB1027, Alexandria, VA 22314.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, or you have any questions about this policy, please contact us at admin@iiif.io or write to us at IIIF, C/O CLIR, Council on Library and Information Resources
+1800 Diagonal Road, Suite 600, Alexandria, VA 22314.
 
 ## Changes to our privacy policy
 
-IIIF keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 04 August 2021.
+IIIF keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 14 July 2023.
 
 ## Attribution
 
