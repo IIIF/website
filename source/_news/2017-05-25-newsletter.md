@@ -57,7 +57,7 @@ Many thanks to our 2017 IIIF Conference sponsors:
 * [Klokan Technologies][klokan] - Silver Sponsor
 * [OCLC][oclc] - Silver Sponsor
 * [Synaptica][synaptica] - Silver Sponsor
-* [Zegami][zegami] - Silver Sponsor
+* [Zegami][zegami]{:data-proofer-ignore=''} - Silver Sponsor
 * [4Science][4science] - Silver Sponsor
 
 ### IIIF Presence at Conferences and Meetings
@@ -120,7 +120,7 @@ The [IIIF Software Developers group][devs] continues to work on developing and d
 
 ### New Releases
 
-* Zegami now supports IIIF Image 2.1 and IIIF Presentation 2.1! [Learn more][zegami-news]
+* Zegami now supports IIIF Image 2.1 and IIIF Presentation 2.1! [Learn more][zegami-news]{:data-proofer-ignore=''}
 * The Cooper Hewitt Smithsonian Design Museum is now using the IIIF Image API - see demo (200,000 images as tiles) and [blog][ch-blog] from Micah Walter, formerly of the Cooper Hewitt, collaborating with Aaron Cope on integrating IIIF/zoomable images for their collection on the web.
 * The Biblissima portal (focused on the history of ancient collections of manuscripts and early printed books) is now online in public beta, using Mirador:
     * Live demo
