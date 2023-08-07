@@ -5,7 +5,7 @@ breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/events/'
   - label: 2023 Online Meeting
-    link: '{{ site.root_url }}/event/2022/online-meeting/'
+    link: '{{ site.root_url }}/event/2023/online-meeting/'
 hero:
   image: ""
   subtitle: Join us to learn the latest about IIIF and help shape the future of the community.
