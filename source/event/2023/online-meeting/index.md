@@ -38,14 +38,14 @@ This event is guided by the [IIIF Code of Conduct][conduct].
 ## Registration
 Registration is free! Sign up will take place via Eventbrite, and will open later this year.
 
-# **Call for proposals now open: 2023 IIIF Online Meeting**
+## **Call for Proposals: Now Open**
 
 The 2023 International Image Interoperability Framework (IIIF) Online Meeting will be held **December 5-7**. This year’s meeting will follow a “Working and Learning” theme, with a program built to provide attendees with a look into new and innovative IIIF projects, implementations, developments, and tools, and opportunities to learn new skills. 
 
 **Submissions are due by September 15, 2023**
 
 
-### **Format**
+## **Format**
 
 The event organizers are looking for proposals in the following forms:
 
@@ -61,7 +61,7 @@ The event organizers are looking for proposals in the following forms:
 * Final versions of the accepted abstracts and presentations will be made openly available after the conference.
 
 
-### **Proposal themes**
+## **Proposal themes**
 
 **Lightning Talks**
 
@@ -82,14 +82,12 @@ We encourage showcasing developments in IIIF and in particular would welcome pre
 Workshop submissions must have an abstract, a proposed outline schedule, and desired outcomes (e.g., _“at this end of this session, participants will be able to place IIIF manifests on a web map”, or “at the end of this session, participants will be able to use IIIF manifests to create guided storytelling exhibitions”)._
 
 
-**Submissions**
+## **Submissions**
 
-### Please submit proposals through Google Forms: https://forms.gle/j1NJxV8vBuf76FPp7
+Please submit proposals through Google Forms: https://forms.gle/j1NJxV8vBuf76FPp7
 
 
 <!-- <div class="columns is-centered">{% include misc/button.html button_label="Register" button_link="https://stanford.zoom.us/meeting/register/tJcvceuuqTItG90yow4P0cusIHCBDp27UYiS" %}</div> -->
-
-<h2>Schedule</h2>
 
 <!-- ### Full Event Calendar
 
