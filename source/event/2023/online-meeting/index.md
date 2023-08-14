@@ -42,7 +42,7 @@ Registration is free! Sign up will take place via Eventbrite, and will open late
 
 The 2023 International Image Interoperability Framework (IIIF) Online Meeting will be held **December 5-7**. This year’s meeting will follow a “Working and Learning” theme, with a program built to provide attendees with a look into new and innovative IIIF projects, implementations, developments, and tools, and opportunities to learn new skills. 
 
-**Submissions are due by September 15, 2023**
+**[Submissions][cfp] are due by September 15, 2023**
 
 
 ## **Format**
@@ -84,7 +84,7 @@ Workshop submissions must have an abstract, a proposed outline schedule, and des
 
 ## **Submissions**
 
-Please submit proposals through Google Forms: https://forms.gle/j1NJxV8vBuf76FPp7
+Please submit proposals through Google Forms: [https://forms.gle/j1NJxV8vBuf76FPp7][cfp]
 
 
 <!-- <div class="columns is-centered">{% include misc/button.html button_label="Register" button_link="https://stanford.zoom.us/meeting/register/tJcvceuuqTItG90yow4P0cusIHCBDp27UYiS" %}</div> -->
@@ -235,3 +235,4 @@ Questions? Email us at <events@iiif.io>.
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
+[cfp]: https://forms.gle/j1NJxV8vBuf76FPp7
