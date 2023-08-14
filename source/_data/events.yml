@@ -1,10 +1,12 @@
-- label: "July 2023 IIIF Online Training (5-Day Course)"
+- label: "DaSCHCon on IIIF, 3D & Interoperability"
   time:
-    start: 2023-07-17T21:00:00Z
-    end: 2023-07-21T22:00:00Z
+    start: 2023-10-25T10:00:00Z
+    end: 2023-10-25T22:00:00Z
   links:
-    - label: More info and register
-      link: "https://www.eventbrite.com/e/july-2023-iiif-online-training-5-day-course-tickets-636814799207"
+    - label: More info
+      link: "https://www.dasch.swiss/post/daschcon-on-iiif-3d-interoperability"
+  location:
+    label: "Basel Kollegiengebäude HS 120 and online"
 - label: IIIF Online Meeting 2023
   time:
     start: 2023-12-05T06:00:00Z
