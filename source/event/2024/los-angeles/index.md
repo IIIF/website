@@ -85,7 +85,7 @@ Thank you to the 2023 local planning committee:
 
 ### **Sponsors**
 
-<!-- We are offering sponsorship for the 2023 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2023/naples/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
+We are offering sponsorship for the 2023 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2023/naples/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
 The IIIF Annual Conference is generously supported by the following Conference Sponsors:
 
