@@ -1,3 +1,12 @@
+- label: "IIIF Online Training September 2023"
+  time:
+    start: 2023-09-25T10:00:00Z
+    end: 2023-09-29T22:00:00Z
+  links:
+    - label: More info & registration
+      link: "https://www.eventbrite.com/e/september-2023-iiif-online-training-5-day-course-tickets-709450233747"
+  location:
+    label: "Online"
 - label: "DaSCHCon on IIIF, 3D & Interoperability"
   time:
     start: 2023-10-25T10:00:00Z
@@ -18,3 +27,23 @@
     #   link: "/event/2023/naples/travel"
   location: 
     label: "Online"
+- label: "IIIF Online Training December 2023"
+  time:
+    start: 2023-12-11T10:00:00Z
+    end: 2023-12-15T22:00:00Z
+  links:
+    - label: More info & registration
+      link: "https://www.eventbrite.com/e/december-2023-iiif-online-training-5-day-course-tickets-709453002027"
+  location:
+    label: "Online"
+- label: IIIF Annual Conference 2024
+  time:
+    start: 2024-06-04T06:00:00Z
+    end: 2024-06-07T23:00:00Z
+  links:
+    - label: More info
+      link: "/event/2024/los-angeles/"
+    # - label: Travel info
+    #   link: "/event/2023/naples/travel"
+  location: 
+    label: "Los Angeles, CA, USA"
