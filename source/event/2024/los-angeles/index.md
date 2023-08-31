@@ -40,7 +40,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
     * Conference: June 4-5, 2024
     * Workshops and meetings: June 6, 2024
     * Showcase: June 7, 2024
-* Registration for the IIIF showcase is free.
+* Registration for the IIIF Showcase is free.
 <!-- * Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and €125 for students. Registration closes May 16, 2023. -->
 * Language: All event proceedings will be in English unless otherwise noted.
 
