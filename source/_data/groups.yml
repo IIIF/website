@@ -7,7 +7,7 @@
   link: /community/groups/3d #link to charter
   type: community #TSG or community
   notes: https://drive.google.com/drive/folders/1S_Yz5d_IEcjcw61iWA2x2290uSJ7Lvzk #link to Google Drive folder
-  meeting_frequency: Calls on the 3rd Thursday of the month #One-liner, e.g. Quarterly calls on Wednesdays
+  meeting_frequency: Every four weeks on Thursdays #One-liner, e.g. Quarterly calls on Wednesdays
 - id: 3d-tsg # Slug in IIIF url, e.g. D4H
   label: 3D TSG #Group name
   alternate_names:  # name used on IIIF calendar
