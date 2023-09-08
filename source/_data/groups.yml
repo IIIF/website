@@ -74,7 +74,7 @@
   link: /community/groups/museums 
   type: community 
   notes: https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?resourcekey=0-fsM1GLwObMrueeXyuw9kVg 
-  meeting_frequency: Monthly on the second Tuesday 
+  meeting_frequency: Monthly on the third Monday
 - id: newspapers 
   label: Newspapers 
   description: The Newspapers group welcomes all interested in implementing IIIF digital newspaper repositories.
