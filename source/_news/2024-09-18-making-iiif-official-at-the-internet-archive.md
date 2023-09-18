@@ -13,6 +13,9 @@ After [eight years](https://blog.archive.org/2015/10/23/zoom-in-to-9-3-million-i
 [You can read more about the project and its upcoming functionality, as well as find answers to frequently asked questions at the Internet Archive’s blog](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/).
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v59BjV41VlI?si=D7q7K5ONI6r7h08d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Watch our September Community Call for more.
+
 ### Questions?
 
 Please contact [staff@iiif.io](mailto:staff@iiif.io).
