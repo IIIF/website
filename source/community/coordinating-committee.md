@@ -48,7 +48,7 @@ CoCo meets monthly.
 - Arcadia Falcone, Stanford Universty
 - Josh Hadro, IIIF Consortium
 - Stace Maples, Stanford University
-- Meg O'Hearn, IIIF Consortium
+- Caitlin Perry, IIIF Consortium
 - Julien A. Raemy, University of Basel
 - Glen Robson, IIIF Consortium
 - Ed Silverton, Mnemoscene
