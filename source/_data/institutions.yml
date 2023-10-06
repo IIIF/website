@@ -370,6 +370,10 @@
   logo: assets/uploads/logos/ucla_logo.png
 - name: University of California, Santa Barbara
   uri: http://www.ucsb.edu/
+- name: University of Chicago Library
+  uri: https://www.lib.uchicago.edu/
+  iiifc: 4
+  logo: assets/uploads/logos/UChicago-Library-logo.svg
 - name: University of Edinburgh
   uri: http://www.ed.ac.uk/
   iiifc: 2
@@ -384,6 +388,11 @@
 - name: University of Illinois at Urbana-Champaign
   uri: http://illinois.edu/
   iiifc:
+- name: University of Leeds
+  uri: https://library.leeds.ac.uk/
+  iiifc: 2
+  new: true
+  logo: assets/uploads/logos/University-of-Leeds-logo.jpg
 - name: University of Michigan
   uri: https://www.lib.umich.edu/collections/digital-collections
   iiifc: 2
