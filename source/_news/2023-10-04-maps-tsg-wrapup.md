@@ -9,7 +9,7 @@ excerpt: >
 ---
 
 
-The final meeting for the IIIF [Maps Technical Specification Group (TSG)]({{ site.root_url | absolute_url }}community/groups/maps-tsg/) took place October 04, 2023. Led by chairs Bryan Haberberger, Bert Spaan, Mike Appleby, and Eliot Jordan the group has completed all the work set out in its charter:
+The final meeting for the IIIF [Maps Technical Specification Group (TSG)]({{ site.root_url | absolute_url }}/community/groups/maps-tsg/) took place October 04, 2023. Led by chairs Bryan Haberberger, Bert Spaan, Mike Appleby, and Eliot Jordan the group has completed all the work set out in its charter:
 
 * "Define an interoperable method to link IIIF content to a Geo Location for the purposes of presentation and/or navigation." => Completed via [the navPlace extension](https://iiif.io/api/extension/navplace/)
 * "Create an extension which would allow the storage and presentation of Georeferencing information for a historical map."  => Completed via [the Georeference extension](https://iiif.io/api/extension/georef/)
