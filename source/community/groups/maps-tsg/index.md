@@ -10,6 +10,9 @@ breadcrumbs:
    link: /community/groups/
 ---
 
+**Note: The Maps TSG has completed its work as of September 2023. See below for a set of links summarizing outputs (including extensions), implementations, and more.**
+
+
 ## About
 IIIF has a technical focus on images, and the cultural heritage presence within has ensured digitized maps are represented. We recognize a growing need to describe data in the humanities with its spatial relevance to planet Earth, for which maps are the conduit interface. Geospatial description allows systems to portray data in a natural and understandable human context.  
 
@@ -18,6 +21,33 @@ The IIIF Maps Technical Specification Group intends to promote interoperability 
 We plan to accomplish this through combinations of the W3C Web Annotation framework, IIIF Extensions and established geospatially focused Web ontologies and semantics.  IIIF Maps TSG welcomes contributions to their collection of user stories and prototypes.  
 
 The [IIIF Maps TSG Charter][charter] provides a more detailed outline of anticipated work.  
+
+---
+
+## Outputs of the TSG
+
+
+* **Adopted Extensions**
+    * [Georeference Extension](https://iiif.io/api/extension/georef/)
+    * [navPlace Extension](https://iiif.io/api/extension/navplace/)
+* **Documents**
+    * [IIIF Maps Glossary of Terms](https://docs.google.com/spreadsheets/d/17pJObqH2DMO_oDph82a6axx7XexrYaOSBoYG8lGyxzg) 
+    * [navPlace Guide](https://iiif.io/guides/guides/navplace/) 
+    * [Locate a Manifest on a Web Map Recipe](https://iiif.io/api/cookbook/recipe/0154-geo-extension/)
+    * [Locate Multiple Canvases on a Web Map Recipe](https://iiif.io/api/cookbook/recipe/0240-navPlace-on-canvases/)
+    * [Geolocate Canvas Fragment](https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/)
+* **Software & Implementations**
+* [Allmaps](https://editor.allmaps.org/#/)
+* [RERUM Geolocator](https://geo.rerum.io)
+* [navPlace Viewer](https://map.rerum.io)
+    * [Source Code](https://github.com/CenterForDigitalHumanities/navplace-viewer/)
+* [Geo Web Annotation Viewer](https://map.rerum.io/annotation-viewer.html)
+    * [Source Code](https://github.com/CenterForDigitalHumanities/navplace-viewer/)
+* [Maptime Viewer](https://mikeapp.github.io/maptime-demo/)
+    * [Source Code](https://github.com/mikeapp/maptime)
+
+---
+
 
 ## Organization
 

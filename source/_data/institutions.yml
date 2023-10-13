@@ -287,7 +287,6 @@
   uri: https://www.library.northwestern.edu/
   iiifc: 3
   logo: assets/uploads/logos/northwestern.jpg
-  new: true
 - name: OCLC
   uri: http://www.oclc.org/
   iiifc: 2
