@@ -8,7 +8,7 @@ excerpt: >
   University of Leeds has joined the Consortium as a full member, and University of Chicago Libraries has joined as an Associate member. 
 ---
 
-The International Image Interoperability Framework Consortium is delighted to announce two new members. University of Leeds has joined the Consortium as a full member, and University of Chicago Libraries has joined as an Associate member. 
+The International Image Interoperability Framework Consortium is delighted to announce two new members. University of Leeds has joined the Consortium as a Full member, and University of Chicago Libraries has joined as an Associate member. 
 
 The University of Leeds has adopted IIIF as part of its [Digital Library Infrastructure Project](https://forstaff.leeds.ac.uk/news/article/8157/Inside_Track_%7C_Opening_our_rare_cultural_collections_to_the_world_), which is designed to improve access and use of the libraries’ cultural collections for teaching, research, and user-led engagement. Among the planned, IIIF-powered improvements: to digitally reunify the manuscript collection of the [Honresfield Library](https://www.sothebys.com/en/press/the-honresfield-library-of-british-literature-saved-for-the-nation), which has been distributed among eight institutions including the University of Leeds, the British Library, and the Brontë Parsonage.
 
