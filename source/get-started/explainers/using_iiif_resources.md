@@ -85,7 +85,7 @@ Exporting in Mirador 3 is similar to Mirador 2 in that the URL to the Manifest i
 </div>    
 
 **Import:**
-To add a manifest, click the big blue plus sign at the top right. This gives you a list of resources that are currently loaded into Mirador 3. To add another click the ‘Add resources’ button at the bottom and this will give you the option to add a URL to a manifest.
+To add a manifest, click the big blue plus sign at the top left. This gives you a list of resources that are currently loaded into Mirador 3. To add another click the ‘Add resources’ button at the bottom and this will give you the option to add a URL to a manifest.
 
 <div class="video-container">
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/0KEiGkkNVnM" allow="encrypted-media" allowfullscreen></iframe>
