@@ -116,7 +116,7 @@ This event is guided by the [IIIF Code of Conduct][conduct].
 * All sessions will be in English unless otherwise noted.
 
 ## Registration
-Registration is free! Sign up will take place via Eventbrite, and will open later this year.
+Registration is free! [Please register on Eventbrite](https://www.eventbrite.com/e/2023-iiif-online-meeting-tickets-691071051117). Please note, workshop sessions on December 6 and December 7 run _concurrently_. Please only register for one workshop per day.
 
 
 
