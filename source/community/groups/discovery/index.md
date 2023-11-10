@@ -10,6 +10,8 @@ breadcrumbs:
    link: /community/groups/
 ---
 
+**Note: The Discovery TSG has completed its work as of Summer 2022. See below for a set of links summarizing outputs (including extensions), implementations, and more.**
+
 ## About
 
 Interoperable resources are only useful if they can be found. This has been well-recognized since the early days of the IIIF community, and more recently it has become clear that a concerted effort to standardize patterns that will facilitate discovery, harvesting and synchronization, indexing, and importing of IIIF resources is required.
@@ -17,6 +19,20 @@ Interoperable resources are only useful if they can be found. This has been well
 The IIIF Discovery Technical Specification Group will create specifications that improve the discovery process for IIIF resources, with a focus on leveraging existing techniques and tools, and promoting widespread adoption within the community. It will assist with and steer the implementation of community infrastructure, such as a registry of adopters, validators for the implementations, and transformation tools to generate the required data from existing systems and APIs.
 
 If successful, the work will enable the collaborative development of global or thematic registries, search engines and portal applications that allow developers and end users to easily find and use content available via existing IIIF APIs. The [Discovery Group charter][charter] provides an outline and timeline for anticipated work.
+
+---
+
+## **Outputs of the TSG**
+
+API specifications:
+* [Change Discovery API](https://iiif.io/api/discovery/1.0/)
+* [Content State API](https://iiif.io/api/content-state/1.0/)
+
+Documentation and support material
+* [Registry of (Metadata) Profiles](https://iiif.io/api/registry/profiles/)
+* [Note on SEO guidance](https://guides.iiif.io/IIIF-and-SEO/)
+
+---
 
 ## Organization
 
