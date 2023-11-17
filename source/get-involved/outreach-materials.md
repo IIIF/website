@@ -18,8 +18,10 @@ Anyone can reach out to their community and share information about IIIF. We’v
 Need to explain IIIF to a colleague? These handouts provide relevant information and a list of benefits based on audience.
 
 ### Designed PDFs
-- [IIIF for CIOs and engineers](https://drive.google.com/file/d/1hpzfTnk-uIQeBThvs4xMK9jJtggC3-Si/view?usp=drive_link)
-- [IIIF for museums](https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link)
+- [IIIF for CIOs and Engineers](https://drive.google.com/file/d/1hpzfTnk-uIQeBThvs4xMK9jJtggC3-Si/view?usp=drive_link)
+- [IIIF for Museums](https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link)
+- [IIIF for Archives](https://drive.google.com/file/d/1kw_M1XQ80h3QzWbIo8QYkL2Jt8YgZgEy/view?usp=drive_link)
+
 
 
 {% include content/full-width-image.html image="assets/uploads/contact-sheet-museums.jpg" image_link="https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link" alt_text="delivery diagram" caption="A high-level explainer for museum staffers and administrators about the benefits of IIIF." %}
