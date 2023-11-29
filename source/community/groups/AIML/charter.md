@@ -8,7 +8,6 @@ breadcrumbs:
    link: /community/
  - label: "Groups"
    link: /community/groups/
-
 ---
 
 ## About
