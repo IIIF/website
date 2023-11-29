@@ -59,19 +59,18 @@ The utility of IIIF in these contexts is clear, but the best practices in this d
 
 ### Call Notes and Group Documents
 
-[IIIF Design Community Group Folder](https://drive.google.com/open?id=1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7)
+[IIIF AI/ML Community Group Folder](https://drive.google.com/drive/folders/110Z9JGb3ihpA_uIW6lA5qXLVDBKK3APs)
 
 
 ### Call Connection Information
 
 
-
-* Online link and phone: [see each meeting agenda](https://drive.google.com/drive/folders/1yTiRY7PP6BFhEZFF0lyMQY6BitWEV50o)
+* Online link and phone: [see each meeting agenda](https://drive.google.com/drive/folders/110Z9JGb3ihpA_uIW6lA5qXLVDBKK3APs)
 
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [slack]: http://bit.ly/iiif-slack
-[zoom-link]: https://stanford.zoom.us/j/91556981560?pwd=SGFaVnNxYnE2dGd4bjYwT05Fb2h3QT09
+[zoom-link]: https://stanford.zoom.us/j/92701885540?pwd=U0JxQUFGUm1hLytTMk9tYzBWUC9GQT09
 [iiif-calendar]: {{ site.root_url | absolute_url }}community/groups/
 [international-zoom]: https://zoom.us/zoomconference
-[discovery-tsg]: {{ site.root_url | absolute_url }}community/groups/discovery "IIIF Discovery Technical Specification Group"
-[charter]: {{ site.root_url | absolute_url }}community/groups/design/charter/
+[AIML]: {{ site.root_url | absolute_url }}community/groups/discovery "IIIF AI/ML Community Group"
+[charter]: {{ site.root_url | absolute_url }}community/groups/AIML/charter/
