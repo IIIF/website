@@ -11,7 +11,7 @@ breadcrumbs:
 
 ---
 
-# About
+## About
 
 Though the [IIIF API specifications](https://iiif.io/api/) were not designed for machine learning applications, they have nevertheless proven valuable in recent years as applications like computer vision, classifier training, and automated tagging have become increasingly popular in the cultural heritage space. IIIF manifests and collections lend themselves to the kind of image and canvas aggregation that make it easy to feed machine learning tools, while the flexibility of the IIIF image and annotation mechanisms ([based on the Web Annotation data model](https://www.w3.org/TR/annotation-model/)) provide a compelling means of connecting images and regions therein with tags, attributes, and qualities like those often derived from machine learning processes. 
 
