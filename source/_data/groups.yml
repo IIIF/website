@@ -91,6 +91,15 @@
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw 
   meeting_frequency: Monthly on the last Tuesday 
+  - id: AIML
+  label: AIML
+  alternate_names: 
+    - IIIF AI/ML Community Group 
+  description: The AI/ML group focuses on how IIIF can make AI/ML projects easier or more efficient.
+  link: /community/groups/AIML 
+  type: community 
+  notes: https://drive.google.com/drive/folders/1Q0nrQ2p1bPNgTXxK4l4kJcuwbMYARf5x
+  meeting_frequency: Bimonthly on the fourth Wednesday
 # - id: discovery 
 #   label: Discovery 
 #   alternate_names: 
