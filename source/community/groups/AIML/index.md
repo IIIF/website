@@ -65,4 +65,4 @@ The utility of IIIF in these contexts is clear, but the best practices in this d
 [iiif-calendar]: {{ site.root_url | absolute_url }}community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [AIML]: {{ site.root_url | absolute_url }}community/groups/aiml "IIIF AI/ML Community Group"
-[charter]: {{ site.root_url | absolute_url }}community/groups/AIML/charter/
+[charter]: {{ site.root_url | absolute_url }}community/groups/aiml/charter/
