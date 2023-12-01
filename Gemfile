@@ -14,5 +14,7 @@ end
 
 gem "webrick", "~> 1.7"
 
+gem "jekyll-liquify", "0.0.2"
+
 # For open graph and Twitter Card elements
 gem 'jekyll-seo-tag'
