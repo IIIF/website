@@ -15,6 +15,8 @@ Steering strategic direction and budget approval, this committee meets twice ann
 
 Appointments are on an institutional basis, and staff at each organization may select one or more person to represent the institution at Executive Committee meetings. 
 
+The Executive Committee is currently working on developing a [new iterative strategic framework](https://docs.google.com/presentation/d/1JMCLToTlijx3ztiPoKigEdmS2je_fYjU0kj-pxhgaM8/edit#slide=id.g2542c596307_0_77) to help focus the efforts of the Consortium in supporting the broader IIIF community.
+
 Current Executive Committee institutions are:
 
 - Bibliothèque nationale de France (BnF)
