@@ -22,8 +22,8 @@ The Managing Director will bring community- and organizational-savvy to the role
 Reporting Lines: The Managing Director reports to the IIIF-C Executive Committee, working closely with a sub-group of elected officers. The Managing Director serves as an ex officio, non-voting member of the Executive Committee. The Executive Committee provides overall direction to the Managing Director. Organizationally, the Managing Director can be an employee of or in a contract position with CLIR (Council on Library and Information Resources), which serves as the IIIF Consortium’s fiscal host. CLIR provides the Managing Director and IIIF-C staff with an extended network of supportive colleagues, as well as administrative, financial, and human resources support.
 
 
-**Specific duties include: \
- \
+**Specific duties include:**
+ 
  A. Coordinate efforts among the IIIF community**
 
 * Work with the IIIF-C Executive Committee, IIIF-C members, the principal committees of the IIIF community (Coordinating Committee, Editorial Committee, various Community Groups, event program committees, etc.), and the IIIF community at large, to foster synergy among the various formal and informal aspects of the IIIF;
@@ -65,21 +65,21 @@ The elements listed below are provided to indicate the directional expectations 
 
 The ideal candidate:					
 
-1. will understand and be excited by the benefits of IIIF and interoperability for research and cultural heritage sectors; previous experience with IIIF is not required; \
+1. will understand and be excited by the benefits of IIIF and interoperability for research and cultural heritage sectors; previous experience with IIIF is not required; 
 
-2. will be self-directed and highly organized as well as capable of working with and for a membership organization; \
+2. will be self-directed and highly organized as well as capable of working with and for a membership organization; 
  							
-3. will demonstrate effective management and advocacy skills; \
+3. will demonstrate effective management and advocacy skills; 
  							
-4. will be a highly effective communicator in multiple forms: oral, written, and presentation; \
+4. will be a highly effective communicator in multiple forms: oral, written, and presentation; 
 
-5. will be able to work effectively with IIIF-C committees, community members, and volunteers with a wide variety of technical abilities; software engineering experience are not required, though sufficient technical acumen to gain conceptual understanding of IIIF and its component specifications and technologies; \
+5. will be able to work effectively with IIIF-C committees, community members, and volunteers with a wide variety of technical abilities; software engineering experience are not required, though sufficient technical acumen to gain conceptual understanding of IIIF and its component specifications and technologies; 
  							
-6. will have previous experience in research, libraries, archives or museums; in open source, open data and/or open community efforts; \
+6. will have previous experience in research, libraries, archives or museums; in open source, open data and/or open community efforts; 
  							
-7. will be comfortable and thrive in an open community with an elected board; structured committees, and respect for both aspects of structure and openness; \
+7. will be comfortable and thrive in an open community with an elected board; structured committees, and respect for both aspects of structure and openness; 
 
-8. will have experience successfully obtaining grant funding and managing grant-funded projects; \
+8. will have experience successfully obtaining grant funding and managing grant-funded projects; 
  							
 9. will be at adept fostering contributions and participation from a growing member and adopter base internationally.					
 
