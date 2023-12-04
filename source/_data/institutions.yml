@@ -78,6 +78,9 @@
   iiifc: 1
   logo: assets/uploads/logos/Cornell_University_seal.svg
   original: true 
+- name: Dartmouth College
+  uri: https://www.library.dartmouth.edu/
+  iiifc: 4
 - name: DaSCH - Swiss National Data and Service Center for the Humanities (University of Basel)
   uri: https://www.dasch.swiss/
   iiifc: 2
@@ -103,7 +106,7 @@
   uri:  http://www.e-codices.unifr.ch
 - name: École polytechnique fédérale de Lausanne (EPFL)
   uri: https://www.epfl.ch/index.en.html
-  iiifc: 2
+  iiifc: 
   logo: assets/uploads/logos/epfl-logo-new.svg
 - name: Europeana
   uri: https://www.europeana.eu
@@ -417,7 +420,7 @@
   logo: assets/uploads/logos/UTK.png
 - name: University of Tokyo
   uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
-  iiifc: 0
+  iiifc: 
   logo: assets/uploads/logos/UnivOfTokyo_logo.svg.png
 - name: University of Toronto
   uri: https://library.utoronto.ca
