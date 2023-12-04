@@ -24,7 +24,7 @@ Reporting Lines: The Managing Director reports to the IIIF-C Executive Committee
 
 **Specific duties include:**
  
- A. Coordinate efforts among the IIIF community**
+ **A. Coordinate efforts among the IIIF community**
 
 * Work with the IIIF-C Executive Committee, IIIF-C members, the principal committees of the IIIF community (Coordinating Committee, Editorial Committee, various Community Groups, event program committees, etc.), and the IIIF community at large, to foster synergy among the various formal and informal aspects of the IIIF;
 * Work to ensure a healthy community dynamic, including a respectful, diverse, equitable and inclusive environment from many different countries;
