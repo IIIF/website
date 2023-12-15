@@ -14,14 +14,14 @@ breadcrumbs:
 * The nearest airport is [Los Angeles International Airport (LAX)](https://www.flylax.com/)
 
 
-**Accommodations**
+## Accommodations
 
 We have reserved rooms at a number of local hotels at reduced rates from June 3, 2024 - June 8, 2024. **All listed rates are guaranteed through May 3, 2024.**
 
 **Please consider booking early; rates will rise considerably and availability will decrease in the spring.**
 
 
-**Courtyard Los Angeles Westside**
+### Courtyard Los Angeles Westside
 
 6333 Bristol Pkwy 
 
@@ -34,7 +34,7 @@ Culver City, CA 90230
 **Rate: $205 per night**
 
 
-**Renaissance Los Angeles Airport Hotel**
+### Renaissance Los Angeles Airport Hotel
 
 9620 Airport Blvd
 
@@ -47,7 +47,7 @@ Los Angeles, CA 90045
 **Rate: $169 per night**
 
 
-**Hotel Angeleno**
+### Hotel Angeleno
 
 170 N Church Lane
 
@@ -59,7 +59,8 @@ Los Angeles, CA 90049
 
 **Rate: $245 per night (includes transportation to and from UCLA)**
 
-**UCLA Guest House**
+
+### UCLA Guest House
 
 330 Charles E. Young Dr. E.
 
