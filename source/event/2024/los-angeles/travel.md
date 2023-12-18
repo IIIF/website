@@ -68,5 +68,7 @@ Los Angeles, CA 90024
 
 [Website](https://guesthouse.ucla.edu/)
 
+[To book, Use this reservation link](https://reservations.travelclick.com/102278?groupID=4133526)
+
 **Rate: $249 rate per night: Queen bed accommodation single/double occupancy. Tax exempt**
 **$259 rate per night: Queen/Twin bed accommodation single/double occupancy. Tax exempt**
