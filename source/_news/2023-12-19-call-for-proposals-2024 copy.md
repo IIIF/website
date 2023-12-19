@@ -1,5 +1,5 @@
 ---
-title: Now accepting proposals for the 2024 IIIF Annual Conference
+title: Now Accepting Proposals for the 2024 IIIF Annual Conference
 author: IIIF Consortium staff
 date: 2023-12-19
 tags: [announcements]
@@ -27,7 +27,7 @@ Please submit a proposal of 300-500 words for your presentation by **February 6.
 
 **[Call for Submissions Portal](https://www.conftool.org/iiif2024/)**
 
-Final versions of the accepted abstracts and presentations will be made openly available after the conference.
+Final versions of the accepted abstracts and presentations will be made openly available after the conference. Submissions are due by February 6, 2024.
 
 
 ### Proposal themes
