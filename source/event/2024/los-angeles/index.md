@@ -48,6 +48,20 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
 
+### Program committee
+
+Thank you to the 2024 Program committee:
+
+* Dawn Childress, UCLA Library
+* Martin Critelli, Ca' Foscari University of Venice
+* Nuno Freire, Europeana
+* Joshua Gomez, UCLA Library
+* David Newbury, Getty
+* Caitlin Perry, IIIF Consortium 
+* Julien A. Raemy, University of Basel
+* Glen Robson, IIIF Consortium
+* Sandra Santos, The Courtauld Institute of Art
+* Greete Veesalu, Estonian National Library
 
 <!-- ### **Register**
 
@@ -61,22 +75,6 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * See the [conference schedule page for the current outline schedule]({{ site.root_url | absolute_url }}/event/2023/naples/schedule) for the conference, the showcase page for the [Showcase schedule][showcase], and the [workshops page]({{ site.root_url | absolute_url }}/event/2023/naples/workshops) for the schedule of optional pre-conference workshops.
 
-
-### Program committee
-
-Thank you to the 2023 Program committee:
-
-* Rossitza Atanassova
-* Ben Bakelaar 
-* Dan Brennan
-* Dawn Childress
-* Martin Critelli
-* Gennaro Ferrante
-* Nuno Freire
-* Raffaele Messuti
-* Caitlin Perry 
-* Julien A. Raemy
-* Glen Robson 
 
 #### Local planning committee
 
