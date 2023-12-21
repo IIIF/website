@@ -45,3 +45,16 @@ We encourage showcasing developments in IIIF and in particular welcome presentat
 
 Please contact [staff@iiif.io](mailto:staff@iiif.io).
 
+### Program Committee
+
+* Dawn Childress, UCLA Library
+* Martin Critelli, Ca' Foscari University of Venice
+* Nuno Freire, Europeana
+* Joshua Gomez, UCLA Library
+* David Newbury, Getty
+* Caitlin Perry, IIIF Consortium 
+* Julien A. Raemy, University of Basel
+* Glen Robson, IIIF Consortium
+* Sandra Santos, The Courtauld Institute of Art
+* Greete Veesalu, Estonian National Library
+
