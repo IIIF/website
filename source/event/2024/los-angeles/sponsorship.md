@@ -54,4 +54,6 @@ In 2023, the IIIF Consortium sponsored two travel scholarships in order to foste
 
 Spaces are limited, so table space will be allocated in order of sponsor sign up.
 
+To indicate your interest in sponsorship, please contact admin@iiif.io as soon as possible. Payments will be accepted via check or wire transfer to the Council on Library and Information Services (CLIR), fiscal host of the IIIF Consortium. Please note that sponsorship will not be confirmed until payment is received.
+
 [los angeles]:  {{ site.root_url | absolute_url }}/event/2024/los-angeles/
