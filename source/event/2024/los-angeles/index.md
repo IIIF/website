@@ -48,6 +48,11 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
 
+### **Sponsors**
+
+We are offering sponsorship for the 2024 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
+
+
 ### Program committee
 
 Thank you to the 2024 Program committee:
