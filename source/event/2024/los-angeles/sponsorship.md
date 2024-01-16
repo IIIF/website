@@ -50,6 +50,15 @@ In 2023, the IIIF Consortium sponsored two travel scholarships in order to foste
 * Acknowledgements throughout plenary program
 
 
+### **Academic Partnerships**
+
+This year, we are seeking Academic Partners to support the ongoing work of the Consortium and to help make access to the conference accessible and affordable to more attendees. We ask our academic partners to pledge $2,000 toward the cost of hosting the conference. In return, we are pleased to offer the following benefits: 
+
+* 1 conference registration for a member of your institution
+* Logo on iiif.io website and conference slides as an Academic Partner
+* Acknowledgements throughout plenary program
+
+
 ### **Contact and Logistics**
 
 Spaces are limited, so table space will be allocated in order of sponsor sign up.
