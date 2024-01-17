@@ -15,6 +15,9 @@ They join the following institutions in serving on the Executive Committee:
 * Bibliothèque nationale de France (BnF)
 * The British Library
 * Göttingen State and University Library (SUB Göttingen)
+* National Gallery of Art
+* Northwestern University
 * Stanford University
+* University of Edinburgh
 
 For information about joining the Consortium, which makes an institution eligible to run in annual elections for Executive Committee member seats, [take a look at our membership benefits page](https://iiif.io/community/consortium/join/).
