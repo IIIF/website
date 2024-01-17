@@ -8,7 +8,7 @@ excerpt: >
   Congratulations and welcome to the institutions recently elected to the Executive Committee.
 ---
 
-We’re delighted to announce the results of the IIIF Consortium [Executive Committee](https://iiif.io/community/consortium/consortium_committees/#executive-committee) election. One institution, Ghent University, will join the committee to serve a 3-year term.. Europeana and Harvard University will continue their service on the Executive Committee with 4-year terms. Cornell University, J. Paul Getty Trust, and Yale University will serve 3-year terms. 
+We’re delighted to announce the results of the IIIF Consortium [Executive Committee](https://iiif.io/community/consortium/consortium_committees/#executive-committee) election. One new institution, Ghent University, will join the committee to serve a 3-year term. Europeana and Harvard University will continue their service on the Executive Committee with 4-year terms. Cornell University, J. Paul Getty Trust, and Yale University will continue their service for 3-year terms. 
 
 They join the following institutions in serving on the Executive Committee:
 
