@@ -19,19 +19,16 @@ The Executive Committee is currently working on developing a [new iterative stra
 
 Current Executive Committee institutions are:
 
-- Bibliothèque nationale de France (BnF)
-- British Library
-- Cornell University
-- Europeana Foundation
-- Göttingen State and University Library (SUB Göttingen)
-- Harvard University
-- J. Paul Getty Trust
-- Leiden University Libraries
-- National Gallery of Art
-- Northwestern University
-- Stanford University
-- The University of Edinburgh
-- Yale University
+{% assign items = site.data.exec_terms  %}
+{% assign year =  site.time | date: '%Y' | plus: 0 %}
+{% for batch in items  %}
+  {% assign end_year = batch.start | plus: batch.term %}
+  {% if year > batch.start and year <= end_year %}
+    {% for member in batch.members %}
+- {{ member }} - ({{batch.start}} - {{ end_year }})  
+    {% endfor %}
+  {% endif %}  
+{% endfor %}
 
 Committee Chair: Tom Cramer, Stanford University Libraries  
 Vice-chair: Regine Stein, Göttingen State and University Library (SUB Göttingen)  
@@ -47,6 +44,18 @@ Table of elections and seats for members of the IIIF Consortium Executive Commit
 |# of seats for ballot|2|11|4|5|4|4|
 |Seats for ballot|2 members elected in 2018|11 founding members|4 members elected in  2021|2 members elected  in 2020 +3 elected in 2021|4 members elected in  2021|4 members elected in  2022|
 {: .api-table}
+
+Terms ending in {{ year }}:
+{% for batch in items  %}
+  {% assign end_year = batch.start | plus: batch.term %}
+  {% if year == end_year %}
+    {% for member in batch.members %}
+- {{ member }}
+    {% endfor %}
+  {% endif %}  
+{% endfor %}
+
+
 
 ## Operating Committee
 

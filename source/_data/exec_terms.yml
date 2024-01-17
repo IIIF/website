@@ -1,0 +1,73 @@
+- name: Batch A
+  start: 2021
+  term: 3
+  members:
+    - Stanford University
+    - Bibliothèque nationale de France (BnF)
+    - British Library
+    - University of Göttingen
+- name: Batch B
+  start: 2022
+  term: 3
+  members:
+    - National Gallery of Art
+    - Northwestern University
+    - The University of Edinburgh
+- name: Batch C
+  start: 2023
+  term: 3
+  members:
+    - Cornell University
+    - Ghent University
+    - J. Paul Getty Trust
+    - Yale University
+- name: Batch Ca
+  start: 2023
+  term: 4
+  members:
+     - Europeana Foundation
+     - Harvard University
+- name: Batch D
+  start: 2024
+  term: 3
+  members:
+    - 2024 Election Seat 2                 
+    - 2024 Election Seat 3                 
+    - 2024 Election Seat 4                 
+- name: Batch Da
+  start: 2024
+  term: 4
+  members:
+    - 2024 Top Election Seat 1
+- name: Batch E
+  start: 2025
+  term: 3
+  members:
+    - 2025 Election Seat 1
+    - 2025 Election Seat 2
+    - 2025 Election Seat 3
+- name: Batch F
+  start: 2026
+  term: 3
+  members:
+    - 2026 Election Seat 1     
+    - 2026 Election Seat 2     
+    - 2026 Election Seat 3     
+    - 2026 Election Seat 4     
+- name: Batch G
+  start: 2027
+  term: 3
+  members:
+    - 2027 Election Seat 1    
+    - 2027 Election Seat 2    
+    - 2027 Election Seat 3    
+    - 2027 Election Seat 4    
+    - 2027 Election Seat 5    
+- name: Batch H
+  start: 2028
+  term: 3
+  members:
+    - 2028 Election Seat 1
+    - 2028 Election Seat 2
+    - 2028 Election Seat 3
+    - 2028 Election Seat 4
