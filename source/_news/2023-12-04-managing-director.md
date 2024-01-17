@@ -5,10 +5,9 @@ date: 2023-12-04
 tags: [announcements, staff, new hires]
 layout: post
 ---
+**Applications are now closed and we have removed the link to the application portal. Thanks to all who applied!**
 
 We have a new job posting published for the role of Managing Director of the IIIF Consortium. See below for details. 
-
-To apply, please supply a cover letter and resume through the Paylocity recruiting portal of [the Council on Library and Information Resources](https://recruiting.paylocity.com/recruiting/jobs/Details/2091051/Managing-Director-IIIF-C) (IIIF's fiscal host organization). 
 
 For any questions regarding the position, please contact <admin@iiif.io>. And please help us spread the word!
 
@@ -89,6 +88,5 @@ This is a full-time, remote position and can be based anywhere with a reliable I
 
 U.S. benefits are available via CLIR to employees; alternative employment approaches (via contracting) are possible. Minimum salary for this role will be USD$100,000 or local equivalent.
 
-This posting will be open through January 16, 2024. The search committee will only consider applications with cover letters. [Please apply through the Paylocity portal](https://recruiting.paylocity.com/recruiting/jobs/Details/2091051/Managing-Director-IIIF-C). 
-
+This posting will be open through January 16, 2024. The search committee will only consider applications with cover letters. 
 {{ theme.block-end }}
