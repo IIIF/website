@@ -72,3 +72,12 @@ Los Angeles, CA 90024
 
 **Rate: $249 rate per night: Queen bed accommodation single/double occupancy. Tax exempt**
 **$259 rate per night: Queen/Twin bed accommodation single/double occupancy. Tax exempt**
+
+
+### Luxe Sunset Boulevard
+
+11461 Sunset Blvd.
+
+Los Angeles, CA 90049
+
+[Website](https://luxehotels.com)
