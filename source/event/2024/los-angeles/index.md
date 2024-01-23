@@ -52,6 +52,15 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 We are offering sponsorship for the 2024 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
+### Call for proposals
+
+The IIIF Conference Program Committee [invites proposals]({{ site.root_url | absolute_url }}/news/2023/12/19/call-for-proposals-2024/) for presentation in the following formats:
+
+* 7 minute lightning talks
+* 15 minute presentations (plus 5 minutes for Q&A)
+* Birds of a Feather sessions (Birds of a Feather sessions are informal discussion groups that will each consider a specific issue or subject. Spaces will be designated for each topic)
+
+Proposal of no longer than 500 words are due **February 6** via the submissions portal; see the [CfP page for more submission details including themes and requirements]({{ site.root_url | absolute_url }}/news/2023/12/19/call-for-proposals-2024/).
 
 ### Program committee
 
