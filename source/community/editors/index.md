@@ -34,6 +34,7 @@ It is not expected that every Editor comment on every issue, though they should 
   * **[Robert Sanderson](https://orcid.org/0000-0003-4441-6852)** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](https://orcid.org/0000-0003-4441-6852), [_Yale University_](http://www.yale.edu/), since 16 June 2015
   * **[Dawn Childress](https://orcid.org/0000-0003-2602-2788)** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](https://orcid.org/0000-0003-2602-2788), [_UCLA_](https://www.ucla.edu/), since 03 March 2021
   * **[Jeff Mixter](https://orcid.org/0000-0002-8411-2952)** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](https://orcid.org/0000-0002-8411-2952), [_OCLC Research_](https://www.oclc.org/research/home.html), since 03 March 2021
+  * **[Julie Winchester]()** [![ORCID iD]({{ site.root_url | absolute_url }}/assets/uploads/logos/orcid_16x16.png)](), [_MorphoSource, Duke University_](https://www.morphosource.org/), since 23 January 2024
 
 ## Past membership
 
