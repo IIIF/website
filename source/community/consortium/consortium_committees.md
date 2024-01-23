@@ -19,33 +19,60 @@ The Executive Committee is currently working on developing a [new iterative stra
 
 Current Executive Committee institutions are:
 
-- Bibliothèque nationale de France (BnF)
-- British Library
-- Cornell University
-- Europeana Foundation
-- Göttingen State and University Library (SUB Göttingen)
-- Harvard University
-- J. Paul Getty Trust
-- Leiden University Libraries
-- National Gallery of Art
-- Northwestern University
-- Stanford University
-- The University of Edinburgh
-- Yale University
+{% assign items = site.data.exec_terms  %}
+{% assign year =  site.time | date: '%Y' | plus: 0 %}
+{% for batch in items  %}
+  {% assign end_year = batch.start | plus: batch.term %}
+  {% if year > batch.start and year <= end_year %}
+    {% for member in batch.members %}
+- {{ member }} - ({{batch.start}} - {{ end_year }})  
+    {% endfor %}
+  {% endif %}  
+{% endfor %}
 
 Committee Chair: Tom Cramer, Stanford University Libraries  
 Vice-chair: Regine Stein, Göttingen State and University Library (SUB Göttingen)  
 Treasurer: Neil Fitzgerald, The British Library  
 
 --- 
+Terms ending in {{ year }}:
+{% for batch in items  %}
+  {% assign end_year = batch.start | plus: batch.term %}
+  {% if year == end_year %}
+    {% for member in batch.members %}
+- {{ member }}
+    {% endfor %}
+  {% endif %}  
+{% endfor %}
+
 
 Table of elections and seats for members of the IIIF Consortium Executive Committee
+{% assign start = 2024 %}
+{% assign end = items.last.start %}
+{% assign years = "Year, 2020, 2021, 2022, 2023" |split: "," %}
+{% assign seats = "Total seats, 13, 13, 13, 13" | split: "," %}
+{% assign ballots = "Seats up for election, 2, 11, 4, 5" | split: "," %}
+{% for year in (start..end) %}
+  {% assign years = years | push: year %}
+  {% assign seat_count = 0 %}
+  {% assign ballot_count = 0 %}
+  {% for batch in items  %}
+    {% assign end_year = batch.start | plus: batch.term %}
+    {% if year == end_year %}
+      {% assign ballot_count = ballot_count | plus: batch.members.size %}
+    {% endif %}  
+    {% if year > batch.start and year <= end_year %}
+      {% assign seat_count = seat_count | plus: batch.members.size %}
+    {% endif %}  
+  {% endfor %}
+  {% assign seats = seats | push: seat_count %}
+  {% assign ballots = ballots | push: ballot_count %}
+{% endfor %}
 
-|Year|2020|2021|2022|2023|2024|2025|
-|--- |--- |--- |--- |--- |--- |--- |
-|total # of seats|13|13|13|13|13|13|
-|# of seats for ballot|2|11|4|5|4|4|
-|Seats for ballot|2 members elected in 2018|11 founding members|4 members elected in  2021|2 members elected  in 2020 +3 elected in 2021|4 members elected in  2021|4 members elected in  2022|
+{% for item in years %}{%if item == years.first %}|{% endif%} <b>{{ item }}</b> | {% endfor %}
+{% for item in seats %}{%if item == years.first %}|{% endif%} {{ item }} | {% endfor %}
+{% for item in ballots %}{%if item == years.first %}|{% endif%} {{ item }} | {% endfor %}
+| Notes: | |11 founding members|| 2 serving 4 year terms| 1 serving 4 year term|  
 {: .api-table}
 
 ## Operating Committee
@@ -57,6 +84,4 @@ Current members:
 - Tom Cramer, Stanford University Libraries
 - Regine Stein, Göttingen State and University Library (SUB Göttingen)
 - Neil Fitzgerald, The British Library
-- Roger Lawson, National Gallery of Art
 - Simeon Warner, Cornell University
-- Mike Appleby, Yale University
