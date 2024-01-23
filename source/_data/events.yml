@@ -1,21 +1,10 @@
-- label: IIIF Online Meeting 2023
+- label: "IIIF Online Training March 2024"
   time:
-    start: 2023-12-05T06:00:00Z
-    end: 2023-12-07T23:00:00Z
-  links:
-    - label: More info
-      link: "/event/2023/online-meeting/"
-    - label: Register
-      link: "https://www.eventbrite.com/e/2023-iiif-online-meeting-tickets-691071051117"
-  location: 
-    label: "Online"
-- label: "IIIF Online Training December 2023"
-  time:
-    start: 2023-12-11T10:00:00Z
-    end: 2023-12-15T22:00:00Z
+    start: 2024-03-18T17:00:00Z
+    end: 2024-03-22T17:00:00Z
   links:
     - label: More info & registration
-      link: "https://www.eventbrite.com/e/december-2023-iiif-online-training-5-day-course-tickets-709453002027"
+      link: "https://www.eventbrite.com/e/march-2024-iiif-online-training-5-day-course-tickets-795358006207"
   location:
     label: "Online"
 - label: IIIF Annual Conference 2024
@@ -29,3 +18,21 @@
     #   link: "/event/2023/naples/travel"
   location: 
     label: "Los Angeles, CA, USA"
+- label: "IIIF Online Training June 2024"
+  time:
+    start: 2024-06-17T13:00:00Z
+    end: 2024-06-21T13:00:00Z
+  links:
+    - label: More info & registration
+      link: "https://www.eventbrite.com/e/june-2024-iiif-online-training-5-day-course-tickets-795359239897"
+  location:
+    label: "Online"
+- label: "IIIF Online Training November 2024"
+  time:
+    start: 2024-11-25T10:00:00Z
+    end: 2024-11-29T10:00:00Z
+  links:
+    - label: More info & registration
+      link: "https://www.eventbrite.com/e/november-2024-iiif-online-training-5-day-course-tickets-795361416407"
+  location:
+    label: "Online"
