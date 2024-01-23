@@ -47,6 +47,7 @@ It is not expected that every Editor comment on every issue, though they should 
 
  | Date       | Description                                                          |
  | ---------- | -------------------------------------------------------------------- |
+ | 2024-01-23 | Adding Julie to the list of editors                   |
  | 2023-07-10 | Updated to note Simeon stepped down                   |
  | 2021-11-15 | Updated to note Maria and Jon stepped down |
  | 2021-03-04 | Updated to include Maria, Jeff, and Dawn, update Rob's affiliation |
