@@ -84,6 +84,4 @@ Current members:
 - Tom Cramer, Stanford University Libraries
 - Regine Stein, Göttingen State and University Library (SUB Göttingen)
 - Neil Fitzgerald, The British Library
-- Roger Lawson, National Gallery of Art
 - Simeon Warner, Cornell University
-- Mike Appleby, Yale University
