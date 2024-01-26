@@ -52,6 +52,10 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 We are offering sponsorship for the 2024 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
+The IIIF Annual Conference is generously supported by the following Conference Sponsors:
+
+{% include 2024_sponsors.html %} 
+
 ### Call for proposals
 
 The IIIF Conference Program Committee [invites proposals]({{ site.root_url | absolute_url }}/news/2023/12/19/call-for-proposals-2024/) for presentation in the following formats:
