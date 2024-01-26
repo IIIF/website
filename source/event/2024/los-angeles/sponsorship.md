@@ -10,7 +10,7 @@ The International Image Interoperability Framework (IIIF) conference offers an e
 The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small Universities, Libraries, Archives and Museums, including: collection managers, software developers, UX researchers, subject matter experts, and more. We expect 250-300 attendees keen to learn about IIIF and associated projects, technologies, and best practices.
 
 
-**SOLD OUT  ~~Platinum Sponsor - $7,000 (1 available)~~**
+### **SOLD OUT  ~~Platinum Sponsor - $7,000 (1 available)~~**
 
 ~~* Named Sponsor of the Conference Reception at the UCLA Botanical Gardens~~
 ~~* 2 conference registrations~~
