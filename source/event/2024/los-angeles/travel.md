@@ -81,3 +81,7 @@ Los Angeles, CA 90024
 Los Angeles, CA 90049
 
 [Website](https://luxehotels.com)
+
+[To book, Use this reservation link](https://www.luxehotels.com/book/dates-of-stay?groupID=4212752)
+
+**Rate: $224 rate per night: Queen bed accommodation single/double occupancy.**
