@@ -1,5 +1,5 @@
 ---
-title: "IIIF Discovery Technical Specification Group"
+title: "IIIF for Education Community Group"
 layout: page
 breadcrumbs:
  - label: "Get Involved"
@@ -10,27 +10,9 @@ breadcrumbs:
    link: /community/groups/
 ---
 
-**Note: The Discovery TSG has completed its work as of Summer 2022. See below for a set of links summarizing outputs (including extensions), implementations, and more.**
-
 ## About
 
-Interoperable resources are only useful if they can be found. This has been well-recognized since the early days of the IIIF community, and more recently it has become clear that a concerted effort to standardize patterns that will facilitate discovery, harvesting and synchronization, indexing, and importing of IIIF resources is required.
-
-The IIIF Discovery Technical Specification Group will create specifications that improve the discovery process for IIIF resources, with a focus on leveraging existing techniques and tools, and promoting widespread adoption within the community. It will assist with and steer the implementation of community infrastructure, such as a registry of adopters, validators for the implementations, and transformation tools to generate the required data from existing systems and APIs.
-
-If successful, the work will enable the collaborative development of global or thematic registries, search engines and portal applications that allow developers and end users to easily find and use content available via existing IIIF APIs. The [Discovery Group charter][charter] provides an outline and timeline for anticipated work.
-
----
-
-## **Outputs of the TSG**
-
-API specifications:
-* [Change Discovery API](https://iiif.io/api/discovery/1.0/)
-* [Content State API](https://iiif.io/api/content-state/1.0/)
-
-Documentation and support material
-* [Registry of (Metadata) Profiles](https://iiif.io/api/registry/profiles/)
-* [Note on SEO guidance](https://guides.iiif.io/IIIF-and-SEO/)
+The IIIF Community Group for Education represents educators, educational institutions, and cultural heritage institutions with educational functions as a sector with a coherent set of interests for consideration in the development of IIIF standards and related technologies. IIIF originated in the GLAM sector, so it is not unexpected that its uptake in educational institutions has lagged behind those of cultural heritage content providers. The Community Group for Education seeks to address that gap and to help leverage capacities of the broader IIIF community to meet the many and particular needs of what is likely to be the largest and most engaged audience for IIIF content. Representing numerous complex and collaborative scenarios, education offers growth potential in future generations. 
 
 ---
 
@@ -38,31 +20,27 @@ Documentation and support material
 
 **Chairs:**
 
-  * Antoine Isaac (Europeana)
-  * Matt McGrattan (Digirati)
-  * Robert Sanderson (Yale University)
+  * Christopher Gilman (University of California, Los Angeles)
+  * Lise Foket (Ghent University)
+  * Ben Johnton (Princeton University)
 
 **Communication channels:**
 
-  * Calls every other week on Wednesdays at 1:00pm Eastern (opposite the general IIIF Community Call) - see [IIIF Community Calendar][iiif-calendar] for details
-  * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
-  * General discussion on the [# discovery IIIF Slack channel][discovery-slack] ([Join Slack][slack])
+* Online Zoom calls on the first Tuesday of every month at 8:00am Pacific, 11:00am Eastern, 4:00pm GMT, 5:00 CET. See [IIIF Community Calendar](https://iiif.io/community/groups/) for details
+* Virtual meetings announced on the[ IIIF-Discuss](https://groups.google.com/forum/#!forum/iiif-discuss) email list
+* General discussion on the [#iiif-in-the-classroom](http://bit.ly/iiif-slack) IIIF Slack channel
+
 
 **Call notes and group documents:**
 
-  * [Discovery TSG folder][discovery-folder]
+  * [IIIF for Education Group folder](https://drive.google.com/drive/folders/1wrAIIi9EZmfZ2FumKY4q2r8tuCMMlBZ_)
 
-**Call connection information:**
 
-  * Online: [Zoom][zoom-link]
-  * Phone: see [international numbers][international-zoom] - Enter Meeting ID: 829945399, Participant ID: #
 
-[charter]: {{ site.root_url | absolute_url }}/community/groups/discovery/charter
+[charter]: {{ site.root_url | absolute_url }}/community/groups/education/charter
 [events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
-[discovery-slack]: https://iiif.slack.com/messages/discovery/details/
-[discovery-folder]: https://drive.google.com/drive/u/0/folders/0B_Alni5J8UNITzlpYW1MdnFpSlU
+[education-slack]: https://iiif.slack.com/messages/iiif-in-the-classroom/details/
+[education-folder]: https://drive.google.com/drive/folders/1Pw019eMGLEEadM-8o9ChvneEETOSSS_e
 [slack]: http://bit.ly/iiif-slack
-[zoom-link]: https://stanford.zoom.us/j/829945399?pwd=u8KPNHGHxJk
 [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
-[international-zoom]: https://zoom.us/zoomconference
