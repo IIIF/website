@@ -59,6 +59,17 @@
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7 
   meeting_frequency: Monthly on the last Wednesday
+- id: education
+  label: Education
+  alternate_names: 
+    - IIIF for Education Community Group
+    - IIIF Education Community Group
+    - Education
+  description: This group represents educators, educational institutions, and cultural heritage institutions with educational functions as a sector with a coherent set of interests for consideration in the development of IIIF standards and related technologies.
+  link: /community/groups/education
+  type: community 
+  notes: https://drive.google.com/drive/folders/1wrAIIi9EZmfZ2FumKY4q2r8tuCMMlBZ_
+  meeting_frequency: Monthly on the first Tuesday
 - id: manuscripts 
   label: Manuscripts 
   description: A group focused on working with images of hand-written materials in particular. 
