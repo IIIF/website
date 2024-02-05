@@ -22,7 +22,7 @@ The IIIF Community Group for Education represents educators, educational institu
 
   * Christopher Gilman (University of California, Los Angeles)
   * Lise Foket (Ghent University)
-  * Ben Johnton (Princeton University)
+  * Ben Johnston (Princeton University)
 
 **Communication channels:**
 

@@ -58,7 +58,7 @@ Christopher Gilman (University of California, Los Angeles)
 
 Lise Foket (Ghent University)
 
-Ben Johnton (Princeton University)
+Ben Johnston (Princeton University)
 
 
 ### Communication Channels
