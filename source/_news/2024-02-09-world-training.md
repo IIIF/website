@@ -14,8 +14,7 @@ Throughout March and April 2024, the IIIF Consortium will host a series of free 
 
 Each event is free, but advanced registration is required and space is limited. 
 
-### **March 1, 2024 - English**
-
+**March 1, 2024 - English**
 **10:30AM GMT**
 
 **[Register here](https://www.tickettailor.com/events/rluk/1152523)**
@@ -25,8 +24,7 @@ Each event is free, but advanced registration is required and space is limited.
 Led by Claire Knowles, University of Leeds and Alison Harvey, Cardiff University
 
 
-### **March 13, 2024 - French**
-
+**March 13, 2024 - French**
 **3:00PM CET**
 
 **[Register here](https://stanford.zoom.us/meeting/register/tJEsc-ioqTotGNST3kXZm5_Zv0cSE7-OJFIP)**
@@ -34,8 +32,7 @@ Led by Claire Knowles, University of Leeds and Alison Harvey, Cardiff University
 Led by Régis Robineau and Cécile Sajdak, Biblissima+
 
 
-### **March 18, 2024 - Chinese**
-
+**March 18, 2024 - Chinese**
 **10:00AM CCT**
 
 **[Register here](https://stanford.zoom.us/meeting/register/tJ0rf-6pqjsoHdaySn3tj9aFEizCS1ZOARBr)**
@@ -43,7 +40,7 @@ Led by Régis Robineau and Cécile Sajdak, Biblissima+
 Led by Jie Song, IntelliJourney
 
 
-### **March 19, 2024 - English**
+**March 19, 2024 - English**
 **12:00PM ET**
 
 **[Register here](https://stanford.zoom.us/meeting/register/tJ0kduGvpz8iGdY_ZqLFRtv03U09DysQIHtL)**
@@ -53,12 +50,12 @@ Led by Caitlin Perry, IIIF and Cassie Ulph, University of Leeds
 
 ### **Coming Soon**
 
-### **Portuguese**
+**Portuguese**
 
 Led by Martim Passos, Instituto Moreira Salles
 
 
-### **Italian**
+**Italian**
 
 Led by and Andrea Zanni, MLOL
 
