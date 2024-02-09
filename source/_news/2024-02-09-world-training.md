@@ -8,13 +8,13 @@ excerpt: >
   Throughout March and April 2024, the IIIF Consortium will host a series of free online training sessions, delivered in several languages. 
 ---
 
-### IIIF World Training Events
+## IIIF World Training Events
 
 Throughout March and April 2024, the IIIF Consortium will host a series of free online training sessions, delivered in several languages. These training sessions are aimed at beginners, with no technical expertise necessary. They provide a short and simple introduction to what IIIF is, how it works, and the multitude of use cases for IIIF resources in research, education, and communications. 
 
 Each event is free, but advanced registration is required and space is limited. 
 
-## **March 1, 2024 - English**
+### **March 1, 2024 - English**
 
 **10:30AM GMT**
 
@@ -25,7 +25,7 @@ Each event is free, but advanced registration is required and space is limited.
 Led by Claire Knowles, University of Leeds and Alison Harvey, Cardiff University
 
 
-## **March 13, 2024 - French**
+### **March 13, 2024 - French**
 
 **3:00PM CET**
 
@@ -34,7 +34,7 @@ Led by Claire Knowles, University of Leeds and Alison Harvey, Cardiff University
 Led by Régis Robineau and Cécile Sajdak, Biblissima+
 
 
-## **March 18, 2024 - Chinese**
+### **March 18, 2024 - Chinese**
 
 **10:00AM CCT**
 
@@ -43,7 +43,7 @@ Led by Régis Robineau and Cécile Sajdak, Biblissima+
 Led by Jie Song, IntelliJourney
 
 
-## **March 19, 2024 - English**
+### **March 19, 2024 - English**
 **12:00PM ET**
 
 **[Register here](https://stanford.zoom.us/meeting/register/tJ0kduGvpz8iGdY_ZqLFRtv03U09DysQIHtL)**
@@ -51,14 +51,14 @@ Led by Jie Song, IntelliJourney
 Led by Caitlin Perry, IIIF and Cassie Ulph, University of Leeds
 
 
-## **Coming Soon**
+### **Coming Soon**
 
-## **Portuguese**
+### **Portuguese**
 
 Led by Martim Passos, Instituto Moreira Salles
 
 
-## **Italian**
+### **Italian**
 
 Led by and Andrea Zanni, MLOL
 
