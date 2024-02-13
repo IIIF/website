@@ -1,4 +1,14 @@
-- label: "IIIF Online Training March 2024"
+- label: "IIIF World Training"
+  description: Throughout March and April 2024, the IIIF Consortium will host a series of free online training sessions, delivered in several languages. These training sessions are aimed at beginners, with no technical expertise necessary. They provide a short and simple introduction to what IIIF is, how it works, and the multitude of use cases for IIIF resources in research, education, and communications.
+  time:
+    start: 2024-03-01T10:00:00Z
+    end: 2024-03-19T10:00:00Z
+  links:
+    - label: More info & registration
+      link: "/news/2024/02/09/world-training/"
+  location:
+    label: "Online"
+- label: "IIIF Online Training March 2024 (5 Day course)"
   time:
     start: 2024-03-18T17:00:00Z
     end: 2024-03-22T17:00:00Z
@@ -18,7 +28,7 @@
     #   link: "/event/2023/naples/travel"
   location: 
     label: "Los Angeles, CA, USA"
-- label: "IIIF Online Training June 2024"
+- label: "IIIF Online Training June 2024 (5 Day course)"
   time:
     start: 2024-06-17T13:00:00Z
     end: 2024-06-21T13:00:00Z
@@ -27,7 +37,7 @@
       link: "https://www.eventbrite.com/e/june-2024-iiif-online-training-5-day-course-tickets-795359239897"
   location:
     label: "Online"
-- label: "IIIF Online Training November 2024"
+- label: "IIIF Online Training November 2024 (5 Day course)"
   time:
     start: 2024-11-25T10:00:00Z
     end: 2024-11-29T10:00:00Z
