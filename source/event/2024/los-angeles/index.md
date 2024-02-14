@@ -44,6 +44,10 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 <!-- * Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and €125 for students. Registration closes May 16, 2023. -->
 * Language: All event proceedings will be in English unless otherwise noted.
 
+### **Register**
+
+* Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2024/). Registration will close on May 14, 2024. 
+
 ### **Travel**
 
 * Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
