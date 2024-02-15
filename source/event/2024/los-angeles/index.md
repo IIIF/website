@@ -38,10 +38,10 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Location: Los Angeles, CA, USA
     * Conference: June 4-5, 2024
-    * Workshops and meetings: June 6, 2024
+    * Birds of a Feather sessions and meetings: June 6, 2024
     * Showcase: June 7, 2024
 * Registration for the IIIF Showcase is free.
-<!-- * Costs for the conference will be €480 for a general ticket, €230 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and €125 for students. Registration closes May 16, 2023. -->
+* Costs for the conference will be $495 for a general ticket, $255 for a [consortium members]({{ site.root_url | absolute_url }}/community/consortium) ticket, and $125 for students. Registration closes May 14, 2024.
 * Language: All event proceedings will be in English unless otherwise noted.
 
 ### **Register**
@@ -84,6 +84,8 @@ Thank you to the 2024 Program committee:
 * Glen Robson, IIIF Consortium
 * Sandra Santos, The Courtauld Institute of Art
 * Greete Veesalu, Estonian National Library
+
+
 
 <!-- ### **Register**
 
