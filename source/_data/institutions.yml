@@ -228,7 +228,7 @@
   logo: assets/uploads/logos/NII_mainLogo.gif
 - name: National Institute of Japanese Literature, National Institutes for Humanities, Japan
   uri: https://www.nijl.ac.jp/en/
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/nijl_logo_ogp.png
 - name: National Library of Austria
   uri: https://www.onb.ac.at/en/
