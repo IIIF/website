@@ -52,6 +52,14 @@ Led by Jie Song, IntelliJourney
 Led by Caitlin Perry, IIIF and Cassie Ulph, University of Leeds
 
 
+#### **April 18, 2024 - Italian**
+
+**3:00PM CET**
+
+**[Register here](https://stanford.zoom.us/meeting/register/tJMoc-CvrTosGN1R1hDmlPkNaD-bu-Cl8opH)**
+Led by Francesco Pandini, Paola Pala, and Andrea Zanni, MLOL
+
+
 ## **Coming Soon**
 
 #### **Portuguese**
