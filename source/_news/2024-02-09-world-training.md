@@ -25,6 +25,7 @@ Each event is free, but advanced registration is required and space is limited.
 Led by Claire Knowles, University of Leeds and Alison Harvey, Cardiff University
 
 
+
 #### **March 13, 2024 - French**
 
 **3:00PM CET**
@@ -32,6 +33,7 @@ Led by Claire Knowles, University of Leeds and Alison Harvey, Cardiff University
 **[Register here](https://stanford.zoom.us/meeting/register/tJEsc-ioqTotGNST3kXZm5_Zv0cSE7-OJFIP)**
 
 Led by Régis Robineau and Cécile Sajdak, Biblissima+
+
 
 
 #### **March 18, 2024 - Chinese**
@@ -43,6 +45,7 @@ Led by Régis Robineau and Cécile Sajdak, Biblissima+
 Led by Jie Song, IntelliJourney
 
 
+
 #### **March 19, 2024 - English**
 
 **12:00PM ET**
@@ -52,12 +55,15 @@ Led by Jie Song, IntelliJourney
 Led by Caitlin Perry, IIIF and Cassie Ulph, University of Leeds
 
 
+
 #### **April 18, 2024 - Italian**
 
 **3:00PM CET**
 
 **[Register here](https://stanford.zoom.us/meeting/register/tJMoc-CvrTosGN1R1hDmlPkNaD-bu-Cl8opH)**
+
 Led by Francesco Pandini, Paola Pala, and Andrea Zanni, MLOL
+
 
 
 ## **Coming Soon**
@@ -65,11 +71,6 @@ Led by Francesco Pandini, Paola Pala, and Andrea Zanni, MLOL
 #### **Portuguese**
 
 Led by Martim Passos, Instituto Moreira Salles
-
-
-#### **Italian**
-
-Led by and Andrea Zanni, MLOL
 
 
 For more information, or to host your own training event, please contact staff@iiif.io
