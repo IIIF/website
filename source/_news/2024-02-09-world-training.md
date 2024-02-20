@@ -36,6 +36,15 @@ Led by Régis Robineau and Cécile Sajdak, Biblissima+
 
 
 
+#### **March 13, 2024 - Portuguese**
+
+**2:00PM BRT**
+
+**[Register here](https://stanford.zoom.us/meeting/register/tJIocuurrz4uHNy_Bjx2inNph3ocK1Li-y3e#/registration)**
+
+Led by Martim Passos, Instituto Moreira Salles
+
+
 #### **March 18, 2024 - Chinese**
 
 **10:00AM CCT**
@@ -64,13 +73,6 @@ Led by Caitlin Perry, IIIF and Cassie Ulph, University of Leeds
 
 Led by Francesco Pandini, Paola Pala, and Andrea Zanni, MLOL
 
-
-
-## **Coming Soon**
-
-#### **Portuguese**
-
-Led by Martim Passos, Instituto Moreira Salles
 
 
 For more information, or to host your own training event, please contact staff@iiif.io
