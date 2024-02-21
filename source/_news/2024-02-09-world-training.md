@@ -18,7 +18,7 @@ Each event is free, but advanced registration is required and space is limited.
 
 **10:30AM GMT**
 
-**[Register here](https://www.tickettailor.com/events/rluk/1152523)**
+**Registration FULL**
 
 (RLUK Members only)
 
