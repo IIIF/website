@@ -34,7 +34,7 @@ Please add examples and use cases at <https://github.com/IIIF/iiif-3d-stories/is
 
   * Ronald Haynes ([Cambridge University][ronald])
   * Mike Boyd ([University of Edinburgh][mike])
-  * Thomas Flynn ([Spatial Heritage Review][https://nebulousflynn.substack.com/])
+  * Thomas Flynn ([Spatial Heritage Review](https://nebulousflynn.substack.com/]))
 
 **Communication channels:**
 
@@ -56,7 +56,7 @@ IIIF 3D Community Group Folder ([https://goo.gl/LGKc7u](https://goo.gl/LGKc7u))
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [3d-slack]: https://iiif.slack.com/messages/3d/details/
 [slack]: http://bit.ly/iiif-slack
-[zoom-link]: https://stanford.zoom.us/j/99234876885?pwd=ai9Kb3BldmhGYzZpWVJFSTJrVEwvQT09
+[zoom-link]: https://stanford.zoom.us/j/97121668064?pwd=ZWw3RnFkbXVnc2pKNndmRW95ZjZSZz09
 [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
 [international-zoom]: https://zoom.us/zoomconference
 [3d-charter]: {{ site.root_url | absolute_url }}/community/groups/3d/charter
