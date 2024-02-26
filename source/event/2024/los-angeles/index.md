@@ -62,7 +62,7 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 ### **Travel Scholarship**
 
-In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to announce two travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/annual_conference_travel_scholarship)
+In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to announce two travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/annual_conference_travel_scholarship).
 
 ### Call for proposals
 
