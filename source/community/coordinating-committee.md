@@ -42,19 +42,17 @@ CoCo meets monthly.
 - Michael Appleby, Yale University
 - Mike Bennett, DataCite
 - Dawn Childress, UCLA
-- Stefano Cossu, J. Paul Getty Trust
 - Tom Cramer, Stanford University
 - Tom Crane, Digirati
 - Arcadia Falcone, Stanford Universty
-- Josh Hadro, IIIF Consortium
-- Stace Maples, Stanford University
 - Caitlin Perry, IIIF Consortium
+- Stace Maples, Stanford University
 - Julien A. Raemy, University of Basel
 - Glen Robson, IIIF Consortium
 - Ed Silverton, Mnemoscene
 - Simeon Warner, Cornell University
 - Jeff Witt, Loyola University Maryland
-- Karina Wratschko, Philadelphia Museum of Art
+- Karina Wratschko, Getty
 
 
 [groups]:{{site.root_url | absolute_url }}/community/groups/#technical-specification-groups-tsgs
