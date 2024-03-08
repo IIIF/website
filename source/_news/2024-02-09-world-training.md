@@ -59,7 +59,7 @@ Led by Jie Song, IntelliJourney
 
 **12:00PM ET**
 
-**[Register here](https://stanford.zoom.us/meeting/register/tJ0kduGvpz8iGdY_ZqLFRtv03U09DysQIHtL)**
+**Registration FULL**
 
 Led by Caitlin Perry, IIIF and Cassie Ulph, University of Leeds
 
@@ -71,7 +71,7 @@ Led by Caitlin Perry, IIIF and Cassie Ulph, University of Leeds
 
 **[Register here](https://stanford.zoom.us/meeting/register/tJMoc-CvrTosGN1R1hDmlPkNaD-bu-Cl8opH)**
 
-Led by Francesco Pandini, Paola Pala, and Andrea Zanni, MLOL
+Led by Francesca Liborio, Isabella Manchia, Fabio Mercanti, Raffaele Messuti, Andrea Zanni MLOL
 
 
 
