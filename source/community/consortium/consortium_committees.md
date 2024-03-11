@@ -85,3 +85,5 @@ Current members:
 - Regine Stein, Göttingen State and University Library (SUB Göttingen)
 - Neil Fitzgerald, The British Library
 - Simeon Warner, Cornell University
+- Rashmi Singhal, Harvard University
+- David Newbury, J. Paul Getty Trust
