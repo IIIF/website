@@ -6,8 +6,8 @@ banner: true
 breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'
-  - label: Naples 2023
-    link: '{{ site.root_url }}/event/2023/los-angeles/'
+  - label: Los Angeles
+    link: '{{ site.root_url }}/event/2024/los-angeles/'
 sections:
   - title: Conference Day 1
     key: "1"

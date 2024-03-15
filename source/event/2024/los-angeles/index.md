@@ -53,7 +53,7 @@ Please register for Conference and/or the Showcase using Conftool. Payment must 
 The conference will run between the Tuesday the 4th of June to Thursday the 6th of June. There will also be a showcase for people new to IIIF on Friday the 7th of June.
 
 Conference:
- * [Day 1 - Tuesday, June 4th](schedule/)
+ * [Day 1 - Tuesday, June 4th]({{ site.root_url }}/schedule/)
  * Day 2 - Wednesday, June 5th
  * Birds of a feather sessions - Thursday, June 6th
 
