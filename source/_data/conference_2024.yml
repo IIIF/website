@@ -92,6 +92,97 @@
     type: Presentation
   start: '9:45'
   type: presentations
+'10':
+  date: '2024-06-07'
+  end: '16:45'
+  id: '10'
+  session_time: 'Wednesday, June 7th: 3:45pm - 4:45pm'
+  sessions:
+  - abstract: "In the early 20th century, Mogao Cave 17 near Dunhuang, China, was\
+      \ opened up, revealing thousands of manuscripts, documents, paintings and more\
+      \ that had lain undisturbed since their 11th century concealment. These artefacts,\
+      \ compared to the Dead Sea Scrolls in significance, were dispersed across global\
+      \ institutions by early 1900s explorers from colonial powers.<br/><br/>In the\
+      \ 90s, the International Dunhuang Programme (IDP) formed; uniting 42 partners\
+      \ to conserve, catalogue, and digitize Eastern Silk Road collections \u2013\
+      \ including the Dunhuang finds. 30 years later, cultural sector digital specialists\
+      \ Surface Impression were tasked with updating the now woefully outdated IDP\
+      \ website to greatly enhance access to these worldwide collections.<br/><br/>IIIF\
+      \ was key to the new development, given its ability to reunite dispersed items.\
+      \ But there was a catch! Scroll-format manuscripts number over 20,000 items,\
+      \ including the 5 metre (16.5\u2019) wide Diamond Sutra (a 200:1 aspect ratio).<br/><br/>This\
+      \ presentation explores creative and technical strategies for diverse and often\
+      \ awkwardly sized materials within IIIF. It will examine how the IIIF community\
+      \ can innovate display methods while maintaining interoperability. It will be\
+      \ wide ranging and exploratory - including design, tech, viewers, curatorship\
+      \ and managing a complex digital project while under extreme pressure from external\
+      \ events! "
+    authors:
+    - name: Peter Pavement
+      org: Surface Impression
+    - name: Anastasia Pineschi
+      org: The British Library
+    end: '04:00 '
+    id: '147'
+    start: '03:45 '
+    title: 'Scrolling Along the Eastern Silk Roads: IIIF adapted to ancient scroll-format
+      manuscripts'
+    type: Presentation
+  - abstract: "We are living through yet another transformative era when the fundamental\
+      \ drivers of Internet content creation, curation, and reuse are shifting as\
+      \ massive AI and ML applications reform our shared digital landscape. In response\
+      \ to these shifting sands, we need to rethink the ways we can best provide quality\
+      \ research and reuse interactions for our richly described content shared through\
+      \ IIIF APIs and related Manifests. The unregulated consumption of data and resources\
+      \ by AI-powered bots and harvesters is increasingly more tenuous and challenges\
+      \ our well established ideas of what openness means. We propose the implementation\
+      \ of standardized \u201Cno-AI'' or \u201Cregulated AI\u201D tags in IIIF Manifests\
+      \ that could be applied in repository environments across the globe. Similar\
+      \ to the initiatives crafted by other creative content communities to limit\
+      \ the scraping of images and text using \u201Cnoai\u201D and \u201Cnoimageai\u201D\
+      \ meta HTML tags, we propose that the IIIF Community considers implementing\
+      \ a set of tags within the standard IIIF API frameworks to help better regulate\
+      \ AI/ML content scraping and non-consented or attributed use of IIIF powered\
+      \ content in AI/ML applications. We strongly believe in the value of creating\
+      \ consensus and shared practices in our own community for combating this significant\
+      \ challenge. "
+    authors:
+    - name: Allison Kelly Sherrick
+      org: Metropolitan New York Library Council, United States of America
+    - name: Diego Alberto Pino Navarro
+      org: Metropolitan New York Library Council, United States of America
+    end: '04:15 '
+    id: '116'
+    start: '04:00 '
+    title: 'Creating a better balance: respectful reuse and AI/ML Tags in IIIF Manifests'
+    type: Presentation
+  - abstract: "Georeferencing, or the ability to match scanned images of maps to their\
+      \ real-world geographies, has become an increasingly desirable workflow at map-holding\
+      \ institutions. The Allmaps software ecosystem uses WebGL and IIIF to warp maps\
+      \ on the client side of a web browser, reducing many of the barriers to georeferencing\
+      \ that are inherent to traditional desktop georeferencing (e.g., ArcGIS, QGIS).\
+      \ While Allmaps represents a next-generation tool for georeferencing, it is\
+      \ not a panacea. In this presentation, we reflect on frictions that we\u2019\
+      ve encountered when discussing Allmaps as a georeferencing solution with other\
+      \ map-holding institutions, including its possibilities and the anxieties it\
+      \ raises for prospective users. We begin with a brief overview of the Allmaps\
+      \ software ecosystem, drawing concrete examples from the LMEC case to highlight\
+      \ possibilities for using Allmaps with digital map collections. Then, we highlight\
+      \ three anxieties that are commonly encountered when proposing Allmaps as a\
+      \ georeferencing solution at other institutions. By way of conclusion, we sketch\
+      \ out a governance structure for Allmaps - and potentially for other software\
+      \ projects that use IIIF - that might ease some of these anxieties for prospective\
+      \ users."
+    authors:
+    - name: Ian Spangler
+      org: Leventhal Map & Education Center, United States of America
+    end: '04:30 '
+    id: '145'
+    start: '04:15 '
+    title: Possibilities and anxieties in IIIF-powered georeferencing of map collections
+    type: Presentation
+  start: '15:45'
+  type: presentations
 '2':
   date: '2024-06-06'
   end: '12:30'
@@ -538,4 +629,380 @@
     title: IIIF Manifest Editor - latest developments
     type: Presentation
   start: '16:00'
+  type: presentations
+'6':
+  date: '2024-06-07'
+  end: '10:30'
+  id: '6'
+  session_time: 'Wednesday, June 7th: 9:00am - 10:30am'
+  sessions:
+  - abstract: "Canvas Panel is a Web Component that renders a IIIF Canvas and the\
+      \ annotations on it. It makes development of arbitrary IIIF apps easier with\
+      \ a \u201Ccanvas-native\u201D component that understands annotations as well\
+      \ as image services. A concise <canvas-panel> component on a web page renders\
+      \ one IIIF Canvas, and provides properties, events and functions to support\
+      \ user interaction with the content on the Canvas, as pure IIIF and web annotations.<br/><br/>Canvas\
+      \ Panel is not a viewer (not on its own, anyway) - it has no concept of digital\
+      \ objects, or IIIF Manifests and structure. But you can quickly build viewers\
+      \ with it, and we\u2019ll show you some examples of this in this presentation.<br/><br/>Canvas\
+      \ Panel is to a IIIF Canvas as OpenSeadragon or Leaflet are to the IIIF Image\
+      \ API.<br/><br/>Documentation is at https://iiif-canvas-panel.netlify.app/docs/intro "
+    authors:
+    - name: Tom Crane
+      org: Digirati
+    - name: Stephen Fraser
+      org: Digirati
+    end: '09:15 '
+    id: '122'
+    start: '09:00 '
+    title: Canvas Panel - a component for building IIIF user interfaces
+    type: Presentation
+  - abstract: In this paper, we present SCENE - a multi-user IIIF-driven environment
+      for multimodal document analysis. SCENE builds on a fork of Mirador where we
+      add support for video and audio resources. We couple this to a powerful Mirador
+      annotation plugin that supports annotation of AV documents as textual annotations,
+      visual overlays, time-linked annotations, and links to other Manifests. All
+      of this is available as a multi-user web environment, where anyone with an email
+      can sign up and start creating, consulting and annotating IIIF format content
+      free of charge. In this paper we shall present the development process, as well
+      as a number of case studies in various digital humanities fields that drove
+      development. We shall also discuss some of our plans to render the environment
+      fully open with a RESTful API, allowing SCENE to engage with machine learning
+      and artificial intelligence-based workflows, and other IIIF-driven projects.
+    authors:
+    - name: Jacob Hart
+      org: "Universit\xE9 Rennes 2, France"
+    - name: David Rouquet
+      org: "T\xE9tras Libre"
+    - name: Clarisse Bardiot
+      org: "Universit\xE9 Rennes 2, France"
+    end: '09:30 '
+    id: '111'
+    start: '09:15 '
+    title: 'SCENE: a multi-user IIIF-driven environment for multimodal document analysis.'
+    type: Presentation
+  - abstract: This technical presentation will focus on how Archipelago, an OSS Repository
+      system developed by the Metropolitan New York Library council for the past 5
+      years that integrates IIIF tightly in all its concerns, allows time based Audio
+      and Video, transcripts, to be converted natively into W3C compliant Annotations
+      for its internal IIIF Content Search discovery (Version 1 and 2) APIs, by mutating
+      back and forth temporal dimensions into spatial ones (x,y), encoding and storing
+      them as discoverable OCR in MiniOCR format into a backend Solr Server. This
+      approach allows us to reuse the OCR Highlight plugin developed by the Bavarian
+      State Library Team which already powers textual annotations of image based resources
+      and thus reuse all the supporting code that drives our ingest, pre and post
+      processing workflows and discovery.<br/><br/>
+    authors:
+    - name: Diego Alberto Pino Navarro
+      org: Metropolitan New York Library Council, United States of America
+    - name: Allison Kelly Sherrick
+      org: Metropolitan New York Library Council, United States of America
+    end: '09:45 '
+    id: '117'
+    start: '09:30 '
+    title: Transdimensional mutations for audio/moving media annotations in IIIF Content
+      Search
+    type: Presentation
+  - abstract: The spectacular increase in quality and availability of Handwritten
+      Text Recognition (HTR) produces large historical collections of scanned images
+      with matching HTR transcriptions. At KNAW Humanities Cluster we process and
+      publish several of such collections, a.o. 17th-18th century Resolutions of the
+      Dutch States General (parliament) and 5 million pages from the archives of the
+      Dutch East India Company. For both collections the scans are provided by the
+      Dutch National Archive, using IIIF.<br/><br/>To prepare these texts for research
+      we need a far more complex text model than simply treating text as a collection
+      of strings associated with image regions on scans or canvases.<br/><br/>The
+      paper discusses the Text Model and IIIF-inspired Text Referencing API that we
+      designed, implemented and applied for a range of projects. It also covers how
+      we use IIIF, the Text API and Web Annotations to publish our collections online.
+    authors:
+    - name: Hennie Brugman
+      org: KNAW Humanities Cluster, Netherlands, The
+    - name: Bram Buitendijk
+      org: KNAW Humanities Cluster, Netherlands, The
+    - name: Hayco De Jong
+      org: KNAW Humanities Cluster, Netherlands, The
+    - name: Bas Leenknegt
+      org: KNAW Humanities Cluster, Netherlands, The
+    - name: Sebastiaan Van Daalen
+      org: KNAW Humanities Cluster, Netherlands, The
+    - name: Dirk Roorda
+      org: KNAW Humanities Cluster, Netherlands, The
+    end: '10:00 '
+    id: '134'
+    start: '09:45 '
+    title: Publishing and Annotating Text and Images in Large Historical Handwritten
+      Text Recognition Collections
+    type: Presentation
+  start: '9:00'
+  type: presentations
+'7':
+  date: '2024-06-07'
+  end: '12:15'
+  id: '7'
+  session_time: 'Wednesday, June 7th: 11:00am - 12:15pm'
+  sessions:
+  - abstract: The Building Maktaba project aims to make accessible 7,000 African Arabic
+      manuscripts provided from University of Illinois at Urbana-Champaign (UIUC)
+      and Northwestern University (NU). In the first steps of the National Endowment
+      for the Humanities-funded pilot project, twenty select items demonstrate a IIIF-focused
+      solution that unify the manuscripts from both institutions, annotate them with
+      Arabic transcriptions, English translations, and contextual essays, provide
+      them as a single IIIF Collection, and publish IIIF content and associated scholarly
+      work to a statically generated site using Canopy IIIF. Visitors to the public
+      Maktaba collection site will find a unified browsable collection of annotated
+      manuscripts along with scholarly essays analyzing the manuscripts. The workflows,
+      tools, and techniques presented can be adopted by Digital Humanities projects
+      combining IIIF collections with scholarly output.<br/><br/>
+    authors:
+    - name: Carolyn Caizzi
+      org: Northwestern University Libraries, United States of America
+    - name: Mat Jordan
+      org: Northwestern University Libraries, United States of America
+    end: '11:15 '
+    id: '121'
+    start: '11:00 '
+    title: 'Building Maktaba: A Digital Collection of African Arabic Manuscripts in
+      Translation'
+    type: Presentation
+  - abstract: 'In the heart of Indonesia, where 22,700 precious manuscripts have been
+      digitized across the country, a digital treasure trove remains untapped. The
+      National Library of the Republic of Indonesia (NLRI) safeguards 6,066 of these
+      manuscripts, yet their presentation lacks the vigor and accessibility needed
+      to engage a global audience. Our proposal, "Unlocking Treasures," passionately
+      advocates for the urgent integration of the International Image Interoperability
+      Framework (IIIF) to revitalize Indonesia''s manuscript legacy.<br/><br/>Keywords:
+      IIIF Integration, Manuscript Presentation, Cultural Heritage, Digital Accessibility'
+    authors:
+    - name: Faisal Huzein
+      org: Perpustakaan Nasional, Indonesia
+    - name: Maliki Khoirul Ilman
+      org: Perpustakaan Nasional, Indonesia
+    end: '11:30 '
+    id: '105'
+    start: '11:15 '
+    title: 'Unlocking Treasures: The Urgency of IIIF Integration for Indonesia''s
+      Manuscript Legacy'
+    type: Presentation
+  - abstract: In the ever-evolving landscape of cultural heritage, the intersection
+      of Creative Commons (CC) and the International Image Interoperability Framework
+      (IIIF) stands as a pivotal force, propelling the global movement towards open
+      culture. This session seeks to deepen the dialogue between these crucial components
+      of the Open Culture Infrastructure, bringing together active participants from
+      cultural heritage institutions worldwide. The focus is on fostering collaborative
+      discussions that address critical issues such as copyright, licensing, and the
+      strategic steps involved in transitioning towards an open paradigm.
+    authors:
+    - name: Timid Robot Zehta
+      org: Creative Commons, United States of America
+    - name: Connor Benedict
+      org: Creative Commons, United States of America
+    end: '11:45 '
+    id: '128'
+    start: '11:30 '
+    title: 'Fostering Open Culture Globally: The Synergy between Creative Commons
+      and IIIF in Cultural Heritage Institutions'
+    type: Presentation
+  - abstract: Incorporating additional artifacts such as maps is essential to fully
+      unlock the Dutch East India Company's (VOC) vast paper archives (1605-1799).
+      While letters, reports, and ledgers offer historical insights, identifying the
+      toponyms they mention proves challenging due to shifting place names.<br/><br/>The
+      GLOBALISE project tackles this challenge by connecting the massive textual corpus
+      of VOC archives with colonial maps, thereby enhancing the understanding and
+      interpretation of these spatial references in the written archives. This approach
+      involves three layers, each resulting in a set of web annotations that are combined
+      according to the IIIF Presentation standard:<br/><br/>1. Georeferencing using
+      the Allmaps tool, superimposing the early modern view of colonies onto modern
+      maps.<br/><br/>2. Detecting toponyms by recognizing and transcribing labels
+      from maps, and linking them to places mentioned in written archives and external
+      resources.<br/><br/>3. Classifying geospatial iconography such as icons and
+      symbols representing settlements, plantations, and more, advancing our understanding
+      of the early modern Dutch colonial view of the world.<br/><br/>By weaving together
+      text and maps, GLOBALISE allows researchers to better interpret spatial references
+      in archival documents, and thus better understand (Dutch) colonial history and
+      its impact on geopolitics. Publishing its enrichments via IIIF standards ensures
+      open access and collaboration.<br/><br/>
+    authors:
+    - name: Leon van Wissen
+      org: University of Amsterdam, The Netherlands
+    - name: Lodewijk Petram
+      org: Huygens Institute, The Netherlands
+    - name: Jules Schoonman
+      org: Delft University of Technology, The Netherlands
+    end: '12:00 '
+    id: '132'
+    start: '11:45 '
+    title: 'Bridging Text and Space: Leveraging the IIIF Presentation Standard for
+      a Better Understanding of Early Modern Archival Material'
+    type: Presentation
+  start: '11:00'
+  type: presentations
+'8':
+  date: '2024-06-07'
+  end: '14:15'
+  id: '8'
+  session_time: 'Wednesday, June 7th: 1:15pm - 2:15pm'
+  sessions:
+  - abstract: In support of a planned exhibition opening in Spring 2024, the Getty
+      Digital team undertook a project to present a photo album that had been disassembled
+      and digitized in pieces as a reconstituted digital object through IIIF. Though
+      this type of "bring the illumination back to the manuscript page" example has
+      existed since the early days of the IIIF Presentation API, this talk will cover
+      some of the practical challenges involved in producing the resources necessary
+      to implement it and the end result of the project as a set of tools and workflows,
+      as well as highlight the present state of the development of a new image viewer
+      at Getty to support an extended set of presentation use cases.
+    authors:
+    - name: Dan Brennan
+      org: J. Paul Getty Trust, United States of America
+    end: '01:25 '
+    id: '138'
+    start: '01:15 '
+    title: 'Presentation Plus: Working at the Edges of the Presentation API'
+    type: Lightning talk
+  - abstract: "Not all IIIF needs to be institutional-grade or institutionally-stewarded.\
+      \ What about the public librarian who wants to publish a digital collection\
+      \ on GitHub pages? The digital humanist between jobs with a great idea for an\
+      \ exhibit? Or the research engineer who wants to support a handful of projects\
+      \ without managing an image server or going through library acquisitions?<br/><br/>This\
+      \ lightning talk will provide a few examples of \"DIY IIIF'' projects as models\
+      \ for starting from scratch. We'll look at static sites on the histories of\
+      \ Occupy Wall Street and the Chicano Studies Library with self-contained IIIF\
+      \ Level 0 resources. We'll also inspect a GitHub-based workflow (Aperitiiif)\
+      \ for quickly publishing IIIF collections for research. In the process, we'll\
+      \ consider how to lower structural barriers to supporting IIIF independently\
+      \ of the proverbial man \U0001F918<br/><br/>"
+    authors:
+    - name: Marii Nyrop
+      org: New York University, United States of America
+    end: '01:35 '
+    id: '119'
+    start: '01:25 '
+    title: 'DIY IIIF: A Sample of Standalone, Static, and Skunkworks Implementations'
+    type: Lightning talk
+  - abstract: Members from the IIIF A/V Community Group have identified use cases
+      for IIIF clients that require new mechanisms in order to identify and enable
+      specific functionality in IIIF viewers for annotations that contain captions,
+      subtitles, audio description, transcripts and translations. Key use cases include
+      distinguishing between captions/subtitles, which should be available to display
+      over top of a video, and transcripts, which should be displayed in a separate
+      widget for search and download. Accessibility requirements are an important
+      component, and audio description tracks that contain descriptions of important
+      visual information should also be made clearly available to users in IIIF viewers.
+      Potentially relevant for use cases outside of A/V, content owners may also want
+      to clearly distinguish between transcriptions and translations across formats,
+      including newspapers and manuscripts.<br/><br/>The IIIF AV Annotations Technical
+      Specification Group was formed to address these use cases and is currently discussing
+      possible extensions and/or revisions for the IIIF Presentation API with the
+      IIIF Editorial Board. This lightning talk aims to share the results of these
+      conversations and trigger discussions in other IIIF communities that may have
+      similar use cases for annotations in IIIF resources.<br/><br/>
+    authors:
+    - name: Emily Lynema
+      org: Indiana University, USA
+    - name: Mark Baggett
+      org: University of Tennessee, USA
+    - name: Nuno Freire
+      org: Europeana Foundation, The Netherlands
+    end: '01:45 '
+    id: '125'
+    start: '01:35 '
+    title: 'Handling special AV annotations: captions, subtitles, audio description,
+      transcripts, and translations'
+    type: Lightning talk
+  - abstract: "CollectiveAccess is an open-source collections management application\
+      \ used by hundreds of projects. To meet the needs of disparate collections,\
+      \ it supports a wide range of media including IIIF images, video, audio, 3D,\
+      \ and PDFs.\_Many users also describe their holdings through captioning and\
+      \ annotation of media. In winter 2023, we started working with Grand Rapids\
+      \ Public Library to add to CollectiveAccess\_new search and display capabilities\
+      \ for their newspapers collection. This newspaper viewer had to provide support\
+      \ for PDFs and METS/ALTO files, text search with highlighting of search terms,\
+      \ page/issue/publication navigation, as well as seamless integration with the\
+      \ rest of the library collection. After considering various multimedia viewer\
+      \ options, we\_arrived at a standards-based solution leveraging IIIF protocols\
+      \ and Clover IIIF Viewer.<br/><br/>We collaborated with developers from Northwestern\
+      \ University Libraries to integrate annotations, Content Search 2.0, and newspapers\
+      \ from the IIIF standards and cookbook recipes for both software projects. We\
+      \ also contributed features not covered by IIIF specs, such as custom CSS styles\
+      \ and PDF support via a custom display. We hope our collaboration can show how\
+      \ open-source projects can work together to meet the needs of collections that\
+      \ have different types of media and use cases."
+    authors:
+    - name: Wai-Yin Kwan
+      org: Whirl-i-Gig, United States of America
+    - name: Seth Kaufman
+      org: Whirl-i-Gig, United States of America
+    - name: Adam Arling
+      org: Northwestern University
+    - name: Mat Jordan
+      org: Northwestern University
+    end: '01:55 '
+    id: '141'
+    start: '01:45 '
+    title: Integrating Clover IIIF viewer into collections management software CollectiveAccess
+    type: Lightning talk
+  start: '13:15'
+  type: lightning
+'9':
+  date: '2024-06-07'
+  end: '15:15'
+  id: '9'
+  session_time: 'Wednesday, June 7th: 2:15pm - 3:15pm'
+  sessions:
+  - abstract: 'As libraries, archives, and museums continue to transition to linked
+      data, there is the need for managing both structural metadata and descriptive
+      metadata. In this session, we will discuss the structural IIIF linked data developments
+      happening in CONTENTdm as well as the descriptive metadata linked data advancements
+      we are making. Together, these technology solutions will help data curators
+      better manage, share, and reuse digital materials. '
+    authors:
+    - name: Shane Huddleston
+      org: OCLC
+    end: '02:30 '
+    id: '150'
+    start: '02:15 '
+    title: 'CONTENTdm: Updated support for IIIF and expanding metadata management
+      capabilities'
+    type: Presentation
+  - abstract: "Existing IIIF literature describes how to introduce IIIF to engineers\
+      \ and deans, researchers, and CIOs, but, as IIIF has become more established\
+      \ in the last decade, there is little literature about the management of legacy\
+      \ systems as well as the need to manage people who are responsible for keeping\
+      \ them afloat. In essence, this paper seeks to address that gap, presenting\
+      \ a possible framework for \u2018IIIF for Managers\u2019, designed to assist\
+      \ those who are responsible for their staff who are engaged in the maintenance,\
+      \ creation and implementation of IIIF resources, yet lack the specific expertise\
+      \ held by those that they manage."
+    authors:
+    - name: Anne McLaughlin
+      org: Trinity College, Cambridge, United Kingdom
+    - name: Steven Archer
+      org: Trinity College, Cambridge, United Kingdom
+    end: '02:45 '
+    id: '148'
+    start: '02:30 '
+    title: 'Can you break it down for me?: IIIF for Managers'
+    type: Presentation
+  - abstract: 'The International Image Interoperability Framework (IIIF) has played
+      a pivotal role in advancing the accessibility and interoperability of digital
+      resources in the cultural heritage sector. IIIF powered digital image viewers,
+      such as Mirador and Universal Viewer, have become integral components in the
+      dissemination of open scholarly research, playing a critical role in presenting
+      and sharing digital collections of Galleries, Libraries, Archives, and Museums
+      (GLAM) institutions worldwide. Despite their widespread adoption, there is a
+      need to ensure that these viewers adhere to accessibility standards, making
+      them usable by individuals with diverse abilities. By addressing accessibility
+      concerns, we not only adhere to ethical principles but also unlock the full
+      potential of these viewers for a broader audience. '
+    authors:
+    - name: Brittny Lapierre
+      org: Canadian Research Knowledge Network, Canada
+    end: '03:00 '
+    id: '104'
+    start: '02:45 '
+    title: Nurturing Inclusive Access to GLAM Collections through Continuous Accessibility
+      Testing and Community Engagement
+    type: Presentation
+  start: '14:15'
   type: presentations

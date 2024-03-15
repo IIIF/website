@@ -19,6 +19,16 @@ sections:
     key: "4"
   - title: Conference Day 1
     key: "5"
+  - title: Conference Day 2
+    key: "6"
+  - title: Conference Day 2
+    key: "7"
+  - title: Conference Day 2
+    key: "8"
+  - title: Conference Day 2
+    key: "9"
+  - title: Conference Day 2
+    key: "10"
 ---
 
 ## 2024 IIIF Annual Conference Schedule
@@ -103,6 +113,67 @@ The conference will take place in x
         <td>Q & A</td>
         <td></td>
     </tr> 
+</table>
+
+
+### Day 2 - Wednesday, June 5th
+
+The conference will take place in x 
+
+<table class="api-table">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>8:30 - 9:00</td>
+        <td colspan="3"><b>Registration and arrivals</b></td>
+    </tr>    
+    {% include conference_table_row.html datafile=site.data.conference_2024 block="6"  %}
+    <tr>
+        <td>10:15 - 10:30</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>10:30 - 11:00</td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
+    </tr>   
+    {% include conference_table_row.html datafile=site.data.conference_2024 block="7"  %}
+    <tr>
+        <td>12:00 - 12:15</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>12:15 - 1:15</td>
+        <td colspan="3"><b>Lunch</b></td>
+    </tr>    
+    {% include conference_table_row.html datafile=site.data.conference_2024 block="8"  %}    
+    {% include conference_table_row.html datafile=site.data.conference_2024 block="9"  %}    
+    <tr>
+        <td>3:00 - 3:15</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>3:15 - 3:45 </td>
+        <td colspan="3"><b>Break with tea and coffee</b></td>
+    </tr>    
+    {% include conference_table_row.html datafile=site.data.conference_2024 block="10" %}
+    <tr>
+        <td>4:30 - 4:45</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>4:45 - 5:00</td>
+        <td>Wrap-up and thank yous</td>
+        <td>IIIF Consortium Staff</td>
+    </tr>  
 </table>
 
 <div class="topline_printonly left">
