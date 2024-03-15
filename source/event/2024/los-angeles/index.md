@@ -48,6 +48,19 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2024/). Registration will close on May 14, 2024. 
 
+### **Schedule**
+
+The conference will run between the Tuesday the 4th of June to Thursday the 6th of June. There will also be a showcase for people new to IIIF on Friday the 7th of June.
+
+Conference:
+ * [Day 1 - Tuesday, June 4th](schedule/)
+ * Day 2 - Wednesday, June 5th
+ * Birds of a feather sessions - Thursday, June 6th
+
+Showcase:
+ * Getty museum, Friday, June 7th
+
+
 ### **Travel**
 
 Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
