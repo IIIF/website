@@ -32,7 +32,7 @@
     start: '09:45 '
     title: IIIF 3D - Expanded Dimensions and Collaborative Scenes for Prezi 4.0
     type: Presentation
-  - abstract: Formerly known as the IIIF React Media Player, Ramp (https://github.com/samvera-labs/ramp/)
+  - abstract: Formerly known as the IIIF React Media Player, <a href='https://github.com/samvera-labs/ramp/'>Ramp</a>
       is a IIIF viewer for audiovisual materials that supports the IIIF Presentation
       3.0 API. It is an exportable NPM component library that provides ReactJS components
       for media playback, structures (table of contents) display, transcript presentation,
@@ -43,7 +43,7 @@
       nearly all item display functionality in Avalon.<br/><br/>In order to help community
       members with audiovisual media determine if Ramp would be useful for their needs,
       it has been added to the IIIF Viewer Matrix and has an up-to-date live demo
-      site (https://ramp.avalonmediasystem.org/).<br/><br/>This presentation will
+      site (<a href='https://ramp.avalonmediasystem.org/'>https://ramp.avalonmediasystem.org/</a>).<br/><br/>This presentation will
       provide an overview of Ramp and its constituent components and demonstrate how
       they are leveraged in the Avalon Media System. It will also provide an update
       on future work to broaden support for annotations and increase interoperability
@@ -226,10 +226,10 @@
       talk, we will describe ongoing work to help understand this challenge and examine
       how the choice of technology can impact the digital footprint of a IIIF-related
       digital service. More specifically we will examine the performance of the annotation
-      server Miiify [1] against some repeatable benchmarks when applied to real-world
+      server <a href='https://github.com/nationalarchives/miiify'>Miiify</a> against some repeatable benchmarks when applied to real-world
       data at scale. The goal is to share our findings and hopefully generate further
-      discussion and sharing of best practices within the field of green computing.<br/><br/>[1]
-      https://github.com/nationalarchives/miiify<br/><br/>
+      discussion and sharing of best practices within the field of green computing.<br/><br/>
+      <br/><br/>
     authors:
     - name: John Moore
       org: The National Archives (UK), United Kingdom
@@ -411,7 +411,7 @@
     title: 'Details in Detail: IIIF, Computer Vision, and the Stuart Cary Welch Slide
       Library'
     type: Lightning talk
-  - abstract: "Serverless-IIIF [https://samvera.github.io/serverless-iiif/] started\
+  - abstract: "<a href='https://samvera.github.io/serverless-iiif/'>Serverless-IIIF</a> started\
       \ as an in-house project to solve Northwestern\u2019s scaling needs with a focus\
       \ on minimizing costs and operational overhead. The initial experiment has grown\
       \ into a community project with production instances running at Princeton, Notre\
@@ -639,14 +639,14 @@
   - abstract: "Canvas Panel is a Web Component that renders a IIIF Canvas and the\
       \ annotations on it. It makes development of arbitrary IIIF apps easier with\
       \ a \u201Ccanvas-native\u201D component that understands annotations as well\
-      \ as image services. A concise <canvas-panel> component on a web page renders\
+      \ as image services. A concise &lt;canvas-panel&gt; component on a web page renders\
       \ one IIIF Canvas, and provides properties, events and functions to support\
       \ user interaction with the content on the Canvas, as pure IIIF and web annotations.<br/><br/>Canvas\
       \ Panel is not a viewer (not on its own, anyway) - it has no concept of digital\
       \ objects, or IIIF Manifests and structure. But you can quickly build viewers\
       \ with it, and we\u2019ll show you some examples of this in this presentation.<br/><br/>Canvas\
       \ Panel is to a IIIF Canvas as OpenSeadragon or Leaflet are to the IIIF Image\
-      \ API.<br/><br/>Documentation is at https://iiif-canvas-panel.netlify.app/docs/intro "
+      \ API.<br/><br/>Documentation is at <a href='https://iiif-canvas-panel.netlify.app/docs/intro'>https://iiif-canvas-panel.netlify.app/docs/intro</a> "
     authors:
     - name: Tom Crane
       org: Digirati
