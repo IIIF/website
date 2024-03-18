@@ -46,7 +46,7 @@ The outline schedules of the conference is available below. The exact timing of 
 
 Conference:
  * [Day 1 - Tuesday, June 4th](#day-1---tuesday-june-4th)
- * Day 2 - Wednesday, June 5th
+ * [Day 2 - Wednesday, June 5th](#day-2---wednesday-june-5th)
  * Birds of a feather sessions - Thursday, June 6th
 
 Showcase:

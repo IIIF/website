@@ -54,7 +54,7 @@ The conference will run between the Tuesday the 4th of June to Thursday the 6th 
 
 [Conference]({{ site.root_url }}/event/2024/los-angeles/schedule/):
  * [Day 1 - Tuesday, June 4th]({{ site.root_url }}/event/2024/los-angeles/schedule/#day-1---tuesday-june-4th)
- * Day 2 - Wednesday, June 5th
+ * Day 2 - Wednesday, June 5th({{ site.root_url }}/event/2024/los-angeles/schedule/#day-2---wednesday-june-5th)
  * Birds of a feather sessions - Thursday, June 6th
 
 Showcase:
