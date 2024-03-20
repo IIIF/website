@@ -89,6 +89,27 @@ Thank you to the 2024 Program committee:
 * Sandra Santos, The Courtauld Institute of Art
 * Greete Veesalu, Estonian National Library
 
+### Locations
+
+**Conference - 6/4 and 6/5**
+
+De Neve Plaze, University of Los Angeles, CA<br>
+351 Charles E Young Drive West, Los Angeles, CA 90024
+
+**Reception - 6/5**
+
+UCLA Mathias Botanical Garden <br>
+707 Tiverton Dr, Los Angeles, CA 90095
+
+**Birds of a Feather Sessions - 6/6**
+
+UCLA Charles E. Young Research Library<br>
+280 Charles E. Young Drive, North, Los Angeles, CA 90095
+
+**Showcase - 6/7**
+
+The Getty Center, Harold M. Williams Auditorium<br>
+1200 Getty Center Dr, Los Angeles, CA 90049
 
 
 <!-- ### **Register**
