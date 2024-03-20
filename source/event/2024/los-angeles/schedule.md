@@ -220,9 +220,9 @@ The Birds of a Feather sessions will be held at the [Charles Young Library](http
     </thead>
     <tr>
         <td>10:00 - 12:00</td>
-        <td><a href="#146">A/V Annotation</a></td>
-        <td><a href="#113">IIIF & End Users: increasing uptake and creating ambassadors</a></td>
-        <td><a href="#106">Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery</a></td>
+        <td id="block-bof-1-146"><a href="#146">A/V Annotation</a></td>
+        <td id="block-bof-1-113"><a href="#113">IIIF & End Users: increasing uptake and creating ambassadors</a></td>
+        <td id="block-bof-1-106"><a href="#106">Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery</a></td>
     </tr>    
     <tr>
         <td>12:00 - 1:30</td>
@@ -230,8 +230,8 @@ The Birds of a Feather sessions will be held at the [Charles Young Library](http
     </tr>
     <tr>
         <td>1:30 - 3:45</td>
-        <td><a href="#130">Where Next with IIIF Collections?</a></td>
-        <td><a href="#140">Fish-of-a-School: IIIF for Educators</a></td>
+        <td id="block-bof-2-130"><a href="#130">Where Next with IIIF Collections?</a></td>
+        <td id="block-bof-2-140"><a href="#140">Fish-of-a-School: IIIF for Educators</a></td>
     </tr>
 </table>
 
