@@ -29,6 +29,10 @@ sections:
     key: "9"
   - title: Conference Day 2
     key: "10"
+  - title: Birds of a Feather sessions - Morning
+    key: "bof-1"   
+  - title: Birds of a Feather sessions - Afternoon
+    key: "bof-2"   
 ---
 
 ## 2024 IIIF Annual Conference Schedule
@@ -47,7 +51,8 @@ The outline schedules of the conference is available below. The exact timing of 
 Conference:
  * [Day 1 - Tuesday, June 4th](#day-1---tuesday-june-4th)
  * [Day 2 - Wednesday, June 5th](#day-2---wednesday-june-5th)
- * Birds of a feather sessions - Thursday, June 6th
+   * Conference Reception
+ * [Birds of a feather sessions - Thursday, June 6th](#birds-of-a-feather-sessions---thursday-june-6th)
 
 Showcase:
  * Getty museum, Friday, June 7th
@@ -194,11 +199,15 @@ The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4
         <td>Wrap-up and thank yous</td>
         <td>IIIF Consortium Staff</td>
     </tr>  
+    <tr>
+        <td>6:30pm</td>
+        <td colspan="3"><b>Conference Reception</b></td>
+    </tr>
 </table>
 
-### Birds of the Feather sessions - Thursday, June 6th
+### Birds of a Feather sessions - Thursday, June 6th
 
-The Birds of Feather sessions will be held at the [Charles Young Library](https://maps.app.goo.gl/HvSgpbgKERereURcA).
+The Birds of a Feather sessions will be held at the [Charles Young Library](https://maps.app.goo.gl/HvSgpbgKERereURcA).
 
 <table class="api-table">
     <thead>
@@ -211,14 +220,18 @@ The Birds of Feather sessions will be held at the [Charles Young Library](https:
     </thead>
     <tr>
         <td>10:00 - 12:00</td>
-        <td>A/V Annotation</td>
-        <td>IIIF & End Users: increasing uptake and creating ambassadors</td>
-        <td>Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery</td>
+        <td><a href="#146">A/V Annotation</a></td>
+        <td><a href="#113">IIIF & End Users: increasing uptake and creating ambassadors</a></td>
+        <td><a href="#106">Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery</a></td>
     </tr>    
     <tr>
+        <td>12:00 - 1:30</td>
+        <td colspan="3"><b>Break</b></td>
+    </tr>
+    <tr>
         <td>1:30 - 3:45</td>
-        <td>Where Next with IIIF Collections?</td>
-        <td>Fish-of-a-School: IIIF for Educators</td>
+        <td><a href="#130">Where Next with IIIF Collections?</a></td>
+        <td><a href="#140">Fish-of-a-School: IIIF for Educators</a></td>
     </tr>
 </table>
 
