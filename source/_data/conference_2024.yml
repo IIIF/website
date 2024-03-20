@@ -391,26 +391,6 @@
     start: '01:50 '
     title: 'Tropiiify: A Tropy plugin for exporting IIIF Collections'
     type: Lightning talk
-  - abstract: "This talk presents an in-progress project using IIIF and computer vision\
-      \ to examine Stuart Cary Welch's slide collection of Islamic and Indian art.\
-      \ The project, prompted by the sheer scale of Welch\u2019s collection, employs\
-      \ template matching to automate the identification of detail slides within full\
-      \ artwork images and store the coordinates as IIIF annotations. By integrating\
-      \ IIIF technology with computer vision, the project not only introduces an innovative\
-      \ application for digitized slide libraries but also positions annotation data\
-      \ as a valuable resource for art-historical scholarship. Drawing from recent\
-      \ photo history scholarship on slide libraries, the talk reflects on issues\
-      \ of preservation, labor, and sustainability that span two technologies\u2013\
-      one analog, one digital\u2013integral to the documentation of art."
-    authors:
-    - name: Tracy Stuber
-      org: Harvard University, United States of America
-    end: '02:10 '
-    id: '144'
-    start: '02:00 '
-    title: 'Details in Detail: IIIF, Computer Vision, and the Stuart Cary Welch Slide
-      Library'
-    type: Lightning talk
   - abstract: "<a href='https://samvera.github.io/serverless-iiif/'>Serverless-IIIF</a>\
       \ started as an in-house project to solve Northwestern\u2019s scaling needs\
       \ with a focus on minimizing costs and operational overhead. The initial experiment\
@@ -428,9 +408,9 @@
     authors:
     - name: Mat Jordan
       org: Northwestern University Libraries
-    end: '02:20 '
+    end: '02:10 '
     id: '131'
-    start: '02:10 '
+    start: '02:00 '
     title: Watch me spin up a production ready, lightning fast, IIIF image service
       in less time than it takes to give this talk
     type: Lightning talk
@@ -465,6 +445,8 @@
       org: Getty Research Institute
     - name: Alicia Maria Houtrouw
       org: Getty Research Institute
+    - name: Christopher J Gilman
+      org: UCLA Library / Digital Library Program  
     end: '02:45 '
     id: '110'
     start: '02:30 '
