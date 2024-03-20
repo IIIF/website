@@ -62,7 +62,7 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 ### Day 1 - Tuesday, June 4th
 
-The conference will take place in x 
+The conference will take place in [De Neve Auditorium](https://www.google.com/maps/place/De+Neve+Plaza+Auditorium,+Los+Angeles,+CA+90024/@34.0703531,-118.4508331,19z/data=!4m6!3m5!1s0x80c2bc8e341f30cd:0x6f587a928865cb01!8m2!3d34.0702742!4d-118.4502162!16s%2Fg%2F12vsnhv1_?entry=tts) on the UCLA campus. 
 
 <table class="api-table">
     <thead>
@@ -93,6 +93,11 @@ The conference will take place in x
     </tr>   
     {% include conference_table_row.html datafile=site.data.conference_2024 block="2"  %}
     <tr>
+        <td>12:15 - 12:30</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <tr>
         <td>12:30 - 1:30</td>
         <td colspan="3"><b>Lunch</b></td>
     </tr>    
@@ -118,7 +123,7 @@ The conference will take place in x
 
 ### Day 2 - Wednesday, June 5th
 
-The conference will take place in x 
+The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4e5qQZUvgrdbdbPk8) on the UCLA campus. 
 
 <table class="api-table">
     <thead>
@@ -133,6 +138,11 @@ The conference will take place in x
         <td colspan="3"><b>Registration and arrivals</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="6"  %}
+    <tr>
+        <td>10:00 - 10:15</td>
+        <td>To be confirmed</td>
+        <td></td>
+    </tr> 
     <tr>
         <td>10:15 - 10:30</td>
         <td>Q & A</td>
@@ -153,6 +163,16 @@ The conference will take place in x
         <td colspan="3"><b>Lunch</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="8"  %}    
+    <tr>
+        <td>1:55 - 2:05</td>
+        <td>To be confirmed</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>2:05 - 2:15</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
     {% include conference_table_row.html datafile=site.data.conference_2024 block="9"  %}    
     <tr>
         <td>3:00 - 3:15</td>
@@ -174,6 +194,32 @@ The conference will take place in x
         <td>Wrap-up and thank yous</td>
         <td>IIIF Consortium Staff</td>
     </tr>  
+</table>
+
+### Birds of the Feather sessions - Thursday, June 6th
+
+The Birds of Feather sessions will be held at the [Charles Young Library](https://maps.app.goo.gl/HvSgpbgKERereURcA).
+
+<table class="api-table">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session 1</th>
+            <th>Session 2</th>
+            <th>Session 3</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>10:00 - 12:00</td>
+        <td>A/V Annotation</td>
+        <td>IIIF & End Users: increasing uptake and creating ambassadors</td>
+        <td>Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery</td>
+    </tr>    
+    <tr>
+        <td>1:30 - 3:45</td>
+        <td>Where Next with IIIF Collections?</td>
+        <td>Fish-of-a-School: IIIF for Educators</td>
+    </tr>
 </table>
 
 <div class="topline_printonly left">

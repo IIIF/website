@@ -1,8 +1,8 @@
 '1':
-  date: '2024-06-06'
+  date: '2024-06-04'
   end: '10:45'
   id: '1'
-  session_time: 'Tuesday, June 6th: 9:45am - 10:45am'
+  session_time: 'Tuesday, June 4th: 9:45am - 10:45am'
   sessions:
   - abstract: To complement the growing impact of IIIF in 2D and Audio/Video (A/V)
       collections around the world, the 3D Technical Specification Group (TSG) is
@@ -43,12 +43,12 @@
       nearly all item display functionality in Avalon.<br/><br/>In order to help community
       members with audiovisual media determine if Ramp would be useful for their needs,
       it has been added to the IIIF Viewer Matrix and has an up-to-date live demo
-      site (<a href='https://ramp.avalonmediasystem.org/'>https://ramp.avalonmediasystem.org/</a>).<br/><br/>This presentation will
-      provide an overview of Ramp and its constituent components and demonstrate how
-      they are leveraged in the Avalon Media System. It will also provide an update
-      on future work to broaden support for annotations and increase interoperability
-      with AVAnnotate and Aviary, other producers of IIIF Presentation 3.0 manifests
-      for audiovisual media.<br/><br/>
+      site (<a href='https://ramp.avalonmediasystem.org/'>https://ramp.avalonmediasystem.org/</a>).<br/><br/>This
+      presentation will provide an overview of Ramp and its constituent components
+      and demonstrate how they are leveraged in the Avalon Media System. It will also
+      provide an update on future work to broaden support for annotations and increase
+      interoperability with AVAnnotate and Aviary, other producers of IIIF Presentation
+      3.0 manifests for audiovisual media.<br/><br/>
     authors:
     - name: Dananji Withana
       org: Indiana University, United States of America
@@ -93,10 +93,10 @@
   start: '9:45'
   type: presentations
 '10':
-  date: '2024-06-07'
+  date: '2024-06-05'
   end: '16:45'
   id: '10'
-  session_time: 'Wednesday, June 7th: 3:45pm - 4:45pm'
+  session_time: 'Wednesday, June 5th: 3:45pm - 4:45pm'
   sessions:
   - abstract: "In the early 20th century, Mogao Cave 17 near Dunhuang, China, was\
       \ opened up, revealing thousands of manuscripts, documents, paintings and more\
@@ -184,10 +184,10 @@
   start: '15:45'
   type: presentations
 '2':
-  date: '2024-06-06'
+  date: '2024-06-04'
   end: '12:30'
   id: '2'
-  session_time: 'Tuesday, June 6th: 11:15am - 12:30pm'
+  session_time: 'Tuesday, June 4th: 11:15am - 12:30pm'
   sessions:
   - abstract: 'The IIIF for Education Community Group is bringing together educators,
       academic technologists, librarians, instructional designers, museum professionals,
@@ -226,10 +226,10 @@
       talk, we will describe ongoing work to help understand this challenge and examine
       how the choice of technology can impact the digital footprint of a IIIF-related
       digital service. More specifically we will examine the performance of the annotation
-      server <a href='https://github.com/nationalarchives/miiify'>Miiify</a> against some repeatable benchmarks when applied to real-world
-      data at scale. The goal is to share our findings and hopefully generate further
-      discussion and sharing of best practices within the field of green computing.<br/><br/>
-      <br/><br/>
+      server <a href='https://github.com/nationalarchives/miiify'>Miiify</a> against
+      some repeatable benchmarks when applied to real-world data at scale. The goal
+      is to share our findings and hopefully generate further discussion and sharing
+      of best practices within the field of green computing.<br/><br/>
     authors:
     - name: John Moore
       org: The National Archives (UK), United Kingdom
@@ -306,18 +306,18 @@
     authors:
     - name: Tristan Roddis
       org: Cogapp, United Kingdom
-    end: '12:20 '
+    end: '12:15 '
     id: '127'
     start: '12:05 '
     title: Fun With IIIF 2024
-    type: Presentation
+    type: Lightning talk
   start: '11:15'
   type: lightning
 '3':
-  date: '2024-06-06'
+  date: '2024-06-04'
   end: '14:30'
   id: '3'
-  session_time: 'Tuesday, June 6th: 1:30pm - 2:30pm'
+  session_time: 'Tuesday, June 4th: 1:30pm - 2:30pm'
   sessions:
   - abstract: "Rights management at The New York Public Library (NYPL) is unique and\
       \ complex, and the need to protect our assets was urgent while our resources\
@@ -411,12 +411,12 @@
     title: 'Details in Detail: IIIF, Computer Vision, and the Stuart Cary Welch Slide
       Library'
     type: Lightning talk
-  - abstract: "<a href='https://samvera.github.io/serverless-iiif/'>Serverless-IIIF</a> started\
-      \ as an in-house project to solve Northwestern\u2019s scaling needs with a focus\
-      \ on minimizing costs and operational overhead. The initial experiment has grown\
-      \ into a community project with production instances running at Princeton, Notre\
-      \ Dame, the Museums of Brighton and Hove, among others. It is well known that\
-      \ Serverless-IIIF offers implementers infinite scaling, inexpensive storage,\
+  - abstract: "<a href='https://samvera.github.io/serverless-iiif/'>Serverless-IIIF</a>\
+      \ started as an in-house project to solve Northwestern\u2019s scaling needs\
+      \ with a focus on minimizing costs and operational overhead. The initial experiment\
+      \ has grown into a community project with production instances running at Princeton,\
+      \ Notre Dame, the Museums of Brighton and Hove, among others. It is well known\
+      \ that Serverless-IIIF offers implementers infinite scaling, inexpensive storage,\
       \ and minimal operational overhead, but few have focused on exactly how easy\
       \ it is to setup the service.<br/><br/>During this seven-minute lightning talk\
       \ we will stand up a production-ready IIIF image service complete with storage,\
@@ -437,10 +437,10 @@
   start: '13:30'
   type: lightning
 '4':
-  date: '2024-06-06'
+  date: '2024-06-04'
   end: '15:30'
   id: '4'
-  session_time: 'Tuesday, June 6th: 2:30pm - 3:30pm'
+  session_time: 'Tuesday, June 4th: 2:30pm - 3:30pm'
   sessions:
   - abstract: "The Florentine Codex is an exceptional sixteenth-century Mexican manuscript\
       \ that was created by Spanish Franciscan friar Bernardino de Sahag\xFAn and\
@@ -518,10 +518,10 @@
   start: '14:30'
   type: presentations
 '5':
-  date: '2024-06-06'
+  date: '2024-06-04'
   end: '17:00'
   id: '5'
-  session_time: 'Tuesday, June 6th: 4:00pm - 5:00pm'
+  session_time: 'Tuesday, June 4th: 4:00pm - 5:00pm'
   sessions:
   - abstract: "Interacting with digitized materials in a Web browser fails to replicate\
       \ the embodied engagement possible during in-person research. To remedy this,\
@@ -552,7 +552,8 @@
     title: 'Using Booksnake to Teach with IIIF-Compliant Materials: Results from Classroom
       Testing'
     type: Presentation
-  - abstract: "This session aims to offer tangible strategies and insights to increase\
+  - &id001
+    abstract: "This session aims to offer tangible strategies and insights to increase\
       \ the uptake of IIIF by end-users. For the most part, the available tutorials\
       \ and training sessions focus on aspects (e.g., APIs or annotations) that require\
       \ technical skills. The guides and tutorials for beginners on the Consortium\u2019\
@@ -599,9 +600,9 @@
       org: Bruges Public Library, Belgium
     - name: Nastasia Vanderperren
       org: meemoo, Flemish institute for archives, Belgium
-    end: '04:25 '
+    end: '12:00'
     id: '113'
-    start: '04:15 '
+    start: '10:00'
     title: 'IIIF & end-users: increasing uptake and creating ambassadors'
     type: Birds of a Feather
   - abstract: During 2022, in partnership with the UK Towards a National Collection
@@ -623,30 +624,31 @@
       org: Canadian Research Knowledge Network
     - name: John Baker
       org: Digirati
-    end: '04:40 '
+    end: '04:30 '
     id: '123'
-    start: '04:25 '
+    start: '04:15 '
     title: IIIF Manifest Editor - latest developments
     type: Presentation
   start: '16:00'
   type: presentations
 '6':
-  date: '2024-06-07'
+  date: '2024-06-05'
   end: '10:30'
   id: '6'
-  session_time: 'Wednesday, June 7th: 9:00am - 10:30am'
+  session_time: 'Wednesday, June 5th: 9:00am - 10:30am'
   sessions:
   - abstract: "Canvas Panel is a Web Component that renders a IIIF Canvas and the\
       \ annotations on it. It makes development of arbitrary IIIF apps easier with\
       \ a \u201Ccanvas-native\u201D component that understands annotations as well\
-      \ as image services. A concise &lt;canvas-panel&gt; component on a web page renders\
-      \ one IIIF Canvas, and provides properties, events and functions to support\
-      \ user interaction with the content on the Canvas, as pure IIIF and web annotations.<br/><br/>Canvas\
-      \ Panel is not a viewer (not on its own, anyway) - it has no concept of digital\
-      \ objects, or IIIF Manifests and structure. But you can quickly build viewers\
-      \ with it, and we\u2019ll show you some examples of this in this presentation.<br/><br/>Canvas\
-      \ Panel is to a IIIF Canvas as OpenSeadragon or Leaflet are to the IIIF Image\
-      \ API.<br/><br/>Documentation is at <a href='https://iiif-canvas-panel.netlify.app/docs/intro'>https://iiif-canvas-panel.netlify.app/docs/intro</a> "
+      \ as image services. A concise &lt;canvas-panel&gt; component on a web page\
+      \ renders one IIIF Canvas, and provides properties, events and functions to\
+      \ support user interaction with the content on the Canvas, as pure IIIF and\
+      \ web annotations.<br/><br/>Canvas Panel is not a viewer (not on its own, anyway)\
+      \ - it has no concept of digital objects, or IIIF Manifests and structure. But\
+      \ you can quickly build viewers with it, and we\u2019ll show you some examples\
+      \ of this in this presentation.<br/><br/>Canvas Panel is to a IIIF Canvas as\
+      \ OpenSeadragon or Leaflet are to the IIIF Image API.<br/><br/>Documentation\
+      \ is at <a href='https://iiif-canvas-panel.netlify.app/docs/intro'>https://iiif-canvas-panel.netlify.app/docs/intro</a> "
     authors:
     - name: Tom Crane
       org: Digirati
@@ -737,10 +739,10 @@
   start: '9:00'
   type: presentations
 '7':
-  date: '2024-06-07'
+  date: '2024-06-05'
   end: '12:15'
   id: '7'
-  session_time: 'Wednesday, June 7th: 11:00am - 12:15pm'
+  session_time: 'Wednesday, June 5th: 11:00am - 12:15pm'
   sessions:
   - abstract: The Building Maktaba project aims to make accessible 7,000 African Arabic
       manuscripts provided from University of Illinois at Urbana-Champaign (UIUC)
@@ -838,10 +840,10 @@
   start: '11:00'
   type: presentations
 '8':
-  date: '2024-06-07'
+  date: '2024-06-05'
   end: '14:15'
   id: '8'
-  session_time: 'Wednesday, June 7th: 1:15pm - 2:15pm'
+  session_time: 'Wednesday, June 5th: 1:15pm - 2:15pm'
   sessions:
   - abstract: In support of a planned exhibition opening in Spring 2024, the Getty
       Digital team undertook a project to present a photo album that had been disassembled
@@ -945,10 +947,10 @@
   start: '13:15'
   type: lightning
 '9':
-  date: '2024-06-07'
+  date: '2024-06-05'
   end: '15:15'
   id: '9'
-  session_time: 'Wednesday, June 7th: 2:15pm - 3:15pm'
+  session_time: 'Wednesday, June 5th: 2:15pm - 3:15pm'
   sessions:
   - abstract: 'As libraries, archives, and museums continue to transition to linked
       data, there is the need for managing both structural metadata and descriptive
@@ -1006,3 +1008,142 @@
     type: Presentation
   start: '14:15'
   type: presentations
+bof-1:
+  date: '2024-06-06'
+  end: '12:00'
+  id: bof-1
+  session_time: 'Thursday, June 6th: 10:00am - 12:00pm'
+  sessions:
+  - abstract: IIIF has allowed annotation of images for years, but with the addition
+      of audio-visual support with version 3.0, a world of new possibilities opens
+      up. However, A/V annotations go well beyond a textual body targeting a region
+      of a painting -- established usages such as captioning, subtitling, and speaker
+      diarization come into contact with scholarly annotation for film studies or
+      oral history. In addition, the WebAnnotation technical specification must interoperate
+      with established standards like WebVTT or OHMS.<br/><br/>This meeting will discuss
+      the range of annotation practices for A/V and connect practitioners as they
+      navigate implementing them in IIIF.
+    authors:
+    - name: Ben Brumfield
+      org: FromThePage, United States of America
+    - name: Tanya Clement
+      org: University of Texas-Austin
+    end: '12:00'
+    id: '146'
+    start: '10:00'
+    title: A/V Annotation Birds of a Feather Meeting
+    type: Birds of a Feather
+  - *id001
+  - abstract: Many of the core use cases of IIIF have been expressed not in terms
+      of images and their presentation, but in terms of the digitized cultural heritage
+      items. It has long been desirable to discover resources digitally available
+      via IIIF by searching the properties and relationships of the real world objects,
+      such as by creator, subject, classification or date. This Birds of a Feather
+      session will discuss how organizations are using the Linked Art specification
+      in conjunction with IIIF to obtain significant benefits through the joint adoption
+      of these highly usable standards.<br/><br/>Linked Art has been designed and
+      implemented over the past 5 years learning from and intentionally following
+      the community best practices and design principles that IIIF has demonstrated
+      to be so effective. It uses an existing, standard conceptual model and encodes
+      knowledge using shared patterns in JSON-LD, made available via an easy to publish
+      and consume web API. It has been adopted internationally by cultural heritage
+      research and collecting institutions. We shall also discuss implementation experience
+      and tools, and how to ensure the continued and rich connection between these
+      overlapping communities and specifications.<br/><br/>Links:<br/><br/>* https://linked.art/<br/><br/>*
+      https://lux.collections.yale.edu/<br/><br/>* https://www.getty.edu/art/collection/<br/><br/>*
+      https://vangoghworldwide.org/
+    authors:
+    - name: Robert Sanderson
+      org: Yale University, United States of America
+    - name: Julien Raemy
+      org: University of Basel
+    - name: Kevin Page
+      org: Oxford University
+    - name: Daniel Sissman
+      org: J Paul Getty Trust
+    - name: Claire Knowles
+      org: University of Leeds
+    - name: Tom Crane
+      org: Digirati
+    end: '12:00'
+    id: '106'
+    start: '10:00'
+    title: Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery
+    type: Birds of a Feather
+  start: '10:00'
+  type: bof
+bof-2:
+  date: '2024-06-06'
+  end: '3:45'
+  id: bof-2
+  session_time: 'Thursday, June 6th: 1:30pm - 3:45pm'
+  sessions:
+  - abstract: "A IIIF \u201Ccollection\u201D is a group of manifests (including other\
+      \ collections), and the idea has been present since version 2.0 of the Presentation\
+      \ API.<br/><br/>However, it feels like the uptake of modelling data in this\
+      \ way has been slow to take off, arguably because there are very few systems\
+      \ that can reliably and usefully process this kind of grouped, hierarchical\
+      \ information.<br/><br/>In this Birds of a Feather session I would like to make\
+      \ contact with other people who have considered IIIF collections to model their\
+      \ data, but have been put off by a lack of capable systems to display that information.\
+      \ We will discuss what the potential use cases are for using IIIF collections,\
+      \ followed by collectively forming a proposal for how they could be better represented\
+      \ by the standard viewers or alternative online systems."
+    authors:
+    - name: Neil Hawkins
+      org: Cogapp, United Kingdom
+    end: '3:45'
+    id: '130'
+    start: '1:30'
+    title: Where next with IIIF Collections?
+    type: Birds of a Feather
+  - abstract: "Crows have murder and geese their gaggle. Birds of a feather, in other\
+      \ words, have their flocks, while educators and fish of a scale school separately.\
+      \ The newly-formed IIIF Community Group for Education seeks more of its kind\
+      \ and welcomes others to explore yet unmapped seas below the surface of IIIF\u2019\
+      s global purview, for there be dragons. A weekly working group has caught the\
+      \ odd fish or two, and we are casting our net more widely: for seasoned IIIF\
+      \ toolmakers, collectors, and standard-bearers who\u2019d like to scale up to\
+      \ a bigger market; and IIIF-ish educators, instructional designers, and academic\
+      \ technologists at the farthest reaches of the GLAM sector.<br/><br/>The IIIF\
+      \ Community Group for Education represents educators, educational institutions,\
+      \ and cultural heritage institutions with educational functions as a group with\
+      \ coherent interests to be addressed in outreach and in the development of IIIF\
+      \ standards and related technologies. The group, with members from across the\
+      \ community and around the world, focuses on the creative and productive uses\
+      \ of IIIF resources and IIIF-enabled tools for teaching and learning. The group\
+      \ seeks to address the needs of educators, potentially one of the largest and\
+      \ most engaged audience for IIIF content, and recognizes the potential positive\
+      \ impact of IIIF-enabled resources and tools for experiential and active learning.\
+      \ Leveraging capacities of the broader IIIF community, the IIIF Community Group\
+      \ works to inspire the development of new tools that reflect the needs of educators\
+      \ and to serve as a focal point for knowledge-sharing among educators interested\
+      \ in using IIIF as part of coursework. The group welcomes instructors, academic\
+      \ technologists, and anyone else involved with the integration of IIIF tools\
+      \ and resources within the context of education or educational outreach.<br/><br/>Areas\
+      \ of focus include:<br/>- Familiarity with IIIF as a matter of information literacy<br/>-\
+      \ Curriculum and lesson plan sharing highlighting the many ways that IIIF tools\
+      \ and resources can be used as part of creative course assignments<br/>- Document\
+      \ and develop IIIF-based instructional tools for teaching and learning, such\
+      \ as tools for the creation of \u201Cteaching collections\u201D, additional\
+      \ tools for annotation and writing, and tools for digital exhibit creation.<br/>-\
+      \ Identifying gaps and institutional needs, including IT infrastructure, instructional\
+      \ and academic technology support, in a wide spectrum of institution types.<br/><br/>This\
+      \ \u201Cfish-of-a-school\u201D session will provide an overview of the group's\
+      \ current work, goals for the future, and serve as a space of networking for\
+      \ educators and education-related professionals, as well as a session of brainstorming\
+      \ to determine the immediate needs of educators. Participation in this session\
+      \ or in the related Community Group does not presuppose any technical skills\
+      \ or proficiencies. All are welcome.<br/><br/>"
+    authors:
+    - name: Christopher J Gilman
+      org: UCLA Library / Digital Library Program, United States of America
+    - name: Ben Johnston
+      org: Princeton University / McGraw Center for Teaching and Learning
+    end: '3:45'
+    id: '140'
+    start: '1:30'
+    title: 'Fish-of-a-School: IIIF for Educators'
+    type: Birds of a Feather
+  start: '1:30'
+  type: bof
