@@ -718,6 +718,33 @@
     title: Publishing and Annotating Text and Images in Large Historical Handwritten
       Text Recognition Collections
     type: Presentation
+  - abstract: Poznan Supercomputing and Networking Center is one of leading players
+      in the European Research Area, specializing in IT infrastructure for science
+      and information technologies. Collaborating with cultural heritage and digital
+      humanities researchers for over 20 years, PSNC developed DInGO software, widely
+      used for digitization and archiving. Recently, PSNC has focused on IIIF technology,
+      integrating it into DInGO and developing the Virtual Transcription Laboratory
+      (VTL) for document transcription.<br/><br/>Cooperation with Europeana and other
+      European partners in projects like EnrichEuropeana and EnrichEuropeana+ further
+      improved PSNC's IIIF capabilities which were important in completing DARIAH-PL.
+      This initiative resulted in the development of Dariah Media Hub, addressing
+      researchers' need for optimized data delivery. Supporting various file formats,
+      including images, PDFs, audio, video, and 3D materials, the hub internally converts
+      files to IIIF-compliant image format allowing storage and access. Its scalable
+      infrastructure, utilizing Cantaloupe IIIF servers, ensures efficient data handling.<br/><br/>In
+      our presentation we will provide details of Dariah Media Hub's extensive infrastructure
+      for IIIF image service and showcase functionality utilizing IIIF related frameworks
+      and APIs.
+    authors:
+    - name: "Marcin Heli\u0144ski"
+      org: Poznan Supercomputing and Networking Center, Poland
+    - name: Aleksandra Nowak
+      org: Poznan Supercomputing and Networking Center, Poland
+    end: '10:15 '
+    id: '129'
+    start: '10:00 '
+    title: Dariah Media Hub - a large-scale solution for delivering IIIF images
+    type: Presentation
   start: '9:00'
   type: presentations
 '7':
