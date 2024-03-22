@@ -111,6 +111,7 @@ UCLA Charles E. Young Research Library<br>
 The Getty Center, Harold M. Williams Auditorium<br>
 1200 Getty Center Dr, Los Angeles, CA 90049
 
+{% include 2024_locations.html %} 
 
 <!-- ### **Register**
 
