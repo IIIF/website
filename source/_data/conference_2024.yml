@@ -441,8 +441,6 @@
       \ manuscript of human cultural heritage. This presentation will detail the collaborative\
       \ process for this ambitious project and demonstrate the newly launched DFC."
     authors:
-    - name: Kim Nicole Richter
-      org: Getty Research Institute
     - name: Alicia Maria Houtrouw
       org: Getty Research Institute
     - name: Christopher J Gilman
@@ -450,8 +448,7 @@
     end: '02:45 '
     id: '110'
     start: '02:30 '
-    title: "Creating the Digital Florentine Codex/C\xF3dice Florentino Digital: Leveraging\
-      \ IIIF for a 16th-century Mexican Manuscript"
+    title: "FloCo in the World: Indigenous Knowledge and Global Education"
     type: Presentation
   - abstract: "The Digital Florentine Codex is a richly enhanced digital critical\
       \ edition of an exceptionally important 16th-century Mexican manuscript written\
