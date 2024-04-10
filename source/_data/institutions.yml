@@ -218,6 +218,10 @@
 - name: Moravian Library (Moravská zemská knihovna)
   uri: https://www.mzk.cz/
   iiifc:
+  name: National Film and Sound Archive of Australia
+  uri: https://www.nfsa.gov.au/
+  iiifc: 4
+  logo: assets/uploads/logos/NFSA.jpg
 - name: National Gallery of Art
   uri: http://www.nga.gov
   iiifc: 2
