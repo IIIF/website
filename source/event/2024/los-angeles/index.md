@@ -38,6 +38,7 @@ This event is guided by the IIIF [Code of Conduct]({{ site.root_url | absolute_u
 
 * Location: Los Angeles, CA, USA
     * Conference: June 4-5, 2024
+    * Reception: June 5, 2024
     * Birds of a Feather sessions and meetings: June 6, 2024
     * Showcase: June 7, 2024
 * Registration for the IIIF Showcase is free.
@@ -76,16 +77,6 @@ The IIIF Annual Conference is generously supported by the following Conference S
 ### **Travel Scholarship**
 
 In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to announce two travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/annual_conference_travel_scholarship).
-
-### Call for proposals
-
-The IIIF Conference Program Committee [invites proposals]({{ site.root_url | absolute_url }}/news/2023/12/19/call-for-proposals-2024/) for presentation in the following formats:
-
-* 7 minute lightning talks
-* 15 minute presentations (plus 5 minutes for Q&A)
-* Birds of a Feather sessions (Birds of a Feather sessions are informal discussion groups that will each consider a specific issue or subject. Spaces will be designated for each topic)
-
-Proposal of no longer than 500 words are due **February 6** via the submissions portal; see the [CfP page for more submission details including themes and requirements]({{ site.root_url | absolute_url }}/news/2023/12/19/call-for-proposals-2024/).
 
 ### Program committee
 
