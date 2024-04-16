@@ -201,7 +201,7 @@ The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4
     </tr>  
     <tr>
         <td>6:30pm</td>
-        <td colspan="3"><b>Conference Reception</b></td>
+        <td colspan="3"><b>Conference Reception, UCLA Botanical Gardens</b></td>
     </tr>
 </table>
 
