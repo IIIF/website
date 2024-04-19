@@ -872,15 +872,16 @@
       \ What about the public librarian who wants to publish a digital collection\
       \ on GitHub pages? The digital humanist between jobs with a great idea for an\
       \ exhibit? Or the research engineer who wants to support a handful of projects\
-      \ without managing an image server or going through library acquisitions?<br/><br/>This\
+      \ without going through special collections acquisitions?<br/><br/>This\
       \ lightning talk will provide a few examples of \"DIY IIIF'' projects as models\
-      \ for starting from scratch. We'll look at static sites on the histories of\
-      \ Occupy Wall Street and the Chicano Studies Library with self-contained IIIF\
-      \ Level 0 resources. We'll also inspect a GitHub-based workflow (Aperitiiif)\
-      \ for quickly publishing IIIF collections for research. In the process, we'll\
+      \ for starting from scratch. We'll look at a few static sites with self-contained IIIF \
+      \ Level 0 resources and we'll also inspect a GitHub-based workflow (Aperitiiif)\
+      \ for quickly publishing IIIF collections for nimble downstream research. In the process, we'll\
       \ consider how to lower structural barriers to supporting IIIF independently\
-      \ of the proverbial man \U0001F918<br/><br/>"
+      \ of the proverbial GLAM man. \U0001F918<br/><br/>"
     authors:
+    - name: Alía Warsco
+      org: New York University, United States of America
     - name: Marii Nyrop
       org: New York University, United States of America
     end: '01:35 '
