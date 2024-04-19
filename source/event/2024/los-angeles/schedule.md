@@ -55,7 +55,7 @@ Conference:
  * [Birds of a feather sessions - Thursday, June 6th](#birds-of-a-feather-sessions---thursday-june-6th)
 
 Showcase:
- * Getty museum, Friday, June 7th
+ * [Getty museum, Friday, June 7th]({{ site.root_url | absolute_url }}/event/2024/los-angeles/showcase/)
 
 ### **Sponsors**
 
