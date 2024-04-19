@@ -253,28 +253,14 @@
     title: 'The Manifests are the Metadata: Exploring provenance through a manifest-led
       environment'
     type: Lightning talk
-  - abstract: "La Biblioteca de la Universidad Intercultural de las Nacionalidades\
-      \ y Pueblos Ind\xEDgenas Amawtay Wasi, es una unidad funcional de apoyo a la\
-      \ docencia, el aprendizaje y la investigaci\xF3n, que responde a los objetivos\
-      \ estrat\xE9gicos de la Universidad y a su modelo pedag\xF3gico, alcanzando\
-      \ as\xED la satisfacci\xF3n total de las necesidades informativas de los usuarios\
-      \ (as) de la comunidad universitaria ofreciendo servicios bibliogr\xE1ficos\
-      \ de calidad.<br/><br/>La Biblioteca est\xE1 constituida por los acervos bibliogr\xE1\
-      ficos y documentales en diferentes soportes, con independencia de su procedencia,\
-      \ de la iniciativa y el procedimiento para su adquisici\xF3n y del concepto\
-      \ presupuestario aplicado para \xE9sta.<br/><br/>Actualmente la Universidad\
-      \ est\xE1 creando la Biblioteca con material bibliogr\xE1fico enfocada a las\
-      \ nacionalidades ecuatorianas, es decir estamos recopilando libros, im\xE1genes\
-      \ entorno a este tem\xE1tica, brindando de esta manera servicios de referencia,\
-      \ pr\xE9stamos y digitalizaci\xF3n.<br/><br/>"
+  - abstract: "3D Manifest with Kompakkt in Babylon.js<br/><br/>"
     authors:
-    - name: ADRIANA GUANDINANGO
-      org: UNIVERSIDAD AMAWTAY WASI ECUADOR, Ecuador
+    - name: Zoë Schubert
+      org: Staatsbibliothek Berlin
     end: '11:55 '
     id: '108'
     start: '11:45 '
-    title: "Biblioteca de la Universidad Intercultural de las Nacionalidades y Pueblos\
-      \ Ind\xEDgenas Amawtay Wasi,"
+    title: "3D Manifest with Kompakkt in Babylon.js"
     type: Lightning talk
   - abstract: Last fall, Internet Archive staff and volunteers from the IIIF community
       brought IIIF support into the Internet Archive as a production service. We'll
@@ -622,23 +608,16 @@
       interfaces, in the form of interactive network graphs, that we presented as a <a href="https://gitlab.tetras-libre.fr/iiif/coeso-deliverable/-/wikis/home">prototype</a>
       at the IIIF Conference 2023. <br/><br/>
       Since, we have continued development to keep up with recent Mirador updates to MUI5 
-      and React17. The first prototype led to two contributions: 
-      <ol>
-        <li>a <a href="https://github.com/ProjectMirador/mirador-annotations">new plugin</a> which is 
-          a major refactor and update of an image annotation plugin
-          that now supports video and audio; 
-        </li>
-        <li>An online multi-user platform called 
-          <a href="https://gitlab.tetras-libre.fr/iiif">Arvest</a>, that will be publicly available as 
-          of September 2024.
-        </li>
-      </ol>
+      and React17. The first prototype led to two contributions: (1) a <a href="https://github.com/ProjectMirador/mirador-annotations">new plugin</a> which is 
+      a major refactor and update of an image annotation plugin that now supports video and audio; 
+      (2) An online multi-user platform called <a href="https://gitlab.tetras-libre.fr/iiif">Arvest</a>, 
+      that will be publicly available as of September 2024.<br/><br/>
       Arvest, combined with Mirador and our annotation plugin, proposes a IIIF-driven 
       environment for the creation and navigation of multimodal document networks. The users 
       can navigate collections of images, video, audio and documents through annotations of 
       different natures – from textual captions and image annotations, to annotations that are 
       linked to other Manifests. A project in Arvest is represented as a IIIF Collection of 
-      Manifests, meaning that full interoperability is still insured.<br/>
+      Manifests, meaning that full interoperability is still insured.<br/><br/>
       We wish to render the use of IIIF accessible to a wide range of non techno-fluent users. 
       As a fully functional online multi-user environment, Arvest allows anyone with an email 
       to create an account and start creating and sharing Manifests from their media in a 
@@ -888,6 +867,15 @@
     title: 'Handling special AV annotations: captions, subtitles, audio description,
       transcripts, and translations'
     type: Lightning talk
+  - abstract: <br/><br/>
+    authors:
+    - name: Sonaj Kasail
+      org: 
+    end: '01:55 '
+    id: '998'
+    start: '01:45 '
+    title: 'TBC'
+    type: Lightning talk
   - abstract: "CollectiveAccess is an open-source collections management application\
       \ used by hundreds of projects. To meet the needs of disparate collections,\
       \ it supports a wide range of media including IIIF images, video, audio, 3D,\
@@ -915,9 +903,9 @@
       org: Northwestern University
     - name: Mat Jordan
       org: Northwestern University
-    end: '01:55 '
+    end: '02:05 '
     id: '141'
-    start: '01:45 '
+    start: '01:55 '
     title: Integrating Clover IIIF viewer into collections management software CollectiveAccess
     type: Lightning talk
   start: '13:15'
