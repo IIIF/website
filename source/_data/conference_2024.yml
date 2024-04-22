@@ -398,6 +398,15 @@
     title: Watch me spin up a production ready, lightning fast, IIIF image service
       in less time than it takes to give this talk
     type: Lightning talk
+  - abstract: TBC
+    authors:
+    - name: Maia Mackay
+      org: University of Leeds, UK
+    end: '02:20 '
+    id: '997'
+    start: '02:10 '
+    title: Turning textiles into sound to make archive collections more accessible
+    type: Lightning talk
   start: '13:30'
   type: lightning
 '4':
