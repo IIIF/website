@@ -55,7 +55,7 @@ Conference:
  * [Birds of a feather sessions - Thursday, June 6th](#birds-of-a-feather-sessions---thursday-june-6th)
 
 Showcase:
- * Getty museum, Friday, June 7th
+ * [Getty museum, Friday, June 7th]({{ site.root_url | absolute_url }}/event/2024/los-angeles/showcase/)
 
 ### **Sponsors**
 
@@ -82,10 +82,15 @@ The conference will take place in [De Neve Auditorium](https://www.google.com/ma
         <td colspan="3"><b>Check-in</b></td>
     </tr>    
     <tr>
-        <td>9:00 - 9:45</td>
-        <td>Welcome and State of the IIIF Universe</td>
-        <td>IIIF Consortium Staff</td>
+        <td>9:00 - 9:05</td>
+        <td>Welcome</td>
+        <td>Athena Jackson, University Librarian</td>
     </tr>    
+    <tr>
+        <td>9:05 - 9:45</td>
+        <td>State of the IIIF Universe</td>
+        <td>IIIF Consortium Staff</td>
+    </tr> 
     {% include conference_table_row.html datafile=site.data.conference_2024 block="1"  %}
     <tr>
         <td>10:30 - 10:45</td>
@@ -108,7 +113,7 @@ The conference will take place in [De Neve Auditorium](https://www.google.com/ma
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="3"  %}    
     <tr>
-        <td>2:10 - 2:30</td>
+        <td>2:20 - 2:30</td>
         <td>Q & A</td>
         <td></td>
     </tr> 
@@ -220,7 +225,7 @@ The Birds of a Feather sessions will be held at the [Charles Young Library](http
     </thead>
     <tr>
         <td>10:00 - 12:00</td>
-        <td id="block-bof-1-146"><a href="#146">A/V Annotation</a></td>
+        <td id="block-bof-1-999"><a href="#999">IIIF and 3D workshop</a></td>
         <td id="block-bof-1-113"><a href="#113">IIIF & End Users: increasing uptake and creating ambassadors</a></td>
         <td id="block-bof-1-106"><a href="#106">Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery</a></td>
     </tr>    
@@ -232,6 +237,7 @@ The Birds of a Feather sessions will be held at the [Charles Young Library](http
         <td>1:30 - 3:45</td>
         <td id="block-bof-2-130"><a href="#130">Where Next with IIIF Collections?</a></td>
         <td id="block-bof-2-140"><a href="#140">Fish-of-a-School: IIIF for Educators</a></td>
+        <td id="block-bof-2-146"><a href="#146">A/V Annotation</a></td>
     </tr>
 </table>
 
