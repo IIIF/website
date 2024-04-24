@@ -558,12 +558,14 @@
       an overview of these features and dive into the underlying concepts and capabilities
       that facilitate them such as IIIF browsing, copy and paste, and storage.<br/><br/>
     authors:
+    - name: John Baker
+      org: Digirati
+    - name: Paul Mollahan
+      org: Digirati
     - name: Tom Crane
       org: Digirati
     - name: Brittny Lapierre
       org: Canadian Research Knowledge Network
-    - name: John Baker
-      org: Digirati
     end: '04:30 '
     id: '123'
     start: '04:15 '
