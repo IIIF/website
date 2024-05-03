@@ -390,7 +390,7 @@
       \ can help you think about the environmental costs of computing.<br/><br/>That\
       \ is a lot in seven minutes."
     authors:
-    - name: Mat Jordan
+    - name: Karen Shaw
       org: Northwestern University Libraries
     end: '02:10 '
     id: '131'
@@ -722,7 +722,7 @@
       tools, and techniques presented can be adopted by Digital Humanities projects
       combining IIIF collections with scholarly output.<br/><br/>
     authors:
-    - name: Carolyn Caizzi
+    - name: David Schober
       org: Northwestern University Libraries, United States of America
     - name: Mat Jordan
       org: Northwestern University Libraries, United States of America
@@ -885,7 +885,7 @@
     end: '01:55 '
     id: '998'
     start: '01:45 '
-    title: 'TBC'
+    title: 'IIIF and the Global South: Reaching out to the Un/Underrepresented'
     type: Lightning talk
   - abstract: "CollectiveAccess is an open-source collections management application\
       \ used by hundreds of projects. To meet the needs of disparate collections,\
