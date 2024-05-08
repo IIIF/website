@@ -46,6 +46,9 @@
   uri: https://www.cam.ac.uk/
   iiifc: 2
   logo: assets/uploads/logos/cambridge_university2.svg
+- name: Canadian Research Knowledge Network
+  uri: https://www.crkn-rcdr.ca/
+  iiifc: 4
 - name: Canadiana.org
   uri: http://canadiana.org
   iiifc:
