@@ -29,6 +29,22 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
   * Consideration of shared use cases for IIIF
   * Promotion of IIIF within the broader museum community
 
+## Communication channels:
+
+  * Calls on the third Monday of every month at 11:00am Eastern Time - see the [IIIF Community Calendar][iiif-calendar] for details
+  * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
+  * General discussion on the [# museums IIIF Slack channel][museums-slack] ([Join Slack][slack])
+
+**Call connection information:**
+
+  * Online: [Zoom][zoom-link]
+
+**Call notes and group documents:**
+
+  * [Running Agenda][agenda]
+  * [IIIF Museums Community Group folder][museums-folder]
+
+
 ## Organization
 
 **Chairs:**
@@ -38,25 +54,13 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
   * Matt Westerby (Center for Advanced Study in the Visual Arts at the National Gallery of Art)
   * Tristan Roddis (Cogapp)
 
-**Communication channels:**
-
-  * Calls on the third Monday of every month at 11:00am Eastern Time - see the [IIIF Community Calendar][iiif-calendar] for details
-  * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
-  * General discussion on the [# museums IIIF Slack channel][museums-slack] ([Join Slack][slack])
-
-**Call notes and group documents:**
-
-  * [IIIF Museums Community Group folder][museums-folder]
-
-**Call connection information:**
-
-  * Online: [Zoom][zoom-link]
 
   [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
   [museums-slack]: https://iiif.slack.com/messages/museums/details/
   [museums-folder]:https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?usp=sharing
   [slack]: http://bit.ly/iiif-slack
   [zoom-link]: https://stanford.zoom.us/j/92418402628?pwd=UE14M1cxZjd3bUtoL3BaWjdVK0N5Zz09
+  [agenda]: https://docs.google.com/document/d/13nIWiwNXYFyogR84h4dBLmCo8x1IRmOmfpgTwA0BWwM/edit?usp=sharing
   [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
   [international-zoom]: https://zoom.us/zoomconference
   [iiif-faq]: {{ site.root_url | absolute_url }}/community/faq/
