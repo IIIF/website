@@ -96,25 +96,11 @@
   id: '10'
   session_time: 'Wednesday, June 5th: 3:45pm - 4:45pm'
   sessions:
-  - abstract: "In the early 20th century, Mogao Cave 17 near Dunhuang, China, was\
-      \ opened up, revealing thousands of manuscripts, documents, paintings and more\
-      \ that had lain undisturbed since their 11th century concealment. These artefacts,\
-      \ compared to the Dead Sea Scrolls in significance, were dispersed across global\
-      \ institutions by early 1900s explorers from colonial powers.<br/><br/>In the\
-      \ 90s, the International Dunhuang Programme (IDP) formed; uniting 42 partners\
-      \ to conserve, catalogue, and digitize Eastern Silk Road collections \u2013\
-      \ including the Dunhuang finds. 30 years later, cultural sector digital specialists\
-      \ Surface Impression were tasked with updating the now woefully outdated IDP\
-      \ website to greatly enhance access to these worldwide collections.<br/><br/>IIIF\
-      \ was key to the new development, given its ability to reunite dispersed items.\
-      \ But there was a catch! Scroll-format manuscripts number over 20,000 items,\
-      \ including the 5 metre (16.5\u2019) wide Diamond Sutra (a 200:1 aspect ratio).<br/><br/>This\
-      \ presentation explores creative and technical strategies for diverse and often\
-      \ awkwardly sized materials within IIIF. It will examine how the IIIF community\
-      \ can innovate display methods while maintaining interoperability. It will be\
-      \ wide ranging and exploratory - including design, tech, viewers, curatorship\
-      \ and managing a complex digital project while under extreme pressure from external\
-      \ events! "
+  - abstract: "In the early 20th century, Cave 17 in China’s Dunhuang Mogao Caves was unsealed, revealing thousands of manuscripts, documents, paintings and more that had lain undisturbed since their 11th century concealment. These artefacts, which have now become critical for understanding life along the Silk Roads in ancient Asia, were dispersed across institutions worldwide by early 1900s explorers.<br/><br/>
+In the 90s, the International Dunhuang Programme (IDP) was formed to unite international partners in the pursuit of conserving, cataloguing, and digitising Eastern Silk Road collections – including the Dunhuang finds. The Programme also makes images and metadata accessible through the IDP database and website <a href='https://idp.bl.uk'>https://idp.bl.uk</a>. Thirty years later, the British Library contracted cultural sector digital specialists Surface Impression to update the IDP website in order to greatly enhance access to these collections worldwide. <br/><br/> 
+IIIF was key to the new development, given its flexible presentation frameworks and its ability to dynamically handle dispersed items. But this project came with its own challenges! There are many uniquely formatted items in the collections, including the 5 metre (16.5’) wide Diamond Sutra scroll (a 200:1 aspect ratio), which required custom presentation solutions. <br/><br/>
+This presentation explores creative and technical strategies for diverse materials within IIIF. It will examine how the IIIF community can innovate display methods while maintaining interoperability. It will be wide ranging and exploratory - including design, tech, viewers, curatorship and managing a complex digital project in the current technological landscape.
+"
     authors:
     - name: Peter Pavement
       org: Surface Impression
