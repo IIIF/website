@@ -12,6 +12,7 @@
   label: 3D TSG #Group name
   alternate_names:  # name used on IIIF calendar
     - 3D Technical Specification Group  
+    - IIIF 3d TSG
   description: The IIIF 3D TSG explores the addition of 3D properties into the IIIF Presentation API specifications. 
   link: /community/groups/3d/tsg #link to charter
   type: tsg #TSG or community
@@ -45,6 +46,20 @@
   type: community 
   notes: https://drive.google.com/drive/folders/1gz7OBW8JEK_WUnhLxQ7FD0vSWv9umJ31 
   meeting_frequency: Every four weeks, on Mondays 
+- id: av-motivations
+  label: AV Motivations TSG 
+  alternate_names: 
+    - AV Motivations TSG
+  description: The AV Motivations TSG are looking into how to identify different types of annotations related to AV material like transcriptions and closed captions. 
+  link: /community/groups/av-motivations/
+  type: tsg 
+  chairs:
+    - Emily Lynema (Indiana University)
+    - Mark Baggett (University of Tennessee)
+    - Jeff Mixter (OCLC)
+    - Nuno Freire (Europeana)
+  notes: https://docs.google.com/document/d/13_LvtOPkI5O1mjWgYLqjz9GS4cmdjdQjyu8WfGbL9vE/edit?usp=sharing
+  meeting_frequency: Every four weeks, on Tuesdays
 - id: design 
   label: Design
   alternate_names: 
@@ -66,6 +81,7 @@
     - IIIF for Education Community Group
     - IIIF Education Community Group
     - Education
+    - IIIF for Education
   description: This group represents educators, educational institutions, and cultural heritage institutions with educational functions as a sector with a coherent set of interests for consideration in the development of IIIF standards and related technologies.
   link: /community/groups/education
   type: community 
@@ -153,6 +169,7 @@
   label: Cookbook 
   alternate_names: 
     -  IIIF Cookbook
+    - IIIF Cookbook session
   description: The IIIF Cookbook is a community initiative to create reusable “recipes” of common functions. #One sentence description for car
   #link: /api/cookbook/  # needs to link to website to work and this isn't really a about the Cookbook page
   #type: #TSG or community
