@@ -1,6 +1,7 @@
 ---
 title: "IIIF 3D Technical Specification Group"
 layout: page
+group: 3d-tsg
 breadcrumbs:
  - label: "Get Involved"
    link: /get-involved/
@@ -9,6 +10,7 @@ breadcrumbs:
  - label: "Groups"
    link: /community/groups/
 ---
+{% assign group = site.data.groups[page.group] %}
 
 ## About
 
@@ -53,7 +55,7 @@ The expected initial deliverables are IIIF API extensions and a specification ch
 - Github Repository: <https://github.com/IIIF/3d>
 - Slack: #3d
 - Email: iiif-discuss; subject line: [3D-TSG]
-- Calls: The first Tuesday of every month, complementing the 3D Community Group calls (see [Community Calendar][iiif-calendar])
+- Calls: {{ group.meeting_frequency }} (see [Community Calendar][iiif-calendar])
 
 **Call notes and group documents:**
 
@@ -62,7 +64,6 @@ The expected initial deliverables are IIIF API extensions and a specification ch
 **Call connection information:**
 
  * Online: see [Community Calendar][iiif-calendar]
-
 
 [3d-user-stories]: https://github.com/IIIF/iiif-3d-stories "3D User Stories"
 [events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
