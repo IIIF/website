@@ -39,7 +39,7 @@ The group [charter][charter] specifies the deliverables and aims of the group in
 
 [events]: {{ site.root_url | absolute_url }}/event "IIIF Events"
 [av-group]: {{ site.root_url | absolute_url }}/community/groups/av/
-[iiif-3]: {{ site.root_url | absolute_url }}/api/registry/motivations/
+[iiif-3]: {{ site.api_url | absolute_url }}/api/registry/motivations/
 [w3c-anno]: https://www.w3.org/TR/annotation-model/#motivation-and-purpose
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [av-slack]: https://iiif.slack.com/messages/av/details/

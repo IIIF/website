@@ -38,7 +38,7 @@ Appropriate deliverables will depend on the recommendations produced by this gro
 ## References
 The document [Extending Motivations Proposal: captioning, subtitling, transcribing, translating](https://docs.google.com/document/d/1G6DFWuwX9VcpCzM8kaC0E8b_-Pj5Owrzb_BzDQWZ27s/edit?usp=sharing) contains initial recommendations for new motivations and their use cases. It was developed by the IIIF A/V Community Group. 
 
-Some recipes in the cookbook are helpful to understand the difference between these motivations, especially [Transcripts, Captions, and Subtitles - General Considerations](https://iiif.io/api/cookbook/recipe/0231-transcript-meta-recipe/).
+Some recipes in the cookbook are helpful to understand the difference between these motivations, especially [Transcripts, Captions, and Subtitles - General Considerations]({{ site.api_url | absolute_url }}/api/cookbook/recipe/0231-transcript-meta-recipe/).
 
 ## Roadmap
  * Group formation: December 2023
@@ -52,7 +52,7 @@ Some recipes in the cookbook are helpful to understand the difference between th
 * General discussion on the [AV Slack channel][av-slack]
 
 [w3c-anno]: https://www.w3.org/TR/annotation-model/#motivation-and-purpose
-[iiif-3]: {{ site.root_url | absolute_url }}/api/registry/motivations/
+[iiif-3]: {{ site.api_url | absolute_url }}/api/registry/motivations/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
 [av-slack]: https://iiif.slack.com/messages/av/details/
 [iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
