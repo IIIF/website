@@ -10,7 +10,7 @@ breadcrumbs:
  - label: "Groups"
    link: /community/groups/
 ---
-{% assign group = site.data.groups[page.group] %}
+{% assign group = site.data.groups | where_exp:"group", "group.id ==  page.group" | first%}
 
 ## About
 

@@ -10,7 +10,7 @@ breadcrumbs:
  - label: "Groups"
    link: /community/groups/
 ---
-{% assign group = site.data.groups[page.group] %}
+{% assign group = site.data.groups | where_exp:"group", "group.id ==  page.group" | first%}
 
 ## About
 Members from the [IIIF A/V Community Group][av-group] would like to propose a mechanism to more explicitly identify the nature of annotations in the IIIF Presentation API. The current [IIIF Presentation API 3.0][iiif-3] and [Web Annotation][w3c-anno] motivations do not provide clear, reliable mechanisms to inform IIIF clients how to distinguish between and present to the user annotations that represent transcripts, captions, and subtitles.

@@ -10,7 +10,7 @@ breadcrumbs:
  - label: "Groups"
    link: /community/groups/
 ---
-{% assign group = site.data.groups[page.group] %}
+{% assign group = site.data.groups | where_exp:"group", "group.id ==  page.group" | first%}
 
 # AV Annotations TSG Charter 
 
@@ -51,6 +51,7 @@ Some recipes in the cookbook are helpful to understand the difference between th
 * Email: [iiif-discuss][iiif-discuss] with subject line: \[Motivation-TSG\]
 * General discussion on the [AV Slack channel][av-slack]
 
+[av-group]: {{ site.root_url | absolute_url }}/community/groups/av/
 [w3c-anno]: https://www.w3.org/TR/annotation-model/#motivation-and-purpose
 [iiif-3]: {{ site.api_url | absolute_url }}/api/registry/motivations/
 [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
