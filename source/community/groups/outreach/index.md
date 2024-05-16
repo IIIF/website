@@ -35,10 +35,8 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
 **Chairs:**
 
   * Caterina Agostini (Center for Digital Humanities, Princeton University)
-  * Emily Gore (University of Tennessee, Knoxville)
-  * Lourdes Johnson (Independent)
-  * Rachel Di Cresce (University of Toronto)
   * Claire Knowles (Leeds University Library)
+  * Caitlin Perry (IIIF-Consortium)
 
 **Communication channels:**
 

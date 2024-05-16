@@ -26,7 +26,7 @@
   link: /community/groups/archives 
   type: community 
   notes: https://drive.google.com/drive/folders/1-HM9O26iBzMcCpC1zELcOlrsaC3ty4En 
-  meeting_frequency: Calls every quarter on Tuesdays 
+  meeting_frequency: On hiatus currently  
 - id: aiml
   label: Artificial Intelligence and Machine Learning
   alternate_names: 
@@ -59,7 +59,7 @@
     - Jeff Mixter (OCLC)
     - Nuno Freire (Europeana)
   notes: https://docs.google.com/document/d/13_LvtOPkI5O1mjWgYLqjz9GS4cmdjdQjyu8WfGbL9vE/edit?usp=sharing
-  meeting_frequency: Every four weeks, on Tuesdays
+  meeting_frequency: On hiatus currently 
 - id: design 
   label: Design
   alternate_names: 
