@@ -154,6 +154,11 @@ The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="6"  %}
     <tr>
+        <td>10:00 - 10:15</td>
+        <td>TBC</td>
+        <td></td>
+    </tr> 
+    <tr>
         <td>10:15 - 10:30</td>
         <td>Q & A</td>
         <td></td>
@@ -173,11 +178,6 @@ The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4
         <td colspan="3"><b>Lunch</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="8"  %}    
-    <tr>
-        <td>1:55 - 2:05</td>
-        <td>To be confirmed</td>
-        <td></td>
-    </tr> 
     <tr>
         <td>2:05 - 2:15</td>
         <td>Q & A</td>
