@@ -59,7 +59,7 @@
     - Jeff Mixter (OCLC)
     - Nuno Freire (Europeana)
   notes: https://docs.google.com/document/d/13_LvtOPkI5O1mjWgYLqjz9GS4cmdjdQjyu8WfGbL9vE/edit?usp=sharing
-  meeting_frequency: On hiatus currently 
+  meeting_frequency: Once a month on Tuesdays
 - id: design 
   label: Design
   alternate_names: 
@@ -145,6 +145,7 @@
   type: tsg #TSG or community
   notes: https://drive.google.com/drive/u/0/folders/1oBgyRa4VMreCCBDefpjjxzg3Zp2b2yDg 
   meeting_frequency: Every 2 weeks on Wednesday (alternates with Maps Community Group) 
+  finished: true
 - id: auth-tsg 
   label: Authorization Flow 
   alternate_names: 
@@ -164,7 +165,7 @@
   link: /community/groups/content-search-tsg 
   type: tsg 
   notes: https://drive.google.com/drive/u/0/folders/15Zpng8lwANB5BsBt9wwTswfkjoxcB9oJ 
-  meeting_frequency: Every 2 weeks on Tuesday 
+  meeting_frequency: On hiatus currently
 - id: cookbook 
   label: Cookbook 
   alternate_names: 
