@@ -48,7 +48,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
             <td colspan="2"><b>Check-in and registration</b></td>
         </tr>
         <tr>
-            <td>9:00am - 10:30am</td>
+            <td>9:30am - 10:30am</td>
             <td>Welcome & Introduction to IIIF: Technology and Community</td>
             <td>IIIF-C Staff, Rep from Getty</td>
         </tr>
