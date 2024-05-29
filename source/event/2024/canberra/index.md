@@ -112,7 +112,7 @@ Location: Australian National University
 
 For those that are interested in getting hands on with IIIF and learning how it works there will be two workshops available on October the 16th:
 
-### Hands on with IIIF 
+### Hands on with iiif 
 
 9:00am - 12:00pm
 
