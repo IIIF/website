@@ -79,7 +79,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         <tr>
             <td>12:00 - 12:15</td>
             <td>AI/ML/transcribus</td>
-            <td>TBD</td>
+            <td>Emma Stanford</td>
         </tr>
         <tr>
             <td>12:15 - 12:30</td>
