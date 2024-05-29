@@ -20,6 +20,14 @@ Evelien serves as the curator of manuscripts at the Public Library of Bruges and
 **Roger Hyam, Biodiversity Data Systems Developer, Royal Botanical Garden Edinburgh, Scotland**  
 Roger trained as a botanist, completing a PhD in the molecular systematics of the genus Rhododendron in the 1990s, but became increasingly involved in data science and software. He crossed to the commercial software development world for a few years in the early 2000s before returning to the hybrid field of biodiversity informatics and working for the standards organisation TDWG. He is now on staff at the Royal Botanic Garden Edinburgh where he continues his interest in the mechanics of sharing biodiversity data between organisations. Currently he is working on an EU funded project to encourage adoption of IIIF by natural history collections.
 
+**Gerda Koch, Project Manager, Applied Information Technology Research, ltd.**
+Gerda Koch is project manager at AIT Applied Information Technology Research ltd. ([https://www.ait.co.at](https://www.ait.co.at)) in Graz, Austria. She has been working on cultural heritage projects for more than 25 years. Her research focus is on metadata and digital object standards in the cultural heritage domain, on vocabulary creation and management and on collaborative online learning environments and cultural portal design. She is lecturer for the University course Data Steward at the University of Graz and member of the IIIF coordination group at Europeana. At AIT Graz, Gerda Koch is content manager of two Europeana aggregation facilities, Europeana Local Austria and OpenUp! the natural history aggregator to Europeana (http://openup.ait.co.at/). 
+
+Since 2010 Europeana Local Austria has on a regular basis been organising a 2-days conference called "Digital Library" (conference.ait.co.at/digbib) for the DACH-Area. The conference offers workshops and a one-day lecture programme on current topics for digital libraries. Additionally, individual training workshops are organized upon request.
+
+Gerda Koch received a Master of Arts in English with a combination of studies in Economics and Law at the University of Graz, holds an academic degree as media specialist from the University of Graz and holds an MBA in Human Resource Management, specialised in modern learning environments. 
+
+
 **Brittny Lapierre, Senior User Experience Developer, Canadian Research Knowledge Network**<br/> 
 Brittny Lapierre, Senior UX Developer at the Canadian Research Knowledge Network (CRKN), earned her BCS from Carleton University and a certificate in User Experience from the University of Toronto. With dedication to advancing open access, accessibility standards, and human-centered design principles, Brittny is eager to champion the benefits of IIIF, especially within the Canadian landscape.
 
