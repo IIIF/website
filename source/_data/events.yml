@@ -18,6 +18,15 @@
       link: "https://www.eventbrite.com/e/june-2024-iiif-online-training-5-day-course-tickets-795359239897"
   location:
     label: "Online"
+- label: IIIF Australia Showcase & Workshops    
+  time:
+    start: 2024-10-15T10:00:00Z
+    end: 2024-10-16T10:00:00Z
+  links:
+    - label: More info & registration
+      link: "/event/2024/canberra/"
+  location:
+    label: "Canberra, Australia"
 - label: "IIIF Online Training November 2024 (5 Day course)"
   time:
     start: 2024-11-25T10:00:00Z
