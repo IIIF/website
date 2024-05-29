@@ -30,7 +30,9 @@ Showcase registration available via NFSA with FF24 ticket.
 
 The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event. It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community.
 
-### Location: Australian National University
+### Program
+
+Location: Australian National University
 <table class="api-table">
     <thead>
         <tr>
@@ -111,7 +113,9 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
 For those that are interested in getting hands on with IIIF and learning how it works there will be two workshops available on October the 16th:
 
 ### Hands on with IIIF 
+
 9:00am - 12:00pm
+
 [Registration][]
 
 This session will introduce you to the IIIF Image and Presentation standards and go through some hands on exercises to show how you can create and use off the shelf tools to get started with these standards. We will discuss how to setup a IIIF system in production starting with a small collection and then how to scale up to millions of images. We will then conclude with a discussion on the wider IIIF community and where you can go for help and advice after the workshop has completed.
@@ -121,6 +125,8 @@ Attendees should leave the session with a good understanding of the different II
 No prior knowledge of IIIF is required and the core sessions should be easily accessible to those with confidence using the Web. 
 
 ### Glycerine users
+
 14:00 - 16:00
+
 [Registration][]
 
