@@ -33,11 +33,15 @@ Technical Specification Groups are specifically chartered to update existing spe
 
 {% assign tsgs = site.data.groups | where_exp: "group","group.type == 'tsg'" %}
 {% for group in tsgs %}
+  {% if group.finished %}
+  {% else %}
  * [{{group.label}}]({{ site.root_url | absolute_url }}{{group.link}}) - {{group.meeting_frequency }}
+  {% endif %}
 {% endfor%}
 
 ## Completed Groups and TSGs
 
+* [Maps TSG][maps-tsg] -- This group completed its work as of September 2023. See the group page for the outputs of the group.
 * Discovery TSG -- This group completed its work in 2023, see [wind-down message](https://groups.google.com/g/iiif-discuss/c/g55CIIIg_nU/m/9N0rdIv1AAAJ) for review of publications and accomplishments.
 * Text Granularity TSG -- This group completed its work in 2019 with the publication of the [Text Granularity Extension]({{ site.api_url | absolute_url }}/extension/text-granularity/).
 * A/V TSG -- with the publication of the [Presentation API 3.0]({{ site.api_url | absolute_url }}/presentation/3.0/) in June 2020, this TSG completed its work and evolved in the A/V community group listed above. 
@@ -53,3 +57,5 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 [auth-tsg]: {{ site.root_url | absolute_url }}/community/groups/auth-tsg "IIIF Authentication Technical Specification Group"
 [content-search-tsg]: {{ site.root_url | absolute_url }}/community/groups/content-search-tsg "IIIF Content Search Technical Specification Group"
 [discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery
+[maps-tsg]: {{ site.root_url | absolute_url }}/community/groups/maps-tsg
+

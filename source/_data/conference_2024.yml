@@ -795,6 +795,8 @@ This presentation explores creative and technical strategies for diverse materia
   end: '14:15'
   id: '8'
   session_time: 'Wednesday, June 5th: 1:15pm - 2:15pm'
+  start: '13:15'
+  type: lightning
   sessions:
   - abstract: In support of a planned exhibition opening in Spring 2024, the Getty
       Digital team undertook a project to present a photo album that had been disassembled
@@ -904,6 +906,25 @@ This presentation explores creative and technical strategies for diverse materia
     id: '141'
     start: '01:55 '
     title: Integrating Clover IIIF viewer into collections management software CollectiveAccess
+    type: Lightning talk
+  - abstract: "Kakadu is currently the most efficient library for reading and writing \
+             \ JPEG2000 images, including the newest HTJ2K standard, which boasts far \
+             \ better encoding and decoding performance than the traditional JP2 format.\
+             \ Unfortunately, the Kakadu SDK is limited to C++ and Java, which limits \
+             \ the possibilities of integrating Kakadu with existing software frameworks. <br/>\
+             \ Libvips is a popular, very fast image manipulation library with various language \
+             \ bindings and modules for reading and writing several image formats. Harvard \
+             \ partnered with the libvips maintainer to build a Kakadu-backed JP2 reader and \
+             \ writer plug-in for libvips, which allows to Kakadu to read and write JP2 images. \
+             \ This plug-in, recently released to the public, is being integrated in the Harvard \
+             \ Library ETL pipelines to build high-volume image transformation services."
+    authors:
+    - name: Chip Goines
+      org: Harvard University
+    end: '02:15 '
+    id: '9141'
+    start: '02:05 '
+    title: Handling HTJ2K images with VIPS and Kakadu
     type: Lightning talk
   start: '13:15'
   type: lightning
