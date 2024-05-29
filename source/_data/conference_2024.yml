@@ -393,6 +393,25 @@ This presentation explores creative and technical strategies for diverse materia
     start: '02:10 '
     title: Turning textiles into sound to make archive collections more accessible
     type: Lightning talk
+  - abstract: "Kakadu is currently the most efficient library for reading and writing \
+             \ JPEG2000 images, including the newest HTJ2K standard, which boasts far \
+             \ better encoding and decoding performance than the traditional JP2 format.\
+             \ Unfortunately, the Kakadu SDK is limited to C++ and Java, which limits \
+             \ the possibilities of integrating Kakadu with existing software frameworks. <br/>\
+             \ Libvips is a popular, very fast image manipulation library with various language \
+             \ bindings and modules for reading and writing several image formats. Harvard \
+             \ partnered with the libvips maintainer to build a Kakadu-backed JP2 reader and \
+             \ writer plug-in for libvips, which allows to Kakadu to read and write JP2 images. \
+             \ This plug-in, recently released to the public, is being integrated in the Harvard \
+             \ Library ETL pipelines to build high-volume image transformation services."
+    authors:
+    - name: Chip Goines
+      org: Harvard University
+    end: '02:30 '
+    id: '9141'
+    start: '02:20 '
+    title: Handling HTJ2K images with VIPS and Kakadu
+    type: Lightning talk
   start: '13:30'
   type: lightning
 '4':
@@ -424,9 +443,9 @@ This presentation explores creative and technical strategies for diverse materia
       org: Getty Research Institute
     - name: Christopher J Gilman
       org: UCLA Library / Digital Library Program  
-    end: '02:45 '
+    end: '03:00 '
     id: '110'
-    start: '02:30 '
+    start: '02:45 '
     title: "FloCo in the World: Indigenous Knowledge and Global Education"
     type: Presentation
   - abstract: "The Digital Florentine Codex is a richly enhanced digital critical\
@@ -447,31 +466,10 @@ This presentation explores creative and technical strategies for diverse materia
     authors:
     - name: Matthew McGrattan
       org: Digirati, United Kingdom
-    end: '03:00 '
-    id: '118'
-    start: '02:45 '
-    title: 'Building the Digital Florentine Codex: From User Research to Production'
-    type: Presentation
-  - abstract: 'This presentation will delve into the process of creating an aggregation
-      of digital archives using IIIF. It will highlight the Judy Chicago Research
-      Portal as a case study, focusing on the technical intricacies and collaborative
-      dynamics involved in unifying diverse digitization implementations across five
-      institutions. In just 15 minutes, we will discuss the challenges and successes
-      of synchronizing varied digital practices to create a seamless and rich repository
-      of feminist art. This session will provide practical strategies and innovative
-      insights for leveraging IIIF in building expansive, interoperable digital collections.
-      By examining the successful aggregation of distinct archival resources from
-      across the country into a cohesive whole, attendees will be equipped with actionable
-      knowledge to drive similar transformative projects in the realm of digital humanities. '
-    authors:
-    - name: Dominique Luster
-      org: Pennsylvania State University Libraries, United States of America
-    - name: Binky Lush
-      org: Pennsylvania State University Libraries, United States of America
     end: '03:15 '
-    id: '142'
+    id: '118'
     start: '03:00 '
-    title: 'The (Feminist) Art of Integration: Judy Chicago''s Archives and IIIF'
+    title: 'Building the Digital Florentine Codex: From User Research to Production'
     type: Presentation
   start: '14:30'
   type: presentations
@@ -552,9 +550,9 @@ This presentation explores creative and technical strategies for diverse materia
       org: Digirati
     - name: Brittny Lapierre
       org: Canadian Research Knowledge Network
-    end: '04:30 '
+    end: '04:45 '
     id: '123'
-    start: '04:15 '
+    start: '04:30 '
     title: IIIF Manifest Editor - latest developments
     type: Presentation
   start: '16:00'
@@ -688,6 +686,27 @@ This presentation explores creative and technical strategies for diverse materia
     start: '09:45 '
     title: Publishing and Annotating Text and Images in Large Historical Handwritten
       Text Recognition Collections
+    type: Presentation
+  - abstract: 'This presentation will delve into the process of creating an aggregation
+      of digital archives using IIIF. It will highlight the Judy Chicago Research
+      Portal as a case study, focusing on the technical intricacies and collaborative
+      dynamics involved in unifying diverse digitization implementations across five
+      institutions. In just 15 minutes, we will discuss the challenges and successes
+      of synchronizing varied digital practices to create a seamless and rich repository
+      of feminist art. This session will provide practical strategies and innovative
+      insights for leveraging IIIF in building expansive, interoperable digital collections.
+      By examining the successful aggregation of distinct archival resources from
+      across the country into a cohesive whole, attendees will be equipped with actionable
+      knowledge to drive similar transformative projects in the realm of digital humanities. '
+    authors:
+    - name: Dominique Luster
+      org: Pennsylvania State University Libraries, United States of America
+    - name: Binky Lush
+      org: Pennsylvania State University Libraries, United States of America
+    end: '10:15 '
+    id: '142'
+    start: '10:00 '
+    title: 'The (Feminist) Art of Integration: Judy Chicago''s Archives and IIIF'
     type: Presentation
 '7':
   date: '2024-06-05'
@@ -906,25 +925,6 @@ This presentation explores creative and technical strategies for diverse materia
     id: '141'
     start: '01:55 '
     title: Integrating Clover IIIF viewer into collections management software CollectiveAccess
-    type: Lightning talk
-  - abstract: "Kakadu is currently the most efficient library for reading and writing \
-             \ JPEG2000 images, including the newest HTJ2K standard, which boasts far \
-             \ better encoding and decoding performance than the traditional JP2 format.\
-             \ Unfortunately, the Kakadu SDK is limited to C++ and Java, which limits \
-             \ the possibilities of integrating Kakadu with existing software frameworks. <br/>\
-             \ Libvips is a popular, very fast image manipulation library with various language \
-             \ bindings and modules for reading and writing several image formats. Harvard \
-             \ partnered with the libvips maintainer to build a Kakadu-backed JP2 reader and \
-             \ writer plug-in for libvips, which allows to Kakadu to read and write JP2 images. \
-             \ This plug-in, recently released to the public, is being integrated in the Harvard \
-             \ Library ETL pipelines to build high-volume image transformation services."
-    authors:
-    - name: Chip Goines
-      org: Harvard University
-    end: '02:15 '
-    id: '9141'
-    start: '02:05 '
-    title: Handling HTJ2K images with VIPS and Kakadu
     type: Lightning talk
   start: '13:15'
   type: lightning
