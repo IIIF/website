@@ -256,7 +256,11 @@ This presentation explores creative and technical strategies for diverse materia
       Internet Archive is a great playground for experimenting with some of IIIF's
       emerging standards.
     authors:
+    - name: Glen Robson 
+      org: IIIF Consortium, United Kingdom
     - name: Sara Brumfield
+      org: FromThePage, United States of America
+    - name: Ben Brumfield
       org: FromThePage, United States of America
     end: '12:05 '
     id: '115'
@@ -554,6 +558,17 @@ This presentation explores creative and technical strategies for diverse materia
     id: '123'
     start: '04:30 '
     title: IIIF Manifest Editor - latest developments
+    type: Presentation
+  - abstract: <br/><br/>
+    authors:
+    - name: Sara Brumfield
+      org: FromThePage, United States of America
+    - name: Ben Brumfield 
+      org: FromThePage, United States of America
+    end: '05:00 '
+    id: '12356'
+    start: '04:45 '
+    title: 10 Ways AI Will Change Archives
     type: Presentation
   start: '16:00'
   type: presentations

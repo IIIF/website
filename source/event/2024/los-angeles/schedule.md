@@ -129,7 +129,7 @@ The conference will take place in [De Neve Auditorium](https://www.google.com/ma
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="5" %}
     <tr>
-        <td>4:45 - 5:00</td>
+        <td>5:00 - 5:15</td>
         <td>Q & A</td>
         <td></td>
     </tr> 
