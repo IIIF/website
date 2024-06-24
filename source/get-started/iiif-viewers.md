@@ -91,7 +91,7 @@ A IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvase
 
 ---
 
-### [Micrio SHOW](https://micr.io/products){:.external}
+### [Micrio SHOW](https://micr.io/products/){:.external}
 
 A IIIF-compatible, high resolution viewer, which can be used to showcase content on any web platform. It can support images with sizes of 150,000 pixels wide and high, and up.
 
