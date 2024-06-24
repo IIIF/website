@@ -32,7 +32,7 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Adno](https://adno.app/en/) - Adno is a web application for viewing, editing and sharing narratives and journeys on online images, static images and IIIF images.
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
-- [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
+- [Micrio](https://micr.io/) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
 - [MLOL Stories](https://iiif.medialibrary.it/stories/) - A tool to promote the use of digital collections through innovative online narratives (in Italian).
 - [Omeka-S plugins](https://omeka.org/s/modules/IiifServer/)
 - [Spotlight](http://spotlight.projectblacklight.org/){:data-proofer-ignore=''} - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
