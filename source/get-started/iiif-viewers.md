@@ -89,6 +89,14 @@ A IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvase
 
 ![clover screenshot]({{ site.root_url | absolute_url }}/assets/uploads/clover.jpg "clover screenshot")
 
+---
+
+### [Micrio SHOW](https://micr.io/products/){:.external}
+
+A IIIF-compatible, high resolution viewer, which can be used to showcase content on any web platform. It can support images with sizes of 150,000 pixels wide and high, and up.
+
+![micrio screenshot]({{ site.root_url | absolute_url }}/assets/uploads/micrio.png "micrio screenshot")
+
 
 ## Audio/visual materials viewers
 
