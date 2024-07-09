@@ -47,7 +47,7 @@ CoCo meets monthly.
 - Arcadia Falcone, Stanford Universty
 - Caitlin Perry, IIIF Consortium
 - Stace Maples, Stanford University
-- Julien A. Raemy, University of Basel
+- Julien A. Raemy, Swiss Federal Archives
 - Glen Robson, IIIF Consortium
 - Ed Silverton, Mnemoscene
 - Simeon Warner, Cornell University
