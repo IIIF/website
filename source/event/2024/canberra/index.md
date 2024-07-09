@@ -8,7 +8,7 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
 ---
 
-The IIIF Consortium and the The National Film and Sound Archive are orgaising a series of IIIF events alongside the AI4LAM [Fantastic Futures](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) conference. 
+The IIIF Consortium and the The National Film and Sound Archive are organizing a series of IIIF events alongside the AI4LAM [Fantastic Futures](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) conference. 
 
 ## Showcase 
 
