@@ -113,7 +113,7 @@ The conference will take place in [De Neve Auditorium](https://www.google.com/ma
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="3"  %}    
     <tr>
-        <td>2:20 - 2:30</td>
+        <td>2:30 - 2:45</td>
         <td>Q & A</td>
         <td></td>
     </tr> 
@@ -129,7 +129,7 @@ The conference will take place in [De Neve Auditorium](https://www.google.com/ma
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="5" %}
     <tr>
-        <td>4:45 - 5:00</td>
+        <td>5:00 - 5:15</td>
         <td>Q & A</td>
         <td></td>
     </tr> 
@@ -153,11 +153,6 @@ The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4
         <td colspan="3"><b>Registration and arrivals</b></td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2024 block="6"  %}
-    <tr>
-        <td>10:00 - 10:15</td>
-        <td>TBC</td>
-        <td></td>
-    </tr> 
     <tr>
         <td>10:15 - 10:30</td>
         <td>Q & A</td>
