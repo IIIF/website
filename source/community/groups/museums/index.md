@@ -49,8 +49,8 @@ The IIIF Museums Community Group was formed in order to facilitate the discussio
 
 **Chairs:**
 
+  * Dan Brennan (Getty)
   * Emmanuelle Delmas-Glass (Yale University)
-  * Richard Palmer (Victoria & Albert Museum)
   * Matt Westerby (Center for Advanced Study in the Visual Arts at the National Gallery of Art)
   * Tristan Roddis (Cogapp)
 
