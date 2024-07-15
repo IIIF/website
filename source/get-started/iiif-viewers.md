@@ -97,6 +97,15 @@ A IIIF-compatible, high resolution viewer, which can be used to showcase content
 
 ![micrio screenshot]({{ site.root_url | absolute_url }}/assets/uploads/micrio.png "micrio screenshot")
 
+---
+
+### [Glycerine Viewer](https://glycerine.io/){:.external}
+
+An open-source embeddable Viewer.  Elegant and contemporary, [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) is implemented in Vue 3.  Supports IIIF Presentation API for basic and properties recipes and provides a comprehensive annotation feature set.
+
+![Glycerine screenshot]({{ site.root_url | absolute_url }}/assets/uploads/glycerine.png)
+
+Glycerine is displaying multiple hierarchical annotation sets across multiple languages from a [manifest](https://iaw-server.ardc-hdcl-sia-iaw.cloud.edu.au/api/publications/image-sets/01hm598yb6hc3s7btmqth813mg/manifest) built with [Glycerine Workbench](https://glycerine.io/). 
 
 ## Audio/visual materials viewers
 
