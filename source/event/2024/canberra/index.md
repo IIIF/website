@@ -78,8 +78,8 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         </tr>
         <tr>
             <td>11:15am - 11:30am</td>
-            <td>To be confirmed</td>
-            <td></td>
+            <td>AI4LAM Secretariat</td>
+            <td>Mike Trizna, Smithsonian</td>
         </tr>
         <tr>
             <td>11:30am - 11:45am</td>
@@ -125,10 +125,11 @@ No prior knowledge of IIIF is required and the core sessions should be easily ac
 
 <!--- [Registration][] -->
 
-This session will introduce Glycerine, a workbench for image annotation.  Annotations can combine semantic tags from domain specific vocabularies with critical analysis references. Researchers can collaborate across institutional repositories and publish the annotated images as research outputs. 
+This session will introduce [Glycerine](https://glycerine.io/), a workbench for image annotation.  Annotations can combine semantic tags from domain specific vocabularies with critical analysis references. Researchers can collaborate across institutional repositories and publish the annotated images as research outputs. 
 
 We will go through hands-on exercises to create your own collection of images, create annotations, and publish them.  In the second hour we will break out into research and implementation streams.  Researchers can discuss collection building and annotation methods; digital professionals can explore API access and integration of Glycerine workflows and viewer.
 Attendees should leave the session with all the competencies to build and publish annotated image collections and a good understanding of the possibilities for integration of Glycerine at their own institution.
 
 No prior knowledge is required, and the session should be easily accessible to those with confidence using the Web.
 
+Glycerine received investment from the Australian Research Data Commons (ARDC) as part of the HASS and Indigenous RDC CDL project. The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).
