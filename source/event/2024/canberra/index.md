@@ -125,7 +125,7 @@ No prior knowledge of IIIF is required and the core sessions should be easily ac
 
 <!--- [Registration][] -->
 
-This session will introduce Glycerine, a workbench for image annotation.  Annotations can combine semantic tags from domain specific vocabularies with critical analysis references. Researchers can collaborate across institutional repositories and publish the annotated images as research outputs. 
+This session will introduce [Glycerine](https://glycerine.io/), a workbench for image annotation.  Annotations can combine semantic tags from domain specific vocabularies with critical analysis references. Researchers can collaborate across institutional repositories and publish the annotated images as research outputs. 
 
 We will go through hands-on exercises to create your own collection of images, create annotations, and publish them.  In the second hour we will break out into research and implementation streams.  Researchers can discuss collection building and annotation methods; digital professionals can explore API access and integration of Glycerine workflows and viewer.
 Attendees should leave the session with all the competencies to build and publish annotated image collections and a good understanding of the possibilities for integration of Glycerine at their own institution.
