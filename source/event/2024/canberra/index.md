@@ -78,8 +78,8 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         </tr>
         <tr>
             <td>11:15am - 11:30am</td>
-            <td>To be confirmed</td>
-            <td></td>
+            <td>AI4LAM Secretariat</td>
+            <td>Mike Trizna, Smithsonian</td>
         </tr>
         <tr>
             <td>11:30am - 11:45am</td>
@@ -132,3 +132,4 @@ Attendees should leave the session with all the competencies to build and publis
 
 No prior knowledge is required, and the session should be easily accessible to those with confidence using the Web.
 
+Glycerine received investment from the Australian Research Data Commons (ARDC) as part of the HASS and Indigenous RDC CDL project. The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).
