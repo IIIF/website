@@ -8,7 +8,7 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
 ---
 
-The IIIF Consortium and the The National Film and Sound Archive are organizing a series of IIIF events alongside the AI4LAM [Fantastic Futures](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) conference. 
+The IIIF Consortium and the The National Film and Sound Archive (NFSA) are organizing a series of IIIF events alongside the AI4LAM [Fantastic Futures](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) conference. **The Showcase and Workshops are free with a paid registration for the Fantastic Futures Conference. You must be a registered attendee of FF24 to attend.**
 
 ## Showcase 
 
@@ -22,7 +22,7 @@ On Tuesday, October 15th, the Australian National University will host a special
 
 Come join us for a day-long free event that will educate, inspire, and reinvent your technical infrastructure. 
 
-**The event is free, but space is limited. Please register early to guarantee yourself a spot!**. 
+**The event is free for attendees of the 2024 Fantastic Futures conference, but require registration. Please register early to guarantee yourself a spot!**. 
 
 Showcase registration available via NFSA with FF24 ticket.
 

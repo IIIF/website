@@ -35,7 +35,7 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 ## Introductory presentations
 These presentations include speaker notes, and can be copied, modified, and combined as needed.
 - [Introduction to IIIF](https://docs.google.com/presentation/d/1Qg6fHn6p040crWf8bbE4v3heVQepqa9DnDP8yks3tk0/edit?usp=sharing)
-- [Introduction to the IIIF community](https://docs.google.com/presentation/d/1JGjboM1PzOggrAt3WaEPZ-j2MuO2vTlI_kKlzF8n4Yw/edit?usp=sharing)
+- [Introduction to the IIIF community](https://docs.google.com/presentation/d/1TSdrdwrk-nI1pWknZfiUkkYc4a4Ktc6pdsY8pACs4eI/edit?usp=sharing)
 
 ## Logos
 IIIF logos can be downloaded from the IIIF [Google Drive](https://drive.google.com/drive/folders/1XHSqgM1msVx7oi7Pqw30PEKTVbG4PeTK).
