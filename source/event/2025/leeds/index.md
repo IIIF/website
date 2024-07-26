@@ -29,6 +29,10 @@ This event is guided by the IIIF Code of Conduct. More information regarding tra
     * Birds of a Feather sessions, workshops, and meetings: June 5, 2024
 * Language: All event proceedings will be in English unless otherwise noted.
 
+### **Travel**
+
+Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2025/leeds/travel) for more details on pre-arranged rates.
+
 <!-- ### **Register**
 
 Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2024/). Registration will close on May 14, 2024. 
