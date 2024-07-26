@@ -14,7 +14,7 @@ breadcrumbs:
 * The nearest airport is [Manchester Airport (MAN)](https://www.manchesterairport.co.uk/)
 
 ## Travel by train
-* The nearest train station is [Leeds Station] (https://www.nationalrail.co.uk/stations/leeds/)
+* The nearest train station is [Leeds Station](https://www.nationalrail.co.uk/stations/leeds/)
 
 ## Accommodations
 
