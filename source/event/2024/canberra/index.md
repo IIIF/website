@@ -83,7 +83,7 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         </tr>
         <tr>
             <td>11:30am - 11:45am</td>
-            <td>To be confirmed</td>
+            <td>Time Sherratt, TBC API</td>
             <td></td>
         </tr>
         <tr>
