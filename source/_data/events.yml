@@ -1,23 +1,4 @@
-- label: IIIF Annual Conference 2024
-  time:
-    start: 2024-06-04T06:00:00Z
-    end: 2024-06-07T23:00:00Z
-  links:
-    - label: More info
-      link: "/event/2024/los-angeles/"
-    # - label: Travel info
-    #   link: "/event/2023/naples/travel"
-  location: 
-    label: "Los Angeles, CA, USA"
-- label: "IIIF Online Training June 2024 (5 Day course)"
-  time:
-    start: 2024-06-17T13:00:00Z
-    end: 2024-06-21T13:00:00Z
-  links:
-    - label: More info & registration
-      link: "https://www.eventbrite.com/e/june-2024-iiif-online-training-5-day-course-tickets-795359239897"
-  location:
-    label: "Online"
+
 - label: IIIF Australia Showcase & Workshops    
   time:
     start: 2024-10-15T10:00:00Z
@@ -36,3 +17,23 @@
       link: "https://www.eventbrite.com/e/november-2024-iiif-online-training-5-day-course-tickets-795361416407"
   location:
     label: "Online"
+- label: IIIF 2024 Online Meeting
+  time:
+    start: 2024-11-12T06:00:00Z
+    end: 2024-11-14T23:00:00Z
+  links:
+    - label: More info
+      link: "/event/2024/online-meeting/"
+  location: 
+    label: "Online"   
+- label: IIIF Annual Conference & Showcase 2025
+  time:
+    start: 2025-06-02T06:00:00Z
+    end: 2024-06-05T23:00:00Z
+  links:
+    - label: More info
+      link: "/event/2025/leeds/"
+    # - label: Travel info
+    #   link: "/event/2023/naples/travel"
+  location: 
+    label: "Leeds, England, UK"    
