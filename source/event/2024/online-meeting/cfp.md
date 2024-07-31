@@ -4,8 +4,6 @@ layout: event
 tags: [event ]
 ---
 
-# **Call for proposals now open: 2024 IIIF Online Meeting**
-
 The [2024 International Image Interoperability Framework (IIIF) Online Meeting](https://iiif.io/event/2024/online-meeting/) will be held **November 12-14**. This year’s meeting will follow a _Working and Learning_ theme, with a program built to provide attendees with a look into new and innovative IIIF projects, implementations, developments, and tools, as well as opportunities to learn new skills. 
 
 **Submissions are due by September 3, 2024.**
@@ -44,11 +42,10 @@ We encourage showcasing developments in IIIF and in particular would welcome pre
 
 Workshop submissions must have an abstract, a proposed outline schedule, and desired outcomes (e.g., “_at this end of this session, participants will be able to place IIIF manifests on a web map”, or “at the end of this session, participants will be able to use IIIF manifests to create guided storytelling exhibitions”). This year, seeking workshop proposals aimed at end users, researchers, and educators as well as workshops for experienced IIIF practitioners._ 
 
+### **Submissions**
 
-**Submissions**
 
-
-### Please submit proposals through Google Forms: [https://forms.gle/FoZMfFPkQRbdiPyUA](https://forms.gle/FoZMfFPkQRbdiPyUA)
+**Please submit proposals through Google Forms: [https://forms.gle/FoZMfFPkQRbdiPyUA](https://forms.gle/FoZMfFPkQRbdiPyUA)**
 
 
 ### **Questions?**
