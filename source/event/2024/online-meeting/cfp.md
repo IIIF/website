@@ -1,13 +1,7 @@
 ---
 title: "Call for Proposals: 2024 IIIF Online Meeting"
-layout: spec
-page: overview
-banner: true 
-breadcrumbs:
-  - label: All Events
-    link: '{{ site.root_url }}/event/'
-  - label: Online Meeting
-    link: '{{ site.root_url }}/event/2024/online-meeting/'
+layout: event
+tags: [event ]
 ---
 
 # **Call for proposals now open: 2024 IIIF Online Meeting**
