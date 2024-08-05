@@ -103,7 +103,7 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
     </tbody>
 </table>        
 
----
+___
 
 ## Workshops
 
