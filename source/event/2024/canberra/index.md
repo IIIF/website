@@ -85,7 +85,6 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
             <td>11:30am - 11:45am</td>
             <td>TBC API</td>
             <td>Tim Sherratt</td>
-            <td></td>
         </tr>
         <tr>
             <td>11:45am - 12:00pm</td>
@@ -104,15 +103,17 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
     </tbody>
 </table>        
 
+___
+
 ## Workshops
 
 For those that are interested in getting hands on with IIIF and learning how it works there will be two workshops available on October the 16th.
 
+**[Space is limited, please register soon.](https://www.eventbrite.com/e/iiif-australia-workshops-canberra-october-16-2024-tickets-950807329317)** 
+
 ### Hands on with IIIF
 
 9:00am - 12:00pm
-
-<!-- [Registration][] -->
 
 This session will introduce you to the IIIF Image and Presentation standards and go through some hands on exercises to show how you can create and use off the shelf tools to get started with these standards. We will discuss how to setup a IIIF system in production starting with a small collection and then how to scale up to millions of images. We will then conclude with a discussion on the wider IIIF community and where you can go for help and advice after the workshop has completed.
 
@@ -123,8 +124,6 @@ No prior knowledge of IIIF is required and the core sessions should be easily ac
 ### Glycerine users
 
 2:00pm - 4:00pm
-
-<!--- [Registration][] -->
 
 This session will introduce [Glycerine](https://glycerine.io/), a workbench for image annotation.  Annotations can combine semantic tags from domain specific vocabularies with critical analysis references. Researchers can collaborate across institutional repositories and publish the annotated images as research outputs. 
 
