@@ -84,7 +84,7 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         <tr>
             <td>11:30am - 11:45am</td>
             <td>TBC API</td>
-            <td>Tim Sherratt</td>x
+            <td>Tim Sherratt</td>
         </tr>
         <tr>
             <td>11:45am - 12:00pm</td>
