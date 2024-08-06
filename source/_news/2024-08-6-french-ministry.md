@@ -8,7 +8,6 @@ excerpt: >
   The International Image Interoperability Framework Consortium is delighted to announce the French Ministry of Culture is a new member. 
 
 ---
-**IIIF Consortium Welcomes the French Ministry of Culture as a New Member**
 
 The International Image Interoperability Framework Consortium is delighted to announce the French Ministry of Culture has joined the Consortium as a full member. 
 
