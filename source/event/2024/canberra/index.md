@@ -10,6 +10,13 @@ breadcrumbs:
 
 The IIIF Consortium and the The National Film and Sound Archive (NFSA) are organizing a series of IIIF events alongside the AI4LAM [Fantastic Futures](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) conference. **The Showcase and Workshops are free with a paid registration for the Fantastic Futures Conference. You must be a registered attendee of FF24 to attend.**
 
+You can register for the conference at [Fantastic Futures Conference - NFSA - 15th to 18th October](https://tickets.nfsa.gov.au/Events/Fantastic-Futures-Canberra-2024-Conference?_gl=1*1lefw7r*_gcl_au*MjkwMjE5ODE3LjE3MjA5OTM5MTU.*_ga*NDMyNjQ1OTY1LjE3MTc5MDU1MTI.*_ga_LBG4DS35XV*MTcyNDEyOTgyMy4yMi4xLjE3MjQxMjk5NjQuNDQuMC4w*_ga_HGP8KM4FNT*MTcyNDEyOTgyMy4yMi4xLjE3MjQxMjk5NjQuNDQuMC4w)
+
+You can register for the showcase at [IIIF Showcase - Fantastic Futures - October 15th](https://tickets.nfsa.gov.au/Events/IIIF-Workshop-Fantastic-Futures-Canberra-2024?_gl=1*1u2d4gr*_gcl_au*MTQ5NjAyMTc2MC4xNzIwNjgzOTc0*_ga*MTkxNzAzNjEwMS4xNzEwMzA4NjUy*_ga_LBG4DS35XV*MTcyMzc4NDMwNC43MC4xLjE3MjM3ODQ0MTEuNTkuMC4w*_ga_HGP8KM4FNT*MTcyMzc4NDMwNC44Ny4xLjE3MjM3ODQ0MTEuNTkuMC4w)
+
+You can register for the ‘Hands on IIIF’ and the ‘Glycerine’ workshops at [IIIF Workshops - IIIF Consortium - October 16](https://www.eventbrite.com/e/iiif-australia-workshops-canberra-october-16-2024-tickets-950807329317)
+
+
 ## Showcase 
 
 On Tuesday, October 15th, the Australian National University will host a special IIIF Showcase to introduce newcomers to IIIF.
