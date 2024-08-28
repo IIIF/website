@@ -6,7 +6,7 @@ tags: [event ]
 
 The [2024 International Image Interoperability Framework (IIIF) Online Meeting](https://iiif.io/event/2024/online-meeting/) will be held **November 12-14**. This year’s meeting will follow a _Working and Learning_ theme, with a program built to provide attendees with a look into new and innovative IIIF projects, implementations, developments, and tools, as well as opportunities to learn new skills. 
 
-**Submissions are due by September 3, 2024.**
+**Submissions are due by September 15, 2024.**
 
 
 ### **Format**
