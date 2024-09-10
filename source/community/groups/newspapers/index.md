@@ -10,7 +10,7 @@ breadcrumbs:
    link: /community/groups/
 ---
 
-**This Community Group is closed**
+**Note: This Community Group is closed**
 
 ## About
 
