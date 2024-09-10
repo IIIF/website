@@ -10,6 +10,8 @@ breadcrumbs:
    link: /community/groups/
 ---
 
+**This Community Group is closed**
+
 ## About
 
 The Manuscripts Group formed following an [IIIF meeting in Ghent][ghent], Belgium in December 2015. Attendees at the Ghent meeting agreed that there needed to be a separate interest group focused on the experience of users working with images of hand-written materials in particular.

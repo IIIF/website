@@ -11,7 +11,8 @@ breadcrumbs:
 redirect_from:
   /community/groups/D4H/
 ---
-
+ 
+**This Community Group is closed**
 
 # About
 
