@@ -65,7 +65,7 @@ __Previous IIIF-Hosted Events__
 [vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
 [hague]: {{ site.root_url | absolute_url }}/event/2016/thehague/
 [losangeles2024]:{{ site.root_url | absolute_url }}/event/2024/los-angeles/
-[naples]: {{ site.root_url | absolute_url }}/event/2023/naples/
+[naples2023]: {{ site.root_url | absolute_url }}/event/2023/naples/
 [nyc]: {{ site.root_url | absolute_url }}/event/2016/newyork/
 [online2022]: {{ site.root_url | absolute_url }}/event/2022/online-meeting/
 [online2023]: {{ site.root_url | absolute_url }}/event/2023/online-meeting/
