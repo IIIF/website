@@ -4,11 +4,10 @@ layout: page
 breadcrumbs:
  - label: "Get Involved"
    link: /get-involved/
- - label: "Community"
-   link: /community/
  - label: "Groups"
    link: /community/groups/
 ---
+**Note: This Community Group is closed**
 
 ## About
 

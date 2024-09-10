@@ -46,6 +46,10 @@ Technical Specification Groups are specifically chartered to update existing spe
 * Text Granularity TSG -- This group completed its work in 2019 with the publication of the [Text Granularity Extension]({{ site.api_url | absolute_url }}/extension/text-granularity/).
 * A/V TSG -- with the publication of the [Presentation API 3.0]({{ site.api_url | absolute_url }}/presentation/3.0/) in June 2020, this TSG completed its work and evolved in the A/V community group listed above. 
 * Software Developers Community Group
+* [Archives Community Group][archives]
+* [Design Community Group][design]
+* [Manuscripts Community Group][manuscripts]
+* [Newspapers Community Group][newspapers]
 
 <h2><a name="calendar"></a>Community call calendar</h2>
 
@@ -58,4 +62,8 @@ To load this calendar into external applications like Outlook or Mac Calendar pl
 [content-search-tsg]: {{ site.root_url | absolute_url }}/community/groups/content-search-tsg "IIIF Content Search Technical Specification Group"
 [discovery]: {{ site.root_url | absolute_url }}/community/groups/discovery
 [maps-tsg]: {{ site.root_url | absolute_url }}/community/groups/maps-tsg
+[archives]: {{ site.root_url | absolute_url }}/community/groups/archives
+[design]: {{ site.root_url | absolute_url }}/community/groups/design
+[manuscripts]: {{ site.root_url | absolute_url }}/community/groups/manuscripts
+[newspapers]: {{ site.root_url | absolute_url }}/community/groups/newspapers
 
