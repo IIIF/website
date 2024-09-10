@@ -19,6 +19,10 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Previous IIIF-Hosted Events__
 
+* 2024 IIIF Annual Conference: [June 4-7, 2024, Los Angeles, CA][losangeles2024]
+* 2023 IIIF Online Meeting - Working and Learning: [December 5-7, 2023, Online][online2023]
+* 2023 IIIF Annual Conference: [June 5-8, 2023, Naples, Italy][naples2023]
+* 2022 IIIF Online Meeting: [December 6-8, 2022, Online][online2022]
 * 2022 IIIF Annual Conference: [June 6-8, 2022, Cambridge, MA][cambridge2022]
 * 2021 Fall Working Meeting: [November 16-18, Online][fall2021]
 * 2021 IIIF Annual Conference: [June 22-24, Online][annual_conference]
@@ -60,7 +64,11 @@ __Previous IIIF-Hosted Events__
 [edinburgh]: {{ site.root_url | absolute_url }}/event/2017/edinburgh
 [vatican]: {{ site.root_url | absolute_url }}/event/2017/vatican
 [hague]: {{ site.root_url | absolute_url }}/event/2016/thehague/
+[losangeles2024]:{{ site.root_url | absolute_url }}/event/2024/los-angeles/
+[naples2023]: {{ site.root_url | absolute_url }}/event/2023/naples/
 [nyc]: {{ site.root_url | absolute_url }}/event/2016/newyork/
+[online2022]: {{ site.root_url | absolute_url }}/event/2022/online-meeting/
+[online2023]: {{ site.root_url | absolute_url }}/event/2023/online-meeting/
 [ghent]: {{ site.root_url | absolute_url }}/event/2015/ghent/
 [dc]: {{ site.root_url | absolute_url }}/event/2015/washington/
 [london]: {{ site.root_url | absolute_url }}/event/2014/london/
