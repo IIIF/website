@@ -17,16 +17,7 @@
   link: /community/groups/3d/tsg #link to charter
   type: tsg #TSG or community
   notes: https://drive.google.com/drive/u/0/folders/1KZ0qU65MSomk2YIh-VF8DDn5rwkDUY9a #link to Google Drive folder
-  meeting_frequency: Every other Wednesday, complementing the 3D Community Group calls #One-liner, e.g. Quarterly calls on Wednesdays
-- id: archives 
-  label: Archives 
-  alternate_names: 
-    - IIIF Archives Interest Group
-  description: The IIIF Archives group helps set best practices for IIIF and archival content.
-  link: /community/groups/archives 
-  type: community 
-  notes: https://drive.google.com/drive/folders/1-HM9O26iBzMcCpC1zELcOlrsaC3ty4En 
-  meeting_frequency: On hiatus currently  
+  meeting_frequency: Every other Wednesday, complementing the 3D Community Group calls #One-liner, e.g. Quarterly calls on Wednesdays 
 - id: aiml
   label: Artificial Intelligence and Machine Learning
   alternate_names: 
@@ -60,21 +51,6 @@
     - Nuno Freire (Europeana)
   notes: https://docs.google.com/document/d/13_LvtOPkI5O1mjWgYLqjz9GS4cmdjdQjyu8WfGbL9vE/edit?usp=sharing
   meeting_frequency: Once a month on Tuesdays
-- id: design 
-  label: Design
-  alternate_names: 
-    - D4H 
-    - d4h
-    - Discovery for Humans
-    - discovery for humans
-    - IIIF Design
-    - IIIF Design Community Group
-    - Design
-  description: This group aims to foster user-focused approaches enabling the targeted discovery of IIIF resources.
-  link: /community/groups/design
-  type: community 
-  notes: https://drive.google.com/drive/u/0/folders/1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7 
-  meeting_frequency: Monthly on the last Wednesday
 - id: education
   label: Education
   alternate_names: 
@@ -87,13 +63,6 @@
   type: community 
   notes: https://drive.google.com/drive/folders/1wrAIIi9EZmfZ2FumKY4q2r8tuCMMlBZ_
   meeting_frequency: Monthly on the first Tuesday
-- id: manuscripts 
-  label: Manuscripts 
-  description: A group focused on working with images of hand-written materials in particular. 
-  link: /community/groups/manuscripts 
-  type: community 
-  notes: https://drive.google.com/drive/u/0/folders/0B1IxI8f59JQkRHpqQUE3S04tSlU?resourcekey=0-UCq-FICM6sNFoVLd-SrdDA 
-  meeting_frequency: On hiatus currently 
 - id: maps 
   label: Maps 
   alternate_names: 
@@ -112,13 +81,6 @@
   type: community 
   notes: https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?resourcekey=0-fsM1GLwObMrueeXyuw9kVg 
   meeting_frequency: Monthly on the third Monday
-- id: newspapers 
-  label: Newspapers 
-  description: The Newspapers group welcomes all interested in implementing IIIF digital newspaper repositories.
-  link: /community/groups/newspapers 
-  type: community 
-  notes: https://drive.google.com/drive/u/0/folders/0BxETo9Nbsh6wODZYZGVZLXFPR00?resourcekey=0-2CxzauVi2Zb9fTYTZ9_n-A 
-  meeting_frequency: On hiatus currently 
 - id: outreach 
   label: Outreach 
   alternate_names: 
