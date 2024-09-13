@@ -15,6 +15,10 @@ redirect_from:
 General questions? Email us at [staff@iiif.io](mailto:staff@iiif.io)
 
 --- 
+## Martin R. Kalfatovic, Managing Director
+
+Martin joined the IIIF-C in July as Managing Director. As Managing Director of the IIIF-C, his remit is to expand use of the IIIF standard and APIs, grow participation in the IIIF Consortium, and enhance the global user experience of digital objects across all formats, including images, audio-visual, and 3D. He came to IIIF-C after 20+ years of senior leadership at Smithsonian Libraries and Archives (SLA), including 12 years as Program Director of the Biodiversity Heritage Library (BHL) where he led a global consortium of natural history, botanical, and research libraries in the digitization and access to 600 years of scientific research about life on our planet.  [Contact Caitlin via email](mailto:martin.kalfatovic@iiif.io). Martin is based in the Washington, DC area and has an inordinate fondness for dodos.
+
 
 ## Caitlin Perry, Communications and Community Coordinator
 
