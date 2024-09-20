@@ -3,6 +3,9 @@ title: "IIIF Annual Conference and Showcase - Leeds, England, UK - June 2-5, 202
 layout: spec
 page: overview
 banner: true 
+collection: events
+location:
+   label: "Leeds, UK"
 breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'

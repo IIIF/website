@@ -2,8 +2,9 @@
 title: "2019 IIIF Working meeting - Ann Arbor, Michigan, USA"
 layout: event
 tags: [event ]
+collection: events
 location:
-  - label: "Ann Arbor, Michigan"
+    label: "Ann Arbor, Michigan"
 datetime: "November 4, 2019"
 ---
 
