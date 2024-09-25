@@ -11,8 +11,7 @@ hero:
   subtitle: Join us to learn the latest about IIIF and help shape the future of the community.
 ---
 
-<!--  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<script src="{{ site.root_url | absolute_url }}/js/vendor/add-to-calendar.min.js"></script> 
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script src="{{ site.root_url | absolute_url }}/js/vendor/moment-with-locales.min.js"></script>
 <script src="{{ site.root_url | absolute_url }}/js/vendor/moment-timezone-with-data.js"></script>
 
@@ -35,8 +34,8 @@ function loadEvents() {
         // Events: list API docs: https://developers.google.com/calendar/v3/reference/events/list
         return gapi.client.calendar.events.list({
             'calendarId': '1hnm5h86n94ore0vnoo188ter8@group.calendar.google.com',
-            'timeMin': '2023-12-05T01:00:00-00:00',
-            'timeMax': '2023-12-07T23:00:00-00:00',
+            'timeMin': '2024-11-11T01:00:00-00:00',
+            'timeMax': '2024-11-15T23:00:00-00:00',
             'showDeleted': false,
             'singleEvents': true,
             'timeZone': timezone.name(), // This doesn't convert the timezone
@@ -58,7 +57,7 @@ function loadEvents() {
                     days[day].push(response.result.items[i]);
                 }    
             }   
-            var dayString = ['Monday, December 04', 'Tuesday, December 05', 'Wednesday, December 06', 'Thursday, December 07', 'Friday, December 08', 'Saturday, December 09'];
+            var dayString = ['Monday, November 11', 'Tuesday, November 12', 'Wednesday, November 13', 'Thursday, November 14', 'Friday, November 15', 'Saturday, November 16'];
             var content = '';
             for (var i = 1; i < (dayString.length + 1); i++) {
                 if (days[i].length > 0) {
@@ -85,7 +84,7 @@ function loadEvents() {
 
             var div = document.getElementById('schedule');
             div.innerHTML = content;
-            anchors.add("#schedule h2, #schedule h3");
+            // anchors.add("#schedule h2, #schedule h3");
         }
     }, function (reason) {
         console.log('Error: ' + reason.result.error.message);
@@ -97,7 +96,7 @@ function loadClient() {
 
 </script>
 
-<script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" ></script>. -->
+<script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" ></script>
 
 
 **The 2024 Online Meeting will take place November 12-14 and is free to attend.**
@@ -128,7 +127,7 @@ Registration is free! [Please register on Eventbrite](https://www.eventbrite.com
 
 <!-- <div class="columns is-centered">{% include misc/button.html button_label="Register" button_link="https://stanford.zoom.us/meeting/register/tJcvceuuqTItG90yow4P0cusIHCBDp27UYiS" %}</div> -->
 
-<!-- ### Full Event Calendar
+### Full Event Calendar
 
 The times on this calendar should adjust to your current time zone.
 {:.no_toc}
@@ -138,7 +137,7 @@ The times on this calendar should adjust to your current time zone.
 <script>
   var timezone = jstz.determine();
   console.log('Name is ' + timezone.name());
-  var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20231205/20231208&amp;title=IIIF%20Online%20Meeting&amp;ctz=';
+  var pref = '<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MWhubTVoODZuOTRvcmUwdm5vbzE4OHRlcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;mode=WEEK&amp;tab=mc&amp;mode=week&dates=20241111/20241115&amp;title=IIIF%20Online%20Meeting&amp;ctz=';
   var suff = '" style="border:solid 1px #777; width: 100%; height: 600px;"></iframe>';
   //var pref = '<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=somecalendaridentifier%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=';
   //var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
@@ -147,9 +146,7 @@ The times on this calendar should adjust to your current time zone.
 </script>
 <br>
 
-<div id="schedule"></div> -->
-
-
+<div id="schedule"></div> 
 
 Questions? Email us at <events@iiif.io>.
 
