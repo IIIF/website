@@ -118,9 +118,9 @@ This event is guided by the [IIIF Code of Conduct][conduct].
 <!-- ## Call for Proposals
 
 Submission are due **September 15.** Read the full call for proposals, including information about themes, proposal instructions, and other important details on the [Call for Proposals page.](https://iiif.io/event/2024/online-meeting/cfp/-->
-)
 
- ## Registration
+
+## Registration
 Registration is free! [Please register on Eventbrite](https://www.eventbrite.com/e/2024-iiif-online-meeting-working-learning-tickets-1028127195117). Please note, some workshop sessions run _concurrently_. Please only register for one workshop per day.
 
 
