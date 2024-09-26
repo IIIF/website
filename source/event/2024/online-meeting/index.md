@@ -84,7 +84,7 @@ function loadEvents() {
 
             var div = document.getElementById('schedule');
             div.innerHTML = content;
-            // anchors.add("#schedule h2, #schedule h3");
+             anchors.add("#schedule h2, #schedule h3");
         }
     }, function (reason) {
         console.log('Error: ' + reason.result.error.message);
@@ -115,13 +115,13 @@ This event is guided by the [IIIF Code of Conduct][conduct].
 * All sessions will be in English unless otherwise noted.
 * The Call for Proposal and a link to register are forthcoming
 
-## Call for Proposals
+<!-- ## Call for Proposals
 
-Submission are due **September 15.** Read the full call for proposals, including information about themes, proposal instructions, and other important details on the [Call for Proposals page.](https://iiif.io/event/2024/online-meeting/cfp/
-)
+Submission are due **September 15.** Read the full call for proposals, including information about themes, proposal instructions, and other important details on the [Call for Proposals page.](https://iiif.io/event/2024/online-meeting/cfp/-->
 
-<!-- ## Registration
-Registration is free! [Please register on Eventbrite](https://www.eventbrite.com/e/2023-iiif-online-meeting-tickets-691071051117). Please note, workshop sessions on December 6 and December 7 run _concurrently_. Please only register for one workshop per day. -->
+
+## Registration
+Registration is free! [Please register on Eventbrite](https://www.eventbrite.com/e/2024-iiif-online-meeting-working-learning-tickets-1028127195117). Please note, some workshop sessions run _concurrently_. Please only register for one workshop per day.
 
 
 
