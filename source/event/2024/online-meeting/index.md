@@ -84,7 +84,7 @@ function loadEvents() {
 
             var div = document.getElementById('schedule');
             div.innerHTML = content;
-            // anchors.add("#schedule h2, #schedule h3");
+             anchors.add("#schedule h2, #schedule h3");
         }
     }, function (reason) {
         console.log('Error: ' + reason.result.error.message);
