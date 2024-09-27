@@ -90,8 +90,8 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         </tr>
         <tr>
             <td>11:30am - 11:45am</td>
-            <td>TBC API</td>
-            <td>Tim Sherratt</td>
+            <td>Implementing IIIF with Audio and Visual resources</td>
+            <td>Jon Dunn, Indiana University</td>
         </tr>
         <tr>
             <td>11:45am - 12:00pm</td>
