@@ -71,8 +71,8 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         </tr>
         <tr>
             <td>10:10am - 10:25am</td>
-            <td>To be confirmed</td>
-            <td></td>
+            <td>Improving access to the CAP Collection</td>
+            <td>Rose Faunce, YiYu Liu and Michael Warren, Australian National University</td>
         </tr>
         <tr>
             <td>10:30am - 11:00am</td>
@@ -81,7 +81,7 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         <tr>
             <td>11:00am - 11:15am</td>
             <td>PROV API</td>
-            <td>Asa Letourneau & Conal Tuohy</td>
+            <td>Asa Letourneau & Conal Tuohy, Public Record Office Victoria</td>
         </tr>
         <tr>
             <td>11:15am - 11:30am</td>
