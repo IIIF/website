@@ -71,7 +71,7 @@ Location: McDonald Room, [Menzies Library](https://www.google.com/maps/place/Men
         </tr>
         <tr>
             <td>10:10am - 10:25am</td>
-            <td>Improving access to the CAP Collection</td>
+            <td>Developing an online catalogue for the ANU College of Asia and the Pacific Collection</td>
             <td>Rose Faunce, YiYu Liu and Michael Warren, Australian National University</td>
         </tr>
         <tr>
