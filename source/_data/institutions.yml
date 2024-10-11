@@ -25,9 +25,9 @@
 - name: Biblissima
   uri: http://www.biblissima-condorcet.fr/
   iiifc:
-- name: Blavatnik Foundation Archive
-  uri: https://www.blavatnikarchive.org/
-  iiifc: 4
+#- name: Blavatnik Foundation Archive
+#  uri: https://www.blavatnikarchive.org/
+# iiifc: 4
 - name: Boston Public Library
   uri: https://digitalcommonwealth.org
   iiifc:
@@ -115,6 +115,10 @@
   uri: https://www.europeana.eu
   iiifc: 2
   logo: assets/uploads/logos/logo_Europeana_basic_portrait_black.png
+- name: French Ministry of Culture
+  uri: https://www.culture.gouv.fr/
+  iiifc: 3
+  logo: assets/uploads/logos/FMC.png
 - name: Folger Shakespeare Library
   uri: http://www.folger.edu/
   iiifc: 2
@@ -221,7 +225,11 @@
 - name: Moravian Library (Moravská zemská knihovna)
   uri: https://www.mzk.cz/
   iiifc:
-  name: National Film and Sound Archive of Australia
+- name: The National Archives (UK)
+  uri: https://www.nationalarchives.gov.uk/
+  iiifc: 4
+  logo: assets/uploads/logos/NationalArchivesUK.svg
+- name: National Film and Sound Archive of Australia
   uri: https://www.nfsa.gov.au/
   iiifc: 4
   logo: assets/uploads/logos/NFSA.jpg
@@ -421,10 +429,10 @@
 - name: University of Pennsylvania
   uri: http://www.upenn.edu/
   iiifc: 4
-- name: University of Tennessee, Knoxville
-  uri: https://www.lib.utk.edu/
-  iiifc: 3
-  logo: assets/uploads/logos/UTK.png
+#- name: University of Tennessee, Knoxville
+#  uri: https://www.lib.utk.edu/
+#  iiifc: 3
+#  logo: assets/uploads/logos/UTK.png
 - name: University of Tokyo
   uri: http://21dzk.l.u-tokyo.ac.jp/DHI/index.php
   iiifc: 
