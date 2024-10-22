@@ -20,9 +20,11 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 ### Designed PDFs
 - [IIIF for CIOs and Engineers](https://drive.google.com/file/d/1hpzfTnk-uIQeBThvs4xMK9jJtggC3-Si/view?usp=drive_link)
 - [IIIF for Museums](https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link)
+- [IIIF für Museen - German](https://drive.google.com/file/d/1EulwEtUK5R_MA8YXem3dmEWSuJj2K0CY/view?usp=sharing)
 - [IIIF para Museus - Brazilian Portuguese](https://drive.google.com/file/d/1zoAITW_Yp779dlzzLHLvK8O39TEZFb8m/view?usp=drive_link)
 - [IIIF for Archives](https://drive.google.com/file/d/1kw_M1XQ80h3QzWbIo8QYkL2Jt8YgZgEy/view?usp=drive_link)
 - [IIIF pour les Archives - French](https://drive.google.com/file/d/1aj0-eCr1EWLUyt59l0z_pZ6-hITbEFWw/view?usp=drive_link)
+- [IIIF für Archive - German](https://drive.google.com/file/d/1Ur7n8f1O4AiONFmirUWE4pG_k6rffRRh/view?usp=sharing)
 
 
 
@@ -31,7 +33,6 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 ### Google Docs
 - [IIIF for deans and other leaders](https://docs.google.com/document/d/1G62fUv1V6iUhskMDNgZlcyXVoIk4O9_FIOrL4kjlxXM/edit?usp=sharing)
 - [IIIF for researchers](https://docs.google.com/document/d/1GWfh0F6HlzJtII9JxyED2CQ4eH9qwtGdO9yhMHxqvjs/edit?usp=sharing)
-
 
 
 ## Introductory presentations
