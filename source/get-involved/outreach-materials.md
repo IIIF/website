@@ -24,7 +24,7 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 - [IIIF para Museus - Brazilian Portuguese](https://drive.google.com/file/d/1zoAITW_Yp779dlzzLHLvK8O39TEZFb8m/view?usp=drive_link)
 - [IIIF for Archives](https://drive.google.com/file/d/1kw_M1XQ80h3QzWbIo8QYkL2Jt8YgZgEy/view?usp=drive_link)
 - [IIIF pour les Archives - French](https://drive.google.com/file/d/1aj0-eCr1EWLUyt59l0z_pZ6-hITbEFWw/view?usp=drive_link)
-- [IIIF für Archive - German](https://drive.google.com/file/d/1Ur7n8f1O4AiONFmirUWE4pG_k6rffRRh/view?usp=sharing)
+- [IIIF für Archive - German](https://drive.google.com/file/d/16B9YOcErTWo-DQUtlhsBsgHpISw3IK15/view?usp=drive_link)
 
 
 
