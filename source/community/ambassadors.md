@@ -14,6 +14,14 @@ The ambassador program deputizes community members to champion IIIF adoption in 
 
 
 ## Current ambassadors:
+
+**Mathilde Daugas, IIIF project manager and data quality expert, FranceArchives – Service interministériel des archives de France (SIAF)**<br/>
+Mathilde holds a master’s degree in research in archaeology on Cambodia from Sorbonne-Université and the master’s degree “Technologies numériques appliquées à l’histoire” from Ecole nationale des Chartes.
+
+She is a IIIF project manager for FranceArchives, the national aggregator for French archives. Since the integration of IIIF into FranceArchives in 2022, she has been working to improve the project and to offer more relevant options to users and archivists thanks to IIIF.
+
+In addition, Mathilde works closely with Biblissima+ on the dissemination of IIIF within French Archives network. This mission includes organizing training, giving presentations, writing documentation, leading working groups, supporting and interacting with archival institutions and software providers. She is also a member of the IIIF working group of the French Ministry of Culture which has become a member of the Consortium in 2024. She is the French ambassador for archives.
+
 **Evelien Hauwaerts,Curator Medieval Manuscripts, Openbare Bibliotheek Brugge**<br/>
 Evelien serves as the curator of manuscripts at the Public Library of Bruges and is a steering member of the IIIF Network Group Flanders & Netherlands. She co-curated the Mmmonk.be project in 2022, which delved into IIIF-driven metadata aggregation and complex IIIF annotations. Drawing from her experience as both a collection manager and researcher, Evelien aims to bridge the gap between IIIF end-users and developers. She developed and hosts a workshop to introduce IIIF to end-users, gathering valuable feedback that is then relayed to developers for enhancing user experience and interface design. Evelien has a Ph.D. in Medieval languages and literature (Université de Poitiers), a master’s degree in Romance languages (KU Leuven), and two research master’s degrees in Medieval History (KU Leuven and Université de Poitiers).
 
