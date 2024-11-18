@@ -76,4 +76,3 @@ If you have any questions please contact us at [events@iiif.io](mailto:events@ii
 * Glen Robson, IIIF-C
 * Sandra Santos, Courtauld Institute of Art
 
-
