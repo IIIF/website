@@ -59,21 +59,21 @@ If you have any questions please contact us at [events@iiif.io](mailto:events@ii
 
 ### **2025 Program Committee**
 
-Karen Abel, University of Leeds
-Sudha Anand, Indiana University
-Erin Burnand, British Library
-Andrew Corrigan, Cambridge University
-Nuno Freire, Europeana
-Allison Harvey, Cardiff University
-Martin Kalfatovic, IIIF-C
-Trip Kirkpatrick, Yale University
-Claire Knowles, University of Leeds
-Brittny Lapierre, CRKN
-Maia Hutton Mackay, University of Leeds
-Caitlin Perry, IIIF-C
-Julien Raemy, Swiss Federal Archives
-Mia Ridge, British Library
-Glen Robson, IIIF-C
+Karen Abel, University of Leeds </br>
+Sudha Anand, Indiana University</br>
+Erin Burnand, British Library</br>
+Andrew Corrigan, Cambridge University</br>
+Nuno Freire, Europeana</br>
+Allison Harvey, Cardiff University</br>
+Martin Kalfatovic, IIIF-C</br>
+Trip Kirkpatrick, Yale University</br>
+Claire Knowles, University of Leeds</br>
+Brittny Lapierre, CRKN</br>
+Maia Hutton Mackay, University of Leeds</br>
+Caitlin Perry, IIIF-C</br>
+Julien Raemy, Swiss Federal Archives</br>
+Mia Ridge, British Library</br>
+Glen Robson, IIIF-C</br>
 Sandra Santos, Courtauld Institute of Art
 
 
