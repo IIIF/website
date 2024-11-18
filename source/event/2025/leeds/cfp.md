@@ -1,7 +1,13 @@
 ---
 title: "Call for Proposals: 2025 IIIF Online Meeting"
-layout: event
-tags: [event ]
+layout: spec
+page: overview
+banner: true 
+breadcrumbs:
+  - label: All Events
+    link: '{{ site.root_url }}/event/'
+  - label: Leeds 2025
+    link: '{{ site.root_url }}/event/2025/leeds/'
 ---
 
 The 2025 International Image Interoperability Framework (IIIF) Annual Conference will be held in-person in Leeds, United Kingdom, June 2–5, 2025. The conference will be hosted by the University of Leeds and the IIIF Consortium.
@@ -36,7 +42,7 @@ We are committed to building a diverse and inclusive community and strongly enco
 
 All submitted proposals are peer-reviewed and will be considered for inclusion in the conference schedule by a volunteer program committee.** To ensure that the Conference features a wide range of speakers and presentations, individuals may submit multiple proposals and/or be a listed author on multiple proposals, but may present only once during the conference. **
 
-Please submit a proposal of 300–500 words for your presentation before 23:59[ UTC-12](https://time.is/Anywhere_on_Earth) (Anywhere on Earth) on **January 21 2025. **In your proposal, please be sure to discuss why this work is important, what new perspectives and knowledge this work offers, and how the work is relevant to the IIIF community. The IIIF Annual Conference proposal process has become more competitive in recent years, so be sure to describe your project, method, or approach with sufficient details for readers to understand and evaluate your submission. Submissions should be accompanied by an abstract of no more than 200 words. Abstracts for successful proposals will be shared on the conference program website.**
+Please submit a proposal of 300–500 words for your presentation before 23:59[ UTC-12](https://time.is/Anywhere_on_Earth) (Anywhere on Earth) on **January 21 2025.** In your proposal, please be sure to discuss why this work is important, what new perspectives and knowledge this work offers, and how the work is relevant to the IIIF community. The IIIF Annual Conference proposal process has become more competitive in recent years, so be sure to describe your project, method, or approach with sufficient details for readers to understand and evaluate your submission. Submissions should be accompanied by an abstract of no more than 200 words. Abstracts for successful proposals will be shared on the conference program website.
 
 **The IIIF Annual Conference will follow the guidance on generative AI outlined by [the IDCC](https://www.dcc.ac.uk/events/idcc). [Please review this document before completing your submission](https://dcc.ac.uk/sites/default/files/documents/Guidance%20on%20use%20of%20generative%20AI%20tools.pdf).**
 
