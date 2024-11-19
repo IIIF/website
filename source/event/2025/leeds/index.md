@@ -38,7 +38,7 @@ Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/
 
 ### **Call for Proposals**
 
-The Call for Proposals is open until January 21, 2025. Please read more about format, themes, and submission guidance on the [Call for Proposals page]({{ site.root_url | absolute_url }}/event/2025/leeds/cfp) 
+The Call for Proposals is open until January 21, 2025. Please read more about format, themes, and submission guidance on the [Call for Proposals page]({{ site.root_url | absolute_url }}/event/2025/leeds/cfp). 
 
 <!-- ### **Register**
 
