@@ -36,6 +36,10 @@ This event is guided by the IIIF Code of Conduct. More information regarding tra
 
 Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2025/leeds/travel) for more details on pre-arranged rates.
 
+### **Call for Proposals**
+
+The Call for Proposals is open until January 21, 2025. Please read more about format, themes, and submission guidance on the [Call for Proposals page]({{ site.root_url | absolute_url }}/event/2025/leeds/cfp) 
+
 <!-- ### **Register**
 
 Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2024/). Registration will close on May 14, 2024. 
