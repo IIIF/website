@@ -82,7 +82,6 @@ This sub-group of the Executive Committee meets monthly and watches that strateg
 Current members:
 
 - Tom Cramer, Stanford University Libraries
-- Regine Stein, Göttingen State and University Library (SUB Göttingen)
 - Neil Fitzgerald, The British Library
 - Simeon Warner, Cornell University
 - Rashmi Singhal, Harvard University
