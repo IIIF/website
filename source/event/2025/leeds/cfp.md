@@ -1,5 +1,5 @@
 ---
-title: "Call for Proposals: 2025 IIIF Online Meeting"
+title: "Call for Proposals: 2025 IIIF Annual Conference"
 layout: spec
 page: overview
 banner: true 
@@ -71,7 +71,7 @@ If you have any questions please contact us at [events@iiif.io](mailto:events@ii
 * Brittny Lapierre, CRKN
 * Maia Hutton Mackay, University of Leeds
 * Caitlin Perry, IIIF-C
-* Julien Raemy, Swiss Federal Archives
+* Julien A. Raemy, Swiss Federal Archives
 * Mia Ridge, British Library
 * Glen Robson, IIIF-C
 * Sandra Santos, Courtauld Institute of Art
