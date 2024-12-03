@@ -11,7 +11,7 @@ excerpt: >
 
 The International Image Interoperability Framework Consortium is pleased to announce [The National Archives (UK)](https://www.nationalarchives.gov.uk/) has joined as an Associate member.
 
-The National Archives has undertaken a number of IIIF-powered initiatives–extending access and reusability of digitized and born-digital objects in the Archives’s collection, as well as enriching the ecosystem of IIIF tools. Foremost amongst the Archives’s developments is [Miiify](https://github.com/nationalarchives/miiify), a light-weight web annotation server using an embedded database to support [IIIF](https://iiif.io/) applications.
+The National Archives has undertaken a number of IIIF-powered initiatives–extending access and reusability of digitized and born-digital objects in the Archives’ collection, as well as enriching the ecosystem of IIIF tools. Foremost amongst the Archives’s developments is [Miiify](https://github.com/nationalarchives/miiify), a light-weight web annotation server using an embedded database to support [IIIF](https://iiif.io/) applications.
 
 Martin Kalfatovic, IIIF-C Managing Director noted, "The National Archives (TNA) is an important addition to the IIIF-C. On my visit to the TNA in August of this year, the enthusiasm of the staff to participate in the IIIF-C was clear. The TNA will bring experienced IIIF implementers to the IIIF-C and we look forward to ongoing collaborations."
 
