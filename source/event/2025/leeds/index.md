@@ -40,6 +40,11 @@ Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/
 
 The Call for Proposals is open until January 21, 2025. Please read more about format, themes, and submission guidance on the [Call for Proposals page]({{ site.root_url | absolute_url }}/event/2025/leeds/cfp). 
 
+### **Sponsors**
+
+We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2025/leeds/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
+
+
 <!-- ### **Register**
 
 Please register for Conference and/or the Showcase using Conftool. Payment must be submitted following your registration via Paypal using a credit card number, or via check. You can register [here](https://www.conftool.org/iiif2024/). Registration will close on May 14, 2024. 
@@ -61,9 +66,6 @@ The conference will run between the Tuesday the 4th of June to Thursday the 6th 
 
 Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
 
-### **Sponsors**
-
-We are offering sponsorship for the 2024 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
 The IIIF Annual Conference is generously supported by the following Conference Sponsors:
 
