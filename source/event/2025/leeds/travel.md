@@ -10,7 +10,7 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/2025/leeds/'
 ---
 
-**Electronic Travel Authorization (ETA)**
+## Electronic Travel Authorization (ETA)
 
 Most attendees visiting Leeds from outside the United Kingdom and Ireland will need an Electronic Travel Authorization. **This is a *new*requirement for 2025.**
 
