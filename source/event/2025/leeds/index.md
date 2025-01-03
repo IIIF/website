@@ -44,6 +44,30 @@ The Call for Proposals is open until January 21, 2025. Please read more about fo
 
 We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2025/leeds/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
+### Locations
+
+**Showcase - June 2**
+Cloth Hall Court <br>
+Quebec St, Leeds LS1 2HA, United Kingdom
+
+**Conference - June 3 & 4**
+
+Cloth Hall Court <br>
+Quebec St, Leeds LS1 2HA, United Kingdom
+
+**Reception - June 3**
+
+The Tiled Hall, Leeds Art Gallery <br>
+16-18 The Headrow, Leeds LS1 3AA, United Kingdom
+
+**Workshops, Meetings, and Birds of a Feather Sessions - June 5**
+
+Edward Boyle Library<br>
+University of Leeds, Leeds LS2 9JT, United Kingdom
+
+
+{% include leeds_locations.html %} 
+
 
 <!-- ### **Register**
 
@@ -90,29 +114,7 @@ Thank you to the 2024 Program committee:
 * Sandra Santos, The Courtauld Institute of Art
 * Greete Veesalu, Estonian National Library
 
-### Locations
 
-**Conference - 6/4 and 6/5**
-
-De Neve Plaze, University of Los Angeles, CA<br>
-351 Charles E Young Drive West, Los Angeles, CA 90024
-
-**Reception - 6/5**
-
-UCLA Mathias Botanical Garden <br>
-707 Tiverton Dr, Los Angeles, CA 90095
-
-**Birds of a Feather Sessions - 6/6**
-
-UCLA Charles E. Young Research Library<br>
-280 Charles E. Young Drive, North, Los Angeles, CA 90095
-
-**Showcase - 6/7**
-
-The Getty Center, Harold M. Williams Auditorium<br>
-1200 Getty Center Dr, Los Angeles, CA 90049
-
-{% include 2024_locations.html %} 
  -->
 
 ### **Questions?**
