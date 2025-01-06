@@ -47,6 +47,7 @@ We are offering sponsorship for the 2025 IIIF conference and the benefits and co
 ### Locations
 
 **Showcase - June 2**
+
 Cloth Hall Court <br>
 Quebec St, Leeds LS1 2HA, United Kingdom
 
