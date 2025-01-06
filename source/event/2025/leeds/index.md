@@ -63,6 +63,9 @@ The Tiled Hall, Leeds Art Gallery <br>
 **Workshops, Meetings, and Birds of a Feather Sessions - June 5**
 
 Edward Boyle Library<br>
+University of Leeds, Leeds LS2 9JT, United Kingdom <br>
+
+Brotherton Library<br>
 University of Leeds, Leeds LS2 9JT, United Kingdom
 
 
