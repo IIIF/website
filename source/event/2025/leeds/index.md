@@ -47,6 +47,7 @@ We are offering sponsorship for the 2025 IIIF conference and the benefits and co
 ### Locations
 
 **Showcase - June 2**
+
 Cloth Hall Court <br>
 Quebec St, Leeds LS1 2HA, United Kingdom
 
@@ -63,6 +64,9 @@ The Tiled Hall, Leeds Art Gallery <br>
 **Workshops, Meetings, and Birds of a Feather Sessions - June 5**
 
 Edward Boyle Library<br>
+University of Leeds, Leeds LS2 9JT, United Kingdom <br>
+
+Brotherton Library<br>
 University of Leeds, Leeds LS2 9JT, United Kingdom
 
 
