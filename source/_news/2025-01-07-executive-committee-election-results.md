@@ -1,7 +1,7 @@
 ---
 title: Executive Committee Election Results
 author: IIIF Consortium Staff
-date: 2024-01-17
+date: 2025-01-07
 tags: [news, announcements]
 layout: post
 excerpt: >
