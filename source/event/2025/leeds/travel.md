@@ -21,7 +21,7 @@ Please read the following guide for more information regarding who needs an ETA 
 * The nearest international airport is [Manchester Airport (MAN)](https://www.manchesterairport.co.uk/), which offers direct flights from over 200 international airports. 
 
 ## Travel by train
-* The nearest train station is [Leeds Station](https://www.nationalrail.co.uk/stations/leeds/)
+* The nearest train station is [Leeds Station](https://www.nationalrail.co.uk/stations/leeds/). Leeds Station is directly across the street from Cloth Hall Court, the location for the Showcase and main Conference sessions. 
 * [Train tickets](https://www.thetrainline.com/) are released 3 months in advance. Please book early for the best prices. 
 * The station is approximately 1.6km (1 mile) from campus, a 20-minute walk. The 22, 24, or 28 bus all provide a frequent service between the station and the University of Leeds campus, and taxis are available outside the main entrance.
 
