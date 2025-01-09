@@ -27,7 +27,7 @@ program
 program
 
 
-### **Silver - $1,5000**
+### **Silver - $1,500**
 
 * 1 conference registration
 * Acknowledgement on IIIF website, conference slides, and through the
