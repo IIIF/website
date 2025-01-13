@@ -44,6 +44,13 @@ The Call for Proposals is open until January 21, 2025. Please read more about fo
 
 We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2025/leeds/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
+
+**The IIIF Annual Conference is generously supported by the following Conference Sponsors:**
+
+{% include 2025_sponsors.html %} 
+
+<br>
+
 ### Locations
 
 **Showcase - June 2**
@@ -94,10 +101,6 @@ The conference will run between the Tuesday the 4th of June to Thursday the 6th 
 
 Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
 
-
-The IIIF Annual Conference is generously supported by the following Conference Sponsors:
-
-{% include 2024_sponsors.html %} 
 
 ### **Travel Scholarship**
 
