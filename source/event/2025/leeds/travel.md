@@ -24,6 +24,7 @@ Please read the following guide for more information regarding who needs an ETA 
 * The nearest train station is [Leeds Station](https://www.nationalrail.co.uk/stations/leeds/). Leeds Station is directly across the street from Cloth Hall Court, the location for the Showcase and main Conference sessions. 
 * [Train tickets](https://www.thetrainline.com/) are released 3 months in advance. Please book early for the best prices. 
 * The station is approximately 1.6km (1 mile) from campus, a 20-minute walk. The 22, 24, or 28 bus all provide a frequent service between the station and the University of Leeds campus, and taxis are available outside the main entrance.
+* **Conference attendees are eligible for a 25% discount on the London North Eastern Railway. Discount codes will be sent to all registrants; if you need access to the code prior to registering, please reach out to the IIIF staff.**
 
 ## Accommodations
 
