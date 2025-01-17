@@ -91,9 +91,9 @@
 - name: DB Ecosensystem
   uri: 
   iiifc: 4
-- name: DB Seret
-  uri: http://www.dbseret.com/
-  iiifc: 4
+# - name: DB Seret
+  # uri: http://www.dbseret.com/
+  # iiifc: 
 # - name: Data Futures Project (University of Westminster)
 #   uri: https://www.data-futures.org/
 #   iiifc: 2
@@ -191,7 +191,7 @@
   iiifc:
 - name: Kyoto University Library Network
   uri: http://www.kulib.kyoto-u.ac.jp/
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/kyoto_university.png
 - name: Leiden University
   uri: https://www.library.universiteitleiden.nl
@@ -268,7 +268,7 @@
   uri: https://natlib.govt.nz/
 - name: National Library of the Netherlands
   uri: https://www.kb.nl/
-  iiifc: 4
+  iiifc: 2
   logo: assets/uploads/logos/KB_Nationale-Bibliotheek_Logo_RGB.svg
 - name: National Library of Poland
   uri: http://bn.org.pl
@@ -468,7 +468,7 @@
   iiifc:
 - name: Research Computing Group at Saint Louis University
   uri: https://github.com/CenterForDigitalHumanities
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/ong_cropped-logo-dark.png
 - name: The Walters Art Museum
   uri: https://thewalters.org
