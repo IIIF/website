@@ -40,6 +40,10 @@ Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/
 
 The Call for Proposals is open until January 21, 2025. Please read more about format, themes, and submission guidance on the [Call for Proposals page]({{ site.root_url | absolute_url }}/event/2025/leeds/cfp). 
 
+### **Travel Scholarship**
+
+In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page]({{ site.root_url | absolute_url }}/event/2025/leeds/annual_conference_travel_scholarship).
+
 ### **Sponsors**
 
 We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2025/leeds/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
@@ -101,10 +105,6 @@ The conference will run between the Tuesday the 4th of June to Thursday the 6th 
 
 Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
 
-
-### **Travel Scholarship**
-
-In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to announce two travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/annual_conference_travel_scholarship).
 
 ### Program committee
 
