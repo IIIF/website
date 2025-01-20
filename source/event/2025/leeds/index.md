@@ -59,7 +59,6 @@ We are offering sponsorship for the 2025 IIIF conference and the benefits and co
 ### Registration
 
 **Registration will open in early February 2025.** Registration is $500 for non-members of the IIIF Consortium, $250 for member institutions, and $100 for students. 
-
 <br>
 
 
