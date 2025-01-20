@@ -12,7 +12,7 @@ breadcrumbs:
 
 The 2025 International Image Interoperability Framework (IIIF) Annual Conference will be held in-person in Leeds, United Kingdom, June 2–5, 2025. The conference will be hosted by the University of Leeds and the IIIF Consortium.
 
-**Submissions are due by January 21, 2025 (11:59PM, GMT).**
+**Submissions are due by January 21, 2025, 23:59 UTC-12 (Anywhere on Earth).**
 
 
 ### **Format**
