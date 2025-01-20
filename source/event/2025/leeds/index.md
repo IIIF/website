@@ -29,7 +29,7 @@ This event is guided by the IIIF Code of Conduct. More information regarding tra
     * Showcase: June 2, 2025
     * Conference: June 3-4, 2025
     * Reception: June 3, 2025
-    * Birds of a Feather sessions, workshops, and meetings: June 5, 2024
+    * Birds of a Feather sessions, workshops, tours, and meetings: June 5, 2024
 * Language: All event proceedings will be in English unless otherwise noted.
 
 ### **Travel**
@@ -54,6 +54,13 @@ We are offering sponsorship for the 2025 IIIF conference and the benefits and co
 {% include 2025_sponsors.html %} 
 
 <br>
+
+
+### Registration
+
+**Registration will open in early February 2025.** Registration is $500 for non-members of the IIIF Consortium, $250 for member institutions, and $100 for students. 
+<br>
+
 
 ### Locations
 
