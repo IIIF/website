@@ -61,13 +61,6 @@ If you have any questions, please contact staff@iiif.io
 
 ---
 
-
-
-1. This criterion closely mirrors the way the Code4Lib community describes requirements for their scholarship (https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form) [↩](https://iiif.io/event/2024/los-angeles/annual_conference_travel_scholarship/#fnref:code4lib_note)
-
-
----
-
 [^code4lib_note]: This criterion closely mirrors the way the Code4Lib community describes requirements for their scholarship (https://wiki.code4lib.org/2018_Scholarship_Documents/Application_form)
 
 [conference]: {{ site.root_url | absolute_url }}/event/2025/leeds/
