@@ -53,4 +53,4 @@ If you don't have the time or resources to build your own IIIF infrastructure, y
  - [ResCarta](https://rescarta.org/)
  - [ResourceSpace](https://www.resourcespace.com/knowledge-base/api/iiif)
  - [TIND DA](https://www.tind.io/da)
- - [Woodwing](https://www.woodwing.com/solutions/digital-asset-management)
+ - [Woodwing](https://www.woodwing.com/solutions/digital-asset-management) (Image API)
