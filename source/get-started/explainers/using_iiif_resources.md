@@ -114,6 +114,7 @@ Note this requires you to get the URL to the manifest and paste it into the foll
 </div>    
 
 ### Tify
+
 Tify has been developed by the University of Göttingen and is a good general purpose IIIF viewer. Source code and further details are available on: [https://github.com/tify-iiif-viewer/tify](https://github.com/tify-iiif-viewer/tify)
 
 **Export:**
@@ -130,6 +131,7 @@ Like the Universal Viewer, Tify also has a demo page where you can pass a manife
 [https://tify.rocks/](https://tify.rocks/)[manifest url]
 
 ### IIIF Curation Viewer
+
 This is a powerful IIIF Viewer that was developed in Japan and in addition to the general viewer functions such as page movement and zooming, it also cuts and collects parts of images from multiple items.
 
 **Export:**
@@ -150,6 +152,7 @@ You can drop the IIIF logo on to the viewer and it will load the content. It als
 [http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=)[manifest url]
 
 ### Diva.js
+
 Diva.js is a fast lightweight IIIF viewer and is available from the [Diva.js website](https://ddmal.music.mcgill.ca/diva.js/).
 
 **Export:**
@@ -160,6 +163,7 @@ Similar to Mirador, Diva.js makes the IIIF Manifest available through the metada
 </div>    
 
 ### Glycerine Viewer
+
 Initially designed for the [Glycerine](https://glycerine.io/) suite (Workbench, Viewer, Image Server) to support sophisticated annotation features, [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) has been released as an open source IIIF viewer to support IIIF manifests and compliant annotations built with other tools. Developed with a contemporary Vue 3 framework, Glycerine Viewer has an elegant interface, supports the IIIF Presentation API, and provides the most comprehensive annotation feature set of any IIIF Viewer.
 
 **Export:**
@@ -184,3 +188,4 @@ Below are list of links to viewers including links where you can add your own ma
  * [Tify](https://tify.rocks/) - [https://tify.rocks/](hhttps://tify.rocks/)
  * [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/) - [http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=)
  * [Diva.js](https://ddmal.music.mcgill.ca/diva.js/try/iiif-external.html)
+ * [Glycerine Viewer](https://glycerine.io/viewer/) - [https://glycerine.io/try-viewer](https://glycerine.io/try-viewer/)
