@@ -184,4 +184,3 @@ Below are list of links to viewers including links where you can add your own ma
  * [Tify](https://tify.rocks/) - [https://tify.rocks/](hhttps://tify.rocks/)
  * [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/) - [http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=)
  * [Diva.js](https://ddmal.music.mcgill.ca/diva.js/try/iiif-external.html)
- * [Glycerine Viewer](https://glycerine.io/try-viewer/)
