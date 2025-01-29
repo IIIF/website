@@ -160,7 +160,7 @@ Similar to Mirador, Diva.js makes the IIIF Manifest available through the metada
 </div>    
 
 ### Glycerine Viewer
-Initially designed for the [Glycerine](https://glycerine.io/) suite (Workbench, Viewer, Image Server) to support sophisticated annotation features, [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) has been released as an open source IIIF viewer to support IIIF manifests and compliant annotations built with other tools.  Developed with a contemporary Vue 3 framework, Glycerine Viewer has an elegant interface, supports the IIIF Presentation API and provides the most comprehensive annotation feature set of any IIIF Viewer.
+Initially designed for the [Glycerine](https://glycerine.io/) suite (Workbench, Viewer, Image Server) to support sophisticated annotation features, [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) has been released as an open source IIIF viewer to support IIIF manifests and compliant annotations built with other tools. Developed with a contemporary Vue 3 framework, Glycerine Viewer has an elegant interface, supports the IIIF Presentation API, and provides the most comprehensive annotation feature set of any IIIF Viewer.
 
 **Export:**
 Select the (i) icon in the top left of the screen to copy the IIIF Manifest
@@ -170,7 +170,7 @@ Select the (i) icon in the top left of the screen to copy the IIIF Manifest
 </div>    
 
 **Import:**
-Go to our Try Glycerine Viewer page: https://glycerine.io/try-viewer/
+Go to our Try Glycerine Viewer page: [https://glycerine.io/try-viewer/](https://glycerine.io/try-viewer/)
 
 Simply drag and drop the IIIF logo on to the Viewer.
 
