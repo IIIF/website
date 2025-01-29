@@ -1,0 +1,182 @@
+- name: 2024 Online Meeting 2024
+  start_date: 2024-11-12
+  end_date: 2024-11-14
+  location: Online
+  url: /event/2024/online-meeting/
+  description: "IIIF working and learning online meeting. A collection of lightning talks and online workshops."
+- name: IIIF Australia Showcase & Workshops
+  start_date: 2024-10-15
+  end_date: 2024-10-16
+  location: Canberra, Australia
+  url: /event/2024/online-meeting/
+  description: "IIIF Australia Showcase & Workshops, Canberra Australia. A companion event to AI4LAM."
+- name: 2024 IIIF Annual Conference and Showcase
+  start_date: 2024-06-04
+  end_date: 2024-06-07
+  location: Los Angeles, CA, USA
+  url: /event/2024/los-angeles/
+  description: "Conference and Showcase in UCLA and the Getty, Los Angeles"
+- name: IIIF Online Meeting 2023
+  start_date: 2023-12-05
+  end_date: 2023-12-07
+  location: Online
+  url: /event/2023/online-meeting/
+  description: "IIIF working and learning online meeting. A collection of lightning talks and online workshops."
+- name: 2023 IIIF Annual Conference and Showcase
+  start_date: 2023-06-05
+  end_date: 2023-06-08
+  location: Naples, Italy
+  url: /event/2023/naples/
+  description: "Conference and Showcase in various locations in Naples, Italy"
+- name: 2022 Online Meeting
+  start_date: 2022-12-6
+  end_date: 2022-12-8
+  location: Online
+  url: /event/2022/online-meeting/
+  description: "Online working meeting and lightning talks"  
+- name: 2022 IIIF Annual Conference
+  start_date: 2022-06-06
+  end_date: 2022-06-08
+  location: Cambridge, MA, USA
+  url: /event/2022/cambridge/
+  description: "This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials."
+- name: 2021 IIIF Fall Working Meeting
+  start_date: 2021-11-16
+  end_date: 2021-11-18
+  location: Online
+  url: /event/2021/fall_working_meeting/
+  description: "This three day online meeting focused on the following questions: How do we keep IIIF current, Demonstrating Value with IIIF and How do we reach the right people with IIIF?"
+- name: 2021 IIIF Annual Conference
+  start_date: 2021-06-22
+  end_date: 2021-06-24
+  location: Online
+  url: /event/2021/annual_conference/
+  description: A Virtual online conference showcasing the latest IIIF developments
+- name: 2020 IIIF Working Meeting
+  start_date: 2020-12-01
+  end_date: 2020-12-04
+  location: Online
+  url: /event/2020/fall_working_meeting/
+  description: A series of free online events and working sessions held with the goal of collaboratively advancing the IIIF standards and community.
+- name: IIIF Week
+  start_date: 2020-06-01
+  end_date: 2020-06-05
+  location: Online
+  url: /event/2020/iiifweek/
+  description: The first online IIIF conference
+- name: Spring 2020 IIIF Conference
+  start_date: 2020-06-01
+  end_date: 2020-06-05
+  location: Boston, MA, USA
+  url: /event/2020/boston/
+  description: Postponed due to COVID-19 pandemic
+- name: Fall 2019 IIIF Working Meeting
+  start_date: 2019-11-01
+  end_date: 2019-11-05
+  location: Ann Arbor, Michigan, USA
+  url: /event/2019/ann_arbor/
+  description: Showcase and working group meeting in Ann Arbor hosted jointly by the University of Michigan Library and ITHAKA
+- name: Spring 2019 IIIF Conference 
+  start_date: 2019-05-24
+  end_date: 2019-05-28
+  location: Göttingen, Germany
+  url: /event/2019/goettingen/
+  description: The 2019 International Image Interoperability Framework (IIIF) Conference hosted by the University of Göttingen / Göttingen State and University Library
+- name: Fall 2018 IIIF Working Meeting
+  start_date: 2018-12-03
+  end_date: 2018-12-06
+  location: Edinburgh, Scotland, UK
+  url: /event/2018/edinburgh/
+  description: Showcase and working group meeting in Edinburgh hosted jointly by the University of Edinburgh and the National Library of Scotland 
+- name: 2018 IIIF Washington Conference
+  start_date: 2018-05-21
+  end_date: 2018-05-25
+  location: Washington, DC, USA
+  url: /event/2018/washington/
+  description: Third IIIF conference hosted by the Library of Congress, the Smithsonian Institution, and the Folger Shakespeare Library.
+- name: Showcase and Technical Workshop
+  start_date: 2017-11-02
+  end_date: 2017-11-02
+  location: London, England
+  url: /event/2017/london/
+  description: The Victoria & Albert Museum hosted two events, a morning showcase and an afternoon working meeting.
+- name: Fall 2017 IIIF Working Meeting
+  start_date: 2017-11-11
+  end_date: 2017-11-13
+  location: Toronto, Canada
+  url: /event/2017/toronto/
+  description: Hosted by the University of Toronto 
+- name: Fall 2017 IIIF Showcase
+  start_date: 2017-11-10
+  end_date: 2017-11-10
+  location: Toronto, Canada
+  url: /event/2017/toronto-showcase/
+  description: A free showcase event proceeding the working meeting. 
+- name: Spring 2017 IIIF Conference 
+  start_date: 2017-05-05
+  end_date: 2017-05-09
+  location: Vatican City, Rome, Italy
+  url: /event/2017/vatican/
+  description: Second IIIF conference hosted by the Vatican
+- name: Winter 2017 IIIF Showcase & meeting
+  start_date: 2017-03-16
+  end_date: 2017-02-17
+  location: Edinburgh, Scotland, UK
+  url: /event/2017/edinburgh/
+  description: A showcase and meeting hosted by the National Library of Scotland and the University of Edinburgh
+- name: Fall 2016 IIIF Working Meeting
+  start_date: 2016-10-19
+  end_date: 2016-10-21
+  location: The Hague, Netherlands
+  url: /event/2016/thehague/
+  description: Hosted by the Koninklijke Bibliotheek and Europeana
+- name: Spring 2016 IIIF Conference 
+  start_date: 2016-05-10
+  end_date: 2016-05-13
+  location: New York, USA
+  url: /event/2016/newyork/
+  description: First IIIF conference hosted by New York Museum of Modern Art and the New York Academy of Medicine
+- name: Winter 2015 Showcase and Working meeting
+  start_date: 2015-12-08
+  end_date: 2015-12-10
+  location: Ghent, Belgium
+  url: /event/2015/ghent/
+  description: Hosted by the Ghent University Library
+- name: Spring 2015 Showcase and Working meeting
+  start_date: 2015-05-05
+  end_date: 2015-05-07
+  location: Washington, DC, USA
+  url: /event/2015/washington/
+  description: Hosted by the National Gallery of Art 
+- name: Fall 2014 Showcase and Working meeting
+  start_date: 2014-10-20
+  end_date: 2014-10-23
+  location: London, England, UK
+  url: /event/2014/london/
+  description: Hosted by the British Library
+- name: Winter 2014 Copenhagen, Denmark
+  start_date: 2014-02-18
+  end_date: 2014-02-21
+  location: Copenhagen, Denmark
+  description: Hosted by the Royal Danish Library
+- name: 2013 Paris, France
+  start_date: 2013-05-15
+  end_date: 2013-05-17
+  location: Paris, France
+  description: Hosted by Biblissima and the Bibliothèque nationale de France. 
+  url: https://projet.biblissima.fr/en/news/biblissima-and-stanford-university-viewer-interoperability-meetings-0
+- name: Summer 2012 Edinburgh, Scotland
+  start_date: 2012-07-14
+  end_date: 2012-07-16
+  location: Edinburgh, Scotland, UK
+  description: Hosted by the National Library of Scotland
+- name: Spring 2012 The Hague, Netherlands
+  start_date: 2012-04-11
+  end_date: 2012-04-13
+  location: The Hague, Netherlands
+  description: Hosted by the Koninklijke Bibliotheek
+- name: Fall 2011 Cambridge, England
+  start_date: 2011-09-03
+  end_date: 2011-09-06
+  location: Cambridge, England, UK
+  description: The first listed IIIF meeting. The exact dates in September are unclear
