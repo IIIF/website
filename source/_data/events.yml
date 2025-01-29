@@ -1,35 +1,26 @@
 
-- label: IIIF Australia Showcase & Workshops    
+- label: "IIIF Online Training March 2025 (5 Day course)"
   time:
-    start: 2024-10-15T10:00:00Z
-    end: 2024-10-16T10:00:00Z
+    start: 2025-03-31T17:00:00Z
+    end: 2025-04-04T17:00:00Z
   links:
     - label: More info & registration
-      link: "/event/2024/canberra/"
-  location:
-    label: "Canberra, Australia"
-- label: "IIIF Online Training November 2024 (5 Day course)"
-  time:
-    start: 2024-11-25T10:00:00Z
-    end: 2024-11-29T10:00:00Z
-  links:
-    - label: More info & registration
-      link: "https://www.eventbrite.com/e/november-2024-iiif-online-training-5-day-course-tickets-795361416407"
+      link: "https://www.eventbrite.com/e/march-2025-iiif-online-training-5-day-course-tickets-1140969814429"
   location:
     label: "Online"
-- label: IIIF 2024 Online Meeting
+- label: "IIIF Online Training May 2025 (5 Day course)"
   time:
-    start: 2024-11-12T06:00:00Z
-    end: 2024-11-14T23:00:00Z
+    start: 2025-05-19T14:00:00Z
+    end: 2025-05-23T14:00:00Z
   links:
-    - label: More info
-      link: "/event/2024/online-meeting/"
-  location: 
-    label: "Online"   
+    - label: More info & registration
+      link: "https://www.eventbrite.com/e/may-2025-iiif-online-training-5-day-course-tickets-1144088703109"
+  location:
+    label: "Online"
 - label: IIIF Annual Conference & Showcase 2025
   time:
     start: 2025-06-02T06:00:00Z
-    end: 2024-06-05T23:00:00Z
+    end: 2025-06-05T23:00:00Z
   links:
     - label: More info
       link: "/event/2025/leeds/"
@@ -37,3 +28,21 @@
     #   link: "/event/2023/naples/travel"
   location: 
     label: "Leeds, England, UK"    
+- label: "IIIF Online Training September 2025 (5 Day course)"
+  time:
+    start: 2025-09-29T17:00:00Z
+    end: 2025-10-03T17:00:00Z
+  links:
+    - label: More info & registration
+      link: "https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079"
+  location:
+    label: "Online"
+#- label: "IIIF Online Training November 2025 (5 Day course)"
+#  time:
+#    start: 2025-11-24T10:00:00Z
+#    end: 2025-11-28T10:00:00Z
+#  links:
+#    - label: More info & registration
+#      link: "https://www.eventbrite.com/e/november-2025-iiif-online-training-5-day-course-tickets-1144090127369"
+#  location:
+#    label: "Online"    
