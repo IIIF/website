@@ -170,7 +170,7 @@ Select the (i) icon in the top left of the screen to copy the IIIF Manifest
 </div>    
 
 **Import:**
-Go to our Try Glycerine Viewer page: (https://glycerine.io/try-viewer/)[https://glycerine.io/try-viewer/]
+Go to our Try Glycerine Viewer page: https://glycerine.io/try-viewer/
 
 Simply drag and drop the IIIF logo on to the Viewer.
 
