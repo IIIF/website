@@ -2,6 +2,8 @@
 title: "Call for Sponsors: 2025 IIIF Conference & Showcase in Leeds, United Kingdom"
 layout: event
 tags: [event ]
+hero:
+  image: "assets/images/heroes/Parkinson-Building-leeds.png"
 ---
 
 

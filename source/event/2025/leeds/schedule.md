@@ -3,6 +3,8 @@ title: "2025 IIIF Annual Conference Schedule"
 layout: spec
 page: overview
 banner: true 
+hero:
+  image: "assets/images/heroes/Parkinson-Building-leeds.png"
 breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'
