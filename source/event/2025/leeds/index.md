@@ -53,6 +53,12 @@ The conference will run between the Tuesday the 3th of June to Thursday the 5th 
 [Conference](schedule/)
  * [Workshops, Meetings, and Birds of a Feather Sessions](schedule/#birds-of-a-feather-sessions---thursday-june-5th)
 
+### **Tours**
+
+ The tours will take place on Thursday the 5th of June. You will need to sign up for a tour during registration for the IIIF conference.  
+
+ * [Thursday Tours](tours/)
+
 ### **Sponsors**
 
 We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2025/leeds/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
