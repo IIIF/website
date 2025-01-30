@@ -245,9 +245,8 @@ The Birds of a Feather sessions will be held at the [Brotherton Library][brother
             <a name='{{session.id}}'></a>
             <div id='{{session.id}}'>
                 <div class="paper">
-                    <span class="paper_time_value">{{session.start}} - {{session.end }}</span>
                     <br/>
-                    <p class="paper_title">{{session.title}}</p>
+                    <h4 class="paper_title">{{session.title}}</h4>
                     {% if session.youtube %}
                         <a href="{{ session.youtube }}">Recording on Youtube</a>
                     {% endif %}
