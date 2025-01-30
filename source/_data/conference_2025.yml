@@ -1,0 +1,210 @@
+bof-1:
+  date: '2025-06-05'
+  end: '12:00'
+  id: bof-1
+  session_time: 'Thursday, June 5th: 10:00am - 12:00pm'
+  sessions:
+  - abstract: 'This workshop proposes a full introduction to Arvest (https://arvest.app):
+      an open source and free to use web app for researchers, teachers, students,
+      artists and GLAM sector professionals who wish to work with multimodal corpora.
+      Arvest is built entirely around IIIF, and allows anyone with an email address
+      to immediately start engaging with and creating IIIF content. Make the most
+      of a powerful set of features, from secure media and data hosting; to multimodal
+      projects which can be shared and/or worked on collaboratively; to various types
+      of annotations from simple text, to visual overlays, to time-based annotations;
+      to a powerful API which allows you to integrate Arvest into complex computational
+      workflows.'
+    authors:
+    - name: Jacob Hart
+      org: "Universit\xE9 Rennes 2, France"
+    - name: Clarisse Bardiot
+      org: "Universit\xE9 Rennes 2, France"
+    end: '10:10 '
+    id: '120'
+    start: '10:00 '
+    title: Introduction to Arvest
+    type: Workshop
+  - abstract: "This interactive tutorial workshop presents an overview of ARK (Archival\
+      \ Resource Key) persistent identifiers, their cross-domain metadata, and unique\
+      \ compatibility with IIIF applications. As non-paywalled PIDs (persistent identifiers,\
+      \ permalinks) for information objects of any kind, ARKs support durable web\
+      \ addresses (e.g., that don\u2019t return 404 Page Not Found). Persistent links\
+      \ are especially important for protecting our investment in the linked data.\
+      \ Since 2001, 8.2 billion ARKs have been created by over 1450 organizations\
+      \ \u2014 libraries, data centers, archives, museums, publishers, government\
+      \ agencies, and vendors. With highly flexible metadata, citation-friendly ARKs\
+      \ identify anything digital, physical, or abstract. Important use cases include\
+      \ ARKs for physical samples and for millions of items in national libraries\
+      \ and museums of fine art and natural history. The tutorial includes hands-on\
+      \ experience and is for anyone interested in PIDs supporting images and cross-domain\
+      \ heritage data."
+    authors:
+    - name: John Kunze
+      org: Drexel University, United States of America
+    - name: Donny Winston
+      org: Polyneme LLC, United States of America
+    end: '10:20 '
+    id: '115'
+    start: '10:10 '
+    title: ARK persistent identifiers for cross-domain cultural heritage
+    type: Workshop
+  - abstract: As IIIF continues to grow in importance and impact, great potentials
+      for developments and applications of 3D media are explored in the 3D Community
+      Group (CG) and 3D Technical Specification Group (TSG). The 3D TSG have advanced
+      draft standards for 3D content, to complement and expand the potential of all
+      IIIF-based collections. In this session we show you updated draft documents
+      and release candidate, for review, input, and further testing with collection
+      holders.<br/><br/>Complementing this, the 3D CG has examples of projects, tools
+      and contacts with other 3D researchers and developer communities to collaboratively
+      consider challenges and solutions in common. The IIIF 3D groups work together
+      with specialists and representatives across user communities, international
+      and standards bodies. Combined efforts are extending IIIF suitably and sustainably
+      into the 3rd dimension, expanding options to overcome barriers for sustainable
+      sharing across institutions and collections.<br/><br/>The TSG is evolving options
+      for incorporation of 2D and A/V with 3D data, including for digital dioramas,
+      scene construction considerations, and for a more inclusive and sustainable
+      metaverse. This session will provide an update on the work and progress, use
+      cases, demos and take-home examples, and technical specification for IIIF 3D
+      and Presentation API 4.0. Please join us!
+    authors:
+    - name: Ronald S. Haynes
+      org: University of Cambridge, United Kingdom
+    - name: Julie Winchester
+      org: Duke University, United States of America
+    end: '10:30 '
+    id: '154'
+    start: '10:20 '
+    title: "IIIF 3D \u2013 Making the Scene and Canvas Anew with Prezi 4.0"
+    type: Workshop
+  - abstract: IIIF provides limited support for modelling books with moving parts
+      (such as those with fold-outs and flaps). But could this support be extended
+      to enable modelling of books with far more complex arrangements of moving (or
+      sliding, rotating, popping, etc) parts? This Birds of a Feather session would
+      be for those institutions and researchers with an interest in extending IIIF
+      to help bring to life online books such as anatomical flap books, in which movable
+      paper flaps are lifted to reveal the layers below, or books and manuscripts
+      using other paper mechanisms such as folds, flaps, volvelles, pop-ups, etc.<br/><br/>We
+      would like to review examples of works held in each institutions collections
+      (please bring links to any examples you would like to share), we'll then discuss
+      the viewing experience that scholars and users would desire for such items and
+      the current limitations in the IIIF Presentation API for modelling these works.
+      We can then consider what might be possible for IIIF to handle with the development
+      of extensions to the current APIs. If there is enough interest, we would then
+      propose a Community Group to continue the discussion of this topic.
+    authors:
+    - name: Richard Palmer
+      org: Victoria & Albert Museum
+    - name: Luca Carini
+      org: Victoria & Albert Museum
+    - name: Catherine Yvard
+      org: Victoria & Albert Museum
+    - name: Theresa Berger
+      org: University of Minnesota
+    - name: Emily Beck
+      org: University of Minnesota
+    - name: Lois Hendrickson
+      org: University of Minnesota
+    end: '12:00'
+    id: '126'
+    start: '10:00'
+    title: IIIF for Moving Books
+    type: Birds of a Feather
+  start: '10:00'
+  type: bof
+bof-2:
+  date: '2025-06-05'
+  end: '3:30'
+  id: bof-2
+  session_time: 'Thursday, June 5th: 1:30pm - 3:30pm'
+  sessions:
+  - abstract: "This workshop will train attendees to create and manage immersive online\
+      \ exhibitions on the anaver.se web app through IIIF providers. No prior knowledge\
+      \ or skill is required.<br/><br/>Following Biblioth\xE8que nationale de France\u2019\
+      s (BnF) digital library Gallica upgrade to the IIIF v3.0 APIs, the web app anaver.se\
+      \ has been made to support IIIF image resources. Its purpose is to allow both\
+      \ online communities to make free use of the public domain online heritage and\
+      \ to enable institutions to promote their online collections through professional\
+      \ curation. Further improvements have widened its potential for interoperability,\
+      \ including with institutions such as the Library of Congress or the Victoria\
+      \ and Albert Museum IIIF endpoints. Users can hence mix different IIIF providers\
+      \ in a same space.<br/><br/>At the end of the workshop, we expect attendees\
+      \ to be able to:<br/>- Navigate the anaver.se (within a space and among spaces)<br/>-\
+      \ Load and crop a IIIF asset within the anaver.se<br/>- Place, edit, and annotate\
+      \ a IIIF asset in a space<br/>- Create an exhibition with several IIIF assets\
+      \ in a space<br/>- Export an exhibition (also called a gallery) as a JSON file<br/>-\
+      \ Import an existing exhibition<br/>- Manage a reserved space through the event\
+      \ manager dashboard<br/><br/>"
+    authors:
+    - name: Guillaume Levrier
+      org: BnF & Sciences Po, France
+    - name: Louise-Anne Charles
+      org: BnF-DataLab, France
+    end: '01:40 '
+    id: '110'
+    start: '01:30 '
+    title: Creating an immersive exhibition with IIIF resources in the anaver.se
+    type: Workshop
+  - abstract: "The combination of Handwritten Text Recognition (HTR) and the International\
+      \ Image Interoperability Framework (IIIF) holds great promise for how GLAM institutions\
+      \ can provide access to its digitised collections. By combining large-scale\
+      \ digitisation with ML-based text recognition, institutions can create searchable,\
+      \ interoperable records that greatly enhance discoverability and user engagement.<br/><br/>In\
+      \ this Birds of a Feather session, participants will explore practical examples\
+      \ of implementing HTR within a IIIF ecosystem. Topics will include data preparation,\
+      \ model training, and methods for integrating transcriptions into IIIF viewers,\
+      \ supported by user feedback. Projects presented will include the Swedish National\
+      \ Archives\u2019 solution for making HTR-transcribed historical manuscripts\
+      \ searchable through IIIF, the Swiss Federal Archives' HTR-enabled workflow\
+      \ for handwritten Federal Council minutes (1848-1903) that incorporates the\
+      \ IIIF Content Search API, and The National Archives' (UK) approach to processing\
+      \ wills (PROB 11), known for their relatively uniform handwriting style.<br/><br/>Open\
+      \ to archivists, technologists and anyone interested in building more accessible\
+      \ cultural heritage collections, this session will promote shared learning,\
+      \ best practice and opportunities for collaboration within the IIIF community.\
+      \ Whether you are new to HTR or refining existing approaches, join us to explore\
+      \ new strategies, address common challenges, and help shape the future of archival\
+      \ access."
+    authors:
+    - name: David Haskiya
+      org: Swedish National Archives, Sweden
+    - name: "Linn\xE9a Karlberg Lundin"
+      org: Swedish National Archives, Sweden
+    - name: John Moore
+      org: The National Archives, UK
+    - name: Julien Antoine Raemy
+      org: Swiss Federal Archives, Switzerland
+    end: '3:30'
+    id: '108'
+    start: '1:30'
+    title: 'HTR + IIIF: Sharing Experiences and Best Practices'
+    type: Birds of a Feather
+  - abstract: Over the 10 years since its inception, IIIF has reached ever larger
+      audiences, not just because of the global content or the sophisticated tools
+      developed in its wake. It has also made research increasingly accessible to
+      students. A new set of educational priorities has emerged in the IIIF sphere
+      for pedagogies, foundational proficiencies, user-friendly technology, and faculty
+      recruitment. This summer, in addition to hosting the IIIF Annual Conference,
+      the University of Leeds is also launching our own IIIF collections, and embarking
+      on a university-wide implementation effort. We are keen to encourage take-up
+      of IIIF, but we know that for many involved in teaching and learning new technologies
+      and practices can feel like a hurdle. In this session, the IIIF Education Community
+      Group and representatives from the University of Leeds will share examples of
+      IIIF-based learning materials, and facilitate discussion about holistic institutional
+      implementation strategies. The session will be of interest to scholar-educators,
+      and to those who provide educational support, such as Learning Technologists.
+      Viewpoints from those with prior experience and those completely new to IIIF
+      will be welcomed.
+    authors:
+    - name: Rachel Hartshorne
+      org: University of Leeds, United Kingdom
+    - name: Karen Abel
+      org: University of Leeds, United Kingdom
+    - name: Christopher Gilman
+      org: University of Leeds, United Kingdom
+    end: '3:30'
+    id: '129'
+    start: '1:30'
+    title: 'Lessons Learned at Leeds: Educators Share Out'
+    type: Birds of a Feather
+  start: '1:30'
+  type: bof

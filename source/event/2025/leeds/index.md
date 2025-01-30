@@ -44,6 +44,13 @@ The Call for Proposals is open until January 21, 2025. Please read more about fo
 
 In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page]({{ site.root_url | absolute_url }}/event/2025/leeds/annual_conference_travel_scholarship).
 
+### **Schedule**
+
+The conference will run between the Tuesday the 3th of June to Thursday the 5th of June. There will also be a showcase for people new to IIIF on Monday the 2nd of June.
+
+[Conference](schedule/)
+ * [Workshops, Meetings, and Birds of a Feather Sessions](schedule/#birds-of-a-feather-sessions---thursday-june-5th)
+
 ### **Sponsors**
 
 We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2025/leeds/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
