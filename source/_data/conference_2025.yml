@@ -206,5 +206,16 @@ bof-2:
     start: '1:30'
     title: 'Lessons Learned at Leeds: Educators Share Out'
     type: Birds of a Feather
+  - abstract: <b>Led by IIIF Editors</b><br/><br/>Join the IIIF Editors for an overview
+      of IIIF API Presentation 4.0. The group will solicit feedback from community
+      members for inclusion in the the final published specification.
+    authors:
+    - name: IIIF Editors Group
+      org: IIIF Consortium, United States of America
+    end: '3:30'
+    id: '164'
+    start: '1:30'
+    title: 'Community Session: Prezi 4.0 Feedback'
+    type: Birds of a Feather
   start: '1:30'
   type: bof
