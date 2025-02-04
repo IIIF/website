@@ -38,9 +38,13 @@ This event is guided by the IIIF Code of Conduct. More information regarding tra
 
 Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2025/leeds/travel) for more details on pre-arranged rates.
 
-### **Call for Proposals**
+### Registration
 
-The Call for Proposals is open until January 21, 2025. Please read more about format, themes, and submission guidance on the [Call for Proposals page]({{ site.root_url | absolute_url }}/event/2025/leeds/cfp). 
+**Registration is now open.** Registration is $500 for non-members of the IIIF Consortium, $250 for member institutions, and $100 for students. 
+
+Registration is available on [ConfTool.](https://www.conftool.org/iiif2025/)
+
+<br>
 
 ### **Travel Scholarship**
 
@@ -67,15 +71,6 @@ We are offering sponsorship for the 2025 IIIF conference and the benefits and co
 **The IIIF Annual Conference is generously supported by the following Conference Sponsors:**
 
 {% include 2025_sponsors.html %} 
-
-<br>
-
-
-### Registration
-
-**Registration will open in early February 2025.** Registration is $500 for non-members of the IIIF Consortium, $250 for member institutions, and $100 for students. 
-
-Registration is available on [ConfTool.](https://www.conftool.org/iiif2025/)
 
 <br>
 
