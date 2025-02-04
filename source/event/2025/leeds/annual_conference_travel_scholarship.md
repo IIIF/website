@@ -2,6 +2,8 @@
 title: "2025 IIIF Conference travel scholarships"
 layout: event
 tags: [event ]
+hero:
+  image: "assets/images/heroes/Parkinson-Building-leeds.png"
 ---
 {{ theme.block-start }}
 

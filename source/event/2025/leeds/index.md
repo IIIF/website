@@ -11,6 +11,8 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
   - label: Leeds 2025
     link: '{{ site.root_url }}/event/2025/leeds/'
+hero:
+  image: "assets/images/heroes/Parkinson-Building-leeds.png"
 ---
 
 
@@ -43,6 +45,19 @@ The Call for Proposals is open until January 21, 2025. Please read more about fo
 ### **Travel Scholarship**
 
 In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page]({{ site.root_url | absolute_url }}/event/2025/leeds/annual_conference_travel_scholarship).
+
+### **Schedule**
+
+The conference will run between the Tuesday the 3th of June to Thursday the 5th of June. There will also be a showcase for people new to IIIF on Monday the 2nd of June.
+
+[Conference](schedule/)
+ * [Workshops, Meetings, and Birds of a Feather Sessions](schedule/#birds-of-a-feather-sessions---thursday-june-5th)
+
+### **Tours**
+
+ The tours will take place on Thursday the 5th of June. You will need to sign up for a tour during registration for the IIIF conference.  
+
+ * [Thursday Tours](tours/)
 
 ### **Sponsors**
 

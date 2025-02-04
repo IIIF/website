@@ -8,6 +8,8 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
   - label: Leeds 2025
     link: '{{ site.root_url }}/event/2025/leeds/'
+hero:
+  image: "assets/images/heroes/Parkinson-Building-leeds.png"
 ---
 
 The 2025 International Image Interoperability Framework (IIIF) Annual Conference will be held in-person in Leeds, United Kingdom, June 2–5, 2025. The conference will be hosted by the University of Leeds and the IIIF Consortium.

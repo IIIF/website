@@ -8,6 +8,8 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/'
   - label: Leeds 2025
     link: '{{ site.root_url }}/event/2025/leeds/'
+hero:
+  image: "assets/images/heroes/Parkinson-Building-leeds.png"
 ---
 
 ## Electronic Travel Authorization (ETA)
