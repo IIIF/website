@@ -229,7 +229,7 @@ The Birds of a Feather sessions will be held at the [Brotherton Library][brother
         <td>1:30 - 3:30</td>
         <td id="block-bof-2-110"><a href="#110">Workshop: Creating an immersive exhibition with IIIF resources in the anaver.se</a></td>
         <td id="block-bof-2-129"><a href="#129">BoaF: Lessons Learned at Leeds: Educators Share Out</a></td>
-        <td id="block-bof-1-"><a href="#164">Community Session: Prezi 4.0 Feedback</a></td>
+        <td id="block-bof-1-164"><a href="#164">Community Session: Prezi 4.0 Feedback</a></td>
         <td id="block-bof-2-108"><a href="#108">BoaF: HTR + IIIF: Sharing Experiences and Best Practices</a></td>
         <td id=""></td>
     </tr>
