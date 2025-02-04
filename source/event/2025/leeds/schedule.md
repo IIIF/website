@@ -31,6 +31,8 @@ Conference:
 
 Showcase:
  * Monday, June 2nd
+   * Showcase Sessions, 1:00pm - 3:15pm
+   * Hands-on with IIIF Workshop, 3:30pm - 5:00pm
 
 ### **Sponsors**
 
