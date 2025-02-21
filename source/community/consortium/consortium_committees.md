@@ -83,6 +83,7 @@ Current members:
 
 - Tom Cramer, Stanford University Libraries
 - Neil Fitzgerald, The British Library
+- Rebecca Hirsch, The University of Edinburgh
 - Simeon Warner, Cornell University
 - Rashmi Singhal, Harvard University
 - David Newbury, J. Paul Getty Trust
