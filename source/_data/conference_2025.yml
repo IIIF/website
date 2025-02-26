@@ -109,6 +109,30 @@ bof-1:
     start: '10:00'
     title: IIIF for Moving Books
     type: Birds of a Feather
+  - abstract: Many of the core use cases of IIIF have been expressed not in terms
+      of images and their presentation, but in terms of the digitized cultural heritage
+      items. It has long been desirable to discover resources digitally available
+      via IIIF by searching the properties and relationships of the real world objects,
+      such as by creator, subject, classification or date. This Birds of a Feather
+      session will discuss how organizations are using the Linked Art specification
+      in conjunction with IIIF to obtain significant benefits through the joint adoption
+      of these highly usable standards.<br/><br/>Linked Art has been designed and
+      implemented over the past 5 years learning from and intentionally following
+      the community best practices and design principles that IIIF has demonstrated
+      to be so effective. It uses an existing, standard conceptual model and encodes
+      knowledge using shared patterns in JSON-LD, made available via an easy to publish
+      and consume web API. It has been adopted internationally by cultural heritage
+      research and collecting institutions. We shall also discuss implementation experience
+      and tools, and how to ensure the continued and rich connection between these
+      overlapping communities and specifications.
+    authors:
+    - name: Rob Sanderson
+      org: Yale University
+    end: '12:00'
+    id: '165'
+    start: '10:00'
+    title: Linked Art
+    type: Birds of a Feather
   start: '10:00'
   type: bof
 bof-2:

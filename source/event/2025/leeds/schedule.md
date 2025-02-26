@@ -207,7 +207,7 @@ The Birds of a Feather sessions will be held at the [Brotherton Library][brother
     <tr>
         <td>10:00 - 12:00</td>
         <td id="block-bof-1-120"><a href="#120">Workshop: Introduction to Arvest</a></td>
-        <td id="block-bof-1-">BoaF: Linked Art<br/></td>
+        <td id="block-bof-1-165"><a href="#165">BoaF: Linked Art</a><br/></td>
         <td id="block-bof-1-154"><a href="#154">Workshop: IIIF 3D – Making the Scene and Canvas Anew with Prezi 4.0</a></td>
         <td id="block-bof-1-126"><a href="#126">BoaF: IIIF for Moving Books</a></td>
         <td id="block-bof-1-115"><a href="#115">Workshop: ARK persistent identifiers for cross-domain cultural heritage</a></td>
