@@ -44,6 +44,8 @@ Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/
 
 Registration is available on [ConfTool.](https://www.conftool.org/iiif2025/)
 
+Registration will close on May 16, 2025. 
+
 <br>
 
 ### **Travel Scholarship**
@@ -74,6 +76,24 @@ We are offering sponsorship for the 2025 IIIF conference and the benefits and co
 
 <br>
 
+### **2025 Program Committee**
+
+* Karen Abel, University of Leeds
+* Sudha Anand, Indiana University
+* Erin Burnand, British Library
+* Andrew Corrigan, Cambridge University
+* Nuno Freire, Europeana
+* Allison Harvey, Cardiff University
+* Martin Kalfatovic, IIIF-C
+* Trip Kirkpatrick, Yale University
+* Claire Knowles, University of Leeds
+* Brittny Lapierre, CRKN
+* Maia Hutton Mackay, University of Leeds
+* Caitlin Perry, IIIF-C
+* Julien A. Raemy, Swiss Federal Archives
+* Mia Ridge, British Library
+* Glen Robson, IIIF-C
+* Sandra Santos, Courtauld Institute of Art
 
 ### Locations
 
