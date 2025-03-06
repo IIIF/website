@@ -24,7 +24,9 @@
     <tr>
         {% assign start = row[0].start | string %}
         <td>
-            <a name="block-{{include.block}}-{{row[0].id}}"></a>
+            {% for presentation in row %}
+                <a name="block-{{blocks[forloop.index0]}}-{{presentation.id}}"></a>
+            {% endfor %}
             {{start}} - {{row[0].end}}
         </td>
         {% if include.counterprogram and forloop.first %}
@@ -33,21 +35,26 @@
             </td>
         {% endif %}
         {% for presentation in row %}
-            <td>
-                <a href="#{{presentation.id}}">
-                {{presentation.title}}
-            </a>
-            </td>
-            <td>
-                {% for author in presentation.authors %}
-                    {{author.name}}{% if forloop.last == false %},{% endif %}
-                {% endfor %}
-            </td>
-            {% if presentation.youtube %}
+            {% if presentation.id %}
                 <td>
-                    <a href="{{presentation.youtube}}"><img alt="Preview image of youtube video" src="{{ site.root_url | absolute_url }}/assets/images/preview_conf_video.png"/></a>
+                    <a href="#{{presentation.id}}">
+                    {{presentation.title}}
+                </a>
                 </td>
-            {% endif %}
+                <td>
+                    {% for author in presentation.authors %}
+                        {{author.name}}{% if forloop.last == false %},{% endif %}
+                    {% endfor %}
+                </td>
+                {% if presentation.youtube %}
+                    <td>
+                        <a href="{{presentation.youtube}}"><img alt="Preview image of youtube video" src="{{ site.root_url | absolute_url }}/assets/images/preview_conf_video.png"/></a>
+                    </td>
+                {% endif %}
+            {% else %}
+                <td></td>
+                <td></td>
+            {% endif %}   
         {% endfor %}
     </tr>
 {% endfor %}
