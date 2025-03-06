@@ -11,6 +11,34 @@ breadcrumbs:
   - label: Leeds
     link: '{{ site.root_url }}/event/2025/leeds/'
 sections:
+  - title: Conference day 1
+    key: "1"   
+  - title: Conference day 1
+    key: "2"   
+  - title: Conference day 1
+    key: "3"   
+  - title: Conference day 1
+    key: "4"   
+  - title: Conference day 1
+    key: "5"   
+  - title: Conference day 1
+    key: "6"   
+  - title: Conference day 2
+    key: "7"   
+  - title: Conference day 2
+    key: "8"   
+  - title: Conference day 2
+    key: "9"   
+  - title: Conference day 2
+    key: "10"   
+  - title: Conference day 2
+    key: "11"   
+  - title: Conference day 2
+    key: "12"   
+  - title: Conference day 2
+    key: "13"   
+  - title: Conference day 2
+    key: "14"   
   - title: Birds of a Feather & Workshop sessions - Morning
     key: "bof-1"   
   - title: Birds of a Feather & Workshop sessions - Afternoon
@@ -42,10 +70,9 @@ The IIIF Annual Conference is generously supported by the following Conference S
 
 ## Conference
 
-<!--
-### Day 1 - Tuesday, June 4th
+### Day 1 - Tuesday, June 3th
 
-The conference will take place in [De Neve Auditorium](https://www.google.com/maps/place/De+Neve+Plaza+Auditorium,+Los+Angeles,+CA+90024/@34.0703531,-118.4508331,19z/data=!4m6!3m5!1s0x80c2bc8e341f30cd:0x6f587a928865cb01!8m2!3d34.0702742!4d-118.4502162!16s%2Fg%2F12vsnhv1_?entry=tts) on the UCLA campus. 
+The conference will take place in [](). 
 
 <table class="api-table">
     <thead>
@@ -57,80 +84,14 @@ The conference will take place in [De Neve Auditorium](https://www.google.com/ma
     </thead>
     <tr>
         <td>8:30 - 9:00</td>
-        <td colspan="3"><b>Check-in</b></td>
+        <td colspan="2"><b>Registration</b></td>
     </tr>    
     <tr>
-        <td>9:00 - 9:05</td>
-        <td>Welcome</td>
-        <td>Athena Jackson, University Librarian</td>
+        <td>9:00 - 9:45</td>
+        <td>Welcome & Plenary</td>
+        <td>Masud Khokar, IIIF Staff, 3D Group</td>
     </tr>    
-    <tr>
-        <td>9:05 - 9:45</td>
-        <td>State of the IIIF Universe</td>
-        <td>IIIF Consortium Staff</td>
-    </tr> 
     {% include conference_table_row.html datafile=site.data.conference_2025 block="1"  %}
-    <tr>
-        <td>10:30 - 10:45</td>
-        <td>Q & A</td>
-        <td></td>
-    </tr> 
-    <tr>
-        <td>10:45 - 11:15</td>
-        <td colspan="3"><b>Break with tea and coffee</b></td>
-    </tr>   
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="2"  %}
-    <tr>
-        <td>12:15 - 12:30</td>
-        <td>Q & A</td>
-        <td></td>
-    </tr> 
-    <tr>
-        <td>12:30 - 1:30</td>
-        <td colspan="3"><b>Lunch</b></td>
-    </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="3"  %}    
-    <tr>
-        <td>2:30 - 2:45</td>
-        <td>Q & A</td>
-        <td></td>
-    </tr> 
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="4"  %}    
-    <tr>
-        <td>3:15 - 3:30</td>
-        <td>Q & A</td>
-        <td></td>
-    </tr> 
-    <tr>
-        <td>3:30 - 4:00 </td>
-        <td colspan="3"><b>Break with tea and coffee</b></td>
-    </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="5" %}
-    <tr>
-        <td>5:00 - 5:15</td>
-        <td>Q & A</td>
-        <td></td>
-    </tr> 
-</table>
-
-
-### Day 2 - Wednesday, June 5th
-
-The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4e5qQZUvgrdbdbPk8) on the UCLA campus. 
-
-<table class="api-table">
-    <thead>
-        <tr>
-            <th>Time</th>
-            <th>Session</th>
-            <th>Speaker(s)</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>8:30 - 9:00</td>
-        <td colspan="3"><b>Registration and arrivals</b></td>
-    </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="6"  %}
     <tr>
         <td>10:15 - 10:30</td>
         <td>Q & A</td>
@@ -138,35 +99,191 @@ The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4
     </tr> 
     <tr>
         <td>10:30 - 11:00</td>
-        <td colspan="3"><b>Break with tea and coffee</b></td>
+        <td colspan="2"><b>Break with tea and coffee</b></td>
     </tr>   
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="7"  %}
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead> 
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="2"  %}
     <tr>
-        <td>12:00 - 12:15</td>
+        <td>11:45 - 12:00</td>
         <td>Q & A</td>
         <td></td>
     </tr> 
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Track 1</th>
+            <th colspan="2">Track 2</th>
+        </tr>
+        <tr>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="3"  counterprogram="Lunch A" %}    
     <tr>
-        <td>12:15 - 1:15</td>
-        <td colspan="3"><b>Lunch</b></td>
+        <td>12:30 - 12:45</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="4"  counterprogram="Lunch B"%}    
+    <tr>
+        <td>1:30 - 1:45</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>    
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="5" %}
+    <tr>
+        <td>2:45 - 3:00</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3:00 - 3:30</td>
+        <td colspan="2"><b>Break with tea and coffee</b></td>
     </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="8"  %}    
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead> 
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="6" %}
     <tr>
-        <td>2:05 - 2:15</td>
+        <td>4:30 - 4:45</td>
         <td>Q & A</td>
         <td></td>
     </tr> 
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="9"  %}    
+</table>
+
+
+### Day 2 - Wednesday, June 4th
+
+The conference will take place in [](). 
+
+<table class="api-table">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th colspan="2">Track 1</th>
+            <th colspan="2">Track 2</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>
     <tr>
-        <td>3:00 - 3:15</td>
-        <td>Q & A</td>
-        <td></td>
-    </tr> 
-    <tr>
-        <td>3:15 - 3:45 </td>
-        <td colspan="3"><b>Break with tea and coffee</b></td>
+        <td>8:30 - 9:00</td>
+        <td colspan="4"><b>Arrivals and Coffee/Tea</b></td>
     </tr>    
-    {% include conference_table_row.html datafile=site.data.conference_2025 block="10" %}
+    {% include conference_table_multitrack.html datafile=site.data.conference_2025 blocks="7,8"  %}
+    <tr>
+        <td>10:00 - 10:15</td>
+        <td>Q & A</td>
+        <td></td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>10:15 - 10:45</td>
+        <td colspan="4"><b>Break with tea and coffee</b></td>
+    </tr>   
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th colspan="2">Track 1</th>
+            <th colspan="2">Track 2</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>
+    {% include conference_table_multitrack.html datafile=site.data.conference_2025 blocks="9,10"  %}
+    <tr>
+        <td>11:30 - 11:45</td>
+        <td>Q & A</td>
+        <td></td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Track 1</th>
+            <th colspan="2">Track 2</th>
+        </tr>
+        <tr>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="11" counterprogram="Lunch A" %}
+    <tr>
+        <td>12:30 - 12:45</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="12" counterprogram="Lunch B" %}
+    <tr>
+        <td>1:30 - 1:45</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead>
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="13"  %}    
+    <tr>
+        <td>2:45 - 3:00</td>
+        <td>Q & A</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>3:00 - 3:30</td>
+        <td colspan="2"><b>Break with tea and coffee</b></td>
+    </tr>    
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker(s)</th>
+        </tr>
+    </thead> 
+    {% include conference_table_row.html datafile=site.data.conference_2025 block="14"  %}    
+    <tr>
+        <td>4:20 - 4:30</td>
+        <td>Scholarship Lightning talk</td>
+        <td></td>
+    </tr> 
     <tr>
         <td>4:30 - 4:45</td>
         <td>Q & A</td>
@@ -174,15 +291,10 @@ The conference will take place in [De Neve Auditorium](https://maps.app.goo.gl/4
     </tr> 
     <tr>
         <td>4:45 - 5:00</td>
-        <td>Wrap-up and thank yous</td>
+        <td>Wrap-up</td>
         <td>IIIF Consortium Staff</td>
     </tr>  
-    <tr>
-        <td>6:30pm</td>
-        <td colspan="3"><b>Conference Reception, UCLA Botanical Gardens</b></td>
-    </tr>
 </table>
--->
 
 ### Birds of a Feather sessions - Thursday, June 5th
 
