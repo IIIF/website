@@ -1,0 +1,60 @@
+{% assign max = 0 %}
+{% assign blocks = include.blocks | split: "," %}
+{% for block in blocks %}
+    {% assign list_size = include.datafile[block].sessions | size %}
+    {% if max < list_size %}
+        {% assign max = list_size %}
+    {% endif %}
+{% endfor %}
+{% assign max = max | minus: 1%}
+{% assign sessions = "" | split: "," %}
+{% for i in (0..max) %}
+    {% assign row = "" | split: "," %}
+    {% for block in blocks %}
+        {% assign list_size = include.datafile[block].sessions | size %}
+        {% if i < list_size %}
+            {% assign row = row | push: include.datafile[block].sessions[i] %}
+        {% else %}
+            {% assign row = row | push: "&nbsp;" %}
+        {% endif %}
+    {% endfor %}
+    {% assign sessions = sessions | push: row %}
+{% endfor %}
+{% for row in sessions %}
+    <tr>
+        {% assign start = row[0].start | string %}
+        <td>
+            {% for presentation in row %}
+                <a name="block-{{blocks[forloop.index0]}}-{{presentation.id}}"></a>
+            {% endfor %}
+            {{start}} - {{row[0].end}}
+        </td>
+        {% if include.counterprogram and forloop.first %}
+            <td rowspan="{{block_sessions | size | plus: 1}}">
+                <b>{{include.counterprogram}}</b>
+            </td>
+        {% endif %}
+        {% for presentation in row %}
+            {% if presentation.id %}
+                <td>
+                    <a href="#{{presentation.id}}">
+                    {{presentation.title}}
+                </a>
+                </td>
+                <td>
+                    {% for author in presentation.authors %}
+                        {{author.name}}{% if forloop.last == false %},{% endif %}
+                    {% endfor %}
+                </td>
+                {% if presentation.youtube %}
+                    <td>
+                        <a href="{{presentation.youtube}}"><img alt="Preview image of youtube video" src="{{ site.root_url | absolute_url }}/assets/images/preview_conf_video.png"/></a>
+                    </td>
+                {% endif %}
+            {% else %}
+                <td></td>
+                <td></td>
+            {% endif %}   
+        {% endfor %}
+    </tr>
+{% endfor %}

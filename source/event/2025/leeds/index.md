@@ -56,8 +56,11 @@ In order to foster a conference environment that better reflects the diversity o
 
 The conference will run between the Tuesday the 3th of June to Thursday the 5th of June. There will also be a showcase for people new to IIIF on Monday the 2nd of June.
 
-[Conference](schedule/)
- * [Workshops, Meetings, and Birds of a Feather Sessions](schedule/#birds-of-a-feather-sessions---thursday-june-5th)
+[Conference](schedule/):
+ * [Day 1 - Tuesday, June 3th](day1-tuesday/)
+   * Conference Reception
+ * [Day 2 - Wednesday, June 4th](day2-wednesday)
+ * [Birds of a feather sessions - Thursday, June 5th](bof/)
 
 ### **Tours**
 
