@@ -158,7 +158,7 @@
       org: University of Chicago Library, United States of America
     - name: Cecilia Smith
       org: University of Chicago Library, United States of America
-    end: '12:10 '
+    end: '12:07 '
     id: '116'
     start: '12:00 '
     title: 'The AllMaps Advantage: Leveraging IIIF and AllMaps for Workflow Simplification
@@ -182,9 +182,9 @@
     authors:
     - name: David Larsen
       org: Africa Media Online, South Africa
-    end: '12:20 '
+    end: '12:14 '
     id: '128'
-    start: '12:10 '
+    start: '12:07 '
     title: Making IIIF accessible to Africans and the World through a Wordpress integration
     type: Lightning talk
   - abstract: "One of Edinburgh\u2019s Heritage Collections biggest stories in recent\
@@ -204,9 +204,9 @@
       org: University of Edinburgh
     - name: Scott Renton
       org: University of Edinburgh
-    end: '12:30 '
+    end: '12:21 '
     id: '167'
-    start: '12:20 '
+    start: '12:14 '
     title: Developments in the landscape- Charles Lyell IIIF-driven website
     type: Lightning talk
   - abstract: This presentation highlights two innovative projects that combine technology
@@ -231,12 +231,12 @@
       org: University of Leeds, United Kingdom
     - name: Maia Hutton Mackay
       org: University of Leeds, United Kingdom
-    end: '12:45 '
+    end: '12:28 '
     id: '159'
-    start: '12:30 '
+    start: '12:21 '
     title: 'Unlocking Leeds'' Archives: Digital Preservation through Sonification
       and 3D Scanning'
-    type: Presentation
+    type: Lightning talk
   start: '12:00'
   type: lightning
 '12':
@@ -257,7 +257,7 @@
     authors:
     - name: Irina Schmid
       org: AUC, Egypt
-    end: '01:10 '
+    end: '01:07 '
     id: '148'
     start: '01:00 '
     title: 'What would we like IIIF to be?: Visualizing IIIF in 3D teaching and learning
@@ -283,9 +283,9 @@
     authors:
     - name: Rita Gautschy
       org: DaSCH, University of Basel, Switzerland
-    end: '01:20 '
+    end: '01:14 '
     id: '104'
-    start: '01:10 '
+    start: '01:07 '
     title: Integrating 3D Modelling and Standards into Archaeological Education
     type: Lightning talk
   - abstract: "In 2016, staff at the University of Victoria decided to implement and\
@@ -303,11 +303,11 @@
     authors:
     - name: Tiffany Chan
       org: University of Victoria Libraries, Canada
-    end: '01:35 '
+    end: '01:21 '
     id: '118'
-    start: '01:20 '
+    start: '01:14 '
     title: 'Outrunning Obsolescence: A IIIF Case Study at a Medium-Sized Institution'
-    type: Presentation
+    type: Lightning talk
   - abstract: Thanks to the generosity of the National Endowment of the Humanities
       and a host of partnerships over the past decade, the TPEN team responsible for
       the introduction of line-by-line transcription to manuscript studies is leveraging
@@ -319,9 +319,9 @@
     authors:
     - name: Patrick Miles Cuba
       org: Saint Louis University, United States of America
-    end: '01:45 '
+    end: '01:28 '
     id: '107'
-    start: '01:35 '
+    start: '01:21 '
     title: 'TPEN 3.0: human-powered encoding and annotation'
     type: Lightning talk
   start: '13:00'
@@ -434,11 +434,11 @@
       org: Institut national d'histoire de l'art, France
     - name: Juliette HUEBER
       org: CNRS, France
-    end: '03:45 '
+    end: '03:37 '
     id: '135'
     start: '03:30 '
     title: 'The PerVisum project : IIIF and scientific publishing'
-    type: Presentation
+    type: Lightning talk
   - abstract: "Are you wondering how to partner between cultural heritage collections\
       \ at your organization? BUT- do your worlds feel so wildly different that a\
       \ single solution seems unattainable? Dartmouth has been there, and we\u2019\
@@ -448,9 +448,9 @@
       org: Dartmouth College, United States of America
     - name: Meredith Steinfels
       org: Dartmouth College, United States of America
-    end: '03:55 '
+    end: '03:44 '
     id: '158'
-    start: '03:45 '
+    start: '03:37 '
     title: The Partnerships Behind Cross-Collection Searches
     type: Lightning talk
   - abstract: "Sustaining open source software can be challenging. As the IIIF Consortium\
@@ -478,9 +478,9 @@
       org: British Library, United Kingdom
     - name: Lanie Okorodudu
       org: British Library, United Kingdom
-    end: '04:05 '
+    end: '03:51 '
     id: '145'
-    start: '03:55 '
+    start: '03:44 '
     title: 'Developing a community to develop software: the Universal Viewer'
     type: Lightning talk
   - abstract: "Since 2017, 4Science has been working on implementing support for IIIF\
@@ -500,9 +500,9 @@
       org: 4Science, Italy
     - name: Claudio Cortese
       org: 4Science, Italy
-    end: '04:15 '
+    end: '03:58 '
     id: '117'
-    start: '04:05 '
+    start: '03:51 '
     title: Managing IIIF Annotations in a Digital Library Environment
     type: Lightning talk
   - abstract: A whistlestop tour of all the FUN things you can do with your friendly
@@ -510,9 +510,9 @@
     authors:
     - name: Tristan Roddis
       org: Cogapp, United Kingdom
-    end: '04:25 '
+    end: '04:05 '
     id: '146'
-    start: '04:15 '
+    start: '03:58 '
     title: Fun with IIIF
     type: Lightning talk
   start: '15:30'
@@ -809,6 +809,8 @@
     authors:
     - name: "Annika Schr\xF6er"
       org: Leipzig University Library, Germany
+    - name: Leander Siege
+      org: Leipzig University Library, Germany
     end: '02:45 '
     id: '149'
     start: '02:30 '
@@ -842,7 +844,7 @@
     authors:
     - name: Glen Robson
       org: IIIF, United Kingdom
-    end: '03:40 '
+    end: '03:37 '
     id: '114'
     start: '03:30 '
     title: Creating a IIIF backup
@@ -864,9 +866,9 @@
     authors:
     - name: Michael Appleby
       org: Yale University, United States of America
-    end: '03:50 '
+    end: '03:44 '
     id: '147'
-    start: '03:40 '
+    start: '03:37 '
     title: "\u201CDigital Collections AI\u201D: LLMs for IIIF Digital Collections"
     type: Lightning talk
   - abstract: IIIF Timeline is a tool for viewing IIIF Collections chronologically.
@@ -880,9 +882,9 @@
     authors:
     - name: James Misson
       org: British Library, United Kingdom
-    end: '04:00 '
+    end: '03:51 '
     id: '122'
-    start: '03:50 '
+    start: '03:44 '
     title: Viewing collections chronologically with IIIF Timeline
     type: Lightning talk
   - abstract: "This lightning will discuss an implementation of image area selection\
@@ -896,9 +898,9 @@
     authors:
     - name: Niqui O'Neill
       org: Stanford University Libraries, United States of America
-    end: '04:10 '
+    end: '03:58 '
     id: '155'
-    start: '04:00 '
+    start: '03:51 '
     title: Inching towards Content State
     type: Lightning talk
   - abstract: 'Since 2018, the Swiss Federal Archives (SFA) has been improving user
@@ -923,9 +925,9 @@
     authors:
     - name: Julien Antoine Raemy
       org: Swiss Federal Archives, Switzerland
-    end: '04:20 '
+    end: '04:05 '
     id: '102'
-    start: '04:10 '
+    start: '03:58 '
     title: 'A Sustainable Commit(ment): Balancing IIIF Viewer Enhancements with Streamlining
       Measures at the Swiss Federal Archives'
     type: Lightning talk
@@ -941,9 +943,9 @@
     authors:
     - name: Mat Jordan
       org: Northwestern University, United States of America
-    end: '04:30 '
+    end: '04:12 '
     id: '133'
-    start: '04:20 '
+    start: '04:05 '
     title: More ways to integrate and share with IIIF APIs
     type: Lightning talk
   start: '15:30'
@@ -1100,8 +1102,8 @@
       \ build our futures. In this session, we will explore how museums can harness\
       \ open licenses, tools, policies and practices to enhance access to their cultural\
       \ heritage collections. We will also share information about TAROCH, our collective\
-      \ effort towards an international standard-setting instrument enshrining 'open\
-      \ heritage'."
+      \ effort towards an international standard-setting instrument enshrining \u201C\
+      open heritage\u201D. "
     authors:
     - name: "Brigitte V\xE9zina"
       org: Creative Commons
@@ -1264,7 +1266,7 @@ bof-1:
       org: "Universit\xE9 Rennes 2, France"
     - name: Clarisse Bardiot
       org: "Universit\xE9 Rennes 2, France"
-    end: '10:10 '
+    end: '10:07 '
     id: '120'
     start: '10:00 '
     title: Introduction to Arvest
@@ -1288,9 +1290,9 @@ bof-1:
       org: Drexel University, United States of America
     - name: Donny Winston
       org: Polyneme LLC, United States of America
-    end: '10:20 '
+    end: '10:14 '
     id: '115'
-    start: '10:10 '
+    start: '10:07 '
     title: ARK persistent identifiers for cross-domain cultural heritage
     type: Workshop
   - abstract: As IIIF continues to grow in importance and impact, great potentials
@@ -1316,9 +1318,9 @@ bof-1:
       org: University of Cambridge, United Kingdom
     - name: Julie Winchester
       org: Duke University, United States of America
-    end: '10:30 '
+    end: '10:21 '
     id: '154'
-    start: '10:20 '
+    start: '10:14 '
     title: "IIIF 3D \u2013 Making the Scene and Canvas Anew with Prezi 4.0"
     type: Workshop
   - abstract: IIIF provides limited support for modelling books with moving parts
@@ -1408,7 +1410,7 @@ bof-2:
       org: BnF & Sciences Po, France
     - name: Louise-Anne Charles
       org: BnF-DataLab, France
-    end: '01:40 '
+    end: '01:37 '
     id: '110'
     start: '01:30 '
     title: Creating an immersive exhibition with IIIF resources in the anaver.se

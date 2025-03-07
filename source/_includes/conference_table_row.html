@@ -11,8 +11,8 @@
             <a name="block-{{include.block}}-{{presentation.id}}"></a>
             {{start}} - {{presentation.end}}
         </td>
-        {% if include.counterprogram and forloop.first %}
-            <td rowspan="{{block_sessions | size | plus: 1}}">
+        {% if include.counterprogram == "Lunch A" and forloop.first %}
+            <td rowspan="{{block_sessions | size | plus: 1}}" colspan="2">
                 <b>{{include.counterprogram}}</b>
             </td>
         {% endif %}
@@ -31,5 +31,11 @@
                 <a href="{{presentation.youtube}}"><img alt="Preview image of youtube video" src="{{ site.root_url | absolute_url }}/assets/images/preview_conf_video.png"/></a>
             </td>
         {% endif %}
+        {% if include.counterprogram == "Lunch B" and forloop.first %}
+            <td rowspan="{{block_sessions | size | plus: 1}}" colspan="2">
+                <b>{{include.counterprogram}}</b>
+            </td>
+        {% endif %}
+
     </tr>
 {% endfor %}
