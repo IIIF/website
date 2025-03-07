@@ -44,9 +44,8 @@ Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/
 
 Registration is available on [ConfTool.](https://www.conftool.org/iiif2025/)
 
-*Registration will close on May 16, 2025.* 
+**Registration will close on May 16, 2025.** 
 
-<br>
 
 ### **Travel Scholarship**
 
@@ -68,7 +67,7 @@ The conference will run between the Tuesday the 3th of June to Thursday the 5th 
 
  * [Thursday Tours](tours/)
 
-### **Samvera Europe Annual Meeting**
+### **Samvera Europe Meeting**
 
 The Samvera Europe community will hold its annual meeting on June 6, 2025 at the University of Leeds in conjunction with the 2025 Annual IIIF Conference. More information available [here](https://iiif.io/event/2025/leeds/samvera).
 
