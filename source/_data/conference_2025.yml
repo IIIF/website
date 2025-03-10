@@ -66,21 +66,29 @@
   id: '10'
   session_time: 'Wednesday, June 4th: 10:45am - 11:30am'
   sessions:
-  - abstract: 'The International Image Interoperability Framework (IIIF) has revolutionized
-      the accessibility and usability of digital cultural heritage, enabling cross-institutional
-      collaboration and creating opportunities for innovative scholarship. However,
-      the effectiveness of IIIF services depends on the quality and consistency of
-      their technical implementations. This talk will explore the foundational importance
-      of stable identifiers in IIIF, emphasizing their role as immutable anchors in
-      the ecosystem of linked data and further technical and data-related aspects
-      of IIIF implementations. '
+  - abstract: 'While the digitization of physical collections is a cornerstone of cultural heritage 
+      preservation, translating tactile, three-dimensional, and historically rich materials into 
+      engaging and equitable digital experiences remains a challenge. This presentation explores how 
+      interdisciplinary approaches in metadata, digitization, and user engagement can extend IIIFs 
+      capacity to meet these challenges. Rooted in the work of the Library at the University of Illinois
+      Urbana-Champaign, this case study highlights three distinct collections: the Historical Board 
+      Games Collection, the Ricker Materials Collection, and the Gwendolyn Brooks Collection. 
+      We applied innovative approaches that align with IIIF’s mission of accessibility and interoperability. 
+      Additionally, we prioritized multi-modal digital access by leveraging IIIF viewers to provide layered 
+      metadata, contextual narratives, and detailed imagery that simulate the experience of tactile 
+      exploration. Finally, we developed metadata strategies that support both academic research and public 
+      use cases, ensuring the preservation of cultural and historical context. We demonstrate how these 
+      methodologies meet critical themes of accessibility, institutional sustainability, and the broader 
+      cultural impact of IIIF implementations. Attendees will gain insights into curatorial and technical 
+      decision-making, including imaging choices for translucent and textured objects, the ethical use of 
+      facsimiles, and the inclusion of voices historically excluded from digital representation.'
     authors:
-    - name: Leander Seige
-      org: Leipzig University Library, Germany
+    - name: Stephanie M. Luke, Ruthann E. Mowry, Siobhan McKissic
+      org: University of Illinois Urbana-Champaign, United States
     end: '11:00 '
     id: '119'
     start: '10:45 '
-    title: 'The Backbone of Knowledge: The Critical Role of Reliable IIIF Implementations'
+    title: 'From Tactile to Digital: Advancing IIIF’s Role in Representing Complex Physical Collections'
     type: Presentation
   - abstract: 'The Huntington Library, Art Museum, and Botanical Gardens in LA has
       existed for over 100 years, and has amassed a huge amount of textual and image
