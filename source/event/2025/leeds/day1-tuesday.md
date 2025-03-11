@@ -38,7 +38,7 @@ Showcase:
    * Showcase Sessions, 1:00pm - 3:15pm
    * Hands-on with IIIF Workshop, 3:30pm - 5:00pm
 
-The conference will take place in [](). 
+The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uikw5jUE3fDLTnmWA). 
 
 <table class="api-table">
     <thead>
