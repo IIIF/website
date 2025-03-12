@@ -822,8 +822,7 @@
     end: '02:45 '
     id: '149'
     start: '02:30 '
-    title: Create, cite, collaborate! Annotations within the German Manuscript Portal
-      "Handschriftenportal"
+    title: Reliable IIIF infrastructure and truly persistent identifiers as the basis for sustainable research environments such as the Handschriftenportal
     type: Presentation
   start: '14:00'
   type: presentations
