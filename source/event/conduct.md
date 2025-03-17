@@ -54,13 +54,11 @@ If you are subject to or witness harassment, please contact the Code of Conduct 
 
 You will receive an email or verbal confirmation that your report has been received. Within one week you will receive a resolution and course of action or explanation of why the situation is unresolved and continues to be evaluated.
 
-## Committee members
-The IIIF Code of Conduct Team comprises all dedicated IIIF staff plus a set of advisors from the [IIIF Coordinating Committee][coco]. 
-
-For information about how Code of Conduct violations are evaluated, view the [Guidelines for Code of Conduct team members][guidelines].
+## Code of Conduct Team Members
+The IIIF Code of Conduct Team comprises all IIIF-C staff plus two advisors from the IIIF Community approved by the [IIIF Coordinating Committee][coco]. Community members of the Code of Conduct Team serve for one year. Current individuals in this role and information on how Code of Conduct violations are evaluated are available here: [Guidelines for Code of Conduct Team members][guidelines].
 
 ## Process for evaluating Code of Conduct reports
-If a member of the Code of Conduct Team is involved in the incident, that member agrees to recuse themselves from the evaluation, and the further communications will not include that member. When a report is received, the Code of Conduct Team will meet to discuss the incident and determine:
+When a report is received, the Code of Conduct Team will meet to discuss the incident and determine:
 * A narrative of what happened
 * If this event constitutes a Code of Conduct violation
 * Who violated the Code of Conduct
@@ -71,21 +69,23 @@ Actions and next steps will be determined on a case by case basis. The Code of C
 * Nothing (if it is determined that no violation occurred)
 * A private reprimand
 * A public reprimand
-* A voluntary vacation (i.e. asking someone to “take a week off” from a mailing list or Slack)
+* A forced vacation (i.e. asking someone to “take a week off” from a mailing list or Slack)
 * A temporary or permanent ban from some or all IIIF spaces
 * A request for a public or private apology
 
 This evaluation and plan for action are to be completed and communicated to the reporter within one week unless it is necessary for the investigation to continue in order to respond appropriately.
 
-If the Code of Conduct Committee determines a public response is necessary following the incident, it will notify the community and/or event attendees via the most appropriate channel(s). The Committee will also provide an annual, anonymized report describing any reported incidents and actions taken in response. All correspondence and notes related to the incident will be kept in a private folder only accessible by IIIF Consortium staff and the Code of Conduct Committee.
+If the Code of Conduct Team determines a public response is necessary following the incident, it will notify the community and/or event attendees via the most appropriate channel(s). The Committee will also provide an annual, anonymized report describing any reported incidents and actions taken in response to the IIIF-C Executive Committee. All correspondence and notes related to the incident will be kept in a private folder only accessible by IIIF-C staff and officers of the IIIF-C Operating Committee.
+
+If a member of the Code of Conduct Team is involved in the incident, that member agrees to recuse themselves from the evaluation, and the further communications will not include that member. 
 
 ## Appeal process
-To appeal a decision of the Code of Conduct Committee, contact the IIIF Coordinating Committee at <iiif-cocommittee@googlegroups.com> with your appeal and the committee members will review the case. If there is a potential conflict of interest, parties will be asked to recuse themselves.
+To appeal a decision of the Code of Conduct Team, contact the Chair of the IIIF-C Executive Committee. The Chair will then bring the report for adjudication by the IIIF-C Operating Committee. If there is a potential conflict of interest, parties will be asked to recuse themselves.
 
 ## Acknowledgements
 The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), [Django](https://www.djangoproject.com/conduct/), [the Digital Library Federation (DLF)](https://www.diglib.org/about/code-of-conduct/), [Islandora](https://www.islandora.ca/code-of-conduct), [Samvera](https://wiki.duraspace.org/display/samvera/Code+of+Conduct), and [DuraSpace](https://duraspace.org/about/policies/code-of-conduct/#:~:text=All%20communication%20will%20be%20treated,exclusionary%20behavior%20in%20any%20form.).
 
- _This work is licensed under a Creative Commons Attribution 4.0 International License._
+ _This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]._
 
 <hr>
 
@@ -93,6 +93,7 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 
 | Date       | Description                                                         |
 | ---------- | ------------------------------------------------------------------- |
+| 2025-03-13 | Update after discussions with Coco. |
 | 2022-03-09 | Update to refer to IIIF staff plus advisors from CoCo as comprising code of conduct team |
 | 2020-11-16 | Refreshed the code: simplified language, clarified ideals and unacceptable behaviors, and updated committee members.
 | 2020-02-24 | Adding Meg to the list of members. |
@@ -119,3 +120,4 @@ The IIIF Code of Conduct is modeled on examples from [Contributor Covenant](http
 [ed-process]: {{ site.root_url | absolute_url }}/community/policy/editorial/
 [design-patterns]: {{ site.api_url | absolute_url }}annex/notes/design_patterns/
 [coco]: {{ site.root_url | absolute_url }}/community/coordinating-committee/
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
