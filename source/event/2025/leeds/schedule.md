@@ -25,7 +25,7 @@ Conference:
  * [Birds of a feather sessions - Thursday, June 5th](../bof/)
 
 Showcase:
- * Monday, June 2nd
+ * [Monday, June 2nd](../showcase)
    * Showcase Sessions, 1:00pm - 3:15pm
    * Hands-on with IIIF Workshop, 3:30pm - 5:00pm
 
