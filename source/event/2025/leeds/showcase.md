@@ -1,5 +1,5 @@
 ---
-title: "IIIF Showcase - Monday, June 2nd"
+title: "IIIF Showcase"
 layout: spec
 page: overview
 banner: true 
