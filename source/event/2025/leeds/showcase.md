@@ -35,7 +35,7 @@ Come join us for an afternoon that will educate, inspire, and reinvent your tech
 
 The IIIF Showcase is an event for people new to IIIF to get an overview and discover the latest developments in a single event. It assumes no previous experience with IIIF and will cover the full gamut of IIIF from the basics to Showcases of the latest developments in the IIIF Community.
 
-### Location: 
+### Location: [Cloth Hall Court](https://www.google.com/maps?cid=12127083503648639179)
 <table class="api-table">
     <thead>
         <tr>
