@@ -55,6 +55,9 @@ In order to foster a conference environment that better reflects the diversity o
 
 The conference will run between the Tuesday the 3th of June to Thursday the 5th of June. There will also be a showcase for people new to IIIF on Monday the 2nd of June.
 
+Showcase:
+ * [Agenda](showcase/)
+
 [Conference](schedule/):
  * [Day 1 - Tuesday, June 3th](day1-tuesday/)
    * Conference Reception
