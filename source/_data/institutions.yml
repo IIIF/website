@@ -358,6 +358,10 @@
   iiifc:
 - name: Synaptica
   uri: http://www.synaptica.com/
+- name: Systemik Solutions
+  uri: https://systemiksolutions.com/
+  iiifc: 4
+  logo: 
 - name: Texas A&amp;M Libraries
   uri: https://library.tamu.edu/
   iiifc: 3
