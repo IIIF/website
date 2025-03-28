@@ -260,6 +260,10 @@
 #- name: National Library of Egypt
 # uri: http://www.darelkotob.gov.eg/index.html
 #  iiifc:
+- name: National Library of Finland
+  uri: https://www.kansalliskirjasto.fi/
+  iiifc: 3
+  logo: assets/uploads/logos/finland.png
 - name: National Library of Israel
   uri: http://www.nli.org.il
   iiifc: 4
