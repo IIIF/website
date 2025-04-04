@@ -12,7 +12,7 @@ The International Image Interoperability Framework (IIIF) conference offers an e
 The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small Universities, Libraries, Archives and Museums, including: collection managers, software developers, UX researchers, subject matter experts, and more. We expect 250-300 attendees keen to learn about IIIF and associated projects, technologies, and best practices.
 
 
-### **Platinum Sponsor - $6,500 (1 available)**
+### **~~Platinum Sponsor - $6,500~~ SOLD OUT**
 
 * Named Sponsor of the Conference Reception at the Leeds Art Gallery
 * 2 conference registrations
@@ -21,7 +21,7 @@ The annual IIIF conference attracts a diverse range of participants interested i
 program
 
 
-### **Gold - $3,000**
+### **~~Gold - $3,000~~ SOLD OUT**
 
 * 2 conference registrations
 * Exhibition table in Conference and Showcase spaces
