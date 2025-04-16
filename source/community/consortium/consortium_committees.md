@@ -31,7 +31,7 @@ Current Executive Committee institutions are:
 {% endfor %}
 
 Committee Chair: Tom Cramer, Stanford University Libraries  
-Vice-chair: Vacant  
+Vice-chair: Rebecca Hirsch, The University of Edinburgh  
 Treasurer: Neil Fitzgerald, The British Library  
 
 --- 
