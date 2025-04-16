@@ -63,7 +63,7 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         <tr>
             <td>1:05pm - 1:20pm</td>
             <td>Archives Hub</td>
-            <td>JISC</td>
+            <td>Peter Findlay, JISC</td>
         </tr>
         <tr>
             <td>1:20pm - 2:00pm</td>

@@ -77,7 +77,7 @@ The Birds of a Feather sessions will be held at the [Brotherton Library][brother
         <td id="block-bof-2-129"><a href="#129">BoaF: Lessons Learned at Leeds: Educators Share Out</a></td>
         <td id="block-bof-2-164"><a href="#164">Community Session: Prezi 4.0 Feedback</a></td>
         <td id="block-bof-2-108"><a href="#108">BoaF: HTR + IIIF: Sharing Experiences and Best Practices</a></td>
-        <td id=""></td>
+        <td id="block-bof-2-168"><a href="#168">Getting started with Allmaps</a></td>
     </tr>
 </table>
 
