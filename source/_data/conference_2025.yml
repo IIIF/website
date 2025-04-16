@@ -118,30 +118,32 @@
     start: '11:00 '
     title: Replumbing IIIF at the Huntington
     type: Presentation
-  - abstract: "Glycerine Workbench provides a suite of annotation tools and end-to-end\
-      \ workflows for researchers, curators and students to collaborate on projects\
-      \ across repositories. Glycerine provides a comprehensive implementation framework\
-      \ for integration with institutional digital asset management and content management\
-      \ systems. Through integration with institutional API\u2019s and import of TEI\
-      \ files, Glycerine supports scalable development of collections.<br/><br/>The\
-      \ development and adoption of IIIF complaint Image AI annotation pipelines presents\
-      \ an opportunity for radical scalability in the annotation of images. A missing\
-      \ component has been the workflows for scholarly and professional emendation\
-      \ of annotations. Glycerine Workbench has integrated an open-source Image AI\
-      \ IIIF annotation pipeline to support productive, iterative and scalable workflows\
-      \ for the training of AI models and the assisted automation of image segmentation,\
-      \ segment captioning, and semantic tagging of images segments with domain specific\
-      \ scholarly vocabularies. The architecture adopted encompasses collaboration\
-      \ with the IIIF community on open-source API\u2019s and methods for the iterative\
-      \ training of Image AI models and deployment of those API\u2019s from within\
-      \ Glycerine Workbench collaboration workflows.<br/><br/>"
+  - abstract: "Glycerine is uniquely positioned in the IIIF eco-system as a specialist \
+              \ platform for scholarly annotation publishing. It combines sophisticated \
+              \ collaboration and engagement features with elegant presentation values. \
+              \ Glycerine modules have been engineered from the ground up as an institutional \
+              \ implementation framework for integration with existing infrastructure and workflows.<br/><br/>\
+              \ Glycerine Workbench provides tools and end-to-end workflows for collaborative \
+              \ scholarly annotation. Glycerine Viewer provides a gallery-level publishing \
+              \ experience for image collections.<br/><br/> \
+              \ Glycerine supports seamless integration into an organisation’s infrastructure. \
+              \ Glycerine Server provides the back-end model for integration with enterprise \
+              \ digital asset management (DAM). Glycerine Editor is embedded in a content \
+              \ management system (CMS) to support curatorial & research workflows.<br/><br/>\
+              \ Institutions may integrate Glycerine Server with their institutional DAM system, \
+              \ either leveraging existing IIIF support or implementing Glycerine Image Server. \
+              \ Organizations can devise their own curatorial and editorial workflows using their \
+              \ existing DAM or CMS infrastructure. By integrating Glycerine Editor into these \
+              \ workflows, the full suite of annotation editing features are enabled. Glycerine \
+              \ Viewer can be embedded in the institutional CMS and themed for engaging and \
+              \ immersive display."
     authors:
     - name: Ian MCCRABB
       org: Systemik Solutions, Australia
     end: '11:30 '
     id: '163'
     start: '11:15 '
-    title: Glycerine Image AI Integration
+    title: Glycerine Institutional Integration
     type: Presentation
   start: '10:45'
   type: presentations
@@ -955,6 +957,15 @@
     start: '04:05 '
     title: More ways to integrate and share with IIIF APIs
     type: Lightning talk
+  - abstract: 
+    authors:
+    - name: Matías Butelman
+      org: Colegio Nacional de Buenos Aires, Bibliohack.org
+    end: '04:19 '
+    id: '133x'
+    start: '04:12 '
+    title: Building Sustainable Digital Heritage Infrastructure in the Global South
+    type: Lightning talk
   start: '15:30'
   type: lightning
 '7':
@@ -1142,6 +1153,21 @@
     start: '09:30 '
     title: What IIIF? Lessons Learned from the Digital Livonia Project
     type: Presentation
+  - abstract: "\"Flitting\" is a Scottish word for moving house, and given the long relationship Edinburgh \
+              has had with Luna Imaging, it feels appropriate. We&#39;d like to tell the story of our move to a \
+              new Digital Collections platform- in this case the Archipelago repository- and all of the work \
+              that needs to be done to get there. It may give some tips to others looking to do the same, \
+              or promote discussion as to how we could have done it better."
+    authors:
+    - name: Scott Renton
+      org: University of Edinburgh
+    - name: Lucy Pennington
+      org: University of Edinburgh
+    end: '10:00 '
+    id: '166'
+    start: '09:45 '
+    title: '"Flitting" the Digital Collections overhaul at Edinburgh'
+    type: Presentation  
   start: '9:00'
   type: presentations
 '9':
@@ -1495,5 +1521,26 @@ bof-2:
     start: '1:30'
     title: 'Community Session: Prezi 4.0 Feedback'
     type: Birds of a Feather
+  - abstract: Are you interested in IIIF and maps? <br/><br/>Join this workshop to get to know 
+      the Allmaps ecosystem and georeference your first map! Participants will be introduced
+      to the different parts of Allmaps, and guided through the process of georeferencing 
+      step by step, while drawing attention to the underlying open data models. We start by 
+      locating a cartographic resource in a IIIF-compatible repository. This resource is 
+      opened in Allmaps Editor, a graphical user interface to create a Georeference 
+      Annotation–an official extension to the IIIF APIs. Allmaps Viewer is used to open the 
+      annotation and overlay the resource on a contemporary map. Finally, we look at other 
+      options for further analyzing, comparing and annotating maps, and discuss the future 
+      plans for the Allmaps ecosystem. The workshop is also open to advanced users who would 
+      like to explore other parts of Allmaps, such as the Command Line Interface. 
+    authors:
+    - name: Jules Schoonman
+      org: TU Delft
+    - name: Bert Spaan
+      org: Allmaps
+    end: '3:30'
+    id: '168'
+    start: '1:30'
+    title: 'Getting started with Allmaps'
+    type: Workshop
   start: '1:30'
   type: bof
