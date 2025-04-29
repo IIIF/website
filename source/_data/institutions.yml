@@ -88,12 +88,12 @@
   uri: https://www.dasch.swiss/
   iiifc: 2
   logo: assets/uploads/logos/DaSCH_full_name_coloured.png
-- name: DB Ecosensystem
-  uri: 
+# - name: DB Ecosensystem
+#  uri: 
+#  iiifc: 
+- name: DB Seret
+  uri: http://www.dbseret.com/
   iiifc: 4
-# - name: DB Seret
-  # uri: http://www.dbseret.com/
-  # iiifc: 
 # - name: Data Futures Project (University of Westminster)
 #   uri: https://www.data-futures.org/
 #   iiifc: 2
