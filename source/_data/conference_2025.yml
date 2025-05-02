@@ -255,23 +255,32 @@
   id: '12'
   session_time: 'Wednesday, June 4th: 1:00pm - 1:45pm'
   sessions:
-  - abstract: Universities face challenges with presenting 3D content because of the
-      fact that presenting 3D models is more difficult than 2D images since these
-      models need specialized software and hardware to render and show them. Furthermore,
-      hosting and presenting 3D content can be expensive, making it impractical for
-      universities with little funding. However, when universities team up with the
-      IIIF Community Group, together they can develop standards and best practices
-      for 3D interoperability with the goal of making 3D content as easily shareable
-      and accessible as 2D images. This is not only beneficial for educational experiences
-      but also contributes to the overall objectives of digital preservation and access.
+  - abstract: Facilitation of access to information enhances knowledge not just on the content but on
+      uploading images for repackaging of information resources. An image adorns an article in ways
+      that appeal and excite for seemingly non-forgettable memory. Observation shows that stories and
+      texts may be wavering over loss of validation but a photo is usually etched in the mind, showing
+      up with vivid details. These are the values images add to create more appeal for articles, stories,
+      presentations, teaching and reporting. The saying that a picture speaks a thousand words proves
+      this relevance and emphasizes the need for the knowledge and skills with IIF to enhance library
+      and information service delivery. Hence, library professionals get involved and build their
+      databases with images to create spaces for improving articles. This article highlights the
+      awareness creation, use of images and the skills in repackaging resources like oral tradition,
+      cultural heritage and other information resources. The acknowledged the importance of images
+      in attracting attention to articles. Some of them participants in this engagement included the
+      students, librarians and community members. All the participants are not new to image uploads
+      as they are Wikimedians and regularly upload images to Wikicommons. The added skill and
+      knowledge of IIIF will enhance more uploads and increase the number of contributors in IIIF
+      spaces. Therefore there is a need for collaboration, training, free knowledge and learning on
+      working on IIIF platform for more contribution on the upload of images.
     authors:
-    - name: Irina Schmid
-      org: AUC, Egypt
+    - name: Ngozi Perpetua Osuchukwu
+      org: Nnamdi Azikiwe University, Awka, Nigeria
+    - name: Ebele Anyaoku
+      org: University of Abuja, Nigeria
     end: '01:07 '
     id: '148'
     start: '01:00 '
-    title: 'What would we like IIIF to be?: Visualizing IIIF in 3D teaching and learning
-      context'
+    title: 'Image effect: Enhancing information repackaging and resources'
     type: Lightning talk
   - abstract: 3D data is more and more a common part of archaeological datasets. Hence,
       3D technologies should be integrated into the curricula to make archaeology
@@ -1503,8 +1512,11 @@ bof-2:
       org: University of Leeds, United Kingdom
     - name: Karen Abel
       org: University of Leeds, United Kingdom
-    - name: Christopher Gilman
+    - name: Kivilcim Yavuz
       org: University of Leeds, United Kingdom
+    - name: Christopher Gilman
+      org: University of California, Los Angeles
+
     end: '3:30'
     id: '129'
     start: '1:30'
