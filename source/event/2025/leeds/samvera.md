@@ -18,5 +18,5 @@ The Samvera Community is a global community of practice where library and techno
 
 The Samvera Europe community will hold its annual meeting at the University of Leeds in conjunction with the 2025 Annual IIIF Conference.  The meeting will showcase recent developments amongst European members of the Samvera Community as well as encompass discussion on topics of key current interest: a programme will follow. There is no charge for the meeting and all are welcome. The Samvera Community is grateful to the University of Leeds for their support in hosting the meeting.
 
-Registration is free of charge. Please complete the form at [https://forms.gle/JKfXDHoV6TRey93G9](https://forms.gle/JKfXDHoV6TRey93G9).
+**Registration is free of charge. Please complete the form at [https://forms.gle/JKfXDHoV6TRey93G9](https://forms.gle/JKfXDHoV6TRey93G9).**
 
