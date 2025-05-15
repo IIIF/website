@@ -964,7 +964,17 @@
     start: '04:05 '
     title: More ways to integrate and share with IIIF APIs
     type: Lightning talk
-  - abstract: 
+  - abstract: High-priced commercial scanners keep most Latin-American collections 
+     locked to paper. Over the past decade, Bibliohack has developed devices built from 
+     laser-cut plywood, consumer cameras, and free software—transforming basic materials 
+     into preservation-grade images. Our work with cultural institutions through open 
+     source development proved that cost is only the first obstacle - when specialized 
+     expertise leaves the organisation, digitization stops. This talk traces the journey 
+     from first prototype to "expertise lock-in" and presents a next-step vision - flat-pack, 
+     modular scanners whose construction, maintenance, and workflows are open by design. 
+     By embedding knowledge in the hardware—just as open standards embed it in software—we 
+     can turn the physical-to-digital boundary from a barrier into a common gateway for 
+     cultural heritage worldwide.
     authors:
     - name: Matías Butelman
       org: Colegio Nacional de Buenos Aires, Bibliohack.org
