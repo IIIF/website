@@ -14,8 +14,6 @@ breadcrumbs:
 
 ## 2025 IIIF Annual Conference Showcase
 
-{: class="alert"}
-[Registration open now!][registration]
 
 On Monday, June 2nd, Leeds University will host a special IIIF Showcase to introduce newcomers to IIIF.
 
