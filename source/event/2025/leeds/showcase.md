@@ -52,8 +52,8 @@ The IIIF Showcase is an event for people new to IIIF to get an overview and disc
         </tr>
         <tr>
             <td>12:30pm - 12:50pm</td>
-            <td>Toward Digital Collections</td>
-            <td>Javier Pereda, Toward a National Collection</td>
+            <td>Designing a National Research Infrastructure for Cultural Heritage</td>
+            <td>Javier Pereda, Towards a National Collection</td>
         </tr>
         <tr>
             <td>12:50pm - 1:05pm</td>

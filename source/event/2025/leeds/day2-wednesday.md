@@ -155,8 +155,8 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     </tr> 
     <tr>
         <td>4:12 - 4:19</td>
-        <td>Scholarship Lightning talk 2</td>
-        <td></td>
+        <td>SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF</td>
+        <td>Matthew Yang, New York University</td>
     </tr> 
     <tr>
         <td>4:19 - 4:35</td>
