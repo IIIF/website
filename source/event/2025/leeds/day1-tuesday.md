@@ -55,7 +55,7 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <tr>
         <td>9:00 - 9:45</td>
         <td>Welcome & Plenary</td>
-        <td>Masud Khokar, IIIF Staff, 3D Group</td>
+        <td>Masud Khokhar, IIIF Staff, 3D Group</td>
     </tr>    
     {% include conference_table_row.html datafile=site.data.conference_2025 block="1"  %}
     <tr>
