@@ -42,7 +42,7 @@ The Birds of a Feather sessions will be held at the [Brotherton Library][brother
         <tr>
             <th>Room</th>
             <th>Bedford Room</th>
-            <th>Sheppard Room</th>
+            <th>Treasures of Brotherton</th>
             <th>Conference Room</th>
             <th>Level 13, Room 2</th>
             <th>Level 13, Room 1</th>
@@ -65,7 +65,7 @@ The Birds of a Feather sessions will be held at the [Brotherton Library][brother
         <tr>
             <th>Room</th>
             <th>Bedford Room</th>
-            <th>Sheppard Room</th>
+            <th>Treasures of Brotherton</th>
             <th>Conference Room</th>
             <th>Level 13, Room 2</th>
             <th>Level 13, Room 1</th>
