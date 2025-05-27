@@ -151,15 +151,20 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <tr>
         <td>4:05 - 4:12</td>
         <td>SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF</td>
-        <td>Matthew Yang, New York University</td></td>
+        <td>Matthew Yang, New York University</td>
     </tr> 
     <tr>
-        <td>4:12 - 4:35</td>
-         <td>Q & A</td>
+        <td>4:12 - 4:19</td>
+        <td>SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF</td>
+        <td>Matthew Yang, New York University</td>
+    </tr> 
+    <tr>
+        <td>4:19 - 4:35</td>
+        <td>Q & A</td>
         <td></td>
     </tr> 
     <tr>
-        <td>4:35 - 4:45</td>
+        <td>4:35 - 4:40</td>
         <td>Wrap-up</td>
         <td>IIIF Consortium Staff</td>
     </tr>  
