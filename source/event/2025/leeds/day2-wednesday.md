@@ -150,8 +150,8 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     {% include conference_table_row.html datafile=site.data.conference_2025 block="14"  %}    
     <tr>
         <td>4:05 - 4:12</td>
-        <td>Image effect: Enhancing information repackaging and resources</td>
-        <td>Ngozi Perpetua Osuchukwu, Nnamdi Azikiwe University Awka</td>
+        <td>SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF</td>
+        <td>Matthew Yang, New York University</td>
     </tr> 
     <tr>
         <td>4:12 - 4:19</td>
