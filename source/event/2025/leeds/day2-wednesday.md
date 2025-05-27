@@ -48,8 +48,8 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <thead>
         <tr>
             <th>Time</th>
-            <th colspan="2">Track 1</th>
-            <th colspan="2">Track 2</th>
+            <th colspan="2">Track 1 - Herringbone Room</th>
+            <th colspan="2">Track 2 - Tweed Room</th>
         </tr>
         <tr>
             <th></th>
@@ -78,8 +78,8 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <thead>
         <tr>
             <th>Time</th>
-            <th colspan="2">Track 1</th>
-            <th colspan="2">Track 2</th>
+            <th colspan="2">Track 1 - Herringbone Room</th>
+            <th colspan="2">Track 2 - Tweed Room</th>
         </tr>
         <tr>
             <th></th>
@@ -100,8 +100,7 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <thead>
         <tr>
             <th>Time</th>
-            <th colspan="2">Track 1</th>
-            <th colspan="2">Track 2</th>
+            <th colspan="4">Herringbone Room</th>
         </tr>
         <tr>
             <th>&nbsp;</th>
@@ -148,11 +147,6 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
         </tr>
     </thead> 
     {% include conference_table_row.html datafile=site.data.conference_2025 block="14"  %}    
-    <tr>
-        <td>4:05 - 4:12</td>
-        <td>SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF</td>
-        <td>Matthew Yang, New York University</td>
-    </tr> 
     <tr>
         <td>4:12 - 4:30</td>
         <td>Q & A</td>

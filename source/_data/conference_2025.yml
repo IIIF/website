@@ -524,6 +524,15 @@
     start: '03:51 '
     title: Managing IIIF Annotations in a Digital Library Environment
     type: Lightning talk
+  - abstract: 
+    authors:
+    - name: Matthew Yang
+      org: New York University, United States
+    end: '4:05 '
+    id: '146'
+    start: '3:58 '
+    title: 'SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF'
+    type: Lightning talk
   - abstract: A whistlestop tour of all the FUN things you can do with your friendly
       international operability framework for images, time-based media and whathaveyou.
     authors:
