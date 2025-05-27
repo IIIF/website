@@ -48,8 +48,8 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <thead>
         <tr>
             <th>Time</th>
-            <th colspan="2">Track 1</th>
-            <th colspan="2">Track 2</th>
+            <th colspan="2">Track 1 - Herringbone Room</th>
+            <th colspan="2">Track 2 - Tweed Room</th>
         </tr>
         <tr>
             <th></th>
@@ -150,21 +150,16 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     {% include conference_table_row.html datafile=site.data.conference_2025 block="14"  %}    
     <tr>
         <td>4:05 - 4:12</td>
-        <td>Image effect: Enhancing information repackaging and resources</td>
-        <td>Ngozi Perpetua Osuchukwu, Nnamdi Azikiwe University Awka</td>
-    </tr> 
-    <tr>
-        <td>4:12 - 4:19</td>
         <td>SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF</td>
-        <td>Matthew Yang, New York University</td>
+        <td>Matthew Yang, New York University</td></td>
     </tr> 
     <tr>
-        <td>4:19 - 4:35</td>
-        <td>Q & A</td>
+        <td>4:12 - 4:35</td>
+         <td>Q & A</td>
         <td></td>
     </tr> 
     <tr>
-        <td>4:35 - 4:40</td>
+        <td>4:35 - 4:45</td>
         <td>Wrap-up</td>
         <td>IIIF Consortium Staff</td>
     </tr>  
