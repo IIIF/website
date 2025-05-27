@@ -48,8 +48,8 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <thead>
         <tr>
             <th>Time</th>
-            <th colspan="2">Track 1</th>
-            <th colspan="2">Track 2</th>
+            <th colspan="2">Track 1 - Herringbone Room</th>
+            <th colspan="2">Track 2 - Tweed Room</th>
         </tr>
         <tr>
             <th></th>
@@ -78,8 +78,8 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <thead>
         <tr>
             <th>Time</th>
-            <th colspan="2">Track 1</th>
-            <th colspan="2">Track 2</th>
+            <th colspan="2">Track 1 - Herringbone Room</th>
+            <th colspan="2">Track 2 - Tweed Room</th>
         </tr>
         <tr>
             <th></th>
@@ -100,8 +100,7 @@ The conference will take place in [Cloth Hall Court](https://maps.app.goo.gl/uik
     <thead>
         <tr>
             <th>Time</th>
-            <th colspan="2">Track 1</th>
-            <th colspan="2">Track 2</th>
+            <th colspan="4">Herringbone Room</th>
         </tr>
         <tr>
             <th>&nbsp;</th>
