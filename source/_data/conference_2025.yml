@@ -564,15 +564,12 @@
       challenges, infrastructure requirements, and lessons learned from integrating
       HTR pipelines into existing publication workflows.<br/><br/>
     authors:
-    - name: "Linn\xE9a Karlberg Lundin"
-      org: The Swedish National Archives
-    - name: David Haskiya
-      org: The Swedish National Archives
+    - name: "Julie Winchester"
+      org: MorphoSource
     end: '11:15 '
     id: '111'
     start: '11:00 '
-    title: 'From handwriting to searchable text: making archives accessible with HTR,
-      IIIF and the Universal Viewer'
+    title: 'MorphoSource 3D Data Repository: Investing in IIIF 4 to Create Interoperable 3D on the Web.'
     type: Presentation
   - abstract: The University Library of Bern provides a IIIF service with a server
       infrastructure supporting Image and Presentation API (v2.1 & v3), a self-upload
@@ -814,33 +811,20 @@
     start: '02:15 '
     title: 'Self-managed heritage: giving citizens the tools to build their own curations'
     type: Presentation
-  - abstract: "A portal for western medieval and early modern manuscripts in German\
-      \ collections: the collaborative project\u2019s current second phase sees the\
-      \ four developing partner libraries opening the Handschriftenportal data to\
-      \ scientific discourse.<br/><br/>Users can annotate IIIF-based digital images,\
-      \ scientific manuscript descriptions as well as the \u201Cmanuscript object\u201D\
-      \ itself \u2013 privately, shared with specific other users or published, citable\
-      \ by PURLs as micro publications. For use e.g. in teaching contexts, shared\
-      \ workspaces allow real-time collaboration.<br/><br/>Published annotations go\
-      \ full circle: Consisting of text and structured metadata, they are indexed\
-      \ into the discovery system to drive search and filter functionalities. Thus,\
-      \ user-generated content becomes a source of information equal to data imported\
-      \ by editorial staff. As published annotations themselves are annotatable again,\
-      \ a scientific discourse is possible directly at data level.<br/><br/>150,000\
-      \ manuscripts, 250 institutions, 25,000 IIIF manifests \u2013 and still growing.\
-      \ Those ambitious numbers are at once the portal\u2019s biggest advantage and\
-      \ biggest challenge. In addition to discussing annotation use cases, features\
-      \ and workflows, the talk will give insights into the lessons learned within\
-      \ a project trying to integrate data from over 50 IIIF repositories \u2013 and\
-      \ raise the question of persistency of annotated objects not held within the\
-      \ own domain."
+  - abstract: "The International Image Interoperability Framework (IIIF) has revolutionized\ 
+      \ the accessibility and usability of digital cultural heritage, enabling cross-institutional\ 
+      \ collaboration and creating opportunities for innovative scholarship. However, the effectiveness\ 
+      \ of IIIF services depends on the quality and consistency of their technical implementations.\ 
+      \ This talk will explore the foundational importance of stable identifiers in IIIF, emphasizing\ 
+      \ their role as immutable anchors in the ecosystem of linked data and further technical and\ 
+      \ data-related aspects of IIIF implementations."
     authors:
     - name: Leander Seige
-      org: Leipzig University Library, Germany
+      org: seige.digital GbR
     end: '02:45 '
     id: '149'
     start: '02:30 '
-    title: Reliable IIIF infrastructure and truly persistent identifiers as the basis for sustainable research environments such as the Handschriftenportal
+    title: The Backbone of Knowledge-The Critical Role of Reliable IIIF Implementations
     type: Presentation
   start: '14:00'
   type: presentations
