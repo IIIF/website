@@ -24,7 +24,7 @@ The following services offer cloud-based hosting of assets; all provide support 
 
 If you don't have the time or resources to build your own IIIF infrastructure, you can still implement IIIF for your collections by using products that already support IIIF.
 
- - [Atlantis Collectiebeheer](https://www.atlantis-erfgoed.nl/collectiebeheer/)
+ - [Atlantis Collectiebeheer](https://www.atlantis-erfgoed.nl/collectiebeheer)
  - [Avalon Media System](https://www.avalonmediasystem.org/)
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
  - [Archipelago](https://archipelago.nyc/)
