@@ -1,7 +1,7 @@
 ---
 title: Looking Back on One Year at the IIIF-C, Reflections from Managing Director Martin Kalfatovic 
 author: Martin Kalfatovic
-date: 2027-07-07
+date: 2025-07-07
 tags: [news, announcements]
 layout: post
 excerpt: >
