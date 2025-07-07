@@ -1,5 +1,5 @@
 ---
-title: Looking Back on One Year at the IIIF-C
+title: Looking Back on One Year at the IIIF-C, Reflections from Managing Director Martin Kalfatovic 
 author: Martin Kalfatovic
 date: 2027-07-07
 tags: [news, announcements]
@@ -8,13 +8,11 @@ excerpt: >
   Reflections from Managing Director Martin Kalfatovic 
 ---
 
-### Looking Back on One Year at the IIIF-C: Reflections from Managing Director Martin Kalfatovic 
-
 This week marks my first year as Managing Director for the IIIF Consortium. It’s been a busy year and full of notable events. The first of these that I’d like to call out is the most recent, the [2025 Annual Meeting and Showcase](https://iiif.io/event/2025/leeds/) (2-5 June 2025) held at the University of Leeds (United Kingdom). Thanks to the great work by our partners at the University (led by Claire Knowles and Karen Able) and the coordination and planning by Caitlin Perry and Glen Robson to ensure a successful conference. With nearly 200 attendees for the Conference and an additional 143 for the Showcase representing 23 countries, it was one of the best attended conferences to date.
 
 The Conference also saw the [soft launch of the IIIF specification for 3D](https://www.youtube.com/watch?v=Am5mbbt--bM&t=1087s) -- more to come on that in 2026!
 
-During the week of 12-14 November 2024, I was also able to participate in the[ IIIF Online Meeting](https://iiif.io/event/2024/online-meeting/) which provided an opportunity to the nearly 500 IIIF community members to engage virtually.
+During the week of 12-14 November 2024, I was also able to participate in the [IIIF Online Meeting](https://iiif.io/event/2024/online-meeting/) which provided an opportunity to the nearly 500 IIIF community members to engage virtually.
 
 **Out in the Community**
 
