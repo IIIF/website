@@ -1,33 +1,3 @@
-
-- label: "IIIF Online Training March 2025 (5 Day course)"
-  time:
-    start: 2025-03-31T17:00:00Z
-    end: 2025-04-04T17:00:00Z
-  links:
-    - label: More info & registration
-      link: "https://www.eventbrite.com/e/march-2025-iiif-online-training-5-day-course-tickets-1140969814429"
-  location:
-    label: "Online"
-- label: "IIIF Online Training May 2025 (5 Day course)"
-  time:
-    start: 2025-05-19T14:00:00Z
-    end: 2025-05-23T14:00:00Z
-  links:
-    - label: More info & registration
-      link: "https://www.eventbrite.com/e/may-2025-iiif-online-training-5-day-course-tickets-1144088703109"
-  location:
-    label: "Online"
-- label: IIIF Annual Conference & Showcase 2025
-  time:
-    start: 2025-06-02T06:00:00Z
-    end: 2025-06-05T23:00:00Z
-  links:
-    - label: More info
-      link: "/event/2025/leeds/"
-    # - label: Travel info
-    #   link: "/event/2023/naples/travel"
-  location: 
-    label: "Leeds, England, UK"    
 - label: "IIIF Online Training September 2025 (5 Day course)"
   time:
     start: 2025-09-29T17:00:00Z
@@ -37,12 +7,24 @@
       link: "https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079"
   location:
     label: "Online"
-#- label: "IIIF Online Training November 2025 (5 Day course)"
-#  time:
-#    start: 2025-11-24T10:00:00Z
-#    end: 2025-11-28T10:00:00Z
-#  links:
-#    - label: More info & registration
-#      link: "https://www.eventbrite.com/e/november-2025-iiif-online-training-5-day-course-tickets-1144090127369"
-#  location:
-#    label: "Online"    
+- label: "IIIF Online Training November 2025 (5 Day course)"
+  time:
+    start: 2025-11-24T10:00:00Z
+    end: 2025-11-28T10:00:00Z
+  links:
+    - label: More info & registration
+      link: "https://www.eventbrite.com/e/november-2025-iiif-online-training-5-day-course-tickets-1144090127369"
+  location:
+    label: "Online"    
+- label: "IIIF online meeting"
+  time:
+    start: 2026-01-27T10:00:00Z
+    end: 2026-01-29T10:00:00Z
+  location:
+    label: "Online"    
+- label: IIIF Annual Conference & Showcase 2026
+  time:
+    start: 2026-06-02T06:00:00Z
+    end: 2026-06-05T23:00:00Z
+  location: 
+    label: "Netherlands"  
