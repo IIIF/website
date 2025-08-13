@@ -90,12 +90,12 @@
   link: /community/groups/museums 
   type: community 
   notes: https://drive.google.com/drive/folders/0B9EeoRu2zWerLXhfMm9abGFxbTg?resourcekey=0-fsM1GLwObMrueeXyuw9kVg 
-  meeting_frequency: Monthly on the third Monday
+  meeting_frequency: Monthly on the fourth Monday
 - id: outreach 
-  label: Outreach 
+  label: Ambassadors 
   alternate_names: 
-    - IIIF Outreach Community Group 
-  description: The Outreach group guides IIIF efforts and goals related to the presentation of IIIF to the public.
+    - IIIF Ambassadors Group 
+  description: The Ambassadors group guides IIIF efforts and goals related to the presentation of IIIF to the public.
   link: /community/groups/outreach 
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw 
