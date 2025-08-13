@@ -1,5 +1,5 @@
 ---
-title: "IIIF Outreach Community Group"
+title: "IIIF Ambassadors Group"
 layout: page
 breadcrumbs:
  - label: "Get Involved"
@@ -12,7 +12,7 @@ breadcrumbs:
 
 ## About
 
-The IIIF Outreach Group is a standing committee with representatives from across the IIIF community, dedicated to guiding IIIF outreach efforts and goals related to the presentation of IIIF to the public.
+The IIIF Ambassadors Group is a standing committee with representatives from across the IIIF community, dedicated to guiding IIIF outreach efforts and goals related to the presentation of IIIF to the public.
 
 ## Goals
 
@@ -27,7 +27,7 @@ The Group's primary responsibilities are in the following areas:
 6. Identify areas for IIIF adoption, including commercial outreach, potential IIIF-related collaborations, grants, and projects, and potential IIIF Consortium members
 7. Creating [a framework to support IIIF translations][iiif-translation] of key collateral
 
-While the Outreach Group is ultimately responsible for pursuing and executing outreach opportunities as listed above, input from the wider IIIF community is welcome and may be considered by the Group.
+While the Ambassadors Group is ultimately responsible for pursuing and executing outreach opportunities as listed above, input from the wider IIIF community is welcome and may be considered by the Group.
 
 
 ## Organization
@@ -42,18 +42,18 @@ While the Outreach Group is ultimately responsible for pursuing and executing ou
 
   * Calls on the last Tuesday of every month at 11:00am Eastern - see [IIIF Community Calendar][iiif-calendar] for details
   * Virtual meetings announced on the [IIIF-Discuss][iiif-discuss] email list
-  * General discussion on the [# outreach IIIF Slack channel][outreach-slack] ([Join Slack][slack])
+  * General discussion on the [# ambassadors IIIF Slack channel][outreach-slack] ([Join Slack][slack])
 
 **Call notes and group documents:**
 
-  * [IIIF Outreach Community Group folder][outreach-folder]
+  * [IIIF Ambassadors Community Group folder][outreach-folder]
 
 **Call connection information:**
 
   * Online: [Zoom][zoom-link]
 
   [iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss "IIIF-Discuss Forum"
-  [outreach-slack]: https://iiif.slack.com/messages/outreach/details
+  [outreach-slack]: https://iiif.slack.com/messages/ambassadors/details
   [outreach-folder]: https://drive.google.com/drive/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw?
   [slack]: http://bit.ly/iiif-slack
   [iiif-website]: {{ site.root_url | absolute_url }}/
