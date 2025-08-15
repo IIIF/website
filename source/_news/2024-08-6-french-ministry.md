@@ -1,6 +1,6 @@
 ---
 title: IIIF Consortium Welcomes the French Ministry of Culture
-author: IIIF-C Staff
+author: Caitlin Perr
 date: 2024-08-6
 tags: [news, announcements]
 layout: post
