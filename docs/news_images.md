@@ -21,7 +21,7 @@ The things to change to use a different image are:
 The value of algn left will look as follows with the text being shown around the image:
 
 ```
-{% include content/image.html src="assets/images/news/2024-washington3d.png" alt="Image of 3d meeting in Washington" align="left"%}
+{% include content/image.html align="left" src="assets/images/news/2024-washington3d.png" alt="Image of 3d meeting in Washington" %}
 ```
 
 This will look as follows:
@@ -30,7 +30,7 @@ This will look as follows:
 
 Align right:
 ```
-{% include content/image.html src="assets/images/news/2024-washington3d.png" alt="Image of 3d meeting in Washington" align="right"%}
+{% include content/image.html align="right" src="assets/images/news/2024-washington3d.png" alt="Image of 3d meeting in Washington" %}
 ```
 
 This will look as follows:
@@ -45,4 +45,4 @@ If the align property is missing or empty then the image will default to the cen
 
 This will look as follows:
 
-![Demo showing image on the left with text bending around it.](align-centre.png)
+![Demo showing image on the left with text bending around it.](align-default.png)
