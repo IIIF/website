@@ -26,7 +26,7 @@ The value of algn left will look as follows with the text being shown around the
 
 This will look as follows:
 
-![Demo showing image on the left with text bending around it.](https://raw.githubusercontent.com/IIIF/website/blob/blog_prototype/docs/imgs/align-left.png)
+![Demo showing image on the left with text bending around it.](https://raw.githubusercontent.com/IIIF/website/blog_prototype/docs/imgs/align-left.png)
 
 Align right:
 ```
