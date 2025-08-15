@@ -45,4 +45,4 @@ If the align property is missing or empty then the image will default to the cen
 
 This will look as follows:
 
-![Demo showing image on the left with text bending around it.](align-default.png)
+![Demo showing image on the left with text bending around it.](imgs/align-default.png)
