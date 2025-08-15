@@ -1,6 +1,6 @@
 ---
 title: Online Conference recordings now available
-author: IIIF Consortium Staff
+author: Caitlin Perry
 date: 2022-12-12
 tags: [news, announcements]
 layout: post

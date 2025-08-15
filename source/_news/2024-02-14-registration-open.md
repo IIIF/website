@@ -1,6 +1,6 @@
 ---
 title: Registration Now Open - 2024 IIIF Annual Conference
-author: IIIF-C Staff
+author: Caitlin Perry
 date: 2024-02-14
 tags: [event, events]
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Operating Committee Election Results
-author: IIIF Consortium Staff
+author: Caitlin Perry
 date: 2025-02-25
 tags: [news, announcements]
 layout: post

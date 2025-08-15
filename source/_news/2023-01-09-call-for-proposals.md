@@ -1,6 +1,6 @@
 ---
 title: Now accepting proposals for the 2023 IIIF Annual Conference
-author: IIIF Consortium staff
+author: Caitlin Perry
 date: 2023-01-09
 tags: [announcements]
 layout: post

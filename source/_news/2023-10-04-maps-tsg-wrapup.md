@@ -1,6 +1,6 @@
 ---
 title: Maps TSG Has Completed Its Work
-author: IIIF-C Staff
+author: Glen Robson
 date: 2023-10-13
 tags: [news, announcements]
 layout: post
