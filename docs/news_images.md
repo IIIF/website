@@ -26,7 +26,7 @@ The value of algn left will look as follows with the text being shown around the
 
 This will look as follows:
 
-![Demo showing image on the left with text bending around it.](https://raw.githubusercontent.com/blob/blog_prototype/docs/imgs/align-left.png)
+![Demo showing image on the left with text bending around it.](https://raw.githubusercontent.com/IIIF/website/blob/blog_prototype/docs/imgs/align-left.png)
 
 Align right:
 ```
@@ -35,7 +35,7 @@ Align right:
 
 This will look as follows:
 
-![Demo showing image on the left with text bending around it.](https://raw.githubusercontent.com/blob/blog_prototype/docs/imgs/align_right.png)
+![Demo showing image on the left with text bending around it.](imgs/align_right.png)
 
 If the align property is missing or empty then the image will default to the centre:
 
@@ -45,4 +45,4 @@ If the align property is missing or empty then the image will default to the cen
 
 This will look as follows:
 
-![Demo showing image on the left with text bending around it.](https://raw.githubusercontent.com/blob/blog_prototype/docs/imgs/align_centre.png)
+![Demo showing image on the left with text bending around it.](align_centre.png)
