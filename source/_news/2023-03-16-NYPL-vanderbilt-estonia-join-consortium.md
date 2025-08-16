@@ -1,6 +1,6 @@
 ---
 title: NYPL, Vanderbilt, and the National Library of Estonia Join the IIIF Consortium 
-author: IIIF Consortium Staff
+author: Caitlin Perry
 date: 2023-03-16
 tags: [news, announcements]
 layout: post

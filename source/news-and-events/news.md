@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All News
+title: News
 permalink: /news/
 hero:
   image: "assets/uploads/nypl_5180606.webp"

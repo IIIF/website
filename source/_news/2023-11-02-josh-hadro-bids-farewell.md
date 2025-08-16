@@ -1,6 +1,6 @@
 ---
 title: Josh Hadro Bids Farewell as IIIF-C Managing Director
-author: IIIF-C Staff
+author: Caitlin Perry
 date: 2023-11-02
 tags: [news, announcements]
 layout: post

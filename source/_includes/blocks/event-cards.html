@@ -45,7 +45,7 @@
             return createNode(parentNode, "span", cssClasses);
         }
         function createNode(parentNode, tag, cssClasses) {
-            let div = document.createElement(tag);
+            var div = document.createElement(tag);
             div.className = cssClasses;
 
             parentNode.appendChild(div);
@@ -201,19 +201,19 @@
     <!-- Javascript -->
       <script>
         // sort out time elements to be timezone specific
-        let timeTags = document.getElementsByTagName("time");
+        var timeTags = document.getElementsByTagName("time");
         const options = Intl.DateTimeFormat().resolvedOptions();
         for (var i = 0; i < timeTags.length; i++) {
-            let time = timeTags[i];
+            var time = timeTags[i];
             if (time.dateTime && time.dateTime.includes("T")) {
-                let dateObj = new Date(time.dateTime);
+                var dateObj = new Date(time.dateTime);
                 time.innerHTML = dateObj.toLocaleString(options.locale, {timeZone: options.timeZone });
             }
         }
       </script>
       {% if include.type and include.type == 'community_call' %}
             <script>
-                let parent = document.currentScript.parentElement;
+                var parent = document.currentScript.parentElement;
                 fetch('https://iiif.io/events/calendar.json')
                   .then(response => response.json())
                   .then(data => addCalls(parent, data, {{ include.limit | default: 10 }}));
@@ -221,7 +221,7 @@
       {% else %}
             <script>
                 // Show all events
-                let parent = document.currentScript.parentElement;
+                var parent = document.currentScript.parentElement;
                 fetch('https://iiif.io/events/events.json')
                   .then(response => response.json())
                   .then(data => addEvents(parent, data, {{ include.limit | default: 0 }}));

@@ -1,6 +1,6 @@
 ---
 title: IIIF Consortium Welcomes the National Archives (UK)
-author: IIIF-C Staff
+author: Caitlin Perry
 date: 2024-12-2
 tags: [news, announcements]
 layout: post

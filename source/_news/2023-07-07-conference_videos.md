@@ -1,6 +1,6 @@
 ---
 title: Annual Conference recordings now available
-author: IIIF Consortium Staff
+author: Caitlin Perry
 date: 2023-07-07
 tags: [news, announcements]
 layout: post

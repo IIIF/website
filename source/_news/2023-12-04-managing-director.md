@@ -1,6 +1,6 @@
 ---
 title: IIIF Consortium Hiring a Managing Director
-author: IIIF-C Staff
+author: Caitlin Perry
 date: 2023-12-04
 tags: [announcements, staff, new hires]
 layout: post

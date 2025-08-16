@@ -2,9 +2,22 @@
 layout: default
 title: Events
 permalink: /events/
+top_tabs:
+  - label: Featured events
+    content: "{%- include blocks/event-cards.html items=site.data.events limit=4 -%}"
+  - label: Group meetings
+    content: "{%- include blocks/event-cards.html limit=4 type='community_call' -%}"
+  - label: Call calendar
+    content: "{% include misc/community_calendar.html %}"
 hero:
   image: "assets/uploads/nypl_5180606.webp"
 ---
+{{ theme.block-center-start }}
+
+{% include blocks/tabs.html  tabs=page.top_tabs %}
+
+{{ theme.block-end }}
+
 {{ theme.block-center-start }}
 
 <h2>All upcoming events</h2>
@@ -12,8 +25,6 @@ hero:
 {%- include blocks/event-cards.html -%}
 
 {{ theme.block-end }}
-
-
 
 {{ theme.block-center-start }}
 

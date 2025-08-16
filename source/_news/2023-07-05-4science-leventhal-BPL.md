@@ -1,6 +1,6 @@
 ---
 title: IIIF Consortium Welcomes Two New Associate Members
-author: IIIF Consortium Staff
+author: Caitlin Perry
 date: 2023-07-05
 tags: [news, announcements]
 layout: post

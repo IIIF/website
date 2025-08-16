@@ -1,6 +1,6 @@
 ---
 title: IIIF welcomes Julie Winchester as specification Editor
-author: IIIF-C Staff
+author: Glen Robson
 date: 2024-01-23
 tags: [committees, editors, specifications ]
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Authorization Flow 2.0 Published
-author: IIIF-C Staff
+author: Glen Robson
 date: 2023-07-10
 tags: [news, announcements]
 layout: post

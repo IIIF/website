@@ -33,6 +33,10 @@ Branches are available at http://preview.iiif.io/root/[branch_name]/index.html. 
     * Reference link `[text][link_name]` where link_name is expanded at the bottom of the page.
 
 
+### Tips and Tricks:
+ * Adding [newsitem images](docs/news_images.md)
+
+
 ## Maintenance
 
 ### Updating dependencies:

@@ -1,6 +1,6 @@
 ---
 title: IIIF Consortium announces new extensions for working with digitized maps
-author: IIIF-C Staff
+author: Glen Robson
 date: 2023-05-15
 tags: [news, announcements]
 layout: post

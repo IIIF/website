@@ -1,6 +1,6 @@
 ---
 title: "Save the Date: 2023 IIIF Annual Conference"
-author: IIIF-C Staff
+author: IIIFC-Staff
 date: 2022-09-01
 tags: [news, announcements]
 layout: post

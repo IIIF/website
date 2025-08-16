@@ -1,6 +1,6 @@
 ---
 title: IIIF World Training
-author: IIIF-C Staff
+author: Caitlin Perry
 date: 2024-02-09
 tags: [event, events]
 layout: post

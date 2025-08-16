@@ -1,6 +1,6 @@
 ---
 title: IIIF Consortium Welcomes Universities of Leeds and Chicago
-author: IIIF-C Staff
+author: Caitlin Perry
 date: 2023-10-16
 tags: [news, announcements]
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Executive Committee Election Results
-author: IIIF Consortium Staff
+author: Caitlin Perry
 date: 2025-01-07
 tags: [news, announcements]
 layout: post
