@@ -22,7 +22,7 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 - [IIIF info- ja IT-juhtidele - Estonian](https://drive.google.com/file/d/15JAPP70D5zqRr3O7blTMj_fSVTwD7Ef3/view?usp=drive_link)
 - [IIIF for Museums](https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link)
 - [IIIF für Museen - German](https://drive.google.com/file/d/1EulwEtUK5R_MA8YXem3dmEWSuJj2K0CY/view?usp=sharing)
-- [IIIF muuseumidele - Estonian] (https://drive.google.com/file/d/1ZcIGynnsNrgPxk7-A8aokbGwlEWlccUt/view?usp=drive_link)
+- [IIIF muuseumidele - Estonian](https://drive.google.com/file/d/1ZcIGynnsNrgPxk7-A8aokbGwlEWlccUt/view?usp=drive_link)
 - [IIIF para Museus - Brazilian Portuguese](https://drive.google.com/file/d/1zoAITW_Yp779dlzzLHLvK8O39TEZFb8m/view?usp=drive_link)
 - [IIIF for Archives](https://drive.google.com/file/d/1kw_M1XQ80h3QzWbIo8QYkL2Jt8YgZgEy/view?usp=drive_link)
 - [IIIF pour les Archives - French](https://drive.google.com/file/d/1aj0-eCr1EWLUyt59l0z_pZ6-hITbEFWw/view?usp=drive_link)
