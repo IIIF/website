@@ -1,5 +1,5 @@
 ---
-title: "2026 Online Meeting, January 25-27, 2026"
+title: "2026 Online Meeting"
 layout: event
 breadcrumbs:
   - label: All Events
@@ -157,4 +157,4 @@ Questions? Email us at <events@iiif.io>.
 [conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
 [hashtag]: https://twitter.com/search?q=%23iiif&src=typd
 [twitter]: https://twitter.com/iiif_io
-[cfp]: https://forms.gle/j1NJxV8vBuf76FPp7
+[cfp]: https://forms.gle/j1NJxV8vBuf76FPp7-->
