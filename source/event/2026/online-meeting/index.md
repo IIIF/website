@@ -105,7 +105,7 @@ The Online Meeting is intended for a wide range of participants and interested p
 
 As a counterpart to the IIIF in-person Annual Conference, this event is meant  both to introduce newcomers to IIIF and to provide a forum for discussion and dissemination for those with experience implementing and working with IIIF in a variety of contexts.
 
-This event is guided by the [IIIF Code of Conduct][conduct].
+This event is guided by the [IIIF Code of Conduct](https://iiif.io/event/conduct).
 
 
 ## Logistics
