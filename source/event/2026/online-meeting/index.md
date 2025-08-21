@@ -99,7 +99,7 @@ function loadClient() {
 <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};loadClient()" ></script>
 
 
-**The 2026 Online Meeting will take place January 25-27 and is free to attend.**
+**The 2026 Online Meeting will take place January 27-29 and is free to attend.**
 
 The Online Meeting is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
