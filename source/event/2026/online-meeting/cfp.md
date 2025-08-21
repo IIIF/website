@@ -1,12 +1,12 @@
 ---
-title: "Call for Proposals: 2024 IIIF Online Meeting"
+title: "Call for Proposals: 2026 IIIF Online Meeting"
 layout: event
 tags: [event ]
 ---
 
-The [2024 International Image Interoperability Framework (IIIF) Online Meeting](https://iiif.io/event/2024/online-meeting/) will be held **November 12-14**. This year’s meeting will follow a _Working and Learning_ theme, with a program built to provide attendees with a look into new and innovative IIIF projects, implementations, developments, and tools, as well as opportunities to learn new skills. 
+The [2026 International Image Interoperability Framework (IIIF) Online Meeting](https://iiif.io/event/2026/online-meeting/) will be held **January 27-29**. This year’s meeting will again follow a _Working and Learning_ theme, with a program built to provide attendees with a look into new and innovative IIIF projects, implementations, developments, and tools, as well as opportunities to learn new skills. 
 
-**Submissions are due by September 15, 2024.**
+**Submissions are due by November 3, 2024.**
 
 
 ### **Format**
@@ -32,11 +32,11 @@ We encourage showcasing developments in IIIF and in particular would welcome pre
 
 * IIIF implementations featuring unique or uncommon collections
 * Using IIIF material for Machine Learning and AI
-* IIIF Audio/Visual use cases and implementations
 * Implementations of IIIF outside of North America/Europe
-* Implementations of IIIF outside of Cultural Heritage
-* Annotation, including full-text or academic use cases
+* IIIF in the classroom
+* Annotation use cases
 * New tools and platforms 
+
 
 **Workshops**
 
@@ -45,7 +45,7 @@ Workshop submissions must have an abstract, a proposed outline schedule, and des
 ### **Submissions**
 
 
-**Please submit proposals through Google Forms: [https://forms.gle/FoZMfFPkQRbdiPyUA](https://forms.gle/FoZMfFPkQRbdiPyUA)**
+**Please submit proposals through Google Forms: [Submission Form](https://forms.gle/EWfcvXkUtKEXf7L97)**
 
 
 ### **Questions?**
