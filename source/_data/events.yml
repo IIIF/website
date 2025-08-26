@@ -20,6 +20,9 @@
   time:
     start: 2026-01-27T10:00:00Z
     end: 2026-01-29T10:00:00Z
+    links:
+- label: More info
+      link: "https://iiif.io/event/2026/online-meeting/"
   location:
     label: "Online"    
 - label: IIIF Annual Conference & Showcase 2026
