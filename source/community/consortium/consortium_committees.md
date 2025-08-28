@@ -72,7 +72,7 @@ Table of elections and seats for members of the IIIF Consortium Executive Commit
 {% for item in years %}{%if item == years.first %}|{% endif%} <b>{{ item }}</b> | {% endfor %}
 {% for item in seats %}{%if item == years.first %}|{% endif%} {{ item }} | {% endfor %}
 {% for item in ballots %}{%if item == years.first %}|{% endif%} {{ item }} | {% endfor %}
-| Notes: | |11 founding members|| 2 serving 4 year terms| 1 serving 4 year term|  
+| Notes: | |11 founding members|| 2 serving 4 year terms| 1 serving 4 year term| 1 member stepped down
 {: .api-table}
 
 ## Operating Committee
