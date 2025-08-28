@@ -18,15 +18,19 @@
   term: 3
   members:
     - Cornell University
-    - Ghent University
     - J. Paul Getty Trust
     - Yale University
 - name: Batch Ca
   start: 2023
   term: 4
   members:
-     - Europeana Foundation
-     - Harvard University
+    - Europeana Foundation
+    - Harvard University
+- name: Batch Cb
+  start: 2023
+  term: 2
+  members:
+    - Ghent University
 - name: Batch D
   start: 2024
   term: 3
@@ -43,9 +47,14 @@
   start: 2025
   term: 3
   members:
-    - 2025 Election Seat 1
     - 2025 Election Seat 2
     - 2025 Election Seat 3
+    - 2025 Election Seat 4
+- name: Batch Ea
+  start: 2025
+  term: 4
+  members:
+    - 2025 Election Seat 1
 - name: Batch F
   start: 2026
   term: 3
@@ -53,7 +62,6 @@
     - 2026 Election Seat 1     
     - 2026 Election Seat 2     
     - 2026 Election Seat 3     
-    - 2026 Election Seat 4     
 - name: Batch G
   start: 2027
   term: 3
