@@ -6,7 +6,7 @@ tags: [event ]
 
 The [2026 International Image Interoperability Framework (IIIF) Online Meeting](https://iiif.io/event/2026/online-meeting/) will be held **January 27-29**. This year’s meeting will again follow a _Working and Learning_ theme, with a program built to provide attendees with a look into new and innovative IIIF projects, implementations, developments, and tools, as well as opportunities to learn new skills. 
 
-**Submissions are due by November 3, 2024.**
+**All submissions are due by November 3, 2026.**
 
 
 ### **Format**
