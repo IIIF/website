@@ -8,7 +8,7 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/2026/netherlands/'
 hero:
   image: ""
-  subtitle: Join us to learn the latest about IIIF and help shape the future of the community.
+  subtitle: 
 ---
 
 
