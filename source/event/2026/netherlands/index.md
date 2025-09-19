@@ -3,9 +3,6 @@ title: "IIIF Annual Conference and Showcase - The Netherlands - June 1-4, 2026"
 layout: spec
 page: overview
 banner: true 
-collection: events
-location:
-   label: "The Netherlands"
 breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'
