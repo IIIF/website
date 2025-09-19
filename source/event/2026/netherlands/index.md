@@ -16,7 +16,7 @@ hero:
 ---
 
 
-The 2026 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}) Annual Conference will be held in The Netherlands June 1–4, 2026, and will be hosted by the IIIF Consortium with support from the (Dutch Digital Heritage Network)[https://netwerkdigitaalerfgoed.nl/en/].
+The 2026 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}) Annual Conference will be held in The Netherlands June 1–4, 2026, and will be hosted by the IIIF Consortium with support from the [Dutch Digital Heritage Network](https://netwerkdigitaalerfgoed.nl/en/).
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
