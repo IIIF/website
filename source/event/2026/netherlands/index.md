@@ -1,19 +1,18 @@
 ---
-title: "IIIF Annual Conference and Showcase - The Netherlands - June 1-4, 2026"
-layout: spec
-page: overview
-banner: true 
+title: "2026 IIIF Annual Conference & Showcase"
+layout: event
 breadcrumbs:
   - label: All Events
-    link: '{{ site.root_url }}/event/'
-  - label: The Netherlands 2026
-    link: '{{ site.root_url }}/event/2026/Netherlands/'
+    link: '{{ site.root_url }}/events/'
+  - label: 2026 IIIF Annual Meeting
+    link: '{{ site.root_url }}/event/2026/netherlands/'
 hero:
-  image: "assets/event/leiden.jpg"
+  image: ""
+  subtitle: Join us to learn the latest about IIIF and help shape the future of the community.
 ---
 
 
-The 2026 [International Image Interoperability Framework (IIIF)]({{ site.root_url | absolute_url }}) Annual Conference will be held in The Netherlands June 1–4, 2026, and will be hosted by the IIIF Consortium with support from the [Dutch Digital Heritage Network](https://netwerkdigitaalerfgoed.nl/en/).
+The 2026 International Image Interoperability Framework (IIIF) Annual Conference will be held in The Netherlands June 1–4, 2026, and will be hosted by the IIIF Consortium with support from the [Dutch Digital Heritage Network](https://netwerkdigitaalerfgoed.nl/en/).
 
 This event is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
@@ -29,6 +28,7 @@ This event is guided by the IIIF Code of Conduct. More information regarding tra
     * Conference: June 2-3, 2025 - Scheltema, Leiden, The Netherlands
     * Reception: June 2, 2025 - Naturalis, Leiden, The Netherlands
     * Birds of a Feather sessions, workshops,and meetings: June 4, 2024 - KB, nationale bibliotheek, The Hague, The Netherlands
+
 * Language: All event proceedings will be in English unless otherwise noted.
 
 ### **Travel**
