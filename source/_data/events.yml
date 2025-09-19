@@ -16,7 +16,7 @@
       link: "https://www.eventbrite.com/e/november-2025-iiif-online-training-5-day-course-tickets-1144090127369"
   location:
     label: "Online"    
-- label: "IIIF online meeting"
+- label: "IIIF Online Meeting"
   time:
     start: 2026-01-27T10:00:00Z
     end: 2026-01-29T10:00:00Z
@@ -27,7 +27,11 @@
     label: "Online"    
 - label: IIIF Annual Conference & Showcase 2026
   time:
-    start: 2026-06-02T06:00:00Z
-    end: 2026-06-05T23:00:00Z
+    start: 2026-06-01T06:00:00Z
+    end: 2026-06-04T23:00:00Z
+  links:
+    - label: More info
+      link: "https://iiif.io/event/2026/netherlands/"
   location: 
-    label: "Netherlands"  
+    label: "The Netherlands"  
+
