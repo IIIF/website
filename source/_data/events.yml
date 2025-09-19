@@ -27,10 +27,11 @@
     label: "Online"    
 - label: IIIF Annual Conference & Showcase 2026
   time:
-    start: 2026-06-02T06:00:00Z
-    end: 2026-06-05T23:00:00Z
-  location: 
-    label: "The Netherlands"  
+    start: 2026-06-01T06:00:00Z
+    end: 2026-06-04T23:00:00Z
   links:
     - label: More info
       link: "https://iiif.io/event/2026/netherlands/"
+  location: 
+    label: "The Netherlands"  
+
