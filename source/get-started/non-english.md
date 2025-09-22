@@ -53,3 +53,7 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 ## فارسی / Persian
 
 - [IIIF درباره / About IIIF](https://onedrive.live.com/view.aspx?resid=FC40347DCF4AAF1D!5903&ithint=file%2cdocx&authkey=!ACOhxH2VW8YiFdc)
+
+## Español / Spanish
+
+- [Introducción a IIIF / Introduction to IIIF](https://drive.google.com/file/d/1bHSO0R9AktjT_ZJxnUovTFkXdf3yGyx_/view?usp=drive_link)
