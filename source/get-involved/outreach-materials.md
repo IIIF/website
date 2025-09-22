@@ -28,7 +28,7 @@ Need to explain IIIF to a colleague? These handouts provide relevant information
 - [IIIF for Archives](https://drive.google.com/file/d/1kw_M1XQ80h3QzWbIo8QYkL2Jt8YgZgEy/view?usp=drive_link)
 - [IIIF pour les Archives - French](https://drive.google.com/file/d/1aj0-eCr1EWLUyt59l0z_pZ6-hITbEFWw/view?usp=drive_link)
 - [IIIF für Archive - German](https://drive.google.com/file/d/16B9YOcErTWo-DQUtlhsBsgHpISw3IK15/view?usp=drive_link)
-- [Introducción de IIIF](https://drive.google.com/file/d/1bHSO0R9AktjT_ZJxnUovTFkXdf3yGyx_/view?usp=drive_link)
+- [Introducción a IIIF - Spanish](https://drive.google.com/file/d/1bHSO0R9AktjT_ZJxnUovTFkXdf3yGyx_/view?usp=drive_link)
 
 
 {% include content/full-width-image.html image="assets/uploads/contact-sheet-museums.jpg" image_link="https://drive.google.com/file/d/1Uyw5Xvgg4q2NnuWlaYM--pPKIUBTldui/view?usp=drive_link" alt_text="delivery diagram" caption="A high-level explainer for museum staffers and administrators about the benefits of IIIF." %}
