@@ -17,6 +17,10 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 - [Japanese translations of the IIIF specifications]({{ site.api_url | absolute_url }}/#community-translations)
 - [Software tools from Center for Open Data in the Humanities](http://codh.rois.ac.jp/software/index.html.ja), including the [IIIF Curation Platform](http://codh.rois.ac.jp/icp/index.html.ja)
 
+## Español / Spanish
+
+- [Introducción a IIIF / Introduction to IIIF](https://drive.google.com/file/d/1bHSO0R9AktjT_ZJxnUovTFkXdf3yGyx_/view?usp=drive_link)
+
 ## Italiano / Italian
 
 - [IIIF Italian community forum](https://italy.iiif.link/)
@@ -54,6 +58,4 @@ Also, don't miss the ["Community Translations"]({{ site.api_url | absolute_url }
 
 - [IIIF درباره / About IIIF](https://onedrive.live.com/view.aspx?resid=FC40347DCF4AAF1D!5903&ithint=file%2cdocx&authkey=!ACOhxH2VW8YiFdc)
 
-## Español / Spanish
 
-- [Introducción a IIIF / Introduction to IIIF](https://drive.google.com/file/d/1bHSO0R9AktjT_ZJxnUovTFkXdf3yGyx_/view?usp=drive_link)
