@@ -1,0 +1,35 @@
+---
+title: DIGITAL HERITAGE 2025, Siena (Italy)
+author: Glen Robson
+date: 2025-10-07
+tags: [news]
+layout: post
+excerpt: >
+  Notes from the Digital Heritage 2025 conference. 
+hero:
+  image: "assets/images/news/siena/siena.webp"    
+---
+
+I recently traveled to the [Digital Heritage Expo](https://digitalheritage2025.unisi.it/) in Siena Italy which bills itself as “the premier global forum where culture meets cutting-edge technology.” The conference was different from other conferences I’ve attended as it combined traditional presentations with copious exhibition space where projects and companies could demo and showcase their work. It was also co-located with the [Web 3D 2025 Conference](https://web3d.siggraph.org/2025/), the 30th International ACM Web3D Conference on 3D Web Technology. 
+
+{% include content/image.html src="assets/images/news/siena/iiif_workshop.webp" alt="Image of the IIIF workshop" align="left"%}
+The first day of the conference was dedicated to workshops and I gave a two hour [hands-on introduction to IIIF](https://training.iiif.io/vra-workshop/index.html). At the same time, Ronald Haynes, from Cambridge University and co-chair of the 3D TSG group delivered a IIIF 3D workshop. This presented a dilemma for participants as they were forced to choose between related sessions. I think Ronald may have attracted a few more due to the Web3D conference attendees. For the hands-on with IIIF session, we went through the Image and Presentation APIs and then looked at using existing manifests to create an Exhibit presentation. The group posed a number of good questions and were particularly interested in the 3D developments and also if the Image API could be extended with extra technical metadata. 
+
+{% include content/image.html src="https://x3dgraphics.com/examples/X3dForWebAuthors/Chapter01-TechnicalOverview/X3dSpecificationsHoneycombDiagram.png" alt="X3D layout diagram" align="right"%}
+On Tuesday, I attended the session on Web3D which looked back at the 30 years since its inception. Web3D is a consortium which develops standards for making 3D material available on the Web. Its heritage includes work on VRML in the 1990s and has moved on to X3D which is their latest standard. It was interesting to reflect on the similarities between the Web3D consortium and standards process with the IIIF Consortium and APIs. With its longevity, Web3D has shown it is able to adapt to changing technologies and a rotating volunteer workforce. X3D is developed by the Web Consortium and approved by ISO and X3D is both a 3D file format and a runtime for various programming languages.  
+
+Switching to the Digital Heritage track I enjoyed two fascinating talks, the first from Jolanda Patruno from the European Space Agency on how they are working with satellite data to find and preserve cultural heritage sites. Jolanda also spoke about [Destination Earth](https://destination-earth.eu/), a flagship initiative of the European Commission to create a highly accurate model of the Earth to monitor the human impact on it. The second presentation was from Livio De Luca from the French National Centre for Scientific Research (CNRS) which discussed the fascinating work going on to restore the Notre-Dame Cathedral. It was inspiring to see the amount of work involved, particularly in gathering the fallen roof structure which was painstakingly catalogued and preserved so an accurate restoration process could be done. This was catalogued using CIDOC CRM, photographed and 3D models created to provide an interface where supporting structural beams could be located in the rouble and measured accurately so they can be replicated. 
+
+{% include content/image.html src="assets/images/news/siena/3d_workshop.webp" alt="Image of 3d workshop" align="left"%}
+After lunch Ronald and I teamed up with Muadh Al Kalbani from Samsung to present “WEB3D | Spatial Synergies – Collaborative Standards Road Map for Sustainable Digital Futures.” This was a discussion on web standards with Muadh sharing the work he has done with Samsung and the W3C standards organization to define the WebXR Device API. Ronald and I shared an introduction to IIIF and the new features which are coming as part of the IIIF 3D support. 
+
+<br/>
+<br/>
+
+{% include content/image.html src="assets/images/news/siena/guide.webp" alt="Image of 3d hands on guide" align="right"%}
+On Wednesday, Ronald and I again teamed up with Muadh Al Kalbani to present "WEB3D | Workshop 3 – Building Sustainable Scenes with Web3D and IIIF 3D and WebXR". For the IIIF part we gave an introduction into how 3D fits into the Canvas/Scene model in IIIF and ended with a [hands on task](https://glenrobson.github.io/iiif_stuff/3d-guide/) which allowed participants to download a model from Sketchfab and publish it with a IIIF Manifest. Participants could then view the manifest in various IIIF viewers. Note the guide requires web space to be available to publish the 3D model and this was provided by Ronald for the workshop. 
+
+In the afternoon, I attended a session from the Digital Heritage conference on digitisation and segmentation and it was interesting to see how embedded the use of AI and large language models are in the digitisation and research processes for historical texts. I also took the opportunity to visit the exhibitions. The exhibition provided by the [Perceive EU project](https://perceive-horizon.eu/) was particularly impressive. There were two parts to this exhibition.  The first was to do with the study of lost colours from a set of Greek statues. Marble statues now appear white, but some of these were originally highly coloured and this colour has been lost over time. Using various scientific methods explained in the exhibition, the group is working out what the original colours could have been and as a demonstration projected these colours onto a 3D printed model of the statue as part of the exhibition. The second part of the exhibition was related to restoring colour to photographs and material fabric. I was shown a kimono from the V&A with visualizations showing the original vibrant colours compared to the faded colours on the kimono today. It was fascinating work and for some of the visualizations it would be great to make them available as IIIF. 
+
+## Final thoughts
+The Digital Heritage Expo and Web 3D conference was a very interesting mix of communities. I felt the Digital Heritage attendees, especially those that work with digital collections were well aware of IIIF and its capabilities. The Web 3D with its wider remit and a lot of attendees who are more focused on Computer Aided Design (CAD) and industrial design were, not unexpectedly, less aware of the IIIF standards. It is important as we start supporting 3D we reach out to other communities and see where we overlap and see where IIIF fits in. One question that came up early in the Web 3D conference was how X3D can provide the surrounding contextual metadata for a 3D object and this is one example where IIIF can be helpful for both the Digital Heritage and Web3D communities. 
