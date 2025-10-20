@@ -1,0 +1,15 @@
+custom_costs:
+  - category: Non member
+    cost: $250 per hour
+  - category: Associate Member
+    cost: $200 per hour
+  - category: Member
+    cost: $100 per hour
+training_costs:
+  - category: Non member
+    cost: $500
+  - category: Member
+    cost: $250 
+  - category: Fellowship
+    cost: $5
+    conditions: limited to 5 tickets per training
