@@ -18,7 +18,7 @@ breadcrumbs:
 
 Our monthly five-day workshops meet online for one hour per day, and are held at different times each month to accommodate attendees in different time zones.
 
-As a workshop attendee, you'll learn the basics of implemeting IIIF. No prior knowledge is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and JSON syntax is helpful but not required. Tutoring and support opportunities are available via Slack and one-on-one Zoom meetings. By the end of the workshop, participants will have completed a small IIIF project, which they will demonstrate for the group at the final meeting.
+As a workshop attendee, you'll learn the basics of implementing IIIF. No prior knowledge is required and the core sessions should be easily accessible to those with confidence using the Web. Prior knowledge of HTML and JSON syntax is helpful but not required. Tutoring and support opportunities are available via Slack and one-on-one Zoom meetings. By the end of the workshop, participants will have completed a small IIIF project, which they will demonstrate for the group at the final meeting.
 
 View the [course syllabus](https://training.iiif.io/iiif-online-workshop/index.html) for more details.
 

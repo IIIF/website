@@ -17,6 +17,22 @@ We regularly offer 5-day [online workshops]({{ site.root_url | absolute_url }}/g
 
 <div id="upcoming_training"></div>
 
+## Custom training 
+
+We can offer custom training for an institution and this is priced at a per hour basis dependent on how long is spent developing and delivering the course. The rates for this training is as follows:
+
+{% for training in site.data.fees.custom_costs %}
+ * {{training.category}}: {{training.cost}}{% if training.condition %}({{training.condition}}){% endif %}
+{% endfor %}
+
+We have previously developed the following courses:
+
+ * National Library of Wales - a bespoke 2 day workshop written for the NLW and delivered in 2025.
+ * Getty Research Institute - a bespoke 2 hour workshop written for the Getty GRI and delivered in 2023.
+ * British Library online Training - a bespoke 5 day workshop written for the British Library and delivered in 2021/22.
+ * Humboldt University of Berlin - a bespoke 2.5 hour workshop looking at the basics of using IIIF and aggregation.
+
+and these can be found on the [training site](https://training.iiif.io). To discuss a custom training course please get in contact with the IIIF Staff. 
 
 ## Self-directed learning
 You can use our [workshop training site](https://training.iiif.io/iiif-online-workshop/) to learn how to work with the Image and Presentation APIs and annotate images on your own, following the same materials used by workshop participants.
