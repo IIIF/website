@@ -25,7 +25,7 @@ The [IIIF A/V Community Group charter][av-charter] provides an outline and timel
 
 * Tanya Clement (University of Texas at Austin)
 * Jon Dunn (Indiana University Bloomington)
-* Andrija Sagic (“Milutin Bojic” Library)
+* Matthew Yang (University of Chicago)
 
 **Communication channels:**
 
