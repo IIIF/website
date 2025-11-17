@@ -30,31 +30,49 @@ Becoming a member of the Consortium allows you to shape the IIIF agenda and driv
 
 ## Membership levels
 
-**Full membership - $10,000 annual sustaining contribution**
+**Champion membership - $16,000 annual sustaining contribution**
 
-Benefits for full members include:
+* Special recognition at Annual Conference & Online Meeting
+* Included Bronze Sponsorship at Conference
+* Recognition on IIIF Consortium website
+* Support for initiatives and and developments of the Champion’s choosing
+* All benefits of Full Membership
 
-*   Dedicated basic assistance and discounted consulting rates for more extensive needs
-*   Discounted custom training opportunities for staff professional development
-*   Insitution-wide discounts on [general training and workshops](https://iiif.io/get-started/training/)
-*   Institution-wide discounts for Annual Conference registration
-*   Guaranteed representation on the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ), which guides development of the IIIF specifications and approves all updates and additions to the APIs
-*   Eligibility to serve on the [Executive Committee and Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/), which govern the consortium
-*   Voting rights in annual Executive Committee elections
-*   Priority attendance at conferences, meetings and other events
-*   Priority technical advice 
+**Full membership - $8,000 annual sustaining contribution**
+
+* One free Annual Conference registration
+* Organization-wide discounts on conference fees
+* Priority registration for regional and special events
+* Training discounts for quarterly trainings
+* Discounted hourly rate for custom training
+* Guaranteed representation on the [Technical Review Committee](https://iiif.io/community/consortium/trc), which guides development of the IIIF specifications and approves all updates and additions to the APIs
+* Eligibility to serve on the [Executive Committee and Operating Committee](https://iiif.io/community/consortium/consortium_committees/), which govern the consortium
+* Voting rights in annual Executive Committee elections
 
 
-**Associate membership - $2,500 annual sustaining contribution**
+**Associate membership - Low and Middle Income Countries- $1,000 annual sustaining contribution**
 
-Benefits for associate members include:
+* Institutions in[ Low- and Middle-Income Countries](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html) may join the Consortium as an Associate Member at a discount.
 
-*   Institution-wide discounts on training and workshops
-*   Institution-wide discounts for Annual Conference registration
-*   Eligibility to serve on the [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc ), which guides development of the IIIF specifications and approves all updates and additions to the APIs
-*   Priority attendance at conferences, meetings and other events
 
-**Conditions of membership:**
+## Additional Add-ons - $2,000 annual contribution
+
+**Allmaps**
+
+Get access to [a host of new Allmaps features](https://allmaps.org/iiif-partnership) for IIIF members, including tracking institutional annotations, a geocoder for your collection’s maps, and a custom flow for your employees.
+
+**Community Development Fund**
+
+Support the Consortium’s ongoing work to extend and support community infrastructure such as Cantaloupe and to build open tools such as the Internet Archive’s IIIF service.
+
+**Strategic Initiatives Fund**
+
+Support the Consortium’s strategic initiatives, including increasing membership to Low- and Middle-Income countries, facilitating development of interoperable systems, and advocating for IIIF on a global scale.
+
+
+
+
+## Conditions of membership:
 *   Only full members are eligible for voting rights on the Executive Committee
 *   A limit of three seats on the Executive Committee may be held by commercial organizations. Non-commercial organizations include libraries, museums, and archives - individuals who work for commercial organizations are welcome and encouraged to serve in community groups and committees
 
