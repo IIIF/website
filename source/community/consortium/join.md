@@ -70,7 +70,9 @@ Support the Consortium’s ongoing work to extend and support community infrastr
 Support the Consortium’s strategic initiatives, including increasing membership to Low- and Middle-Income countries, facilitating development of interoperable systems, and advocating for IIIF on a global scale.
 
 
-**Conditions of membership:**
+
+
+## Conditions of membership:
 *   Only full members are eligible for voting rights on the Executive Committee
 *   A limit of three seats on the Executive Committee may be held by commercial organizations. Non-commercial organizations include libraries, museums, and archives - individuals who work for commercial organizations are welcome and encouraged to serve in community groups and committees
 
