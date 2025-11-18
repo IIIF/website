@@ -1,11 +1,11 @@
 ---
 title: Updates to IIIF Consortium Membership Structure
 author: Caitlin Perry
-date: 2025-11-06
+date: 2025-11-18
 tags: [news]
 layout: post
 excerpt: >
-IIIF Consortium Announces Updated Membership Structure and Expanded Benefits for 2026
+ IIIF Consortium Announces Updated Membership Structure and Expanded Benefits for 2026
 
 ---
 
