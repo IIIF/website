@@ -49,6 +49,13 @@ Becoming a member of the Consortium allows you to shape the IIIF agenda and driv
 * Eligibility to serve on the [Executive Committee and Operating Committee](https://iiif.io/community/consortium/consortium_committees/), which govern the consortium
 * Voting rights in annual Executive Committee elections
 
+**Associate membership - $2,500 annual sustaining contribution**
+
+* Discount for one Annual Conference registration
+* Priority registration for regional and special events
+* Two discounted registrations for quarterly trainings
+* Discounted hourly rate for custom training
+* Eligibility to serve on the [Technical Review Committee](https://iiif.io/community/consortium/trc), which guides development of the IIIF specifications and approves all updates and additions to the APIs
 
 **Associate membership - Low and Middle Income Countries- $1,000 annual sustaining contribution**
 
