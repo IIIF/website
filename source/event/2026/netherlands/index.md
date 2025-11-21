@@ -42,7 +42,7 @@ The Call for Proposals will be released in late 2025.
 
 ### Program committee
 
-Thank you to the 2024 Program committee:
+Many thanks to the 2026 Program Committee:
 
 * Karen Abel, University of Leeds
 * Dawn Childress, UCLA Library
