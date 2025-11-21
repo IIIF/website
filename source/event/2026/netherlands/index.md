@@ -24,10 +24,10 @@ This event is guided by the IIIF Code of Conduct. More information regarding tra
 ### **Overview**
 
 * Location: 
-    * Showcase: June 1, 2026 - Location TBD
+    * Showcase: June 1, 2026 - Tolhuistuin, Amsterdam, the Netherlands
     * Conference: June 2-3, 2026 - Scheltema, Leiden, the Netherlands
     * Reception: June 2, 2026 - Naturalis, Leiden, the Netherlands
-    * Birds of a Feather sessions, workshops,and meetings: June 4, 2024 - KB, nationale bibliotheek, The Hague, the Netherlands and Centrum voor familiegeschiedenis, The Hague, the Netherlands
+    * Birds of a Feather sessions, workshops,and meetings: June 4, 2026 - KB, nationale bibliotheek, The Hague, the Netherlands and Centrum voor familiegeschiedenis, The Hague, the Netherlands
 
 * Language: All event proceedings will be in English unless otherwise noted.
 
@@ -37,8 +37,31 @@ Conference hotels will be announced in February 2026.
 
 ### **Call for Proposals**
 
-The Call for Proposals will be released in early 2026.
+The Call for Proposals will be released in late 2025.
 
+
+### Program committee
+
+Thank you to the 2024 Program committee:
+
+* Karen Abel, University of Leeds
+* Dawn Childress, UCLA Library
+* Bob Coret, KB National Library/Dutch Digital Heritage Network
+* Nuno Freire, Europeana
+* Maia Hutton Mackay, University of Leeds
+* Martin Kalfatovic, IIIF Consortium
+* Gerd Müller, Leipzig University Library
+* Caitlin Perry, IIIF Consortium 
+* Julien A. Raemy, University of Basel
+* Glen Robson, IIIF Consortium
+* Sandra Santos, The Courtauld Institute of Art
+* Allison Sherrick, METRO
+* Nastasia Vanderperren, meemoo, Flemish Institute for Archives
+* Dieter Van Hassel, Africa Museum Belgium
+* Annamaria Van Ingelgem, Booktower, Ghent University Library
+* Erwin Verbruggen, Q42
+* Mariana Westphalen, Independent Researcher
+* Trip Kirkpatrick, Yale University Library
 
 
 <!-- ### **Register**
@@ -63,20 +86,6 @@ The conference will run between the Tuesday the 4th of June to Thursday the 6th 
 Please see the [travel and hotel page]({{ site.root_url | absolute_url }}/event/2024/los-angeles/travel) for more details on pre-arranged rates.
 
 
-### Program committee
-
-Thank you to the 2024 Program committee:
-
-* Dawn Childress, UCLA Library
-* Martin Critelli, Ca' Foscari University of Venice
-* Nuno Freire, Europeana
-* Joshua Gomez, UCLA Library
-* David Newbury, Getty
-* Caitlin Perry, IIIF Consortium 
-* Julien A. Raemy, University of Basel
-* Glen Robson, IIIF Consortium
-* Sandra Santos, The Courtauld Institute of Art
-* Greete Veesalu, Estonian National Library
 
 
  -->
