@@ -7,7 +7,7 @@ breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'
   - label: 2026 IIIF Annual Meeting
-    link: '{{ site.root_url }}/event/2026/netherlands/cfp'
+    link: '{{ site.root_url }}/event/2026/netherlands/'
 hero:
   image: "assets/images/heroes/leiden.jpg"
 ---
