@@ -17,6 +17,7 @@
   location:
     label: "Online"    
 - label: "IIIF Online Meeting"
+  cat: main
   time:
     start: 2026-01-27T10:00:00Z
     end: 2026-01-29T10:00:00Z
@@ -26,6 +27,7 @@
   location:
     label: "Online"    
 - label: IIIF Annual Conference & Showcase 2026
+  cat: main
   time:
     start: 2026-06-01T06:00:00Z
     end: 2026-06-04T23:00:00Z
