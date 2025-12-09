@@ -37,7 +37,7 @@ Conference hotels will be announced in February 2026.
 
 ### **Call for Proposals**
 
-The full Call for Proposals and a link to submit your proposal can be found on the Call for Proposals page. 
+The full Call for Proposals and a link to submit your proposal can be found on the [Call for Proposals page](https://iiif.io/event/2026/netherlands/cfp/). 
 
 
 ### Program committee
