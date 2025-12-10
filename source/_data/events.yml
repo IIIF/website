@@ -1,21 +1,12 @@
-- label: "IIIF Online Training September 2025 (5 Day course)"
-  time:
-    start: 2025-09-29T17:00:00Z
-    end: 2025-10-03T17:00:00Z
-  links:
-    - label: More info & registration
-      link: "https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079"
-  location:
-    label: "Online"
-- label: "IIIF Online Training November 2025 (5 Day course)"
-  time:
-    start: 2025-11-24T10:00:00Z
-    end: 2025-11-28T10:00:00Z
-  links:
-    - label: More info & registration
-      link: "https://www.eventbrite.com/e/november-2025-iiif-online-training-5-day-course-tickets-1144090127369"
-  location:
-    label: "Online"    
+#- label: "IIIF Online Training September 2025 (5 Day course)"
+#  time:
+#    start: 2025-09-29T17:00:00Z
+#    end: 2025-10-03T17:00:00Z
+#  links:
+#    - label: More info & registration
+#      link: "https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079"
+#  location:
+#    label: "Online"
 - label: "IIIF Online Meeting"
   time:
     start: 2026-01-27T10:00:00Z
