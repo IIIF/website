@@ -56,7 +56,7 @@ Many thanks to the 2026 Program Committee:
 * Martin Kalfatovic, IIIF Consortium
 * Gerd Müller, Leipzig University Library
 * Caitlin Perry, IIIF Consortium 
-* Julien A. Raemy, University of Bern
+* Julien A. Raemy, University of Bern & docuteam
 * Glen Robson, IIIF Consortium
 * Sandra Santos, The Courtauld Institute of Art
 * Allison Sherrick, METRO
