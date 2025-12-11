@@ -73,7 +73,7 @@ If you have any questions please contact us at [events@iiif.io](mailto:events@ii
 * Martin Kalfatovic, IIIF Consortium
 * Gerd Müller, Leipzig University Library
 * Caitlin Perry, IIIF Consortium 
-* Julien A. Raemy, University of Basel
+* Julien A. Raemy, University of Bern & docuteam
 * Glen Robson, IIIF Consortium
 * Sandra Santos, The Courtauld Institute of Art
 * Allison Sherrick, METRO
