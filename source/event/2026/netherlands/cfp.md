@@ -12,7 +12,7 @@ hero:
   image: "assets/images/heroes/leiden.jpg"
 ---
 
-The 2026 International Image Interoperability Framework (IIIF) Annual Conference will be held in-person in the Netherlands, June 1–4, 2026. The conference will be hosted by the Dutch Digital Network and the IIIF Consortium. All proceedings will be in English.
+The 2026 International Image Interoperability Framework (IIIF) Annual Conference will be held in-person in the Netherlands, June 1–4, 2026. The conference will be hosted by the Dutch Digital Heritage Network and the IIIF Consortium. All proceedings will be in English.
 
 **Submissions are due before 23:59 UTC-12 (Anywhere on Earth) on January 23, 2026**
 
