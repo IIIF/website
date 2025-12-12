@@ -119,7 +119,7 @@ The submissions portal will open in early September and submissions are due **No
 
 
 ## Registration
-Registration is free and will open in November 2025.
+Registration is availabe on [Eventbrite.](https://iiifonline2026.eventbrite.com/)
 
 
 
