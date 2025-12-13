@@ -37,12 +37,12 @@ page_gen:
     dir: 'event/2019/goettingen/program'
     extension: 'html'
 
-# notification:
-#   enabled: true
-#   title: This website design is in pre-beta.
-#   subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#   link: '#'
-#   link_label: This is a test link
+notification:
+   enabled: true
+   title: 2026 Online Meeting - January 27-29
+   subtitle: Register now to secure your spot. 
+   link: '/event/2026/online-meeting/'
+   link_label: Learn more
 
 
 # banner:
