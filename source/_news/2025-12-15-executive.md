@@ -5,7 +5,7 @@ date: 2025-12-15
 tags: [news]
 layout: post
 excerpt: >
-Congratulations and welcome to the institutions recently elected to the Executive Committee.
+ Congratulations and welcome to the institutions recently elected to the Executive Committee.
 
 ---
 
