@@ -44,7 +44,7 @@
 #  iiifc: 4
 - name: Cambridge University
   uri: https://www.cam.ac.uk/
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/cambridge_university2.svg
 - name: Canadian Research Knowledge Network
   uri: https://www.crkn-rcdr.ca/
@@ -133,7 +133,7 @@
   logo: assets/uploads/logos/ghent_logo.svg
 - name: Göttingen State and University Library
   uri: https://www.sub.uni-goettingen.de
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/uni-goettingen-logo.svg
 - name: Harvard Art Museums
   uri: http://www.harvardartmuseums.org/
