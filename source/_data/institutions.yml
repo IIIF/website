@@ -39,9 +39,9 @@
 - name: British Museum
   uri: http://www.britishmuseum.org/
   iiifc:
-- name: Brown University
-  uri: https://repository.library.brown.edu
-  iiifc: 4
+# - name: Brown University
+#  uri: https://repository.library.brown.edu
+#  iiifc: 4
 - name: Cambridge University
   uri: https://www.cam.ac.uk/
   iiifc: 2
@@ -386,6 +386,12 @@
 - name: University of Alberta Libraries
   uri: https://www.library.ualberta.ca
   iiifc:
+- name: University of Amsterdam
+  uri: https://www.uva.nl/en
+  iiifc: 4
+- name: University of Bern
+  uri: https://www.unibe.ch/index_eng.html
+  iiifc: 4
 - name: University of British Columbia Libraries
   uri: https://www.library.ubc.ca/
   iiifc: 4
