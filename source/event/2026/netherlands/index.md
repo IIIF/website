@@ -29,9 +29,10 @@ This event is guided by the IIIF Code of Conduct. More information regarding tra
 
 * Location: 
     * Showcase: June 1, 2026 - Tolhuistuin, Amsterdam, the Netherlands
+    * Welcome Drinks: June 1, 2026, 19:00 - Leidse Lente, Leiden, the Netherlands
     * Conference: June 2-3, 2026 - Scheltema, Leiden, the Netherlands
     * Reception: June 2, 2026 - Naturalis, Leiden, the Netherlands
-    * Birds of a Feather sessions, workshops,and meetings: June 4, 2026 - KB, nationale bibliotheek, The Hague, the Netherlands and Centrum voor familiegeschiedenis, The Hague, the Netherlands
+    * Birds of a Feather sessions, workshops,and meetings: June 4, 2026 - KB, nationale bibliotheek; Nationaal Archief; Centrum voor familiegeschiedenis, The Hague, the Netherlands
 
 * Language: All event proceedings will be in English unless otherwise noted.
 
