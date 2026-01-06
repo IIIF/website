@@ -458,9 +458,6 @@
 - name: University of Utah
   uri: https://lib.utah.edu/
   iiifc:
-- name: University of Vienna Library
-  uri: https://bibliothek.univie.ac.at/en/
-  iiifc: 4
 - name: University of Virginia Library
   uri: http://www.library.virginia.edu/
   iiifc:
@@ -480,6 +477,9 @@
 - name: Veridian Software
   uri: https://www.veridiansoftware.com
   iiifc:
+- name: Vienna University Library
+  uri: https://bibliothek.univie.ac.at/en/
+  iiifc: 4
 - name: Villanova University
   uri: https://digital.library.villanova.edu/
   iiifc:
