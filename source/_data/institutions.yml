@@ -28,9 +28,9 @@
 #- name: Blavatnik Foundation Archive
 #  uri: https://www.blavatnikarchive.org/
 # iiifc: 4
-- name: Boston Public Library
-  uri: https://digitalcommonwealth.org
-  iiifc: 1
+# - name: Boston Public Library
+#  uri: https://digitalcommonwealth.org
+#  iiifc: 1
 - name: British Library
   uri: https://www.bl.uk/
   iiifc: 1
