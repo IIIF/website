@@ -460,7 +460,7 @@
   iiifc:
 - name: University of Vienna Library
   uri: https://bibliothek.univie.ac.at/en/
-  iiifc: v4
+  iiifc: 4
 - name: University of Virginia Library
   uri: http://www.library.virginia.edu/
   iiifc:
