@@ -458,6 +458,9 @@
 - name: University of Utah
   uri: https://lib.utah.edu/
   iiifc:
+- name: University of Vienna Library
+  uri: https://bibliothek.univie.ac.at/en/
+  iiifc: 4
 - name: University of Virginia Library
   uri: http://www.library.virginia.edu/
   iiifc:
