@@ -28,9 +28,9 @@
 #- name: Blavatnik Foundation Archive
 #  uri: https://www.blavatnikarchive.org/
 # iiifc: 4
-- name: Boston Public Library
-  uri: https://digitalcommonwealth.org
-  iiifc:
+# - name: Boston Public Library
+#  uri: https://digitalcommonwealth.org
+#  iiifc: 1
 - name: British Library
   uri: https://www.bl.uk/
   iiifc: 1
@@ -304,7 +304,7 @@
   logo: assets/uploads/logos/nc_state_logo.jpg
 - name: Boston Public Library and Norman B. Leventhal Map & Education Center
   uri: https://www.leventhalmap.org/
-  iiifc: 4
+  iiifc: 2
 - name: Northwestern University Libraries
   uri: https://www.library.northwestern.edu/
   iiifc: 3
@@ -458,6 +458,9 @@
 - name: University of Utah
   uri: https://lib.utah.edu/
   iiifc:
+- name: University of Vienna Library
+  uri: https://bibliothek.univie.ac.at/en/
+  iiifc: 4
 - name: University of Virginia Library
   uri: http://www.library.virginia.edu/
   iiifc:
