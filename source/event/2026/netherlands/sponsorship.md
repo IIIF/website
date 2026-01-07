@@ -1,10 +1,8 @@
 ---
-title: "Call for Sponsors: 2026 IIIF Conference & Showcase in the Netherlands"
+title: "Call for Sponsors: 2026 IIIF Annual Conference"
 layout: spec
 page: overview
 banner: true 
-layout: event
-tags: [event]
 breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'
@@ -13,7 +11,6 @@ breadcrumbs:
 hero:
   image: "assets/images/heroes/leiden.jpg"
 ---
-
 
 The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products & services and interact with participants from all over the world. The[ 2025 IIIF Conference will take place June 1-4, 2026 [in the Netherlands](https://iiif.io/event/2026/netherlands) and will be hosted by the IIIF Consortium with support from the [Dutch Digital Heritage Network](https://netwerkdigitaalerfgoed.nl/en/).
 
