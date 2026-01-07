@@ -28,9 +28,9 @@
 #- name: Blavatnik Foundation Archive
 #  uri: https://www.blavatnikarchive.org/
 # iiifc: 4
-- name: Boston Public Library
-  uri: https://digitalcommonwealth.org
-  iiifc:
+# - name: Boston Public Library
+#  uri: https://digitalcommonwealth.org
+#  iiifc: 1
 - name: British Library
   uri: https://www.bl.uk/
   iiifc: 1
@@ -39,12 +39,12 @@
 - name: British Museum
   uri: http://www.britishmuseum.org/
   iiifc:
-- name: Brown University
-  uri: https://repository.library.brown.edu
-  iiifc: 4
+# - name: Brown University
+#  uri: https://repository.library.brown.edu
+#  iiifc: 4
 - name: Cambridge University
   uri: https://www.cam.ac.uk/
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/cambridge_university2.svg
 - name: Canadian Research Knowledge Network
   uri: https://www.crkn-rcdr.ca/
@@ -133,7 +133,7 @@
   logo: assets/uploads/logos/ghent_logo.svg
 - name: Göttingen State and University Library
   uri: https://www.sub.uni-goettingen.de
-  iiifc: 2
+  iiifc: 4
   logo: assets/uploads/logos/uni-goettingen-logo.svg
 - name: Harvard Art Museums
   uri: http://www.harvardartmuseums.org/
@@ -304,7 +304,7 @@
   logo: assets/uploads/logos/nc_state_logo.jpg
 - name: Boston Public Library and Norman B. Leventhal Map & Education Center
   uri: https://www.leventhalmap.org/
-  iiifc: 4
+  iiifc: 2
 - name: Northwestern University Libraries
   uri: https://www.library.northwestern.edu/
   iiifc: 3
@@ -386,6 +386,12 @@
 - name: University of Alberta Libraries
   uri: https://www.library.ualberta.ca
   iiifc:
+- name: University of Amsterdam
+  uri: https://www.uva.nl/en
+  iiifc: 4
+- name: University of Bern
+  uri: https://www.unibe.ch/index_eng.html
+  iiifc: 4
 - name: University of British Columbia Libraries
   uri: https://www.library.ubc.ca/
   iiifc: 4
@@ -471,6 +477,9 @@
 - name: Veridian Software
   uri: https://www.veridiansoftware.com
   iiifc:
+- name: Vienna University Library
+  uri: https://bibliothek.univie.ac.at/en/
+  iiifc: 4
 - name: Villanova University
   uri: https://digital.library.villanova.edu/
   iiifc:

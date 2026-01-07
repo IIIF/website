@@ -127,6 +127,8 @@ Registration is availabe on [Eventbrite.](https://iiifonline2026.eventbrite.com/
 ### Full Event Calendar
 
 The times on this calendar should adjust to your current time zone.
+
+[An .ics file is available to download for use in your own calendar app.](https://calendar.google.com/calendar/ical/c_93e79f6f4c3e0ff62d8cec2e11a41e46109a07c85aa6e1682c4906e563ce0c97%40group.calendar.google.com/public/basic.ics)
 {:.no_toc}
 
 <div id="calendar-container"></div>
