@@ -95,7 +95,7 @@ The local organizers have prepared a [few social activity suggestions][social] f
 * Location: Göttingen, Germany
 * Cost: 
     - IIIF Consortium Member €195.00
-    -  Non-IIIF Consortium Member €295.00
+    - Non-IIIF Consortium Member €295.00
 * Capacity: 270
 * Social Media: Tweets about the event should use #iiif or [@iiif_io](https://twitter.com/iiif_io)
 * Slack channel: [#göttingen-social][slack-channel] 
@@ -149,22 +149,22 @@ If you are interested in becoming a conference sponsor, please see the benefits 
 
 <div class="container" markdown="0">
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/1280px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0">
-        <img class="thumb-lightbox" alt="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg/640px-Marktplatz_%28G%C3%B6ttingen%29_jm20470.jpg" height="200">
-    </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/755px-Johannisstrasse_Goettingen.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL">
-        <img class="thumb-lightbox" alt="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/442px-Johannisstrasse_Goettingen.jpg" height="200">
-    </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Blick auf Goettingen aus der Vogelschau nach Nordwesten, Friedrich Besemann. Public Domain">
-        <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" height="200">
-    </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg/768px-G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Gänseliesel fountain on the market square in Göttingen. Image taken by Daniel Schwen on march 3rd 2006.">
-        <img class="thumb-lightbox" alt="Gänseliesel fountain on the market square in Göttingen. Old townhall in the background. Image taken by Daniel Schwen on march 3rd 2006." src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg/360px-G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg" height="200">
+        <img class="thumb-lightbox" alt="Marktplatz Göttingen, Joergens.mi/Wikipedia CC BY-SA 3.0" src="{{ site.root_url | absolute_url }}/assets/event/goettingen/Marktplatz_jm20470.jpg" height="200" style="max-width: 30%">
     </a>
     <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the lecture theatre. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-thumb.png" height="200">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-thumb.png" height="200" style="max-width: 30%">
     </a>
     <a href="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-large.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Image of the Conference location. Photo: Frank Stefan Kimmel">
-        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-thumb.png" height="200">
+        <img class="thumb-lightbox" alt="Image of the lecture theatre" src="{{ site.root_url | absolute_url }}/assets/event/goettingen-conference-location-thumb.png" height="200" style="max-width: 30%">
+    </a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png/640px-Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_%28um_1850%29.png" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Blick auf Goettingen aus der Vogelschau nach Nordwesten, Friedrich Besemann. Public Domain">
+        <img class="thumb-lightbox" alt="Besemann - Blick auf Goettingen aus der Vogelschau nach Nordwesten" src="{{ site.root_url | absolute_url }}/assets/event/goettingen/Besemann_-_Blick_auf_Goettingen_aus_der_Vogelschau_nach_Nordwesten_(um_1850).png" height="200" style="max-width: 30%">
+    </a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg/768px-G%C3%B6ttingen_G%C3%A4nseliesel_M%C3%A4rz06.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Gänseliesel fountain on the market square in Göttingen. Image taken by Daniel Schwen on march 3rd 2006.">
+        <img class="thumb-lightbox" alt="Gänseliesel fountain on the market square in Göttingen. Old townhall in the background. Image taken by Daniel Schwen on march 3rd 2006." src="{{ site.root_url | absolute_url }}/assets/event/goettingen/goettingen_marz06.jpg" height="200" style="max-width: 30%">
+    </a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johannisstrasse_Goettingen.jpg/755px-Johannisstrasse_Goettingen.jpg" data-lightbox="edinburgh-images" style="border-bottom: none" data-title="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL">
+        <img class="thumb-lightbox" alt="Johannisstrasse Göttingen, Times/Wikipedia cc-by-sa-2.5/GFDL" src="{{ site.root_url | absolute_url }}/assets/event/goettingen/Johannisstrasse_Goettingen.jpg" height="200" style="max-width: 30%">
     </a>
 </div>
 
