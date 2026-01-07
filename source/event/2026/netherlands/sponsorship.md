@@ -1,7 +1,5 @@
 ---
 title: "Call for Sponsors: 2026 IIIF Annual Conference"
-layout: spec
-page: overview
 banner: true 
 breadcrumbs:
   - label: All Events
