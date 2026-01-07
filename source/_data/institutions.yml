@@ -304,7 +304,7 @@
   logo: assets/uploads/logos/nc_state_logo.jpg
 - name: Boston Public Library and Norman B. Leventhal Map & Education Center
   uri: https://www.leventhalmap.org/
-  iiifc: 2
+  iiifc: 3
 - name: Northwestern University Libraries
   uri: https://www.library.northwestern.edu/
   iiifc: 3
