@@ -46,7 +46,7 @@ The full Call for Proposals and a link to submit your proposal can be found on t
 
 ### **Sponsors**
 
-We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page]({{ site.root_url | absolute_url }}/event/2026/netherlands/sponsorship). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
+We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page](https://iiif.io/event/2026/netherlands/sponsorship/). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
 
 ### Program committee
