@@ -35,7 +35,6 @@ While the Ambassadors Group is ultimately responsible for pursuing and executing
 **Chairs:**
 
   * Caterina Agostini (Center for Digital Humanities, Princeton University)
-  * Claire Knowles (Leeds University Library)
   * Caitlin Perry (IIIF-Consortium)
 
 **Communication channels:**
