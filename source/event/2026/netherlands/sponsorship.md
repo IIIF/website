@@ -1,8 +1,8 @@
 ---
 title: "Call for Sponsors: 2026 IIIF Annual Conference"
-layout: spec
-page: overview
 banner: true 
+layout: event
+tags: [event ]
 breadcrumbs:
   - label: All Events
     link: '{{ site.root_url }}/event/'

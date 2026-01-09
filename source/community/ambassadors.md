@@ -36,8 +36,8 @@ Since 2010 Europeana Local Austria has on a regular basis been organising a 2-da
 Gerda Koch received a Master of Arts in English with a combination of studies in Economics and Law at the University of Graz, holds an academic degree as media specialist from the University of Graz and holds an MBA in Human Resource Management, specialised in modern learning environments. 
 
 
-**Brittny Lapierre, Senior User Experience Developer, Canadian Research Knowledge Network**<br/> 
-Brittny Lapierre, Senior UX Developer at the Canadian Research Knowledge Network (CRKN), earned her BCS from Carleton University and a certificate in User Experience from the University of Toronto. With dedication to advancing open access, accessibility standards, and human-centered design principles, Brittny is eager to champion the benefits of IIIF, especially within the Canadian landscape.
+**Francesca Brzezicki, Heritage Engagement Officer, Canadian Research Knowledge Network**<br/> 
+Francesca joined the Canadian Research Knowledge Network (CRKN) in 2019 and has been in the role of Heritage Engagement Officer since 2023. Her work focuses on collection development and engagement for the Canadiana collections, one of the largest openly accessible collections of digitized Canadian documentary heritage, as well as for their infrastructure, which includes IIIF. Francesca holds an MA in Public History from Carleton University and a BA (Honours) from Queen’s University at Kingston, Ontario.
 
 **Martim Passos, Rio de Janeiro, Brazil**<br/>
 Martim is a researcher and software developer at Instituto Moreira Salles. He worked on different Digital Humanities projects such as imagineRio, the first IIIF collection of Brazilian cultural heritage, and conducts workshops and trainings introducing the framework to researchers and institutions in the country. As a partner of Arka, he has developed open source solutions such as Tropiiify and is actively engaged in the community, fostering the adoption of IIIF in public and private organizations from the Global South.
