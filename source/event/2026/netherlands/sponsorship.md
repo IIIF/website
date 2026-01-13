@@ -12,7 +12,7 @@ hero:
   image: "assets/images/heroes/leiden.jpg"
 ---
 
-The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products & services and interact with participants from all over the world. The[ 2025 IIIF Conference will take place June 1-4, 2026 [in the Netherlands](https://iiif.io/event/2026/netherlands) and will be hosted by the IIIF Consortium with support from the [Dutch Digital Heritage Network](https://netwerkdigitaalerfgoed.nl/en/).
+The International Image Interoperability Framework (IIIF) conference offers an excellent opportunity for vendors to promote products & services and interact with participants from all over the world. The 2026 IIIF Conference will take place June 1-4, 2026 [in the Netherlands](https://iiif.io/event/2026/netherlands) and will be hosted by the IIIF Consortium with support from the [Dutch Digital Heritage Network](https://netwerkdigitaalerfgoed.nl/en/).
 
 The annual IIIF conference attracts a diverse range of participants interested in collaborating and exchanging ideas around digital cultural heritage. Attendees will be staff and researchers from both large and small Universities, Libraries, Archives and Museums, including: collection managers, software developers, UX researchers, subject matter experts, and more. We expect 250-300 attendees keen to learn about IIIF and associated projects, technologies, and best practices.
 
