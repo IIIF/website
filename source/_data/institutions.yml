@@ -379,6 +379,7 @@
 - name: TU Delft
   uri: https://www.tudelft.nl/en/
   iiifc: 2
+  original: false
 - name: United States Holocaust Memorial Museum
   uri: https://www.ushmm.org/
 - name: Universidad de la Habana, Biblioteca Nacional de Cuba José Martí
@@ -477,6 +478,7 @@
 - name: Vanderbilt University Libraries
   uri: https://www.library.vanderbilt.edu/
   iiifc: 2
+  original: false
 - name: Veridian Software
   uri: https://www.veridiansoftware.com
   iiifc:
