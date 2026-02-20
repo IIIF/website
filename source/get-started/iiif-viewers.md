@@ -105,7 +105,17 @@ An open-source embeddable Viewer.  Elegant and contemporary, [Glycerine Viewer](
 
 ![Glycerine screenshot]({{ site.root_url | absolute_url }}/assets/uploads/glycerine.png)
 
-Glycerine is displaying multiple hierarchical annotation sets across multiple languages from a [manifest](https://iaw-server.ardc-hdcl-sia-iaw.cloud.edu.au/api/publications/image-sets/01hm598yb6hc3s7btmqth813mg/manifest) built with [Glycerine Workbench](https://glycerine.io/). 
+Glycerine is displaying multiple hierarchical annotation sets across multiple languages from a [manifest](https://iaw-server.ardc-hdcl-sia-iaw.cloud.edu.au/api/publications/image-sets/01hm598yb6hc3s7btmqth813mg/manifest) built with [Glycerine Workbench](https://glycerine.io/).
+
+---
+
+### [Diva.js](https://diva.simssa.ca){:.external}
+
+Diva.js is an open-source document image viewer that provides a unique viewing experience for IIIF manifests (supporting both Presentation and Image APIs v2 and v3). With features like "Page shift" for keeping page openings aligned, and Right-to-Left document support, Diva.js is optimized for viewing high-resolution images of historical documents. With an extensive built-in image filter suite, Diva.js also provides users with tools to digitally enhance images for better readability.
+
+![Diva.js screenshot]({{ site.root_url | absolute_url}}/assets/uploads/divajs.jpg)
+
+Diva.js showing the integrated collection browser for [e-codices](https://www.e-codices.unifr.ch/en), viewing one of the earliest forms of Western music notation held in the Stiftsbibliothek St. Gallen. (CH-SGs Cod. Sang. 390). [See it for yourself.](https://diva.simssa.ca/try/basic-manifest/)
 
 ## Audio/visual materials viewers
 
