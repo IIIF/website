@@ -33,6 +33,7 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
 - [Adno](https://adno.app/en/) - Adno is a web application for viewing, editing and sharing narratives and journeys on online images, static images and IIIF images.
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
+- [Digirati Exhibition Editor](https://manifest-editor-docs.netlify.app/docs/exhibition-building) - An extension to the Digirati Manifest Editor which supports the creation and development of IIIF content for storytelling or exhibition style presentations.
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Micrio](https://micr.io/) - Micrio is a user-friendly image viewer and storytelling tool, with a full server environment.
 - [MLOL Stories](https://iiif.medialibrary.it/stories/) - A tool to promote the use of digital collections through innovative online narratives (in Italian).
@@ -47,6 +48,7 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 
 - [biiif](https://github.com/edsilv/biiif/) - A tool for organising your files according to a simple naming convention to generate IIIF v3 manifests. (See also: [biiif Template Tool](https://github.com/iiif-commons/biiif-template), which helps deploy tiled images and manifests to hosted services like Vercel and Netlify, no command line usage necessary)
 - [Bodleian Manifest Editor](https://digital.bodleian.ox.ac.uk/manifest-editor/) - A Web application for importing, viewing, updating, and exporting manifests. [Note: currently only supports IIIF Presentation API 2.1]
+- [Digirati Manifest Editor](https://manifest-editor-docs.netlify.app/) - An open-source, IIIF editing tool, designed to provide a visually intuitive interface for creating, editing and updating IIIF Manifests and more.
 
 
 <!-- ### Recent community tools
