@@ -19,6 +19,7 @@ The following services offer cloud-based hosting of assets; all provide support 
 - [Muzai.io platform](https://muzai.io)
 - [Reclaim Hosting](https://support.reclaimhosting.com/hc/en-us/articles/5751292854167-Getting-Started-with-Cantaloupe-IIIF-Image-Server#getting-started-with-cantaloupe-iiif-image-server-0-0){:data-proofer-ignore=''}
 - [Sanity.io](https://www.sanity.io/docs/iiif-api-reference)
+- [tiny.iiif](https://github.com/rsimon/tiny-iiif)
 
 ## Digital asset management (DAMs), collections management, and repository tools that support IIIF
 
