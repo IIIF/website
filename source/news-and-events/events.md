@@ -12,6 +12,13 @@ top_tabs:
 hero:
   image: "assets/uploads/nypl_5180606.webp"
 ---
+
+{{ theme.block-center-start }}
+<h2>Main events</h2>
+
+{%- include blocks/event-cards.html items=site.data.events limit=4 cat="main" -%}
+{{ theme.block-end }}
+
 {{ theme.block-center-start }}
 
 {% include blocks/tabs.html  tabs=page.top_tabs %}
