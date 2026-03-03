@@ -7,13 +7,13 @@
 #      link: "https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079"
 #  location:
 #    label: "Online"
-- label: "IIIF Online Meeting"
+- label: "AI4LAM-IIIF-IIPC Showcase"
   time:
-    start: 2026-01-27T10:00:00Z
-    end: 2026-01-29T10:00:00Z
+    start: 2026-03-12T10:00:00Z
+    end: 2026-03-12T10:00:00Z
   links:
     - label: More info
-      link: "https://iiif.io/event/2026/online-meeting/"
+      link: "https://netpreserve.org/event/ai4lam-iiif-iipc-showcase/"
   location:
     label: "Online"    
 - label: IIIF Annual Conference & Showcase 2026
