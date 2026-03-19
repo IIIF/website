@@ -434,8 +434,7 @@
   logo: assets/uploads/logos/University_of_Michigan_logo.svg
 - name: University of Minnesota Libraries
   uri: https://www.lib.umn.edu/
-  iiifc: 4
-  logo: assets/uploads/logos/University_of_Michigan_logo.svg  
+  iiifc: 4 
 - name: University of Notre Dame
   uri: http://library.nd.edu
   iiifc: 2
