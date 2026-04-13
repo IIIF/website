@@ -19,9 +19,9 @@ All IIIF events are subject to the [Code of Conduct][conduct].
 
 __Previous IIIF-Hosted Events__
 
-* 2026 IIIF Online Meeting: [January 27-29, 2026, Online](https://iiif.io/event/2026/online-meeting/)
-* 2025 IIIF Annual Conference: [June 2-5, 2024, Leeds, UK](https://iiif.io/event/2025/leeds/)
-* 2024 IIIF Online Meeting: [November 12- 14, 2024, Online](https://iiif.io/event/2024/online-meeting/)
+* 2026 IIIF Online Meeting - Working and Learning: [January 27-29, 2026, Online](https://iiif.io/event/2026/online-meeting/)
+* 2025 IIIF Annual Conference: [June 2-5, 2024, Leeds, United Kingdom](https://iiif.io/event/2025/leeds/)
+* 2024 IIIF Online Meeting - Working and Learning: [November 12- 14, 2024, Online](https://iiif.io/event/2024/online-meeting/)
 * 2024 IIIF Annual Conference: [June 4-7, 2024, Los Angeles, CA][losangeles2024]
 * 2023 IIIF Online Meeting - Working and Learning: [December 5-7, 2023, Online][online2023]
 * 2023 IIIF Annual Conference: [June 5-8, 2023, Naples, Italy][naples2023]
