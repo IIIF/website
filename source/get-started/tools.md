@@ -23,6 +23,7 @@ See also:
 - [Digital Mappa](https://www.digitalmappa.org/) - An open-source digital humanities platform for open-access workspaces, projects and publications.
 - [Allmaps](https://allmaps.org/) - Allmaps is a set of open source tools that make it easier and more fun to search, explore, georeference and work with collections of digitised maps.
 - [Madoc](https://madoc.digirati.com/) - A flexible transcription and annotation platform for crowdsourcing, research or teaching with IIIF collections.
+- [Mirador Multi User](https://www.mirador-multi-user.com/) - Multi-user workspace environment for the Mirador 4 viewer and plugins. Annotate, share, create around IIIF resources.
 - [Glycerine Workbench](https://glycerine.io/) provides a suite of annotation tools and end-to-end workflows for researchers, curators and students to collaborate on projects across repositories and publish research outputs.
 - [liiive](https://github.com/rsimon/liiive) - A platform for real-time collaborative IIIF image annotation.
 
