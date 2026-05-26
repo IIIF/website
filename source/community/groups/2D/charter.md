@@ -1,5 +1,5 @@
 ---
-title: "IIIF 3D Community Group Charter"
+title: "IIIF Interactive 2D Community Group Charter"
 layout: page
 breadcrumbs:
  - label: "Get Involved"
@@ -12,11 +12,28 @@ breadcrumbs:
 
 ## Rationale
 
-3D capture is gaining wide traction across interdisciplinary communities as technologies have improved.  Much development of 3D applications is siloed, and cutting-edge activities are largely happening outside the library and cultural heritage realm. 3D data cover a wide-range of file formats and applications for research and outreach.
+The Interactive 2D Community Group is focused on exploring ways of using IIIF to create and maintain interactive digital surrogates of texts. Book technologies such as flaps, volvelles, and pull tabs require specific forms of user interaction to create and transmit meaning. In use globally since at least the medieval period, interactive book technologies appear across text genres, from medical and scientific texts to advertising ephemera and satirical prints. Although videos and still photographs can be used to communicate some of this information, the lack of personal engagement with the materiality of the object inhibits meaning creation and transmission of information. Since the main research value for these objects lies in the interaction with specific “flat” parts (ex. Flaps) that embody specific, prescribed movement (as opposed to 3D physicality), we hope to grow IIIF to allow for prescribed user interactions with 2D captures while still leveraging well-known benefits of IIIF such as deep zoom and wide-scale resource sharing. The group prioritizes 2D image capture for these materials in order to increase accessibility to them for both user access and in support of institutional resource capacity. Some institutions have expressed that they do not have, nor anticipate ever having, 3D capture and/or access capabilities. Additionally, this will allow institutions to modify existing 2D captures to allow for interactivity. 
 
-A IIIF 3D community group provides an opportunity for institutions interested in interoperability to coordinate strategies and facilitate conversations about open standards that support 3D use cases. Many of the desired operations and interactions with 3D data are similar to the 2D and A/V use cases of IIIF for sharing images and annotation, and organizations are increasingly looking to integrate exhibits, displays, and comparisons of 3D data with other file types.
+The benefits of focusing on interactivity for 2D captures include:
 
-This community group is not a technical working group and will not produce IIIF specifications or technical recommendations. The purpose of this group is to bring those interested together, from both within and beyond existing IIIF participants, to develop coordinated strategies and exploration of possibilities for 3D data and applications. Further, it exists as a rallying point for engaging with the broader web community to promote interoperability and standards within browsers and applications. We hope and expect participation in this group from cultural heritage organizations, industry experts, researchers in computer graphics and related disciplines, the scientific imaging community and others.
+* Enhancing meaning by providing a pathway for users to recreate the organic interactions prescribed by physical materials within the digital surrogates of those materials.
+* Creating a lightweight option that allows institutions with more limited resources to provide fuller digital access to book technologies such as flaps, volvelles, and pull-tabs, especially for institutions at which support for 3D capture is limited or non-existent.
+* The ability to leverage pre-existing 2D captures to create new opportunities for digital access. 
+* Creating space to discuss, describe, and digitally curate a digital content-type that is often overlooked in digital collections and has unique representation needs – for example, a digital representation of a volvelle should allow a user to rotate a wheel, but does not require a 3D “sideways” view for a user to understand the object.
+
+The Interactive 2D Community Group formed after the 2025 IIIF meeting in Leeds following a Birds of a Feather session hosted by colleagues at the University of Minnesota and the V&A. The group provides a forum for individuals interested in providing greater access to items with movable parts and/or those wishing to display and invite users to interact with basic movement (folding, turning, rotating) in their collections. The group is fundamentally interdisciplinary, with members who are digital collection specialists, curators, and programmers working together to triangulate the best ways of displaying these unique items to meet user needs while also prioritizing resource availability and physical restrictions of these extremely fragile objects. 
+
+**Materials in Scope:**
+
+* Books or book technologies where 2D representation with movement is used to transmit meaning, including but not limited to: 
+    * Volvelles
+    * Books or materials with flaps (scrapbooks, flap anatomies, advertising trading cards, greeting cards, and other forms of ephemera) 
+    * Pull-tab books
+
+**Materials out of Scope:**
+
+* Books or book technologies where the 3D representation best transmits meaning. For example, pop-up books, tunnel books, and paper peep shows.
+    * For these types of materials, and others that emerge with similar requirements, use cases and technical specifications are covered by work in the 3D community group.
 
 ## Goals
 
@@ -32,16 +49,14 @@ Monthly meetings (times to rotate between convenient for Europe and Pacific/US):
 
 **Chairs:**
 
-* Ed Silverton ([Mnemoscene][mnemoscene])
-* Ronald Haynes ([Cambridge University][ronald])
-* Julie Winchester ([Duke University][julie])
+* Theresa Berger, University of Minnesota Libraries
+* Emily Beck, University of Minnesota Libraries
+* Summer Shetenhelm, Yale University 
+* Patrick Cuba, St. Louis University
+
 
 ## Communication channels
 
-* Email: [IIIF-Discuss][iiif-discuss], subject line: \[3D\]
-* Slack: [#3d][3d-slack]
-* Github: https://github.com/IIIF/iiif-3d-stories
-* Calls: (TBD)
-
-[3d-slack]: https://iiif.slack.com/messages/3d/details/
-[iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
+* Monthly calls - see [IIIF Community Calendar](https://iiif.io/community/groups/) for details
+* Virtual meetings announced on the [IIIF-Discuss](https://groups.google.com/g/iiif-discuss) email list
+* General discussion on the [#moving-books IIIF Slack channel](https://bit.ly/iiif-slack)
