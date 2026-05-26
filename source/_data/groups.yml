@@ -5,6 +5,7 @@
     - IIIF 2D Community Group
   description: The IIIF Interactice 2D group is focused on exploring ways of using IIIF to create and maintain interactive digital surrogates of texts.
   type: community #TSG or community
+  link: /community/groups/2d
   notes: https://drive.google.com/drive/folders/11Q6fr8-i-BdkIiA6MGXwtH9RCFikilCb #link to Google Drive folder
   meeting_frequency: Every third Tuesday #One-liner, e.g. Quarterly calls on Wednesdays
 - id: 3d # Slug in IIIF url, e.g. D4H
