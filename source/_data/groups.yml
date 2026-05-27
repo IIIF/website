@@ -48,7 +48,7 @@
   # type: community 
   # notes: https://drive.google.com/drive/folders/1Qwj3DSAcpSn87msF1vY0sTufIaoZWKQh?usp=drive_link
   # meeting_frequency: Monthly on the third Monday
-id: AUX 
+id: aux 
   label: Accessibility and Usability
   alternate_names: 
     - IIIF Accessibility and Usability Community Group
