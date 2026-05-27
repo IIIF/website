@@ -378,7 +378,7 @@
   uri:  https://repository.dri.ie
 - name: TU Delft
   uri: https://www.tudelft.nl/en/
-  iiifc: 2
+  iiifc: 3
   original: false
 - name: United States Holocaust Memorial Museum
   uri: https://www.ushmm.org/
