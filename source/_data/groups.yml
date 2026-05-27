@@ -50,12 +50,9 @@
   # meeting_frequency: Monthly on the third Monday
 - id: AUX 
   label: Accessibility and Usability
-  alternate_names: 
-    - IIIF Accessibility and Usability Community Group
-    - IIIF Accessibility & UX 
   description: The IIIF Accessibility and Usability Community Group is committed to authoring, collecting, and sharing recommendations for creating accessible and user-friendly IIIF-compliant resources and interfaces.
   link: /community/groups/aux
-  type: community 
+  type: community
   notes: https://drive.google.com/open?id=1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7
   meeting_frequency: Every four weeks, on Thursdays  
 - id: av 
