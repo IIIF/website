@@ -28,6 +28,12 @@ Membership is open to universities, libraries, museums, archives, vendors, and o
 
 {{ theme.block-end }}
 
+## Champion Members
+
+{% assign logos = site.data.institutions | where_exp: "org", 'org.iiifc == 5' %}
+
+{% include blocks/logo-grid.html items=logos %}
+
 ## Full Members
 
 \* indicates Founding Member of the IIIF Consortium
