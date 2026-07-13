@@ -13,7 +13,7 @@ ignore-url-check:
 ---
 {{ theme.block-start }}
 
-{% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
+{% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4 or org.iiifc == 5 '%}
 
 The IIIF-C now comprises [{{ members.size }} members]({{ site.root_url | absolute_url }}/community/consortium/members/) around the world who have signed a IIIF-C Memorandum of Understanding committing to support the growth and adoption of IIIF, including the members listed below.
 
@@ -27,6 +27,12 @@ Membership is open to universities, libraries, museums, archives, vendors, and o
 <div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}</div>
 
 {{ theme.block-end }}
+
+## Champion Members
+
+{% assign logos = site.data.institutions | where_exp: "org", 'org.iiifc == 5' %}
+
+{% include blocks/logo-grid.html items=logos %}
 
 ## Full Members
 

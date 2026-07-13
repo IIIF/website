@@ -12,47 +12,50 @@ breadcrumbs:
 {{ theme.block-start }}
 
 ## About the Consortium
+The IIIF Consortium (IIIF-C) unites a growing number of global research libraries, national libraries, archives, software companies, digital agencies, and aggregators with a shared vision and mission:
 
-The IIIF Consortium (IIIF-C) unites a growing number of global research libraries, national libraries, archives, software companies, digital agencies, and aggregators with a set of shared goals:
+### Vision Statement
+ * Build and sustain a global community to provide richer access to the world's image, audio/visual, and 3D digital content now and for the future.
 
-*   Providing researchers--and other audiences--an unprecedented level of uniform and rich access to digitized image, audio, and video resources hosted around the world
-*   Defining and maintaining a community-driven set of APIs that support interoperability between repositories
-*   Developing, cultivating, and documenting shared technologies that provide a world-class user experience in viewing, comparing, manipulating, and annotating digitized visual and audio materials
+### Mission Statement
+ * The International Image Interoperability Framework Consortium (IIIF-C) shepherds the development and implementation of IIIF as a global standard for describing and delivering images, audio/visual, and 3D digital content over the web through collaboration across cultural heritage and research communities, knowledge organizations, and service providers around the world.
 
-The Consortium was formed in 2015 by 11 institutions: University of Oxford, the British Library, Stanford University, Artstor (now ITHAKA), Die Bayerische Staatsbibliothek (The Bavarian State Library), Cornell University, La Bibliothèque Nationale de France (The National Library of France), Nasjonalbiblioteket (The National Library of Norway), Princeton University, Wellcome Trust, and Yale University.
+The Vision and Mission support the four strategic pillars as outlined in the 2026-2028 IIIF Consortium [Strategic Plan]({{ site.root_url | absolute_url }}/community/consortium/strategic_plan_26-28/):
 
-While IIIF’s origins are in libraries, the community includes museums, archives, commercial design and technology companies, and image services of all types, creating new opportunities for exchange and collaboration across sectors.
+### Pillar 1: Advocacy & Leadership
+ * IIIF-C will grow to become a global leader in advocating for the interoperability of image, audio/visual, and 3D digital content for cultural heritage research and beyond.
 
-{% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
+### Pillar 2: Technical Development
+ * IIIF-C will facilitate increasing the number of interoperable systems.
 
-The IIIF-C now comprises [{{ members.size }} members]({{ site.root_url | absolute_url }}/community/consortium/members/) around the world who have signed the [IIIF-C Memorandum of Understanding]({{ site.root_url | absolute_url }}/community/consortium/mou), committing to support the growth and adoption of IIIF, including:
+### Pillar 3: Scholarship & Community Development
+ * The IIIF-C will systematically invest in lowering barriers and connecting community members.
 
-{% assign logos = site.data.institutions | where_exp: "org", 'org.original == true'  | sample: 11 %}
+### Pillar 4: Membership & Value
+ * The IIIF-C will re-evaluate its membership model with an eye toward a more equitable structure and increasing the number of IIIF-C memberships and revenue.
 
-{% include blocks/logo-grid.html items=logos %}
+{% assign iiifc_members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
 
-<div class="columns is-centered">{% include misc/button.html button_label="View all members" button_link="/community/consortium/members" %}</div>
+## How to Join
+The IIIF-C now comprises [{{ iiifc_members.size }} members]({{ site.root_url | absolute_url }}/community/consortium/members/) around the world who support the IIIF-C through financial contributions and participation in the broader IIIF community. Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership include a range of benefits, and all support the central goal of ensuring the sustainability of IIIF. You can find more information on how to join and the conveyed benefits of membership on the ["How to Join"]({{ site.root_url | absolute_url }}/community/consortium/join/) page.
 
+The IIIF community is extremely active in developing, sharing and implementing a wealth of IIIF compatible tools used extensively across the cultural heritage and research communities, knowledge organizations, and service providers around the world.
 
-{{ theme.block-end }}
+The Consortium provides a crucial backbone to this development in managing the maintenance and evolution of the IIIF specifications on which these developments rest.  Without this level of care, the IIIF ecosystem would become vulnerable. We therefore recommend all institutions implementing IIIF consider the significant value of becoming consortium members. You will be helping to secure the resilience and longevity of your infrastructure, and ongoing support for your community of users.
 
-{{ theme.block-center-start }}
-
-## Join
-Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership include a range of benefits.   
-<br>
-<div class="columns is-centered">{% include misc/button.html button_label="Learn more" button_link="/community/consortium/join" %}</div>
-
-{{ theme.block-end }}
-
-{{ theme.block-start }}
-
-
-## Oversight
+## Governance
 The Consortium is guided by three committees which members may join:
 
-*   [Executive Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#executive-committee) - Steering strategic direction and budget approval, this committee meets twice annually. Initially it was composed of staff from the first eleven founding members of the Consortium, plus two additional elected members. Starting in 2021, seats on this committee are elected annually by the Consortium membership to staggered terms.
-*   [Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#operating-committee) - A group selected from Executive Committee institution staff consisting of a Chair, Vice-Chair, and Treasurer along with three members at large who meet monthly to ensure the strategic direction set by the Executive Committee is being achieved.
-*   [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc) - This committee is made up of appointees from Consortium member institutions with technical backgrounds, who vote monthly to approve or reject proposed changes to the specifications, cookbook recipes, and technical community groups.
+ * [Executive Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#executive-committee) - Steering strategic direction and budget approval, the thirteen institution committee is elected for staggered terms from Full Consortium members..
+ * [Operating Committee]({{ site.root_url | absolute_url }}/community/consortium/consortium_committees/#operating-committee) - Elected from within the Executive Committee, the Operating Committee is comprised of a Chair, Vice-Chair, and Treasurer along with three members at large. 
+ * [Technical Review Committee]({{ site.root_url | absolute_url }}/community/consortium/trc) - This committee is made up of appointees from Consortium member institutions with technical backgrounds, who vote monthly to approve or reject proposed changes to the specifications, cookbook recipes, and technical community groups.
 
-The Executive Committee is currently working on developing a [new iterative strategic framework](https://docs.google.com/presentation/d/1JMCLToTlijx3ztiPoKigEdmS2je_fYjU0kj-pxhgaM8/edit#slide=id.g2542c596307_0_77) to help focus the efforts of the Consortium in supporting the broader IIIF community.
+The [IIIF-C staff]({{ site.root_url | absolute_url }}/community/consortium/staff/) provide the day-to-day management of the IIIF Consortium is provided by the Managing Director, Communications and Community Coordinator, and Technical Coordinator who are employed under the auspices of the Executive Committee.
+
+## Consortium Origins
+The Consortium was formed in 2015 by 11 institutions: University of Oxford, the British Library, Stanford University, Artstor (now ITHAKA), Die Bayerische Staatsbibliothek (The Bavarian State Library), Cornell University, La Bibliothèque Nationale de France (The National Library of France), Nasjonalbiblioteket (The National Library of Norway), Princeton University, Wellcome Trust, and Yale University.
+While IIIF’s origins are in libraries, the community includes museums, archives, commercial design and technology companies, and image services of all types, creating new opportunities for exchange and collaboration across sectors.
+
+From those original funding institutions, the IIIF-C has grown to a global community of {{ iiifc_members.size }} members.
+
+{{ theme.block-end }}

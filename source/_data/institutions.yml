@@ -1,6 +1,10 @@
 # - name: Full Name
 #   uri: URL
-#   iiifc: 1, 2, 3 (new full memmber) or 4 (associate member)
+#   iiifc: 1 (initial founding members), 
+#          2 (founding members), 
+#          3 (new full member)
+#          4 (associate member) or 
+#          5 (Champion)
 #   new: true or false (adds logo to homepage if true)
 #   logo: Path to logo image
 - name: 4Science S.p.A.
@@ -348,7 +352,7 @@
   uri: http://jubilees.stmarytx.edu
 - name: Stanford University
   uri: http://library.stanford.edu/
-  iiifc: 1
+  iiifc: 5
   logo: assets/uploads/logos/stanford_wordmark-nospace-stacked-red.png
   original: true 
 - name: State Library of Queensland
@@ -500,7 +504,7 @@
   iiifc:
 - name: Wellcome Trust
   uri: http://wellcomelibrary.org
-  iiifc: 1
+  iiifc: 5
   logo: assets/uploads/logos/Wellcome_Collection_logo.svg.png
   original: true 
 - name: Wikipedia (Wikimedia Foundation)
@@ -514,7 +518,7 @@
   logo: assets/uploads/logos/ycba.png
 - name: Yale University
   uri: https://www.yale.edu/
-  iiifc: 1
+  iiifc: 5
   logo: assets/uploads/logos/yale_logo-print.png
   original: true 
 - name: Zegami
