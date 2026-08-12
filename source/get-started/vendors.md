@@ -28,7 +28,7 @@ If you don't have the time or resources to build your own IIIF infrastructure, y
  - [Atlantis Collectiebeheer](https://www.atlantis-erfgoed.nl/collectiebeheer)
  - [Avalon Media System](https://www.avalonmediasystem.org/)
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
- - [Archipelago](https://archipelago.nyc/)
+ - [Archipelago](https://docs.archipelago.nyc/)
  - [CollectiveAccess](https://collectiveaccess.org)
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
  - [DB Seret](https://www.dbseret.com/iiif)
