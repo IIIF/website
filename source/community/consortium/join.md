@@ -18,7 +18,7 @@ breadcrumbs:
 ---
 
 
-{% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
+{% assign members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4 or org.iiifc == 5'  %}
 
 The IIIF Consortium now comprises [{{ members.size }} leading institutions]({{ site.root_url | absolute_url }}/community/consortium/members/) from around the world, all committing to support the growth and adoption of IIIF.
 

@@ -34,7 +34,7 @@ The Vision and Mission support the four strategic pillars as outlined in the 202
 ### Pillar 4: Membership & Value
  * The IIIF-C will re-evaluate its membership model with an eye toward a more equitable structure and increasing the number of IIIF-C memberships and revenue.
 
-{% assign iiifc_members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4' %}
+{% assign iiifc_members = site.data.institutions | where_exp: "org", 'org.iiifc == 1 or org.iiifc == 2 or org.iiifc == 3 or org.iiifc == 4 or org.iiifc == 5'%}
 
 ## How to Join
 The IIIF-C now comprises [{{ iiifc_members.size }} members]({{ site.root_url | absolute_url }}/community/consortium/members/) around the world who support the IIIF-C through financial contributions and participation in the broader IIIF community. Membership is open to universities, libraries, museums, archives, vendors, and others who have an interest in supporting the framework. Multiple levels of membership include a range of benefits, and all support the central goal of ensuring the sustainability of IIIF. You can find more information on how to join and the conveyed benefits of membership on the ["How to Join"]({{ site.root_url | absolute_url }}/community/consortium/join/) page.
