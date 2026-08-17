@@ -15,9 +15,9 @@ hero:
 
 The Online Meeting is intended for a wide range of participants and interested parties, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, cultural heritage institutions, software firms, and other organizations working with digital images and audio/visual materials.
 
- This event is meant both to introduce newcomers to IIIF and to provide a forum for discussion and dissemination for those with experience implementing and working with IIIF in a variety of contexts.
+This event is meant both to introduce newcomers to IIIF and to provide a forum for discussion and dissemination for those with experience implementing and working with IIIF in a variety of contexts.
 
- New for 2027, the Consortium and Community will host a series of in-person satellite events to complement the online experience. If you are interested in hosting a local event, please email <staff@iiif.io>. 
+New for 2027, the Consortium and Community will host a series of in-person satellite events to complement the online experience. If you are interested in hosting a local event, please email <staff@iiif.io>. 
 
 This event is guided by the [IIIF Code of Conduct](https://iiif.io/event/conduct).
 
@@ -36,12 +36,4 @@ The submissions portal will open in early September and submissions are due **No
 
 Questions? Email us at <events@iiif.io>.
 
-[iiif]: https://iiif.io/
-[groups]: {{ site.url }}{{ site.baseurl }}/community/groups/
-[consortium]: {{ site.url }}{{ site.baseurl }}/community/consortium/
-[home-page]: http://iiif.io/
-[iiif-discuss]: https://groups.google.com/forum/#!forum/iiif-discuss
-[conduct]: {{ site.url }}{{ site.baseurl }}/event/conduct/
-[hashtag]: https://twitter.com/search?q=%23iiif&src=typd
-[twitter]: https://twitter.com/iiif_io
-[cfp]: https://forms.gle/j1NJxV8vBuf76FPp7-->
+
