@@ -16,13 +16,22 @@
       link: "https://netpreserve.org/event/ai4lam-iiif-iipc-showcase/"
   location:
     label: "Online"    
-- label: IIIF Annual Conference & Showcase 2026
+- label: IIIF 2027 Online Meeting
   time:
-    start: 2026-06-01T06:00:00Z
-    end: 2026-06-04T23:00:00Z
+    start: 2027-01-26T06:00:00Z
+    end: 2027-01-28T23:00:00Z
   links:
     - label: More info
-      link: "https://conference2026.iiif.io/"
+      link: "/event/2027/online-meeting/"
   location: 
-    label: "The Netherlands"  
+    label: "Online"  
+#- label: 2027 IIIF Annual Conference & Showcase
+#  time:
+#    start: 2027-01-26T06:00:00Z
+#    end: 2027-01-28T23:00:00Z
+#  links:
+#    - label: More info
+#      link: "https://iiif.io/event/2027/paris/"
+#  location: 
+#    label: "Paris, France"      
 

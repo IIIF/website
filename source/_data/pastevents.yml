@@ -1,10 +1,22 @@
+- name: IIIF Annual Conference & Showcase 2026
+  start_date: 2026-06-01T06:00:00Z
+  end_date: 2026-06-04T23:00:00Z
+  url: "/event/2026/netherlands/"
+  location: "Netherlands"    
+  description: "Conference and Showcase in the Leiden, Amsterdam and the Hague"
+- name: 2026 Online Meeting
+  start_date: 2026-01-27
+  end_date: 2026-01-29
+  location: Online
+  url: /event/2026/online-meeting/
+  description: "IIIF working and learning online meeting. A collection of lightning talks and online workshops."
 - name: IIIF Annual Conference & Showcase 2025
   start_date: 2025-06-02T06:00:00Z
   end_date: 2025-06-05T23:00:00Z
   url: "/event/2025/leeds/"
   location: "Leeds, England, UK"    
   description: "Conference and Showcase in the University of Leeds"
-- name: 2024 Online Meeting 2024
+- name: 2024 Online Meeting
   start_date: 2024-11-12
   end_date: 2024-11-14
   location: Online
