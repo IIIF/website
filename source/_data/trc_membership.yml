@@ -29,6 +29,9 @@
 - institution: IIIF Editors
   name: Dawn Childress
   role: 1
+- institution: IIIF Editors
+  name: Julie Winchester
+  role: 1  
 
 #Consortium Full Members 
 #- institution: Bayerische Staatsbibliothek (Bavarian State Library)
@@ -61,22 +64,25 @@
 - institution: Europeana
   name: Nuno Freire
   role: 2
-- institution: Folger Shakespeare Library
-  name: Emily Wahl
-  role: 2
+- institution: French Ministry of Culture
+  name: Ruven Pillay
+  role: 2 
+#- institution: Folger Shakespeare Library
+#  name: Emily Wahl
+#  role: 2
 - institution: The J. Paul Getty Trust
   name: Dan Brennan
   role: 2
-- institution: Gottingen State and University Library
-  name: Ingo Pfennigstorf
-  role: 2
+#- institution: Gottingen State and University Library
+#  name: Ingo Pfennigstorf
+#  role: 2
 - institution: Harvard University
   name: Rashmi Singhal
   role: 2
 - institution: Indiana University
-  name: Daniel Pierce
+  name: Jon Cameron
   role: 2
-- institution: Artstor/ITHAKA
+- institution: ITHAKA
   name: Anand Krishnan
   role: 2
 - institution: Johns Hopkins University
@@ -85,9 +91,9 @@
 #- institution: Kansai University
 #  name: 
 #  role: 2
-- institution: Kyoto University Library Network
-  name: Azusa Omae
-  role: 2
+#- institution: Kyoto University Library Network
+#  name: Azusa Omae
+#  role: 2
 #- institution: Leiden University
 #  name: 
 #  role: 2
@@ -112,9 +118,9 @@
 #- institution: National Library of Poland
 #  name: 
 #  role: 2
-- institution: National Library of Finland
-  name: Ronja Koistinen
-  role: 2
+#- institution: National Library of Finland
+#  name: Ronja Koistinen
+#  role: 2
 - institution: National Library of Wales
   name: Ioan Isaac Richards
   role: 2
@@ -124,7 +130,7 @@
 - institution: New York University Libraries
   name: Alberto Ortiz Flores
   role: 2
-- institution: North Carolina State University Libraries
+- institution: NC State University Libraries
   name: Jason Ronallo
   role: 2
 - institution: OCLC
@@ -175,7 +181,7 @@
 #- institution: University of Tennessee, Knoxville
 #  name:  Mark Baggett
 #  role: 2
-- institution: Texas A&M
+- institution: Texas A&amp;M Libraries
   name:  Mark Baggett
   role: 2
 - institution: Vatican Library
@@ -187,7 +193,7 @@
 - institution: Wellcome Trust
   name: Jonathan Tweed
   role: 2
-- institution: Yale University Library
+- institution: Yale University
   name: Trip Kirkpatrick
   role: 2
   
