@@ -86,16 +86,6 @@ Community members and consortium members representing IIIF-C associate members w
 {% endfor %}
 </ul>
 
-### Consortium associate members
-<ul>
-{% for i in site.data.trc_membership %}
-    {% if i.role == 3 %}
-  <li>
-        {{ i.institution }}: {{ i.name }}
-  </li>
-    {% endif %}
-{% endfor %}
-</ul>
 ### Community representatives
 <ul>
 {% for i in site.data.trc_membership %}
