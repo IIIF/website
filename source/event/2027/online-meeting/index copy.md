@@ -21,6 +21,7 @@ This event is guided by the [IIIF Code of Conduct](https://iiif.io/event/conduct
 
 
 ## Logistics
+
 * This event is free and open to all attendees.
 * Presentations will be recorded. 
 * All sessions will be in English unless otherwise noted.
