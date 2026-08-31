@@ -48,7 +48,7 @@ Workshop submissions must have an abstract, a proposed outline schedule, and des
 
 *We encourage workshop organizers to set the registration cap for their sessions as high as possible without sacrificing quality.*
 
-**Submissions**
+### **Submissions**
 
 **Please submit proposals through Google Forms: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeUoxsU5JRX1hbG5cPAIgldi-Yan869dvBP9Nbc_8yJ-TjlnA/viewform?usp=publish-editor)**
 
