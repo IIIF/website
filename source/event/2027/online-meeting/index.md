@@ -29,7 +29,9 @@ This event is guided by the [IIIF Code of Conduct](https://iiif.io/event/conduct
 
 ## Call for Proposals
 
-The submissions portal will open in early September and submissions are due **November 3.**
+The submissions portal will open in September 1 and submissions are due **November 3.**
+
+Read the full call for proposals, including information about themes, proposal instructions, and other important details on the [Call for Proposals page.](https://iiif.io/event/2027/online-meeting/cfp)
 
 
 Questions? Email us at <events@iiif.io>.
