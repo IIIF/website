@@ -47,6 +47,8 @@ Workshop submissions must have an abstract, a proposed outline schedule, and des
 
 **Please submit proposals through Google Forms: [Submission Form](https://forms.gle/EWfcvXkUtKEXf7L97)**
 
+See the programs from [2026](https://iiif.io/event/2026/online-meeting/), [2024](https://iiif.io/event/2024/online-meeting/), and [2023](https://iiif.io/event/2023/online-meeting/) for examples of successful submissions.
+
 
 ### **Questions?**
 
