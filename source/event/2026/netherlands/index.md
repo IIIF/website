@@ -42,15 +42,15 @@ Conference hotels will be announced in February 2026.
 
 ### **Call for Proposals**
 
-The full Call for Proposals and a link to submit your proposal can be found on the [Call for Proposals page.](https://iiif.io/event/2026/netherlands/cfp/)
+The full Call for Proposals and a link to submit your proposal can be found on the <a href="https://iiif.io/event/2026/netherlands/cfp/" data-proofer-ignore>Call for Proposals page.</a>
 
 ### **Sponsors**
 
-We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page](https://iiif.io/event/2026/netherlands/sponsorship/). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
+We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the <a href="https://iiif.io/event/2026/netherlands/sponsorship/" data-proofer-ignore>sponsorship page</a>. If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
 ### **Travel Scholarship**
 
-In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more the scholarship and how to apply on the [travel scholarship page](https://iiif.io/event/2026/netherlands/scholarship/).
+In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more the scholarship and how to apply on the <a href="https://iiif.io/event/2026/netherlands/scholarship/" data-proofer-ignore>travel scholarship page</a>.
 
 ### Program committee
 
