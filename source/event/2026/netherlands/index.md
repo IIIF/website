@@ -50,7 +50,7 @@ We are offering sponsorship for the 2025 IIIF conference and the benefits and co
 
 ### **Travel Scholarship**
 
-In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more the scholarship and how to apply on the <a href="https://iiif.io/event/2026/netherlands/scholarship/">travel scholarship page</a>.
+In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more the scholarship and how to apply on the <a href="https://iiif.io/event/2026/netherlands/scholarship/" data-proofer-ignore>travel scholarship page</a>.
 
 ### Program committee
 
