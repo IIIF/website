@@ -13,6 +13,7 @@ hero:
 The following services offer cloud-based hosting of assets; all provide support for the IIIF Image API, and some provide additional features like IIIF manifest generation and search.
 
 - [Cloud Services from Digirati](https://iiif-cloud.digirati.com/)
+- [Glycerine Workbench](https://glycerine.io/)
 - [IIIFHosting](https://www.iiifhosting.com/)
 - [Internet Archive](https://training.iiif.io/iiif-online-workshop/day-two/image-servers/iiif-hosting-ia.html)
 - [Micrio](https://micr.io/)
