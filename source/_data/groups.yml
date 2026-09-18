@@ -110,6 +110,15 @@
   type: community 
   notes: https://drive.google.com/drive/u/0/folders/1TdHURLCx5n8KH0Jzx49mPYjJSparovVw 
   meeting_frequency: Monthly on the last Tuesday 
+- id: UX
+  label: Accessibility & Usability 
+  alternate_names: 
+    - IIIF Accessibility & Usability Group 
+  description: Our mission is to ensure the success and widespread adoption of IIIF tooling. The design of IIIF-compliant resources, tools, and interfaces must be people-focused and meet clearly defined needs.
+  link: /community/groups/UX 
+  type: community 
+  notes: https://drive.google.com/open?id=1TtTXBMBJCNl3qsQQgIWI0lcbXVbpM-E7
+  meeting_frequency: Every four weeks on Thursday  
 # - id: discovery 
 #   label: Discovery 
 #   alternate_names: 
