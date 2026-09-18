@@ -12,7 +12,7 @@ breadcrumbs:
 
 # About
 
-The IIIF Accessibility and Usability Community Group is committed to authoring, collecting, and sharing recommendations for creating accessible and user-friendly IIIF-compliant resources and interfaces. Our mission is to ensure the success and widespread adoption of IIIF tooling. The design of IIIF-compliant resources, tools, and interfaces must be people-focused and meet clearly defined needs. To support these efforts, we actively engage with experts in usability, accessibility, and human-computer interaction, as well as institutions, individuals, and end-users of IIIF tooling. To enhance access to content, this group will advocate for user-centered strategies that encompass all aspects of digitization and IIIF content consumption. Our goal is to improve the discovery, use, and reuse of IIIF resources across institutional and domain silos.
+The IIIF Accessibility & Usability Community Group is committed to authoring, collecting, and sharing recommendations for creating accessible and user-friendly IIIF-compliant resources and interfaces. Our mission is to ensure the success and widespread adoption of IIIF tooling. The design of IIIF-compliant resources, tools, and interfaces must be people-focused and meet clearly defined needs. To support these efforts, we actively engage with experts in usability, accessibility, and human-computer interaction, as well as institutions, individuals, and end-users of IIIF tooling. To enhance access to content, this group will advocate for user-centered strategies that encompass all aspects of digitization and IIIF content consumption. Our goal is to improve the discovery, use, and reuse of IIIF resources across institutional and domain silos.
 
 
 ## Scope

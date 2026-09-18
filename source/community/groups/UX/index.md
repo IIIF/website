@@ -40,10 +40,4 @@ The full charter can be found [here](https://iiif.io/community/groups/ux/charter
 
 
 
-
-[iiif-calendar]: {{ site.root_url | absolute_url }}/community/groups/
-[international-zoom]: https://zoom.us/zoomconference
-
-
-
 {% include acronyms.md %}
