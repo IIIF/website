@@ -48,15 +48,7 @@ Many institutions that use IIIF will use one of the common IIIF Viewers and you 
 
 ### Mirador
 
-Mirador is an Open-source, web based, multi-window image viewing 
-platform with the ability to zoom, display, compare and annotate
-images from around the world. Version 4, released in October 2025,
-is the current release and the focus of community development. It
-brings a refreshed interface, improved keyboard navigation and
-accessibility, fuller support for IIIF Presentation API 3.0 features,
-and a modernized plugin ecosystem. Versions 2 and 3 are still in
-production at a number of institutions but are no longer maintained,
-so new installations should use version 4. A demo instance of Mirador can be found at [https://projectmirador.org/demo/](https://projectmirador.org/demo/).
+Mirador is an Open-source, web based, multi-window image viewing platform with the ability to zoom, display, compare and annotate images from around the world. Version 4, released in October 2025, is the current release and the focus of community development. It brings a refreshed interface, improved keyboard navigation and accessibility, fuller support for IIIF Presentation API 3.0 features, and a modernized plugin ecosystem. Versions 2 and 3 are still in production at a number of institutions but are no longer maintained, so new installations should use version 4. A demo instance of Mirador can be found at [https://projectmirador.org/demo/](https://projectmirador.org/demo/).
 
 **Export:** The Manifest URL can be found in the information panel. Click the menu icon at the top left of a window to open the sidebar, select the `About this item` tab, and scroll to the `Links` section at the bottom, where the URL is given under `IIIF manifest`. This can be copied and pasted into another viewer or another instance of Mirador.
 
