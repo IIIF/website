@@ -12,7 +12,7 @@ breadcrumbs:
 
 ## About
 
-_If you're looking for the original [A/V TSG page]({{ site.root_url | absolute_url }}/community/groups/av/av-tsg), that has been moved now that this group has transition into a Community Group_
+_If you're looking for the original [A/V TSG page]({{ site.root_url | absolute_url }}/community/groups/av/av-tsg), that has been moved now that this group has transitioned into a Community Group_
 
 
 The Audio/Video (A/V) community group exists to provide a forum focused on the experiences of users and implementers working with audio, video, and moving image content and tools in the context of IIIF specifications. The Community Group was formed at the conclusion of the IIIF AV Technical Specification Group, which informed the addition of new audio and moving image capabilities in version 3.0 of the IIIF Presentation API.
