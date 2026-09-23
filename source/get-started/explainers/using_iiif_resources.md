@@ -48,48 +48,22 @@ Many institutions that use IIIF will use one of the common IIIF Viewers and you 
 
 ### Mirador
 
-Mirador is an Open-source, web based, multi-window image viewing platform with the ability to zoom, display, compare and annotate images from around the world. It comes in two major versions. Version 2 has been around for a number of years and is in production in many institutions. Version 3 was released in 2020 and is under active development. A number of institutions are running version 3 in production.
+Mirador is an Open-source, web based, multi-window image viewing 
+platform with the ability to zoom, display, compare and annotate
+images from around the world. Version 4, released in October 2025,
+is the current release and the focus of community development. It
+brings a refreshed interface, improved keyboard navigation and
+accessibility, fuller support for IIIF Presentation API 3.0 features,
+and a modernized plugin ecosystem. Versions 2 and 3 are still in
+production at a number of institutions but are no longer maintained,
+so new installations should use version 4. A demo instance of Mirador can be found at [https://projectmirador.org/demo/](https://projectmirador.org/demo/).
 
-A demo instance of Mirador can be found at [https://projectmirador.org/](https://mirador-dev.netlify.app/__tests__/integration/mirador/).
+**Export:** The Manifest URL can be found in the information panel. Click the menu icon at the top left of a window to open the sidebar, select the `About this item` tab, and scroll to the `Links` section at the bottom, where the URL is given under `IIIF manifest`. This can be copied and pasted into another viewer or another instance of Mirador.
 
-#### Mirador 2
+**Import:** 
+* Method 1: Drag and drop As seen earlier it is possible to drag a IIIF logo into a Mirador window to open up the IIIF Manifest. 
+* Method 2: Paste URL As well as the drag and drop method there is also a more reliable paste from URL option. Click the blue plus button at the top left of the workspace to open the resource list, then click `Add resource` at the bottom right and paste the manifest URL into the `Resource location` box. Clicking `Add` loads the manifest and opens it in a new window.
 
-**Export**:
-In Mirador The Manifest URL can be found by clicking the `info` button in Mirador and scrolling to the bottom of the metadata window. This can be copied and pasted into another viewer or another instance of Mirador. In the example below the URL is copied and then pasted using the UV demo URL.
-
-<div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/_P9TBJIY4UM" allow="encrypted-media" allowfullscreen></iframe>
-</div>    
-
-**Import**:
- * Method 1: Drag and drop
-
-As seen earlier it is possible to drag a IIIF logo into a Mirador window to open up the IIIF Manifest.
-
- * Method 2: Paste URL
-
-As well as the drag and drop method there is also a more reliable paste from URL option. To do this navigate to the ‘Replace options’ screen and paste the URL into the box at the top right labeled `Add new object from URL`. See the following video:
-
-<div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/R33IJtil8tg" allow="encrypted-media" allowfullscreen></iframe>
-</div>    
-
-#### Mirador 3
-
-**Export**
-
-Exporting in Mirador 3 is similar to Mirador 2 in that the URL to the Manifest is in the metadata panel. To access this click the information button on the top left. You should find the manifest at the bottom of the panel.
-
-<div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/splaQ6kWw2M" allow="encrypted-media" allowfullscreen></iframe>
-</div>    
-
-**Import:**
-To add a manifest, click the big blue plus sign at the top left. This gives you a list of resources that are currently loaded into Mirador 3. To add another click the ‘Add resources’ button at the bottom and this will give you the option to add a URL to a manifest.
-
-<div class="video-container">
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/0KEiGkkNVnM" allow="encrypted-media" allowfullscreen></iframe>
-</div>    
 
 ### Universal Viewer (UV)
 
@@ -182,8 +156,7 @@ Simply drag and drop the IIIF logo on to the Viewer.
 
 Below are list of links to viewers including links where you can add your own manifests:
 
- * [Mirador 2](https://projectmirador.org/) - [http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=](http://www.getty.edu/art/collection/static/viewers/mirador/?manifest=)
- * [Mirador 3](https://mirador-dev.netlify.com/)
+ * [Mirador](https://projectmirador.org/demo/)
  * [UniversalViewer](https://universalviewer.io/examples/) - [https://universalviewer.io/uv.html?manifest=](https://universalviewer.io/uv.html?manifest=)
  * [Tify](https://tify.rocks/) - [https://tify.rocks/](hhttps://tify.rocks/)
  * [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/) - [http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=)
