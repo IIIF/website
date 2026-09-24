@@ -28,7 +28,7 @@ The full charter can be found [here](https://iiif.io/community/groups/ux/charter
 **Chairs:**
 
 * Brittny Lapierre, Canadian Research Knowledge Network
-* Matthias Müller-Prove
+* Matthias Müller-Prove, Chrono Research Lab
 * Meredith Steinfels, Hood Museum of Art
 
 
