@@ -24,9 +24,9 @@ View the [course syllabus](https://training.iiif.io/iiif-online-workshop/index.h
 
 ## Diversity fellowship tickets
 
-We are committed to inclusivity and reducing barriers to learning about the Framework. If you do not have funding to attend a workshop and count yourself among an under-represented gruop (racial, ethnic, national origin, sexual orientation, gender identity, mental or physical disability, or others) you may register for a free fellowship seat.
+We are committed to inclusivity and reducing barriers to learning about the Framework. If you do not have funding to attend a workshop and count yourself among an under-represented group (racial, ethnic, national origin, sexual orientation, gender identity, mental or physical disability, or others) you may register for a discounted fellowship seat.
 
-Diversity fellowship tickets are available via the honor system; we do not require documentation to claim these tickets. To register for a fellowship ticket, select the “fellowship ticket” option on Eventbrite.
+Diversity fellowship tickets are available via the honor system; we do not require documentation to claim these tickets. If the nominal fee for fellowship tickets is cost prohibitive please email [staff@iiif.io](mailto:staff@iiif.io). To register for a fellowship ticket, select the “fellowship ticket” option on Eventbrite.
 
 ## Register for an upcoming workshop
 
