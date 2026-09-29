@@ -7,15 +7,6 @@
 #      link: "https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079"
 #  location:
 #    label: "Online"
-- label: "AI4LAM-IIIF-IIPC Showcase"
-  time:
-    start: 2026-03-12T10:00:00Z
-    end: 2026-03-12T10:00:00Z
-  links:
-    - label: More info
-      link: "https://netpreserve.org/event/ai4lam-iiif-iipc-showcase/"
-  location:
-    label: "Online"    
 - label: IIIF 2027 Online Meeting
   time:
     start: 2027-01-26T06:00:00Z
@@ -25,13 +16,13 @@
       link: "/event/2027/online-meeting/"
   location: 
     label: "Online"  
-#- label: 2027 IIIF Annual Conference & Showcase
-#  time:
-#    start: 2027-01-26T06:00:00Z
-#    end: 2027-01-28T23:00:00Z
-#  links:
-#    - label: More info
-#      link: "https://iiif.io/event/2027/paris/"
-#  location: 
-#    label: "Paris, France"      
+- label: 2027 IIIF Annual Conference & Showcase
+  time:
+    start: 2027-06-07T06:00:00Z
+    end: 2027-06-11T23:00:00Z
+  links:
+    - label: More info
+      link: "https://iiif.io/event/2027/paris/"
+  location: 
+    label: "Paris, France"      
 
