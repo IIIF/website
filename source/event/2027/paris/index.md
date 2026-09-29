@@ -8,5 +8,7 @@ breadcrumbs:
     link: '{{ site.root_url }}/event/2027/paris/'
 hero:
   image: ""
-  subtitle: 
+  subtitle: 7-11 June 2027
 ---
+
+## Conference Website in Production
