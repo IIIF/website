@@ -77,7 +77,7 @@
 #  name: Ingo Pfennigstorf
 #  role: 2
 - institution: Harvard University
-  name: Rashmi Singhal
+  name: David Flood
   role: 2
 - institution: Indiana University
   name: Jon Cameron
@@ -118,9 +118,9 @@
 #- institution: National Library of Poland
 #  name: 
 #  role: 2
-#- institution: National Library of Finland
-#  name: Ronja Koistinen
-#  role: 2
+- institution: National Library of Finland
+  name: Tuula Pääkkönen
+  role: 2
 - institution: National Library of Wales
   name: Ioan Isaac Richards
   role: 2
@@ -128,7 +128,7 @@
   name: Mat Jordan
   role: 2
 - institution: New York University Libraries
-  name: Alberto Ortiz Flores
+  name: Marii Nyrop
   role: 2
 - institution: NC State University Libraries
   name: Jason Ronallo
@@ -149,13 +149,13 @@
   name: Andrew Gunther
   role: 2
 - institution: Stanford University
-  name: Chris Beer
+  name: Justin Coyne
   role: 2
 - institution: University of California, Los Angeles
   name: Kevin Clarke
   role: 2
 - institution: University of Edinburgh
-  name: Scott Renton
+  name: Lucy Pennington
   role: 2
 - institution: University of Leeds
   name: Peter Edwards
@@ -187,6 +187,9 @@
 - institution: Vatican Library
   name: Paola Manoni
   role: 2
+- institution: Vanderbilt University Libraries
+  name: Erin Geier
+  role: 2
 #- institution: Research Computing Group at Saint Louis University
 #  name: Patrick Cuba
 #  role: 2
@@ -206,15 +209,15 @@
 - institution: Cogapp
   name: Tristan Roddis
   role: 4
-- institution: Max Planck Institute for the History of Science, Berlin
-  name: Robert Casties
+- institution: Drexel University Metadata Research Center | ARK Alliance
+  name: John Kunze
   role: 4
-- institution:  University of Wisconsin-Milwaukee
-  name: Ann Hanlon
+- institution: Indiana University 
+  name: Jon Cameron
   role: 4
-- institution: Saint Louis University
-  name: Patrick Cuba
+- institution: Stanford University, Mirador viewer
+  name: Marlo Longley
   role: 4
-- institution: Biblissima - Campus Condorcet - EPHE-PSL
-  name: Régis Robineau  
+- institution: Huygens Institute / Full Of Stack
+  name: Pierre-Edouard Barrault
   role: 4
