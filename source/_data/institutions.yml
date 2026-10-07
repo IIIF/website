@@ -223,6 +223,9 @@
 - name: MediaLibraryOnLine (MLOL)
   uri: https://www.medialibrary.it
   iiifc: 4
+- name: Metropolitan New York Library Council (METRO)
+  uri: https://metro.org/
+  iiifc: 4
 - name: Mnemoscene
   uri: http://mnemoscene.io
   iiifc:
@@ -313,6 +316,9 @@
   uri: https://www.library.northwestern.edu/
   iiifc: 3
   logo: assets/uploads/logos/northwestern.jpg
+- name: Notch8
+  uri: https://www.notch8.com/
+  iiifc: 4
 - name: OCLC
   uri: http://www.oclc.org/
   iiifc: 2
