@@ -7,6 +7,12 @@
 #      link: "https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079"
 #  location:
 #    label: "Online"
+- label: Practical AI Tools for Working with IIIF Images
+  time:
+    start: 2026-12-02T16:00:00Z
+    end: 2026-12-02T19:00:00Z
+  location: 
+    label: "Online"  
 - label: IIIF 2027 Online Meeting
   time:
     start: 2027-01-26T06:00:00Z
